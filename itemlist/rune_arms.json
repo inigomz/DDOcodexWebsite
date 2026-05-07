@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Acid Rune Arm",
+    "link": "https://ddowiki.com/page/Item:Acid_Rune_Arm",
+    "minLevel": ".mw-parser-output span.popup.has_tooltip{border-bottom:1px dashed #999999;cursor:pointer;position:relative}.mw-parser-output span.popup.has_tooltip>span.popup.tooltip{background-color:#EEEEEE;background-color:var(--background-color-neutral,#EEEEEE);color:#202122;color:var(--color-base,#202122);border:1px solid #333333;border-radius:3px;box-shadow:3px 5px 10px;cursor:text;display:none;left:-125px;margin:0px;max-width:450px;padding:5px;top:14px;z-index:10000}.mw-parser-output span.popup.has_tooltip:hover>span.popup.tooltip{display:block;left:0;position:absolute;top:1.2em;width:200%}Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Animus",
+    "link": "https://ddowiki.com/page/Item:Animus",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Archaic Device",
+    "link": "https://ddowiki.com/page/Item:Archaic_Device",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip or Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Arcing Sky (level 13)",
+    "link": "https://ddowiki.com/page/Item:Arcing_Sky_(level_13)",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Arcing Sky (level 23)",
+    "link": "https://ddowiki.com/page/Item:Arcing_Sky_(level_23)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Arcing Sky (level 24)",
+    "link": "https://ddowiki.com/page/Item:Arcing_Sky_(level_24)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Arcing Sky (level 25)",
+    "link": "https://ddowiki.com/page/Item:Arcing_Sky_(level_25)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Arm of the Archons",
+    "link": "https://ddowiki.com/page/Item:Arm_of_the_Archons",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Blight Inferno",
+    "link": "https://ddowiki.com/page/Item:Blight_Inferno",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Breaking the Bank",
+    "link": "https://ddowiki.com/page/Item:Breaking_the_Bank",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Candlelight",
+    "link": "https://ddowiki.com/page/Item:Candlelight",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Chill of Winter (level 13)",
+    "link": "https://ddowiki.com/page/Item:Chill_of_Winter_(level_13)",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Chill of Winter (level 23)",
+    "link": "https://ddowiki.com/page/Item:Chill_of_Winter_(level_23)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Chill of Winter (level 24)",
+    "link": "https://ddowiki.com/page/Item:Chill_of_Winter_(level_24)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Chill of Winter (level 25)",
+    "link": "https://ddowiki.com/page/Item:Chill_of_Winter_(level_25)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Chimera's Breath",
+    "link": "https://ddowiki.com/page/Item:Chimera%27s_Breath",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Chulchannad's Claw",
+    "link": "https://ddowiki.com/page/Item:Chulchannad%27s_Claw",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Coronach (historic)",
+    "link": "https://ddowiki.com/page/Item:Coronach_(historic)",
+    "minLevel": "Bound to Account on Acquire, ExclusiveBound to Account on Acquire: This item is Bound to Account on AcquireThis is an Exclusive item.  You may only carry one at a time.",
+    "enhancements": []
+  },
+  {
+    "name": "Coronach",
+    "link": "https://ddowiki.com/page/Item:Coronach",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Corruption of Nature (level 15)",
+    "link": "https://ddowiki.com/page/Item:Corruption_of_Nature_(level_15)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Corruption of Nature (level 16)",
+    "link": "https://ddowiki.com/page/Item:Corruption_of_Nature_(level_16)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Corruption of Nature (level 17)",
+    "link": "https://ddowiki.com/page/Item:Corruption_of_Nature_(level_17)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Corruption of Nature (level 22)",
+    "link": "https://ddowiki.com/page/Item:Corruption_of_Nature_(level_22)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Corruption of Nature (level 23)",
+    "link": "https://ddowiki.com/page/Item:Corruption_of_Nature_(level_23)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Corruption of Nature (level 24)",
+    "link": "https://ddowiki.com/page/Item:Corruption_of_Nature_(level_24)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Dinosaur Bone Runearm",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Runearm",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Driftwood",
+    "link": "https://ddowiki.com/page/Item:Driftwood",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Echoes of Night",
+    "link": "https://ddowiki.com/page/Item:Echoes_of_Night",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Epic Arm of the Archons",
+    "link": "https://ddowiki.com/page/Item:Epic_Arm_of_the_Archons",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Epic Candlelight",
+    "link": "https://ddowiki.com/page/Item:Epic_Candlelight",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Epic Coronach",
+    "link": "https://ddowiki.com/page/Item:Epic_Coronach",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Epic Resplendence",
+    "link": "https://ddowiki.com/page/Item:Epic_Resplendence",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Epic Whirling Words",
+    "link": "https://ddowiki.com/page/Item:Epic_Whirling_Words",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Fire Rune Arm",
+    "link": "https://ddowiki.com/page/Item:Fire_Rune_Arm",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Flame Warden",
+    "link": "https://ddowiki.com/page/Item:Flame_Warden",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Flicker",
+    "link": "https://ddowiki.com/page/Item:Flicker",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Force Rune Arm",
+    "link": "https://ddowiki.com/page/Item:Force_Rune_Arm",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Frozen Contraption",
+    "link": "https://ddowiki.com/page/Item:Frozen_Contraption",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Glass Cannon (legacy) (tier 1)",
+    "link": "https://ddowiki.com/page/Item:Glass_Cannon_(legacy)_(tier_1)",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Glass Cannon (legacy) (tier 2)",
+    "link": "https://ddowiki.com/page/Item:Glass_Cannon_(legacy)_(tier_2)",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Glass Cannon (legacy) (tier 3)",
+    "link": "https://ddowiki.com/page/Item:Glass_Cannon_(legacy)_(tier_3)",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Glass Cannon",
+    "link": "https://ddowiki.com/page/Item:Glass_Cannon",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Glorious Obscenity",
+    "link": "https://ddowiki.com/page/Item:Glorious_Obscenity",
+    "minLevel": "Bound to AccountBound to Account: This item is Bound to Account",
+    "enhancements": []
+  },
+  {
+    "name": "Greater Acid Rune Arm",
+    "link": "https://ddowiki.com/page/Item:Greater_Acid_Rune_Arm",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Greater Fire Rune Arm",
+    "link": "https://ddowiki.com/page/Item:Greater_Fire_Rune_Arm",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Greater Force Rune Arm",
+    "link": "https://ddowiki.com/page/Item:Greater_Force_Rune_Arm",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Greater Ice Rune Arm",
+    "link": "https://ddowiki.com/page/Item:Greater_Ice_Rune_Arm",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Greater Lightning Rune Arm",
+    "link": "https://ddowiki.com/page/Item:Greater_Lightning_Rune_Arm",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Greater Radiant Rune Arm",
+    "link": "https://ddowiki.com/page/Item:Greater_Radiant_Rune_Arm",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Hand of the Tombs",
+    "link": "https://ddowiki.com/page/Item:Hand_of_the_Tombs",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Ice Rune Arm",
+    "link": "https://ddowiki.com/page/Item:Ice_Rune_Arm",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Khyber's Fury",
+    "link": "https://ddowiki.com/page/Item:Khyber%27s_Fury",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Knives Eternal",
+    "link": "https://ddowiki.com/page/Item:Knives_Eternal",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Blight Inferno",
+    "link": "https://ddowiki.com/page/Item:Legendary_Blight_Inferno",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Breaking the Bank",
+    "link": "https://ddowiki.com/page/Item:Legendary_Breaking_the_Bank",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Echoes of Night",
+    "link": "https://ddowiki.com/page/Item:Legendary_Echoes_of_Night",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Frozen Contraption",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frozen_Contraption",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Lucid Dreams",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lucid_Dreams",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Necronomicannon",
+    "link": "https://ddowiki.com/page/Item:Legendary_Necronomicannon",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Ol' Ironsides",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ol%27_Ironsides",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Prototype I: Siren Test",
+    "link": "https://ddowiki.com/page/Item:Legendary_Prototype_I:_Siren_Test",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Prototype II: Cooling Mechanism",
+    "link": "https://ddowiki.com/page/Item:Legendary_Prototype_II:_Cooling_Mechanism",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Prototype III: Propulsion Module",
+    "link": "https://ddowiki.com/page/Item:Legendary_Prototype_III:_Propulsion_Module",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Prototype IV: Discharge System",
+    "link": "https://ddowiki.com/page/Item:Legendary_Prototype_IV:_Discharge_System",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Prototype V: Byproduct Disposal",
+    "link": "https://ddowiki.com/page/Item:Legendary_Prototype_V:_Byproduct_Disposal",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Prototype VI: Impact Redistributor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Prototype_VI:_Impact_Redistributor",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Prototype VII: Flash Transferal",
+    "link": "https://ddowiki.com/page/Item:Legendary_Prototype_VII:_Flash_Transferal",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Quarantine",
+    "link": "https://ddowiki.com/page/Item:Legendary_Quarantine",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Rune Arm of Nature's Wrath",
+    "link": "https://ddowiki.com/page/Item:Legendary_Rune_Arm_of_Nature%27s_Wrath",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Rune Arm of the Great Decay",
+    "link": "https://ddowiki.com/page/Item:Legendary_Rune_Arm_of_the_Great_Decay",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Suppressive Fire",
+    "link": "https://ddowiki.com/page/Item:Legendary_Suppressive_Fire",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Toven's Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Toven%27s_Hammer",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Trial by Fire",
+    "link": "https://ddowiki.com/page/Item:Legendary_Trial_by_Fire",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Legendary Unbridled Power",
+    "link": "https://ddowiki.com/page/Item:Legendary_Unbridled_Power",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Lightning Rune Arm",
+    "link": "https://ddowiki.com/page/Item:Lightning_Rune_Arm",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Lucid Dreams",
+    "link": "https://ddowiki.com/page/Item:Lucid_Dreams",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Machination of Madness",
+    "link": "https://ddowiki.com/page/Item:Machination_of_Madness",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Necronimicannon",
+    "link": "https://ddowiki.com/page/Item:Necronimicannon",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Ol' Ironsides",
+    "link": "https://ddowiki.com/page/Item:Ol%27_Ironsides",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Prototype I: Siren Test",
+    "link": "https://ddowiki.com/page/Item:Prototype_I:_Siren_Test",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Prototype II: Cooling Mechanism",
+    "link": "https://ddowiki.com/page/Item:Prototype_II:_Cooling_Mechanism",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Prototype III: Propulsion Module",
+    "link": "https://ddowiki.com/page/Item:Prototype_III:_Propulsion_Module",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Prototype IV: Discharge System",
+    "link": "https://ddowiki.com/page/Item:Prototype_IV:_Discharge_System",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Prototype V: Byproduct Disposal",
+    "link": "https://ddowiki.com/page/Item:Prototype_V:_Byproduct_Disposal",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Prototype VI: Impact Redistributor",
+    "link": "https://ddowiki.com/page/Item:Prototype_VI:_Impact_Redistributor",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Prototype VII: Flash Transferal",
+    "link": "https://ddowiki.com/page/Item:Prototype_VII:_Flash_Transferal",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Quarantine",
+    "link": "https://ddowiki.com/page/Item:Quarantine",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Radiant Rune Arm",
+    "link": "https://ddowiki.com/page/Item:Radiant_Rune_Arm",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Recoyle",
+    "link": "https://ddowiki.com/page/Item:Recoyle",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Resplendence",
+    "link": "https://ddowiki.com/page/Item:Resplendence",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Rune Arm of Nature's Wrath",
+    "link": "https://ddowiki.com/page/Item:Rune_Arm_of_Nature%27s_Wrath",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Rune Arm of the Great Decay",
+    "link": "https://ddowiki.com/page/Item:Rune_Arm_of_the_Great_Decay",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Sir Squilliam III, Esq.",
+    "link": "https://ddowiki.com/page/Item:Sir_Squilliam_III,_Esq.",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Sir Squilliam IV, Esq.",
+    "link": "https://ddowiki.com/page/Item:Sir_Squilliam_IV,_Esq.",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Sir Squilliam V, Esq.",
+    "link": "https://ddowiki.com/page/Item:Sir_Squilliam_V,_Esq.",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "St. Mu'Ray's Fire",
+    "link": "https://ddowiki.com/page/Item:St._Mu%27Ray%27s_Fire",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Strinati's Hand Cannon",
+    "link": "https://ddowiki.com/page/Item:Strinati%27s_Hand_Cannon",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Suppressive Fire",
+    "link": "https://ddowiki.com/page/Item:Suppressive_Fire",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Arc Welder (close range)",
+    "link": "https://ddowiki.com/page/Item:The_Arc_Welder_(close_range)",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Arc Welder (long range)",
+    "link": "https://ddowiki.com/page/Item:The_Arc_Welder_(long_range)",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Astral Projector",
+    "link": "https://ddowiki.com/page/Item:The_Astral_Projector",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Demon Engine",
+    "link": "https://ddowiki.com/page/Item:The_Demon_Engine",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Devourer's Hunger",
+    "link": "https://ddowiki.com/page/Item:The_Devourer%27s_Hunger",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Disciplinator",
+    "link": "https://ddowiki.com/page/Item:The_Disciplinator",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Dragon Keeper",
+    "link": "https://ddowiki.com/page/Item:The_Dragon_Keeper",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Dumpster Fire",
+    "link": "https://ddowiki.com/page/Item:The_Dumpster_Fire",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Epic Astral Projector",
+    "link": "https://ddowiki.com/page/Item:The_Epic_Astral_Projector",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Legendary Arc Welder (close range)",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Arc_Welder_(close_range)",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Legendary Arc Welder (long range)",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Arc_Welder_(long_range)",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Legendary Dumpster Fire",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Dumpster_Fire",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Pea Shooter",
+    "link": "https://ddowiki.com/page/Item:The_Pea_Shooter",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Turmoil Within (level 13)",
+    "link": "https://ddowiki.com/page/Item:The_Turmoil_Within_(level_13)",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "The Turmoil Within (level 23)",
+    "link": "https://ddowiki.com/page/Item:The_Turmoil_Within_(level_23)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "The Turmoil Within (level 24)",
+    "link": "https://ddowiki.com/page/Item:The_Turmoil_Within_(level_24)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "The Turmoil Within (level 25)",
+    "link": "https://ddowiki.com/page/Item:The_Turmoil_Within_(level_25)",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Thought Spike (starter)",
+    "link": "https://ddowiki.com/page/Item:Thought_Spike_(starter)",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Thought Spike",
+    "link": "https://ddowiki.com/page/Item:Thought_Spike",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Tira's Splendor",
+    "link": "https://ddowiki.com/page/Item:Tira%27s_Splendor",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Titan's Fist",
+    "link": "https://ddowiki.com/page/Item:Titan%27s_Fist",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Toven's Hammer",
+    "link": "https://ddowiki.com/page/Item:Toven%27s_Hammer",
+    "minLevel": "Bound to Character on AcquireBound to Character on Acquire: This item is Bound to Character on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Toven's Prototype",
+    "link": "https://ddowiki.com/page/Item:Toven%27s_Prototype",
+    "minLevel": "Bound to Character on EquipBound to Character on Equip: This item is Bound to Character on Equip",
+    "enhancements": []
+  },
+  {
+    "name": "Trial by Fire",
+    "link": "https://ddowiki.com/page/Item:Trial_by_Fire",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Unbridled Power",
+    "link": "https://ddowiki.com/page/Item:Unbridled_Power",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  },
+  {
+    "name": "Whirling Words",
+    "link": "https://ddowiki.com/page/Item:Whirling_Words",
+    "minLevel": "Bound to Account on AcquireBound to Account on Acquire: This item is Bound to Account on Acquire",
+    "enhancements": []
+  }
+]

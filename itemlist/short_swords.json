@@ -1,0 +1,1340 @@
+[
+  {
+    "name": "Sword of Pain",
+    "link": "https://ddowiki.com/page/Item:Sword_of_Pain",
+    "minLevel": "1",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Acid Touch"
+    ]
+  },
+  {
+    "name": "Nicked Shortsword",
+    "link": "https://ddowiki.com/page/Item:Nicked_Shortsword",
+    "minLevel": "2",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Acidic 2",
+      "Deception +2",
+      "Deadly +3"
+    ]
+  },
+  {
+    "name": "+1 Starter Shortsword",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Shortsword",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Ethereal Shortsword",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Shortsword",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Shortsword",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Shortsword",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Willbreaker",
+    "link": "https://ddowiki.com/page/Item:The_Willbreaker",
+    "minLevel": "3",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Shattermantle",
+      "Bewildering 1",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Garos' Malice",
+    "link": "https://ddowiki.com/page/Item:Garos%27_Malice",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Fiery 2",
+      "Deception +2",
+      "Doublestrike 4%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Cutthroat's Smallblade (legacy) (level 4)",
+    "link": "https://ddowiki.com/page/Item:Cutthroat%27s_Smallblade_(legacy)_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+1 Enhancement Bonus",
+      "Doublestrike 3%",
+      "Slicing",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3",
+      "Bleed"
+    ]
+  },
+  {
+    "name": "Tiefling Assassin's Blade",
+    "link": "https://ddowiki.com/page/Item:Tiefling_Assassin%27s_Blade",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Keen",
+      "Wounding",
+      "Poison",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Mournlode Shortsword (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Shortsword_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Righteous",
+      "Undead Bane 2"
+    ]
+  },
+  {
+    "name": "Cutthroat's Smallblade (level 4)",
+    "link": "https://ddowiki.com/page/Item:Cutthroat%27s_Smallblade_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Bleeding 2",
+      "Doublestrike 4%",
+      "Hide +6",
+      "Move Silently +6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Ice Dragon's Tooth",
+    "link": "https://ddowiki.com/page/Item:The_Ice_Dragon%27s_Tooth",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Chilling 2",
+      "Minor Freezing Ice",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Shortsword",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Shortsword",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Shortsword",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Shortsword",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Gwylan's Blade",
+    "link": "https://ddowiki.com/page/Item:Gwylan%27s_Blade",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Songblade",
+      "Screaming",
+      "Roaring",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sun Blade",
+    "link": "https://ddowiki.com/page/Item:Sun_Blade",
+    "minLevel": "6",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Flametouched Iron",
+      "+2 vs Evil",
+      "Extra damage vs Undead",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Blade of the Clouds",
+    "link": "https://ddowiki.com/page/Item:Blade_of_the_Clouds",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Favored Weapon",
+      "Cloudburst",
+      "Electrifying 2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Luck Blade",
+    "link": "https://ddowiki.com/page/Item:Luck_Blade",
+    "minLevel": "8",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Good Luck  +1",
+      "Red Augment Slot",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Cutthroat's Smallblade (legacy) (level 8)",
+    "link": "https://ddowiki.com/page/Item:Cutthroat%27s_Smallblade_(legacy)_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+2 Enhancement Bonus",
+      "Doublestrike 3%",
+      "Bleed",
+      "Hide +7",
+      "Move Silently +7",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3",
+      "Slicing"
+    ]
+  },
+  {
+    "name": "Mournlode Shortsword (level 8)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Shortsword_(level_8)",
+    "minLevel": "8",
+    "enhancements": []
+  },
+  {
+    "name": "Cutthroat's Smallblade (level 8)",
+    "link": "https://ddowiki.com/page/Item:Cutthroat%27s_Smallblade_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Bleeding 2",
+      "Doublestrike 6%",
+      "Hide +10",
+      "Move Silently +10",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Shortsword",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Shortsword",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Bravo's Sword",
+    "link": "https://ddowiki.com/page/Item:Bravo%27s_Sword",
+    "minLevel": "10",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Sneak Attack Bonus +5"
+    ]
+  },
+  {
+    "name": "Sting",
+    "link": "https://ddowiki.com/page/Item:Sting",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Large Scorpion Poison",
+      "Wounding 2",
+      "Critical Wounding 2",
+      "Proof Against Poison +5",
+      "Red Augment Slot",
+      "Vulkoor's Chosen"
+    ]
+  },
+  {
+    "name": "Zephyr",
+    "link": "https://ddowiki.com/page/Item:Zephyr",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Destruction",
+      "Shocking Blast 3",
+      "Dusk",
+      "Doublestrike 6%",
+      "Red Augment Slot",
+      "The Desert's Writhing Storm"
+    ]
+  },
+  {
+    "name": "Barovian's Shortsword",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Shortsword",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Shortsword",
+    "link": "https://ddowiki.com/page/Item:Macabre_Shortsword",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Green Steel Shortsword",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Shortsword",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Vampiric Fury Shortsword",
+    "link": "https://ddowiki.com/page/Item:Vampiric_Fury_Shortsword",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Medusa Fury",
+      "Demon Fever",
+      "Wounding 2",
+      "Vampirism 1",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Vengeful Fury Shortsword",
+    "link": "https://ddowiki.com/page/Item:Vengeful_Fury_Shortsword",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Medusa Fury",
+      "Demon Fever",
+      "Wounding 2",
+      "Vengeful",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Maiming Fury Shortsword",
+    "link": "https://ddowiki.com/page/Item:Maiming_Fury_Shortsword",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Medusa Fury",
+      "Demon Fever",
+      "Wounding 2",
+      "Maiming 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Crippling Fury Shortsword",
+    "link": "https://ddowiki.com/page/Item:Crippling_Fury_Shortsword",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Medusa Fury",
+      "Demon Fever",
+      "Wounding 2",
+      "Crippling",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Alchemical Shortsword",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Shortsword",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Cutthroat's Smallblade (legacy) (level 12)",
+    "link": "https://ddowiki.com/page/Item:Cutthroat%27s_Smallblade_(legacy)_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+3 Enhancement Bonus",
+      "Doublestrike 3%",
+      "Slicing",
+      "Bleed",
+      "Hide +11",
+      "Move Silently +11",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3"
+    ]
+  },
+  {
+    "name": "Mournlode Shortsword (level 12)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Shortsword_(level_12)",
+    "minLevel": "12",
+    "enhancements": []
+  },
+  {
+    "name": "Cutthroat's Smallblade (level 12)",
+    "link": "https://ddowiki.com/page/Item:Cutthroat%27s_Smallblade_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Bleeding 3",
+      "Doublestrike 7%",
+      "Hide +14",
+      "Move Silently +14",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shortsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Shortsword_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shortsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Shortsword_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Treason",
+    "link": "https://ddowiki.com/page/Item:Treason",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Deception",
+      "Sneak Attack Bonus +3",
+      "Treason",
+      "Armor-Piercing - 10%",
+      "Upgradeable Item (Stormreaver)"
+    ]
+  },
+  {
+    "name": "Razorend",
+    "link": "https://ddowiki.com/page/Item:Razorend",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Hemorrhaging",
+      "Keen",
+      "Tendon Slice 10%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Moonwillow",
+    "link": "https://ddowiki.com/page/Item:Moonwillow",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Keen",
+      "Vorpal",
+      "Holy 4",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Shortsword",
+    "link": "https://ddowiki.com/page/Item:Syranian_Shortsword",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Cutthroat's Smallblade (legacy) (level 16)",
+    "link": "https://ddowiki.com/page/Item:Cutthroat%27s_Smallblade_(legacy)_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+4 Enhancement Bonus",
+      "Doublestrike 3%",
+      "Slicing",
+      "Bleed",
+      "Hide +13",
+      "Move Silently +13",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3",
+      "Corrosive Salt"
+    ]
+  },
+  {
+    "name": "Envenomed Blade",
+    "link": "https://ddowiki.com/page/Item:Envenomed_Blade",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Poison Blast 4",
+      "Paralyzing",
+      "Armor-Piercing - 12%",
+      "Deadly Spider Venom"
+    ]
+  },
+  {
+    "name": "Mournlode Shortsword (level 16)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Shortsword_(level_16)",
+    "minLevel": "16",
+    "enhancements": []
+  },
+  {
+    "name": "Cutthroat's Smallblade (level 16)",
+    "link": "https://ddowiki.com/page/Item:Cutthroat%27s_Smallblade_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Bleeding 4",
+      "Doublestrike 9%",
+      "Hide +16",
+      "Move Silently +16",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Elemental Fury (level 17)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(level_17)",
+    "minLevel": "17",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Acid II",
+      "Flaming II",
+      "Shock II",
+      "Frost II"
+    ]
+  },
+  {
+    "name": "Elemental Fury (level 18)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(level_18)",
+    "minLevel": "18",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Acid III",
+      "Flaming III",
+      "Shock II",
+      "Frost II"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Shortsword",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Shortsword",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Shortsword",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Shortsword",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Elemental Fury (level 19)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(level_19)",
+    "minLevel": "19",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Acid III",
+      "Flaming III",
+      "Shock III",
+      "Frost III"
+    ]
+  },
+  {
+    "name": "Epic Sting",
+    "link": "https://ddowiki.com/page/Item:Epic_Sting",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Large Scorpion Poison",
+      "Wounding 2",
+      "Critical Wounding 2",
+      "Proof Against Poison +8",
+      "Red Augment Slot",
+      "Epic Vulkoor's Chosen"
+    ]
+  },
+  {
+    "name": "Epic Garos' Malice",
+    "link": "https://ddowiki.com/page/Item:Epic_Garos%27_Malice",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Flaming Blast 4",
+      "Blinding Embers",
+      "Improved Vorpal",
+      "Greater Incineration",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Cutthroat's Smallblade (legacy) (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Cutthroat%27s_Smallblade_(legacy)_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+5 Enhancement Bonus",
+      "Doublestrike 3%",
+      "Slicing",
+      "Bleed",
+      "Hide +15",
+      "Move Silently +15",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3",
+      "Corrosive Salt",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Zephyr",
+    "link": "https://ddowiki.com/page/Item:Epic_Zephyr",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Improved Destruction",
+      "Shocking Blast 4",
+      "Blurry",
+      "Doublestrike 11%",
+      "Red Augment Slot",
+      "The Epic Desert's Writhing Storm"
+    ]
+  },
+  {
+    "name": "Epic Mournlode Shortsword",
+    "link": "https://ddowiki.com/page/Item:Epic_Mournlode_Shortsword",
+    "minLevel": "20",
+    "enhancements": []
+  },
+  {
+    "name": "Star of Day",
+    "link": "https://ddowiki.com/page/Item:Star_of_Day",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Brilliance",
+      "Fiery Detonation",
+      "Radiance",
+      "Disruption",
+      "Flaming Burst",
+      "Greater Good",
+      "Holy Burst"
+    ]
+  },
+  {
+    "name": "Epic Envenomed Blade",
+    "link": "https://ddowiki.com/page/Item:Epic_Envenomed_Blade",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Poison Blast 4",
+      "Improved Paralyzing",
+      "Armor-Piercing - 15%",
+      "Deadly Spider Venom",
+      "Enervation",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Cutthroat's Smallblade (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Cutthroat%27s_Smallblade_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Bleeding 4",
+      "Doublestrike 11%",
+      "Hide +17",
+      "Move Silently +17",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Shortsword",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Shortsword",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Shortsword",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Shortsword",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Drow Shortsword of the Weapon Master",
+    "link": "https://ddowiki.com/page/Item:Drow_Shortsword_of_the_Weapon_Master",
+    "minLevel": "21",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Shortsword",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Shortsword",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Celestia, Brightest Star of Day",
+    "link": "https://ddowiki.com/page/Item:Celestia,_Brightest_Star_of_Day",
+    "minLevel": "23",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Supreme Good",
+      "Radiance",
+      "Greater Sunburst",
+      "Fiery Detonation",
+      "Attuned to Heroism"
+    ]
+  },
+  {
+    "name": "Epic Cutthroat's Smallblade (legacy) (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Cutthroat%27s_Smallblade_(legacy)_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+6 Enhancement Bonus",
+      "Doublestrike 6%",
+      "Slicing",
+      "Bleed",
+      "Hide +17",
+      "Move Silently +17",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3",
+      "Corrosive Salt",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Cutthroat's Smallblade (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Cutthroat%27s_Smallblade_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Bleeding 5",
+      "Doublestrike 12%",
+      "Hide +18",
+      "Move Silently +18",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Rebellion",
+    "link": "https://ddowiki.com/page/Item:Rebellion",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Rebellion",
+      "Sneak Attack Bonus +5",
+      "Armor-Piercing - 15%",
+      "Improved Deception",
+      "Attuned to Heroism",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Elemental Fury (level 26)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(level_26)",
+    "minLevel": "26",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Acid IV",
+      "Flaming IV",
+      "Shock IV",
+      "Frost IV"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Shortsword",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Elemental Fury (level 27)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(level_27)",
+    "minLevel": "27",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Acid V",
+      "Flaming V",
+      "Shock IV",
+      "Frost IV"
+    ]
+  },
+  {
+    "name": "Legendary Blade of the Clouds",
+    "link": "https://ddowiki.com/page/Item:Legendary_Blade_of_the_Clouds",
+    "minLevel": "27",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Favored Weapon",
+      "Cloudburst",
+      "Electrifying 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Elemental Fury (level 28)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Fury_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Acid V",
+      "Flaming V",
+      "Shock V",
+      "Frost V"
+    ]
+  },
+  {
+    "name": "Echo of the Sunsword",
+    "link": "https://ddowiki.com/page/Item:Echo_of_the_Sunsword",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Coruscating 6",
+      "Blazing 14",
+      "Undead Bane 6",
+      "Brazen Brilliance",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Cutthroat's Smallblade (level 28)",
+    "link": "https://ddowiki.com/page/Item:Epic_Cutthroat%27s_Smallblade_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Bleeding 6",
+      "Doublestrike 14%",
+      "Hide +19",
+      "Move Silently +19",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Timeshard",
+    "link": "https://ddowiki.com/page/Item:Timeshard",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Doublestrike 15%",
+      "Identity Crisis",
+      "Legendary Paralysis",
+      "Freedom of Movement",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Sunsword",
+    "link": "https://ddowiki.com/page/Item:Sunsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Coruscating 6",
+      "Blazing 14",
+      "Undead Bane 6",
+      "Brazen Brilliance",
+      "Sunsword's Power"
+    ]
+  },
+  {
+    "name": "The Broken Blade of Constellation",
+    "link": "https://ddowiki.com/page/Item:The_Broken_Blade_of_Constellation",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Nearly Finished",
+      "Purple Augment Slot",
+      "Fetters of Unreality",
+      "Completed Weapon",
+      "Cursed Maelstrom",
+      "Accursed Flame",
+      "Improved Destruction",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Moonwillow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Moonwillow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Sovereign Vorpal",
+      "Holy 6",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Legendary Willbreaker",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Willbreaker",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Shattermantle",
+      "Keen",
+      "Critical Bewildering 3",
+      "Bewildering 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Esper, the Shadowblade",
+    "link": "https://ddowiki.com/page/Item:Esper,_the_Shadowblade",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Shadowblade",
+      "Impactful 6",
+      "Force Blast 6",
+      "Sovereign Nightmares",
+      "Constricting Nightmare",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Shortsword",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Shortsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Shortsword",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Shortsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Shortsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Shortsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Alchemical Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Shortsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Shortsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Envenomed Blade",
+    "link": "https://ddowiki.com/page/Item:Legendary_Envenomed_Blade",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Poison Blast 6",
+      "Legendary Paralysis",
+      "Armor-Piercing - 21%",
+      "Legendary Virulent Poison",
+      "Enervation",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Garos' Malice",
+    "link": "https://ddowiki.com/page/Item:Legendary_Garos%27_Malice",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Flaming Blast 6",
+      "Legendary Blinding Embers",
+      "Sovereign Vorpal",
+      "Overwhelming Incineration",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Sting",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sting",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Virulent Poison",
+      "Wounding 3",
+      "Critical Wounding 3",
+      "Proof Against Poison +11",
+      "Purple Augment Slot",
+      "Red Augment Slot",
+      "Legendary Vulkoor's Chosen"
+    ]
+  },
+  {
+    "name": "Legendary Zephyr",
+    "link": "https://ddowiki.com/page/Item:Legendary_Zephyr",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Shocking Blast 6",
+      "Lesser Displacement",
+      "Doublestrike 15%",
+      "The Legendary Desert's Writhing Storm",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Shortsword",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Shortsword",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Shortsword",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Shortsword",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Crippling Fury Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Crippling_Fury_Shortsword",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Medusa Fury",
+      "Legendary Demon Fever",
+      "Wounding 3",
+      "Crippling",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Maiming Fury Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Maiming_Fury_Shortsword",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Medusa Fury",
+      "Legendary Demon Fever",
+      "Wounding 3",
+      "Maiming 6",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Vampiric Fury Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Vampiric_Fury_Shortsword",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Medusa Fury",
+      "Legendary Demon Fever",
+      "Wounding 3",
+      "Vampirism 3",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Vengeful Fury Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Vengeful_Fury_Shortsword",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Medusa Fury",
+      "Legendary Demon Fever",
+      "Wounding 3",
+      "Vengeful",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cutthroat's Smallblade (level 32)",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cutthroat%27s_Smallblade_(level_32)",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Bleeding 6",
+      "Doublestrike 16%",
+      "Hide +21",
+      "Move Silently +21",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Shortsword",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Shortsword",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shortsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shortsword_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shortsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shortsword_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Finality, the Fall of the Sun",
+    "link": "https://ddowiki.com/page/Item:Finality,_the_Fall_of_the_Sun",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Flamescale",
+      "Legendary Slay Living",
+      "Legendary Negation",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Shortsword of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Shortsword_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Shortsword",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Shortsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Shortsword",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

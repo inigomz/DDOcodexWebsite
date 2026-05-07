@@ -1,0 +1,691 @@
+[
+  {
+    "name": "Pastemaker",
+    "link": "https://ddowiki.com/page/Item:Pastemaker",
+    "minLevel": "2",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Intimidate +3",
+      "Bluff +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ethereal Greatclub",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Greatclub",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Greatclub",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Greatclub",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Moonhowl Axe",
+    "link": "https://ddowiki.com/page/Item:Moonhowl_Axe",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Proficiency: Greatclub",
+      "Screaming",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Crystallized Eternity (level 4)",
+    "link": "https://ddowiki.com/page/Item:Crystallized_Eternity_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Tendon Slice +3",
+      "Electrifying 2",
+      "Freezing 4",
+      "Armor-Piercing - 5%"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Greatclub",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Greatclub",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Greatclub",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Greatclub",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Muck's Devastation",
+    "link": "https://ddowiki.com/page/Item:Muck%27s_Devastation",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Ooze Bane 2",
+      "Crushing 5",
+      "Blazing 5",
+      "Smashing 5",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Greatclub of the Scrag",
+    "link": "https://ddowiki.com/page/Item:Greatclub_of_the_Scrag",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Anarchic 2",
+      "Chilling 2",
+      "Regeneration"
+    ]
+  },
+  {
+    "name": "Dampened Greatclub of the Scrag",
+    "link": "https://ddowiki.com/page/Item:Dampened_Greatclub_of_the_Scrag",
+    "minLevel": "7",
+    "enhancements": [
+      "Dampened",
+      "+2 Enhancement Bonus",
+      "True Chaos",
+      "Cold Touch",
+      "Regeneration"
+    ]
+  },
+  {
+    "name": "Crystallized Eternity (level 8)",
+    "link": "https://ddowiki.com/page/Item:Crystallized_Eternity_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Tendon Slice +4",
+      "Electrifying 2",
+      "Freezing 6",
+      "Armor-Piercing - 8%"
+    ]
+  },
+  {
+    "name": "Calamitous Greatclub",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Greatclub",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Greatclub",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Greatclub",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Greatclub",
+    "link": "https://ddowiki.com/page/Item:Macabre_Greatclub",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Green Steel Greatclub",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Greatclub",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Alchemical Greatclub",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Greatclub",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Crystallized Eternity (level 12)",
+    "link": "https://ddowiki.com/page/Item:Crystallized_Eternity_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Tendon Slice +5",
+      "Electrifying 3",
+      "Freezing 7",
+      "Armor-Piercing - 10%"
+    ]
+  },
+  {
+    "name": "Greatclub of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Greatclub_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Impact",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Greatclub of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Greatclub_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Devastation",
+    "link": "https://ddowiki.com/page/Item:Shining_Devastation",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Everbright",
+      "Adamantine",
+      "Impellent",
+      "Blinding Flash",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Greatclub",
+    "link": "https://ddowiki.com/page/Item:Syranian_Greatclub",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Crystallized Eternity (level 16)",
+    "link": "https://ddowiki.com/page/Item:Crystallized_Eternity_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Tendon Slice +6",
+      "Electrifying 4",
+      "Freezing 9",
+      "Armor-Piercing - 12%"
+    ]
+  },
+  {
+    "name": "The Mad Lute",
+    "link": "https://ddowiki.com/page/Item:The_Mad_Lute",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Metalline",
+      "Shrieking",
+      "Thunderclap",
+      "Resonance +84",
+      "Spell Penetration II",
+      "Sonic Lore V",
+      "Proficiency: Greatclub",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Bonesplitter",
+    "link": "https://ddowiki.com/page/Item:Bonesplitter",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Fracturing",
+      "Bonesplitter",
+      "Blunt Trauma",
+      "Impact",
+      "Maiming"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Greatclub",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Greatclub",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Greatclub",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Greatclub",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Greatclub of the Scrag",
+    "link": "https://ddowiki.com/page/Item:Epic_Greatclub_of_the_Scrag",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Greater Regeneration",
+      "Anarchic Burst 4",
+      "Icy Blast 4",
+      "Impact",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Crystallized Eternity (level 20)",
+    "link": "https://ddowiki.com/page/Item:Crystallized_Eternity_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Tendon Slice +8",
+      "Electrifying 4",
+      "Freezing 10",
+      "Armor-Piercing - 15%"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Greatclub",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Greatclub",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Greatclub",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Greatclub",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Muck's Obliteration",
+    "link": "https://ddowiki.com/page/Item:Muck%27s_Obliteration",
+    "minLevel": "21",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Ooze Bane 5",
+      "Crushing 11",
+      "Blazing 11",
+      "Smashing 11",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Greatclub",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Greatclub",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Mizzen-Mast Splinter",
+    "link": "https://ddowiki.com/page/Item:Mizzen-Mast_Splinter",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Fracturing",
+      "Improved Destruction",
+      "Felling the Oak",
+      "Shrieking VI",
+      "Anarchic VII",
+      "Impact",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Crystallized Eternity (level 24)",
+    "link": "https://ddowiki.com/page/Item:Crystallized_Eternity_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Tendon Slice +9",
+      "Electrifying 5",
+      "Freezing 12",
+      "Armor-Piercing - 17%"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Greatclub",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Greatclub",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Crystallized Eternity (level 28)",
+    "link": "https://ddowiki.com/page/Item:Crystallized_Eternity_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Tendon Slice +10",
+      "Electrifying 6",
+      "Freezing 13",
+      "Armor-Piercing - 20%"
+    ]
+  },
+  {
+    "name": "Conqueror of Bone",
+    "link": "https://ddowiki.com/page/Item:Conqueror_of_Bone",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Impact",
+      "Bonesplitter",
+      "Blunt Trauma",
+      "Fracturing 6",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Greatclub",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Greatclub",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Greatclub",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Greatclub",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Greatclub",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Greatclub",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Greatclub",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Greatclub",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Greatclub",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Greatclub",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Greatclub of the Scrag",
+    "link": "https://ddowiki.com/page/Item:Legendary_Greatclub_of_the_Scrag",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Strength of Purpose",
+      "Anarchic Burst 6",
+      "Icy Blast 6",
+      "Impact",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Greatclub",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Greatclub",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Greatclub",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Greatclub",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Crystallized Eternity (level 32)",
+    "link": "https://ddowiki.com/page/Item:Crystallized_Eternity_(level_32)",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Tendon Slice +11",
+      "Electrifying 6",
+      "Freezing 15",
+      "Armor-Piercing - 22%"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Greatclub",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Greatclub",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Collapse, the Crusher of Souls",
+    "link": "https://ddowiki.com/page/Item:Collapse,_the_Crusher_of_Souls",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Felling the Oak",
+      "Cursed Maelstrom",
+      "Blunt Trauma",
+      "Overwhelming Shockwave",
+      "Ghost Touch",
+      "Planar Searing",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "Legendary Forbidden Knowledge"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Greatclub",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Greatclub",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Greatclub of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Greatclub_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Impact",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Greatclub of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Greatclub_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Greatclub of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Greatclub_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Greatclub",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Greatclub",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Greatclub",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Greatclub",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

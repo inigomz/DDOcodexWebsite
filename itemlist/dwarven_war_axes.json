@@ -1,0 +1,821 @@
+[
+  {
+    "name": "Ethereal Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Dwarven_Waraxe",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Dwarven_Waraxe",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Copper Dwarven War Axe",
+    "link": "https://ddowiki.com/page/Item:Copper_Dwarven_War_Axe",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Doublestrike 4%",
+      "Righteous",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Dwarven_Waraxe",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Dwarven_Waraxe",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Dwarven_Waraxe",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Dwarven_Waraxe",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Macabre_Dwarven_Waraxe",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Green Steel Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Dwarven_Waraxe",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Alchemical Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Dwarven_Waraxe",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "The Mountain's Fist (level 12)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "The Mountain's Fist (level 13)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Dwarven Waraxe of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Dwarven_Waraxe_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dwarven Waraxe of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Dwarven_Waraxe_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sever",
+    "link": "https://ddowiki.com/page/Item:Sever",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Keen",
+      "Limb Chopper",
+      "Destruction",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Axe of Famine",
+    "link": "https://ddowiki.com/page/Item:Axe_of_Famine",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Life-Devouring",
+      "Strength Sapping",
+      "Weakening",
+      "Incite +15"
+    ]
+  },
+  {
+    "name": "The Mountain's Fist (level 14)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Prison Break (level 14)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Acid Burst",
+      "Acid II",
+      "Anarchic I",
+      "Axiomatic I",
+      "Flaming Burst",
+      "Flaming II",
+      "Frost II",
+      "Icy Burst",
+      "Poison II",
+      "Seeker +4",
+      "Shocking Burst",
+      "Shock II",
+      "Shrieking I",
+      "Sundering IV"
+    ]
+  },
+  {
+    "name": "Stormreach Guardian's Axe",
+    "link": "https://ddowiki.com/page/Item:Stormreach_Guardian%27s_Axe",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Chilling 3",
+      "Armor-Piercing - 11%",
+      "Bleeding 3",
+      "Destruction",
+      "Red Augment Slot",
+      "Renegade Champion"
+    ]
+  },
+  {
+    "name": "Prison Break (level 15)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Acid Burst",
+      "Acid II",
+      "Anarchic I",
+      "Axiomatic I",
+      "Flaming Burst",
+      "Flaming II",
+      "Frost II",
+      "Icy Burst",
+      "Poison II",
+      "Seeker +4",
+      "Shocking Burst",
+      "Shock II",
+      "Shrieking I",
+      "Sundering IV"
+    ]
+  },
+  {
+    "name": "Drowhunter",
+    "link": "https://ddowiki.com/page/Item:Drowhunter",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Vorpal",
+      "Elf Bane 4",
+      "Axiomatic 4",
+      "Maiming 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Syranian_Dwarven_Waraxe",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Templar's Justice",
+    "link": "https://ddowiki.com/page/Item:Templar%27s_Justice",
+    "minLevel": "16",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Cold Iron",
+      "Holy Burst 4",
+      "Good Blast 4",
+      "Coruscating 4",
+      "Godly Wrath"
+    ]
+  },
+  {
+    "name": "Prison Break (level 16)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Acid Burst",
+      "Acid II",
+      "Anarchic I",
+      "Axiomatic I",
+      "Flaming Burst",
+      "Flaming II",
+      "Frost II",
+      "Icy Burst",
+      "Poison II",
+      "Seeker +4",
+      "Shocking Burst",
+      "Shock II",
+      "Shrieking I",
+      "Sundering V"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Dwarven_Waraxe",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Dwarven_Waraxe",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Templar's Justice",
+    "link": "https://ddowiki.com/page/Item:Epic_Templar%27s_Justice",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Holy Burst 4",
+      "Good Blast 4",
+      "Coruscating 4",
+      "Godly Wrath",
+      "Cold Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Dwarven_Waraxe",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Dwarven_Waraxe",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Duergar Waraxe of the Weapon Master",
+    "link": "https://ddowiki.com/page/Item:Duergar_Waraxe_of_the_Weapon_Master",
+    "minLevel": "21",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Dwarven_Waraxe",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "The Mountain's Fist (level 23)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Mountain's Fist (level 24)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Mountain's Fist (level 25)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Prison Break (level 25)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Acid VI",
+      "Anarchic V",
+      "Axiomatic V",
+      "Eldritch IV",
+      "Flaming VI",
+      "Frost VI",
+      "Holy IV",
+      "Improved Banishing",
+      "Improved Vorpal",
+      "Poison VI",
+      "Shock VI",
+      "Shrieking V",
+      "Solar IV",
+      "Sundering VII"
+    ]
+  },
+  {
+    "name": "Prison Break (level 26)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_26)",
+    "minLevel": "26",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Acid VI",
+      "Anarchic V",
+      "Axiomatic V",
+      "Eldritch IV",
+      "Flaming VI",
+      "Frost VI",
+      "Holy IV",
+      "Improved Banishing",
+      "Improved Vorpal",
+      "Poison VI",
+      "Shock VI",
+      "Shrieking V",
+      "Solar IV",
+      "Sundering VIII"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Dwarven_Waraxe",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Prison Break (level 27)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_27)",
+    "minLevel": "27",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Acid VI",
+      "Anarchic V",
+      "Axiomatic V",
+      "Eldritch IV",
+      "Flaming VI",
+      "Frost VI",
+      "Holy IV",
+      "Improved Banishing",
+      "Improved Vorpal",
+      "Poison VI",
+      "Shock VI",
+      "Shrieking V",
+      "Solar IV",
+      "Sundering VIII",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Drowhunter",
+    "link": "https://ddowiki.com/page/Item:Legendary_Drowhunter",
+    "minLevel": "28",
+    "enhancements": [
+      "+13 Enhancement Bonus",
+      "Elf Bane 6",
+      "Axiomatic 6",
+      "Sovereign Vorpal",
+      "Maiming 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Stormreach Guardian's Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Stormreach_Guardian%27s_Axe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Armor-Piercing - 20%",
+      "Bleeding 6",
+      "Improved Destruction",
+      "Red Augment Slot",
+      "Renegade Champion (Legendary)"
+    ]
+  },
+  {
+    "name": "Hoarfrost, Herald of the Bitter Ice",
+    "link": "https://ddowiki.com/page/Item:Hoarfrost,_Herald_of_the_Bitter_Ice",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Nearly Finished",
+      "Purple Augment Slot",
+      "Fetters of Unreality",
+      "Completed Weapon",
+      "Legendary Freezing Ice",
+      "Chilling 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Obsidian Reaver",
+    "link": "https://ddowiki.com/page/Item:The_Obsidian_Reaver",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "Keen",
+      "Armor-Piercing - 21%",
+      "Flamebitten",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Dwarven_Waraxe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Dwarven_Waraxe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Dwarven_Waraxe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Dwarven_Waraxe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Hunter's Axe",
+    "link": "https://ddowiki.com/page/Item:The_Hunter%27s_Axe",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Sovereign Vorpal",
+      "Force Blast 6",
+      "Fetters of Unreality",
+      "Insightful Impulse +74",
+      "Quality Impulse +36",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Dwarven_Waraxe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Alchemical Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Dwarven_Waraxe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Templar's Justice",
+    "link": "https://ddowiki.com/page/Item:Legendary_Templar%27s_Justice",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Holy Burst 6",
+      "Good Blast 6",
+      "Coruscating 6",
+      "Godly Wrath",
+      "Cold Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Dwarven_Waraxe",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Dwarven_Waraxe",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Dwarven_Waraxe",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Demise, the Beginning of the Fall",
+    "link": "https://ddowiki.com/page/Item:Demise,_the_Beginning_of_the_Fall",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fetters of Unreality",
+      "Keen",
+      "Legendary Slay Living",
+      "Identity Crisis",
+      "Planar Searing",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "Legendary Forbidden Knowledge"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Dwarven_Waraxe",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Dwarven Waraxe of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dwarven_Waraxe_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Dwarven Waraxe of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dwarven_Waraxe_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Dwarven Waraxe of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Dwarven_Waraxe_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Dwarven_Waraxe",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Dwarven_Waraxe",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

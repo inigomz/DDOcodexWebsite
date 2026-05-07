@@ -1,0 +1,774 @@
+[
+  {
+    "name": "Hobble's Crossbow",
+    "link": "https://ddowiki.com/page/Item:Hobble%27s_Crossbow",
+    "minLevel": "2",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Cold Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ethereal Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Repeating_Heavy_Crossbow",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Repeating_Heavy_Crossbow",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Moonlight Slinger",
+    "link": "https://ddowiki.com/page/Item:Moonlight_Slinger",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Chilling 2",
+      "Icy Blast 2",
+      "Freezing 4",
+      "Crippling",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Repeating_Heavy_Crossbow",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Repeating_Heavy_Crossbow",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Scoundrel's Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Scoundrel%27s_Repeating_Heavy_Crossbow",
+    "minLevel": "6",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Acid",
+      "Anarchic",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Repeating_Heavy_Crossbow",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Repeating_Heavy_Crossbow",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Macabre_Repeating_Heavy_Crossbow",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Alchemical Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Repeating_Heavy_Crossbow",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Green Steel Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Repeating_Heavy_Crossbow",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Calomel Banded Heavy Repeater (level 12)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Banded_Heavy_Repeater_(level_12)",
+    "minLevel": "12",
+    "enhancements": []
+  },
+  {
+    "name": "Repeating Heavy Crossbow of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Repeating_Heavy_Crossbow_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Repeating Heavy Crossbow of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Repeating_Heavy_Crossbow_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Trapsmith's Crossbow (level 14)",
+    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "Poison IV",
+      "Doubleshot 5%",
+      "Keen"
+    ]
+  },
+  {
+    "name": "The Fatal Flaw",
+    "link": "https://ddowiki.com/page/Item:The_Fatal_Flaw",
+    "minLevel": "14",
+    "enhancements": [
+      "Keen",
+      "Armor-Piercing - 15%",
+      "Shrieking II",
+      "Improved Vorpal",
+      "+5 Enhancement Bonus",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Trapsmith's Crossbow (level 15)",
+    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "Poison V",
+      "Doubleshot 5%",
+      "Keen"
+    ]
+  },
+  {
+    "name": "Heavy Boltslinger",
+    "link": "https://ddowiki.com/page/Item:Heavy_Boltslinger",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Insightful Armor-Piercing - 6%",
+      "Electrifying 4",
+      "Jolting 9",
+      "Insightful Distant Diversion +5%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thundershot",
+    "link": "https://ddowiki.com/page/Item:Thundershot",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Keen",
+      "Reverberating 4",
+      "Jolting 9",
+      "Blunted Ammunition",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Syranian_Repeating_Heavy_Crossbow",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Silver Slinger",
+    "link": "https://ddowiki.com/page/Item:Silver_Slinger",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Holy Burst 4",
+      "Undead Bane 4",
+      "Weaken Undead",
+      "Blunted Ammunition",
+      "Silver"
+    ]
+  },
+  {
+    "name": "Trapsmith's Crossbow (level 16)",
+    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "Poison V",
+      "Doubleshot 6%",
+      "Keen"
+    ]
+  },
+  {
+    "name": "Calomel Banded Heavy Repeater (level 16)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Banded_Heavy_Repeater_(level_16)",
+    "minLevel": "16",
+    "enhancements": []
+  },
+  {
+    "name": "Shining Reliquary Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Repeating_Heavy_Crossbow",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Repeating_Heavy_Crossbow",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Renovator",
+    "link": "https://ddowiki.com/page/Item:The_Renovator",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 4",
+      "Keen",
+      "Blunt Trauma",
+      "Construct Bane 4",
+      "Red Augment Slot",
+      "Remodeling Renegade"
+    ]
+  },
+  {
+    "name": "Epic Hellfire Crossbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Hellfire_Crossbow",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Flamebitten",
+      "Flaming Blast 4",
+      "Incineration",
+      "Feat",
+      "Scorching Ray",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Silver Slinger",
+    "link": "https://ddowiki.com/page/Item:Epic_Silver_Slinger",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Holy Burst 4",
+      "Undead Bane 4",
+      "Weaken Undead",
+      "Blunted Ammunition",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Calomel Banded Heavy Repeater",
+    "link": "https://ddowiki.com/page/Item:Epic_Calomel_Banded_Heavy_Repeater",
+    "minLevel": "20",
+    "enhancements": []
+  },
+  {
+    "name": "Epic Sworn Silver Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Repeating_Heavy_Crossbow",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Repeating_Heavy_Crossbow",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Repeating_Heavy_Crossbow",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Trapsmith's Crossbow (level 25)",
+    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Poison VII",
+      "Doubleshot 8%",
+      "Keen"
+    ]
+  },
+  {
+    "name": "Trapsmith's Crossbow (level 26)",
+    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(level_26)",
+    "minLevel": "26",
+    "enhancements": [
+      "Poison VIII",
+      "Doubleshot 8%",
+      "Keen"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Repeating_Heavy_Crossbow",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Trapsmith's Crossbow (level 27)",
+    "link": "https://ddowiki.com/page/Item:Trapsmith%27s_Crossbow_(level_27)",
+    "minLevel": "27",
+    "enhancements": [
+      "Poison VIII",
+      "Doubleshot 9%",
+      "Keen"
+    ]
+  },
+  {
+    "name": "The Epic Fatal Flaw",
+    "link": "https://ddowiki.com/page/Item:The_Epic_Fatal_Flaw",
+    "minLevel": "28",
+    "enhancements": [
+      "Keen",
+      "Armor-Piercing - 20%",
+      "Shrieking V",
+      "Sovereign Vorpal",
+      "+12 Enhancement Bonus",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Heavy Boltslinger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Heavy_Boltslinger",
+    "minLevel": "28",
+    "enhancements": [
+      "+13 Enhancement Bonus",
+      "Insightful Armor-Piercing - 10%",
+      "Electrifying 6",
+      "Jolting 14",
+      "Insightful Distant Diversion +9%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Thundershot",
+    "link": "https://ddowiki.com/page/Item:Legendary_Thundershot",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Reverberating 6",
+      "Jolting 14",
+      "Blunted Ammunition",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Stickerclick, the Bitter Hail of Bolts",
+    "link": "https://ddowiki.com/page/Item:Stickerclick,_the_Bitter_Hail_of_Bolts",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Nearly Finished",
+      "Purple Augment Slot",
+      "Fetters of Unreality",
+      "Completed Weapon",
+      "Sovereign Vorpal",
+      "Bleeding 6",
+      "Ranged Alacrity 20%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Repeating_Heavy_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Repeating_Heavy_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Repeating_Heavy_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Repeating_Heavy_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Repeating_Heavy_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Silver Slinger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Silver_Slinger",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Holy Burst 6",
+      "Undead Bane 6",
+      "Weaken Undead",
+      "Blunted Ammunition",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Hellfire Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hellfire_Crossbow",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Flamebitten",
+      "Flaming Blast 6",
+      "Overwhelming Incineration",
+      "Feat",
+      "Scorching Ray",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Repeating_Heavy_Crossbow",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Repeating_Heavy_Crossbow",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Repeating_Heavy_Crossbow",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Anarchist's Crossbow",
+    "link": "https://ddowiki.com/page/Item:The_Anarchist%27s_Crossbow",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Thorny Crown of Madness 7",
+      "Glass Shards",
+      "Cursed Maelstrom",
+      "Ranged Alacrity 20%",
+      "Planar Searing",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "Legendary Forbidden Knowledge"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Repeating_Heavy_Crossbow",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary The Renovator",
+    "link": "https://ddowiki.com/page/Item:Legendary_The_Renovator",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 6",
+      "Keen",
+      "Blunt Trauma",
+      "Construct Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "Legendary Remodeling Renegade"
+    ]
+  },
+  {
+    "name": "Legendary Repeating Heavy Crossbow of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Repeating_Heavy_Crossbow_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Repeating Heavy Crossbow of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Repeating_Heavy_Crossbow_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Repeating Heavy Crossbow of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Repeating_Heavy_Crossbow_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Moonlight Slinger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Moonlight_Slinger",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 7",
+      "Icy Blast 7",
+      "Freezing 15",
+      "Limb Chopper",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Statica, the Concentrated Charge",
+    "link": "https://ddowiki.com/page/Item:Statica,_the_Concentrated_Charge",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Lightning Lash",
+      "Lightning Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist",
+      "Exceptional Spell Focus Mastery +2",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Lash, the Arbalest of Arcs",
+    "link": "https://ddowiki.com/page/Item:Lash,_the_Arbalest_of_Arcs",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lightning Lash",
+      "Sparkscale",
+      "Legendary Armor-Piercing - 5%",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Repeating_Heavy_Crossbow",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Repeating Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Repeating_Heavy_Crossbow",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

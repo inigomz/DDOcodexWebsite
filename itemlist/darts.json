@@ -1,0 +1,728 @@
+[
+  {
+    "name": "Lump of Coal",
+    "link": "https://ddowiki.com/page/Item:Lump_of_Coal",
+    "minLevel": "1",
+    "enhancements": []
+  },
+  {
+    "name": "Snowball",
+    "link": "https://ddowiki.com/page/Item:Snowball",
+    "minLevel": "1",
+    "enhancements": [
+      "Icy Burst"
+    ]
+  },
+  {
+    "name": "Sphere of Silver Flame Essence",
+    "link": "https://ddowiki.com/page/Item:Sphere_of_Silver_Flame_Essence",
+    "minLevel": "1",
+    "enhancements": [
+      "Holy"
+    ]
+  },
+  {
+    "name": "Sun Flask",
+    "link": "https://ddowiki.com/page/Item:Sun_Flask",
+    "minLevel": "1",
+    "enhancements": [
+      "Ghost Touch"
+    ]
+  },
+  {
+    "name": "Sworn Silver Dart",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Dart",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ethereal Dart",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Dart",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectre Striker",
+    "link": "https://ddowiki.com/page/Item:Spectre_Striker",
+    "minLevel": "3",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Deception",
+      "Ghost Touch",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Splintermast",
+    "link": "https://ddowiki.com/page/Item:Splintermast",
+    "minLevel": "3",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Bleeding 2",
+      "Tidal 2",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ball o' Yarn",
+    "link": "https://ddowiki.com/page/Item:Ball_o%27_Yarn",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Slowburst",
+      "Entangling Yarn",
+      "Impactful 2",
+      "Bludgeoning 2",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Pumpkin Head",
+    "link": "https://ddowiki.com/page/Item:Pumpkin_Head",
+    "minLevel": "5",
+    "enhancements": []
+  },
+  {
+    "name": "Lesser Vial of Seafog",
+    "link": "https://ddowiki.com/page/Item:Lesser_Vial_of_Seafog",
+    "minLevel": "5",
+    "enhancements": [
+      "Obscuring Mist"
+    ]
+  },
+  {
+    "name": "Greater Vial of Seafog",
+    "link": "https://ddowiki.com/page/Item:Greater_Vial_of_Seafog",
+    "minLevel": "5",
+    "enhancements": [
+      "Solid Fog"
+    ]
+  },
+  {
+    "name": "Bottled Fear",
+    "link": "https://ddowiki.com/page/Item:Bottled_Fear",
+    "minLevel": "5",
+    "enhancements": [
+      "Phantasmal Killer"
+    ]
+  },
+  {
+    "name": "Vial of Seafog",
+    "link": "https://ddowiki.com/page/Item:Vial_of_Seafog",
+    "minLevel": "5",
+    "enhancements": [
+      "Fog Cloud"
+    ]
+  },
+  {
+    "name": "Jolly Roger Bomb",
+    "link": "https://ddowiki.com/page/Item:Jolly_Roger_Bomb",
+    "minLevel": "5",
+    "enhancements": [
+      "Slay Living"
+    ]
+  },
+  {
+    "name": "Skull Head",
+    "link": "https://ddowiki.com/page/Item:Skull_Head",
+    "minLevel": "5",
+    "enhancements": []
+  },
+  {
+    "name": "Ferrocrystal Dart",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Dart",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Dart",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Dart",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightforge Spike",
+    "link": "https://ddowiki.com/page/Item:Nightforge_Spike",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Dart",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Dart",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Dart",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Dart",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Dart",
+    "link": "https://ddowiki.com/page/Item:Macabre_Dart",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Returning",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Alchemical Dart",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Dart",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)",
+      "Returning"
+    ]
+  },
+  {
+    "name": "Dart of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Dart_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dart of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Dart_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Returning Snowball",
+    "link": "https://ddowiki.com/page/Item:Returning_Snowball",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Humanoid Bane 3",
+      "Frostbite",
+      "Freezing 8",
+      "Chilling 3",
+      "Returning",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Dart",
+    "link": "https://ddowiki.com/page/Item:Syranian_Dart",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Twisted Missile",
+    "link": "https://ddowiki.com/page/Item:Twisted_Missile",
+    "minLevel": "17",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "The Dragging of the Depths 4",
+      "Vorpal",
+      "Maiming 4",
+      "Weaken Undead",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Dart",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Dart",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Dart",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Dart",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "+5 Heirloom Spelltouched Dart",
+    "link": "https://ddowiki.com/page/Item:%2B5_Heirloom_Spelltouched_Dart",
+    "minLevel": "20",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Returning",
+      "Flaming",
+      "Steam",
+      "Strength Sapping"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Dart",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Dart",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Dart",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Dart",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Splintermast",
+    "link": "https://ddowiki.com/page/Item:Epic_Splintermast",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Bleeding 4",
+      "Tidal 4",
+      "Crushing Wave",
+      "Ghostbane 4",
+      "Corrosive Salt",
+      "Returning",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Dart",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Dart",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Returning",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Coffin Nail",
+    "link": "https://ddowiki.com/page/Item:Coffin_Nail",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Returning",
+      "Doubleshot 8%",
+      "Keen",
+      "Improved Paralyzing",
+      "Improved Slowburst",
+      "Improved Vorpal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Dart",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel",
+      "Returning"
+    ]
+  },
+  {
+    "name": "Epic Returning Snowball",
+    "link": "https://ddowiki.com/page/Item:Epic_Returning_Snowball",
+    "minLevel": "27",
+    "enhancements": [
+      "+13 Enhancement Bonus",
+      "Humanoid Bane 6",
+      "Frostbite",
+      "Freezing 13",
+      "Chilling 6",
+      "Returning",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Gloaming Philter",
+    "link": "https://ddowiki.com/page/Item:Gloaming_Philter",
+    "minLevel": "27",
+    "enhancements": [
+      "Returning",
+      "Negative Energy"
+    ]
+  },
+  {
+    "name": "Legendary Spectre Striker",
+    "link": "https://ddowiki.com/page/Item:Legendary_Spectre_Striker",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Deception",
+      "Bleeding 6",
+      "Piercing 6",
+      "Ghost Touch",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Twisted Missile",
+    "link": "https://ddowiki.com/page/Item:Legendary_Twisted_Missile",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "The Dragging of the Depths 6",
+      "Sovereign Vorpal",
+      "Maiming 6",
+      "Weaken Undead",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Dart",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Dart",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Dart",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Dart",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Returning",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Dart",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Dart",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Dart",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot",
+      "Returning"
+    ]
+  },
+  {
+    "name": "Legendary Splintermast",
+    "link": "https://ddowiki.com/page/Item:Legendary_Splintermast",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Bleeding 6",
+      "Tidal 6",
+      "Crushing Tsunami",
+      "Ghostbane 6",
+      "Concentrated Corrosive Salt",
+      "Returning",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Immortal Sun Flask",
+    "link": "https://ddowiki.com/page/Item:The_Immortal_Sun_Flask",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Brilliance of the Shattered Sun",
+      "Ghostbane 6",
+      "Flaming Blast 6",
+      "Good Blast 6",
+      "Returning",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Dart",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Dart",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Dart",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Dart",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Dart",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Dart",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Humanoid Bane 6",
+      "Taint of Evil",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ball o' Yarn",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ball_o%27_Yarn",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Slowburst",
+      "Legendary Entangling Yarn",
+      "Impactful 6",
+      "Bludgeoning 6",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Dart of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dart_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Dart of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dart_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Dart of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Dart_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Dart",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Dart",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

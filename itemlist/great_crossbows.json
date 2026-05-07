@@ -1,0 +1,677 @@
+[
+  {
+    "name": "Oladren's Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Oladren%27s_Great_Crossbow",
+    "minLevel": "1",
+    "enhancements": [
+      "Keen",
+      "Cold Touch"
+    ]
+  },
+  {
+    "name": "Ethereal Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Great_Crossbow",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Great_Crossbow",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectral Great Crossbow (level 4)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Crushing 4"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Great_Crossbow",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Great_Crossbow",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Leverage",
+    "link": "https://ddowiki.com/page/Item:Leverage",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Lesser Human Bane",
+      "Heartseeker I",
+      "Frostbite",
+      "Insightful Sneak Attack Bonus +2",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Masthead",
+    "link": "https://ddowiki.com/page/Item:Masthead",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Cursespewing",
+      "Aligned",
+      "Ghost Touch",
+      "The Dread Isle's Curse",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectral Great Crossbow (level 8)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Vorpal",
+      "Crushing 6"
+    ]
+  },
+  {
+    "name": "Calamitous Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Great_Crossbow",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Warden's Hand Turret",
+    "link": "https://ddowiki.com/page/Item:Warden%27s_Hand_Turret",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Paralyzing",
+      "Manslayer",
+      "Lesser Boneshatter",
+      "Bludgeoning 2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Great_Crossbow",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Macabre_Great_Crossbow",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Alchemical Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Great_Crossbow",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Green Steel Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Great_Crossbow",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Spectral Great Crossbow (level 12)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Ghostbane 3",
+      "Evil Outsider Bane 3",
+      "Vorpal",
+      "Crushing 7"
+    ]
+  },
+  {
+    "name": "Divine Artillery",
+    "link": "https://ddowiki.com/page/Item:Divine_Artillery",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Deception III",
+      "Eldritch III",
+      "Vorpal",
+      "Stealth Strike",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Great Crossbow of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Great_Crossbow_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Great Crossbow of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Great_Crossbow_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Rumbling Thunder",
+    "link": "https://ddowiki.com/page/Item:Rumbling_Thunder",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Reverberating 4",
+      "Jolting 9",
+      "Vorpal",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Syranian_Great_Crossbow",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectral Great Crossbow (level 16)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 9"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Great_Crossbow",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Great_Crossbow",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectral Great Crossbow (level 20)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 10"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Great_Crossbow",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Great_Crossbow",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Great_Crossbow",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectral Great Crossbow (level 24)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Ghostbane 5",
+      "Evil Outsider Bane 5",
+      "Greater Vorpal",
+      "Crushing 12"
+    ]
+  },
+  {
+    "name": "Epic Leverage",
+    "link": "https://ddowiki.com/page/Item:Epic_Leverage",
+    "minLevel": "26",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Greater Human Bane",
+      "Heartseeker VI",
+      "Frostbite",
+      "Insightful Sneak Attack Bonus +6",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Great_Crossbow",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Epic Divine Artillery",
+    "link": "https://ddowiki.com/page/Item:Epic_Divine_Artillery",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Deception IX",
+      "Eldritch VI",
+      "Sovereign Vorpal",
+      "Stealth Strike",
+      "Flametouched Iron",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Volley, Arbalest of the Damned",
+    "link": "https://ddowiki.com/page/Item:Volley,_Arbalest_of_the_Damned",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Identity Crisis",
+      "Nightmares",
+      "Fetters of Unreality",
+      "Blunted Ammunition",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectral Great Crossbow (level 28)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 13"
+    ]
+  },
+  {
+    "name": "Legendary Rumbling Thunder",
+    "link": "https://ddowiki.com/page/Item:Legendary_Rumbling_Thunder",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Reverberating 6",
+      "Jolting 14",
+      "Sovereign Vorpal",
+      "Red Augment Slot",
+      "Adamantine"
+    ]
+  },
+  {
+    "name": "Morninglord's Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Great_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Great_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Great_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Great_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Great_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Masthead",
+    "link": "https://ddowiki.com/page/Item:Legendary_Masthead",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Cursespewing",
+      "Aligned",
+      "Ghost Touch",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Red Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Great_Crossbow",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Great_Crossbow",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Great_Crossbow",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Great_Crossbow",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Great Crossbow of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Great_Crossbow_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Great Crossbow of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Great_Crossbow_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Great Crossbow of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Great_Crossbow_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Caustica, the Volley of Pain",
+    "link": "https://ddowiki.com/page/Item:Caustica,_the_Volley_of_Pain",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lingering Acidic Burn",
+      "Acid Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist",
+      "Exceptional Spell Focus Mastery +2",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Acrida, the Caustic Arbalest",
+    "link": "https://ddowiki.com/page/Item:Acrida,_the_Caustic_Arbalest",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Meltscale",
+      "Lingering Acidic Burn",
+      "Sovereign Vorpal",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Great_Crossbow",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Great_Crossbow",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Warden's Hand Turret",
+    "link": "https://ddowiki.com/page/Item:Legendary_Warden%27s_Hand_Turret",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Paralysis",
+      "Legendary Manslayer",
+      "Bonesplitter",
+      "Bludgeoning 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

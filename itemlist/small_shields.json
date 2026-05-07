@@ -1,0 +1,622 @@
+[
+  {
+    "name": "A Garbage Can Lid?",
+    "link": "https://ddowiki.com/page/Item:A_Garbage_Can_Lid%3F",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Impact",
+      "Bludgeoning 4",
+      "Shield Bashing +12",
+      "Exceptional Healing Amplification +8",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Aegis of the First Watch",
+    "link": "https://ddowiki.com/page/Item:Aegis_of_the_First_Watch",
+    "minLevel": "1",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Sheltering +3",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Alchemical Light Shield",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Light_Shield",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "An Inexplicably Legendary Garbage Can Lid?",
+    "link": "https://ddowiki.com/page/Item:An_Inexplicably_Legendary_Garbage_Can_Lid%3F",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Impact",
+      "Bludgeoning 6",
+      "Shield Bashing +20%",
+      "Exceptional Healing Amplification +15",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Azure Targe",
+    "link": "https://ddowiki.com/page/Item:Azure_Targe",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Quality Magical Sheltering +5",
+      "Shield Bashing +14%",
+      "Feat",
+      "Insightful  Diversion +6%",
+      "Forbidden Knowledge",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Battleworn Shield",
+    "link": "https://ddowiki.com/page/Item:Battleworn_Shield",
+    "minLevel": "1",
+    "enhancements": [
+      "Masterwork",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Cataclysmic Small Shield",
+    "link": "https://ddowiki.com/page/Item:Cataclysmic_Small_Shield",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Celestial Oak",
+    "link": "https://ddowiki.com/page/Item:Celestial_Oak",
+    "minLevel": "27",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Magical Sheltering +33",
+      "Quality Constitution +3",
+      "Healers Bounty",
+      "Quality Wizardry +66",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Chitin Shield",
+    "link": "https://ddowiki.com/page/Item:Chitin_Shield",
+    "minLevel": "1",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Azure Targe",
+    "link": "https://ddowiki.com/page/Item:Defiled_Azure_Targe",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Insightful Shield Bashing +6",
+      "Shield Bashing +14%",
+      "Unholy 4",
+      "Insightful  Diversion +6%",
+      "Forbidden Knowledge",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Small Shield",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Small_Shield",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Scale Slot (Armor): Empty",
+      "Isle of Dread: Fang Slot (Armor): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Emerald Twilight",
+    "link": "https://ddowiki.com/page/Item:Emerald_Twilight",
+    "minLevel": "27",
+    "enhancements": [
+      "+8 Enhancement Bonus",
+      "Riposte VII",
+      "Guardbreaking",
+      "Speed XV",
+      "Upgradeable - Primary Augment",
+      "Upgradeable - Secondary Augment"
+    ]
+  },
+  {
+    "name": "Epic Shield of the Demonic Soldier",
+    "link": "https://ddowiki.com/page/Item:Epic_Shield_of_the_Demonic_Soldier",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Dazing VII",
+      "Impact",
+      "Quality Magical Sheltering +2",
+      "Melee Power +6",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Smash 'n Grabber",
+    "link": "https://ddowiki.com/page/Item:Epic_Smash_%27n_Grabber",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Shield Bashing +15%",
+      "Bludgeoning 4",
+      "Riposte +4",
+      "Parrying +4",
+      "Epic Saltmarsh Explorer",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Weathered Targe",
+    "link": "https://ddowiki.com/page/Item:Epic_Weathered_Targe",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Electric Absorption +27%",
+      "Natural Armor +9",
+      "Insightful Magical Sheltering +11",
+      "Quality Magical Sheltering +5",
+      "Densewood",
+      "Purple Augment Slot",
+      "Red Augment Slot",
+      "Epic Menechtarun Scavenger"
+    ]
+  },
+  {
+    "name": "Frostforged Small Shield",
+    "link": "https://ddowiki.com/page/Item:Frostforged_Small_Shield",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Guardbreaking",
+      "Insightful Physical Sheltering +5",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Horseshoe Crab Shield (level 26)",
+    "link": "https://ddowiki.com/page/Item:Horseshoe_Crab_Shield_(level_26)",
+    "minLevel": "26",
+    "enhancements": [
+      "+11 Enhancement Bonus",
+      "Improved Bashing",
+      "Natural Armor +11",
+      "Insightful Sheltering +5",
+      "Exceptional Seeker +5",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Horseshoe Crab Shield (level 7)",
+    "link": "https://ddowiki.com/page/Item:Horseshoe_Crab_Shield_(level_7)",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Bashing",
+      "Natural Armor +3",
+      "Insightful Sheltering +1",
+      "Insightful Seeker +2",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Alchemical Small Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Small_Shield",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Azure Targe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Azure_Targe",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Quality Magical Sheltering +8",
+      "Shield Bashing +22%",
+      "Feat",
+      "Insightful  Diversion +10%",
+      "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Small Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Small_Shield",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Azure Targe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Azure_Targe",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Insightful Shield Bashing +10",
+      "Shield Bashing +22%",
+      "Unholy 6",
+      "Insightful  Diversion +10%",
+      "Taint of Evil",
+      "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Frostforged Small Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frostforged_Small_Shield",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Guardbreaking",
+      "Insightful Physical Sheltering +18",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Small Shield of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Small_Shield_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Shield Bashing +23%",
+      "Shield Spikes",
+      "Rough Hide +14",
+      "Legendary Conditioning +10%",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Small Shield of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Small_Shield_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Shield Bashing +23%",
+      "Legendary Conditioning +10%",
+      "Shield Spikes",
+      "Guardbreaking",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Smash 'n Grabber",
+    "link": "https://ddowiki.com/page/Item:Legendary_Smash_%27n_Grabber",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Shield Bashing +21",
+      "Bludgeoning 6",
+      "Riposte +6",
+      "Parrying +6",
+      "Legendary Saltmarsh Explorer",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Warsword Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Warsword_Shield",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Sheltering +33",
+      "Insightful Magical Sheltering +16",
+      "Incite +120",
+      "Riposte +6",
+      "Orange Augment Slot",
+      "Adherent of the Mists Set (Legendary)"
+    ]
+  },
+  {
+    "name": "Legendary Weathered Targe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Weathered_Targe",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electric Absorption +35%",
+      "Natural Armor +13",
+      "Insightful Magical Sheltering +16",
+      "Quality Magical Sheltering +8",
+      "Densewood",
+      "Legendary Menechtarun Scavenger",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Wreckage of the Drowned Rat",
+    "link": "https://ddowiki.com/page/Item:Legendary_Wreckage_of_the_Drowned_Rat",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Profane Well Rounded +2",
+      "Profane Lifeforce +47",
+      "Profane Negative Amplification +56",
+      "Quality Intelligence +3",
+      "Red Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Shield of Morning (level 17)",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(level_17)",
+    "minLevel": "17",
+    "enhancements": [
+      "Shield of Lesser Sunburst",
+      "+3 Enhancement Bonus",
+      "Solar Guard III",
+      "Axeblock IV",
+      "Bashing IV",
+      "Deathblock IV",
+      "Hammerblock IV",
+      "Riposte IV",
+      "Spearblock IV",
+      "Vitality +20",
+      "Blue Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shield of Morning (level 18)",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(level_18)",
+    "minLevel": "18",
+    "enhancements": [
+      "Shield of Lesser Sunburst",
+      "+4 Enhancement Bonus",
+      "Solar Guard III",
+      "Axeblock IV",
+      "Bashing IV",
+      "Deathblock IV",
+      "Hammerblock IV",
+      "Riposte IV",
+      "Spearblock IV",
+      "Vitality +20",
+      "Blue Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shield of Morning (level 19)",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(level_19)",
+    "minLevel": "19",
+    "enhancements": [
+      "Shield of Lesser Sunburst",
+      "+5 Enhancement Bonus",
+      "Solar Guard IV",
+      "Axeblock IV",
+      "Bashing IV",
+      "Deathblock IV",
+      "Hammerblock IV",
+      "Riposte IV",
+      "Spearblock IV",
+      "Vitality +20",
+      "Blue Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shield of Morning (level 26)",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(level_26)",
+    "minLevel": "26",
+    "enhancements": [
+      "Shield of Greater Sunburst",
+      "+6 Enhancement Bonus",
+      "Solar Guard VI",
+      "Axeblock VII",
+      "Bashing VII",
+      "Deathblock VII",
+      "Hammerblock VII",
+      "Insightful Combat Mastery +4",
+      "Riposte VII",
+      "Spearblock VII",
+      "Vitality +35",
+      "Blue Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shield of Morning (level 27)",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(level_27)",
+    "minLevel": "27",
+    "enhancements": [
+      "Shield of Greater Sunburst",
+      "+7 Enhancement Bonus",
+      "Solar Guard VI",
+      "Axeblock VII",
+      "Bashing VII",
+      "Deathblock VII",
+      "Hammerblock VII",
+      "Insightful Combat Mastery +4",
+      "Riposte VII",
+      "Spearblock VII",
+      "Vitality +35",
+      "Blue Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shield of Morning (level 28)",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Morning_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "Shield of Greater Sunburst",
+      "+8 Enhancement Bonus",
+      "Solar Guard VII",
+      "Axeblock VII",
+      "Bashing VII",
+      "Deathblock VII",
+      "Hammerblock VII",
+      "Insightful Combat Mastery +4",
+      "Riposte VII",
+      "Spearblock VII",
+      "Vitality +35",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shield of the Demonic Soldier",
+    "link": "https://ddowiki.com/page/Item:Shield_of_the_Demonic_Soldier",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Dazing IV",
+      "Impact",
+      "Sheltering +3",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Silver Lining",
+    "link": "https://ddowiki.com/page/Item:Silver_Lining",
+    "minLevel": "27",
+    "enhancements": [
+      "+8 Enhancement Bonus",
+      "Doublestrike 6%",
+      "Insightful Combat Mastery +5",
+      "Resistance +10",
+      "Hardened Spikes",
+      "Upgradeable - Primary Augment",
+      "Upgradeable - Secondary Augment"
+    ]
+  },
+  {
+    "name": "Small Shield of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Small_Shield_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Shield Bashing +11%",
+      "Shield Spikes",
+      "Rough Hide +7",
+      "Legendary Conditioning +10%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Small Shield of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Small_Shield_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Shield Bashing +11%",
+      "Legendary Conditioning +10%",
+      "Shield Spikes",
+      "Guardbreaking",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Smash 'n Grabber",
+    "link": "https://ddowiki.com/page/Item:Smash_%27n_Grabber",
+    "minLevel": "3",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Shield Bashing +5%",
+      "Bludgeoning 2",
+      "Saltmarsh Explorer",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Twisted Metal",
+    "link": "https://ddowiki.com/page/Item:Twisted_Metal",
+    "minLevel": "21",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Shield Bashing +15",
+      "Shield Spikes",
+      "Bleeding 5",
+      "Speed +30%",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Warsword Shield",
+    "link": "https://ddowiki.com/page/Item:Warsword_Shield",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Sheltering +14",
+      "Insightful Magical Sheltering +6",
+      "Incite +59",
+      "Riposte +2",
+      "Orange Augment Slot",
+      "Adherent of the Mists Set (Heroic)"
+    ]
+  },
+  {
+    "name": "Weathered Targe",
+    "link": "https://ddowiki.com/page/Item:Weathered_Targe",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electric Absorption +20%",
+      "Natural Armor +6",
+      "Insightful Magical Sheltering +6",
+      "Quality Magical Sheltering +3",
+      "Densewood",
+      "Purple Augment Slot",
+      "Menechtarun Scavenger"
+    ]
+  },
+  {
+    "name": "Wreckage of the Drowned Rat",
+    "link": "https://ddowiki.com/page/Item:Wreckage_of_the_Drowned_Rat",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Profane Well Rounded +1",
+      "Profane Lifeforce +15",
+      "Profane Negative Amplification +17",
+      "Quality Intelligence +1",
+      "The Dread Isle's Curse",
+      "Red Augment Slot"
+    ]
+  }
+]

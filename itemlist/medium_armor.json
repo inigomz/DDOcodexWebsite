@@ -1,0 +1,2172 @@
+[
+  {
+    "name": "+1 Starter Breastplate",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Breastplate",
+    "minLevel": "1",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Starter"
+    ]
+  },
+  {
+    "name": "+5 Cormyrian Engraved Breastplate",
+    "link": "https://ddowiki.com/page/Item:%2B5_Cormyrian_Engraved_Breastplate",
+    "minLevel": "20",
+    "enhancements": [
+      "+5 Enhancement Bonus"
+    ]
+  },
+  {
+    "name": "+5 Stalwart Cormyrian Scalemail",
+    "link": "https://ddowiki.com/page/Item:%2B5_Stalwart_Cormyrian_Scalemail",
+    "minLevel": "20",
+    "enhancements": [
+      "+5 Enhancement Bonus"
+    ]
+  },
+  {
+    "name": "Armor of Midday",
+    "link": "https://ddowiki.com/page/Item:Armor_of_Midday",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Accuracy +11",
+      "Deadly +6",
+      "Insightful Fortitude Save +3",
+      "Quality Deadly +2",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Armor of Midnight",
+    "link": "https://ddowiki.com/page/Item:Armor_of_Midnight",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Accuracy +11",
+      "Deadly +6",
+      "Insightful Fortitude Save +3",
+      "Potency +55",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Bastion of Fealty",
+    "link": "https://ddowiki.com/page/Item:Bastion_of_Fealty",
+    "minLevel": "16",
+    "enhancements": [
+      "Nightshield",
+      "+5 Enhancement Bonus",
+      "Spell Resistance +30",
+      "Mithral",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Battleworn Breastplate",
+    "link": "https://ddowiki.com/page/Item:Battleworn_Breastplate",
+    "minLevel": "1",
+    "enhancements": [
+      "Masterwork",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Battleworn Chainmail",
+    "link": "https://ddowiki.com/page/Item:Battleworn_Chainmail",
+    "minLevel": "1",
+    "enhancements": [
+      "Masterwork",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Black Dragonscale Armor",
+    "link": "https://ddowiki.com/page/Item:Black_Dragonscale_Armor",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Haste Guard",
+      "Armor-Piercing - 10%",
+      "Relentless Fury",
+      "Acid Resistance +30"
+    ]
+  },
+  {
+    "name": "Blessed Vestments",
+    "link": "https://ddowiki.com/page/Item:Blessed_Vestments",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Fortification  +94%",
+      "Physical Sheltering +19",
+      "Competence Healing Amplification +30",
+      "False Life +29",
+      "Blue Augment Slot",
+      "Flamecleansed Fury"
+    ]
+  },
+  {
+    "name": "Blue Dragonscale Armor",
+    "link": "https://ddowiki.com/page/Item:Blue_Dragonscale_Armor",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Spell Penetration II",
+      "Spell Lore VI",
+      "Potency +52",
+      "Electric Resistance +30"
+    ]
+  },
+  {
+    "name": "Breastplate of the Celestial Avenger",
+    "link": "https://ddowiki.com/page/Item:Breastplate_of_the_Celestial_Avenger",
+    "minLevel": "27",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Fortification  +141%",
+      "Speed XV",
+      "Doublestrike 14%",
+      "Sheltering +33",
+      "Parrying +6",
+      "Blurry",
+      "Deathblock IX",
+      "Angelic Grace",
+      "Yellow Augment Slot",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Breastplate of the Celestial Sage",
+    "link": "https://ddowiki.com/page/Item:Breastplate_of_the_Celestial_Sage",
+    "minLevel": "27",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Fortification  +141%",
+      "Quality Reflex Save +3",
+      "Quality Potency +23",
+      "Sheltering +33",
+      "Blurry",
+      "Parrying +6",
+      "Deathblock IX",
+      "Yellow Augment Slot",
+      "Angelic Grace",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Breastplate of the Shining Sun",
+    "link": "https://ddowiki.com/page/Item:Breastplate_of_the_Shining_Sun",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Resistance +6",
+      "Efficient Metamagic - Empower Healing II",
+      "Vitality +20",
+      "Amaunator's Blessing"
+    ]
+  },
+  {
+    "name": "Cavalry Plate (legacy) (level 16)",
+    "link": "https://ddowiki.com/page/Item:Cavalry_Plate_(legacy)_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+4 Enhancement Bonus",
+      "Demonic Shield",
+      "Greater False Life",
+      "DR",
+      "Resistance +4",
+      "Mithral",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3"
+    ]
+  },
+  {
+    "name": "Cladding of Dead Leaves",
+    "link": "https://ddowiki.com/page/Item:Cladding_of_Dead_Leaves",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Exceptional Universal Spell Lore +5%",
+      "Exceptional Universal Spell Power +15",
+      "Physical Sheltering +33",
+      "Parrying +6",
+      "Green Augment Slot",
+      "Eminence of Autumn"
+    ]
+  },
+  {
+    "name": "Coat of Van Richten",
+    "link": "https://ddowiki.com/page/Item:Coat_of_Van_Richten",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Deathblock",
+      "Ghostly",
+      "Physical Sheltering +34",
+      "Profane Well Rounded +2",
+      "Blue Augment Slot",
+      "Green Augment Slot",
+      "Crypt Raider Set (Legendary)"
+    ]
+  },
+  {
+    "name": "Coat of the Traveler",
+    "link": "https://ddowiki.com/page/Item:Coat_of_the_Traveler",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Fortification  +77%",
+      "Parrying +2",
+      "Physical Sheltering +14",
+      "Profane Well Rounded +1",
+      "Blue Augment Slot",
+      "Crypt Raider Set (Heroic)"
+    ]
+  },
+  {
+    "name": "Coldharbor Cladding",
+    "link": "https://ddowiki.com/page/Item:Coldharbor_Cladding",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Fire Shield (Cold)",
+      "Constitution +4",
+      "Dusk",
+      "Spell Resistance +12",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Commander Vishral's Dragonscale",
+    "link": "https://ddowiki.com/page/Item:Commander_Vishral%27s_Dragonscale",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Quality Strength +1",
+      "Fire Absorption +24%",
+      "Spell Resistance +23",
+      "Physical Sheltering +20",
+      "Taint of Evil",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Cormyrian Green Dragonscale Armor",
+    "link": "https://ddowiki.com/page/Item:Cormyrian_Green_Dragonscale_Armor",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Vitality +20",
+      "Acid Resistance +40",
+      "Acid Absorption +20%",
+      "Resistance +6",
+      "Proof Against Poison +10",
+      "Power Store"
+    ]
+  },
+  {
+    "name": "Cormyrian Red Dragonscale Armor",
+    "link": "https://ddowiki.com/page/Item:Cormyrian_Red_Dragonscale_Armor",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Vitality +20",
+      "Fire Resistance +40",
+      "Fire Absorption +20%",
+      "Protection +6",
+      "Fortification +100%",
+      "Seeker +10"
+    ]
+  },
+  {
+    "name": "Crisis Scale",
+    "link": "https://ddowiki.com/page/Item:Crisis_Scale",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Natural Armor +7",
+      "Quality Fortification  +21%",
+      "Insightful Fortitude Save +3",
+      "Vitality +23",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Demonic Breastplate",
+    "link": "https://ddowiki.com/page/Item:Demonic_Breastplate",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Fire Resistance +20",
+      "Cold Resistance +20",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Deneith Heavy Chain",
+    "link": "https://ddowiki.com/page/Item:Deneith_Heavy_Chain",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Physical Sheltering +9",
+      "Life Shield",
+      "Invulnerability",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Scale Plate",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Scale_Plate",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Armor): Empty",
+      "Isle of Dread: Fang Slot (Armor): Empty",
+      "Isle of Dread: Claw Slot (Accessory): Empty",
+      "Isle of Dread: Horn Slot (Accessory): Empty",
+      "Isle of Dread: Set Bonus Slot: Empty",
+      "Green Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Domus' Cuirass",
+    "link": "https://ddowiki.com/page/Item:Domus%27_Cuirass",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Downcast Gambeson",
+    "link": "https://ddowiki.com/page/Item:Downcast_Gambeson",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Competence Elemental Resistance - 5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Dragoncraft Breastplate",
+    "link": "https://ddowiki.com/page/Item:Dragoncraft_Breastplate",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Fortification +75%",
+      "Protection +4",
+      "Shield +4"
+    ]
+  },
+  {
+    "name": "Dragoncrafted Breastplate",
+    "link": "https://ddowiki.com/page/Item:Dragoncrafted_Breastplate",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Cure Serious Wounds"
+    ]
+  },
+  {
+    "name": "Dragontouched Breastplate",
+    "link": "https://ddowiki.com/page/Item:Dragontouched_Breastplate",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Dragontouched"
+    ]
+  },
+  {
+    "name": "Elfcraft Plate Armor",
+    "link": "https://ddowiki.com/page/Item:Elfcraft_Plate_Armor",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Spell Penetration II",
+      "Spell Lore III",
+      "Potency +40",
+      "Mithral"
+    ]
+  },
+  {
+    "name": "Elfcrafted Plate Armor",
+    "link": "https://ddowiki.com/page/Item:Elfcrafted_Plate_Armor",
+    "minLevel": "10",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Mithral"
+    ]
+  },
+  {
+    "name": "Elocator's Habiliment",
+    "link": "https://ddowiki.com/page/Item:Elocator%27s_Habiliment",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Displacement",
+      "Attack Bonus +2",
+      "Jump +10",
+      "Tumble +10",
+      "Feat",
+      "Resistance +5",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Emerald Guard",
+    "link": "https://ddowiki.com/page/Item:Emerald_Guard",
+    "minLevel": "16",
+    "enhancements": [
+      "Nightshield",
+      "+5 Enhancement Bonus",
+      "Attack Bonus +2",
+      "Mithral",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Enchanted Darkleaf Banded Armor",
+    "link": "https://ddowiki.com/page/Item:Enchanted_Darkleaf_Banded_Armor",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Resistance +4",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Enforcer's Coat",
+    "link": "https://ddowiki.com/page/Item:Enforcer%27s_Coat",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Fortification  +94%",
+      "Physical Sheltering +19",
+      "Competence Healing Amplification +30",
+      "False Life +29",
+      "Blue Augment Slot",
+      "Part of the Family"
+    ]
+  },
+  {
+    "name": "Epic Cavalry Plate (legacy) (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Cavalry_Plate_(legacy)_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+6 Enhancement Bonus",
+      "Demonic Shield",
+      "Greater False Life",
+      "DR",
+      "Resistance +5",
+      "Mithral",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Cavalry Plate (legacy) (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Cavalry_Plate_(legacy)_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+6 Enhancement Bonus",
+      "Demonic Shield",
+      "Greater False Life",
+      "DR",
+      "Resistance +7",
+      "Mithral",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Chain of Conviction",
+    "link": "https://ddowiki.com/page/Item:Epic_Chain_of_Conviction",
+    "minLevel": "27",
+    "enhancements": [
+      "Nightshield",
+      "+11 Enhancement Bonus",
+      "Insightful Spell Save +1",
+      "Elemental Resistance +30",
+      "Competence Elemental Resistance - 10",
+      "Insightful Will Save +2",
+      "Insightful Fortitude Save +2",
+      "Upgradeable - Primary Augment",
+      "Upgradeable - Secondary Augment"
+    ]
+  },
+  {
+    "name": "Epic Coldharbor Cladding",
+    "link": "https://ddowiki.com/page/Item:Epic_Coldharbor_Cladding",
+    "minLevel": "25",
+    "enhancements": [
+      "+10 Enhancement Bonus",
+      "Fire Shield (Cold)",
+      "Constitution +11",
+      "Lesser Displacement",
+      "Spell Resistance +26",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Crisis Scale",
+    "link": "https://ddowiki.com/page/Item:Epic_Crisis_Scale",
+    "minLevel": "27",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Natural Armor +12",
+      "Quality Fortification  +33%",
+      "Insightful Fortitude Save +5",
+      "Vitality +41",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Deneith Heavy Chain",
+    "link": "https://ddowiki.com/page/Item:Epic_Deneith_Heavy_Chain",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Life Shield",
+      "Physical Sheltering +24",
+      "False Life +36",
+      "Vertigo +11",
+      "Colorless Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Infested Scalemail",
+    "link": "https://ddowiki.com/page/Item:Epic_Infested_Scalemail",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Fortification  +111%",
+      "Greater Disease Guard",
+      "Sheltering +24",
+      "Demonic Shield",
+      "DR",
+      "Spell Resistance +28",
+      "Blue Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Mournlode Breastplate",
+    "link": "https://ddowiki.com/page/Item:Epic_Mournlode_Breastplate",
+    "minLevel": "20",
+    "enhancements": []
+  },
+  {
+    "name": "Epic Privateer's Leathers",
+    "link": "https://ddowiki.com/page/Item:Epic_Privateer%27s_Leathers",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Fortification  +111%",
+      "Magical Sheltering +24",
+      "Spell Resistance +28",
+      "Spell Save +8",
+      "Blue Augment Slot",
+      "Epic Saltmarsh Explorer"
+    ]
+  },
+  {
+    "name": "Epic Red Dragonscale Armor",
+    "link": "https://ddowiki.com/page/Item:Epic_Red_Dragonscale_Armor",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Eternal Fire",
+      "Fire Lore +16%",
+      "Combustion +111",
+      "Fire Resistance +36",
+      "Fire Guard II",
+      "Incineration Guard",
+      "Colorless Augment Slot",
+      "Blue Augment Slot",
+      "Epic Soul of the Red Dragon"
+    ]
+  },
+  {
+    "name": "Epic Scales of Surety",
+    "link": "https://ddowiki.com/page/Item:Epic_Scales_of_Surety",
+    "minLevel": "27",
+    "enhancements": [
+      "Nightshield",
+      "+11 Enhancement Bonus",
+      "Insightful Constitution +3",
+      "Persuasion",
+      "Haste Guard",
+      "Exceptional Fortification (+50%)",
+      "Greater Nimbleness",
+      "Upgradeable - Primary Augment",
+      "Upgradeable - Secondary Augment"
+    ]
+  },
+  {
+    "name": "Epic Stinkpelt's Hide",
+    "link": "https://ddowiki.com/page/Item:Epic_Stinkpelt%27s_Hide",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Cloudkill",
+      "Constitution +9",
+      "Proof Against Poison +8",
+      "Poison Resistance +36",
+      "Reflex Save +9",
+      "Curse of Repulsiveness",
+      "Blue Augment Slot",
+      "Epic Menechtarun Scavenger"
+    ]
+  },
+  {
+    "name": "Epic Templar's Bastion",
+    "link": "https://ddowiki.com/page/Item:Epic_Templar%27s_Bastion",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "DR",
+      "Spell Resistance +28",
+      "Magical Sheltering +24",
+      "Radiance Guard",
+      "Mithral",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Templar's Chain",
+    "link": "https://ddowiki.com/page/Item:Epic_Templar%27s_Chain",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Physical Sheltering +27",
+      "Superior Undead Guard",
+      "Competence Healing Amplification +43",
+      "Spell Resistance +31",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Flawless Black Dragonscale Armor",
+    "link": "https://ddowiki.com/page/Item:Flawless_Black_Dragonscale_Armor",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Haste Guard",
+      "Armor-Piercing - 15%",
+      "Relentless Fury",
+      "Acid Resistance +40",
+      "Attuned to Heroism",
+      "Draconic Ferocity",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Flawless Blue Dragonscale Armor",
+    "link": "https://ddowiki.com/page/Item:Flawless_Blue_Dragonscale_Armor",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Spell Penetration III",
+      "Spell Lore VI",
+      "Potency +80",
+      "Electric Resistance +40",
+      "Attuned to Heroism",
+      "Draconic Mind",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Flawless White Dragonscale Armor",
+    "link": "https://ddowiki.com/page/Item:Flawless_White_Dragonscale_Armor",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Fortification +100%",
+      "Protection +7",
+      "Shield +6",
+      "Cold Resistance +40",
+      "Attuned to Heroism",
+      "Draconic Resilience",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Fleshshaper's Brigandine",
+    "link": "https://ddowiki.com/page/Item:Fleshshaper%27s_Brigandine",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Negative Energy Absorption +20%",
+      "Fleshmaker",
+      "Disintegration Guard",
+      "Trace of Madness",
+      "Power Drain"
+    ]
+  },
+  {
+    "name": "Full Plate of the Defender",
+    "link": "https://ddowiki.com/page/Item:Full_Plate_of_the_Defender",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mithral",
+      "Fortification  +100%",
+      "Attack Bonus +2",
+      "Protection +4"
+    ]
+  },
+  {
+    "name": "Giantcraft Breastplate",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Breastplate",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Haste Guard",
+      "Vengeful",
+      "Relentless Fury",
+      "Adamantine"
+    ]
+  },
+  {
+    "name": "Giantcrafted Chain Armor",
+    "link": "https://ddowiki.com/page/Item:Giantcrafted_Chain_Armor",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Fortification +25%",
+      "Shield"
+    ]
+  },
+  {
+    "name": "Gravekeeper's Gambeson",
+    "link": "https://ddowiki.com/page/Item:Gravekeeper%27s_Gambeson",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Natural Armor +5",
+      "Good Luck  +2",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Hardened Hide Armor",
+    "link": "https://ddowiki.com/page/Item:Hardened_Hide_Armor",
+    "minLevel": "17",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Fortification  +108%",
+      "Quality Fortification  +26%",
+      "Exceptional Healing Amplification +10",
+      "Greater Nimbleness",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Hero's Breastplate (level 16)",
+    "link": "https://ddowiki.com/page/Item:Hero%27s_Breastplate_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Heroism"
+    ]
+  },
+  {
+    "name": "Hero's Breastplate (level 27)",
+    "link": "https://ddowiki.com/page/Item:Hero%27s_Breastplate_(level_27)",
+    "minLevel": "27",
+    "enhancements": [
+      "+10 Enhancement Bonus",
+      "Greater Heroism"
+    ]
+  },
+  {
+    "name": "Hunter's Hide",
+    "link": "https://ddowiki.com/page/Item:Hunter%27s_Hide",
+    "minLevel": "15",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Physical Sheltering +15",
+      "Parrying +2"
+    ]
+  },
+  {
+    "name": "Imbued Darkleaf Banded Armor",
+    "link": "https://ddowiki.com/page/Item:Imbued_Darkleaf_Banded_Armor",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Resistance +4",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Infested Scalemail",
+    "link": "https://ddowiki.com/page/Item:Infested_Scalemail",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Fortification  +56%",
+      "Disease Guard",
+      "Sheltering +8",
+      "DR",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Insulated Armor",
+    "link": "https://ddowiki.com/page/Item:Insulated_Armor",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Mithral",
+      "Electric Resistance +10",
+      "Lightning Bolt Ward"
+    ]
+  },
+  {
+    "name": "Jinx's Vexation",
+    "link": "https://ddowiki.com/page/Item:Jinx%27s_Vexation",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mithral",
+      "Devotion +60",
+      "Will Save -3",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Lamordian Gambeson",
+    "link": "https://ddowiki.com/page/Item:Lamordian_Gambeson",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Natural Armor +5",
+      "Good Luck  +2",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Leaves of the Forest (level 15)",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Rough Hide +3",
+      "Fortification  +100%",
+      "Exceptional Fortification (+10%)"
+    ]
+  },
+  {
+    "name": "Leaves of the Forest (level 16)",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Rough Hide +3",
+      "Fortification  +100%",
+      "Exceptional Fortification (+10%)"
+    ]
+  },
+  {
+    "name": "Leaves of the Forest (level 17)",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(level_17)",
+    "minLevel": "17",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Rough Hide +4",
+      "Fortification  +100%",
+      "Exceptional Fortification (+25%)"
+    ]
+  },
+  {
+    "name": "Leaves of the Forest (level 22)",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(level_22)",
+    "minLevel": "22",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Fortification  +100%",
+      "Insightful Constitution +3",
+      "Rough Hide +4",
+      "Exceptional Fortification (+25%)",
+      "Insightful Wisdom +2"
+    ]
+  },
+  {
+    "name": "Leaves of the Forest (level 23)",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Fortification  +100%",
+      "Insightful Constitution +3",
+      "Rough Hide +5",
+      "Exceptional Fortification (+25%)",
+      "Insightful Wisdom +3"
+    ]
+  },
+  {
+    "name": "Leaves of the Forest (level 24)",
+    "link": "https://ddowiki.com/page/Item:Leaves_of_the_Forest_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Fortification  +100%",
+      "Insightful Constitution +3",
+      "Rough Hide +6",
+      "Exceptional Fortification (+50%)",
+      "Insightful Wisdom +3"
+    ]
+  },
+  {
+    "name": "Legendary Armor of Midday",
+    "link": "https://ddowiki.com/page/Item:Legendary_Armor_of_Midday",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Accuracy +23",
+      "Deadly +12",
+      "Insightful Fortitude Save +6",
+      "Quality Deadly +3",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Armor of Midnight",
+    "link": "https://ddowiki.com/page/Item:Legendary_Armor_of_Midnight",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Accuracy +23",
+      "Deadly +12",
+      "Insightful Fortitude Save +6",
+      "Potency +109",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Blessed Vestments",
+    "link": "https://ddowiki.com/page/Item:Legendary_Blessed_Vestments",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fortification  +142%",
+      "Physical Sheltering +33",
+      "Competence Healing Amplification +53",
+      "False Life +50",
+      "Green Augment Slot",
+      "Legendary Flamecleansed Fury"
+    ]
+  },
+  {
+    "name": "Legendary Coat of the Traveler",
+    "link": "https://ddowiki.com/page/Item:Legendary_Coat_of_the_Traveler",
+    "minLevel": "29",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Fortification  +142%",
+      "Parrying +6",
+      "Physical Sheltering +33",
+      "Profane Well Rounded +2",
+      "Blue Augment Slot",
+      "Crypt Raider Set (Legendary)"
+    ]
+  },
+  {
+    "name": "Legendary Commander Vishral's Dragonscale",
+    "link": "https://ddowiki.com/page/Item:Legendary_Commander_Vishral%27s_Dragonscale",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Quality Strength +3",
+      "Fire Absorption +36%",
+      "Spell Resistance +40",
+      "Physical Sheltering +35",
+      "Taint of Evil",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Deneith Heavy Chain",
+    "link": "https://ddowiki.com/page/Item:Legendary_Deneith_Heavy_Chain",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Angelic Grace",
+      "Sheltering +34",
+      "False Life +51",
+      "Vertigo +15",
+      "Colorless Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Downcast Gambeson",
+    "link": "https://ddowiki.com/page/Item:Legendary_Downcast_Gambeson",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Competence Elemental Resistance - 15",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Enforcer's Coat",
+    "link": "https://ddowiki.com/page/Item:Legendary_Enforcer%27s_Coat",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fortification  +142%",
+      "Physical Sheltering +33",
+      "Competence Healing Amplification +53",
+      "False Life +50",
+      "Green Augment Slot",
+      "Legendary Part of the Family"
+    ]
+  },
+  {
+    "name": "Legendary Gravekeeper's Gambeson",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Gambeson",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Natural Armor +15",
+      "Good Luck  +5",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Hardened Hide Armor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hardened_Hide_Armor",
+    "minLevel": "28",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Fortification  +142%",
+      "Quality Fortification  +35%",
+      "Exceptional Healing Amplification +14",
+      "Epic Nimbleness",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Infested Scalemail",
+    "link": "https://ddowiki.com/page/Item:Legendary_Infested_Scalemail",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fortification  +151%",
+      "Legendary Disease Guard",
+      "Sheltering +36",
+      "Legendary Demonic Shield",
+      "DR",
+      "Spell Resistance +41",
+      "Blue Augment Slot",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Lamordian Gambeson",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lamordian_Gambeson",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Enhanced Ghostly",
+      "Fortification  +159%",
+      "Lamordia: Melancholic Slot (Armor): Empty",
+      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Medium Armor of the Artblade",
+    "link": "https://ddowiki.com/page/Item:Legendary_Medium_Armor_of_the_Artblade",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Magical Sheltering +37",
+      "Exceptional Universal Spell Power +15",
+      "Exceptional Universal Spell Lore +5%",
+      "Legendary Spell Penetration +3",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Medium Armor of the Black Earth",
+    "link": "https://ddowiki.com/page/Item:Legendary_Medium_Armor_of_the_Black_Earth",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Resistance +11",
+      "Acid Absorption +36%",
+      "Blurry",
+      "Fortification  +149%",
+      "Legendary Temple's Monolith",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Medium Armor of the Crownblade",
+    "link": "https://ddowiki.com/page/Item:Legendary_Medium_Armor_of_the_Crownblade",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Equipment Healing Amplification +30",
+      "Exceptional Healing Amplification +15",
+      "Competence Elemental Resistance - 15",
+      "Linguistics",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Medium Armor of the Crushing Wave",
+    "link": "https://ddowiki.com/page/Item:Legendary_Medium_Armor_of_the_Crushing_Wave",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Resistance +11",
+      "Cold Absorption +36%",
+      "Blurry",
+      "Fortification  +149%",
+      "Legendary Temple's Tide",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Medium Armor of the Eternal Flame",
+    "link": "https://ddowiki.com/page/Item:Legendary_Medium_Armor_of_the_Eternal_Flame",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Resistance +11",
+      "Fire Absorption +36%",
+      "Blurry",
+      "Fortification  +149%",
+      "Legendary Temple's Inferno",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Medium Armor of the Howling Hatred",
+    "link": "https://ddowiki.com/page/Item:Legendary_Medium_Armor_of_the_Howling_Hatred",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Resistance +11",
+      "Electric Absorption +36%",
+      "Blurry",
+      "Fortification  +149%",
+      "Legendary Temple's Tempest",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Medium Armor of the Warblade",
+    "link": "https://ddowiki.com/page/Item:Legendary_Medium_Armor_of_the_Warblade",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Accuracy +23",
+      "Deadly +12",
+      "Legendary Demonic Shield",
+      "Legendary Armor-Piercing - 5%",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Privateer's Leathers",
+    "link": "https://ddowiki.com/page/Item:Legendary_Privateer%27s_Leathers",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fortification  +146%",
+      "Magical Sheltering +34",
+      "Spell Resistance +39",
+      "Spell Save +11",
+      "Blue Augment Slot",
+      "Legendary Saltmarsh Explorer"
+    ]
+  },
+  {
+    "name": "Legendary Red Dragonscale Armor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Red_Dragonscale_Armor",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "Fire Lore +22%",
+      "Combustion +151",
+      "Fire Resistance +54",
+      "Fire Guard X",
+      "Incineration Guard",
+      "Colorless Augment Slot",
+      "Blue Augment Slot",
+      "Legendary Soul of the Red Dragon"
+    ]
+  },
+  {
+    "name": "Legendary Renovation Regalia",
+    "link": "https://ddowiki.com/page/Item:Legendary_Renovation_Regalia",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Accuracy +22",
+      "Seeker +14",
+      "Lesser Displacement",
+      "Speed +30%",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Legendary Remodeling Renegade"
+    ]
+  },
+  {
+    "name": "Legendary Roughcut Armor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Roughcut_Armor",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Constitution +14",
+      "Insightful Spell Resistance +20",
+      "Quality Dodge +3%",
+      "Insightful Fortification  +74%",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Devotion of the Firemouth",
+      "Defender of Tanaroa"
+    ]
+  },
+  {
+    "name": "Legendary Scales of Malice",
+    "link": "https://ddowiki.com/page/Item:Legendary_Scales_of_Malice",
+    "minLevel": "28",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Insightful Constitution +6",
+      "Vitality +44",
+      "Physical Sheltering +33",
+      "Parrying +6",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Scarlet Scalemail",
+    "link": "https://ddowiki.com/page/Item:Legendary_Scarlet_Scalemail",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Strength +14",
+      "Natural Armor +14",
+      "Insightful Reflex Save +6",
+      "Physical Sheltering +36",
+      "Insightful Constitution +6",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Snowscale",
+    "link": "https://ddowiki.com/page/Item:Legendary_Snowscale",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fortification  +142%",
+      "Competence Healing Amplification +53",
+      "Physical Sheltering +33",
+      "Parrying +6",
+      "Green Augment Slot",
+      "Eminence of Winter"
+    ]
+  },
+  {
+    "name": "Legendary Stinkpelt's Hide",
+    "link": "https://ddowiki.com/page/Item:Legendary_Stinkpelt%27s_Hide",
+    "minLevel": "30",
+    "enhancements": [
+      "Cloudkill",
+      "+15 Enhancement Bonus",
+      "Constitution +13",
+      "Proof Against Poison +11",
+      "Poison Resistance +51",
+      "Reflex Save +12",
+      "Curse of Repulsiveness",
+      "Legendary Menechtarun Scavenger",
+      "Colorless Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Sunscale",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sunscale",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fortification  +142%",
+      "Quality Seeker +3",
+      "Physical Sheltering +33",
+      "Parrying +6",
+      "Green Augment Slot",
+      "Eminence of Summer"
+    ]
+  },
+  {
+    "name": "Legendary Templar's Bastion",
+    "link": "https://ddowiki.com/page/Item:Legendary_Templar%27s_Bastion",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "DR",
+      "Spell Resistance +39",
+      "Magical Sheltering +34",
+      "Legendary Brilliance Guard",
+      "Mithral",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary University Bulwark's Coat",
+    "link": "https://ddowiki.com/page/Item:Legendary_University_Bulwark%27s_Coat",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Physical Sheltering +36",
+      "Fortification  +153%",
+      "Parrying +6",
+      "Freedom of Movement",
+      "Lost Purpose",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary University Spellshield's Coat",
+    "link": "https://ddowiki.com/page/Item:Legendary_University_Spellshield%27s_Coat",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Magical Sheltering +36",
+      "Fortification  +153%",
+      "Insightful Reflex Save +6",
+      "Spell Save +11",
+      "Lost Purpose",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Mail of the Mroranon",
+    "link": "https://ddowiki.com/page/Item:Mail_of_the_Mroranon",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Strength +13",
+      "Physical Sheltering +34",
+      "Fortification  +145%",
+      "Raging Inferno",
+      "Blue Augment Slot",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Medium Armor of the Artblade's Reflection",
+    "link": "https://ddowiki.com/page/Item:Medium_Armor_of_the_Artblade%27s_Reflection",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Magical Sheltering +39",
+      "Exceptional Universal Spell Power +15",
+      "Exceptional Universal Spell Lore +5%",
+      "Insightful Spell Focus Mastery +3",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Medium Armor of the Artblade",
+    "link": "https://ddowiki.com/page/Item:Medium_Armor_of_the_Artblade",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Magical Sheltering +17",
+      "Exceptional Universal Spell Power +8",
+      "Exceptional Universal Spell Lore +3%",
+      "Legendary Spell Penetration +2",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Medium Armor of the Black Earth",
+    "link": "https://ddowiki.com/page/Item:Medium_Armor_of_the_Black_Earth",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Resistance +4",
+      "Acid Absorption +18%",
+      "Lesser Displacement",
+      "Fortification  +70%",
+      "Temple's Monolith",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Medium Armor of the Crownblade's Reflection",
+    "link": "https://ddowiki.com/page/Item:Medium_Armor_of_the_Crownblade%27s_Reflection",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Equipped Healing Amplification +31",
+      "Exceptional Healing Amplification +16",
+      "Competence Elemental Resistance - 15",
+      "Temperance of Spirit",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Medium Armor of the Crownblade",
+    "link": "https://ddowiki.com/page/Item:Medium_Armor_of_the_Crownblade",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Equipment Healing Amplification +14",
+      "Exceptional Healing Amplification +7",
+      "Competence Elemental Resistance - 5",
+      "Linguistics",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Medium Armor of the Crushing Wave",
+    "link": "https://ddowiki.com/page/Item:Medium_Armor_of_the_Crushing_Wave",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Resistance +4",
+      "Cold Absorption +18%",
+      "Lesser Displacement",
+      "Fortification  +70%",
+      "Temple's Tide",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Medium Armor of the Eternal Flame",
+    "link": "https://ddowiki.com/page/Item:Medium_Armor_of_the_Eternal_Flame",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Resistance +4",
+      "Fire Absorption +18%",
+      "Lesser Displacement",
+      "Fortification  +70%",
+      "Temple's Inferno",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Medium Armor of the Howling Hatred",
+    "link": "https://ddowiki.com/page/Item:Medium_Armor_of_the_Howling_Hatred",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Resistance +4",
+      "Electric Absorption +18%",
+      "Lesser Displacement",
+      "Fortification  +70%",
+      "Temple's Tempest",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Medium Armor of the Warblade's Reflection",
+    "link": "https://ddowiki.com/page/Item:Medium_Armor_of_the_Warblade%27s_Reflection",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Accuracy +24",
+      "Deadly +12",
+      "Shadow Striker",
+      "Legendary Armor-Piercing - 5%",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Medium Armor of the Warblade",
+    "link": "https://ddowiki.com/page/Item:Medium_Armor_of_the_Warblade",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Accuracy +11",
+      "Deadly +6",
+      "Demonic Shield",
+      "Legendary Armor-Piercing - 2%",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Mithral Full Plate of Speed (Haste version)",
+    "link": "https://ddowiki.com/page/Item:Mithral_Full_Plate_of_Speed_(Haste_version)",
+    "minLevel": "4",
+    "enhancements": [
+      "Haste",
+      "+1 Enhancement Bonus",
+      "Mithral"
+    ]
+  },
+  {
+    "name": "Mithral Full Plate of Speed (Striding version)",
+    "link": "https://ddowiki.com/page/Item:Mithral_Full_Plate_of_Speed_(Striding_version)",
+    "minLevel": "4",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Mithral",
+      "Melee Alacrity 10%",
+      "Striding +15%"
+    ]
+  },
+  {
+    "name": "Mournlode Breastplate (Level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Breastplate_(Level_4)",
+    "minLevel": "4",
+    "enhancements": []
+  },
+  {
+    "name": "Mournlode Breastplate (level 12)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Breastplate_(level_12)",
+    "minLevel": "12",
+    "enhancements": []
+  },
+  {
+    "name": "Mournlode Breastplate (level 16)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Breastplate_(level_16)",
+    "minLevel": "16",
+    "enhancements": []
+  },
+  {
+    "name": "Mournlode Breastplate (level 8)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Breastplate_(level_8)",
+    "minLevel": "8",
+    "enhancements": []
+  },
+  {
+    "name": "Nightforge Darkscale",
+    "link": "https://ddowiki.com/page/Item:Nightforge_Darkscale",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Blue Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Orcish Privateer's Plate",
+    "link": "https://ddowiki.com/page/Item:Orcish_Privateer%27s_Plate",
+    "minLevel": "4",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Mithral",
+      "Feat",
+      "Intimidate +5",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Privateer's Leathers",
+    "link": "https://ddowiki.com/page/Item:Privateer%27s_Leathers",
+    "minLevel": "3",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Magical Sheltering +7",
+      "Spell Resistance +8",
+      "Blue Augment Slot",
+      "Saltmarsh Explorer"
+    ]
+  },
+  {
+    "name": "Renovation Regalia",
+    "link": "https://ddowiki.com/page/Item:Renovation_Regalia",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Accuracy +14",
+      "Seeker +9",
+      "Lesser Displacement",
+      "Speed +28%",
+      "Blue Augment Slot",
+      "Remodeling Renegade"
+    ]
+  },
+  {
+    "name": "Restored Dragoncraft Breastplate",
+    "link": "https://ddowiki.com/page/Item:Restored_Dragoncraft_Breastplate",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Fortification +100%",
+      "Protection +7",
+      "Shield +6"
+    ]
+  },
+  {
+    "name": "Restored Elfcraft Plate Armor",
+    "link": "https://ddowiki.com/page/Item:Restored_Elfcraft_Plate_Armor",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Spell Penetration III",
+      "Spell Lore VI",
+      "Potency +72",
+      "Mithral"
+    ]
+  },
+  {
+    "name": "Restored Giantcraft Breastplate",
+    "link": "https://ddowiki.com/page/Item:Restored_Giantcraft_Breastplate",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Haste Guard",
+      "Armor-Piercing - 15%",
+      "Relentless Fury",
+      "Adamantine"
+    ]
+  },
+  {
+    "name": "Roguebane Breastplate",
+    "link": "https://ddowiki.com/page/Item:Roguebane_Breastplate",
+    "minLevel": "6",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Roughcut Armor",
+    "link": "https://ddowiki.com/page/Item:Roughcut_Armor",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Constitution +5",
+      "Insightful Spell Resistance +7",
+      "Quality Dodge +1%",
+      "Insightful Fortification  +33%",
+      "Green Augment Slot",
+      "The Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Scalemail of the Celestial Avenger",
+    "link": "https://ddowiki.com/page/Item:Scalemail_of_the_Celestial_Avenger",
+    "minLevel": "27",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Fortification  +141%",
+      "Speed XV",
+      "Doublestrike 14%",
+      "Sheltering +33",
+      "Parrying +6",
+      "Blurry",
+      "Deathblock IX",
+      "Yellow Augment Slot",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Scalemail of the Celestial Sage",
+    "link": "https://ddowiki.com/page/Item:Scalemail_of_the_Celestial_Sage",
+    "minLevel": "27",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Fortification  +141%",
+      "Quality Reflex Save +3",
+      "Quality Potency +23",
+      "Sheltering +33",
+      "Parrying +6",
+      "Blurry",
+      "Deathblock IX",
+      "Yellow Augment Slot",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Scales of Malice",
+    "link": "https://ddowiki.com/page/Item:Scales_of_Malice",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Insightful Constitution +2",
+      "Vitality +19",
+      "Physical Sheltering +14",
+      "Parrying +2",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Scales of the Ancestors",
+    "link": "https://ddowiki.com/page/Item:Scales_of_the_Ancestors",
+    "minLevel": "2",
+    "enhancements": [
+      "Scare",
+      "+2 Enhancement Bonus",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Scarlet Scalemail",
+    "link": "https://ddowiki.com/page/Item:Scarlet_Scalemail",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Strength +3",
+      "Natural Armor +3",
+      "Insightful Reflex Save +2",
+      "Physical Sheltering +8",
+      "Insightful Constitution +1",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Scavenged Scale",
+    "link": "https://ddowiki.com/page/Item:Scavenged_Scale",
+    "minLevel": "1",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Fortification  +38%",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Shadow Dragonscale Armor",
+    "link": "https://ddowiki.com/page/Item:Shadow_Dragonscale_Armor",
+    "minLevel": "26",
+    "enhancements": [
+      "Shadow Phase",
+      "+11 Enhancement Bonus",
+      "Deathblock",
+      "Fortification  +130%",
+      "Ghostly",
+      "From The Shadows",
+      "Blue Augment Slot",
+      "Flawed Shadowscale Armor",
+      "50 Shadow Dragon Scales",
+      "Shadow Caster",
+      "Shadow Disciple",
+      "Shadow Killer",
+      "Shadow Striker"
+    ]
+  },
+  {
+    "name": "Shadowmail (level 16)",
+    "link": "https://ddowiki.com/page/Item:Shadowmail_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Twilight",
+      "Combustion +78",
+      "Corrosion +78",
+      "Glaciation +78",
+      "Impulse +78",
+      "Magnetism +78",
+      "Wizardry VII",
+      "Spell Lore III"
+    ]
+  },
+  {
+    "name": "Shadowmail (level 17)",
+    "link": "https://ddowiki.com/page/Item:Shadowmail_(level_17)",
+    "minLevel": "17",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Twilight",
+      "Combustion +84",
+      "Corrosion +84",
+      "Glaciation +84",
+      "Impulse +84",
+      "Magnetism +84",
+      "Archmagi",
+      "Spell Lore III"
+    ]
+  },
+  {
+    "name": "Shadowmail (level 18)",
+    "link": "https://ddowiki.com/page/Item:Shadowmail_(level_18)",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Twilight",
+      "Combustion +90",
+      "Corrosion +90",
+      "Glaciation +90",
+      "Impulse +90",
+      "Magnetism +90",
+      "Archmagi",
+      "Spell Lore III"
+    ]
+  },
+  {
+    "name": "Shadowmail (level 23)",
+    "link": "https://ddowiki.com/page/Item:Shadowmail_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Greater Twilight",
+      "Combustion +108",
+      "Corrosion +108",
+      "Glaciation +108",
+      "Impulse +108",
+      "Magnetism +108",
+      "Wizardry IX",
+      "Spell Lore III"
+    ]
+  },
+  {
+    "name": "Shadowmail (level 24)",
+    "link": "https://ddowiki.com/page/Item:Shadowmail_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Greater Twilight",
+      "Combustion +114",
+      "Corrosion +114",
+      "Glaciation +114",
+      "Impulse +114",
+      "Magnetism +114",
+      "Wizardry IX",
+      "Spell Lore VI"
+    ]
+  },
+  {
+    "name": "Shadowmail (level 25)",
+    "link": "https://ddowiki.com/page/Item:Shadowmail_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Greater Twilight",
+      "Combustion +120",
+      "Corrosion +120",
+      "Glaciation +120",
+      "Impulse +120",
+      "Magnetism +120",
+      "Wizardry X",
+      "Spell Lore VI"
+    ]
+  },
+  {
+    "name": "Snowscale",
+    "link": "https://ddowiki.com/page/Item:Snowscale",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Fortification  +59%",
+      "Competence Healing Amplification +14",
+      "Physical Sheltering +9",
+      "Parrying +1",
+      "Blue Augment Slot",
+      "Seasons of the Feywild"
+    ]
+  },
+  {
+    "name": "Sunscale",
+    "link": "https://ddowiki.com/page/Item:Sunscale",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Fortification  +59%",
+      "Seeker +4",
+      "Physical Sheltering +9",
+      "Parrying +1",
+      "Blue Augment Slot",
+      "Seasons of the Feywild"
+    ]
+  },
+  {
+    "name": "Swampscale Armor",
+    "link": "https://ddowiki.com/page/Item:Swampscale_Armor",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Swim +11",
+      "Blue Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Tarnished Deneith Heavy Chain",
+    "link": "https://ddowiki.com/page/Item:Tarnished_Deneith_Heavy_Chain",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Unraveling Enchantments"
+    ]
+  },
+  {
+    "name": "Templar's Bastion",
+    "link": "https://ddowiki.com/page/Item:Templar%27s_Bastion",
+    "minLevel": "16",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Mithral",
+      "DR",
+      "Spell Resistance +23",
+      "Magical Sheltering +20",
+      "Light Guard"
+    ]
+  },
+  {
+    "name": "Templar's Chain",
+    "link": "https://ddowiki.com/page/Item:Templar%27s_Chain",
+    "minLevel": "2",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Physical Sheltering +4",
+      "Lesser Undead Guard",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Terrorweb Chitin Breastplate",
+    "link": "https://ddowiki.com/page/Item:Terrorweb_Chitin_Breastplate",
+    "minLevel": "22",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Strength +8",
+      "Insightful Strength +3",
+      "Constitution +8",
+      "Insightful Constitution +3",
+      "Wisdom +8",
+      "Insightful Wisdom +3",
+      "Vitality +20",
+      "Superior Nimbleness",
+      "Resistance +6",
+      "Competence Elemental Resistance - 5",
+      "Commendation: Clerics of Amaunator",
+      "Commendation: Purple Dragon Knights"
+    ]
+  },
+  {
+    "name": "The Blackmail",
+    "link": "https://ddowiki.com/page/Item:The_Blackmail",
+    "minLevel": "17",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Fortification  +101%",
+      "Physical Sheltering +21",
+      "Profane Negative Amplification +33",
+      "False Life +32",
+      "Blue Augment Slot",
+      "Dreadkeeper"
+    ]
+  },
+  {
+    "name": "The Legendary Blackmail",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Blackmail",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fortification  +142%",
+      "Physical Sheltering +33",
+      "Profane Negative Amplification +53",
+      "False Life +50",
+      "Green Augment Slot",
+      "Legendary Dreadkeeper"
+    ]
+  },
+  {
+    "name": "The Legendary Mark IV",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Mark_IV",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fortification  +142%",
+      "Physical Sheltering +33",
+      "Repair Amplification +53",
+      "False Life +50",
+      "Green Augment Slot",
+      "Legendary Arcsteel Battlemage"
+    ]
+  },
+  {
+    "name": "The Mark IV",
+    "link": "https://ddowiki.com/page/Item:The_Mark_IV",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Fortification  +94%",
+      "Physical Sheltering +19",
+      "Repair Amplification +30",
+      "False Life +29",
+      "Blue Augment Slot",
+      "Arcsteel Battlemage"
+    ]
+  },
+  {
+    "name": "The Only Exception (level 10)",
+    "link": "https://ddowiki.com/page/Item:The_Only_Exception_(level_10)",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Doublestrike 6%",
+      "Spell Lore +5",
+      "Accuracy +9",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "The Only Exception (level 15)",
+    "link": "https://ddowiki.com/page/Item:The_Only_Exception_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Doublestrike 9%",
+      "Spell Lore +7",
+      "Accuracy +12",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "The Only Exception (level 20)",
+    "link": "https://ddowiki.com/page/Item:The_Only_Exception_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Doublestrike 11%",
+      "Spell Lore +8",
+      "Accuracy +15",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "The Only Exception (level 25)",
+    "link": "https://ddowiki.com/page/Item:The_Only_Exception_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Doublestrike 13%",
+      "Spell Lore +10",
+      "Accuracy +18",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "The Only Exception (level 30)",
+    "link": "https://ddowiki.com/page/Item:The_Only_Exception_(level_30)",
+    "minLevel": "30",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Doublestrike 15%",
+      "Spell Lore +12",
+      "Accuracy +21",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "The Only Exception (level 5)",
+    "link": "https://ddowiki.com/page/Item:The_Only_Exception_(level_5)",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Doublestrike 4%",
+      "Spell Lore +3",
+      "Accuracy +6",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "University Bulwark's Coat",
+    "link": "https://ddowiki.com/page/Item:University_Bulwark%27s_Coat",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Physical Sheltering +22",
+      "Fortification  +104%",
+      "Parrying +4",
+      "Freedom of Movement",
+      "Lost Purpose",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "University Spellshield's Coat",
+    "link": "https://ddowiki.com/page/Item:University_Spellshield%27s_Coat",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Magical Sheltering +22",
+      "Fortification  +104%",
+      "Insightful Reflex Save +4",
+      "Spell Save +7",
+      "Lost Purpose",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "White Dragonscale Armor",
+    "link": "https://ddowiki.com/page/Item:White_Dragonscale_Armor",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Fortification +100%",
+      "Protection +5",
+      "Shield +4",
+      "Cold Resistance +30"
+    ]
+  }
+]

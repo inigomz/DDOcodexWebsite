@@ -1,0 +1,3358 @@
+[
+  {
+    "name": "Staff of the Golden Wizard",
+    "link": "https://ddowiki.com/page/Item:Staff_of_the_Golden_Wizard",
+    "minLevel": "1",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Spell Penetration III",
+      "Spell Lore VI",
+      "Charisma +6",
+      "Intelligence +6",
+      "Potency +60",
+      "Fireball"
+    ]
+  },
+  {
+    "name": "-1 Quarterstaff of Lesser Halfling Bane",
+    "link": "https://ddowiki.com/page/Item:-1_Quarterstaff_of_Lesser_Halfling_Bane",
+    "minLevel": "1",
+    "enhancements": [
+      "-1 Enhancement Bonus",
+      "Lesser Halfling Bane",
+      "Curse of Weakness"
+    ]
+  },
+  {
+    "name": "Moldy Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Moldy_Quarterstaff",
+    "minLevel": "1",
+    "enhancements": [
+      "Starter"
+    ]
+  },
+  {
+    "name": "Ionna's Ancestral Staff",
+    "link": "https://ddowiki.com/page/Item:Ionna%27s_Ancestral_Staff",
+    "minLevel": "1",
+    "enhancements": [
+      "Giant Slayer",
+      "+1 Enhancement Bonus",
+      "Summon Monster III"
+    ]
+  },
+  {
+    "name": "Long Broom of Mystery",
+    "link": "https://ddowiki.com/page/Item:Long_Broom_of_Mystery",
+    "minLevel": "1",
+    "enhancements": [
+      "Flaming Sphere"
+    ]
+  },
+  {
+    "name": "The Balance Beam",
+    "link": "https://ddowiki.com/page/Item:The_Balance_Beam",
+    "minLevel": "1",
+    "enhancements": [
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shimmering",
+    "link": "https://ddowiki.com/page/Item:Shimmering",
+    "minLevel": "1",
+    "enhancements": [
+      "Epic Giant Bane",
+      "Solar IX"
+    ]
+  },
+  {
+    "name": "Scorpion Staff",
+    "link": "https://ddowiki.com/page/Item:Scorpion_Staff",
+    "minLevel": "2",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Summon Monster II",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Pillar of Light",
+    "link": "https://ddowiki.com/page/Item:Pillar_of_Light",
+    "minLevel": "2",
+    "enhancements": [
+      "Spellcasting Implement +2",
+      "+2 Enhancement Bonus",
+      "Silver Flame Lore +6%",
+      "Power of the Silver Flame",
+      "Holy 1",
+      "Orange Augment Slot",
+      "Searing Light"
+    ]
+  },
+  {
+    "name": "Melt Wood Staff",
+    "link": "https://ddowiki.com/page/Item:Melt_Wood_Staff",
+    "minLevel": "2",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Melf's Acid Arrow",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "+1 Starter Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Quarterstaff",
+    "minLevel": "2",
+    "enhancements": [
+      "Spellcasting Implement +3",
+      "+1 Enhancement Bonus",
+      "Potency +20",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Nicked Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Nicked_Quarterstaff",
+    "minLevel": "2",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Impactful 2",
+      "Vertigo +4",
+      "Deadly +3"
+    ]
+  },
+  {
+    "name": "Ethereal Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Quarterstaff",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Quarterstaff",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Bullywug Priestess' Staff",
+    "link": "https://ddowiki.com/page/Item:Bullywug_Priestess%27_Staff",
+    "minLevel": "3",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Frozen Depths Lore +8%",
+      "Power of the Frozen Depths",
+      "Spell Penetration +3",
+      "Bless Ward",
+      "Bane of the Depths",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Twig of the Giant Mage",
+    "link": "https://ddowiki.com/page/Item:Twig_of_the_Giant_Mage",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Spell Resistance +15",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Staff of Nat Gann",
+    "link": "https://ddowiki.com/page/Item:Staff_of_Nat_Gann",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Dodge +3%",
+      "Dexterity +3",
+      "Deception +2",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Chieftain's Spear",
+    "link": "https://ddowiki.com/page/Item:Chieftain%27s_Spear",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Bleed",
+      "Maiming",
+      "Puncturing",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Broken Oar (level 4)",
+    "link": "https://ddowiki.com/page/Item:Broken_Oar_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Bleeding 2",
+      "Impact",
+      "Doublestrike 4%",
+      "Felling the Oak",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Quarterstaff",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Quarterstaff",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Totemic Staff of Splinterskull",
+    "link": "https://ddowiki.com/page/Item:Totemic_Staff_of_Splinterskull",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Summon Monster III",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Arlyn's Staff",
+    "link": "https://ddowiki.com/page/Item:Arlyn%27s_Staff",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Protection +3",
+      "Force",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Brine Shaman's Staff",
+    "link": "https://ddowiki.com/page/Item:Brine_Shaman%27s_Staff",
+    "minLevel": "6",
+    "enhancements": [
+      "Spellcasting Implement +6",
+      "+2 Enhancement Bonus",
+      "Glaciation +48",
+      "Magnetism +48",
+      "Ice Lore I",
+      "Lightning Lore I",
+      "Tidal",
+      "Gust of Wind"
+    ]
+  },
+  {
+    "name": "Bludgeoning Bankroll",
+    "link": "https://ddowiki.com/page/Item:Bludgeoning_Bankroll",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Transmuted Platinum",
+      "Bludgeoning 2",
+      "Metalline",
+      "Smashing 5",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Souleater",
+    "link": "https://ddowiki.com/page/Item:Souleater",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Mortal Strike",
+      "Feeding 10",
+      "Vampirism 1"
+    ]
+  },
+  {
+    "name": "Elemental Bloom",
+    "link": "https://ddowiki.com/page/Item:Elemental_Bloom",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Lesser Elemental Bane",
+      "Bodyfeeder",
+      "Paralyzing",
+      "Bewildering",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Spearfisher",
+    "link": "https://ddowiki.com/page/Item:Spearfisher",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Animal Bane 2",
+      "Tidal 2",
+      "Cold Vulnerability",
+      "Underwater Action",
+      "The Dread Isle's Curse",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Stave of the Seer",
+    "link": "https://ddowiki.com/page/Item:Stave_of_the_Seer",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Intelligence +5",
+      "Wisdom +5",
+      "Use Magic Device +5",
+      "True Seeing",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Lightning Rod",
+    "link": "https://ddowiki.com/page/Item:Lightning_Rod",
+    "minLevel": "8",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Magnetism +54",
+      "Shock",
+      "Electric Resistance +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Theurgic Stave",
+    "link": "https://ddowiki.com/page/Item:Theurgic_Stave",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Adamantine",
+      "Elemental Bane",
+      "Spot +5",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Witching Hour",
+    "link": "https://ddowiki.com/page/Item:Witching_Hour",
+    "minLevel": "8",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Ghost Touch",
+      "Nullification +54",
+      "Void Lore +14%",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shamanic Staff",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Staff",
+    "minLevel": "8",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "True Chaos",
+      "Glaciation +42",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Slave Master's Staff",
+    "link": "https://ddowiki.com/page/Item:Slave_Master%27s_Staff",
+    "minLevel": "8",
+    "enhancements": [
+      "Spellcasting Implement +8",
+      "+3 Enhancement Bonus",
+      "Fire Lore +10%",
+      "Lightning Lore +10%",
+      "Insightful Evocation Focus +1",
+      "Wizardry +96",
+      "Elemental Resonance",
+      "Acid Lore +10%",
+      "Insightful Conjuration Focus +1",
+      "Against the Slave Lords Set Bonus",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Broken Oar (level 8)",
+    "link": "https://ddowiki.com/page/Item:Broken_Oar_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Bleeding 2",
+      "Impact",
+      "Doublestrike 6%",
+      "Felling the Oak",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Quarterstaff",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Echo of Wave",
+    "link": "https://ddowiki.com/page/Item:Echo_of_Wave",
+    "minLevel": "9",
+    "enhancements": [
+      "Spellcasting Implement +9",
+      "+3 Enhancement Bonus",
+      "Cerulean Wave",
+      "Frozen Storm Lore +11%",
+      "Power of the Frozen Storm",
+      "Underwater Action",
+      "Orange Augment Slot",
+      "Red Augment Slot",
+      "Swirling Icy Shield",
+      "DDO Forums"
+    ]
+  },
+  {
+    "name": "Tinder",
+    "link": "https://ddowiki.com/page/Item:Tinder",
+    "minLevel": "10",
+    "enhancements": [
+      "Spellcasting Implement +10",
+      "+5 Enhancement Bonus",
+      "Magma Surge",
+      "Flaming Blast 3",
+      "Fire Lore +11%",
+      "Combustion +77",
+      "Purple Augment Slot",
+      "Red Augment Slot",
+      "The Desert's Burning Sun"
+    ]
+  },
+  {
+    "name": "Arcane Shard",
+    "link": "https://ddowiki.com/page/Item:Arcane_Shard",
+    "minLevel": "10",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Efficient Metamagic - Maximize II",
+      "Spell Penetration II",
+      "Potency +40",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Staff of Inner Sight",
+    "link": "https://ddowiki.com/page/Item:Staff_of_Inner_Sight",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Intelligence +6",
+      "Wisdom +6",
+      "Charisma +6",
+      "Spell Focus Mastery +2",
+      "True Seeing",
+      "Purple Augment Slot",
+      "Red Augment Slot",
+      "The Desert's Biting Sands"
+    ]
+  },
+  {
+    "name": "Barovian's Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Quarterstaff",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Macabre_Quarterstaff",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Staff of Arcane Power",
+    "link": "https://ddowiki.com/page/Item:Staff_of_Arcane_Power",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Spell Focus Mastery +2",
+      "Wizardry +129",
+      "Lesser  Arcane Augmentation IX",
+      "Good Luck  +2",
+      "Staff of Arcane Power: Spell Selection",
+      "The Desert's Biting Sands"
+    ]
+  },
+  {
+    "name": "Copper Ingot Arcanum (historic)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(historic)",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +6",
+      "+2 Enhancement Bonus",
+      "Lightning Lore V",
+      "Magnetism +66"
+    ]
+  },
+  {
+    "name": "Bronze Ingot Arcanum (historic)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(historic)",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +6",
+      "+2 Enhancement Bonus",
+      "Acid Lore V",
+      "Corrosion +66"
+    ]
+  },
+  {
+    "name": "Silver Ingot Arcanum (historic)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(historic)",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +6",
+      "+2 Enhancement Bonus",
+      "Ice Lore V",
+      "Glaciation +66"
+    ]
+  },
+  {
+    "name": "Green Steel Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Infectious Shadow Staff",
+    "link": "https://ddowiki.com/page/Item:Infectious_Shadow_Staff",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Vampirism 1",
+      "Life Stealing",
+      "Entropic 3",
+      "Demon Fever",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Petrifying Shadow Staff",
+    "link": "https://ddowiki.com/page/Item:Petrifying_Shadow_Staff",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Vampirism 1",
+      "Life Stealing",
+      "Entropic 3",
+      "Stone Prison",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Staff of the Shadow",
+    "link": "https://ddowiki.com/page/Item:Staff_of_the_Shadow",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Vampirism 1",
+      "Life Stealing",
+      "Entropic 3",
+      "Malleable"
+    ]
+  },
+  {
+    "name": "Bloody Shadow Staff",
+    "link": "https://ddowiki.com/page/Item:Bloody_Shadow_Staff",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Vampirism 1",
+      "Life Stealing",
+      "Entropic 3",
+      "Bodyfeeder",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Alchemical Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Master Transmuter's Staff",
+    "link": "https://ddowiki.com/page/Item:Master_Transmuter%27s_Staff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+5 Enhancement Bonus",
+      "Intelligence +6",
+      "Transmutation Focus +3",
+      "Devotion +84",
+      "Potency +52",
+      "Concentration +14",
+      "Healing Lore +12%",
+      "Disintegrate",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Destructive Shadow Staff",
+    "link": "https://ddowiki.com/page/Item:Destructive_Shadow_Staff",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Vampirism 1",
+      "Life Stealing",
+      "Entropic 3",
+      "Destruction",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Silver Ingot Arcanum (level 12)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Ice Lore V",
+      "Glaciation +66",
+      "Impulse +66",
+      "Potency +44"
+    ]
+  },
+  {
+    "name": "Bronze Ingot Arcanum (level 12)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Acid Lore V",
+      "Corrosion +66",
+      "Impulse +66",
+      "Potency +44"
+    ]
+  },
+  {
+    "name": "Copper Ingot Arcanum (level 12)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Lightning Lore V",
+      "Magnetism +66",
+      "Impulse +66",
+      "Potency +44"
+    ]
+  },
+  {
+    "name": "Broken Oar (level 12)",
+    "link": "https://ddowiki.com/page/Item:Broken_Oar_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Bleeding 3",
+      "Impact",
+      "Doublestrike 7%",
+      "Felling the Oak",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Combustible Devoted Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Combustible_Devoted_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Fire Lore +12%",
+      "Healing Lore +12%",
+      "Combustion +84",
+      "Devotion +84",
+      "Insightful Combustion +42",
+      "Insightful Devotion +42",
+      "Evocation Focus +3",
+      "Physical Sheltering +16",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Combustible Nullified Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Combustible_Nullified_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Fire Lore +12%",
+      "Void Lore +12%",
+      "Combustion +84",
+      "Nullification +84",
+      "Insightful Combustion +42",
+      "Insightful Nullification +42",
+      "Evocation Focus +3",
+      "Necromancy Focus +3",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Combustible Radiant Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Combustible_Radiant_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Fire Lore +12%",
+      "Radiance Lore +12%",
+      "Combustion +84",
+      "Radiance +84",
+      "Insightful Combustion +42",
+      "Insightful Radiance +42",
+      "Evocation Focus +3",
+      "Insightful Wizardry +64",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Combustible Reconstructed Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Combustible_Reconstructed_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Fire Lore +12%",
+      "Repair Lore +12%",
+      "Combustion +84",
+      "Reconstruction +84",
+      "Insightful Combustion +42",
+      "Insightful Reconstruction +42",
+      "Evocation Focus +3",
+      "False Life +24",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Combustible Resonating Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Combustible_Resonating_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Fire Lore +12%",
+      "Sonic Lore +12%",
+      "Combustion +84",
+      "Resonance +84",
+      "Insightful Combustion +42",
+      "Insightful Resonance +42",
+      "Evocation Focus +3",
+      "Magical Sheltering +16",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Corrosive Devoted Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Corrosive_Devoted_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Acid Lore +12%",
+      "Healing Lore +12%",
+      "Corrosion +84",
+      "Devotion +84",
+      "Insightful Corrosion +42",
+      "Insightful Devotion +42",
+      "Conjuration Focus +3",
+      "Physical Sheltering +16",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Corrosive Nullified Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Corrosive_Nullified_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Acid Lore +12%",
+      "Void Lore +12%",
+      "Corrosion +84",
+      "Nullification +84",
+      "Insightful Corrosion +42",
+      "Insightful Nullification +42",
+      "Conjuration Focus +3",
+      "Necromancy Focus +3",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Corrosive Radiant Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Corrosive_Radiant_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Acid Lore +12%",
+      "Radiance Lore +12%",
+      "Corrosion +84",
+      "Radiance +84",
+      "Insightful Corrosion +42",
+      "Insightful Radiance +42",
+      "Conjuration Focus +3",
+      "Insightful Wizardry +64",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Corrosive Reconstructed Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Corrosive_Reconstructed_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Acid Lore +12%",
+      "Repair Lore +12%",
+      "Corrosion +84",
+      "Reconstruction +84",
+      "Insightful Corrosion +42",
+      "Insightful Reconstruction +42",
+      "Conjuration Focus +3",
+      "False Life +24",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Corrosive Resonating Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Corrosive_Resonating_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Acid Lore +12%",
+      "Sonic Lore +12%",
+      "Corrosion +84",
+      "Resonance +84",
+      "Insightful Corrosion +42",
+      "Insightful Resonance +42",
+      "Conjuration Focus +3",
+      "Magical Sheltering +16",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Glaciated Devoted Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Glaciated_Devoted_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Ice Lore +12%",
+      "Healing Lore +12%",
+      "Glaciation +84",
+      "Devotion +84",
+      "Insightful Glaciation +42",
+      "Insightful Devotion +42",
+      "Evocation Focus +3",
+      "Physical Sheltering +16",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Glaciated Nullified Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Glaciated_Nullified_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Ice Lore +12%",
+      "Void Lore +12%",
+      "Glaciation +84",
+      "Nullification +84",
+      "Insightful Glaciation +42",
+      "Insightful Nullification +42",
+      "Evocation Focus +3",
+      "Necromancy Focus +3",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Glaciated Radiant Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Glaciated_Radiant_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Ice Lore +12%",
+      "Radiance Lore +12%",
+      "Glaciation +84",
+      "Radiance +84",
+      "Insightful Glaciation +42",
+      "Insightful Radiance +42",
+      "Evocation Focus +3",
+      "Insightful Wizardry +64",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Glaciated Reconstructed Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Glaciated_Reconstructed_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Ice Lore +12%",
+      "Repair Lore +12%",
+      "Glaciation +84",
+      "Reconstruction +84",
+      "Insightful Glaciation +42",
+      "Insightful Reconstruction +42",
+      "Evocation Focus +3",
+      "False Life +24",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Glaciated Resonating Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Glaciated_Resonating_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Ice Lore +12%",
+      "Sonic Lore +12%",
+      "Glaciation +84",
+      "Resonance +84",
+      "Insightful Glaciation +42",
+      "Insightful Resonance +42",
+      "Evocation Focus +3",
+      "Magical Sheltering +16",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Impulsive Devoted Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Impulsive_Devoted_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Kinetic Lore +12%",
+      "Healing Lore +12%",
+      "Impulse +84",
+      "Devotion +84",
+      "Insightful Impulse +42",
+      "Insightful Devotion +42",
+      "Evocation Focus +3",
+      "Physical Sheltering +16",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Impulsive Nullified Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Impulsive_Nullified_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Kinetic Lore +12%",
+      "Void Lore +12%",
+      "Impulse +84",
+      "Nullification +84",
+      "Insightful Impulse +42",
+      "Insightful Nullification +42",
+      "Evocation Focus +3",
+      "Necromancy Focus +3",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Impulsive Radiant Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Impulsive_Radiant_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Kinetic Lore +12%",
+      "Radiance Lore +12%",
+      "Impulse +84",
+      "Radiance +84",
+      "Insightful Impulse +42",
+      "Insightful Radiance +42",
+      "Evocation Focus +3",
+      "Insightful Wizardry +64",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Impulsive Reconstructed Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Impulsive_Reconstructed_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Kinetic Lore +12%",
+      "Repair Lore +12%",
+      "Impulse +84",
+      "Reconstruction +84",
+      "Insightful Impulse +42",
+      "Insightful Reconstruction +42",
+      "Evocation Focus +3",
+      "False Life +24",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Impulsive Resonating Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Impulsive_Resonating_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Kinetic Lore +12%",
+      "Sonic Lore +12%",
+      "Impulse +84",
+      "Resonance +84",
+      "Insightful Impulse +42",
+      "Insightful Resonance +42",
+      "Evocation Focus +3",
+      "Magical Sheltering +16",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Magnetic Devoted Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Magnetic_Devoted_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Lightning Lore +12%",
+      "Healing Lore +12%",
+      "Magnetism +84",
+      "Devotion +84",
+      "Insightful Magnetism +42",
+      "Insightful Devotion +42",
+      "Evocation Focus +3",
+      "Physical Sheltering +16",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Magnetic Nullified Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Magnetic_Nullified_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Lightning Lore +12%",
+      "Void Lore +12%",
+      "Magnetism +84",
+      "Nullification +84",
+      "Insightful Magnetism +42",
+      "Insightful Nullification +42",
+      "Evocation Focus +3",
+      "Necromancy Focus +3",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Magnetic Radiant Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Magnetic_Radiant_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Lightning Lore +12%",
+      "Radiance Lore +12%",
+      "Magnetism +84",
+      "Radiance +84",
+      "Insightful Magnetism +42",
+      "Insightful Radiance +42",
+      "Evocation Focus +3",
+      "Insightful Wizardry +64",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Magnetic Reconstructed Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Magnetic_Reconstructed_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Lightning Lore +12%",
+      "Repair Lore +12%",
+      "Magnetism +84",
+      "Reconstruction +84",
+      "Insightful Magnetism +42",
+      "Insightful Reconstruction +42",
+      "Evocation Focus +3",
+      "False Life +24",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Magnetic Resonating Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Magnetic_Resonating_Quarterstaff",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Lightning Lore +12%",
+      "Sonic Lore +12%",
+      "Magnetism +84",
+      "Resonance +84",
+      "Insightful Magnetism +42",
+      "Insightful Resonance +42",
+      "Evocation Focus +3",
+      "Magical Sheltering +16",
+      "Magical Efficiency 5%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Copper Ingot Arcanum (level 13)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Lightning Lore V",
+      "Magnetism +66",
+      "Impulse +66",
+      "Potency +44"
+    ]
+  },
+  {
+    "name": "Silver Ingot Arcanum (level 13)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Ice Lore V",
+      "Glaciation +66",
+      "Impulse +66",
+      "Potency +44"
+    ]
+  },
+  {
+    "name": "Branch of Vile Curses (level 13)",
+    "link": "https://ddowiki.com/page/Item:Branch_of_Vile_Curses_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Improved Cursespewing",
+      "Potency +48",
+      "Nullification +72",
+      "Necromancy Focus +1",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Bronze Ingot Arcanum (level 13)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Acid Lore V",
+      "Corrosion +66",
+      "Impulse +66",
+      "Potency +44"
+    ]
+  },
+  {
+    "name": "Light Unending",
+    "link": "https://ddowiki.com/page/Item:Light_Unending",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Solar III",
+      "Vertigo +8",
+      "Metalline",
+      "Banishing",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Quarterstaff of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Quarterstaff_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Impact",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Quarterstaff of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Quarterstaff_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dreamspitter",
+    "link": "https://ddowiki.com/page/Item:Dreamspitter",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Greater Evil Outsider Bane",
+      "Life Stealing",
+      "Enchantment Focus II",
+      "Suppressed Power",
+      "Upgradeable Item (Stormreaver)"
+    ]
+  },
+  {
+    "name": "Staff of the Petitioner",
+    "link": "https://ddowiki.com/page/Item:Staff_of_the_Petitioner",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Power Store",
+      "Enchantment Focus II",
+      "Necromancy Focus II",
+      "Concentration +5",
+      "Spell Penetration III",
+      "Upgradeable Item (Black Abbot)"
+    ]
+  },
+  {
+    "name": "Breeze",
+    "link": "https://ddowiki.com/page/Item:Breeze",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Screaming",
+      "Roaring",
+      "Telekinetic",
+      "Slicing Winds",
+      "Upgradeable Item (Black Abbot)"
+    ]
+  },
+  {
+    "name": "Staff of Fleshshaping",
+    "link": "https://ddowiki.com/page/Item:Staff_of_Fleshshaping",
+    "minLevel": "14",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Devotion +72",
+      "Healing Lore V",
+      "Nullification +72",
+      "Void Lore V",
+      "Efficient Metamagic - Empower Healing II"
+    ]
+  },
+  {
+    "name": "Bronze Ingot Arcanum (level 14)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Acid Lore V",
+      "Corrosion +72",
+      "Impulse +72",
+      "Potency +48"
+    ]
+  },
+  {
+    "name": "Copper Ingot Arcanum (level 14)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Lightning Lore V",
+      "Magnetism +72",
+      "Impulse +72",
+      "Potency +48"
+    ]
+  },
+  {
+    "name": "Silver Ingot Arcanum (level 14)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Ice Lore V",
+      "Glaciation +72",
+      "Impulse +72",
+      "Potency +48"
+    ]
+  },
+  {
+    "name": "Branch of Vile Curses (level 14)",
+    "link": "https://ddowiki.com/page/Item:Branch_of_Vile_Curses_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Improved Cursespewing",
+      "Potency +52",
+      "Nullification +78",
+      "Necromancy Focus +1",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Branch of Vile Curses (level 15)",
+    "link": "https://ddowiki.com/page/Item:Branch_of_Vile_Curses_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Improved Cursespewing",
+      "Potency +52",
+      "Nullification +78",
+      "Necromancy Focus II",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Stonework Beam",
+    "link": "https://ddowiki.com/page/Item:Stonework_Beam",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Percussive Maintenance 2",
+      "Paralyzing",
+      "Quality Deception +1",
+      "Shield +8",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Creeping Dust Conduit",
+    "link": "https://ddowiki.com/page/Item:Creeping_Dust_Conduit",
+    "minLevel": "15",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Creeping Dust Lore +14%",
+      "Power of Creeping Dust",
+      "Conjuration Focus +3",
+      "Evocation Focus +3",
+      "Arcane Augmentation IX",
+      "Quality Spell Focus Mastery +1",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Firestorm Conduit",
+    "link": "https://ddowiki.com/page/Item:Firestorm_Conduit",
+    "minLevel": "15",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Firestorm Lore +14%",
+      "Power of the Firestorm",
+      "Conjuration Focus +3",
+      "Evocation Focus +3",
+      "Arcane Augmentation IX",
+      "Quality Spell Focus Mastery +1",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Moonbeam",
+    "link": "https://ddowiki.com/page/Item:Moonbeam",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Impact",
+      "Holy 4",
+      "Doublestrike 9%",
+      "Felling the Oak",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Syranian_Quarterstaff",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Trailblazer's Branch",
+    "link": "https://ddowiki.com/page/Item:Trailblazer%27s_Branch",
+    "minLevel": "15",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Bludgeoning 3",
+      "Shockwave"
+    ]
+  },
+  {
+    "name": "Nature's Vengeance",
+    "link": "https://ddowiki.com/page/Item:Nature%27s_Vengeance",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Greater Aberration Bane",
+      "Sun Burst",
+      "Greater Stability",
+      "Densewood"
+    ]
+  },
+  {
+    "name": "Luminous Truth",
+    "link": "https://ddowiki.com/page/Item:Luminous_Truth",
+    "minLevel": "16",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Power of the Flames of Purity",
+      "Purifying Flame Lore +14%",
+      "Flaming Blast 4",
+      "Coruscating 4",
+      "Incineration"
+    ]
+  },
+  {
+    "name": "Broken Oar (level 16)",
+    "link": "https://ddowiki.com/page/Item:Broken_Oar_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Bleeding 4",
+      "Impact",
+      "Doublestrike 9%",
+      "Felling the Oak",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Rahl's Might",
+    "link": "https://ddowiki.com/page/Item:Rahl%27s_Might",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Strength +6",
+      "Improved Destruction",
+      "Deception",
+      "Axiomatic",
+      "Bleed",
+      "Force",
+      "Impact",
+      "Shock",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Bone Crusher",
+    "link": "https://ddowiki.com/page/Item:Bone_Crusher",
+    "minLevel": "18",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Seeker +6",
+      "Insightful Combat Mastery +4",
+      "Rockslide",
+      "Shockwave",
+      "Dexterity +6",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Quarterstaff",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Quarterstaff",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Staff of Arcane Power",
+    "link": "https://ddowiki.com/page/Item:Epic_Staff_of_Arcane_Power",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Spell Focus Mastery +3",
+      "Wizardry +195",
+      "Arcane Augmentation IX",
+      "Efficient Metamagic - Maximize II",
+      "Efficient Metamagic - Empower II",
+      "Efficient Metamagic - Enlarge II",
+      "Efficient Metamagic - Extend II",
+      "Good Luck  +3",
+      "Staff of Arcane Power: Spell Selection",
+      "Purple Augment Slot",
+      "The Epic Desert's Biting Sands"
+    ]
+  },
+  {
+    "name": "Epic Staff of Inner Sight",
+    "link": "https://ddowiki.com/page/Item:Epic_Staff_of_Inner_Sight",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Intelligence +9",
+      "Wisdom +9",
+      "Charisma +9",
+      "Spell Focus Mastery +3",
+      "True Seeing",
+      "Potency +73",
+      "Insightful Potency +36",
+      "Colorless Augment Slot",
+      "Purple Augment Slot",
+      "The Epic Desert's Biting Sands"
+    ]
+  },
+  {
+    "name": "Epic Souleater",
+    "link": "https://ddowiki.com/page/Item:Epic_Souleater",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Epic Trap the Soul",
+      "Demonic Might",
+      "Feeding 20",
+      "Vampirism 2",
+      "Negativity 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Staff of Nat Gann",
+    "link": "https://ddowiki.com/page/Item:Epic_Staff_of_Nat_Gann",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Dodge +9%",
+      "Dexterity +9",
+      "Deception +7",
+      "Seeker +9",
+      "Silver",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Tinder",
+    "link": "https://ddowiki.com/page/Item:Epic_Tinder",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Magma Surge",
+      "Flaming Blast 4",
+      "Fire Lore +16%",
+      "Combustion +111",
+      "Incineration Guard",
+      "Greater Incineration",
+      "Colorless Augment Slot",
+      "Blue Augment Slot",
+      "The Epic Desert's Burning Sun"
+    ]
+  },
+  {
+    "name": "Alarphon's Staff",
+    "link": "https://ddowiki.com/page/Item:Alarphon%27s_Staff",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Elemental Manipulation",
+      "Spell Lore VI",
+      "Alarphon's Staff: Spell Selection"
+    ]
+  },
+  {
+    "name": "Epic Luminous Truth",
+    "link": "https://ddowiki.com/page/Item:Epic_Luminous_Truth",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Purifying Flame Lore +16%",
+      "Power of the Flames of Purity",
+      "Flaming Blast 4",
+      "Coruscating 4",
+      "Greater Incineration",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Implement of the Deep Woods",
+    "link": "https://ddowiki.com/page/Item:Implement_of_the_Deep_Woods",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Devotion +90",
+      "Magnetism +90",
+      "Combustion +90",
+      "Fire Lore VI",
+      "Lightning Lore VI",
+      "Competence Elemental Resistance - 5",
+      "Restoration"
+    ]
+  },
+  {
+    "name": "Stout Oak Walking Stick",
+    "link": "https://ddowiki.com/page/Item:Stout_Oak_Walking_Stick",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Aligned",
+      "Impact",
+      "Fracturing",
+      "Felling the Oak",
+      "Immunity to Slippery Surfaces"
+    ]
+  },
+  {
+    "name": "Epic Broken Oar (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Broken_Oar_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Bleeding 4",
+      "Impact",
+      "Doublestrike 11%",
+      "Felling the Oak",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Quarterstaff",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Quarterstaff",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Bullywug Priestess' Staff",
+    "link": "https://ddowiki.com/page/Item:Epic_Bullywug_Priestess%27_Staff",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Frozen Depths Lore +16%",
+      "Power of the Frozen Depths",
+      "Necromancy Focus +4",
+      "Evocation Focus +4",
+      "Spell Penetration +6",
+      "Bless Ward",
+      "Bane of the Depths",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Drow Quarterstaff of the Weapon Master",
+    "link": "https://ddowiki.com/page/Item:Drow_Quarterstaff_of_the_Weapon_Master",
+    "minLevel": "21",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ]
+  },
+  {
+    "name": "Staff of the Necromancer",
+    "link": "https://ddowiki.com/page/Item:Staff_of_the_Necromancer",
+    "minLevel": "21",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Potency +68",
+      "Nullification +102",
+      "Spell Penetration III",
+      "Lesser  Arcane Augmentation IX",
+      "Necromancy Focus III"
+    ]
+  },
+  {
+    "name": "Epic Bludgeoning Bankroll",
+    "link": "https://ddowiki.com/page/Item:Epic_Bludgeoning_Bankroll",
+    "minLevel": "21",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Transmuted Platinum (Epic)",
+      "Bludgeoning 5",
+      "Metalline",
+      "Smashing 11",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Quarterstaff",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Twilight, Element of Magic",
+    "link": "https://ddowiki.com/page/Item:Twilight,_Element_of_Magic",
+    "minLevel": "23",
+    "enhancements": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Potency +80",
+      "Impulse +120",
+      "Evocation Focus III",
+      "Enchantment Focus III",
+      "Arcane Augmentation IX",
+      "Spell Lore VI",
+      "Attuned to Heroism"
+    ]
+  },
+  {
+    "name": "Sireth, Spear of the Sky",
+    "link": "https://ddowiki.com/page/Item:Sireth,_Spear_of_the_Sky",
+    "minLevel": "23",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Supreme Good",
+      "Lightning Strike",
+      "Cloudburst",
+      "Freedom of Movement",
+      "Feather Falling",
+      "Attuned to Heroism"
+    ]
+  },
+  {
+    "name": "Silver Ingot Arcanum (level 23)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "Spellcasting Implement +24",
+      "+8 Enhancement Bonus",
+      "Ice Lore VI",
+      "Glaciation +108",
+      "Impulse +108",
+      "Potency +72"
+    ]
+  },
+  {
+    "name": "Copper Ingot Arcanum (level 23)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "Spellcasting Implement +24",
+      "+8 Enhancement Bonus",
+      "Lightning Lore VI",
+      "Magnetism +108",
+      "Impulse +108",
+      "Potency +72"
+    ]
+  },
+  {
+    "name": "Bronze Ingot Arcanum (level 23)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "Spellcasting Implement +24",
+      "+8 Enhancement Bonus",
+      "Acid Lore VI",
+      "Corrosion +108",
+      "Impulse +108",
+      "Potency +72"
+    ]
+  },
+  {
+    "name": "Epic Pillar of Light",
+    "link": "https://ddowiki.com/page/Item:Epic_Pillar_of_Light",
+    "minLevel": "23",
+    "enhancements": [
+      "Spellcasting Implement +23",
+      "+6 Enhancement Bonus",
+      "Silver Flame Lore +18%",
+      "Power of the Silver Flame",
+      "Holy 5",
+      "Hallowed +11",
+      "Sacred +11",
+      "Orange Augment Slot",
+      "Searing Light"
+    ]
+  },
+  {
+    "name": "Silver Ingot Arcanum (level 24)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Spellcasting Implement +27",
+      "+9 Enhancement Bonus",
+      "Ice Lore VI",
+      "Glaciation +114",
+      "Impulse +114",
+      "Potency +76"
+    ]
+  },
+  {
+    "name": "Bronze Ingot Arcanum (level 24)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Spellcasting Implement +27",
+      "+9 Enhancement Bonus",
+      "Acid Lore VI",
+      "Corrosion +114",
+      "Impulse +114",
+      "Potency +76"
+    ]
+  },
+  {
+    "name": "Copper Ingot Arcanum (level 24)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Spellcasting Implement +27",
+      "+9 Enhancement Bonus",
+      "Lightning Lore VI",
+      "Magnetism +114",
+      "Impulse +114",
+      "Potency +76"
+    ]
+  },
+  {
+    "name": "Epic Broken Oar (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Broken_Oar_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Bleeding 5",
+      "Impact",
+      "Doublestrike 12%",
+      "Felling the Oak",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Silver Ingot Arcanum (level 25)",
+    "link": "https://ddowiki.com/page/Item:Silver_Ingot_Arcanum_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+10 Enhancement Bonus",
+      "Ice Lore VI",
+      "Glaciation +120",
+      "Impulse +120",
+      "Potency +80"
+    ]
+  },
+  {
+    "name": "Bronze Ingot Arcanum (level 25)",
+    "link": "https://ddowiki.com/page/Item:Bronze_Ingot_Arcanum_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+10 Enhancement Bonus",
+      "Acid Lore VI",
+      "Corrosion +120",
+      "Impulse +120",
+      "Potency +80"
+    ]
+  },
+  {
+    "name": "Dreampiercer",
+    "link": "https://ddowiki.com/page/Item:Dreampiercer",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Greater Good",
+      "Greater Evil Outsider Bane",
+      "Life Stealing",
+      "Enchantment Focus III",
+      "Attuned to Heroism",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Copper Ingot Arcanum (level 25)",
+    "link": "https://ddowiki.com/page/Item:Copper_Ingot_Arcanum_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+10 Enhancement Bonus",
+      "Lightning Lore VI",
+      "Magnetism +120",
+      "Impulse +120",
+      "Potency +80"
+    ]
+  },
+  {
+    "name": "Epic Elemental Bloom",
+    "link": "https://ddowiki.com/page/Item:Epic_Elemental_Bloom",
+    "minLevel": "26",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Greater Elemental Bane",
+      "Bodyfeeder",
+      "Improved Paralyzing",
+      "Bewildering",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Bone Crusher",
+    "link": "https://ddowiki.com/page/Item:Epic_Bone_Crusher",
+    "minLevel": "26",
+    "enhancements": [
+      "+10 Enhancement Bonus",
+      "Seeker +10",
+      "Insightful Combat Mastery +5",
+      "Rockslide",
+      "Shockwave",
+      "Dexterity +11",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Quarterstaff",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Mythic Bone Crusher",
+    "link": "https://ddowiki.com/page/Item:Mythic_Bone_Crusher",
+    "minLevel": "26",
+    "enhancements": [
+      "+10 Enhancement Bonus",
+      "Seeker +10",
+      "Insightful Combat Mastery +6",
+      "Rockslide",
+      "Shockwave",
+      "Exceptional Stunning +2",
+      "Dexterity +11",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Light Unending",
+    "link": "https://ddowiki.com/page/Item:Epic_Light_Unending",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Solar VI",
+      "Vertigo +15",
+      "Metalline",
+      "Improved Banishing",
+      "Holy VI",
+      "Flametouched Iron",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Stonework Beam",
+    "link": "https://ddowiki.com/page/Item:Legendary_Stonework_Beam",
+    "minLevel": "28",
+    "enhancements": [
+      "+13 Enhancement Bonus",
+      "Percussive Maintenance 3",
+      "Improved Paralyzing",
+      "Quality Deception +2",
+      "Shield +13",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Slave Master's Staff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Slave_Master%27s_Staff",
+    "minLevel": "28",
+    "enhancements": [
+      "Spellcasting Implement +28",
+      "+14 Enhancement Bonus",
+      "Fire Lore +21%",
+      "Lightning Lore +21%",
+      "Insightful Evocation Focus +3",
+      "Wizardry +269",
+      "Elemental Resonance",
+      "Acid Lore +21%",
+      "Insightful Conjuration Focus +3",
+      "Against the Slave Lords Set Bonus",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Nocturne, the Song of Night",
+    "link": "https://ddowiki.com/page/Item:Nocturne,_the_Song_of_Night",
+    "minLevel": "28",
+    "enhancements": [
+      "Spellcasting Implement +28",
+      "+15 Enhancement Bonus",
+      "Quality Impulse +35",
+      "Kinetic Lore +21%",
+      "Impulse +145",
+      "Insightful Impulse +72",
+      "Quality Evocation Focus +1",
+      "Evocation Focus +6",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Gulthias Staff",
+    "link": "https://ddowiki.com/page/Item:Gulthias_Staff",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Choked by Mother Night",
+      "Animal Bane 6",
+      "Aberration Bane 6",
+      "Vampirism 3",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Broken Oar (level 28)",
+    "link": "https://ddowiki.com/page/Item:Epic_Broken_Oar_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Bleeding 6",
+      "Impact",
+      "Doublestrike 14%",
+      "Felling the Oak",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Staff of Shadow",
+    "link": "https://ddowiki.com/page/Item:The_Staff_of_Shadow",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Adamantine",
+      "Purple Augment Slot",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Staff of Irian",
+    "link": "https://ddowiki.com/page/Item:Staff_of_Irian",
+    "minLevel": "28",
+    "enhancements": [
+      "Spellcasting Implement +28",
+      "+15 Enhancement Bonus",
+      "Deific Focus III",
+      "Purifying Flame Lore +21%",
+      "Power of the Flames of Purity",
+      "Irian's Fury",
+      "Irian's Might",
+      "Brazen Brilliance",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Echo of Wave",
+    "link": "https://ddowiki.com/page/Item:Legendary_Echo_of_Wave",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Legendary Cerulean Wave",
+      "Frozen Storm Lore +21%",
+      "Power of the Frozen Storm",
+      "Freedom of Movement",
+      "Underwater Action",
+      "Orange Augment Slot",
+      "Red Augment Slot",
+      "Swirling Icy Shield",
+      "DDO Forums"
+    ]
+  },
+  {
+    "name": "Reflection of Wave",
+    "link": "https://ddowiki.com/page/Item:Reflection_of_Wave",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Paragon Cerulean Wave",
+      "Frozen Thunderstorm Lore +21%",
+      "Power of the Frozen Thunderstorm",
+      "Greater Water Elemental Form",
+      "Underwater Action",
+      "Swirling Icy Shield",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Eclipse Itself",
+    "link": "https://ddowiki.com/page/Item:The_Eclipse_Itself",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Nearly Finished",
+      "Quality Potency +25",
+      "Spell Lore +12",
+      "Quality Spell Focus Mastery +2",
+      "Arcane Augmentation IX",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Firestorm Conduit",
+    "link": "https://ddowiki.com/page/Item:Legendary_Firestorm_Conduit",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Firestorm Lore +21%",
+      "Power of the Firestorm",
+      "Conjuration Focus +5",
+      "Evocation Focus +5",
+      "Arcane Augmentation IX",
+      "Quality Spell Focus Mastery +2",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Moonbeam",
+    "link": "https://ddowiki.com/page/Item:Legendary_Moonbeam",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Impact",
+      "Holy 6",
+      "Doublestrike 15%",
+      "Felling the Oak",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Creeping Dust Conduit",
+    "link": "https://ddowiki.com/page/Item:Legendary_Creeping_Dust_Conduit",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Creeping Dust Lore +21%",
+      "Power of Creeping Dust",
+      "Conjuration Focus +5",
+      "Evocation Focus +5",
+      "Arcane Augmentation IX",
+      "Quality Spell Focus Mastery +2",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Blightstaff",
+    "link": "https://ddowiki.com/page/Item:Blightstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Blighted Lore +22%",
+      "Power of the Blight",
+      "Spell Focus Mastery +5",
+      "Spell Penetration +9",
+      "Inflict Blight",
+      "Legendary Earthgrab Guard",
+      "Red Augment Slot",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Spear of the Mournlands",
+    "link": "https://ddowiki.com/page/Item:Spear_of_the_Mournlands",
+    "minLevel": "29",
+    "enhancements": [
+      "deity",
+      "Favor of the Lord of Blades",
+      "+15 Enhancement Bonus",
+      "Touch of the Mournlands",
+      "Fetters of Unreality",
+      "Keen",
+      "Improved Destruction",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Staff of the Summer Solstice",
+    "link": "https://ddowiki.com/page/Item:Staff_of_the_Summer_Solstice",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Titania's Warmth",
+      "Purifying Flame Lore +22%",
+      "Power of the Flames of Purity",
+      "Sacred Spell Focus Mastery +2",
+      "Summer's Impertenence",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Staff of the Winter Solstice",
+    "link": "https://ddowiki.com/page/Item:Staff_of_the_Winter_Solstice",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Shielded by Moonlight",
+      "Moonlit Haunt Lore +22%",
+      "Power of the Moonlit Haunt",
+      "Profane Spell Focus Mastery +2",
+      "Winter's Impertenence",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Combustible Devoted Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Combustible_Devoted_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Fire Lore +21%",
+      "Healing Lore +21%",
+      "Combustion +142",
+      "Devotion +142",
+      "Insightful Combustion +71",
+      "Insightful Devotion +71",
+      "Evocation Focus +5",
+      "Physical Sheltering +33",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Combustible Nullified Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Combustible_Nullified_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Fire Lore +21%",
+      "Void Lore +21%",
+      "Combustion +142",
+      "Nullification +142",
+      "Insightful Combustion +71",
+      "Insightful Nullification +71",
+      "Evocation Focus +5",
+      "Necromancy Focus +5",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Combustible Radiant Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Combustible_Radiant_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Fire Lore +21%",
+      "Radiance Lore +21%",
+      "Combustion +142",
+      "Radiance +142",
+      "Insightful Combustion +71",
+      "Insightful Radiance +71",
+      "Evocation Focus +5",
+      "Insightful Wizardry +134",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Combustible Reconstructed Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Combustible_Reconstructed_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Fire Lore +21%",
+      "Repair Lore +21%",
+      "Combustion +142",
+      "Reconstruction +142",
+      "Insightful Combustion +71",
+      "Insightful Reconstruction +71",
+      "Evocation Focus +5",
+      "False Life +50",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Combustible Resonating Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Combustible_Resonating_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Fire Lore +21%",
+      "Sonic Lore +21%",
+      "Combustion +142",
+      "Resonance +142",
+      "Insightful Combustion +71",
+      "Insightful Resonance +71",
+      "Evocation Focus +5",
+      "Magical Sheltering +33",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Corrosive Devoted Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Corrosive_Devoted_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Acid Lore +21%",
+      "Healing Lore +21%",
+      "Corrosion +142",
+      "Devotion +142",
+      "Insightful Corrosion +71",
+      "Insightful Devotion +71",
+      "Conjuration Focus +5",
+      "Physical Sheltering +33",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Corrosive Nullified Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Corrosive_Nullified_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Acid Lore +21%",
+      "Void Lore +21%",
+      "Corrosion +142",
+      "Nullification +142",
+      "Insightful Corrosion +71",
+      "Insightful Nullification +71",
+      "Conjuration Focus +5",
+      "Necromancy Focus +5",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Corrosive Radiant Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Corrosive_Radiant_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Acid Lore +21%",
+      "Radiance Lore +21%",
+      "Corrosion +142",
+      "Radiance +142",
+      "Insightful Corrosion +71",
+      "Insightful Radiance +71",
+      "Conjuration Focus +5",
+      "Insightful Wizardry +134",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Corrosive Reconstructed Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Corrosive_Reconstructed_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Acid Lore +21%",
+      "Repair Lore +21%",
+      "Corrosion +142",
+      "Reconstruction +142",
+      "Insightful Corrosion +71",
+      "Insightful Reconstruction +71",
+      "Conjuration Focus +5",
+      "False Life +50",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Corrosive Resonating Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Corrosive_Resonating_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Acid Lore +21%",
+      "Sonic Lore +21%",
+      "Corrosion +142",
+      "Resonance +142",
+      "Insightful Corrosion +71",
+      "Insightful Resonance +71",
+      "Conjuration Focus +5",
+      "Magical Sheltering +33",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Impulsive Devoted Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Impulsive_Devoted_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Kinetic Lore +21%",
+      "Healing Lore +21%",
+      "Impulse +142",
+      "Devotion +142",
+      "Insightful Impulse +71",
+      "Insightful Devotion +71",
+      "Evocation Focus +5",
+      "Physical Sheltering +33",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Impulsive Nullified Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Impulsive_Nullified_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Kinetic Lore +21%",
+      "Void Lore +21%",
+      "Impulse +142",
+      "Nullification +142",
+      "Insightful Impulse +71",
+      "Insightful Nullification +71",
+      "Evocation Focus +5",
+      "Necromancy Focus +5",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Impulsive Radiant Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Impulsive_Radiant_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Kinetic Lore +21%",
+      "Radiance Lore +21%",
+      "Impulse +142",
+      "Radiance +142",
+      "Insightful Impulse +71",
+      "Insightful Radiance +71",
+      "Evocation Focus +5",
+      "Insightful Wizardry +134",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Impulsive Reconstructed Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Impulsive_Reconstructed_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Kinetic Lore +21%",
+      "Repair Lore +21%",
+      "Impulse +142",
+      "Reconstruction +142",
+      "Insightful Impulse +71",
+      "Insightful Reconstruction +71",
+      "Evocation Focus +5",
+      "False Life +50",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Impulsive Resonating Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Impulsive_Resonating_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Kinetic Lore +21%",
+      "Sonic Lore +21%",
+      "Impulse +142",
+      "Resonance +142",
+      "Insightful Impulse +71",
+      "Insightful Resonance +71",
+      "Evocation Focus +5",
+      "Magical Sheltering +33",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Magnetic Devoted Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Magnetic_Devoted_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Lightning Lore +21%",
+      "Healing Lore +21%",
+      "Magnetism +142",
+      "Devotion +142",
+      "Insightful Magnetism +71",
+      "Insightful Devotion +71",
+      "Evocation Focus +5",
+      "Physical Sheltering +33",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Magnetic Nullified Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Magnetic_Nullified_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Lightning Lore +21%",
+      "Void Lore +21%",
+      "Magnetism +142",
+      "Nullification +142",
+      "Insightful Magnetism +71",
+      "Insightful Nullification +71",
+      "Evocation Focus +5",
+      "Necromancy Focus +5",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Magnetic Radiant Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Magnetic_Radiant_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Lightning Lore +21%",
+      "Radiance Lore +21%",
+      "Magnetism +142",
+      "Radiance +142",
+      "Insightful Magnetism +71",
+      "Insightful Radiance +71",
+      "Evocation Focus +5",
+      "Insightful Wizardry +134",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Magnetic Reconstructed Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Magnetic_Reconstructed_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Lightning Lore +21%",
+      "Repair Lore +21%",
+      "Magnetism +142",
+      "Reconstruction +142",
+      "Insightful Magnetism +71",
+      "Insightful Reconstruction +71",
+      "Evocation Focus +5",
+      "False Life +50",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Magnetic Resonating Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Magnetic_Resonating_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Lightning Lore +21%",
+      "Sonic Lore +21%",
+      "Magnetism +142",
+      "Resonance +142",
+      "Insightful Magnetism +71",
+      "Insightful Resonance +71",
+      "Evocation Focus +5",
+      "Magical Sheltering +33",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Glaciated Devoted Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Glaciated_Devoted_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Ice Lore +21%",
+      "Healing Lore +21%",
+      "Glaciation +142",
+      "Devotion +142",
+      "Insightful Glaciation +71",
+      "Insightful Devotion +71",
+      "Evocation Focus +5",
+      "Physical Sheltering +33",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Glaciated Nullified Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Glaciated_Nullified_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Ice Lore +21%",
+      "Void Lore +21%",
+      "Glaciation +142",
+      "Nullification +142",
+      "Insightful Glaciation +71",
+      "Insightful Nullification +71",
+      "Evocation Focus +5",
+      "Necromancy Focus +5",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Glaciated Radiant Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Glaciated_Radiant_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Ice Lore +21%",
+      "Radiance Lore +21%",
+      "Glaciation +142",
+      "Radiance +142",
+      "Insightful Glaciation +71",
+      "Insightful Radiance +71",
+      "Evocation Focus +5",
+      "Insightful Wizardry +134",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Glaciated Reconstructed Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Glaciated_Reconstructed_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Ice Lore +21%",
+      "Repair Lore +21%",
+      "Glaciation +142",
+      "Reconstruction +142",
+      "Insightful Glaciation +71",
+      "Insightful Reconstruction +71",
+      "Evocation Focus +5",
+      "False Life +50",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Glaciated Resonating Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Glaciated_Resonating_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Ice Lore +21%",
+      "Sonic Lore +21%",
+      "Glaciation +142",
+      "Resonance +142",
+      "Insightful Glaciation +71",
+      "Insightful Resonance +71",
+      "Evocation Focus +5",
+      "Magical Sheltering +33",
+      "Magical Efficiency 10%",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Quarterstaff",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Spear of the Hunter",
+    "link": "https://ddowiki.com/page/Item:Spear_of_the_Hunter",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "The Falling Star",
+      "Thrill of the Hunt",
+      "Bleeding 6",
+      "Sovereign Vorpal",
+      "Huntmaster's Favor",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Bullywug Priestess' Staff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bullywug_Priestess%27_Staff",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Frozen Depths Lore +21%",
+      "Power of the Frozen Depths",
+      "Necromancy Focus +6",
+      "Evocation Focus +6",
+      "Spell Penetration +9",
+      "Bless Ward",
+      "Bane of the Depths",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Luminous Truth",
+    "link": "https://ddowiki.com/page/Item:Legendary_Luminous_Truth",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Purifying Flame Lore +21%",
+      "Power of the Flames of Purity",
+      "Flaming Blast 6",
+      "Coruscating 6",
+      "Overwhelming Incineration",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Souleater",
+    "link": "https://ddowiki.com/page/Item:Legendary_Souleater",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Trap the Soul",
+      "Profane Well Rounded +3",
+      "Feeding 30",
+      "Vampirism 3",
+      "Negativity 6",
+      "Profane Lifeforce +45",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Staff of Nat Gann",
+    "link": "https://ddowiki.com/page/Item:Legendary_Staff_of_Nat_Gann",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dodge +14%",
+      "Dexterity +14",
+      "Deception +11",
+      "Seeker +14",
+      "Silver",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Staff of Arcane Power",
+    "link": "https://ddowiki.com/page/Item:Legendary_Staff_of_Arcane_Power",
+    "minLevel": "30",
+    "enhancements": [
+      "Staff of Arcane Power: Spell Selection",
+      "+15 Enhancement Bonus",
+      "Spell Focus Mastery +5",
+      "Wizardry +291",
+      "Arcane Augmentation IX",
+      "Efficient Metamagic - Maximize II",
+      "Efficient Metamagic - Empower II",
+      "Efficient Metamagic - Enlarge II",
+      "Efficient Metamagic - Extend II",
+      "Good Luck  +3",
+      "The Legendary Desert's Biting Sands",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Staff of Inner Sight",
+    "link": "https://ddowiki.com/page/Item:Legendary_Staff_of_Inner_Sight",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Intelligence +13",
+      "Wisdom +13",
+      "Charisma +13",
+      "Spell Focus Mastery +5",
+      "True Seeing",
+      "Potency +100",
+      "Insightful Potency +50",
+      "The Legendary Desert's Biting Sands",
+      "Colorless Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Tinder",
+    "link": "https://ddowiki.com/page/Item:Legendary_Tinder",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Legendary Magma Surge",
+      "Flaming Blast 6",
+      "Fire Lore +21%",
+      "Combustion +146",
+      "Legendary Magma Surge Guard",
+      "Overwhelming Incineration",
+      "The Legendary Desert's Burning Sun",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Spearfisher",
+    "link": "https://ddowiki.com/page/Item:Legendary_Spearfisher",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Animal Bane 6",
+      "Tidal 6",
+      "Cold Vulnerability",
+      "Underwater Action",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Red Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Quarterstaff",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Quarterstaff",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Staff of the Shadow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Staff_of_the_Shadow",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Vampirism 3",
+      "Life Stealing",
+      "Entropic 6",
+      "Malleable",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Destructive Shadow Staff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Destructive_Shadow_Staff",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Vampirism 3",
+      "Life Stealing",
+      "Entropic 6",
+      "Improved Destruction",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Bloody Shadow Staff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bloody_Shadow_Staff",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Vampirism 3",
+      "Life Stealing",
+      "Entropic 6",
+      "Feeding 30",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Infectious Shadow Staff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Infectious_Shadow_Staff",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Vampirism 3",
+      "Life Stealing",
+      "Entropic 6",
+      "Legendary Demon Fever",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Petrifying Shadow Staff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Petrifying_Shadow_Staff",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Vampirism 3",
+      "Life Stealing",
+      "Entropic 6",
+      "Legendary Stone Prison",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Master Transmuter's Staff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Master_Transmuter%27s_Staff",
+    "minLevel": "31",
+    "enhancements": [
+      "Disintegrate",
+      "Spellcasting Implement +31",
+      "+15 Enhancement Bonus",
+      "Intelligence +14",
+      "Transmutation Focus +6",
+      "Devotion +149",
+      "Potency +103",
+      "Concentration +21",
+      "Healing Lore +22%",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Broken Oar (level 32)",
+    "link": "https://ddowiki.com/page/Item:Legendary_Broken_Oar_(level_32)",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Bleeding 6",
+      "Impact",
+      "Doublestrike 16%",
+      "Felling the Oak",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Quarterstaff",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Quarterstaff",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Quarterstaff of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Quarterstaff_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Impact",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Quarterstaff of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Quarterstaff_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Quarterstaff of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Quarterstaff_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Amplin, the Channeling Bolt",
+    "link": "https://ddowiki.com/page/Item:Amplin,_the_Channeling_Bolt",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Lightning Lash",
+      "Lightning Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist",
+      "Exceptional Spell Focus Mastery +2",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Conduct, the Bolt of Rage",
+    "link": "https://ddowiki.com/page/Item:Conduct,_the_Bolt_of_Rage",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lightning Lash",
+      "Legendary Electric Storm",
+      "Shocking Blast 7",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Quarterstaff",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Quarterstaff",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Quarterstaff",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

@@ -1,0 +1,579 @@
+[
+  {
+    "name": "Ethereal Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Hand_Axe",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Hand_Axe",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Crystalline Frostaxe",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Frostaxe",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Chilling 2",
+      "Minor Freezing Ice",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Hand_Axe",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Hand_Axe",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Firesplitter",
+    "link": "https://ddowiki.com/page/Item:Firesplitter",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Flaming Blast 2",
+      "Incineration",
+      "Fire Absorption +18%",
+      "The Dread Isle's Curse",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Hand_Axe",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Forgotten Axe",
+    "link": "https://ddowiki.com/page/Item:Forgotten_Axe",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Reverberating 3",
+      "Screeching 7",
+      "Improved Destruction",
+      "Maiming 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Sinister Handaxe",
+    "link": "https://ddowiki.com/page/Item:Sinister_Handaxe",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Bleed",
+      "Keen",
+      "Maiming",
+      "Better Offhanded",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Hand_Axe",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Undead Bane 3",
+      "Holy 3",
+      "Fiery 3",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Macabre_Hand_Axe",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Alchemical Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Hand_Axe",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Green Steel Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Hand_Axe",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Hand Axe of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Hand_Axe_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Hand Axe of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Hand_Axe_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Axe of the Unseen Blow",
+    "link": "https://ddowiki.com/page/Item:Axe_of_the_Unseen_Blow",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Finesse",
+      "True Chaos",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Syranian_Hand_Axe",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Hand_Axe",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Hand_Axe",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Hand_Axe",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Hand_Axe",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Hand_Axe",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Hand_Axe",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Legendary Forgotten Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Forgotten_Axe",
+    "minLevel": "28",
+    "enhancements": [
+      "+13 Enhancement Bonus",
+      "Reverberating 6",
+      "Screeching 14",
+      "Improved Destruction",
+      "Maiming 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Tornado",
+    "link": "https://ddowiki.com/page/Item:Tornado",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Reverberating 6",
+      "Legendary Slicing Winds",
+      "Legendary Telekinetic",
+      "Legendary Sirocco",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Sinister Handaxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sinister_Handaxe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Greater Bleeding",
+      "Keen",
+      "Greater Maiming",
+      "Better Offhanded",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Hand_Axe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Magmatic Reaver",
+    "link": "https://ddowiki.com/page/Item:The_Magmatic_Reaver",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "Keen",
+      "Armor-Piercing - 21%",
+      "Flamebitten",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Hand_Axe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Hand_Axe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Hand_Axe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Hunter's Handaxe",
+    "link": "https://ddowiki.com/page/Item:The_Hunter%27s_Handaxe",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Sovereign Vorpal",
+      "Sonic Blast 6",
+      "Fetters of Unreality",
+      "Insightful Resonance +74",
+      "Quality Resonance +36",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Alchemical Handaxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Handaxe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Hand_Axe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Firesplitter",
+    "link": "https://ddowiki.com/page/Item:Legendary_Firesplitter",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Flaming Blast 6",
+      "Incineration",
+      "Fire Absorption +36%",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Red Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Hand_Axe",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Hand_Axe",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Hand_Axe",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Char, the Hellstorm's Edge",
+    "link": "https://ddowiki.com/page/Item:Char,_the_Hellstorm%27s_Edge",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Stormreaver's Thunderclap",
+      "Overwhelming Incineration",
+      "3rd Degree Burns",
+      "Cursed Maelstrom",
+      "Planar Searing",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "Legendary Forbidden Knowledge"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Hand_Axe",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Hand Axe of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hand_Axe_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Hand Axe of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hand_Axe_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Hand Axe of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Hand_Axe_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Hand_Axe",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Hand Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Hand_Axe",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

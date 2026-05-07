@@ -1,0 +1,24 @@
+{
+  "name": "ddocodexwebsite",
+  "version": "1.0.0",
+  "description": "A Dungeons and Dragons Online AI-powered complete gear planner including filligrees and item augments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inigomz/DDOcodexWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inigomz/DDOcodexWebsite/issues"
+  },
+  "homepage": "https://github.com/inigomz/DDOcodexWebsite#readme",
+  "dependencies": {
+    "axios": "^1.16.0",
+    "cheerio": "^1.2.0"
+  }
+}

@@ -1,0 +1,869 @@
+[
+  {
+    "name": "Ember Rapier",
+    "link": "https://ddowiki.com/page/Item:Ember_Rapier",
+    "minLevel": "1",
+    "enhancements": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Thera's Rapier",
+    "link": "https://ddowiki.com/page/Item:Thera%27s_Rapier",
+    "minLevel": "1",
+    "enhancements": [
+      "Lesser Monstrous Humanoid Bane"
+    ]
+  },
+  {
+    "name": "Rusty Rapier",
+    "link": "https://ddowiki.com/page/Item:Rusty_Rapier",
+    "minLevel": "1",
+    "enhancements": [
+      "Starter"
+    ]
+  },
+  {
+    "name": "Spider Spike",
+    "link": "https://ddowiki.com/page/Item:Spider_Spike",
+    "minLevel": "2",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Lesser Vermin Bane",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "+1 Starter Rapier",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Rapier",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Sworn Silver Rapier",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Rapier",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ethereal Rapier",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Rapier",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Duelist's Epee",
+    "link": "https://ddowiki.com/page/Item:Duelist%27s_Epee",
+    "minLevel": "3",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Keen",
+      "Humanoid Bane 2",
+      "Deception",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Elemental Rapier of Air (level 4)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Rapier_of_Air_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Shock",
+      "Electric Resistance +11"
+    ]
+  },
+  {
+    "name": "Calomel Rapier (level 4)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Rapier_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Dragon Bane 2",
+      "Tidal"
+    ]
+  },
+  {
+    "name": "The Frozen Skull",
+    "link": "https://ddowiki.com/page/Item:The_Frozen_Skull",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Chilling 2",
+      "Minor Freezing Ice",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Corroded Rapier",
+    "link": "https://ddowiki.com/page/Item:Corroded_Rapier",
+    "minLevel": "5",
+    "enhancements": [
+      "Spellcasting Implement +3",
+      "+1 Enhancement Bonus",
+      "Devotion +36",
+      "Silver",
+      "Unraveling Enchantments"
+    ]
+  },
+  {
+    "name": "Elyd Edge",
+    "link": "https://ddowiki.com/page/Item:Elyd_Edge",
+    "minLevel": "5",
+    "enhancements": [
+      "Spellcasting Implement +5",
+      "+2 Enhancement Bonus",
+      "Charisma +4",
+      "Devotion +59",
+      "Anthem",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Rapier",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Rapier",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Rapier",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Rapier",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dueling Schlager",
+    "link": "https://ddowiki.com/page/Item:Dueling_Schlager",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nuushmaar's Adamantine Tooth",
+    "link": "https://ddowiki.com/page/Item:Nuushmaar%27s_Adamantine_Tooth",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sheridan's Ruin",
+    "link": "https://ddowiki.com/page/Item:Sheridan%27s_Ruin",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Elemental Rapier of Air (level 8)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Rapier_of_Air_(level_8)",
+    "minLevel": "8",
+    "enhancements": []
+  },
+  {
+    "name": "Calomel Rapier (level 8)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Rapier_(level_8)",
+    "minLevel": "8",
+    "enhancements": []
+  },
+  {
+    "name": "Calamitous Rapier",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Rapier",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Tyrzza's Bane",
+    "link": "https://ddowiki.com/page/Item:Tyrzza%27s_Bane",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "True Law",
+      "Cold Iron",
+      "Pure Good",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Rapier",
+    "link": "https://ddowiki.com/page/Item:Macabre_Rapier",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Rapier",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Rapier",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Toothpick",
+    "link": "https://ddowiki.com/page/Item:Toothpick",
+    "minLevel": "12",
+    "enhancements": [
+      "Greater Giant Bane",
+      "Masterwork"
+    ]
+  },
+  {
+    "name": "Green Steel Rapier",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Rapier",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Fell Rapier of Ice",
+    "link": "https://ddowiki.com/page/Item:Fell_Rapier_of_Ice",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Boreal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Alchemical Rapier",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Rapier",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Elemental Rapier of Air (level 12)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Rapier_of_Air_(level_12)",
+    "minLevel": "12",
+    "enhancements": []
+  },
+  {
+    "name": "Calomel Rapier (level 12)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Rapier_(level_12)",
+    "minLevel": "12",
+    "enhancements": []
+  },
+  {
+    "name": "Rapier of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Rapier_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Rapier of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Rapier_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Turbulent Epee",
+    "link": "https://ddowiki.com/page/Item:Turbulent_Epee",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Turbulent Burst",
+      "Treason",
+      "Metalline",
+      "Aligned"
+    ]
+  },
+  {
+    "name": "Thunderstrike",
+    "link": "https://ddowiki.com/page/Item:Thunderstrike",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Armor-Piercing - 13%",
+      "Electrifying 4",
+      "Jolting 9",
+      "Quality Seeker +1",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Fine Finesse",
+    "link": "https://ddowiki.com/page/Item:Fine_Finesse",
+    "minLevel": "15",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Fiery 3",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Syranian Rapier",
+    "link": "https://ddowiki.com/page/Item:Syranian_Rapier",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Holy 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Bloody Bite",
+    "link": "https://ddowiki.com/page/Item:Bloody_Bite",
+    "minLevel": "15",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Piercing 3",
+      "Shockwave",
+      "Proficiency: Rapier"
+    ]
+  },
+  {
+    "name": "Elemental Rapier of Air (level 16)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Rapier_of_Air_(level_16)",
+    "minLevel": "16",
+    "enhancements": []
+  },
+  {
+    "name": "Calomel Rapier (level 16)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Rapier_(level_16)",
+    "minLevel": "16",
+    "enhancements": []
+  },
+  {
+    "name": "Shining Reliquary Rapier",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Rapier",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Rapier",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Rapier",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Elyd Edge",
+    "link": "https://ddowiki.com/page/Item:Epic_Elyd_Edge",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Charisma +9",
+      "Cacophony",
+      "Inspiring Echoes",
+      "Sonic Blast 4",
+      "Healing Lore +16%",
+      "Devotion +111",
+      "Anthem",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Calomel Rapier",
+    "link": "https://ddowiki.com/page/Item:Epic_Calomel_Rapier",
+    "minLevel": "20",
+    "enhancements": []
+  },
+  {
+    "name": "Epic Elemental Rapier of Air",
+    "link": "https://ddowiki.com/page/Item:Epic_Elemental_Rapier_of_Air",
+    "minLevel": "20",
+    "enhancements": []
+  },
+  {
+    "name": "Epic Ethereal Rapier",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Rapier",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Rapier",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Rapier",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Duelist's Epee",
+    "link": "https://ddowiki.com/page/Item:Epic_Duelist%27s_Epee",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Keen",
+      "Humanoid Bane 4",
+      "Improved Deception +17",
+      "Dodge +9%",
+      "Mortal Strike",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Drow Rapier of the Weapon Master",
+    "link": "https://ddowiki.com/page/Item:Drow_Rapier_of_the_Weapon_Master",
+    "minLevel": "21",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Rapier",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Rapier",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Balizarde, Protector of the King",
+    "link": "https://ddowiki.com/page/Item:Balizarde,_Protector_of_the_King",
+    "minLevel": "23",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Keen",
+      "Hemorrhaging",
+      "Parrying VIII",
+      "Dodge +8%",
+      "Good Luck  +2",
+      "Attuned to Heroism"
+    ]
+  },
+  {
+    "name": "Mutineer's Blade",
+    "link": "https://ddowiki.com/page/Item:Mutineer%27s_Blade",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Dexterity +8",
+      "Ghostbane VIII",
+      "Brilliance",
+      "Coruscating",
+      "Improved Disruption",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Rapier",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Legendary Thunderstrike",
+    "link": "https://ddowiki.com/page/Item:Legendary_Thunderstrike",
+    "minLevel": "28",
+    "enhancements": [
+      "+13 Enhancement Bonus",
+      "Armor-Piercing - 21%",
+      "Electrifying 6",
+      "Jolting 14",
+      "Quality Seeker +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flow, the Piercer of Hearts",
+    "link": "https://ddowiki.com/page/Item:Flow,_the_Piercer_of_Hearts",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fetters of Unreality",
+      "Bewildering 3",
+      "Anarchic 6",
+      "Guardbreaking",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Vivace, the Dreamcarver",
+    "link": "https://ddowiki.com/page/Item:Vivace,_the_Dreamcarver",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Sound and Silence",
+      "Sonic Spell Crit Damage",
+      "Sonic Lore +22%",
+      "Resonance +148",
+      "Crystal",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Rapier",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Rapier",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Rapier",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Rapier",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Rapier",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Rapier",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Pomura's Impaler",
+    "link": "https://ddowiki.com/page/Item:Pomura%27s_Impaler",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Sovereign Vorpal",
+      "Cold Vulnerability",
+      "Icy Blast 6",
+      "Insightful Glaciation +74",
+      "Quality Glaciation +36",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Alchemical Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Rapier",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Rapier",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Duelist's Epee",
+    "link": "https://ddowiki.com/page/Item:Legendary_Duelist%27s_Epee",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Humanoid Bane 6",
+      "Improved Deception +20",
+      "Dodge +13%",
+      "Mortal Strike",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Elyd Edge",
+    "link": "https://ddowiki.com/page/Item:Legendary_Elyd_Edge",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Charisma +13",
+      "Cacophony",
+      "Inspiring Echoes",
+      "Sonic Blast 6",
+      "Healing Lore +21%",
+      "Devotion +146",
+      "Anthem",
+      "Silver",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Rapier",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Rapier",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Rapier",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Rapier",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Rapier",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Rapier",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Rapier of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Rapier_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Rapier of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Rapier_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Folly, the Thorn of Cormanthyr",
+    "link": "https://ddowiki.com/page/Item:Folly,_the_Thorn_of_Cormanthyr",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Flamescale",
+      "Metalline",
+      "3rd Degree Burns",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Rapier of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Rapier_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Rapier",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Rapier",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

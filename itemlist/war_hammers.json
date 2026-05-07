@@ -1,0 +1,979 @@
+[
+  {
+    "name": "Ethereal Warhammer",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Warhammer",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Warhammer",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Warhammer",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Mournlode Warhammer (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Warhammer_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Righteous",
+      "Undead Bane 2"
+    ]
+  },
+  {
+    "name": "Spectral Warhammer (level 4)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Crushing 4"
+    ]
+  },
+  {
+    "name": "Hull-Wrecker's Hammer (level 4)",
+    "link": "https://ddowiki.com/page/Item:Hull-Wrecker%27s_Hammer_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Bludgeoning 2",
+      "Construct Bane 2",
+      "Destruction",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Squid Smasher",
+    "link": "https://ddowiki.com/page/Item:Squid_Smasher",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Doublestrike 4%",
+      "Righteous",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Warhammer",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Warhammer",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Warhammer",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Warhammer",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ol' Reliable",
+    "link": "https://ddowiki.com/page/Item:Ol%27_Reliable",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Force Blast 2",
+      "Aligned",
+      "Melee Alacrity 5%",
+      "Human Bane 2",
+      "Red Augment Slot",
+      "The Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Nightforge Hammer",
+    "link": "https://ddowiki.com/page/Item:Nightforge_Hammer",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Jeweled Hammer",
+    "link": "https://ddowiki.com/page/Item:Jeweled_Hammer",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Command +2",
+      "Impact",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Mournlode Warhammer (level 8)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Warhammer_(level_8)",
+    "minLevel": "8",
+    "enhancements": []
+  },
+  {
+    "name": "Hull-Wrecker's Hammer (level 8)",
+    "link": "https://ddowiki.com/page/Item:Hull-Wrecker%27s_Hammer_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Bludgeoning 2",
+      "Construct Bane 2",
+      "Destruction",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectral Warhammer (level 8)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Vorpal",
+      "Crushing 6"
+    ]
+  },
+  {
+    "name": "Calamitous Warhammer",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Warhammer",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Echo of Whelm",
+    "link": "https://ddowiki.com/page/Item:Echo_of_Whelm",
+    "minLevel": "9",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Whelming Shockwave",
+      "Blunt Trauma",
+      "Lesser Boneshatter",
+      "Giant Bane 3",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Warhammer",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Warhammer",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Warhammer",
+    "link": "https://ddowiki.com/page/Item:Macabre_Warhammer",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Green Steel Warhammer",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Warhammer",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (historic)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(historic)",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Sonic Lore V",
+      "Thundering",
+      "Resonance +66",
+      "Stunning +8"
+    ]
+  },
+  {
+    "name": "Alchemical Warhammer",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Warhammer",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (level 12)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Sonic Lore V",
+      "Resonance +66",
+      "Thundering",
+      "Stunning +8"
+    ]
+  },
+  {
+    "name": "Mournlode Warhammer (level 12)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Warhammer_(level_12)",
+    "minLevel": "12",
+    "enhancements": []
+  },
+  {
+    "name": "Spectral Warhammer (level 12)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Ghostbane 3",
+      "Evil Outsider Bane 3",
+      "Vorpal",
+      "Crushing 7"
+    ]
+  },
+  {
+    "name": "Hull-Wrecker's Hammer (level 12)",
+    "link": "https://ddowiki.com/page/Item:Hull-Wrecker%27s_Hammer_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Bludgeoning 3",
+      "Construct Bane 3",
+      "Destruction",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (level 13)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Sonic Lore V",
+      "Resonance +66",
+      "Thundering",
+      "Stunning +10"
+    ]
+  },
+  {
+    "name": "Warhammer of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Warhammer_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Impact",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Warhammer of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Warhammer_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (level 14)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Sonic Lore V",
+      "Resonance +72",
+      "Shrieking",
+      "Stunning +10"
+    ]
+  },
+  {
+    "name": "Stormreach Guardian's Hammer",
+    "link": "https://ddowiki.com/page/Item:Stormreach_Guardian%27s_Hammer",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Chilling 3",
+      "Crushing 8",
+      "Ghost Touch",
+      "Shockwave",
+      "Red Augment Slot",
+      "Renegade Champion"
+    ]
+  },
+  {
+    "name": "The Banhammer",
+    "link": "https://ddowiki.com/page/Item:The_Banhammer",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Vorpal",
+      "Improved Banishing",
+      "Improved Smiting",
+      "Improved Disruption",
+      "Anchoring",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Forge",
+    "link": "https://ddowiki.com/page/Item:Forge",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Fiery 4",
+      "Flaming 9",
+      "Jolting 9",
+      "Seeker +8",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Warhammer",
+    "link": "https://ddowiki.com/page/Item:Syranian_Warhammer",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Earthshatter Warhammer",
+    "link": "https://ddowiki.com/page/Item:Earthshatter_Warhammer",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Greater Stone Prison",
+      "Rock Shattering",
+      "Maiming",
+      "Unwieldy"
+    ]
+  },
+  {
+    "name": "Mournlode Warhammer (level 16)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Warhammer_(level_16)",
+    "minLevel": "16",
+    "enhancements": []
+  },
+  {
+    "name": "Spectral Warhammer (level 16)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 9"
+    ]
+  },
+  {
+    "name": "Hull-Wrecker's Hammer (level 16)",
+    "link": "https://ddowiki.com/page/Item:Hull-Wrecker%27s_Hammer_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Bludgeoning 4",
+      "Construct Bane 4",
+      "Destruction",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Warhammer",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Warhammer",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Warhammer",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Warhammer",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Mournlode Warhammer",
+    "link": "https://ddowiki.com/page/Item:Epic_Mournlode_Warhammer",
+    "minLevel": "20",
+    "enhancements": []
+  },
+  {
+    "name": "Spectral Warhammer (level 20)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 10"
+    ]
+  },
+  {
+    "name": "Epic Hull-Wrecker's Hammer (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Hull-Wrecker%27s_Hammer_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Bludgeoning 4",
+      "Construct Bane 4",
+      "Improved Destruction",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Warhammer",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Warhammer",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Warhammer",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Warhammer",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Drow Warhammer of the Weapon Master",
+    "link": "https://ddowiki.com/page/Item:Drow_Warhammer_of_the_Weapon_Master",
+    "minLevel": "21",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Warhammer",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Warhammer",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Mornh, Hammer of the Mountains",
+    "link": "https://ddowiki.com/page/Item:Mornh,_Hammer_of_the_Mountains",
+    "minLevel": "23",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Fracturing",
+      "Magma Surge",
+      "Stunning +10",
+      "Seeker +10",
+      "Adamantine",
+      "Attuned to Heroism"
+    ]
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (level 23)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Sonic Lore VI",
+      "Resonance +108",
+      "Shrieking",
+      "Stunning +10"
+    ]
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (level 24)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Sonic Lore VI",
+      "Resonance +114",
+      "Shrieking",
+      "Stunning +10"
+    ]
+  },
+  {
+    "name": "Spectral Warhammer (level 24)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Ghostbane 5",
+      "Evil Outsider Bane 5",
+      "Greater Vorpal",
+      "Crushing 12"
+    ]
+  },
+  {
+    "name": "Epic Hull-Wrecker's Hammer (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Hull-Wrecker%27s_Hammer_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Bludgeoning 5",
+      "Construct Bane 5",
+      "Improved Destruction",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (level 25)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Sonic Lore VI",
+      "Resonance +120",
+      "Wailing",
+      "Stunning +10"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Warhammer",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Legendary Forge",
+    "link": "https://ddowiki.com/page/Item:Legendary_Forge",
+    "minLevel": "28",
+    "enhancements": [
+      "+13 Enhancement Bonus",
+      "Fiery 6",
+      "Flaming 14",
+      "Jolting 14",
+      "Seeker +13",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Reflection of Whelm",
+    "link": "https://ddowiki.com/page/Item:Reflection_of_Whelm",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Overwhelming Shockwave",
+      "Blunt Trauma",
+      "Bonesplitter",
+      "Giant Bane 6",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Hull-Wrecker's Hammer (level 28)",
+    "link": "https://ddowiki.com/page/Item:Epic_Hull-Wrecker%27s_Hammer_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Bludgeoning 6",
+      "Construct Bane 6",
+      "Improved Destruction",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectral Warhammer (level 28)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 13"
+    ]
+  },
+  {
+    "name": "Legendary Stormreach Guardian's Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Stormreach_Guardian%27s_Hammer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Crushing 14",
+      "Ghost Touch",
+      "Shockwave",
+      "Red Augment Slot",
+      "Renegade Champion (Legendary)"
+    ]
+  },
+  {
+    "name": "Legendary Echo of Whelm",
+    "link": "https://ddowiki.com/page/Item:Legendary_Echo_of_Whelm",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Whelming Shockwave",
+      "Blunt Trauma",
+      "Bonesplitter",
+      "Giant Bane 6",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Warhammer",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Warhammer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Warhammer",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Warhammer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Warhammer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Warhammer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Alchemical Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Warhammer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Warhammer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ol' Reliable",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ol%27_Reliable",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 6",
+      "Aligned",
+      "Melee Alacrity 15%",
+      "Human Bane 6",
+      "Red Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Warhammer",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Warhammer",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Warhammer",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Warhammer",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Hull-Wrecker's Hammer (level 32)",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hull-Wrecker%27s_Hammer_(level_32)",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Bludgeoning 6",
+      "Construct Bane 6",
+      "Improved Destruction",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Warhammer",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Pestle, the Crucible of Bones",
+    "link": "https://ddowiki.com/page/Item:Pestle,_the_Crucible_of_Bones",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Felling the Oak",
+      "Cursed Maelstrom",
+      "Blunt Trauma",
+      "Improved Destruction",
+      "Planar Searing",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "Legendary Forbidden Knowledge"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Warhammer",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Warhammer of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Warhammer_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Impact",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Warhammer of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Warhammer_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Warhammer of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Warhammer_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Audion, the Shattering Way",
+    "link": "https://ddowiki.com/page/Item:Audion,_the_Shattering_Way",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Rupturing Echo",
+      "Blunt Trauma",
+      "Felling the Oak",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Soniar, the Echo of Pain",
+    "link": "https://ddowiki.com/page/Item:Soniar,_the_Echo_of_Pain",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Rupturing Echo",
+      "Sonic Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Warhammer",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Warhammer",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

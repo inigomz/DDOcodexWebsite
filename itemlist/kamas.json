@@ -1,0 +1,755 @@
+[
+  {
+    "name": "Nicked Kama",
+    "link": "https://ddowiki.com/page/Item:Nicked_Kama",
+    "minLevel": "2",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Electrifying 2",
+      "Tendon Slice +3",
+      "Deadly +3"
+    ]
+  },
+  {
+    "name": "+1 Starter Kama",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Kama",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Ethereal Kama",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Kama",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Kama",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Kama",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Kama",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Kama",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Kama",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Kama",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Rahl's Wrath",
+    "link": "https://ddowiki.com/page/Item:Rahl%27s_Wrath",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Absolute Law",
+      "Cold Resistance +30",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Kama",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Kama",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Kama",
+    "link": "https://ddowiki.com/page/Item:Macabre_Kama",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Kama",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Kama",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Green Steel Kama",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Kama",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Redemption",
+    "link": "https://ddowiki.com/page/Item:Redemption",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Holy",
+      "Cold Resistance +30",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Alchemical Kama",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Kama",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Kama of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Kama_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Kama of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Kama_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Forester's Brush Hook (level 15)",
+    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Bleed",
+      "Metalline",
+      "Aligned"
+    ]
+  },
+  {
+    "name": "Sunken Obscurity",
+    "link": "https://ddowiki.com/page/Item:Sunken_Obscurity",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Negativity 4",
+      "Keen",
+      "Improved Deception",
+      "Cold Iron",
+      "Red Augment Slot",
+      "Inevitable Balance"
+    ]
+  },
+  {
+    "name": "Sunken Blasphemy",
+    "link": "https://ddowiki.com/page/Item:Sunken_Blasphemy",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Unholy 4",
+      "Keen",
+      "Bleeding 4",
+      "Adamantine",
+      "Red Augment Slot",
+      "Inevitable Balance"
+    ]
+  },
+  {
+    "name": "Sunken Virtue",
+    "link": "https://ddowiki.com/page/Item:Sunken_Virtue",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Holy 4",
+      "Keen",
+      "Axiomatic 4",
+      "Silver",
+      "Red Augment Slot",
+      "Inevitable Balance"
+    ]
+  },
+  {
+    "name": "Sunken Radiance",
+    "link": "https://ddowiki.com/page/Item:Sunken_Radiance",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Coruscating 4",
+      "Keen",
+      "Banishing",
+      "Flametouched Iron",
+      "Red Augment Slot",
+      "Inevitable Balance"
+    ]
+  },
+  {
+    "name": "Syranian Kama",
+    "link": "https://ddowiki.com/page/Item:Syranian_Kama",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Forester's Brush Hook (level 16)",
+    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Bleed",
+      "Metalline",
+      "Aligned"
+    ]
+  },
+  {
+    "name": "Forester's Brush Hook (level 17)",
+    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(level_17)",
+    "minLevel": "17",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Hemorrhaging",
+      "Metalline",
+      "Aligned"
+    ]
+  },
+  {
+    "name": "Dream Edge",
+    "link": "https://ddowiki.com/page/Item:Dream_Edge",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Maiming",
+      "Aligned",
+      "Bodyfeeder",
+      "Absolute Law",
+      "Acid Absorption +20%",
+      "Armor Bonus +8",
+      "Banishing",
+      "Cold Absorption +20%",
+      "Competence Healing Amplification +60",
+      "Cursespewing",
+      "Deception",
+      "Destruction",
+      "Electric Absorption +20%",
+      "Elf Bane",
+      "Enhanced Ki +1",
+      "Everbright",
+      "Feather Falling",
+      "Finesse",
+      "Fire Absorption +20%",
+      "Ghostly",
+      "Gnoll Bane",
+      "Good Luck  +2",
+      "Greater Goblinoid Bane",
+      "Greater Good",
+      "Greater Lawful Outsider Bane",
+      "Greater Monstrous Humanoid Bane",
+      "Lesser Dwarf Bane",
+      "Lesser Evil Outsider Bane",
+      "Lesser Goblinoid Bane",
+      "Lesser Reptilian Bane",
+      "Melee Alacrity 10%",
+      "Metalline",
+      "Natural Armor +4",
+      "Paralyzing",
+      "Parrying I",
+      "Plant Slaying",
+      "Pure Good",
+      "Resistance +5",
+      "Shattermantle",
+      "Smiting",
+      "Telekinetic",
+      "True Law",
+      "Underwater Action",
+      "Vicious",
+      "Vorpal",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Kama",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Kama",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Kama",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Kama",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Kama",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Kama",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Kama",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Kama",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Forester's Brush Hook (level 22)",
+    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(level_22)",
+    "minLevel": "22",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Hemorrhaging",
+      "Metalline",
+      "Aligned"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Kama",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Kama",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Forester's Brush Hook (level 23)",
+    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Phlebotomizing",
+      "Metalline",
+      "Aligned"
+    ]
+  },
+  {
+    "name": "Forester's Brush Hook (level 24)",
+    "link": "https://ddowiki.com/page/Item:Forester%27s_Brush_Hook_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Phlebotomizing",
+      "Metalline",
+      "Aligned"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Kama",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Kama",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Legendary Sunken Obscurity",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sunken_Obscurity",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Negativity 6",
+      "Keen",
+      "Improved Deception",
+      "Cold Iron",
+      "Red Augment Slot",
+      "Legendary Inevitable Balance"
+    ]
+  },
+  {
+    "name": "Legendary Sunken Blasphemy",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sunken_Blasphemy",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Unholy 6",
+      "Keen",
+      "Bleeding 6",
+      "Adamantine",
+      "Red Augment Slot",
+      "Legendary Inevitable Balance"
+    ]
+  },
+  {
+    "name": "Legendary Sunken Radiance",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sunken_Radiance",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Coruscating 6",
+      "Keen",
+      "Sovereign Banishing",
+      "Flametouched Iron",
+      "Red Augment Slot",
+      "Legendary Inevitable Balance"
+    ]
+  },
+  {
+    "name": "Legendary Sunken Virtue",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sunken_Virtue",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Holy 6",
+      "Keen",
+      "Axiomatic 6",
+      "Silver",
+      "Red Augment Slot",
+      "Legendary Inevitable Balance"
+    ]
+  },
+  {
+    "name": "Morninglord's Kama",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Kama",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Kama",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Kama",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Kama",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Kama",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Kama",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Kama",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Inferno's Demands",
+    "link": "https://ddowiki.com/page/Item:The_Inferno%27s_Demands",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Fire Vulnerability",
+      "Insightful Combustion +74",
+      "Insightful Evocation Focus +3",
+      "The Labyrinthian Inferno",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Inferno's Desire",
+    "link": "https://ddowiki.com/page/Item:The_Inferno%27s_Desire",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Overwhelming Incineration",
+      "Mind Tear",
+      "Fire Lore +22%",
+      "Combustion +148",
+      "The Labyrinthian Inferno",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Alchemical Kama",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Kama",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Kama",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Kama",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Kama",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Kama",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Kama",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Kama",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Kama",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Kama",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Kama",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Kama",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Kama of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Kama_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Kama of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Kama_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Spur, the Claw of Death",
+    "link": "https://ddowiki.com/page/Item:Spur,_the_Claw_of_Death",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Life Stealing",
+      "Legendary Paralysis",
+      "Overwhelming Incineration",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Kama of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Kama_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Kama",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Kama",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Cleaving Claw",
+    "link": "https://ddowiki.com/page/Item:The_Cleaving_Claw",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Murderous Edge",
+      "Revel in Blood (Slashing)",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Kama",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Kama",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

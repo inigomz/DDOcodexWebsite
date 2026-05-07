@@ -1,0 +1,625 @@
+[
+  {
+    "name": "Brakhash's Axe",
+    "link": "https://ddowiki.com/page/Item:Brakhash%27s_Axe",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ethereal Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Battle_Axe",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Battle_Axe",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Battle_Axe",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Battle_Axe",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Iron Cleaver",
+    "link": "https://ddowiki.com/page/Item:Iron_Cleaver",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Acid Burst",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Battle_Axe",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Unkor's Cleaver",
+    "link": "https://ddowiki.com/page/Item:Unkor%27s_Cleaver",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Keen",
+      "Vorpal",
+      "Bleeding 3",
+      "Fracturing 3",
+      "Red Augment Slot",
+      "Windlasher's Ferocity"
+    ]
+  },
+  {
+    "name": "Bereavement",
+    "link": "https://ddowiki.com/page/Item:Bereavement",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Seeker +10",
+      "Keen"
+    ]
+  },
+  {
+    "name": "Macabre Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Macabre_Battle_Axe",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Battle_Axe",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Alchemical Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Battle_Axe",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Green Steel Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Battle_Axe",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Axe of Adaxus (level 12)",
+    "link": "https://ddowiki.com/page/Item:Axe_of_Adaxus_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Red Augment Slot",
+      "Fire Resistance +20"
+    ]
+  },
+  {
+    "name": "Axe of Adaxus (level 13)",
+    "link": "https://ddowiki.com/page/Item:Axe_of_Adaxus_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Battle Axe of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Battle_Axe_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Battle Axe of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Battle_Axe_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Serrulae",
+    "link": "https://ddowiki.com/page/Item:Serrulae",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Vertigo +10",
+      "Metalline",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Axe of Adaxus (level 14)",
+    "link": "https://ddowiki.com/page/Item:Axe_of_Adaxus_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Syranian_Battle_Axe",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Battle_Axe",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Battle_Axe",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Unkor's Cleaver",
+    "link": "https://ddowiki.com/page/Item:Epic_Unkor%27s_Cleaver",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Keen",
+      "Improved Vorpal",
+      "Bleeding 4",
+      "Fracturing 4",
+      "Limb Chopper",
+      "Jerky",
+      "Red Augment Slot",
+      "Epic Windlasher's Ferocity"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Battle_Axe",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Battle_Axe",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Battle_Axe",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Axe of Adaxus (level 23)",
+    "link": "https://ddowiki.com/page/Item:Axe_of_Adaxus_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Axe of Adaxus (level 24)",
+    "link": "https://ddowiki.com/page/Item:Axe_of_Adaxus_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Axe of Adaxus (level 25)",
+    "link": "https://ddowiki.com/page/Item:Axe_of_Adaxus_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Battle_Axe",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Dusk, the Light Descends",
+    "link": "https://ddowiki.com/page/Item:Dusk,_the_Light_Descends",
+    "minLevel": "28",
+    "enhancements": [
+      "Spellcasting Implement +28",
+      "+15 Enhancement Bonus",
+      "Radiance +145",
+      "Radiance Lore +21%",
+      "Evocation Focus +6",
+      "Brazen Brilliance",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Untold, Crack in the Sky",
+    "link": "https://ddowiki.com/page/Item:Untold,_Crack_in_the_Sky",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Nearly Finished",
+      "Purple Augment Slot",
+      "Armor-Piercing - 21%",
+      "Completed Weapon",
+      "Fetters of Unreality",
+      "Greater Electric Storm",
+      "Electrifying 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Battle_Axe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Battle_Axe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Battle_Axe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Battle_Axe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Battle_Axe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Alchemical Battleaxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Battleaxe",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Unkor's Cleaver",
+    "link": "https://ddowiki.com/page/Item:Legendary_Unkor%27s_Cleaver",
+    "minLevel": "30",
+    "enhancements": [
+      "Jerky",
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Sovereign Vorpal",
+      "Bleeding 6",
+      "Fracturing 6",
+      "Limb Chopper",
+      "Legendary Windlasher's Ferocity",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Battle_Axe",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Battle_Axe",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Battle_Axe",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Battle_Axe",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Battle Axe of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Battle_Axe_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Battle Axe of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Battle_Axe_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Battle Axe of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Battle_Axe_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Clank, the Echo of Despair",
+    "link": "https://ddowiki.com/page/Item:Clank,_the_Echo_of_Despair",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Rupturing Echo",
+      "Sonic Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Clatter, the Blunted Edge",
+    "link": "https://ddowiki.com/page/Item:Clatter,_the_Blunted_Edge",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Rupturing Echo",
+      "Blunt Trauma",
+      "Guardbreaking",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Battle_Axe",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Battle Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Battle_Axe",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

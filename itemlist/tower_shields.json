@@ -1,0 +1,860 @@
+[
+  {
+    "name": "Adherence",
+    "link": "https://ddowiki.com/page/Item:Adherence",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "DR",
+      "Enchantment Save +6",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Aegis of Aosu'riel",
+    "link": "https://ddowiki.com/page/Item:Aegis_of_Aosu%27riel",
+    "minLevel": "12",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Alignment Absorption +15%",
+      "Quality Constitution +1",
+      "Insightful Physical Sheltering +7",
+      "Resistance +5",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Alchemical Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Tower_Shield",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Azure Tower",
+    "link": "https://ddowiki.com/page/Item:Azure_Tower",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Quality Magical Sheltering +5",
+      "Shield Bashing +14%",
+      "Feat",
+      "Insightful  Incite +35",
+      "Forbidden Knowledge",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Bastion (level 16)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +10%",
+      "DR",
+      "Sheltering +3"
+    ]
+  },
+  {
+    "name": "Bastion (level 17)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_17)",
+    "minLevel": "17",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +10%",
+      "DR",
+      "Sheltering +3"
+    ]
+  },
+  {
+    "name": "Bastion (level 18)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_18)",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +10%",
+      "DR",
+      "Sheltering +6"
+    ]
+  },
+  {
+    "name": "Bastion (level 23)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +10%",
+      "DR",
+      "Sheltering +9"
+    ]
+  },
+  {
+    "name": "Bastion (level 24)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +20%",
+      "DR",
+      "Sheltering +9"
+    ]
+  },
+  {
+    "name": "Bastion (level 25)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +20%",
+      "DR",
+      "Sheltering +12"
+    ]
+  },
+  {
+    "name": "Bulwark of Snow",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_Snow",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Force Absorption +11%",
+      "Avalanche",
+      "Cold Resistance +14",
+      "Mithral",
+      "Red Augment Slot",
+      "Seasons of the Feywild"
+    ]
+  },
+  {
+    "name": "Cataclysmic Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Cataclysmic_Tower_Shield",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Azure Tower",
+    "link": "https://ddowiki.com/page/Item:Defiled_Azure_Tower",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Insightful Shield Bashing +6",
+      "Shield Bashing +14%",
+      "Unholy 4",
+      "Insightful  Diversion +6%",
+      "Forbidden Knowledge",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Demonic Slab",
+    "link": "https://ddowiki.com/page/Item:Demonic_Slab",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Cold Resistance +30",
+      "Vitality +20",
+      "Armor-Piercing - 15%",
+      "Impact",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Tower_Shield",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Scale Slot (Armor): Empty",
+      "Isle of Dread: Fang Slot (Armor): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Epic Demonic Slab",
+    "link": "https://ddowiki.com/page/Item:Epic_Demonic_Slab",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Cold Resistance +50",
+      "Vitality +40",
+      "Armor-Piercing - 20%",
+      "Impact",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Skull of the Sea",
+    "link": "https://ddowiki.com/page/Item:Epic_Skull_of_the_Sea",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Shield Spikes",
+      "Greater Thorn Guard",
+      "Shield Bashing +15%",
+      "Greater Heroism",
+      "Epic Saltmarsh Explorer",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Stone Wall",
+    "link": "https://ddowiki.com/page/Item:Epic_Stone_Wall",
+    "minLevel": "26",
+    "enhancements": [
+      "+10 Enhancement Bonus",
+      "Spearblock VII",
+      "Axeblock VII",
+      "Hardened Exterior 2",
+      "Orlassk's Prison",
+      "Stone Paws",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Templar's Bulwark",
+    "link": "https://ddowiki.com/page/Item:Epic_Templar%27s_Bulwark",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Fire Resistance +36",
+      "Cold Resistance +36",
+      "Electric Resistance +36",
+      "Acid Resistance +36",
+      "Mithral",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Frostforged Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Frostforged_Tower_Shield",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Quality  Incite +9",
+      "Insightful Physical Sheltering +5",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Guardian Mantle",
+    "link": "https://ddowiki.com/page/Item:Guardian_Mantle",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Spearblock III",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Kundarak Trooper's Shield",
+    "link": "https://ddowiki.com/page/Item:Kundarak_Trooper%27s_Shield",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Heroism",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Aegis of Aosu'riel",
+    "link": "https://ddowiki.com/page/Item:Legendary_Aegis_of_Aosu%27riel",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Alignment Absorption +22%",
+      "Quality Constitution +3",
+      "Insightful Physical Sheltering +16",
+      "Resistance +10",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Alchemical Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Tower_Shield",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Azure Tower",
+    "link": "https://ddowiki.com/page/Item:Legendary_Azure_Tower",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Quality Magical Sheltering +8",
+      "Shield Bashing +22%",
+      "Feat",
+      "Insightful  Incite +57",
+      "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Bulwark of Snow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bulwark_of_Snow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Absorption +16%",
+      "Legendary Avalanche",
+      "Shield of Snow",
+      "Cold Resistance +50",
+      "Mithral",
+      "Purple Augment Slot",
+      "Eminence of Winter"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Tower_Shield",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Azure Tower",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Azure_Tower",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Insightful Shield Bashing +10",
+      "Shield Bashing +22%",
+      "Unholy 6",
+      "Insightful  Diversion +10%",
+      "Taint of Evil",
+      "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Frostforged Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frostforged_Tower_Shield",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Quality  Incite +30",
+      "Insightful Physical Sheltering +18",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Mirrorplate Tower",
+    "link": "https://ddowiki.com/page/Item:Legendary_Mirrorplate_Tower",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Spell Save +10",
+      "Quality Magical Sheltering +8",
+      "Block Elements",
+      "Mirror Shield",
+      "Purple Augment Slot",
+      "Adherent of the Mists Set (Legendary)"
+    ]
+  },
+  {
+    "name": "Legendary Rising Sun",
+    "link": "https://ddowiki.com/page/Item:Legendary_Rising_Sun",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Light Absorption +22%",
+      "Coruscating 6",
+      "Insightful Magical Sheltering +16",
+      "Quality Magical Sheltering +8",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Skull of the Sea",
+    "link": "https://ddowiki.com/page/Item:Legendary_Skull_of_the_Sea",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Shield Spikes",
+      "Spike Guard",
+      "Shield Bashing +21%",
+      "Greater Heroism",
+      "Legendary Saltmarsh Explorer",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Templar's Bulwark",
+    "link": "https://ddowiki.com/page/Item:Legendary_Templar%27s_Bulwark",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fire Resistance +51",
+      "Cold Resistance +51",
+      "Electric Resistance +51",
+      "Acid Resistance +51",
+      "Mithral",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Tower Shield of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Tower_Shield_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Insightful  Incite +59",
+      "Rough Hide +14",
+      "Profane Lifeforce +49",
+      "Legendary Conditioning +20%",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Tower Shield of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Tower_Shield_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Conditioning +20%",
+      "Insightful  Incite +59",
+      "Profane Lifeforce +49",
+      "Insightful Intimidate +10",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Wheel of the St. Marie",
+    "link": "https://ddowiki.com/page/Item:Legendary_Wheel_of_the_St._Marie",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Insightful Physical Sheltering +17",
+      "Spell Save +11",
+      "Ghostly",
+      "Quality Wisdom +3",
+      "Red Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Levik's Defender",
+    "link": "https://ddowiki.com/page/Item:Levik%27s_Defender",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Healers Bounty",
+      "Sonic Guard",
+      "Mithral",
+      "Levik's Defender"
+    ]
+  },
+  {
+    "name": "Madstone Aegis",
+    "link": "https://ddowiki.com/page/Item:Madstone_Aegis",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +20%",
+      "Shield Proficiency: Tower Shield",
+      "Attuned to Heroism"
+    ]
+  },
+  {
+    "name": "Madstone Shield",
+    "link": "https://ddowiki.com/page/Item:Madstone_Shield",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Shield Proficiency: Tower Shield",
+      "Upgradeable Item (Stormreaver)"
+    ]
+  },
+  {
+    "name": "Mirrorplate Tower",
+    "link": "https://ddowiki.com/page/Item:Mirrorplate_Tower",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Spell Save +5",
+      "Quality Magical Sheltering +3",
+      "Block Elements",
+      "Mirror Shield",
+      "Purple Augment Slot",
+      "Adherent of the Mists Set (Heroic)"
+    ]
+  },
+  {
+    "name": "Purple Dragon Shield",
+    "link": "https://ddowiki.com/page/Item:Purple_Dragon_Shield",
+    "minLevel": "26",
+    "enhancements": [
+      "+8 Enhancement Bonus",
+      "Constitution +10",
+      "Charisma +10",
+      "Improved Bashing X",
+      "Sovereign Vorpal",
+      "Block Elements",
+      "Zhentarim Attuned"
+    ]
+  },
+  {
+    "name": "Rising Sun",
+    "link": "https://ddowiki.com/page/Item:Rising_Sun",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Light Absorption +17%",
+      "Coruscating 4",
+      "Insightful Magical Sheltering +9",
+      "Quality Magical Sheltering +4",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Shield of the Azure Valkyrie",
+    "link": "https://ddowiki.com/page/Item:Shield_of_the_Azure_Valkyrie",
+    "minLevel": "1",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Armor Mastery +2",
+      "Shield Proficiency: Tower Shield",
+      "Deathblock",
+      "Fortification  +100%",
+      "Regeneration",
+      "True Seeing"
+    ]
+  },
+  {
+    "name": "Skull of the Sea",
+    "link": "https://ddowiki.com/page/Item:Skull_of_the_Sea",
+    "minLevel": "3",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Thorn Guard",
+      "Heroism",
+      "Saltmarsh Explorer",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Skyvault Shield (level 12)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Skyvault Shield (level 13)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Skyvault Shield (level 14)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Skyvault Shield (level 23)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Purple Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Skyvault Shield (level 24)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Purple Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Skyvault Shield (level 25)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Purple Augment Slot",
+      "Red Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Stone Wall",
+    "link": "https://ddowiki.com/page/Item:Stone_Wall",
+    "minLevel": "18",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Spearblock V",
+      "Axeblock V",
+      "Hardened Exterior 1",
+      "Orlassk's Prison",
+      "Stone Paws",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Aegis",
+    "link": "https://ddowiki.com/page/Item:Sworn_Aegis",
+    "minLevel": "21",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Physical Sheltering +25",
+      "Insightful Physical Sheltering +12",
+      "Parrying +4",
+      "Protection +8",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Templar's Bulwark",
+    "link": "https://ddowiki.com/page/Item:Templar%27s_Bulwark",
+    "minLevel": "16",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Fire Resistance +30",
+      "Cold Resistance +30",
+      "Electric Resistance +30",
+      "Acid Resistance +30",
+      "Mithral",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Terminus",
+    "link": "https://ddowiki.com/page/Item:Terminus",
+    "minLevel": "27",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Quality Constitution +3",
+      "Magical Sheltering +33",
+      "Healers Bounty",
+      "Bashing 6",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Darkwood Skull",
+    "link": "https://ddowiki.com/page/Item:The_Darkwood_Skull",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Sheltering +8",
+      "Heroism",
+      "Darkwood",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "The Heart's Walls",
+    "link": "https://ddowiki.com/page/Item:The_Heart%27s_Walls",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Conditioning +20%",
+      "Bottled Heart",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "The Lunar Eclipse",
+    "link": "https://ddowiki.com/page/Item:The_Lunar_Eclipse",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Alignment Absorption +22%",
+      "Quality Constitution +3",
+      "Insightful Physical Sheltering +17",
+      "Mirror Shield",
+      "Green Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Mother Board (level 10)",
+    "link": "https://ddowiki.com/page/Item:The_Mother_Board_(level_10)",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Bashing 3",
+      "Bludgeoning 3",
+      "Ghost Touch",
+      "Impact",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Mother Board (level 15)",
+    "link": "https://ddowiki.com/page/Item:The_Mother_Board_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Bashing 4",
+      "Bludgeoning 4",
+      "Ghost Touch",
+      "Impact",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Mother Board (level 20)",
+    "link": "https://ddowiki.com/page/Item:The_Mother_Board_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Bashing 4",
+      "Bludgeoning 4",
+      "Ghost Touch",
+      "Impact",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Mother Board (level 25)",
+    "link": "https://ddowiki.com/page/Item:The_Mother_Board_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Bashing 5",
+      "Bludgeoning 5",
+      "Ghost Touch",
+      "Impact",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Mother Board (level 30)",
+    "link": "https://ddowiki.com/page/Item:The_Mother_Board_(level_30)",
+    "minLevel": "30",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Bashing 6",
+      "Bludgeoning 6",
+      "Ghost Touch",
+      "Impact",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Mother Board (level 5)",
+    "link": "https://ddowiki.com/page/Item:The_Mother_Board_(level_5)",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Bashing 2",
+      "Bludgeoning 2",
+      "Ghost Touch",
+      "Impact",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Tower Shield of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Tower_Shield_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Insightful  Incite +27",
+      "Rough Hide +7",
+      "Profane Lifeforce +23",
+      "Legendary Conditioning +20%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Tower Shield of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Tower_Shield_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Legendary Conditioning +20%",
+      "Insightful  Incite +27",
+      "Profane Lifeforce +23",
+      "Insightful Intimidate +7",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ultimatum",
+    "link": "https://ddowiki.com/page/Item:Ultimatum",
+    "minLevel": "26",
+    "enhancements": [
+      "+13 Enhancement Bonus",
+      "Physical Sheltering +33",
+      "Improved Bashing X",
+      "Holy 6",
+      "Metalline",
+      "Petrification Immunity",
+      "Purple Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Wheel of the St. Marie",
+    "link": "https://ddowiki.com/page/Item:Wheel_of_the_St._Marie",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Insightful Physical Sheltering +5",
+      "Spell Save +4",
+      "Ghostly",
+      "Quality Wisdom +1",
+      "Red Augment Slot",
+      "The Dread Isle's Curse"
+    ]
+  }
+]

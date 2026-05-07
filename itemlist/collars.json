@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Starter Module",
+    "link": "https://ddowiki.com/page/Item:Starter_Module",
+    "minLevel": "1",
+    "enhancements": [
+      "+1 Enhancement Bonus"
+    ]
+  },
+  {
+    "name": "Fangs of the Wild Hunt",
+    "link": "https://ddowiki.com/page/Item:Fangs_of_the_Wild_Hunt",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Frostbite",
+      "Chilling 2",
+      "Speed +15%",
+      "Doublestrike 4%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thrall of the Fire Temple",
+    "link": "https://ddowiki.com/page/Item:Thrall_of_the_Fire_Temple",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Fire Vulnerability",
+      "Fire Guard II",
+      "Flaming II",
+      "Fire Resistance +10"
+    ]
+  },
+  {
+    "name": "Hound of the Night",
+    "link": "https://ddowiki.com/page/Item:Hound_of_the_Night",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Frostbite",
+      "Speed +20%",
+      "Deadly +5",
+      "Doublestrike 6%",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Thrall of the Fire Temple",
+    "link": "https://ddowiki.com/page/Item:Epic_Thrall_of_the_Fire_Temple",
+    "minLevel": "22",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Fire Vulnerability",
+      "Deadly IX",
+      "Flaming X",
+      "Speed XV",
+      "Greater Flaming Blast",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Hound of the Night",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hound_of_the_Night",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Frostbite",
+      "Speed +30%",
+      "Deadly +10",
+      "Doublestrike 15%",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Fangs of the Wild Hunt",
+    "link": "https://ddowiki.com/page/Item:Legendary_Fangs_of_the_Wild_Hunt",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Frostbite",
+      "Chilling 6",
+      "Speed +30%",
+      "Doublestrike 15%",
+      "Red Augment Slot"
+    ]
+  }
+]

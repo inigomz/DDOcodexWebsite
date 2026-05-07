@@ -1,0 +1,3034 @@
+[
+  {
+    "name": "Madstone Rod",
+    "link": "https://ddowiki.com/page/Item:Madstone_Rod",
+    "minLevel": "1",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Dispel Madstone Effects"
+    ]
+  },
+  {
+    "name": "Wayfinder's Scepter",
+    "link": "https://ddowiki.com/page/Item:Wayfinder%27s_Scepter",
+    "minLevel": "1",
+    "enhancements": [
+      "Search +1"
+    ]
+  },
+  {
+    "name": "Bouquet of Flowers",
+    "link": "https://ddowiki.com/page/Item:Bouquet_of_Flowers",
+    "minLevel": "1",
+    "enhancements": [
+      "Good Hope"
+    ]
+  },
+  {
+    "name": "Smoldering Cudgel",
+    "link": "https://ddowiki.com/page/Item:Smoldering_Cudgel",
+    "minLevel": "1",
+    "enhancements": [
+      "Fire Touch",
+      "Spot -5",
+      "Command +2",
+      "Perform +1"
+    ]
+  },
+  {
+    "name": "Club of the Holy Flame",
+    "link": "https://ddowiki.com/page/Item:Club_of_the_Holy_Flame",
+    "minLevel": "1",
+    "enhancements": [
+      "-1 Enhancement Bonus"
+    ]
+  },
+  {
+    "name": "Scepter of Siberys",
+    "link": "https://ddowiki.com/page/Item:Scepter_of_Siberys",
+    "minLevel": "1",
+    "enhancements": [
+      "Use Magic Device +1"
+    ]
+  },
+  {
+    "name": "Rod of Teleport",
+    "link": "https://ddowiki.com/page/Item:Rod_of_Teleport",
+    "minLevel": "1",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Teleport"
+    ]
+  },
+  {
+    "name": "Romag's Club of Earthen Dominion",
+    "link": "https://ddowiki.com/page/Item:Romag%27s_Club_of_Earthen_Dominion",
+    "minLevel": "1",
+    "enhancements": [
+      "Mastery over Earth Elementals"
+    ]
+  },
+  {
+    "name": "Short Broom of Mystery",
+    "link": "https://ddowiki.com/page/Item:Short_Broom_of_Mystery",
+    "minLevel": "1",
+    "enhancements": [
+      "Purple Faerie Fire"
+    ]
+  },
+  {
+    "name": "Rod of Greater Teleport",
+    "link": "https://ddowiki.com/page/Item:Rod_of_Greater_Teleport",
+    "minLevel": "1",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Greater Teleport"
+    ]
+  },
+  {
+    "name": "Rod of Heal Light Wounds",
+    "link": "https://ddowiki.com/page/Item:Rod_of_Heal_Light_Wounds",
+    "minLevel": "1",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Heal Light Wounds"
+    ]
+  },
+  {
+    "name": "The Balance Bat",
+    "link": "https://ddowiki.com/page/Item:The_Balance_Bat",
+    "minLevel": "1",
+    "enhancements": [
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Muckbane",
+    "link": "https://ddowiki.com/page/Item:Muckbane",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Lesser Ooze Bane",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sceptre of Corrosion",
+    "link": "https://ddowiki.com/page/Item:Sceptre_of_Corrosion",
+    "minLevel": "2",
+    "enhancements": [
+      "Spellcasting Implement +2",
+      "+1 Enhancement Bonus",
+      "Acid Lore +6%",
+      "Corrosion +43",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sceptre of Impulse",
+    "link": "https://ddowiki.com/page/Item:Sceptre_of_Impulse",
+    "minLevel": "2",
+    "enhancements": [
+      "Spellcasting Implement +2",
+      "+1 Enhancement Bonus",
+      "Kinetic Lore +6%",
+      "Impulse +43",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sceptre of Nullification",
+    "link": "https://ddowiki.com/page/Item:Sceptre_of_Nullification",
+    "minLevel": "2",
+    "enhancements": [
+      "Spellcasting Implement +2",
+      "+1 Enhancement Bonus",
+      "Void Lore +6%",
+      "Nullification +43",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sceptre of Devotion",
+    "link": "https://ddowiki.com/page/Item:Sceptre_of_Devotion",
+    "minLevel": "2",
+    "enhancements": [
+      "Spellcasting Implement +2",
+      "+1 Enhancement Bonus",
+      "Healing Lore +6%",
+      "Devotion +43",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sceptre of Combustion",
+    "link": "https://ddowiki.com/page/Item:Sceptre_of_Combustion",
+    "minLevel": "2",
+    "enhancements": [
+      "Spellcasting Implement +2",
+      "+1 Enhancement Bonus",
+      "Fire Lore +6%",
+      "Combustion +43",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ethereal Club",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Club",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sceptre of Magnetism",
+    "link": "https://ddowiki.com/page/Item:Sceptre_of_Magnetism",
+    "minLevel": "2",
+    "enhancements": [
+      "Spellcasting Implement +2",
+      "+1 Enhancement Bonus",
+      "Lightning Lore +6%",
+      "Magnetism +43",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sceptre of Resonation",
+    "link": "https://ddowiki.com/page/Item:Sceptre_of_Resonation",
+    "minLevel": "2",
+    "enhancements": [
+      "Spellcasting Implement +2",
+      "+1 Enhancement Bonus",
+      "Sonic Lore +6%",
+      "Resonance +43",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sceptre of Radiance",
+    "link": "https://ddowiki.com/page/Item:Sceptre_of_Radiance",
+    "minLevel": "2",
+    "enhancements": [
+      "Spellcasting Implement +2",
+      "+1 Enhancement Bonus",
+      "Radiance Lore +6%",
+      "Radiance +43",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sceptre of Glaciation",
+    "link": "https://ddowiki.com/page/Item:Sceptre_of_Glaciation",
+    "minLevel": "2",
+    "enhancements": [
+      "Spellcasting Implement +2",
+      "+1 Enhancement Bonus",
+      "Ice Lore +6%",
+      "Glaciation +43",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Club",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Club",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sceptre of Reconstruction",
+    "link": "https://ddowiki.com/page/Item:Sceptre_of_Reconstruction",
+    "minLevel": "2",
+    "enhancements": [
+      "Spellcasting Implement +2",
+      "+1 Enhancement Bonus",
+      "Repair Lore +6%",
+      "Reconstruction +43",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Rod of Heal Moderate Wounds",
+    "link": "https://ddowiki.com/page/Item:Rod_of_Heal_Moderate_Wounds",
+    "minLevel": "3",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Heal Moderate Wounds"
+    ]
+  },
+  {
+    "name": "Fish Stick",
+    "link": "https://ddowiki.com/page/Item:Fish_Stick",
+    "minLevel": "3",
+    "enhancements": [
+      "Spellcasting Implement +3",
+      "+2 Enhancement Bonus",
+      "Impulse +52",
+      "Kinetic Lore +8%",
+      "Mystic Diversion +5%",
+      "Insightful Mystic Diversion +2%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Fried Fish Stick",
+    "link": "https://ddowiki.com/page/Item:Fried_Fish_Stick",
+    "minLevel": "3",
+    "enhancements": [
+      "Spellcasting Implement +3",
+      "+2 Enhancement Bonus",
+      "Combustion +53",
+      "Fire Lore +8%",
+      "Quality Impulse +12",
+      "Insightful Evocation Focus +1",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Frozen Fish Stick",
+    "link": "https://ddowiki.com/page/Item:Frozen_Fish_Stick",
+    "minLevel": "3",
+    "enhancements": [
+      "Spellcasting Implement +3",
+      "+2 Enhancement Bonus",
+      "Glaciation +53",
+      "Ice Lore +8%",
+      "Insightful Impulse +26",
+      "Evocation Focus +2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Lesser Oblivion",
+    "link": "https://ddowiki.com/page/Item:Lesser_Oblivion",
+    "minLevel": "4",
+    "enhancements": [
+      "Spellcasting Implement +4",
+      "+2 Enhancement Bonus",
+      "Profane Negative Amplification +13",
+      "Nullification +56",
+      "Void Lore +8%",
+      "Heal +7",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Necrotic Forum Post (level 5)",
+    "link": "https://ddowiki.com/page/Item:Necrotic_Forum_Post_(level_5)",
+    "minLevel": "5",
+    "enhancements": [
+      "Spellcasting Implement +5",
+      "+2 Enhancement Bonus",
+      "Nullification +59",
+      "Void Lore +9%",
+      "Insightful Necromancy Focus +1",
+      "Wizardry +71",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Flaming Forum Post (level 5)",
+    "link": "https://ddowiki.com/page/Item:Flaming_Forum_Post_(level_5)",
+    "minLevel": "5",
+    "enhancements": [
+      "Spellcasting Implement +5",
+      "+2 Enhancement Bonus",
+      "Combustion +59",
+      "Fire Lore +9%",
+      "Insightful Evocation Focus +1",
+      "Wizardry +71",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Caustic Forum Post (level 5)",
+    "link": "https://ddowiki.com/page/Item:Caustic_Forum_Post_(level_5)",
+    "minLevel": "5",
+    "enhancements": [
+      "Spellcasting Implement +5",
+      "+2 Enhancement Bonus",
+      "Corrosion +59",
+      "Acid Lore +9%",
+      "Insightful Evocation Focus +1",
+      "Wizardry +71",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Icy Forum Post (level 5)",
+    "link": "https://ddowiki.com/page/Item:Icy_Forum_Post_(level_5)",
+    "minLevel": "5",
+    "enhancements": [
+      "Spellcasting Implement +5",
+      "+2 Enhancement Bonus",
+      "Glaciation +59",
+      "Ice Lore +9%",
+      "Insightful Evocation Focus +1",
+      "Wizardry +71",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Clamorous Forum Post (level 5)",
+    "link": "https://ddowiki.com/page/Item:Clamorous_Forum_Post_(level_5)",
+    "minLevel": "5",
+    "enhancements": [
+      "Spellcasting Implement +5",
+      "+2 Enhancement Bonus",
+      "Resonance +59",
+      "Sonic Lore +9%",
+      "Insightful Evocation Focus +1",
+      "Wizardry +71",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Shocking Forum Post (level 5)",
+    "link": "https://ddowiki.com/page/Item:Shocking_Forum_Post_(level_5)",
+    "minLevel": "5",
+    "enhancements": [
+      "Spellcasting Implement +5",
+      "+2 Enhancement Bonus",
+      "Magnetism +59",
+      "Lightning Lore +9%",
+      "Insightful Evocation Focus +1",
+      "Wizardry +71",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Queen's Sceptre",
+    "link": "https://ddowiki.com/page/Item:The_Queen%27s_Sceptre",
+    "minLevel": "5",
+    "enhancements": [
+      "Spellcasting Implement +5",
+      "+2 Enhancement Bonus",
+      "Potency +33",
+      "Insightful Potency +16",
+      "Spellcraft +7",
+      "Insightful Spellcraft +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Prince's Sceptre",
+    "link": "https://ddowiki.com/page/Item:The_Prince%27s_Sceptre",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Spell Focus Mastery +2",
+      "Insightful Spell Focus Mastery +1",
+      "Spell Penetration +3",
+      "Insightful Spell Penetration +2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Club",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Club",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Club",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Club",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Rod of Heal Serious Wounds",
+    "link": "https://ddowiki.com/page/Item:Rod_of_Heal_Serious_Wounds",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Heal Serious Wounds"
+    ]
+  },
+  {
+    "name": "Fist of Daarguul",
+    "link": "https://ddowiki.com/page/Item:Fist_of_Daarguul",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Lesser Goblinoid Bane",
+      "Intimidate +7",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Boneshard Flute",
+    "link": "https://ddowiki.com/page/Item:Boneshard_Flute",
+    "minLevel": "6",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Perform +8",
+      "Orange Augment Slot",
+      "Command Undead"
+    ]
+  },
+  {
+    "name": "Muck's Doom",
+    "link": "https://ddowiki.com/page/Item:Muck%27s_Doom",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Ooze Bane",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Cranium Cracker",
+    "link": "https://ddowiki.com/page/Item:Cranium_Cracker",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Lesser Elemental Bane",
+      "Vampirism",
+      "Hardened Spikes",
+      "Destruction",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Captain's Spyglass",
+    "link": "https://ddowiki.com/page/Item:Captain%27s_Spyglass",
+    "minLevel": "7",
+    "enhancements": [
+      "Spellcasting Implement +7",
+      "+3 Enhancement Bonus",
+      "Spell Focus Mastery +2",
+      "Potency +38",
+      "Spot +9",
+      "Good Luck  +1",
+      "The Dread Isle's Curse",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Rod of Heal Critical Wounds",
+    "link": "https://ddowiki.com/page/Item:Rod_of_Heal_Critical_Wounds",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Heal Critical Wounds"
+    ]
+  },
+  {
+    "name": "Calamitous Club",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Club",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Sceptre",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Sceptre",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Quality Mystic Diversion +1%",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Cruel Baton",
+    "link": "https://ddowiki.com/page/Item:Cruel_Baton",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Paralyzing",
+      "Manslayer",
+      "Lesser Boneshatter",
+      "Bludgeoning 2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Celestial Beacon",
+    "link": "https://ddowiki.com/page/Item:Celestial_Beacon",
+    "minLevel": "9",
+    "enhancements": [
+      "Spellcasting Implement +9",
+      "+3 Enhancement Bonus",
+      "Radiance +73",
+      "Radiance Lore +11%",
+      "Hallowed +5",
+      "Magical Efficiency 5%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Scepter of the Fleshweaver",
+    "link": "https://ddowiki.com/page/Item:Scepter_of_the_Fleshweaver",
+    "minLevel": "10",
+    "enhancements": [
+      "Spellcasting Implement +10",
+      "+4 Enhancement Bonus",
+      "Intelligence +6",
+      "Transmutation Focus +3",
+      "Devotion +77",
+      "Fragmented",
+      "Stone to Flesh"
+    ]
+  },
+  {
+    "name": "Club of the Holy Flame (starter)",
+    "link": "https://ddowiki.com/page/Item:Club_of_the_Holy_Flame_(starter)",
+    "minLevel": "10",
+    "enhancements": [
+      "-1 Enhancement Bonus",
+      "Starter",
+      "Greater Good",
+      "Potency +44"
+    ]
+  },
+  {
+    "name": "Necrotic Forum Post (level 10)",
+    "link": "https://ddowiki.com/page/Item:Necrotic_Forum_Post_(level_10)",
+    "minLevel": "10",
+    "enhancements": [
+      "Spellcasting Implement +10",
+      "+4 Enhancement Bonus",
+      "Nullification +77",
+      "Void Lore +11%",
+      "Insightful Necromancy Focus +2",
+      "Wizardry +112",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Shocking Forum Post (level 10)",
+    "link": "https://ddowiki.com/page/Item:Shocking_Forum_Post_(level_10)",
+    "minLevel": "10",
+    "enhancements": [
+      "Spellcasting Implement +10",
+      "+4 Enhancement Bonus",
+      "Magnetism +77",
+      "Lightning Lore +11%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +112",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Sceptre",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Sceptre",
+    "minLevel": "10",
+    "enhancements": [
+      "Spellcasting Implement +10",
+      "+5 Enhancement Bonus",
+      "Potency +46",
+      "Insightful Potency +23",
+      "Spellcraft +12",
+      "Insightful Spellcraft +6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Caustic Forum Post (level 10)",
+    "link": "https://ddowiki.com/page/Item:Caustic_Forum_Post_(level_10)",
+    "minLevel": "10",
+    "enhancements": [
+      "Spellcasting Implement +10",
+      "+4 Enhancement Bonus",
+      "Corrosion +77",
+      "Acid Lore +11%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +112",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Icy Forum Post (level 10)",
+    "link": "https://ddowiki.com/page/Item:Icy_Forum_Post_(level_10)",
+    "minLevel": "10",
+    "enhancements": [
+      "Spellcasting Implement +10",
+      "+4 Enhancement Bonus",
+      "Glaciation +77",
+      "Ice Lore +11%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +112",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Clamorous Forum Post (level 10)",
+    "link": "https://ddowiki.com/page/Item:Clamorous_Forum_Post_(level_10)",
+    "minLevel": "10",
+    "enhancements": [
+      "Spellcasting Implement +10",
+      "+4 Enhancement Bonus",
+      "Resonance +77",
+      "Sonic Lore +11%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +112",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Flaming Forum Post (level 10)",
+    "link": "https://ddowiki.com/page/Item:Flaming_Forum_Post_(level_10)",
+    "minLevel": "10",
+    "enhancements": [
+      "Spellcasting Implement +10",
+      "+4 Enhancement Bonus",
+      "Combustion +77",
+      "Fire Lore +11%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +112",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Sceptre",
+    "link": "https://ddowiki.com/page/Item:Macabre_Sceptre",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Spell Focus Mastery +2",
+      "Insightful Spell Focus Mastery +1",
+      "Spell Penetration +4",
+      "Insightful Spell Penetration +2",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Rod of Enhanced Heal Critical Wounds",
+    "link": "https://ddowiki.com/page/Item:Rod_of_Enhanced_Heal_Critical_Wounds",
+    "minLevel": "11",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Enhanced Heal Critical Wounds"
+    ]
+  },
+  {
+    "name": "Crystalline Scepter (level 12)",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Combustion +66",
+      "Fire Lore III",
+      "Evocation Focus I"
+    ]
+  },
+  {
+    "name": "Runed Ogre Femur",
+    "link": "https://ddowiki.com/page/Item:Runed_Ogre_Femur",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anti-Magic Runes",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Scepter of the Ogre Magi",
+    "link": "https://ddowiki.com/page/Item:Scepter_of_the_Ogre_Magi",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+5 Enhancement Bonus",
+      "Potency +52",
+      "Concentration +14",
+      "Healing Lore +12%",
+      "Fragmented",
+      "Cone of Cold",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Green Steel Sceptre",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Sceptre",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Alchemical Sceptre",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Sceptre",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Fusible Sceptre of Corrosion",
+    "link": "https://ddowiki.com/page/Item:Fusible_Sceptre_of_Corrosion",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Acid Lore +12%",
+      "Corrosion +84",
+      "Insightful Corrosion +42",
+      "Conjuration Focus +3",
+      "Fusible",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Malleable Sceptre of Devotion",
+    "link": "https://ddowiki.com/page/Item:Malleable_Sceptre_of_Devotion",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Healing Lore +12%",
+      "Devotion +84",
+      "Insightful Devotion +42",
+      "Physical Sheltering +16",
+      "Malleable",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Malleable Sceptre of Reconstruction",
+    "link": "https://ddowiki.com/page/Item:Malleable_Sceptre_of_Reconstruction",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Repair Lore +12%",
+      "Reconstruction +84",
+      "Insightful Reconstruction +42",
+      "False Life +24",
+      "Malleable",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Fusible Sceptre of Glaciation",
+    "link": "https://ddowiki.com/page/Item:Fusible_Sceptre_of_Glaciation",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Ice Lore +12%",
+      "Glaciation +84",
+      "Insightful Glaciation +42",
+      "Evocation Focus +3",
+      "Fusible",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Fusible Sceptre of Magnetism",
+    "link": "https://ddowiki.com/page/Item:Fusible_Sceptre_of_Magnetism",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Lightning Lore +12%",
+      "Magnetism +84",
+      "Insightful Magnetism +42",
+      "Evocation Focus +3",
+      "Fusible",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Malleable Sceptre of Resonation",
+    "link": "https://ddowiki.com/page/Item:Malleable_Sceptre_of_Resonation",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Sonic Lore +12%",
+      "Resonance +84",
+      "Insightful Resonance +42",
+      "Magical Sheltering +16",
+      "Malleable",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Malleable Sceptre of Nullification",
+    "link": "https://ddowiki.com/page/Item:Malleable_Sceptre_of_Nullification",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Void Lore +12%",
+      "Nullification +84",
+      "Insightful Nullification +42",
+      "Necromancy Focus +3",
+      "Malleable",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Malleable Sceptre of Radiance",
+    "link": "https://ddowiki.com/page/Item:Malleable_Sceptre_of_Radiance",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Radiance Lore +12%",
+      "Radiance +84",
+      "Insightful Radiance +42",
+      "Insightful Wizardry +64",
+      "Malleable",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Fusible Sceptre of Combustion",
+    "link": "https://ddowiki.com/page/Item:Fusible_Sceptre_of_Combustion",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Fire Lore +12%",
+      "Combustion +84",
+      "Insightful Combustion +42",
+      "Evocation Focus +3",
+      "Fusible",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Fusible Sceptre of Impulse",
+    "link": "https://ddowiki.com/page/Item:Fusible_Sceptre_of_Impulse",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+6 Enhancement Bonus",
+      "Kinetic Lore +12%",
+      "Impulse +84",
+      "Insightful Impulse +42",
+      "Evocation Focus +3",
+      "Fusible",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Crystalline Scepter (level 13)",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Combustion +72",
+      "Fire Lore III",
+      "Evocation Focus I"
+    ]
+  },
+  {
+    "name": "Rod of Mythant",
+    "link": "https://ddowiki.com/page/Item:Rod_of_Mythant",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Evocation Focus I",
+      "Kinetic Lore IV",
+      "Impulse +66",
+      "Wizardry III",
+      "Flametouched Iron",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Club of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Club_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Impact",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Club of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Club_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Radiant Arc",
+    "link": "https://ddowiki.com/page/Item:Radiant_Arc",
+    "minLevel": "14",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Everbright",
+      "Archmagi",
+      "Potency +56",
+      "Metalline",
+      "Blinding Flash"
+    ]
+  },
+  {
+    "name": "Scepter of Mad Trickery",
+    "link": "https://ddowiki.com/page/Item:Scepter_of_Mad_Trickery",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Illusion Focus II",
+      "Enchantment Focus II",
+      "Spell Penetration II",
+      "Mind Turbulence"
+    ]
+  },
+  {
+    "name": "Crystalline Scepter (level 14)",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Combustion +72",
+      "Fire Lore IV",
+      "Evocation Focus I"
+    ]
+  },
+  {
+    "name": "Lilting Song",
+    "link": "https://ddowiki.com/page/Item:Lilting_Song",
+    "minLevel": "14",
+    "enhancements": [
+      "Spellcasting Implement +14",
+      "+5 Enhancement Bonus",
+      "Trace of Madness",
+      "Resonance +90",
+      "Sonic Lore +13%",
+      "Evocation Focus +3",
+      "Enchantment Focus +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shocking Forum Post (level 15)",
+    "link": "https://ddowiki.com/page/Item:Shocking_Forum_Post_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Magnetism +94",
+      "Lightning Lore +14%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +154",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Necrotic Forum Post (level 15)",
+    "link": "https://ddowiki.com/page/Item:Necrotic_Forum_Post_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Nullification +94",
+      "Void Lore +14%",
+      "Insightful Necromancy Focus +2",
+      "Wizardry +154",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Caustic Forum Post (level 15)",
+    "link": "https://ddowiki.com/page/Item:Caustic_Forum_Post_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Corrosion +94",
+      "Acid Lore +14%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +154",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Icy Forum Post (level 15)",
+    "link": "https://ddowiki.com/page/Item:Icy_Forum_Post_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Glaciation +94",
+      "Ice Lore +14%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +154",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Clamorous Forum Post (level 15)",
+    "link": "https://ddowiki.com/page/Item:Clamorous_Forum_Post_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Resonance +94",
+      "Sonic Lore +14%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +154",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Flaming Forum Post (level 15)",
+    "link": "https://ddowiki.com/page/Item:Flaming_Forum_Post_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Combustion +94",
+      "Fire Lore +14%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +154",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Club",
+    "link": "https://ddowiki.com/page/Item:Syranian_Club",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flameward",
+    "link": "https://ddowiki.com/page/Item:Flameward",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Charisma +8",
+      "Evocation Focus +3",
+      "Use Magic Device +3",
+      "Fire Absorption +24%",
+      "Fire Resistance +30",
+      "Exceptional Charisma +1"
+    ]
+  },
+  {
+    "name": "Rod of Superior Healing",
+    "link": "https://ddowiki.com/page/Item:Rod_of_Superior_Healing",
+    "minLevel": "17",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Superior Healing"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Blessed Sceptre",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Blessed_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Devotion +104",
+      "Healing Lore +15%",
+      "Mystic Diversion +14%",
+      "Quality Wizardry +44",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Booming Sceptre",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Booming_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Resonance +104",
+      "Sonic Lore +15%",
+      "Mystic Diversion +14%",
+      "Quality Wizardry +44",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Burning Sceptre",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Burning_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Combustion +104",
+      "Fire Lore +15%",
+      "Mystic Diversion +14%",
+      "Quality Wizardry +44",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Caustic Sceptre",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Caustic_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Corrosion +104",
+      "Acid Lore +15%",
+      "Mystic Diversion +14%",
+      "Quality Wizardry +44",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Club",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Club",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Deathly Sceptre",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Deathly_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Nullification +104",
+      "Void Lore +15%",
+      "Mystic Diversion +14%",
+      "Quality Wizardry +44",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Freezing Sceptre",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Freezing_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Glaciation +104",
+      "Ice Lore +15%",
+      "Mystic Diversion +14%",
+      "Quality Wizardry +44",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Gleaming Sceptre",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Gleaming_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Radiance +104",
+      "Radiance Lore +15%",
+      "Mystic Diversion +14%",
+      "Quality Wizardry +44",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Kinetic Sceptre",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Kinetic_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Impulse +104",
+      "Kinetic Lore +15%",
+      "Mystic Diversion +14%",
+      "Quality Wizardry +44",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Mending Sceptre",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Mending_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Reconstruction +104",
+      "Repair Lore +15%",
+      "Mystic Diversion +14%",
+      "Quality Wizardry +44",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Shocking Sceptre",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Shocking_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Magnetism +104",
+      "Lightning Lore +15%",
+      "Mystic Diversion +14%",
+      "Quality Wizardry +44",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Blessed Sceptre",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Blessed_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Devotion +104",
+      "Healing Lore +15%",
+      "Efficient Metamagic - Maximize I",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Booming Sceptre",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Booming_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Resonance +104",
+      "Sonic Lore +15%",
+      "Efficient Metamagic - Maximize I",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Burning Sceptre",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Burning_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Combustion +104",
+      "Fire Lore +15%",
+      "Efficient Metamagic - Maximize I",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Caustic Sceptre",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Caustic_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Corrosion +104",
+      "Acid Lore +15%",
+      "Efficient Metamagic - Maximize I",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Club",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Club",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Deathly Sceptre",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Deathly_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Nullification +104",
+      "Void Lore +15%",
+      "Efficient Metamagic - Maximize I",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Freezing Sceptre",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Freezing_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Glaciation +104",
+      "Ice Lore +15%",
+      "Efficient Metamagic - Maximize I",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Gleaming Sceptre",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Gleaming_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Radiance +104",
+      "Radiance Lore +15%",
+      "Efficient Metamagic - Maximize I",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Kinetic Sceptre",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Kinetic_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Impulse +104",
+      "Kinetic Lore +15%",
+      "Efficient Metamagic - Maximize I",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Mending Sceptre",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Mending_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Reconstruction +104",
+      "Repair Lore +15%",
+      "Efficient Metamagic - Maximize I",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Shocking Sceptre",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Shocking_Sceptre",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Magnetism +104",
+      "Lightning Lore +15%",
+      "Efficient Metamagic - Maximize I",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Date Night Bouquet",
+    "link": "https://ddowiki.com/page/Item:Date_Night_Bouquet",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+5 Enhancement Bonus",
+      "Quality Resonance +25",
+      "Insightful Resonance +52",
+      "Sonic Lore +15%",
+      "Exceptional Universal Spell Lore +3%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Pale Rod",
+    "link": "https://ddowiki.com/page/Item:Pale_Rod",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Nullification +90",
+      "Void Lore VI",
+      "Light Resistance +20"
+    ]
+  },
+  {
+    "name": "Epic Flameward",
+    "link": "https://ddowiki.com/page/Item:Epic_Flameward",
+    "minLevel": "20",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Charisma +9",
+      "Evocation Focus +4",
+      "Use Magic Device +3",
+      "Fire Absorption +27%",
+      "Fire Resistance +36",
+      "Exceptional Charisma +1",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Shocking Forum Post (level 20)",
+    "link": "https://ddowiki.com/page/Item:Shocking_Forum_Post_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Magnetism +111",
+      "Lightning Lore +16%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +195",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Necrotic Forum Post (level 20)",
+    "link": "https://ddowiki.com/page/Item:Necrotic_Forum_Post_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Nullification +111",
+      "Void Lore +16%",
+      "Insightful Necromancy Focus +2",
+      "Wizardry +195",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Icy Forum Post (level 20)",
+    "link": "https://ddowiki.com/page/Item:Icy_Forum_Post_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Glaciation +111",
+      "Ice Lore +16%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +195",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Flaming Forum Post (level 20)",
+    "link": "https://ddowiki.com/page/Item:Flaming_Forum_Post_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Combustion +111",
+      "Fire Lore +16%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +195",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Caustic Forum Post (level 20)",
+    "link": "https://ddowiki.com/page/Item:Caustic_Forum_Post_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Corrosion +111",
+      "Acid Lore +16%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +195",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Clamorous Forum Post (level 20)",
+    "link": "https://ddowiki.com/page/Item:Clamorous_Forum_Post_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Resonance +111",
+      "Sonic Lore +16%",
+      "Insightful Evocation Focus +2",
+      "Wizardry +195",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sceptre of Magnetism",
+    "link": "https://ddowiki.com/page/Item:Epic_Sceptre_of_Magnetism",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Lightning Lore +16%",
+      "Magnetism +111",
+      "Insightful Magnetism +55",
+      "Insightful Wizardry +97",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sceptre of Combustion",
+    "link": "https://ddowiki.com/page/Item:Epic_Sceptre_of_Combustion",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Fire Lore +16%",
+      "Combustion +111",
+      "Insightful Combustion +55",
+      "Insightful Wizardry +97",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sceptre of Glaciation",
+    "link": "https://ddowiki.com/page/Item:Epic_Sceptre_of_Glaciation",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Ice Lore +16%",
+      "Glaciation +111",
+      "Insightful Glaciation +55",
+      "Insightful Wizardry +97",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sceptre of Corrosion",
+    "link": "https://ddowiki.com/page/Item:Epic_Sceptre_of_Corrosion",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Acid Lore +16%",
+      "Corrosion +111",
+      "Insightful Corrosion +55",
+      "Insightful Wizardry +97",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sceptre of Nullification",
+    "link": "https://ddowiki.com/page/Item:Epic_Sceptre_of_Nullification",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Void Lore +16%",
+      "Nullification +111",
+      "Insightful Nullification +55",
+      "Insightful Wizardry +97",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sceptre of Radiance",
+    "link": "https://ddowiki.com/page/Item:Epic_Sceptre_of_Radiance",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Radiance Lore +16%",
+      "Radiance +111",
+      "Insightful Radiance +55",
+      "Insightful Wizardry +97",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sceptre of Resonation",
+    "link": "https://ddowiki.com/page/Item:Epic_Sceptre_of_Resonation",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Sonic Lore +16%",
+      "Resonance +111",
+      "Insightful Resonance +55",
+      "Insightful Wizardry +97",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sceptre of Impulse",
+    "link": "https://ddowiki.com/page/Item:Epic_Sceptre_of_Impulse",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Kinetic Lore +16%",
+      "Impulse +111",
+      "Insightful Impulse +55",
+      "Insightful Wizardry +97",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sceptre of Devotion",
+    "link": "https://ddowiki.com/page/Item:Epic_Sceptre_of_Devotion",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Healing Lore +16%",
+      "Devotion +111",
+      "Insightful Devotion +55",
+      "Insightful Wizardry +97",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sceptre of Reconstruction",
+    "link": "https://ddowiki.com/page/Item:Epic_Sceptre_of_Reconstruction",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Repair Lore +16%",
+      "Reconstruction +111",
+      "Insightful Reconstruction +55",
+      "Insightful Wizardry +97",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Club",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Club",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Club",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Club",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Scepter",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Scepter",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Club",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Club",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Crystalline Scepter (level 23)",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Combustion +108",
+      "Fire Lore VI",
+      "Orange Augment Slot",
+      "Evocation Focus II"
+    ]
+  },
+  {
+    "name": "Epic Arcanum Stave",
+    "link": "https://ddowiki.com/page/Item:Epic_Arcanum_Stave",
+    "minLevel": "23",
+    "enhancements": [
+      "Spellcasting Implement +23",
+      "+6 Enhancement Bonus",
+      "Kinetic Lore +18%",
+      "Impulse +122",
+      "Wizardry +220",
+      "Potency +82",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Holistic Stave",
+    "link": "https://ddowiki.com/page/Item:Epic_Holistic_Stave",
+    "minLevel": "23",
+    "enhancements": [
+      "Spellcasting Implement +23",
+      "+6 Enhancement Bonus",
+      "Healing Lore +18%",
+      "Devotion +122",
+      "Competence Healing Amplification +43",
+      "Equipment Healing Amplification +22",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Drowned Priest's Torch",
+    "link": "https://ddowiki.com/page/Item:Drowned_Priest%27s_Torch",
+    "minLevel": "24",
+    "enhancements": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Combustion +114",
+      "Insightful Faith",
+      "Yellow Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Crystalline Scepter (level 24)",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Combustion +114",
+      "Fire Lore VI",
+      "Orange Augment Slot",
+      "Evocation Focus II"
+    ]
+  },
+  {
+    "name": "Crystalline Scepter (level 25)",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Scepter_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Combustion +120",
+      "Fire Lore VI",
+      "Evocation Focus III",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Broccoli Bashers",
+    "link": "https://ddowiki.com/page/Item:Broccoli_Bashers",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Ooze Bane 5",
+      "Bludgeoning 5",
+      "Smashing 12",
+      "Everbright",
+      "Blinding Flash",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Shocking Forum Post (level 25)",
+    "link": "https://ddowiki.com/page/Item:Shocking_Forum_Post_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Spellcasting Implement +25",
+      "+7 Enhancement Bonus",
+      "Magnetism +128",
+      "Lightning Lore +19%",
+      "Insightful Evocation Focus +3",
+      "Wizardry +236",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Clamorous Forum Post (level 25)",
+    "link": "https://ddowiki.com/page/Item:Clamorous_Forum_Post_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Spellcasting Implement +25",
+      "+7 Enhancement Bonus",
+      "Resonance +128",
+      "Sonic Lore +19%",
+      "Insightful Evocation Focus +3",
+      "Wizardry +236",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Icy Forum Post (level 25)",
+    "link": "https://ddowiki.com/page/Item:Icy_Forum_Post_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Spellcasting Implement +25",
+      "+7 Enhancement Bonus",
+      "Glaciation +128",
+      "Ice Lore +19%",
+      "Insightful Evocation Focus +3",
+      "Wizardry +236",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Boneshard Flute",
+    "link": "https://ddowiki.com/page/Item:Epic_Boneshard_Flute",
+    "minLevel": "25",
+    "enhancements": [
+      "Spellcasting Implement +25",
+      "+8 Enhancement Bonus",
+      "Perform +19",
+      "Sonic Lore +19%",
+      "Resonance +128",
+      "Control Undead",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Necrotic Forum Post (level 25)",
+    "link": "https://ddowiki.com/page/Item:Necrotic_Forum_Post_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Spellcasting Implement +25",
+      "+7 Enhancement Bonus",
+      "Nullification +128",
+      "Void Lore +19%",
+      "Insightful Necromancy Focus +3",
+      "Wizardry +236",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Flaming Forum Post (level 25)",
+    "link": "https://ddowiki.com/page/Item:Flaming_Forum_Post_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Spellcasting Implement +25",
+      "+7 Enhancement Bonus",
+      "Combustion +128",
+      "Fire Lore +19%",
+      "Insightful Evocation Focus +3",
+      "Wizardry +236",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Caustic Forum Post (level 25)",
+    "link": "https://ddowiki.com/page/Item:Caustic_Forum_Post_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Spellcasting Implement +25",
+      "+7 Enhancement Bonus",
+      "Corrosion +128",
+      "Acid Lore +19%",
+      "Insightful Evocation Focus +3",
+      "Wizardry +236",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Cranium Cracker",
+    "link": "https://ddowiki.com/page/Item:Epic_Cranium_Cracker",
+    "minLevel": "26",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Greater Elemental Bane",
+      "Vampirism",
+      "Hardened Spikes",
+      "Improved Destruction",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Sceptre",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Epic Rod of Mythant",
+    "link": "https://ddowiki.com/page/Item:Epic_Rod_of_Mythant",
+    "minLevel": "28",
+    "enhancements": [
+      "Spellcasting Implement +36",
+      "+12 Enhancement Bonus",
+      "Evocation Focus V",
+      "Kinetic Lore X",
+      "Impulse +150",
+      "Wizardry XI",
+      "Flametouched Iron",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Spiral, the Voice of the Elements",
+    "link": "https://ddowiki.com/page/Item:Spiral,_the_Voice_of_the_Elements",
+    "minLevel": "28",
+    "enhancements": [
+      "Spellcasting Implement +28",
+      "+15 Enhancement Bonus",
+      "Elemental Spiral",
+      "Combustion +145",
+      "Glaciation +145",
+      "Magnetism +145",
+      "Corrosion +145",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Sceptre",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Sceptre",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Spell Focus Mastery +4",
+      "Insightful Spell Focus Mastery +2",
+      "Spell Penetration +8",
+      "Insightful Spell Penetration +4",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Celestial Beacon",
+    "link": "https://ddowiki.com/page/Item:Legendary_Celestial_Beacon",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Radiance +142",
+      "Radiance Lore +21%",
+      "Hallowed +13",
+      "Magical Efficiency 10%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Lilting Song",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lilting_Song",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Trace of Madness",
+      "Resonance +142",
+      "Sonic Lore +21%",
+      "Evocation Focus +5",
+      "Enchantment Focus +5",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Sceptre",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Sceptre",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Potency +98",
+      "Insightful Potency +49",
+      "Spellcraft +20",
+      "Insightful Spellcraft +10",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Club",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Club",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Legendary Prince's Sceptre",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Prince%27s_Sceptre",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Spell Focus Mastery +4",
+      "Insightful Spell Focus Mastery +2",
+      "Spell Penetration +8",
+      "Insightful Spell Penetration +4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Legendary Queen's Sceptre",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Queen%27s_Sceptre",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Potency +98",
+      "Insightful Potency +49",
+      "Spellcraft +20",
+      "Insightful Spellcraft +10",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Fusible Sceptre of Corrosion",
+    "link": "https://ddowiki.com/page/Item:Legendary_Fusible_Sceptre_of_Corrosion",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Acid Lore +21%",
+      "Corrosion +142",
+      "Insightful Corrosion +71",
+      "Conjuration Focus +5",
+      "Fusible",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Malleable Sceptre of Devotion",
+    "link": "https://ddowiki.com/page/Item:Legendary_Malleable_Sceptre_of_Devotion",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Healing Lore +21%",
+      "Devotion +142",
+      "Insightful Devotion +71",
+      "Physical Sheltering +33",
+      "Malleable",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Malleable Sceptre of Reconstruction",
+    "link": "https://ddowiki.com/page/Item:Legendary_Malleable_Sceptre_of_Reconstruction",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Repair Lore +21%",
+      "Reconstruction +142",
+      "Insightful Reconstruction +71",
+      "False Life +50",
+      "Malleable",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Fusible Sceptre of Glaciation",
+    "link": "https://ddowiki.com/page/Item:Legendary_Fusible_Sceptre_of_Glaciation",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Ice Lore +21%",
+      "Glaciation +142",
+      "Insightful Glaciation +71",
+      "Evocation Focus +5",
+      "Fusible",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Fusible Sceptre of Magnetism",
+    "link": "https://ddowiki.com/page/Item:Legendary_Fusible_Sceptre_of_Magnetism",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Lightning Lore +21%",
+      "Magnetism +142",
+      "Insightful Magnetism +71",
+      "Evocation Focus +5",
+      "Fusible",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Malleable Sceptre of Resonation",
+    "link": "https://ddowiki.com/page/Item:Legendary_Malleable_Sceptre_of_Resonation",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Sonic Lore +21%",
+      "Resonance +142",
+      "Insightful Resonance +71",
+      "Magical Sheltering +33",
+      "Malleable",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Malleable Sceptre of Nullification",
+    "link": "https://ddowiki.com/page/Item:Legendary_Malleable_Sceptre_of_Nullification",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Void Lore +21%",
+      "Nullification +142",
+      "Insightful Nullification +71",
+      "Necromancy Focus +5",
+      "Malleable",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Malleable Sceptre of Radiance",
+    "link": "https://ddowiki.com/page/Item:Legendary_Malleable_Sceptre_of_Radiance",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Radiance Lore +21%",
+      "Radiance +142",
+      "Insightful Radiance +71",
+      "Insightful Wizardry +134",
+      "Malleable",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Fusible Sceptre of Combustion",
+    "link": "https://ddowiki.com/page/Item:Legendary_Fusible_Sceptre_of_Combustion",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Fire Lore +21%",
+      "Combustion +142",
+      "Insightful Combustion +71",
+      "Evocation Focus +5",
+      "Fusible",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Fusible Sceptre of Impulse",
+    "link": "https://ddowiki.com/page/Item:Legendary_Fusible_Sceptre_of_Impulse",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Kinetic Lore +21%",
+      "Impulse +142",
+      "Insightful Impulse +71",
+      "Evocation Focus +5",
+      "Fusible",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Club",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Club",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Club",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Club",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shocking Forum Post (level 30)",
+    "link": "https://ddowiki.com/page/Item:Shocking_Forum_Post_(level_30)",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+14 Enhancement Bonus",
+      "Magnetism +146",
+      "Lightning Lore +21%",
+      "Insightful Evocation Focus +3",
+      "Wizardry +277",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Necrotic Forum Post (level 30)",
+    "link": "https://ddowiki.com/page/Item:Necrotic_Forum_Post_(level_30)",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+14 Enhancement Bonus",
+      "Nullification +146",
+      "Void Lore +21%",
+      "Insightful Necromancy Focus +3",
+      "Wizardry +277",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Flaming Forum Post (level 30)",
+    "link": "https://ddowiki.com/page/Item:Flaming_Forum_Post_(level_30)",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+14 Enhancement Bonus",
+      "Combustion +146",
+      "Fire Lore +21%",
+      "Insightful Evocation Focus +3",
+      "Wizardry +277",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Caustic Forum Post (level 30)",
+    "link": "https://ddowiki.com/page/Item:Caustic_Forum_Post_(level_30)",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+14 Enhancement Bonus",
+      "Corrosion +146",
+      "Acid Lore +21%",
+      "Insightful Evocation Focus +3",
+      "Wizardry +277",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Clamorous Forum Post (level 30)",
+    "link": "https://ddowiki.com/page/Item:Clamorous_Forum_Post_(level_30)",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+14 Enhancement Bonus",
+      "Resonance +146",
+      "Sonic Lore +21%",
+      "Insightful Evocation Focus +3",
+      "Wizardry +277",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Icy Forum Post (level 30)",
+    "link": "https://ddowiki.com/page/Item:Icy_Forum_Post_(level_30)",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+14 Enhancement Bonus",
+      "Glaciation +146",
+      "Ice Lore +21%",
+      "Insightful Evocation Focus +3",
+      "Wizardry +277",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flameward",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flameward",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Charisma +13",
+      "Evocation Focus +6",
+      "Use Magic Device +5",
+      "Fire Absorption +35%",
+      "Fire Resistance +51",
+      "Exceptional Charisma +1",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Captain's Spyglass",
+    "link": "https://ddowiki.com/page/Item:Legendary_Captain%27s_Spyglass",
+    "minLevel": "31",
+    "enhancements": [
+      "Spellcasting Implement +31",
+      "+15 Enhancement Bonus",
+      "Spell Focus Mastery +5",
+      "Potency +103",
+      "Spot +21",
+      "Good Luck  +4",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Red Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Club",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Club",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Club",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Club",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Scepter of the Fleshweaver",
+    "link": "https://ddowiki.com/page/Item:Legendary_Scepter_of_the_Fleshweaver",
+    "minLevel": "31",
+    "enhancements": [
+      "Stone to Flesh",
+      "Spellcasting Implement +31",
+      "+15 Enhancement Bonus",
+      "Intelligence +14",
+      "Transmutation Focus +6",
+      "Devotion +149",
+      "Fragmented",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Scepter of the Ogre Magi",
+    "link": "https://ddowiki.com/page/Item:Legendary_Scepter_of_the_Ogre_Magi",
+    "minLevel": "31",
+    "enhancements": [
+      "Cone of Cold",
+      "Spellcasting Implement +31",
+      "+15 Enhancement Bonus",
+      "Potency +103",
+      "Concentration +21",
+      "Healing Lore +22%",
+      "Fragmented",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Blessed Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Blessed_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Devotion +153",
+      "Healing Lore +22%",
+      "Mystic Diversion +22%",
+      "Quality Wizardry +73",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Booming Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Booming_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Resonance +153",
+      "Sonic Lore +22%",
+      "Mystic Diversion +22%",
+      "Quality Wizardry +73",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Burning Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Burning_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Combustion +153",
+      "Fire Lore +22%",
+      "Mystic Diversion +22%",
+      "Quality Wizardry +73",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Caustic Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Caustic_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Corrosion +153",
+      "Acid Lore +22%",
+      "Mystic Diversion +22%",
+      "Quality Wizardry +73",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Club",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Club",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Deathly Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Deathly_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Nullification +153",
+      "Void Lore +22%",
+      "Mystic Diversion +22%",
+      "Quality Wizardry +73",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Freezing Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Freezing_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Glaciation +153",
+      "Ice Lore +22%",
+      "Mystic Diversion +22%",
+      "Quality Wizardry +73",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Gleaming Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Gleaming_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Radiance +153",
+      "Radiance Lore +22%",
+      "Mystic Diversion +22%",
+      "Quality Wizardry +73",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Kinetic Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Kinetic_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Impulse +153",
+      "Kinetic Lore +22%",
+      "Mystic Diversion +22%",
+      "Quality Wizardry +73",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Mending Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Mending_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Reconstruction +153",
+      "Repair Lore +22%",
+      "Mystic Diversion +22%",
+      "Quality Wizardry +73",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Shocking Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Shocking_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Magnetism +153",
+      "Lightning Lore +22%",
+      "Mystic Diversion +22%",
+      "Quality Wizardry +73",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Marro, the Bone of Demons",
+    "link": "https://ddowiki.com/page/Item:Marro,_the_Bone_of_Demons",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Power of the Firestorm",
+      "Efficient Metamagic - Embolden II",
+      "Efficient Metamagic - Intensify II",
+      "Greater Elemental Spell Power",
+      "Planar Searing",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "Legendary Forbidden Knowledge"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Blessed Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Blessed_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Devotion +153",
+      "Healing Lore +22%",
+      "Efficient Metamagic - Maximize II",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Booming Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Booming_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Resonance +153",
+      "Sonic Lore +22%",
+      "Efficient Metamagic - Maximize II",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Burning Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Burning_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Combustion +153",
+      "Fire Lore +22%",
+      "Efficient Metamagic - Maximize II",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Caustic Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Caustic_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Corrosion +153",
+      "Acid Lore +22%",
+      "Efficient Metamagic - Maximize II",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Club",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Club",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Deathly Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Deathly_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Nullification +153",
+      "Void Lore +22%",
+      "Efficient Metamagic - Maximize II",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Freezing Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Freezing_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Glaciation +153",
+      "Ice Lore +22%",
+      "Efficient Metamagic - Maximize II",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Gleaming Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Gleaming_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Radiance +153",
+      "Radiance Lore +22%",
+      "Efficient Metamagic - Maximize II",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Kinetic Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Kinetic_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Impulse +153",
+      "Kinetic Lore +22%",
+      "Efficient Metamagic - Maximize II",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Mending Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Mending_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Reconstruction +153",
+      "Repair Lore +22%",
+      "Efficient Metamagic - Maximize II",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Shocking Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Shocking_Sceptre",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Magnetism +153",
+      "Lightning Lore +22%",
+      "Efficient Metamagic - Maximize II",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Date Night Bouquet",
+    "link": "https://ddowiki.com/page/Item:Legendary_Date_Night_Bouquet",
+    "minLevel": "32",
+    "enhancements": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Quality Resonance +37",
+      "Insightful Resonance +76",
+      "Sonic Lore +22%",
+      "Exceptional Universal Spell Lore +5%",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Club of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Club_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Impact",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Club of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Club_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Club of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Club_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Lesser Oblivion",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lesser_Oblivion",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Insightful Void Lore +14%",
+      "Nullification +156",
+      "Void Lore +23%",
+      "Heal +21",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Fish Stick",
+    "link": "https://ddowiki.com/page/Item:Legendary_Fish_Stick",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Impulse +156",
+      "Kinetic Lore +23%",
+      "Mystic Diversion +23%",
+      "Insightful Mystic Diversion +11%",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Fried Fish Stick",
+    "link": "https://ddowiki.com/page/Item:Legendary_Fried_Fish_Stick",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Combustion +156",
+      "Fire Lore +23%",
+      "Quality Impulse +38",
+      "Insightful Evocation Focus +3",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Frozen Fish Stick",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frozen_Fish_Stick",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Glaciation +156",
+      "Ice Lore +23%",
+      "Insightful Impulse +78",
+      "Evocation Focus +6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Club",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Club",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Sceptre",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Club",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Club",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Slayer of the Living",
+    "link": "https://ddowiki.com/page/Item:The_Slayer_of_the_Living",
+    "minLevel": "34",
+    "enhancements": [
+      "Spellcasting Implement +34",
+      "+15 Enhancement Bonus",
+      "Potency +116",
+      "Revel in Blood (Magic)",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Burning Sceptre",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Burning_Sceptre",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cruel Baton",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cruel_Baton",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Paralysis",
+      "Legendary Manslayer",
+      "Bonesplitter",
+      "Bludgeoning 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

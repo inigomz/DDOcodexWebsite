@@ -1,0 +1,499 @@
+[
+  {
+    "name": "Ethereal Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Heavy_Crossbow",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Heavy_Crossbow",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Heavy_Crossbow",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Heavy_Crossbow",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Swift Demise",
+    "link": "https://ddowiki.com/page/Item:Swift_Demise",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Crippling",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Heavy_Crossbow",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Heavy_Crossbow",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Macabre_Heavy_Crossbow",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Storm",
+    "link": "https://ddowiki.com/page/Item:Storm",
+    "minLevel": "12",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Lightning Strike",
+      "Shocking Blast 3",
+      "Screeching 7",
+      "Thunderstorm Lore +12%",
+      "Power of the Thunderstorm",
+      "The Desert's Writhing Storm"
+    ]
+  },
+  {
+    "name": "Alchemical Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Heavy_Crossbow",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Green Steel Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Heavy_Crossbow",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Heavy Crossbow of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Heavy_Crossbow_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Heavy Crossbow of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Heavy_Crossbow_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Syranian_Heavy_Crossbow",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Heavy_Crossbow",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Heavy_Crossbow",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Storm",
+    "link": "https://ddowiki.com/page/Item:Epic_Storm",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Lightning Strike",
+      "Shocking Blast 4",
+      "Screeching 10",
+      "Thunderstorm Lore +16%",
+      "Power of the Thunderstorm",
+      "Colorless Augment Slot",
+      "Red Augment Slot",
+      "The Epic Desert's Writhing Storm"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Heavy_Crossbow",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Heavy_Crossbow",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Heavy_Crossbow",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Heavy_Crossbow",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "The Hallowed Splinters",
+    "link": "https://ddowiki.com/page/Item:The_Hallowed_Splinters",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Nearly Finished",
+      "Purple Augment Slot",
+      "Conjure Radiant Bolt",
+      "Completed Weapon",
+      "Mind Tear",
+      "Holy 6",
+      "Blunted Ammunition",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Heavy_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Heavy_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Heavy_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Heavy_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Heavy_Crossbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Storm",
+    "link": "https://ddowiki.com/page/Item:Legendary_Storm",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Sovereign Lightning Strike",
+      "Shocking Blast 6",
+      "Screeching 15",
+      "Thunderstorm Lore +22%",
+      "Power of the Thunderstorm",
+      "The Legendary Desert's Writhing Storm",
+      "Colorless Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Heavy_Crossbow",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Heavy_Crossbow",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Heavy_Crossbow",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Anarchist's Crossbow (Abridged)",
+    "link": "https://ddowiki.com/page/Item:The_Anarchist%27s_Crossbow_(Abridged)",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Thorny Crown of Madness 7",
+      "Glass Shards",
+      "Cursed Maelstrom",
+      "Ranged Alacrity 20%",
+      "Planar Searing",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "Legendary Forbidden Knowledge"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Heavy_Crossbow",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Heavy Crossbow of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Heavy_Crossbow_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Heavy Crossbow of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Heavy_Crossbow_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Heavy Crossbow of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Heavy_Crossbow_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Heavy_Crossbow",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Heavy Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Heavy_Crossbow",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

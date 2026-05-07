@@ -1,0 +1,469 @@
+[
+  {
+    "name": "Ethereal Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Throwing_Hammer",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot",
+      "Returning"
+    ]
+  },
+  {
+    "name": "Sworn Silver Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Throwing_Hammer",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Throwing_Hammer",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Throwing_Hammer",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Throwing_Hammer",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Throwing_Hammer",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Macabre_Throwing_Hammer",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Returning",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Green Steel Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Throwing_Hammer",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel",
+      "Returning"
+    ]
+  },
+  {
+    "name": "Alchemical Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Throwing_Hammer",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)",
+      "Returning"
+    ]
+  },
+  {
+    "name": "Throwing Hammer of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Throwing_Hammer_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Impact",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Throwing Hammer of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Throwing_Hammer_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Syranian_Throwing_Hammer",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Throwing_Hammer",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Throwing_Hammer",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Throwing_Hammer",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Throwing_Hammer",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Throwing_Hammer",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Returning",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Throwing_Hammer",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel",
+      "Returning"
+    ]
+  },
+  {
+    "name": "Dagan's Mallet",
+    "link": "https://ddowiki.com/page/Item:Dagan%27s_Mallet",
+    "minLevel": "27",
+    "enhancements": [
+      "Returning",
+      "+10 Enhancement Bonus",
+      "Aligned",
+      "Knee Cracker",
+      "Thunderbane",
+      "Forged Lightning",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Overwhelming Impact",
+    "link": "https://ddowiki.com/page/Item:Overwhelming_Impact",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Overwhelming Shockwave",
+      "Blunt Trauma",
+      "Bonesplitter",
+      "Giant Bane 6",
+      "Returning",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Throwing_Hammer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Throwing_Hammer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Returning",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Throwing_Hammer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Throwing_Hammer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Throwing_Hammer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Returning",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Throwing_Hammer",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Throwing_Hammer",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Throwing_Hammer",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Throwing_Hammer",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Throwing Hammer of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Throwing_Hammer_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Impact",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Throwing Hammer of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Throwing_Hammer_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Throwing Hammer of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Throwing_Hammer_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Throwing_Hammer",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Throwing Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Throwing_Hammer",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

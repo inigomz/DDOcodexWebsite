@@ -1,0 +1,2082 @@
+[
+  {
+    "name": "Lhorne's Blade",
+    "link": "https://ddowiki.com/page/Item:Lhorne%27s_Blade",
+    "minLevel": "1",
+    "enhancements": [
+      "Lesser Monstrous Humanoid Bane"
+    ]
+  },
+  {
+    "name": "Ember Longsword",
+    "link": "https://ddowiki.com/page/Item:Ember_Longsword",
+    "minLevel": "1",
+    "enhancements": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Rusty Longsword",
+    "link": "https://ddowiki.com/page/Item:Rusty_Longsword",
+    "minLevel": "1",
+    "enhancements": [
+      "Starter"
+    ]
+  },
+  {
+    "name": "Blade of Inquisition",
+    "link": "https://ddowiki.com/page/Item:Blade_of_Inquisition",
+    "minLevel": "2",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 1",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nicked Longsword",
+    "link": "https://ddowiki.com/page/Item:Nicked_Longsword",
+    "minLevel": "2",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Chilling 2",
+      "Parrying +1",
+      "Deadly +3"
+    ]
+  },
+  {
+    "name": "+1 Starter Longsword",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Longsword",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Sworn Silver Longsword",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Longsword",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ethereal Longsword",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Longsword",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Silver Blade of the Flame",
+    "link": "https://ddowiki.com/page/Item:Silver_Blade_of_the_Flame",
+    "minLevel": "3",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Favored Weapon",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flametongue",
+    "link": "https://ddowiki.com/page/Item:Flametongue",
+    "minLevel": "4",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Flaming Burst",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Timeblade",
+    "link": "https://ddowiki.com/page/Item:Timeblade",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Paralyzing",
+      "Doublestrike 4%",
+      "Slowburst",
+      "Feather Falling",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Mournlode Longsword (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Longsword_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Righteous",
+      "Undead Bane 2"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Longsword",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Longsword",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Longsword",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Longsword",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Xoriat Forged Blade",
+    "link": "https://ddowiki.com/page/Item:Xoriat_Forged_Blade",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Flaming",
+      "Anarchic",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Scoundrel's Longsword",
+    "link": "https://ddowiki.com/page/Item:Scoundrel%27s_Longsword",
+    "minLevel": "6",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Shock",
+      "Anarchic",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Fimbric, Lost Longsword",
+    "link": "https://ddowiki.com/page/Item:Fimbric,_Lost_Longsword",
+    "minLevel": "7",
+    "enhancements": [
+      "Feather Fall",
+      "+3 Enhancement Bonus",
+      "Axiomatic Blast 2",
+      "Holy 2",
+      "Ghost Touch",
+      "Silver",
+      "The Dread Isle's Curse",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Threnalian War Blade",
+    "link": "https://ddowiki.com/page/Item:Threnalian_War_Blade",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Retribution",
+    "link": "https://ddowiki.com/page/Item:Retribution",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Holy",
+      "True Law",
+      "Pure Good",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightforge Avenger Blade",
+    "link": "https://ddowiki.com/page/Item:Nightforge_Avenger_Blade",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Mournlode Longsword (level 8)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Longsword_(level_8)",
+    "minLevel": "8",
+    "enhancements": []
+  },
+  {
+    "name": "Calamitous Longsword",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Longsword",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sirocco",
+    "link": "https://ddowiki.com/page/Item:Sirocco",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Telekinetic",
+      "Force Blast 3",
+      "Sirocco",
+      "Smoke Screen",
+      "Red Augment Slot",
+      "The Desert's Biting Sands"
+    ]
+  },
+  {
+    "name": "Tesyus",
+    "link": "https://ddowiki.com/page/Item:Tesyus",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Cold Iron",
+      "Vorpal",
+      "Pure Good"
+    ]
+  },
+  {
+    "name": "Macabre Longsword",
+    "link": "https://ddowiki.com/page/Item:Macabre_Longsword",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Longsword",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Longsword",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Green Steel Longsword",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Longsword",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Alchemical Longsword",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Longsword",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Mournlode Longsword (level 12)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Longsword_(level_12)",
+    "minLevel": "12",
+    "enhancements": []
+  },
+  {
+    "name": "Echo of the Artblade",
+    "link": "https://ddowiki.com/page/Item:Echo_of_the_Artblade",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Nullmagic Guard",
+      "Eversight",
+      "Greater Arcane Casting Dexterity",
+      "Quality Potency +14",
+      "Sacred Spell Focus Mastery +1",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Echo of the Warblade",
+    "link": "https://ddowiki.com/page/Item:Echo_of_the_Warblade",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Legendary Accuracy +2",
+      "Slashing 4",
+      "Gashing 8",
+      "Fiery 4",
+      "Blade Barrier",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Echo of the Crownblade",
+    "link": "https://ddowiki.com/page/Item:Echo_of_the_Crownblade",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Exceptional Alluring Skills Bonus",
+      "Felling the Oak",
+      "Coruscating 4",
+      "Electrifying 4",
+      "Blazing 8",
+      "Cure Moderate Wounds",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Longsword_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Blessed Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Blessed_Longsword_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Devotion +87",
+      "Healing Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Booming Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Booming_Longsword_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Resonance +87",
+      "Sonic Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Burning Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Burning_Longsword_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Combustion +87",
+      "Fire Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Caustic Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Caustic_Longsword_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Corrosion +87",
+      "Acid Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Deathly Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Deathly_Longsword_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Nullification +87",
+      "Void Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Freezing Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Freezing_Longsword_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Glaciation +87",
+      "Ice Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Gleaming Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Gleaming_Longsword_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Radiance +87",
+      "Radiance Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shocking Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Shocking_Longsword_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Magnetism +87",
+      "Lightning Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Mending Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Mending_Longsword_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Reconstruction +87",
+      "Repair Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Kinetic Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Kinetic_Longsword_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Impulse +87",
+      "Kinetic Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Blessed Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Blessed_Longsword_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Devotion +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Booming Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Booming_Longsword_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Resonance +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Burning Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Burning_Longsword_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Combustion +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Gleaming Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Gleaming_Longsword_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Radiance +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Caustic Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Caustic_Longsword_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Corrosion +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Deathly Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Deathly_Longsword_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Nullification +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Freezing Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Freezing_Longsword_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Glaciation +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Kinetic Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Kinetic_Longsword_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Impulse +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Mending Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Mending_Longsword_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Reconstruction +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shocking Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Shocking_Longsword_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Magnetism +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Longsword_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Enduring Conviction",
+    "link": "https://ddowiki.com/page/Item:Enduring_Conviction",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Greater Good",
+      "Absolute Law",
+      "Evil Outsider Bane",
+      "Upgradeable Item (Black Abbot)"
+    ]
+  },
+  {
+    "name": "Dragon Sword of Acid",
+    "link": "https://ddowiki.com/page/Item:Dragon_Sword_of_Acid",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Acid Burst",
+      "Dragon Bane",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Knight's Blade",
+    "link": "https://ddowiki.com/page/Item:Knight%27s_Blade",
+    "minLevel": "15",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Flaming II",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "Syranian Longsword",
+    "link": "https://ddowiki.com/page/Item:Syranian_Longsword",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Entropic Edge",
+    "link": "https://ddowiki.com/page/Item:Entropic_Edge",
+    "minLevel": "15",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+3 Enhancement Bonus",
+      "Radiance +81",
+      "Insightful Evocation Focus +2",
+      "Proficiency: Longsword"
+    ]
+  },
+  {
+    "name": "Wild Blade",
+    "link": "https://ddowiki.com/page/Item:Wild_Blade",
+    "minLevel": "15",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Radiance Lore +12%",
+      "Insightful Conjuration Focus +2",
+      "Proficiency: Longsword"
+    ]
+  },
+  {
+    "name": "Watcher's Blade",
+    "link": "https://ddowiki.com/page/Item:Watcher%27s_Blade",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Heightened Awareness 4",
+      "Improved Cursespewing",
+      "Exceptional Wisdom +1",
+      "saps"
+    ]
+  },
+  {
+    "name": "Mournlode Longsword (level 16)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Longsword_(level_16)",
+    "minLevel": "16",
+    "enhancements": []
+  },
+  {
+    "name": "Master's Riposte (level 17)",
+    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_17)",
+    "minLevel": "17",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Riposte VI",
+      "Acid IV",
+      "Anarchic III",
+      "Axiomatic III",
+      "Banishing",
+      "Eldritch II",
+      "Flaming IV",
+      "Frost IV",
+      "Holy II",
+      "Holy Burst",
+      "Improved Roaring",
+      "Poison IV",
+      "Seeker +8",
+      "Shock IV",
+      "Shrieking III",
+      "Solar II",
+      "Vorpal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Divine Vengeance",
+    "link": "https://ddowiki.com/page/Item:Divine_Vengeance",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Cold Iron",
+      "Holy",
+      "Axiomatic",
+      "Spell Resistance +30",
+      "Greater Dispelling",
+      "Radiance"
+    ]
+  },
+  {
+    "name": "Master's Riposte (level 18)",
+    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_18)",
+    "minLevel": "18",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Riposte VII",
+      "Acid IV",
+      "Anarchic III",
+      "Axiomatic III",
+      "Banishing",
+      "Eldritch II",
+      "Flaming IV",
+      "Frost IV",
+      "Holy II",
+      "Holy Burst",
+      "Improved Roaring",
+      "Poison IV",
+      "Seeker +8",
+      "Shock IV",
+      "Shrieking III",
+      "Solar II",
+      "Vorpal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Longsword",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Longsword",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Longsword",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Longsword",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Fried Sword Fish",
+    "link": "https://ddowiki.com/page/Item:Fried_Sword_Fish",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Armor-Piercing - 14%",
+      "Corrosive Salt",
+      "Fiery 4",
+      "Flaming 10",
+      "Red Augment Slot",
+      "Cooking By the Book",
+      "Fried & Frozen Frenzy"
+    ]
+  },
+  {
+    "name": "Frozen Sword Fish",
+    "link": "https://ddowiki.com/page/Item:Frozen_Sword_Fish",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Armor-Piercing - 14%",
+      "Corrosive Salt",
+      "Chilling 4",
+      "Freezing 10",
+      "Red Augment Slot",
+      "Cooking By the Book",
+      "Fried & Frozen Frenzy"
+    ]
+  },
+  {
+    "name": "Sword Fish",
+    "link": "https://ddowiki.com/page/Item:Sword_Fish",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Armor-Piercing - 14%",
+      "Corrosive Salt",
+      "Slashing 4",
+      "Gashing 10",
+      "Red Augment Slot",
+      "Cooking By the Book"
+    ]
+  },
+  {
+    "name": "Master's Riposte (level 19)",
+    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_19)",
+    "minLevel": "19",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Riposte VIII",
+      "Acid IV",
+      "Anarchic III",
+      "Axiomatic III",
+      "Banishing",
+      "Eldritch II",
+      "Flaming IV",
+      "Frost IV",
+      "Holy II",
+      "Holy Burst",
+      "Improved Roaring",
+      "Poison IV",
+      "Seeker +8",
+      "Shock IV",
+      "Shrieking III",
+      "Solar II",
+      "Vorpal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sirocco",
+    "link": "https://ddowiki.com/page/Item:Epic_Sirocco",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Epic Telekinetic",
+      "Force Blast 4",
+      "Greater Sirocco",
+      "Smoke Screen",
+      "Air Guard",
+      "Red Augment Slot",
+      "The Epic Desert's Biting Sands"
+    ]
+  },
+  {
+    "name": "Epic Timeblade",
+    "link": "https://ddowiki.com/page/Item:Epic_Timeblade",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Improved Paralyzing",
+      "Doublestrike 11%",
+      "Improved Slowburst",
+      "Freedom of Movement",
+      "Feather Falling",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Mournlode Longsword",
+    "link": "https://ddowiki.com/page/Item:Epic_Mournlode_Longsword",
+    "minLevel": "20",
+    "enhancements": []
+  },
+  {
+    "name": "Oathblade",
+    "link": "https://ddowiki.com/page/Item:Oathblade",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Parrying VIII",
+      "Absolute Law",
+      "Vorpal",
+      "Keen",
+      "Maiming",
+      "Bleed"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Longsword",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Longsword",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Longsword",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Longsword",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Drow Longsword of the Weapon Master",
+    "link": "https://ddowiki.com/page/Item:Drow_Longsword_of_the_Weapon_Master",
+    "minLevel": "21",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Longsword",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Longsword",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Tinah, Sword of the Sea",
+    "link": "https://ddowiki.com/page/Item:Tinah,_Sword_of_the_Sea",
+    "minLevel": "23",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Supreme Good",
+      "Crushing Wave",
+      "Freezing Ice",
+      "Greater Dragon Bane",
+      "Underwater Action",
+      "Attuned to Heroism"
+    ]
+  },
+  {
+    "name": "Epic Blade of Inquisition",
+    "link": "https://ddowiki.com/page/Item:Epic_Blade_of_Inquisition",
+    "minLevel": "23",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Holy 5",
+      "Unnatural Bane 5",
+      "Ghostbane 5",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Master's Riposte (level 26)",
+    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_26)",
+    "minLevel": "26",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Riposte X",
+      "Acid VIII",
+      "Anarchic VII",
+      "Axiomatic VII",
+      "Eldritch VI",
+      "Flaming VIII",
+      "Frost VIII",
+      "Greater Banishing",
+      "Greater Vorpal",
+      "Holy VI",
+      "Poison VIII",
+      "Shock VIII",
+      "Shrieking VII",
+      "Solar VI",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Longsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Longsword",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Fellblade (longsword)",
+    "link": "https://ddowiki.com/page/Item:Fellblade_(longsword)",
+    "minLevel": "26",
+    "enhancements": [
+      "+13 Enhancement Bonus",
+      "Improved Banishing",
+      "Sovereign Vorpal",
+      "Axiomatic 6",
+      "Armor-Piercing - 20%",
+      "Doublestrike 15%",
+      "Cold Iron",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Master's Riposte (level 27)",
+    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_27)",
+    "minLevel": "27",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Riposte XI",
+      "Acid VIII",
+      "Anarchic VII",
+      "Axiomatic VII",
+      "Eldritch VI",
+      "Flaming VIII",
+      "Frost VIII",
+      "Greater Banishing",
+      "Greater Vorpal",
+      "Holy VI",
+      "Poison VIII",
+      "Shock VIII",
+      "Shrieking VII",
+      "Solar VI",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Master's Riposte (level 28)",
+    "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Riposte XII",
+      "Acid VIII",
+      "Anarchic VII",
+      "Axiomatic VII",
+      "Eldritch VI",
+      "Flaming VIII",
+      "Frost VIII",
+      "Greater Banishing",
+      "Greater Vorpal",
+      "Holy VI",
+      "Poison VIII",
+      "Shock VIII",
+      "Shrieking VII",
+      "Solar VI",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Soulrazor",
+    "link": "https://ddowiki.com/page/Item:Soulrazor",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Overwhelming Stealer of Souls",
+      "Keen",
+      "Entropic 6",
+      "Vampirism 3",
+      "Psychic Ward",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Silver Blade of the Flame",
+    "link": "https://ddowiki.com/page/Item:Legendary_Silver_Blade_of_the_Flame",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Favored Weapon",
+      "Coruscating 6",
+      "Evil Outsider Bane 6",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Bitter Edge",
+    "link": "https://ddowiki.com/page/Item:The_Bitter_Edge",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Royalty's Frigid Response",
+      "Frostbite",
+      "Keen",
+      "Icy Blast 6",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Rauven of the Frost",
+    "link": "https://ddowiki.com/page/Item:Rauven_of_the_Frost",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Frostblade",
+      "Chilling 6",
+      "Icy Blast 6",
+      "Legendary Freezing Ice",
+      "Improved Destruction",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Longsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Longsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Longsword",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Longsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Longsword",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Longsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Longsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Longsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Alchemical Longsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Longsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Longsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Longsword",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Timeblade",
+    "link": "https://ddowiki.com/page/Item:Legendary_Timeblade",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Paralysis",
+      "Doublestrike 16%",
+      "Legendary Slowburst",
+      "Freedom of Movement",
+      "Feather Falling",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Sirocco",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sirocco",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Telekinetic",
+      "Force Blast 6",
+      "Legendary Sirocco",
+      "Smoke Screen",
+      "Legendary Air Guard",
+      "The Legendary Desert's Biting Sands",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Fimbric, Lost Longsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Fimbric,_Lost_Longsword",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Axiomatic Blast 6",
+      "Holy 6",
+      "Ghost Touch",
+      "Silver",
+      "Feather Fall",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Red Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Longsword",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Longsword",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Longsword",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Longsword",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Longsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Longsword",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Longsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Longsword",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Fried Sword Fish",
+    "link": "https://ddowiki.com/page/Item:Legendary_Fried_Sword_Fish",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Armor-Piercing - 22%",
+      "Concentrated Corrosive Salt",
+      "Fiery 6",
+      "Flaming 15",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "Legendary Cooking By the Book",
+      "Legendary Fried & Frozen Frenzy"
+    ]
+  },
+  {
+    "name": "Legendary Frozen Sword Fish",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frozen_Sword_Fish",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Armor-Piercing - 22%",
+      "Concentrated Corrosive Salt",
+      "Chilling 6",
+      "Freezing 15",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "Legendary Cooking By the Book",
+      "Legendary Fried & Frozen Frenzy"
+    ]
+  },
+  {
+    "name": "Legendary Sword Fish",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sword_Fish",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Armor-Piercing - 22%",
+      "Concentrated Corrosive Salt",
+      "Slashing 6",
+      "Gashing 15",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "Legendary Cooking By the Book"
+    ]
+  },
+  {
+    "name": "Legendary Echo of the Artblade",
+    "link": "https://ddowiki.com/page/Item:Legendary_Echo_of_the_Artblade",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Nullmagic Guard",
+      "Eversight",
+      "Greater Arcane Casting Dexterity",
+      "Quality Potency +27",
+      "Sacred Spell Focus Mastery +3",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Echo of the Warblade",
+    "link": "https://ddowiki.com/page/Item:Legendary_Echo_of_the_Warblade",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Accuracy +5",
+      "Slashing 7",
+      "Gashing 16",
+      "Dripping with Magma",
+      "Blade Barrier",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Echo of the Crownblade",
+    "link": "https://ddowiki.com/page/Item:Legendary_Echo_of_the_Crownblade",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Exceptional Alluring Skills Bonus",
+      "Felling the Oak",
+      "Coruscating 7",
+      "Electrifying 7",
+      "Blazing 16",
+      "Heal",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Longsword_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Mending Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Mending_Longsword_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Reconstruction +156",
+      "Repair Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Kinetic Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Kinetic_Longsword_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Impulse +156",
+      "Kinetic Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Gleaming Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gleaming_Longsword_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Radiance +156",
+      "Radiance Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Freezing Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Freezing_Longsword_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Glaciation +156",
+      "Ice Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Deathly Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Deathly_Longsword_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Nullification +156",
+      "Void Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Caustic Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Caustic_Longsword_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Corrosion +156",
+      "Acid Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Burning Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Burning_Longsword_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Combustion +156",
+      "Fire Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Blessed Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Blessed_Longsword_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Devotion +156",
+      "Healing Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Booming Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Booming_Longsword_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Resonance +156",
+      "Sonic Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shocking Longsword of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shocking_Longsword_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Magnetism +156",
+      "Lightning Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Gleaming Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gleaming_Longsword_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Radiance +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Blessed Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Blessed_Longsword_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Devotion +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Booming Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Booming_Longsword_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Resonance +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Burning Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Burning_Longsword_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Combustion +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Caustic Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Caustic_Longsword_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Corrosion +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Deathly Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Deathly_Longsword_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Nullification +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Freezing Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Freezing_Longsword_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Glaciation +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Kinetic Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Kinetic_Longsword_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Impulse +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Mending Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Mending_Longsword_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Reconstruction +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shocking Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shocking_Longsword_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Magnetism +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Longsword of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Longsword_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Blessed Longsword of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Blessed_Longsword_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Devotion +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Booming Longsword of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Booming_Longsword_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Resonance +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Burning Longsword of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Burning_Longsword_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Combustion +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Caustic Longsword of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Caustic_Longsword_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Corrosion +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Deathly Longsword of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Deathly_Longsword_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Nullification +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Freezing Longsword of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Freezing_Longsword_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Glaciation +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Gleaming Longsword of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Gleaming_Longsword_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Radiance +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Kinetic Longsword of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Kinetic_Longsword_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Impulse +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Mending Longsword of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Mending_Longsword_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Reconstruction +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Shocking Longsword of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Shocking_Longsword_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Magnetism +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Reflection of the Crownblade",
+    "link": "https://ddowiki.com/page/Item:Reflection_of_the_Crownblade",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Felling the Oak",
+      "Legendary Radiance",
+      "Quality Devotion +40",
+      "Sealed in Fire",
+      "The Crownblade's Blessing",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Reflection of the Warblade",
+    "link": "https://ddowiki.com/page/Item:Reflection_of_the_Warblade",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Mineral",
+      "The Warblade's Wrath",
+      "Legendary Electric Storm",
+      "Dripping with Magma",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Reflection of the Artblade",
+    "link": "https://ddowiki.com/page/Item:Reflection_of_the_Artblade",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Spell Lore +13",
+      "Sacred Spell Focus Mastery +2",
+      "The Artblade's Gift",
+      "Curse Absorption",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Longsword of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Longsword_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Longsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Longsword",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Longsword",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Longsword",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Ember Shortbow",
+    "link": "https://ddowiki.com/page/Item:Ember_Shortbow",
+    "minLevel": "1",
+    "enhancements": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ]
+  },
+  {
+    "name": "+1 Starter Shortbow",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Shortbow",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Ethereal Shortbow",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Shortbow",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Shortbow",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Shortbow",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Scorpion Tail Shortbow",
+    "link": "https://ddowiki.com/page/Item:Scorpion_Tail_Shortbow",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Poison",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Shortbow",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Shortbow",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Shortbow",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Shortbow",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Shortbow",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Shortbow",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Collapsible Shortbow",
+    "link": "https://ddowiki.com/page/Item:Collapsible_Shortbow",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Deception +12",
+      "Jump +12",
+      "Swim +12",
+      "Tumble +12",
+      "Purple Augment Slot",
+      "Red Augment Slot",
+      "Vulkoor's Chosen"
+    ]
+  },
+  {
+    "name": "Barovian's Shortbow",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Shortbow",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Silver",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Shortbow",
+    "link": "https://ddowiki.com/page/Item:Macabre_Shortbow",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Green Steel Shortbow",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Shortbow",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Alchemical Shortbow",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Shortbow",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Shortbow of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Shortbow_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shortbow of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Shortbow_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Hunter of Wilds",
+    "link": "https://ddowiki.com/page/Item:Hunter_of_Wilds",
+    "minLevel": "14",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Trace of Madness",
+      "Elasticity",
+      "Anarchic 3",
+      "Heartseeker I",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Shortbow",
+    "link": "https://ddowiki.com/page/Item:Syranian_Shortbow",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Shortbow",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Shortbow",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Shortbow",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Shortbow",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Collapsible Shortbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Collapsible_Shortbow",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Force Blast 4",
+      "Improved Deception +17",
+      "Jump +17",
+      "Tumble +17",
+      "Swim +17",
+      "Colorless Augment Slot",
+      "Red Augment Slot",
+      "Epic Vulkoor's Chosen"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Shortbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Shortbow",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Shortbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Shortbow",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Shortbow",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Shortbow",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Shortbow",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Legendary Hunter of Wilds",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hunter_of_Wilds",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Trace of Madness",
+      "Elasticity",
+      "Anarchic 6",
+      "Heartseeker VII",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Shortbow",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Shortbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Shortbow",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Shortbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Shortbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Shortbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Shortbow",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Collapsible Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Collapsible_Shortbow",
+    "minLevel": "30",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 6",
+      "Improved Deception +20",
+      "Jump +20",
+      "Tumble +20",
+      "Swim +20",
+      "Legendary Vulkoor's Chosen",
+      "Colorless Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Shortbow",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Shortbow",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Shortbow",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Shortbow",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Shortbow",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Shortbow",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shortbow of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shortbow_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shortbow of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shortbow_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Shortbow of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Shortbow_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Shortbow",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Shortbow",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

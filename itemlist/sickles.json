@@ -1,0 +1,991 @@
+[
+  {
+    "name": "Ember Sickle",
+    "link": "https://ddowiki.com/page/Item:Ember_Sickle",
+    "minLevel": "1",
+    "enhancements": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Gnashtooth Sickle",
+    "link": "https://ddowiki.com/page/Item:Gnashtooth_Sickle",
+    "minLevel": "2",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Stench",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sworn Silver Sickle",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Sickle",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Silver",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Ethereal Sickle",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Sickle",
+    "minLevel": "2",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sickle of Vile Attunement",
+    "link": "https://ddowiki.com/page/Item:Sickle_of_Vile_Attunement",
+    "minLevel": "3",
+    "enhancements": [
+      "Spellcasting Implement +3",
+      "+3 Enhancement Bonus",
+      "Void Lore +7%",
+      "Nullification +47",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Kookie Kutter (level 5)",
+    "link": "https://ddowiki.com/page/Item:Kookie_Kutter_(level_5)",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Bleeding 2",
+      "Gashing 5",
+      "Slashing 2",
+      "Armor-Piercing - 6%",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Ferrocrystal Sickle",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Sickle",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Flamesalt Sickle",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Sickle",
+    "minLevel": "5",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sickle of Sypheros",
+    "link": "https://ddowiki.com/page/Item:Sickle_of_Sypheros",
+    "minLevel": "6",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Frost",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "+1 Vorpal Sickle of Haggling",
+    "link": "https://ddowiki.com/page/Item:%2B1_Vorpal_Sickle_of_Haggling",
+    "minLevel": "6",
+    "enhancements": [
+      "+1 Enhancement Bonus",
+      "Haggle +3",
+      "Vorpal"
+    ]
+  },
+  {
+    "name": "The Hedge Trimmer",
+    "link": "https://ddowiki.com/page/Item:The_Hedge_Trimmer",
+    "minLevel": "7",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Plant Bane 2",
+      "Piercing 2",
+      "Bleeding 2",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Calamitous Sickle",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Sickle",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shining Crescents",
+    "link": "https://ddowiki.com/page/Item:Shining_Crescents",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Vertigo +6",
+      "Tendon Slice 6%",
+      "Adamantine"
+    ]
+  },
+  {
+    "name": "Tharkuul's Bane",
+    "link": "https://ddowiki.com/page/Item:Tharkuul%27s_Bane",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Red Augment Slot",
+      "Holy",
+      "Cold Iron"
+    ]
+  },
+  {
+    "name": "Widowblight",
+    "link": "https://ddowiki.com/page/Item:Widowblight",
+    "minLevel": "10",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Paralyzing",
+      "Bewildering",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Kookie Kutter (level 10)",
+    "link": "https://ddowiki.com/page/Item:Kookie_Kutter_(level_10)",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Bleeding 3",
+      "Gashing 7",
+      "Slashing 3",
+      "Armor-Piercing - 9%",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Macabre Sickle",
+    "link": "https://ddowiki.com/page/Item:Macabre_Sickle",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Barovian's Sickle",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Sickle",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Undead Bane 3",
+      "Silver",
+      "Fiery 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Green Steel Sickle",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Sickle",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ]
+  },
+  {
+    "name": "Alchemical Sickle",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Sickle",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ]
+  },
+  {
+    "name": "Sickle of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Sickle_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Sickle of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Sickle_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Wild Flame",
+    "link": "https://ddowiki.com/page/Item:Wild_Flame",
+    "minLevel": "14",
+    "enhancements": [
+      "Spellcasting Implement +14",
+      "+5 Enhancement Bonus",
+      "Combustion +90",
+      "Insightful Combustion +45",
+      "Fire Lore +13%",
+      "Evocation Focus +3",
+      "Red Augment Slot",
+      "Seasons of Change"
+    ]
+  },
+  {
+    "name": "Wild Frost",
+    "link": "https://ddowiki.com/page/Item:Wild_Frost",
+    "minLevel": "14",
+    "enhancements": [
+      "Spellcasting Implement +14",
+      "+5 Enhancement Bonus",
+      "Glaciation +90",
+      "Insightful Glaciation +45",
+      "Ice Lore +13%",
+      "Conjuration Focus +3",
+      "Red Augment Slot",
+      "Seasons of Change"
+    ]
+  },
+  {
+    "name": "Thunderstorm Crescent (level 15)",
+    "link": "https://ddowiki.com/page/Item:Thunderstorm_Crescent_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Shock",
+      "Lightning Strike",
+      "Magnetism +78"
+    ]
+  },
+  {
+    "name": "Kookie Kutter (level 15)",
+    "link": "https://ddowiki.com/page/Item:Kookie_Kutter_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Bleeding 4",
+      "Gashing 9",
+      "Slashing 4",
+      "Armor-Piercing - 12%",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Flicker of the Crescent Moon",
+    "link": "https://ddowiki.com/page/Item:Flicker_of_the_Crescent_Moon",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Chilling 4",
+      "Bleeding 4",
+      "Keen",
+      "Insightful Deception +3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Syranian Sickle",
+    "link": "https://ddowiki.com/page/Item:Syranian_Sickle",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Mystic Force",
+    "link": "https://ddowiki.com/page/Item:Mystic_Force",
+    "minLevel": "15",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+3 Enhancement Bonus",
+      "Impulse +81",
+      "Insightful Enchantment Focus +2"
+    ]
+  },
+  {
+    "name": "Dark Power's Demands",
+    "link": "https://ddowiki.com/page/Item:Dark_Power%27s_Demands",
+    "minLevel": "15",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Kinetic Lore +12%",
+      "Insightful Evocation Focus +2"
+    ]
+  },
+  {
+    "name": "Thunderstorm Crescent (level 16)",
+    "link": "https://ddowiki.com/page/Item:Thunderstorm_Crescent_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Shocking Burst",
+      "Lightning Strike",
+      "Magnetism +78"
+    ]
+  },
+  {
+    "name": "Shadow's Curve",
+    "link": "https://ddowiki.com/page/Item:Shadow%27s_Curve",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Unholy 4",
+      "Negative Blast 4",
+      "Human Bane 4",
+      "Doublestrike 9%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunderstorm Crescent (level 17)",
+    "link": "https://ddowiki.com/page/Item:Thunderstorm_Crescent_(level_17)",
+    "minLevel": "17",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Voltaic",
+      "Lightning Strike",
+      "Magnetism +84"
+    ]
+  },
+  {
+    "name": "The Hook",
+    "link": "https://ddowiki.com/page/Item:The_Hook",
+    "minLevel": "17",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "The Dragging of the Depths 4",
+      "Limb Chopper",
+      "Bleeding 4",
+      "Weaken Undead",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Death's Touch",
+    "link": "https://ddowiki.com/page/Item:Death%27s_Touch",
+    "minLevel": "18",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Negative Energy Spike",
+      "Lesser Vampirism",
+      "Nullification +84",
+      "Void Lore IV",
+      "Taint of Evil",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Shining Reliquary Sickle",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Sickle",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Reliquary Sickle",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Sickle",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Kookie Kutter (level 20)",
+    "link": "https://ddowiki.com/page/Item:Kookie_Kutter_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Bleeding 4",
+      "Gashing 10",
+      "Slashing 4",
+      "Armor-Piercing - 15%",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Sworn Silver Sickle",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Sickle",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Silver",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Ethereal Sickle",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Sickle",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Icerazor",
+    "link": "https://ddowiki.com/page/Item:Icerazor",
+    "minLevel": "21",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Glaciation +102",
+      "Ice Lore V",
+      "Slicing",
+      "Icy Burst",
+      "Freezing Ice"
+    ]
+  },
+  {
+    "name": "Thunderstorm Crescent (level 22)",
+    "link": "https://ddowiki.com/page/Item:Thunderstorm_Crescent_(level_22)",
+    "minLevel": "22",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Voltaic",
+      "Lightning Strike",
+      "Magnetism +102"
+    ]
+  },
+  {
+    "name": "Thunder-Forged Alloy Sickle",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Sickle",
+    "minLevel": "22",
+    "enhancements": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunderstorm Crescent (level 23)",
+    "link": "https://ddowiki.com/page/Item:Thunderstorm_Crescent_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Electrifying",
+      "Lightning Strike",
+      "Magnetism +108"
+    ]
+  },
+  {
+    "name": "Devourer's Reaping",
+    "link": "https://ddowiki.com/page/Item:Devourer%27s_Reaping",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Greater Vorpal",
+      "Doublestrike 14%",
+      "Hemorrhaging",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Thunderstorm Crescent (level 24)",
+    "link": "https://ddowiki.com/page/Item:Thunderstorm_Crescent_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Electrifying",
+      "Lightning Strike",
+      "Magnetism +114"
+    ]
+  },
+  {
+    "name": "Kookie Kutter (level 25)",
+    "link": "https://ddowiki.com/page/Item:Kookie_Kutter_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Bleeding 5",
+      "Gashing 12",
+      "Slashing 5",
+      "Armor-Piercing - 18%",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Green Steel Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Sickle",
+    "minLevel": "26",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ]
+  },
+  {
+    "name": "Null, the Darkness Without",
+    "link": "https://ddowiki.com/page/Item:Null,_the_Darkness_Without",
+    "minLevel": "28",
+    "enhancements": [
+      "Nullification +145",
+      "Insightful Nullification +72",
+      "Void Lore +21%",
+      "Insightful Necromancy Focus +3",
+      "Devotion +145",
+      "Insightful Devotion +72",
+      "Healing Lore +21%",
+      "Efficient Metamagic - Empower Healing II",
+      "Spellcasting Implement +28",
+      "+15 Enhancement Bonus",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Brilliant Crescent",
+    "link": "https://ddowiki.com/page/Item:Brilliant_Crescent",
+    "minLevel": "28",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Axiomatic 6",
+      "Keen",
+      "Limb Chopper",
+      "Adamantine",
+      "Red Augment Slot",
+      "Orange Augment Slot",
+      "Brilliant Crescents"
+    ]
+  },
+  {
+    "name": "Legendary Wild Flame",
+    "link": "https://ddowiki.com/page/Item:Legendary_Wild_Flame",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Combustion +142",
+      "Insightful Combustion +71",
+      "Fire Lore +21%",
+      "Evocation Focus +5",
+      "Red Augment Slot",
+      "Seasons of Change (Legendary)"
+    ]
+  },
+  {
+    "name": "Legendary Wild Frost",
+    "link": "https://ddowiki.com/page/Item:Legendary_Wild_Frost",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Glaciation +142",
+      "Insightful Glaciation +71",
+      "Ice Lore +21%",
+      "Conjuration Focus +5",
+      "Red Augment Slot",
+      "Seasons of Change (Legendary)"
+    ]
+  },
+  {
+    "name": "Legendary Flicker of the Crescent Moon",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flicker_of_the_Crescent_Moon",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Bleeding 6",
+      "Keen",
+      "Insightful Deception +5",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "The Legendary Hook",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Hook",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "The Dragging of the Depths 6",
+      "Bleeding 6",
+      "Limb Chopper",
+      "Weaken Undead",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Sickle of Vile Attunement",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sickle_of_Vile_Attunement",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Void Lore +21%",
+      "Nullification +142",
+      "Conjuration Focus +5",
+      "Transmutation Focus +5",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Morninglord's Sickle",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Sickle",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Silver",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Nightmother's Sickle",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Sickle",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Syranian Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Sickle",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Ferrocrystal Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Sickle",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Shadowscythe",
+    "link": "https://ddowiki.com/page/Item:Shadowscythe",
+    "minLevel": "29",
+    "enhancements": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Shadowblade",
+      "Illusion Focus +6",
+      "Sovereign Nightmares",
+      "Insightful Impulse +74",
+      "Quality Impulse +36",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Legendary Hedge Trimmer",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Hedge_Trimmer",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Plant Bane 6",
+      "Piercing 6",
+      "Bleeding 6",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Alchemical Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Sickle",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Flamesalt Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Sickle",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Kookie Kutter (level 30)",
+    "link": "https://ddowiki.com/page/Item:Kookie_Kutter_(level_30)",
+    "minLevel": "30",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Bleeding 6",
+      "Gashing 14",
+      "Slashing 6",
+      "Armor-Piercing - 21%",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Shadow's Curve",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shadow%27s_Curve",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Unholy 6",
+      "Negative Blast 6",
+      "Human Bane 6",
+      "Doublestrike 15%",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Sickle",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Sickle",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Attuned Bone Sickle",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Sickle",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Shining Reliquary Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Sickle",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Sickle",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Sickle of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sickle_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Sickle of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sickle_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Sickle of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Sickle_of_the_Undying_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Wither, the Venomous Voice",
+    "link": "https://ddowiki.com/page/Item:Wither,_the_Venomous_Voice",
+    "minLevel": "33",
+    "enhancements": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Grip of Venom",
+      "Void Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Waste, the Weak's End",
+    "link": "https://ddowiki.com/page/Item:Waste,_the_Weak%27s_End",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Grip of Venom",
+      "Venomscale",
+      "Legendary Paralysis",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Calamitous Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Sickle",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "The Reaper of Lives",
+    "link": "https://ddowiki.com/page/Item:The_Reaper_of_Lives",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Murderous Edge",
+      "Revel in Blood (Slashing)",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Sickle",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  }
+]

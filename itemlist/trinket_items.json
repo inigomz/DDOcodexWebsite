@@ -1,0 +1,3834 @@
+[
+  {
+    "name": "Misery's Web",
+    "link": "https://ddowiki.com/page/Item:Misery%27s_Web",
+    "minLevel": "3",
+    "enhancements": [
+      "Web",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Ruined Signet Brooch",
+    "link": "https://ddowiki.com/page/Item:Ruined_Signet_Brooch",
+    "minLevel": "None",
+    "enhancements": [
+      "Heal +1"
+    ]
+  },
+  {
+    "name": "Moog's Ornament",
+    "link": "https://ddowiki.com/page/Item:Moog%27s_Ornament",
+    "minLevel": "None",
+    "enhancements": [
+      "Dexterity +1"
+    ]
+  },
+  {
+    "name": "Rakhat's Trifle",
+    "link": "https://ddowiki.com/page/Item:Rakhat%27s_Trifle",
+    "minLevel": "None",
+    "enhancements": [
+      "Charisma +1"
+    ]
+  },
+  {
+    "name": "Crimson Gemstone",
+    "link": "https://ddowiki.com/page/Item:Crimson_Gemstone",
+    "minLevel": "5",
+    "enhancements": [
+      "Wizardry II",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Zizoo's Spangle",
+    "link": "https://ddowiki.com/page/Item:Zizoo%27s_Spangle",
+    "minLevel": "None",
+    "enhancements": [
+      "Intelligence +1"
+    ]
+  },
+  {
+    "name": "Vial of Slumberdust",
+    "link": "https://ddowiki.com/page/Item:Vial_of_Slumberdust",
+    "minLevel": "None",
+    "enhancements": [
+      "Sleep"
+    ]
+  },
+  {
+    "name": "Skeleton Key",
+    "link": "https://ddowiki.com/page/Item:Skeleton_Key",
+    "minLevel": "7",
+    "enhancements": [
+      "Open Lock +9",
+      "Disable Device +9",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Bloodrage Symbiont",
+    "link": "https://ddowiki.com/page/Item:Bloodrage_Symbiont",
+    "minLevel": "7",
+    "enhancements": [
+      "Rage",
+      "Constitution -2",
+      "DR",
+      "Proof Against Poison +6",
+      "Will Save -2",
+      "Proof Against Disease +6"
+    ]
+  },
+  {
+    "name": "Wooden Prayer Beads",
+    "link": "https://ddowiki.com/page/Item:Wooden_Prayer_Beads",
+    "minLevel": "3",
+    "enhancements": [
+      "Bless",
+      "Competence Healing Amplification +8",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Incandescent Blue Ioun Stone",
+    "link": "https://ddowiki.com/page/Item:Incandescent_Blue_Ioun_Stone",
+    "minLevel": "2",
+    "enhancements": [
+      "Wisdom +2",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Pouch of Jerky",
+    "link": "https://ddowiki.com/page/Item:Pouch_of_Jerky",
+    "minLevel": "11",
+    "enhancements": [
+      "Jerky",
+      "Constitution +6",
+      "False Life +23",
+      "Competence Healing Amplification +24",
+      "Heal +13",
+      "Vulkoor's Chosen"
+    ]
+  },
+  {
+    "name": "Battle Coin",
+    "link": "https://ddowiki.com/page/Item:Battle_Coin",
+    "minLevel": "9",
+    "enhancements": [
+      "Heal Moderate Wounds",
+      "Attack Bonus +1"
+    ]
+  },
+  {
+    "name": "Bottle of Air",
+    "link": "https://ddowiki.com/page/Item:Bottle_of_Air",
+    "minLevel": "None",
+    "enhancements": [
+      "Underwater Action"
+    ]
+  },
+  {
+    "name": "Head of Good Fortune",
+    "link": "https://ddowiki.com/page/Item:Head_of_Good_Fortune",
+    "minLevel": "13",
+    "enhancements": [
+      "Good Luck  +2",
+      "Fortification +75%",
+      "Upgradeable Item (Stormreaver)"
+    ]
+  },
+  {
+    "name": "Dusk Heart",
+    "link": "https://ddowiki.com/page/Item:Dusk_Heart",
+    "minLevel": "11",
+    "enhancements": [
+      "Dusk",
+      "False Life +23",
+      "Dodge +6%",
+      "Protection +5",
+      "Colorless Augment Slot",
+      "The Desert's Starless Nights"
+    ]
+  },
+  {
+    "name": "Fragment of the Silver Flame",
+    "link": "https://ddowiki.com/page/Item:Fragment_of_the_Silver_Flame",
+    "minLevel": "7",
+    "enhancements": [
+      "Protection from Evil",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Flame's Gift",
+    "link": "https://ddowiki.com/page/Item:Flame%27s_Gift",
+    "minLevel": "9",
+    "enhancements": [
+      "Fire Lore III",
+      "Combustion +54"
+    ]
+  },
+  {
+    "name": "Token of the Faithful",
+    "link": "https://ddowiki.com/page/Item:Token_of_the_Faithful",
+    "minLevel": "9",
+    "enhancements": [
+      "Lesser Turning",
+      "Eternal Faith"
+    ]
+  },
+  {
+    "name": "Kardin's Eye (level 12)",
+    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "Resistance +5",
+      "Heightened Awareness 2"
+    ]
+  },
+  {
+    "name": "Voice of the Master",
+    "link": "https://ddowiki.com/page/Item:Voice_of_the_Master",
+    "minLevel": "5",
+    "enhancements": [
+      "Heroic Inspiration",
+      "Good Luck  +1"
+    ]
+  },
+  {
+    "name": "Mummified Bat",
+    "link": "https://ddowiki.com/page/Item:Mummified_Bat",
+    "minLevel": "9",
+    "enhancements": [
+      "Listen +10",
+      "Spot +10",
+      "Feather Falling"
+    ]
+  },
+  {
+    "name": "Kutik's Bead",
+    "link": "https://ddowiki.com/page/Item:Kutik%27s_Bead",
+    "minLevel": "None",
+    "enhancements": [
+      "Strength +1"
+    ]
+  },
+  {
+    "name": "Kneeza's Bauble",
+    "link": "https://ddowiki.com/page/Item:Kneeza%27s_Bauble",
+    "minLevel": "None",
+    "enhancements": [
+      "Wisdom +1"
+    ]
+  },
+  {
+    "name": "Rakhat's Spangle",
+    "link": "https://ddowiki.com/page/Item:Rakhat%27s_Spangle",
+    "minLevel": "None",
+    "enhancements": [
+      "Constitution +1",
+      "Concentration +1"
+    ]
+  },
+  {
+    "name": "Thaarak Fang",
+    "link": "https://ddowiki.com/page/Item:Thaarak_Fang",
+    "minLevel": "9",
+    "enhancements": [
+      "Constitution +4",
+      "Will Save -2",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Litany of the Dead",
+    "link": "https://ddowiki.com/page/Item:Litany_of_the_Dead",
+    "minLevel": "13",
+    "enhancements": [
+      "Turn the Page",
+      "Litany of the Dead  - Ability Bonus",
+      "Taint of Evil",
+      "Litany of the Dead  - Combat Bonus",
+      "Upgradeable Item (Black Abbot)"
+    ]
+  },
+  {
+    "name": "Mysterious Bauble",
+    "link": "https://ddowiki.com/page/Item:Mysterious_Bauble",
+    "minLevel": "18",
+    "enhancements": [
+      "Major  Mnemonic Aid",
+      "Wizardry VI"
+    ]
+  },
+  {
+    "name": "Signal of the Silver Flame",
+    "link": "https://ddowiki.com/page/Item:Signal_of_the_Silver_Flame",
+    "minLevel": "5",
+    "enhancements": [
+      "Lesser Turning"
+    ]
+  },
+  {
+    "name": "Epic Bloodstone",
+    "link": "https://ddowiki.com/page/Item:Epic_Bloodstone",
+    "minLevel": "20",
+    "enhancements": [
+      "Seeker +9",
+      "Deception +7",
+      "Accuracy +15",
+      "Deadly +8",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Epic Vulkoor's Chosen"
+    ]
+  },
+  {
+    "name": "Epic Dusk Heart",
+    "link": "https://ddowiki.com/page/Item:Epic_Dusk_Heart",
+    "minLevel": "20",
+    "enhancements": [
+      "Death Ward, Mass",
+      "Dusk",
+      "False Life +36",
+      "Dodge +9%",
+      "Protection +8",
+      "Colorless Augment Slot",
+      "Green Augment Slot",
+      "The Epic Desert's Starless Nights"
+    ]
+  },
+  {
+    "name": "Epic Shard of Vollun",
+    "link": "https://ddowiki.com/page/Item:Epic_Shard_of_Vollun",
+    "minLevel": "20",
+    "enhancements": [
+      "Insightful Radiance +55",
+      "Insightful Combustion +55",
+      "Insightful Devotion +55",
+      "Wizardry +195",
+      "Radiance Guard",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "The Epic Desert's Burning Sun"
+    ]
+  },
+  {
+    "name": "Penny Whistle",
+    "link": "https://ddowiki.com/page/Item:Penny_Whistle",
+    "minLevel": "9",
+    "enhancements": [
+      "Summon Monster III",
+      "Yellow Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Xachosian Eardweller",
+    "link": "https://ddowiki.com/page/Item:Xachosian_Eardweller",
+    "minLevel": "18",
+    "enhancements": [
+      "Xachosian Spell Frenzy",
+      "Intelligence +6",
+      "Spell Penetration III",
+      "Enchantment Focus II",
+      "Listen -7"
+    ]
+  },
+  {
+    "name": "Brooch of Shielding",
+    "link": "https://ddowiki.com/page/Item:Brooch_of_Shielding",
+    "minLevel": "5",
+    "enhancements": [
+      "Absorbs Magic Missiles"
+    ]
+  },
+  {
+    "name": "Chiku's Bauble",
+    "link": "https://ddowiki.com/page/Item:Chiku%27s_Bauble",
+    "minLevel": "None",
+    "enhancements": [
+      "Heal +3"
+    ]
+  },
+  {
+    "name": "Crude Bauble",
+    "link": "https://ddowiki.com/page/Item:Crude_Bauble",
+    "minLevel": "2",
+    "enhancements": [
+      "Lesser False Life",
+      "Fortification +25%",
+      "Intimidate +3"
+    ]
+  },
+  {
+    "name": "Crystallized Widow's Eye",
+    "link": "https://ddowiki.com/page/Item:Crystallized_Widow%27s_Eye",
+    "minLevel": "9",
+    "enhancements": [
+      "Power X",
+      "Spot +10",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Dark Blue Ioun Stone",
+    "link": "https://ddowiki.com/page/Item:Dark_Blue_Ioun_Stone",
+    "minLevel": "2",
+    "enhancements": [
+      "Listen +3",
+      "Spot +3",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Deep Red Ioun Stone",
+    "link": "https://ddowiki.com/page/Item:Deep_Red_Ioun_Stone",
+    "minLevel": "2",
+    "enhancements": [
+      "Dexterity +2",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Glik's Bangle",
+    "link": "https://ddowiki.com/page/Item:Glik%27s_Bangle",
+    "minLevel": "None",
+    "enhancements": [
+      "Will Save +2"
+    ]
+  },
+  {
+    "name": "Jeeka's Spangle",
+    "link": "https://ddowiki.com/page/Item:Jeeka%27s_Spangle",
+    "minLevel": "None",
+    "enhancements": [
+      "Armor Bonus +2"
+    ]
+  },
+  {
+    "name": "Keoghtom's Ointment",
+    "link": "https://ddowiki.com/page/Item:Keoghtom%27s_Ointment",
+    "minLevel": "None",
+    "enhancements": [
+      "Keoghtom's Ointment"
+    ]
+  },
+  {
+    "name": "Murlynd's Spoon",
+    "link": "https://ddowiki.com/page/Item:Murlynd%27s_Spoon",
+    "minLevel": "5",
+    "enhancements": [
+      "Murlynd's Spoon"
+    ]
+  },
+  {
+    "name": "Neecha's Bead",
+    "link": "https://ddowiki.com/page/Item:Neecha%27s_Bead",
+    "minLevel": "None",
+    "enhancements": [
+      "Fortitude Save +2"
+    ]
+  },
+  {
+    "name": "Pale Blue Ioun Stone",
+    "link": "https://ddowiki.com/page/Item:Pale_Blue_Ioun_Stone",
+    "minLevel": "2",
+    "enhancements": [
+      "Strength +2",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Pale Lavender Ioun Stone",
+    "link": "https://ddowiki.com/page/Item:Pale_Lavender_Ioun_Stone",
+    "minLevel": "2",
+    "enhancements": [
+      "Spell Absorption",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Pearl of Power X",
+    "link": "https://ddowiki.com/page/Item:Pearl_of_Power_X",
+    "minLevel": "9",
+    "enhancements": [
+      "Power X"
+    ]
+  },
+  {
+    "name": "Pearl of Sirines",
+    "link": "https://ddowiki.com/page/Item:Pearl_of_Sirines",
+    "minLevel": "7",
+    "enhancements": [
+      "Underwater Action",
+      "Swim +10"
+    ]
+  },
+  {
+    "name": "Pink Ioun Stone",
+    "link": "https://ddowiki.com/page/Item:Pink_Ioun_Stone",
+    "minLevel": "2",
+    "enhancements": [
+      "Constitution +2",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Scarab of Protection",
+    "link": "https://ddowiki.com/page/Item:Scarab_of_Protection",
+    "minLevel": "None",
+    "enhancements": [
+      "Spell Resistance +20",
+      "Scarab of Protection Ward"
+    ]
+  },
+  {
+    "name": "Scarab of Spell Absorption",
+    "link": "https://ddowiki.com/page/Item:Scarab_of_Spell_Absorption",
+    "minLevel": "None",
+    "enhancements": [
+      "Spell Absorption"
+    ]
+  },
+  {
+    "name": "Scarlet and Blue Ioun Stone",
+    "link": "https://ddowiki.com/page/Item:Scarlet_and_Blue_Ioun_Stone",
+    "minLevel": "2",
+    "enhancements": [
+      "Intelligence +2",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Stone of Good Luck",
+    "link": "https://ddowiki.com/page/Item:Stone_of_Good_Luck",
+    "minLevel": "7",
+    "enhancements": [
+      "Good Luck  +1"
+    ]
+  },
+  {
+    "name": "Shard of Vollun",
+    "link": "https://ddowiki.com/page/Item:Shard_of_Vollun",
+    "minLevel": "11",
+    "enhancements": [
+      "Insightful Radiance +40",
+      "Insightful Combustion +40",
+      "Insightful Devotion +40",
+      "Wizardry +121",
+      "Yellow Augment Slot",
+      "The Desert's Burning Sun"
+    ]
+  },
+  {
+    "name": "Shimmering Arrowhead",
+    "link": "https://ddowiki.com/page/Item:Shimmering_Arrowhead",
+    "minLevel": "18",
+    "enhancements": [
+      "Crippling",
+      "Seeker +4",
+      "Attack Bonus +2"
+    ]
+  },
+  {
+    "name": "Vibrant Purple Ioun Stone",
+    "link": "https://ddowiki.com/page/Item:Vibrant_Purple_Ioun_Stone",
+    "minLevel": "2",
+    "enhancements": [
+      "Power III",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Dragon's Eye",
+    "link": "https://ddowiki.com/page/Item:Dragon%27s_Eye",
+    "minLevel": "9",
+    "enhancements": [
+      "Wizardry +104",
+      "Magical Efficiency 5%",
+      "Exceptional Universal Spell Power +8",
+      "Draconic Prophecy"
+    ]
+  },
+  {
+    "name": "Epic Dragon's Eye",
+    "link": "https://ddowiki.com/page/Item:Epic_Dragon%27s_Eye",
+    "minLevel": "20",
+    "enhancements": [
+      "Greater Efficacy",
+      "Wizardry +195",
+      "Magical Efficiency 10%",
+      "Exceptional Universal Spell Power +15",
+      "Exceptional Universal Spell Lore +5%",
+      "Yellow Augment Slot",
+      "Epic Draconic Prophecy"
+    ]
+  },
+  {
+    "name": "Epic Pouch of Jerky",
+    "link": "https://ddowiki.com/page/Item:Epic_Pouch_of_Jerky",
+    "minLevel": "20",
+    "enhancements": [
+      "Jerky",
+      "Constitution +9",
+      "False Life +36",
+      "Competence Healing Amplification +38",
+      "Heal +17",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Epic Vulkoor's Chosen"
+    ]
+  },
+  {
+    "name": "Sapphire of the Twelve",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_the_Twelve",
+    "minLevel": "13",
+    "enhancements": [
+      "Cure Critical Wounds, Mass"
+    ]
+  },
+  {
+    "name": "Alabaster of the Twelve",
+    "link": "https://ddowiki.com/page/Item:Alabaster_of_the_Twelve",
+    "minLevel": "13",
+    "enhancements": [
+      "Cure Serious Wounds, Mass"
+    ]
+  },
+  {
+    "name": "Diamond of the Twelve",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_the_Twelve",
+    "minLevel": "13",
+    "enhancements": [
+      "Cure Serious Wounds, Mass"
+    ]
+  },
+  {
+    "name": "Emerald of the Twelve",
+    "link": "https://ddowiki.com/page/Item:Emerald_of_the_Twelve",
+    "minLevel": "13",
+    "enhancements": [
+      "Panacea"
+    ]
+  },
+  {
+    "name": "Jade of the Twelve",
+    "link": "https://ddowiki.com/page/Item:Jade_of_the_Twelve",
+    "minLevel": "13",
+    "enhancements": [
+      "Panacea"
+    ]
+  },
+  {
+    "name": "Obsidian of the Twelve",
+    "link": "https://ddowiki.com/page/Item:Obsidian_of_the_Twelve",
+    "minLevel": "13",
+    "enhancements": [
+      "Raise Dead"
+    ]
+  },
+  {
+    "name": "Onyx of the Twelve",
+    "link": "https://ddowiki.com/page/Item:Onyx_of_the_Twelve",
+    "minLevel": "13",
+    "enhancements": [
+      "Raise Dead"
+    ]
+  },
+  {
+    "name": "Topaz of the Twelve",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_the_Twelve",
+    "minLevel": "13",
+    "enhancements": [
+      "Heal"
+    ]
+  },
+  {
+    "name": "Brawn's Spirits",
+    "link": "https://ddowiki.com/page/Item:Brawn%27s_Spirits",
+    "minLevel": "4",
+    "enhancements": [
+      "Rage",
+      "Intimidate +6",
+      "Incite +38",
+      "Curse of Foolishness",
+      "Curse of Dullness"
+    ]
+  },
+  {
+    "name": "Epic Brawn's Spirits",
+    "link": "https://ddowiki.com/page/Item:Epic_Brawn%27s_Spirits",
+    "minLevel": "20",
+    "enhancements": [
+      "Rage",
+      "Intimidate +17",
+      "Incite +91",
+      "Insightful Strength +4",
+      "Insightful Constitution +4",
+      "Curse of Foolishness",
+      "Curse of Dullness",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Pink and Green Ioun Stone",
+    "link": "https://ddowiki.com/page/Item:Pink_and_Green_Ioun_Stone",
+    "minLevel": "2",
+    "enhancements": [
+      "Charisma +2",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Gem of Many Facets",
+    "link": "https://ddowiki.com/page/Item:Gem_of_Many_Facets",
+    "minLevel": "5",
+    "enhancements": [
+      "Craftable",
+      "Yellow Augment Slot",
+      "Divine Blessing",
+      "Elder's Knowledge",
+      "Marshwalker",
+      "Raven's Eye",
+      "Shaman's Fury",
+      "Siren's Ward",
+      "Vulkoor's Cunning",
+      "Vulkoor's Might",
+      "Kundarak Delving Equipment",
+      "Mroranon's Might",
+      "Silver Concord's Subtlety",
+      "Wards of House Kundarak",
+      "Draconic Prophecy",
+      "Might of the Abishai",
+      "The Desert's Biting Sands",
+      "The Desert's Burning Sun",
+      "The Desert's Starless Nights",
+      "The Desert's Writhing Storm",
+      "Menechtarun Scavenger",
+      "Oasis of Morality",
+      "Vulkoor's Chosen",
+      "Windlasher's Ferocity"
+    ]
+  },
+  {
+    "name": "Epic Gem of Many Facets",
+    "link": "https://ddowiki.com/page/Item:Epic_Gem_of_Many_Facets",
+    "minLevel": "20",
+    "enhancements": [
+      "Craftable",
+      "Yellow Augment Slot",
+      "Epic Divine Blessing",
+      "Epic Elder's Knowledge",
+      "Epic Marshwalker",
+      "Epic Raven's Eye",
+      "Epic Shaman's Fury",
+      "Epic Siren's Ward",
+      "Epic Vulkoor's Cunning",
+      "Epic Vulkoor's Might",
+      "Epic Kundarak Delving Equipment",
+      "Epic Mroranon's Might",
+      "Epic Silver Concord's Subtlety",
+      "Epic Wards of House Kundarak",
+      "Epic Draconic Prophecy",
+      "Epic Might of the Abishai",
+      "The Epic Desert's Biting Sands",
+      "The Epic Desert's Burning Sun",
+      "The Epic Desert's Starless Nights",
+      "The Epic Desert's Writhing Storm",
+      "Epic Menechtarun Scavenger",
+      "Epic Oasis of Morality",
+      "Epic Vulkoor's Chosen",
+      "Epic Windlasher's Ferocity"
+    ]
+  },
+  {
+    "name": "Shard Trinket of Mnemonic Enhancement",
+    "link": "https://ddowiki.com/page/Item:Shard_Trinket_of_Mnemonic_Enhancement",
+    "minLevel": "None",
+    "enhancements": [
+      "Major  Mnemonic Enhancer"
+    ]
+  },
+  {
+    "name": "Raktu's Trifle",
+    "link": "https://ddowiki.com/page/Item:Raktu%27s_Trifle",
+    "minLevel": "None",
+    "enhancements": [
+      "Absorbs Magic Missiles"
+    ]
+  },
+  {
+    "name": "Night Hag's Heartstone",
+    "link": "https://ddowiki.com/page/Item:Night_Hag%27s_Heartstone",
+    "minLevel": "12",
+    "enhancements": [
+      "Deep Slumber",
+      "Nightmare Guard",
+      "Proof Against Disease +5",
+      "Proof Against Poison +5"
+    ]
+  },
+  {
+    "name": "Touch of the Silver Flame",
+    "link": "https://ddowiki.com/page/Item:Touch_of_the_Silver_Flame",
+    "minLevel": "5",
+    "enhancements": [
+      "Lesser Undead Guard"
+    ]
+  },
+  {
+    "name": "Kaelth's Touch",
+    "link": "https://ddowiki.com/page/Item:Kaelth%27s_Touch",
+    "minLevel": "9",
+    "enhancements": [
+      "Undead Guard",
+      "Faith"
+    ]
+  },
+  {
+    "name": "Greater Stalwart Trinket",
+    "link": "https://ddowiki.com/page/Item:Greater_Stalwart_Trinket",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 3",
+      "Pirate Vitality",
+      "Exceptional Fortification (+10%)",
+      "Earthen Guard"
+    ]
+  },
+  {
+    "name": "Greater Bold Trinket",
+    "link": "https://ddowiki.com/page/Item:Greater_Bold_Trinket",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 3",
+      "Damage Bonus +1",
+      "Insightful Seeker +2",
+      "Shocking Blow"
+    ]
+  },
+  {
+    "name": "Lesser Cunning Trinket",
+    "link": "https://ddowiki.com/page/Item:Lesser_Cunning_Trinket",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "Pirate Cleverness"
+    ]
+  },
+  {
+    "name": "Greater Nimble Trinket",
+    "link": "https://ddowiki.com/page/Item:Greater_Nimble_Trinket",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 3",
+      "Attack Bonus +1",
+      "Dodge +2%",
+      "Blurry"
+    ]
+  },
+  {
+    "name": "Nimble Trinket",
+    "link": "https://ddowiki.com/page/Item:Nimble_Trinket",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 2",
+      "Attack Bonus +1",
+      "Dodge +2%"
+    ]
+  },
+  {
+    "name": "Greater Cunning Trinket",
+    "link": "https://ddowiki.com/page/Item:Greater_Cunning_Trinket",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 3",
+      "Pirate Cleverness",
+      "Enchantment Focus I",
+      "Necromancy Focus I",
+      "Efficient Metamagic - Maximize I"
+    ]
+  },
+  {
+    "name": "Cunning Trinket",
+    "link": "https://ddowiki.com/page/Item:Cunning_Trinket",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 2",
+      "Pirate Cleverness",
+      "Enchantment Focus I",
+      "Necromancy Focus I"
+    ]
+  },
+  {
+    "name": "Stalwart Trinket",
+    "link": "https://ddowiki.com/page/Item:Stalwart_Trinket",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 2",
+      "Pirate Vitality",
+      "Exceptional Fortification (+10%)"
+    ]
+  },
+  {
+    "name": "Bold Trinket",
+    "link": "https://ddowiki.com/page/Item:Bold_Trinket",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 2",
+      "Damage Bonus +1",
+      "Insightful Seeker +2"
+    ]
+  },
+  {
+    "name": "Lesser Bold Trinket",
+    "link": "https://ddowiki.com/page/Item:Lesser_Bold_Trinket",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "Damage Bonus +1"
+    ]
+  },
+  {
+    "name": "Lesser Stalwart Trinket",
+    "link": "https://ddowiki.com/page/Item:Lesser_Stalwart_Trinket",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "Pirate Vitality"
+    ]
+  },
+  {
+    "name": "The Blood Stone",
+    "link": "https://ddowiki.com/page/Item:The_Blood_Stone",
+    "minLevel": "11",
+    "enhancements": [
+      "Seeker +6",
+      "Deception +4",
+      "Accuracy +9",
+      "Deadly +5",
+      "Green Augment Slot",
+      "Vulkoor's Chosen"
+    ]
+  },
+  {
+    "name": "Pale Lavender Ioun Stone (unsuppressed)",
+    "link": "https://ddowiki.com/page/Item:Pale_Lavender_Ioun_Stone_(unsuppressed)",
+    "minLevel": "5",
+    "enhancements": [
+      "Spell Absorption"
+    ]
+  },
+  {
+    "name": "Lesser Nimble Trinket",
+    "link": "https://ddowiki.com/page/Item:Lesser_Nimble_Trinket",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "Attack Bonus +1"
+    ]
+  },
+  {
+    "name": "Runic Trinket",
+    "link": "https://ddowiki.com/page/Item:Runic_Trinket",
+    "minLevel": "2",
+    "enhancements": [
+      "Wizardry +60",
+      "Spell Focus Mastery +1",
+      "Insightful Potency +14"
+    ]
+  },
+  {
+    "name": "Iskaryte's Gem",
+    "link": "https://ddowiki.com/page/Item:Iskaryte%27s_Gem",
+    "minLevel": "13",
+    "enhancements": []
+  },
+  {
+    "name": "Cold Fire",
+    "link": "https://ddowiki.com/page/Item:Cold_Fire",
+    "minLevel": "None",
+    "enhancements": [
+      "Cold Fire"
+    ]
+  },
+  {
+    "name": "Eye of Vol",
+    "link": "https://ddowiki.com/page/Item:Eye_of_Vol",
+    "minLevel": "None",
+    "enhancements": [
+      "Sight of Vol"
+    ]
+  },
+  {
+    "name": "Golem Gem",
+    "link": "https://ddowiki.com/page/Item:Golem_Gem",
+    "minLevel": "None",
+    "enhancements": [
+      "Golem Figurine"
+    ]
+  },
+  {
+    "name": "Urthullz Petrified Stalk",
+    "link": "https://ddowiki.com/page/Item:Urthullz_Petrified_Stalk",
+    "minLevel": "None",
+    "enhancements": [
+      "Bane of the Undead Flame"
+    ]
+  },
+  {
+    "name": "Aussiredar's Gem",
+    "link": "https://ddowiki.com/page/Item:Aussiredar%27s_Gem",
+    "minLevel": "13",
+    "enhancements": []
+  },
+  {
+    "name": "Sventusk's Gem",
+    "link": "https://ddowiki.com/page/Item:Sventusk%27s_Gem",
+    "minLevel": "11",
+    "enhancements": []
+  },
+  {
+    "name": "Vuthesjing's Gem",
+    "link": "https://ddowiki.com/page/Item:Vuthesjing%27s_Gem",
+    "minLevel": "11",
+    "enhancements": []
+  },
+  {
+    "name": "Omaekrix's Gem",
+    "link": "https://ddowiki.com/page/Item:Omaekrix%27s_Gem",
+    "minLevel": "13",
+    "enhancements": []
+  },
+  {
+    "name": "Thadargix's Gem",
+    "link": "https://ddowiki.com/page/Item:Thadargix%27s_Gem",
+    "minLevel": "11",
+    "enhancements": []
+  },
+  {
+    "name": "Vibrant Purple Ioun Stone (unsuppressed)",
+    "link": "https://ddowiki.com/page/Item:Vibrant_Purple_Ioun_Stone_(unsuppressed)",
+    "minLevel": "5",
+    "enhancements": [
+      "Archmagi",
+      "Spell Penetration III"
+    ]
+  },
+  {
+    "name": "Pink and Green Ioun Stone (unsuppressed)",
+    "link": "https://ddowiki.com/page/Item:Pink_and_Green_Ioun_Stone_(unsuppressed)",
+    "minLevel": "5",
+    "enhancements": [
+      "Charisma +6",
+      "Charisma Skills - Exceptional Bonus +2"
+    ]
+  },
+  {
+    "name": "Incandescent Blue Ioun Stone (unsuppressed)",
+    "link": "https://ddowiki.com/page/Item:Incandescent_Blue_Ioun_Stone_(unsuppressed)",
+    "minLevel": "5",
+    "enhancements": [
+      "Wisdom +6",
+      "Wisdom Skills - Exceptional Bonus +2"
+    ]
+  },
+  {
+    "name": "Deep Red Ioun Stone (unsuppressed)",
+    "link": "https://ddowiki.com/page/Item:Deep_Red_Ioun_Stone_(unsuppressed)",
+    "minLevel": "5",
+    "enhancements": [
+      "Dexterity +6",
+      "Dexterity Skills - Exceptional Bonus +2"
+    ]
+  },
+  {
+    "name": "Dark Blue Ioun Stone (unsuppressed)",
+    "link": "https://ddowiki.com/page/Item:Dark_Blue_Ioun_Stone_(unsuppressed)",
+    "minLevel": "5",
+    "enhancements": [
+      "Listen +15",
+      "Spot +15"
+    ]
+  },
+  {
+    "name": "Dusty Rose Ioun Stone (unsuppressed)",
+    "link": "https://ddowiki.com/page/Item:Dusty_Rose_Ioun_Stone_(unsuppressed)",
+    "minLevel": "5",
+    "enhancements": [
+      "Protection +5"
+    ]
+  },
+  {
+    "name": "Pale Blue Ioun Stone (unsuppressed)",
+    "link": "https://ddowiki.com/page/Item:Pale_Blue_Ioun_Stone_(unsuppressed)",
+    "minLevel": "5",
+    "enhancements": [
+      "Strength +6",
+      "Strength Skills - Exceptional Bonus +2"
+    ]
+  },
+  {
+    "name": "Pink Ioun Stone (unsuppressed)",
+    "link": "https://ddowiki.com/page/Item:Pink_Ioun_Stone_(unsuppressed)",
+    "minLevel": "5",
+    "enhancements": [
+      "Constitution +6",
+      "Constitution Skills - Exceptional Bonus +2"
+    ]
+  },
+  {
+    "name": "Scarlet and Blue Ioun Stone (unsuppressed)",
+    "link": "https://ddowiki.com/page/Item:Scarlet_and_Blue_Ioun_Stone_(unsuppressed)",
+    "minLevel": "5",
+    "enhancements": [
+      "Intelligence +6",
+      "Intelligence Skills - Exceptional Bonus +2"
+    ]
+  },
+  {
+    "name": "Mindfury Symbiont",
+    "link": "https://ddowiki.com/page/Item:Mindfury_Symbiont",
+    "minLevel": "15",
+    "enhancements": [
+      "Greater Efficacy",
+      "Spell Focus  I",
+      "Spell Lore VI",
+      "Constitution -2",
+      "Fortitude Save -2"
+    ]
+  },
+  {
+    "name": "Medium Shard Trinket",
+    "link": "https://ddowiki.com/page/Item:Medium_Shard_Trinket",
+    "minLevel": "None",
+    "enhancements": [
+      "Cure Critical Wounds, Mass"
+    ]
+  },
+  {
+    "name": "Shard Trinket of Greater Restoration",
+    "link": "https://ddowiki.com/page/Item:Shard_Trinket_of_Greater_Restoration",
+    "minLevel": "None",
+    "enhancements": [
+      "Greater Restoration"
+    ]
+  },
+  {
+    "name": "Shard Trinket of Mass Hold Person",
+    "link": "https://ddowiki.com/page/Item:Shard_Trinket_of_Mass_Hold_Person",
+    "minLevel": "None",
+    "enhancements": [
+      "Hold Person, Mass"
+    ]
+  },
+  {
+    "name": "Shard Trinket of Mass Protection Elements",
+    "link": "https://ddowiki.com/page/Item:Shard_Trinket_of_Mass_Protection_Elements",
+    "minLevel": "None",
+    "enhancements": [
+      "Protection from Elements, Mass"
+    ]
+  },
+  {
+    "name": "Shard Trinket of Summon Monster VII",
+    "link": "https://ddowiki.com/page/Item:Shard_Trinket_of_Summon_Monster_VII",
+    "minLevel": "None",
+    "enhancements": [
+      "Summon Monster VII"
+    ]
+  },
+  {
+    "name": "Shard Trinket of Sunburst",
+    "link": "https://ddowiki.com/page/Item:Shard_Trinket_of_Sunburst",
+    "minLevel": "None",
+    "enhancements": [
+      "Sunburst"
+    ]
+  },
+  {
+    "name": "Small Shard Trinket",
+    "link": "https://ddowiki.com/page/Item:Small_Shard_Trinket",
+    "minLevel": "None",
+    "enhancements": [
+      "Cure Serious Wounds"
+    ]
+  },
+  {
+    "name": "Shard of Xoriat",
+    "link": "https://ddowiki.com/page/Item:Shard_of_Xoriat",
+    "minLevel": "15",
+    "enhancements": [
+      "Exceptional Charisma +1",
+      "Summon Xoriat Horror",
+      "Enchantment Focus +2"
+    ]
+  },
+  {
+    "name": "Sustaining Symbiont",
+    "link": "https://ddowiki.com/page/Item:Sustaining_Symbiont",
+    "minLevel": "15",
+    "enhancements": [
+      "Greater False Life",
+      "Suppress Madness",
+      "Exceptional Constitution +1",
+      "Exceptional Fortification (+10%)"
+    ]
+  },
+  {
+    "name": "Epic Blasting Chime",
+    "link": "https://ddowiki.com/page/Item:Epic_Blasting_Chime",
+    "minLevel": "20",
+    "enhancements": []
+  },
+  {
+    "name": "Brooch of Waterbreathing",
+    "link": "https://ddowiki.com/page/Item:Brooch_of_Waterbreathing",
+    "minLevel": "None",
+    "enhancements": [
+      "Water Breathing"
+    ]
+  },
+  {
+    "name": "Blasting Chime (level 7)",
+    "link": "https://ddowiki.com/page/Item:Blasting_Chime_(level_7)",
+    "minLevel": "7",
+    "enhancements": []
+  },
+  {
+    "name": "Dusty Rose Ioun Stone",
+    "link": "https://ddowiki.com/page/Item:Dusty_Rose_Ioun_Stone",
+    "minLevel": "2",
+    "enhancements": [
+      "Protection +1",
+      "Suppressed Power"
+    ]
+  },
+  {
+    "name": "Planar Focus of Subterfuge",
+    "link": "https://ddowiki.com/page/Item:Planar_Focus_of_Subterfuge",
+    "minLevel": "22",
+    "enhancements": [
+      "Dexterity +8",
+      "Insightful Dexterity +3",
+      "Intelligence +8",
+      "Insightful Intelligence +3",
+      "Wisdom +8",
+      "Insightful Wisdom +3",
+      "Planar Focus: Subterfuge"
+    ]
+  },
+  {
+    "name": "Benign Breath",
+    "link": "https://ddowiki.com/page/Item:Benign_Breath",
+    "minLevel": "9",
+    "enhancements": [
+      "Magi",
+      "Potency +20"
+    ]
+  },
+  {
+    "name": "Power Evidence",
+    "link": "https://ddowiki.com/page/Item:Power_Evidence",
+    "minLevel": "None",
+    "enhancements": [
+      "Strength +1",
+      "Constitution +1",
+      "Dexterity +1"
+    ]
+  },
+  {
+    "name": "Holy Symbol of Lolth",
+    "link": "https://ddowiki.com/page/Item:Holy_Symbol_of_Lolth",
+    "minLevel": "21",
+    "enhancements": [
+      "Spellcasting Implement +15",
+      "Nullification +102",
+      "Radiance +102",
+      "Impulse +102",
+      "Exceptional Charisma +1",
+      "Exceptional Wisdom +1",
+      "Embrace of the Spider Queen"
+    ]
+  },
+  {
+    "name": "Planar Focus of Prowess",
+    "link": "https://ddowiki.com/page/Item:Planar_Focus_of_Prowess",
+    "minLevel": "22",
+    "enhancements": [
+      "Constitution +8",
+      "Insightful Constitution +3",
+      "Dexterity +8",
+      "Insightful Dexterity +3",
+      "Strength +8",
+      "Insightful Strength +3",
+      "Planar Focus: Prowess"
+    ]
+  },
+  {
+    "name": "Planar Focus of Erudition",
+    "link": "https://ddowiki.com/page/Item:Planar_Focus_of_Erudition",
+    "minLevel": "22",
+    "enhancements": [
+      "Charisma +8",
+      "Insightful Charisma +3",
+      "Intelligence +8",
+      "Insightful Intelligence +3",
+      "Wisdom +8",
+      "Insightful Wisdom +3",
+      "Planar Focus: Erudition"
+    ]
+  },
+  {
+    "name": "Trinket",
+    "link": "https://ddowiki.com/page/Item:Trinket",
+    "minLevel": "None",
+    "enhancements": [
+      "Craftable"
+    ]
+  },
+  {
+    "name": "Blasting Chime (level 11)",
+    "link": "https://ddowiki.com/page/Item:Blasting_Chime_(level_11)",
+    "minLevel": "11",
+    "enhancements": []
+  },
+  {
+    "name": "Bracelet of Friends",
+    "link": "https://ddowiki.com/page/Item:Bracelet_of_Friends",
+    "minLevel": "None",
+    "enhancements": [
+      "Summon Party Member"
+    ]
+  },
+  {
+    "name": "Giantcraft Siberys Compass (level 25)",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Search +20",
+      "True Seeing",
+      "Green Augment Slot",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Kardin's Eye (level 25)",
+    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Resistance +8",
+      "Heightened Awareness 6",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Shamanic Fetish (level 25)",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(level_25)",
+    "minLevel": "25",
+    "enhancements": [
+      "Devotion +120",
+      "Radiance +120",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Idol of Fortune",
+    "link": "https://ddowiki.com/page/Item:Idol_of_Fortune",
+    "minLevel": "25",
+    "enhancements": [
+      "Attuned to Heroism",
+      "Good Luck  +2",
+      "Dodge +8%",
+      "Fortification  +100%"
+    ]
+  },
+  {
+    "name": "Shamanic Fetish (level 24)",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Devotion +114",
+      "Radiance +114",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Enchanted Chocolates by Fabiano & Zelda",
+    "link": "https://ddowiki.com/page/Item:Enchanted_Chocolates_by_Fabiano_%26_Zelda",
+    "minLevel": "None",
+    "enhancements": [
+      "Haste",
+      "Stoneskin",
+      "Bear's Endurance",
+      "Cone of Cold"
+    ]
+  },
+  {
+    "name": "Giantcraft Siberys Compass (level 24)",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Search +20",
+      "True Seeing",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Giantcraft Siberys Compass (level 13)",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "Search +15",
+      "Resistance +3",
+      "Will Save +5"
+    ]
+  },
+  {
+    "name": "Kardin's Eye (level 23)",
+    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "Resistance +7",
+      "Heightened Awareness 5",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Shamanic Fetish (level 23)",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "Devotion +108",
+      "Radiance +108",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Giantcraft Siberys Compass (level 14)",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "Search +15",
+      "Will Save +5",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Kardin's Eye (level 24)",
+    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Resistance +7",
+      "Heightened Awareness 6",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Shamanic Fetish (level 14)",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "Devotion +72",
+      "Radiance +72",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Giantcraft Siberys Compass (level 23)",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(level_23)",
+    "minLevel": "23",
+    "enhancements": [
+      "Search +17",
+      "True Seeing",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Kardin's Eye (level 13)",
+    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "Resistance +5",
+      "Heightened Awareness 3"
+    ]
+  },
+  {
+    "name": "Shamanic Fetish (level 13)",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "Devotion +66",
+      "Radiance +66",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Kardin's Eye (level 14)",
+    "link": "https://ddowiki.com/page/Item:Kardin%27s_Eye_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "Resistance +5",
+      "Heightened Awareness 4"
+    ]
+  },
+  {
+    "name": "Shamanic Fetish (level 12)",
+    "link": "https://ddowiki.com/page/Item:Shamanic_Fetish_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "Devotion +66",
+      "Radiance +66"
+    ]
+  },
+  {
+    "name": "Giantcraft Siberys Compass (level 12)",
+    "link": "https://ddowiki.com/page/Item:Giantcraft_Siberys_Compass_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "Search +13",
+      "Resistance +2",
+      "Will Save +4"
+    ]
+  },
+  {
+    "name": "Guidance of Shar (level 13)",
+    "link": "https://ddowiki.com/page/Item:Guidance_of_Shar_(level_13)",
+    "minLevel": "13",
+    "enhancements": [
+      "Charisma +5",
+      "Blurry",
+      "Guidance of Shar",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Guidance of Shar (level 15)",
+    "link": "https://ddowiki.com/page/Item:Guidance_of_Shar_(level_15)",
+    "minLevel": "15",
+    "enhancements": [
+      "Charisma +6",
+      "Blurry",
+      "Guidance of Shar",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Pale Green Ioun Stone",
+    "link": "https://ddowiki.com/page/Item:Pale_Green_Ioun_Stone",
+    "minLevel": "15",
+    "enhancements": [
+      "Heroic Inspiration",
+      "Vitality +40"
+    ]
+  },
+  {
+    "name": "Guidance of Shar (level 14)",
+    "link": "https://ddowiki.com/page/Item:Guidance_of_Shar_(level_14)",
+    "minLevel": "14",
+    "enhancements": [
+      "Charisma +5",
+      "Blurry",
+      "Guidance of Shar",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Lesser Anti-Beholder Crystal",
+    "link": "https://ddowiki.com/page/Item:Lesser_Anti-Beholder_Crystal",
+    "minLevel": "None",
+    "enhancements": [
+      "Lesser Absorption of Beholder and Doomsphere Spells"
+    ]
+  },
+  {
+    "name": "Icon of the Lord of Blades",
+    "link": "https://ddowiki.com/page/Item:Icon_of_the_Lord_of_Blades",
+    "minLevel": "15",
+    "enhancements": [
+      "Charisma +5",
+      "Repair Amplification +20"
+    ]
+  },
+  {
+    "name": "Momento of War",
+    "link": "https://ddowiki.com/page/Item:Momento_of_War",
+    "minLevel": "15",
+    "enhancements": [
+      "Exceptional Charisma +1",
+      "Exceptional Healing Amplification +20"
+    ]
+  },
+  {
+    "name": "Book of Amaunator",
+    "link": "https://ddowiki.com/page/Item:Book_of_Amaunator",
+    "minLevel": "15",
+    "enhancements": [
+      "Efficient Metamagic - Empower Healing II",
+      "Exceptional Healing Amplification +20"
+    ]
+  },
+  {
+    "name": "Shard of the Shadowfell",
+    "link": "https://ddowiki.com/page/Item:Shard_of_the_Shadowfell",
+    "minLevel": "15",
+    "enhancements": [
+      "Sneak Attack Bonus +4",
+      "Dodge +4%"
+    ]
+  },
+  {
+    "name": "Deezil's Ornament",
+    "link": "https://ddowiki.com/page/Item:Deezil%27s_Ornament",
+    "minLevel": "None",
+    "enhancements": [
+      "Resist Energy: Fire"
+    ]
+  },
+  {
+    "name": "Blasting Chime (level 3)",
+    "link": "https://ddowiki.com/page/Item:Blasting_Chime_(level_3)",
+    "minLevel": "3",
+    "enhancements": [
+      "Weaken Construct",
+      "Sonic Lore +8%",
+      "Resonance +54"
+    ]
+  },
+  {
+    "name": "Blasting Chime (level 15)",
+    "link": "https://ddowiki.com/page/Item:Blasting_Chime_(level_15)",
+    "minLevel": "15",
+    "enhancements": []
+  },
+  {
+    "name": "Magestar",
+    "link": "https://ddowiki.com/page/Item:Magestar",
+    "minLevel": "26",
+    "enhancements": [
+      "Magestar Absorption",
+      "Zhentarim Attuned"
+    ]
+  },
+  {
+    "name": "Manual of Stealthy Pilfering",
+    "link": "https://ddowiki.com/page/Item:Manual_of_Stealthy_Pilfering",
+    "minLevel": "26",
+    "enhancements": [
+      "Good Luck  +2",
+      "Dexterity Skills - Exceptional Bonus +4",
+      "Intelligence Skills - Exceptional Bonus +4",
+      "Open Lock +20",
+      "Disable Device +20",
+      "Spot +20",
+      "Use Magic Device +3",
+      "Zhentarim Attuned"
+    ]
+  },
+  {
+    "name": "Broken Music Box",
+    "link": "https://ddowiki.com/page/Item:Broken_Music_Box",
+    "minLevel": "24",
+    "enhancements": [
+      "Blue Augment Slot",
+      "Yellow Augment Slot",
+      "Colorless Augment Slot",
+      "Cacophonic Guard"
+    ]
+  },
+  {
+    "name": "Phiarlan's Pendant of Time",
+    "link": "https://ddowiki.com/page/Item:Phiarlan%27s_Pendant_of_Time",
+    "minLevel": "None",
+    "enhancements": [
+      "Warp Time"
+    ]
+  },
+  {
+    "name": "Epic Litany of the Dead",
+    "link": "https://ddowiki.com/page/Item:Epic_Litany_of_the_Dead",
+    "minLevel": "26",
+    "enhancements": [
+      "Turn the Page",
+      "Taint of Evil",
+      "Litany of the Dead II - Ability Bonus",
+      "Litany of the Dead II - Combat Bonus",
+      "Light of Dawn",
+      "Upgradeable - Primary Augment",
+      "Upgradeable - Secondary Augment"
+    ]
+  },
+  {
+    "name": "Token of the Proven",
+    "link": "https://ddowiki.com/page/Item:Token_of_the_Proven",
+    "minLevel": "13",
+    "enhancements": [
+      "Feather Fall",
+      "Invisibility Guard",
+      "Fortification  +100%",
+      "Dusk",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Token of the Proven",
+    "link": "https://ddowiki.com/page/Item:Epic_Token_of_the_Proven",
+    "minLevel": "28",
+    "enhancements": [
+      "Feather Fall",
+      "Invisibility Guard",
+      "Fortification  +150%",
+      "Lesser Displacement",
+      "Insightful Fortitude Save +2",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Memoriam",
+    "link": "https://ddowiki.com/page/Item:Memoriam",
+    "minLevel": "26",
+    "enhancements": [
+      "Good Luck  +4",
+      "Competence Healing Amplification +75",
+      "Insightful Fortitude Save +5",
+      "Quality Reflex Save +3",
+      "Green Augment Slot",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Eagle's Eye",
+    "link": "https://ddowiki.com/page/Item:Eagle%27s_Eye",
+    "minLevel": "14",
+    "enhancements": [
+      "Spot +13",
+      "Search +13",
+      "Seeker +6",
+      "Griffon Set",
+      "The Devil's Handiwork",
+      "Colorless Augment Slot",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Eagle's Eye",
+    "link": "https://ddowiki.com/page/Item:Epic_Eagle%27s_Eye",
+    "minLevel": "28",
+    "enhancements": [
+      "Spot +20",
+      "Search +20",
+      "Seeker +14",
+      "Colorless Augment Slot",
+      "Green Augment Slot",
+      "Epic Griffon Set",
+      "Epic The Devil's Handiwork"
+    ]
+  },
+  {
+    "name": "Subtle Sound",
+    "link": "https://ddowiki.com/page/Item:Subtle_Sound",
+    "minLevel": "15",
+    "enhancements": [
+      "Insightful Deception +3",
+      "Quality Seeker +1",
+      "Insightful Assassinate +3",
+      "Use Magic Device +2",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Subtle Sound",
+    "link": "https://ddowiki.com/page/Item:Legendary_Subtle_Sound",
+    "minLevel": "29",
+    "enhancements": [
+      "Insightful Deception +5",
+      "Quality Seeker +3",
+      "Insightful Assassinate +6",
+      "Use Magic Device +5",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Planar Compass",
+    "link": "https://ddowiki.com/page/Item:Legendary_Planar_Compass",
+    "minLevel": "29",
+    "enhancements": [
+      "Insightful Physical Sheltering +16",
+      "Quality Magical Sheltering +8",
+      "Ghostly",
+      "Insightful Fortitude Save +5",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Planar Compass",
+    "link": "https://ddowiki.com/page/Item:Planar_Compass",
+    "minLevel": "15",
+    "enhancements": [
+      "Insightful Physical Sheltering +9",
+      "Quality Magical Sheltering +4",
+      "Ghostly",
+      "Insightful Fortitude Save +3",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Climbing Hook",
+    "link": "https://ddowiki.com/page/Item:Climbing_Hook",
+    "minLevel": "15",
+    "enhancements": [
+      "Balance +13",
+      "Dexterity +4"
+    ]
+  },
+  {
+    "name": "Death's Door (trinket)",
+    "link": "https://ddowiki.com/page/Item:Death%27s_Door_(trinket)",
+    "minLevel": "None",
+    "enhancements": [
+      "Dimension Door"
+    ]
+  },
+  {
+    "name": "Empowered Dragonscale",
+    "link": "https://ddowiki.com/page/Item:Empowered_Dragonscale",
+    "minLevel": "15",
+    "enhancements": [
+      "Quality Constitution +1",
+      "False Life +32",
+      "Insightful Fortitude Save +4",
+      "Fire Resistance +32",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Empowered Dragonscale",
+    "link": "https://ddowiki.com/page/Item:Legendary_Empowered_Dragonscale",
+    "minLevel": "28",
+    "enhancements": [
+      "Quality Constitution +3",
+      "False Life +50",
+      "Insightful Fortitude Save +5",
+      "Fire Resistance +50",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Symbol of the Slave Lords",
+    "link": "https://ddowiki.com/page/Item:Symbol_of_the_Slave_Lords",
+    "minLevel": "8",
+    "enhancements": [
+      "True Seeing",
+      "Insightful Constitution +2",
+      "Dusk",
+      "Against the Slave Lords Set Bonus",
+      "Green Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Symbol of the Slave Lords",
+    "link": "https://ddowiki.com/page/Item:Legendary_Symbol_of_the_Slave_Lords",
+    "minLevel": "28",
+    "enhancements": [
+      "True Seeing",
+      "Insightful Constitution +6",
+      "Lesser Displacement",
+      "Against the Slave Lords Set Bonus",
+      "Green Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Five Rings",
+    "link": "https://ddowiki.com/page/Item:Five_Rings",
+    "minLevel": "8",
+    "enhancements": [
+      "Slaver's Prefix Slot",
+      "Slaver's Suffix Slot",
+      "Slaver's Extra Slot",
+      "Slaver's Bonus Slot",
+      "Against the Slave Lords Set Bonus",
+      "Slaver's Augment Slot"
+    ]
+  },
+  {
+    "name": "Greater Bracelet of Friends",
+    "link": "https://ddowiki.com/page/Item:Greater_Bracelet_of_Friends",
+    "minLevel": "None",
+    "enhancements": [
+      "Summon Adventuring Party"
+    ]
+  },
+  {
+    "name": "Legendary Five Rings",
+    "link": "https://ddowiki.com/page/Item:Legendary_Five_Rings",
+    "minLevel": "28",
+    "enhancements": [
+      "Legendary Slaver's Prefix Slot",
+      "Legendary Slaver's Suffix Slot",
+      "Legendary Slaver's Extra Slot",
+      "Legendary Slaver's Bonus Slot",
+      "Against the Slave Lords Set Bonus",
+      "Legendary Slaver's Augment Slot"
+    ]
+  },
+  {
+    "name": "Flame Insignia",
+    "link": "https://ddowiki.com/page/Item:Flame_Insignia",
+    "minLevel": "27",
+    "enhancements": [
+      "Fire Lore +21%",
+      "Efficient Metamagic - Intensify II",
+      "Insightful Wizardry +133",
+      "Quality Combustion +34",
+      "Green Augment Slot",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Glacial Insignia",
+    "link": "https://ddowiki.com/page/Item:Glacial_Insignia",
+    "minLevel": "27",
+    "enhancements": [
+      "Ice Lore +21%",
+      "Efficient Metamagic - Intensify II",
+      "Insightful Wizardry +133",
+      "Quality Glaciation +34",
+      "Green Augment Slot",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Bolt Insignia",
+    "link": "https://ddowiki.com/page/Item:Bolt_Insignia",
+    "minLevel": "27",
+    "enhancements": [
+      "Lightning Lore +21%",
+      "Efficient Metamagic - Intensify II",
+      "Insightful Wizardry +133",
+      "Quality Magnetism +34",
+      "Green Augment Slot",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Acidic Insignia",
+    "link": "https://ddowiki.com/page/Item:Acidic_Insignia",
+    "minLevel": "27",
+    "enhancements": [
+      "Acid Lore +21%",
+      "Efficient Metamagic - Intensify II",
+      "Insightful Wizardry +133",
+      "Quality Corrosion +34",
+      "Green Augment Slot",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Guided Sight",
+    "link": "https://ddowiki.com/page/Item:Guided_Sight",
+    "minLevel": "27",
+    "enhancements": [
+      "Insightful Distant Diversion +9%",
+      "Doubleshot 8%",
+      "Insightful Diplomacy +9",
+      "Quality Accuracy +4",
+      "Green Augment Slot",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Holy Symbol of Ravenkind",
+    "link": "https://ddowiki.com/page/Item:Holy_Symbol_of_Ravenkind",
+    "minLevel": "None",
+    "enhancements": [
+      "Dispel the Grip of Strahd"
+    ]
+  },
+  {
+    "name": "Icon of Ravenloft",
+    "link": "https://ddowiki.com/page/Item:Icon_of_Ravenloft",
+    "minLevel": "None",
+    "enhancements": [
+      "Dispel the Grip of Strahd"
+    ]
+  },
+  {
+    "name": "Legendary Cursebane Focus",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cursebane_Focus",
+    "minLevel": "29",
+    "enhancements": [
+      "Curse Resistance +10",
+      "Insightful Will Save +5",
+      "Magical Sheltering +33",
+      "Spell Save +10",
+      "Green Augment Slot",
+      "Crypt Raider Set (Legendary)"
+    ]
+  },
+  {
+    "name": "Bell of Warding",
+    "link": "https://ddowiki.com/page/Item:Bell_of_Warding",
+    "minLevel": "28",
+    "enhancements": [
+      "Resonance +145",
+      "Sonic Lore +21%",
+      "Magical Sheltering +34",
+      "Charisma +13",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Adherent of the Mists Set (Legendary)"
+    ]
+  },
+  {
+    "name": "Hands of the Dawn Healer",
+    "link": "https://ddowiki.com/page/Item:Hands_of_the_Dawn_Healer",
+    "minLevel": "28",
+    "enhancements": [
+      "Devotion +145",
+      "Healing Lore +21%",
+      "Magical Efficiency 10%",
+      "Heal +20",
+      "Blue Augment Slot",
+      "Green Augment Slot",
+      "Adherent of the Mists Set (Legendary)"
+    ]
+  },
+  {
+    "name": "Storm in a Bottle",
+    "link": "https://ddowiki.com/page/Item:Storm_in_a_Bottle",
+    "minLevel": "28",
+    "enhancements": [
+      "Stormrage",
+      "Elemental Resistance +45",
+      "Reflex Save +12",
+      "Dodge +13%",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Crypt Raider Set (Legendary)"
+    ]
+  },
+  {
+    "name": "Bloodrage Chrism",
+    "link": "https://ddowiki.com/page/Item:Bloodrage_Chrism",
+    "minLevel": "28",
+    "enhancements": [
+      "Competence Healing Amplification +54",
+      "Calamitous Blows",
+      "Bloodrage Defense",
+      "Rune-fueled Warding",
+      "Unnatural",
+      "Blue Augment Slot",
+      "Green Augment Slot",
+      "Crypt Raider Set (Legendary)"
+    ]
+  },
+  {
+    "name": "Echo of Ravenkind",
+    "link": "https://ddowiki.com/page/Item:Echo_of_Ravenkind",
+    "minLevel": "28",
+    "enhancements": [
+      "Eternal Holy Burst",
+      "True Seeing",
+      "Constitution +13",
+      "Improved Deception",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Adherent of the Mists Set (Legendary)"
+    ]
+  },
+  {
+    "name": "Echo of the Icon",
+    "link": "https://ddowiki.com/page/Item:Echo_of_the_Icon",
+    "minLevel": "28",
+    "enhancements": [
+      "Fortification  +145%",
+      "Strength +13",
+      "Insightful Constitution +6",
+      "Physical Sheltering +34",
+      "Blue Augment Slot",
+      "Green Augment Slot",
+      "Adherent of the Mists Set (Legendary)"
+    ]
+  },
+  {
+    "name": "Cursebane Focus",
+    "link": "https://ddowiki.com/page/Item:Cursebane_Focus",
+    "minLevel": "10",
+    "enhancements": [
+      "Curse Resistance +5",
+      "Insightful Will Save +3",
+      "Magical Sheltering +14",
+      "Spell Save +5",
+      "Green Augment Slot",
+      "Crypt Raider Set (Heroic)"
+    ]
+  },
+  {
+    "name": "Cursekeeper",
+    "link": "https://ddowiki.com/page/Item:Cursekeeper",
+    "minLevel": "14",
+    "enhancements": [
+      "Insightful Negative Amplification +15",
+      "Insightful Light Resistance +13",
+      "Vitality +24",
+      "Magical Efficiency 10%",
+      "Green Augment Slot",
+      "Curse Necromancer"
+    ]
+  },
+  {
+    "name": "Legendary Cursekeeper",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cursekeeper",
+    "minLevel": "29",
+    "enhancements": [
+      "Insightful Negative Amplification +27",
+      "Insightful Light Resistance +24",
+      "Vitality +44",
+      "Magical Efficiency 10%",
+      "Green Augment Slot",
+      "Curse Necromancer (Legendary)"
+    ]
+  },
+  {
+    "name": "Pearl of Power I",
+    "link": "https://ddowiki.com/page/Item:Pearl_of_Power_I",
+    "minLevel": "None",
+    "enhancements": [
+      "Power I"
+    ]
+  },
+  {
+    "name": "Pearl of Power II",
+    "link": "https://ddowiki.com/page/Item:Pearl_of_Power_II",
+    "minLevel": "5",
+    "enhancements": [
+      "Power II"
+    ]
+  },
+  {
+    "name": "Pearl of Power III",
+    "link": "https://ddowiki.com/page/Item:Pearl_of_Power_III",
+    "minLevel": "5",
+    "enhancements": [
+      "Power III"
+    ]
+  },
+  {
+    "name": "Pearl of Power IV",
+    "link": "https://ddowiki.com/page/Item:Pearl_of_Power_IV",
+    "minLevel": "7",
+    "enhancements": [
+      "Power IV"
+    ]
+  },
+  {
+    "name": "Pearl of Power V",
+    "link": "https://ddowiki.com/page/Item:Pearl_of_Power_V",
+    "minLevel": "7",
+    "enhancements": [
+      "Power V"
+    ]
+  },
+  {
+    "name": "Pearl of Power VI",
+    "link": "https://ddowiki.com/page/Item:Pearl_of_Power_VI",
+    "minLevel": "9",
+    "enhancements": [
+      "Power VI"
+    ]
+  },
+  {
+    "name": "Pearl of Power VII",
+    "link": "https://ddowiki.com/page/Item:Pearl_of_Power_VII",
+    "minLevel": "9",
+    "enhancements": [
+      "Power VII"
+    ]
+  },
+  {
+    "name": "Pearl of Power VIII",
+    "link": "https://ddowiki.com/page/Item:Pearl_of_Power_VIII",
+    "minLevel": "9",
+    "enhancements": [
+      "Power VIII"
+    ]
+  },
+  {
+    "name": "Pearl of Power IX",
+    "link": "https://ddowiki.com/page/Item:Pearl_of_Power_IX",
+    "minLevel": "9",
+    "enhancements": [
+      "Power IX"
+    ]
+  },
+  {
+    "name": "Treasure Hunter's Spyglass (level 4)",
+    "link": "https://ddowiki.com/page/Item:Treasure_Hunter%27s_Spyglass_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "Detect Secret Doors",
+      "Intelligence +3",
+      "Exceptional Astute Skills Bonus",
+      "Exceptional Prudent Skills Bonus",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Treasure Hunter's Spyglass (level 8)",
+    "link": "https://ddowiki.com/page/Item:Treasure_Hunter%27s_Spyglass_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "Detect Secret Doors",
+      "Intelligence +5",
+      "Exceptional Astute Skills Bonus",
+      "Exceptional Prudent Skills Bonus",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Treasure Hunter's Spyglass (level 12)",
+    "link": "https://ddowiki.com/page/Item:Treasure_Hunter%27s_Spyglass_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "Intelligence +6",
+      "Exceptional Astute Skills Bonus",
+      "Exceptional Prudent Skills Bonus",
+      "True Seeing",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Treasure Hunter's Spyglass (level 16)",
+    "link": "https://ddowiki.com/page/Item:Treasure_Hunter%27s_Spyglass_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "Intelligence +8",
+      "Exceptional Astute Skills Bonus",
+      "Exceptional Prudent Skills Bonus",
+      "True Seeing",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Treasure Hunter's Spyglass (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Treasure_Hunter%27s_Spyglass_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "Insightful Intelligence +4",
+      "Exceptional Astute Skills Bonus",
+      "Exceptional Prudent Skills Bonus",
+      "True Seeing",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Treasure Hunter's Spyglass (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Treasure_Hunter%27s_Spyglass_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Insightful Intelligence +5",
+      "Exceptional Astute Skills Bonus",
+      "Exceptional Prudent Skills Bonus",
+      "True Seeing",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Treasure Hunter's Spyglass (level 28)",
+    "link": "https://ddowiki.com/page/Item:Epic_Treasure_Hunter%27s_Spyglass_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "Insightful Intelligence +5",
+      "Exceptional Astute Skills Bonus",
+      "Exceptional Prudent Skills Bonus",
+      "True Seeing",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Trinket of Freewill",
+    "link": "https://ddowiki.com/page/Item:Trinket_of_Freewill",
+    "minLevel": "28",
+    "enhancements": [
+      "Psychic Ward",
+      "Magical Sheltering +34",
+      "Spell Resistance +39",
+      "Insightful Wisdom +6",
+      "Blue Augment Slot",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Stone Heart Trinket",
+    "link": "https://ddowiki.com/page/Item:Stone_Heart_Trinket",
+    "minLevel": "21",
+    "enhancements": [
+      "Lesser Displacement",
+      "Spell Resistance +29",
+      "Insightful Constitution +4",
+      "Spell Save +8",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Cursed Mirror",
+    "link": "https://ddowiki.com/page/Item:Cursed_Mirror",
+    "minLevel": "21",
+    "enhancements": [
+      "Illusion Focus +4",
+      "Necromancy Focus +4",
+      "Insightful Spell Penetration +3",
+      "Quality Spell Penetration +2",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Serrated Arrowhead",
+    "link": "https://ddowiki.com/page/Item:Serrated_Arrowhead",
+    "minLevel": "21",
+    "enhancements": [
+      "Crippling",
+      "Seeker +10",
+      "Accuracy +15",
+      "Ghostly",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Voice of the Master",
+    "link": "https://ddowiki.com/page/Item:Epic_Voice_of_the_Master",
+    "minLevel": "20",
+    "enhancements": [
+      "Heroic Inspiration",
+      "Good Luck  +3",
+      "Striding +30%",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Skeleton Key",
+    "link": "https://ddowiki.com/page/Item:Epic_Skeleton_Key",
+    "minLevel": "25",
+    "enhancements": [
+      "Search +19",
+      "Spot +19",
+      "Open Lock +19",
+      "Disable Device +19",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Wooden Prayer Beads",
+    "link": "https://ddowiki.com/page/Item:Epic_Wooden_Prayer_Beads",
+    "minLevel": "23",
+    "enhancements": [
+      "Protection from Elements, Mass",
+      "Competence Healing Amplification +43",
+      "Wizardry +220",
+      "Physical Sheltering +27",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Litany of the Bond",
+    "link": "https://ddowiki.com/page/Item:Litany_of_the_Bond",
+    "minLevel": "15",
+    "enhancements": [
+      "Dodge +6%",
+      "Vitality +20"
+    ]
+  },
+  {
+    "name": "Lockup Property Log",
+    "link": "https://ddowiki.com/page/Item:Lockup_Property_Log",
+    "minLevel": "15",
+    "enhancements": [
+      "Dodge +6%",
+      "Vitality +20"
+    ]
+  },
+  {
+    "name": "Lomizir's To-Do List",
+    "link": "https://ddowiki.com/page/Item:Lomizir%27s_To-Do_List",
+    "minLevel": "5",
+    "enhancements": [
+      "Order's Wrath"
+    ]
+  },
+  {
+    "name": "Bottle of Shadows",
+    "link": "https://ddowiki.com/page/Item:Bottle_of_Shadows",
+    "minLevel": "3",
+    "enhancements": [
+      "Profane Well Rounded +1",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Bottle of Smoke",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bottle_of_Smoke",
+    "minLevel": "29",
+    "enhancements": [
+      "Quality Dexterity +3",
+      "Smoke Screen",
+      "Speed +30%",
+      "Deception +10",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Battleworn Medal",
+    "link": "https://ddowiki.com/page/Item:Battleworn_Medal",
+    "minLevel": "3",
+    "enhancements": [
+      "Charisma +2",
+      "Heroism",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Bottle of Smoke",
+    "link": "https://ddowiki.com/page/Item:Bottle_of_Smoke",
+    "minLevel": "3",
+    "enhancements": [
+      "Smoke Screen",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Bronze Figurine",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bronze_Figurine",
+    "minLevel": "29",
+    "enhancements": [
+      "Incite +120",
+      "Insightful  Incite +52",
+      "Magical Sheltering +33",
+      "Parrying +6",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Bone Figurine",
+    "link": "https://ddowiki.com/page/Item:Bone_Figurine",
+    "minLevel": "3",
+    "enhancements": [
+      "Strength +2",
+      "Evil Absorption +11%",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Conduit of the Arcane",
+    "link": "https://ddowiki.com/page/Item:Legendary_Conduit_of_the_Arcane",
+    "minLevel": "29",
+    "enhancements": [
+      "Wizardry +269",
+      "Efficient Metamagic - Maximize II",
+      "Efficient Metamagic - Empower II",
+      "Efficient Metamagic - Intensify II",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Corroded Iron Figurine",
+    "link": "https://ddowiki.com/page/Item:Corroded_Iron_Figurine",
+    "minLevel": "3",
+    "enhancements": [
+      "Stunning +3",
+      "Protection +2",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Bone Figurine",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bone_Figurine",
+    "minLevel": "29",
+    "enhancements": [
+      "Quality Strength +3",
+      "Doublestrike 15%",
+      "Insightful Seeker +6",
+      "Evil Absorption +22%",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Book of Spirits",
+    "link": "https://ddowiki.com/page/Item:Legendary_Book_of_Spirits",
+    "minLevel": "29",
+    "enhancements": [
+      "Ghostly",
+      "Diversion +20%",
+      "True Seeing",
+      "Protection from Evil",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Battleworn Medal",
+    "link": "https://ddowiki.com/page/Item:Legendary_Battleworn_Medal",
+    "minLevel": "29",
+    "enhancements": [
+      "Action Boost Enhancement",
+      "Quality Charisma +3",
+      "Quality Doublestrike 3%",
+      "Greater Heroism",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Book of Spirits",
+    "link": "https://ddowiki.com/page/Item:Book_of_Spirits",
+    "minLevel": "3",
+    "enhancements": [
+      "Ethereal",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Bottle of Shadows",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bottle_of_Shadows",
+    "minLevel": "29",
+    "enhancements": [
+      "Profane Well Rounded +2",
+      "Law Absorption +22%",
+      "Good Absorption +22%",
+      "Lesser Displacement",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Corroded Iron Figurine",
+    "link": "https://ddowiki.com/page/Item:Legendary_Corroded_Iron_Figurine",
+    "minLevel": "29",
+    "enhancements": [
+      "Stunning +15",
+      "Insightful Stunning +6",
+      "Insightful Sheltering +17",
+      "Protection +10",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Deep Promise Onyx",
+    "link": "https://ddowiki.com/page/Item:Legendary_Deep_Promise_Onyx",
+    "minLevel": "29",
+    "enhancements": [
+      "Quality Intelligence +3",
+      "Insightful Negative Amplification +27",
+      "Quality Negative Amplification +14",
+      "False Life +50",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Bronze Figurine",
+    "link": "https://ddowiki.com/page/Item:Bronze_Figurine",
+    "minLevel": "3",
+    "enhancements": [
+      "Incite +31",
+      "Magical Sheltering +5",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Conduit of the Arcane",
+    "link": "https://ddowiki.com/page/Item:Conduit_of_the_Arcane",
+    "minLevel": "3",
+    "enhancements": [
+      "Wizardry +41",
+      "Efficient Metamagic - Maximize I",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Deep Promise Onyx",
+    "link": "https://ddowiki.com/page/Item:Deep_Promise_Onyx",
+    "minLevel": "3",
+    "enhancements": [
+      "Profane Negative Amplification +8",
+      "False Life +8",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "The Fang of Xyzzy",
+    "link": "https://ddowiki.com/page/Item:The_Fang_of_Xyzzy",
+    "minLevel": "29",
+    "enhancements": [
+      "Quality Constitution +3",
+      "Natural Armor +14",
+      "Hound's Blood",
+      "Hound's Bones +23%",
+      "Blue Augment Slot",
+      "Green Augment Slot",
+      "Yellow Augment Slot",
+      "One with the Swarm"
+    ]
+  },
+  {
+    "name": "The Heart of Suulomades",
+    "link": "https://ddowiki.com/page/Item:The_Heart_of_Suulomades",
+    "minLevel": "29",
+    "enhancements": [
+      "Quality Constitution +3",
+      "Resistance +11",
+      "Devil's Blood",
+      "Devil's Bones +23%",
+      "Blue Augment Slot",
+      "Green Augment Slot",
+      "Yellow Augment Slot",
+      "Mantle of Suulomades"
+    ]
+  },
+  {
+    "name": "Quori-Infused Core",
+    "link": "https://ddowiki.com/page/Item:Quori-Infused_Core",
+    "minLevel": "29",
+    "enhancements": [
+      "Quori Mind Shield",
+      "Constitution +14",
+      "Insightful Magical Sheltering +17",
+      "Eversight",
+      "Blue Augment Slot",
+      "Green Augment Slot",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Lockup Property Log: Razorclaw Shifter",
+    "link": "https://ddowiki.com/page/Item:Lockup_Property_Log:_Razorclaw_Shifter",
+    "minLevel": "15",
+    "enhancements": [
+      "Doublestrike 7%",
+      "Insightful Constitution +2"
+    ]
+  },
+  {
+    "name": "Blood of Blossoms",
+    "link": "https://ddowiki.com/page/Item:Blood_of_Blossoms",
+    "minLevel": "29",
+    "enhancements": [
+      "Enhanced Ki +3",
+      "Wisdom +13",
+      "Insightful Wisdom +6",
+      "Sheltering +35",
+      "Blue Augment Slot",
+      "Green Augment Slot",
+      "Eminence of Spring",
+      "Missile Deflection"
+    ]
+  },
+  {
+    "name": "The Changestone",
+    "link": "https://ddowiki.com/page/Item:The_Changestone",
+    "minLevel": "29",
+    "enhancements": [
+      "Strength +13",
+      "Dexterity +13",
+      "Constitution +13",
+      "Intelligence +13",
+      "Wisdom +13",
+      "Charisma +13",
+      "Doublestrike 15%",
+      "Doubleshot 8%",
+      "Accuracy +21",
+      "Seeker +13",
+      "Deadly +11",
+      "Deception +11",
+      "Speed +30%",
+      "Insightful Deadly +5",
+      "Insightful Accuracy +10",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Eminence of Summer"
+    ]
+  },
+  {
+    "name": "Icon of the Bitterwind",
+    "link": "https://ddowiki.com/page/Item:Icon_of_the_Bitterwind",
+    "minLevel": "29",
+    "enhancements": [
+      "Superior Heroism",
+      "Intimidate +20",
+      "Exceptional Alluring Skills Bonus",
+      "Incite +126",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Eminence of Winter"
+    ]
+  },
+  {
+    "name": "Bottled Rainstorm",
+    "link": "https://ddowiki.com/page/Item:Bottled_Rainstorm",
+    "minLevel": "29",
+    "enhancements": [
+      "Quenched",
+      "Insightful Power of the Frozen Storm",
+      "Quality Power of the Frozen Storm",
+      "Fire Resistance +52",
+      "Blue Augment Slot",
+      "Green Augment Slot",
+      "Eminence of Autumn"
+    ]
+  },
+  {
+    "name": "Chaos in a Bottle",
+    "link": "https://ddowiki.com/page/Item:Chaos_in_a_Bottle",
+    "minLevel": "12",
+    "enhancements": [
+      "Spell Turmoil",
+      "Potency +52",
+      "Wizardry +129",
+      "Magical Sheltering +16",
+      "Taint of Chaos",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Chaos in a Bottle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Chaos_in_a_Bottle",
+    "minLevel": "29",
+    "enhancements": [
+      "Spell Turmoil",
+      "Potency +98",
+      "Wizardry +269",
+      "Magical Sheltering +33",
+      "Taint of Chaos",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Silver Pocketwatch",
+    "link": "https://ddowiki.com/page/Item:Silver_Pocketwatch",
+    "minLevel": "3",
+    "enhancements": [
+      "Intelligence +3",
+      "Vertigo +3",
+      "Blue Augment Slot",
+      "Saltmarsh Explorer"
+    ]
+  },
+  {
+    "name": "Perfected Dragon's Eye",
+    "link": "https://ddowiki.com/page/Item:Perfected_Dragon%27s_Eye",
+    "minLevel": "30",
+    "enhancements": [
+      "Superior Efficacy",
+      "Quality Intelligence +3",
+      "Quality Wisdom +3",
+      "Quality Charisma +3",
+      "Magical Efficiency 10%",
+      "Exceptional Universal Spell Power +15",
+      "Exceptional Universal Spell Lore +5%",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Blue Augment Slot",
+      "Legendary Draconic Prophecy"
+    ]
+  },
+  {
+    "name": "Epic Silver Pocketwatch",
+    "link": "https://ddowiki.com/page/Item:Epic_Silver_Pocketwatch",
+    "minLevel": "20",
+    "enhancements": [
+      "Intelligence +9",
+      "Linguistics",
+      "Diversion +15%",
+      "Vertigo +11",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Epic Saltmarsh Explorer"
+    ]
+  },
+  {
+    "name": "Epic Crocodile Tooth",
+    "link": "https://ddowiki.com/page/Item:Epic_Crocodile_Tooth",
+    "minLevel": "20",
+    "enhancements": [
+      "Crippling",
+      "Armor-Piercing - 15%",
+      "Accuracy +15",
+      "Insightful Accuracy +7",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Epic Saltmarsh Explorer"
+    ]
+  },
+  {
+    "name": "Crocodile Tooth",
+    "link": "https://ddowiki.com/page/Item:Crocodile_Tooth",
+    "minLevel": "3",
+    "enhancements": [
+      "Crippling",
+      "Accuracy +5",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Crocodile Tooth",
+    "link": "https://ddowiki.com/page/Item:Legendary_Crocodile_Tooth",
+    "minLevel": "30",
+    "enhancements": [
+      "Crippling",
+      "Armor-Piercing - 21%",
+      "Accuracy +21",
+      "Insightful Accuracy +10",
+      "Green Augment Slot",
+      "Yellow Augment Slot",
+      "Legendary Saltmarsh Explorer"
+    ]
+  },
+  {
+    "name": "Legendary Silver Pocketwatch",
+    "link": "https://ddowiki.com/page/Item:Legendary_Silver_Pocketwatch",
+    "minLevel": "30",
+    "enhancements": [
+      "Intelligence +13",
+      "Linguistics",
+      "Diversion +21%",
+      "Vertigo +15",
+      "Green Augment Slot",
+      "Yellow Augment Slot",
+      "Legendary Saltmarsh Explorer"
+    ]
+  },
+  {
+    "name": "The Two-Headed Platinum Piece",
+    "link": "https://ddowiki.com/page/Item:The_Two-Headed_Platinum_Piece",
+    "minLevel": "29",
+    "enhancements": [
+      "Intelligence +14",
+      "Improved Deception",
+      "Good Luck  +5",
+      "Spell Absorption",
+      "Legendary Saltmarsh Explorer",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Sapphire Spyglass",
+    "link": "https://ddowiki.com/page/Item:Sapphire_Spyglass",
+    "minLevel": "29",
+    "enhancements": [
+      "Dexterity +14",
+      "Eversight",
+      "Deception +11",
+      "Assassinate +16",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Blue Augment Slot",
+      "Legendary Saltmarsh Explorer"
+    ]
+  },
+  {
+    "name": "Legendary Brawn's Spirits",
+    "link": "https://ddowiki.com/page/Item:Legendary_Brawn%27s_Spirits",
+    "minLevel": "30",
+    "enhancements": [
+      "Rage",
+      "Intimidate +20",
+      "Incite +124",
+      "Insightful Strength +6",
+      "Insightful Constitution +6",
+      "Curse of Foolishness",
+      "Curse of Dullness",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Dragon's Eye",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dragon%27s_Eye",
+    "minLevel": "30",
+    "enhancements": [
+      "Greater Efficacy",
+      "Wizardry +291",
+      "Magical Efficiency 10%",
+      "Exceptional Universal Spell Power +15",
+      "Exceptional Universal Spell Lore +5%",
+      "Yellow Augment Slot",
+      "Legendary Draconic Prophecy"
+    ]
+  },
+  {
+    "name": "Legendary Gem of Many Facets",
+    "link": "https://ddowiki.com/page/Item:Legendary_Gem_of_Many_Facets",
+    "minLevel": "30",
+    "enhancements": [
+      "Craftable",
+      "Yellow Augment Slot",
+      "Legendary Divine Blessing",
+      "Legendary Elder's Knowledge",
+      "Legendary Marshwalker",
+      "Legendary Raven's Eye",
+      "Legendary Shaman's Fury",
+      "Legendary Siren's Ward",
+      "Legendary Vulkoor's Cunning",
+      "Legendary Vulkoor's Might",
+      "Legendary Kundarak Delving Equipment",
+      "Legendary Mroranon's Might",
+      "Legendary Silver Concord's Subtlety",
+      "Legendary Wards of House Kundarak",
+      "Legendary Draconic Prophecy",
+      "Legendary Might of the Abishai",
+      "The Legendary Desert's Biting Sands",
+      "The Legendary Desert's Burning Sun",
+      "The Legendary Desert's Starless Nights",
+      "The Legendary Desert's Writhing Storm",
+      "Legendary Menechtarun Scavenger",
+      "Legendary Oasis of Morality",
+      "Legendary Vulkoor's Chosen",
+      "Legendary Windlasher's Ferocity"
+    ]
+  },
+  {
+    "name": "Legendary Bloodstone",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bloodstone",
+    "minLevel": "30",
+    "enhancements": [
+      "Seeker +13",
+      "Deception +11",
+      "Accuracy +21",
+      "Deadly +11",
+      "Legendary Vulkoor's Chosen",
+      "Yellow Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Dusk Heart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dusk_Heart",
+    "minLevel": "30",
+    "enhancements": [
+      "Death Ward, Mass",
+      "Dusk",
+      "False Life +51",
+      "Dodge +13%",
+      "Protection +11",
+      "Yellow Augment Slot",
+      "Blue Augment Slot",
+      "The Legendary Desert's Starless Nights"
+    ]
+  },
+  {
+    "name": "Legendary Pouch of Jerky",
+    "link": "https://ddowiki.com/page/Item:Legendary_Pouch_of_Jerky",
+    "minLevel": "30",
+    "enhancements": [
+      "Jerky",
+      "Constitution +14",
+      "False Life +54",
+      "Competence Healing Amplification +57",
+      "Heal +21",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Legendary Vulkoor's Chosen"
+    ]
+  },
+  {
+    "name": "Legendary Shard of Vollun",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shard_of_Vollun",
+    "minLevel": "30",
+    "enhancements": [
+      "Insightful Radiance +73",
+      "Insightful Combustion +73",
+      "Insightful Devotion +73",
+      "Wizardry +277",
+      "Radiance Guard",
+      "The Legendary Desert's Burning Sun",
+      "Yellow Augment Slot",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "The Magic Conch",
+    "link": "https://ddowiki.com/page/Item:The_Magic_Conch",
+    "minLevel": "6",
+    "enhancements": [
+      "Horn of Thunder",
+      "Soundproof",
+      "Sonic Lore +9%",
+      "Resonance +63",
+      "Sonic Resistance +15",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "The Legendary Magic Conch",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Magic_Conch",
+    "minLevel": "29",
+    "enhancements": [
+      "Horn of Thunder",
+      "Soundproof",
+      "Sonic Lore +21%",
+      "Resonance +142",
+      "Sonic Resistance +50",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Perfected Bloodstone",
+    "link": "https://ddowiki.com/page/Item:Perfected_Bloodstone",
+    "minLevel": "30",
+    "enhancements": [
+      "Seeker +14",
+      "Deception +12",
+      "Accuracy +23",
+      "Deadly +12",
+      "Yellow Augment Slot",
+      "Green Augment Slot",
+      "Blue Augment Slot",
+      "Legendary Vulkoor's Chosen"
+    ]
+  },
+  {
+    "name": "The Stablestone",
+    "link": "https://ddowiki.com/page/Item:The_Stablestone",
+    "minLevel": "29",
+    "enhancements": [
+      "Intercession Ward",
+      "Alignment Absorption +22%",
+      "Force Absorption +16%",
+      "Light Absorption +22%",
+      "Green Augment Slot",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Red Raptor Feather",
+    "link": "https://ddowiki.com/page/Item:Red_Raptor_Feather",
+    "minLevel": "7",
+    "enhancements": [
+      "Deception +3",
+      "Insightful Deception +1",
+      "Assassinate +5",
+      "Blurry",
+      "Blue Augment Slot",
+      "The Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Red Raptor Feather",
+    "link": "https://ddowiki.com/page/Item:Legendary_Red_Raptor_Feather",
+    "minLevel": "31",
+    "enhancements": [
+      "Insightful Deception +5",
+      "Quality Assassinate +3",
+      "Lesser Displacement",
+      "Isle of Dread: Fang Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Blue Raptor Feather",
+    "link": "https://ddowiki.com/page/Item:Blue_Raptor_Feather",
+    "minLevel": "7",
+    "enhancements": [
+      "Competence Healing Amplification +17",
+      "Sheltering +11",
+      "Resistance +4",
+      "Good Luck  +1",
+      "Blue Augment Slot",
+      "The Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Legendary Blue Raptor Feather",
+    "link": "https://ddowiki.com/page/Item:Legendary_Blue_Raptor_Feather",
+    "minLevel": "31",
+    "enhancements": [
+      "Sheltering +35",
+      "Resistance +11",
+      "Good Luck  +3",
+      "Isle of Dread: Fang Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Emblem of Elemental Evil",
+    "link": "https://ddowiki.com/page/Item:Emblem_of_Elemental_Evil",
+    "minLevel": "8",
+    "enhancements": [
+      "Taint of Evil",
+      "Profane Lifeforce +16",
+      "Competence Elemental Resistance - 5",
+      "Quality Constitution +1",
+      "Natural Armor +5",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Hurricane Insignia",
+    "link": "https://ddowiki.com/page/Item:Hurricane_Insignia",
+    "minLevel": "8",
+    "enhancements": [
+      "Combat Mastery +4",
+      "Quality Combat Mastery +1",
+      "Seeker +5",
+      "Speed +18%",
+      "Temple's Tempest",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Emblem of Elemental Evil",
+    "link": "https://ddowiki.com/page/Item:Legendary_Emblem_of_Elemental_Evil",
+    "minLevel": "31",
+    "enhancements": [
+      "Taint of Evil",
+      "Profane Lifeforce +47",
+      "Competence Elemental Resistance - 15",
+      "Quality Constitution +3",
+      "Natural Armor +14",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Hurricane Insignia",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hurricane_Insignia",
+    "minLevel": "31",
+    "enhancements": [
+      "Combat Mastery +11",
+      "Quality Combat Mastery +3",
+      "Seeker +14",
+      "Speed +30%",
+      "Legendary Temple's Tempest",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Treasure Hunter's Spyglass (level 32)",
+    "link": "https://ddowiki.com/page/Item:Legendary_Treasure_Hunter%27s_Spyglass_(level_32)",
+    "minLevel": "32",
+    "enhancements": [
+      "Insightful Intelligence +6",
+      "Exceptional Astute Skills Bonus",
+      "Exceptional Prudent Skills Bonus",
+      "True Seeing",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Doctor Lifestone's Hunting Horn",
+    "link": "https://ddowiki.com/page/Item:Doctor_Lifestone%27s_Hunting_Horn",
+    "minLevel": "31",
+    "enhancements": [
+      "Summon Legendary Dinosaur",
+      "Constitution +14",
+      "Sheltering +35",
+      "Deception +11",
+      "Speed +30%",
+      "Spell: Summon Raptor",
+      "The Legendary Dread Isle's Curse",
+      "Green Augment Slot",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Heirloom Map Case",
+    "link": "https://ddowiki.com/page/Item:Heirloom_Map_Case",
+    "minLevel": "15",
+    "enhancements": [
+      "Doublestrike 7%",
+      "Insightful Wisdom +2"
+    ]
+  },
+  {
+    "name": "Long-Lost Charm",
+    "link": "https://ddowiki.com/page/Item:Long-Lost_Charm",
+    "minLevel": "18",
+    "enhancements": [
+      "Enchantment Focus +4",
+      "Spell Penetration +6",
+      "Good Luck  +2",
+      "Improved Disease Guard",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Long-Lost Charm",
+    "link": "https://ddowiki.com/page/Item:Legendary_Long-Lost_Charm",
+    "minLevel": "31",
+    "enhancements": [
+      "Enchantment Focus +6",
+      "Spell Penetration +9",
+      "Good Luck  +5",
+      "Legendary Disease Guard",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Night Hag's Heartstone",
+    "link": "https://ddowiki.com/page/Item:Legendary_Night_Hag%27s_Heartstone",
+    "minLevel": "31",
+    "enhancements": [
+      "Insightful Spell Focus Mastery +3",
+      "Spell Penetration +9",
+      "Magical Efficiency 10%",
+      "Efficient Metamagic - Embolden II",
+      "Blue Augment Slot",
+      "Green Augment Slot",
+      "Yellow Augment Slot",
+      "Legendary Wrath of Sora Kell",
+      "Legendary Perfected Wrath"
+    ]
+  },
+  {
+    "name": "Anti-Beholder Crystal",
+    "link": "https://ddowiki.com/page/Item:Anti-Beholder_Crystal",
+    "minLevel": "None",
+    "enhancements": [
+      "Absorb Beholder and Doomsphere Spells"
+    ]
+  },
+  {
+    "name": "Morgrave Skeleton Key",
+    "link": "https://ddowiki.com/page/Item:Morgrave_Skeleton_Key",
+    "minLevel": "18",
+    "enhancements": [
+      "Open Lock +17",
+      "Exceptional Nimble Skills Bonus",
+      "Good Luck  +2",
+      "Move Silently +17",
+      "Forbidden Knowledge",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Morgrave Skeleton Key",
+    "link": "https://ddowiki.com/page/Item:Legendary_Morgrave_Skeleton_Key",
+    "minLevel": "32",
+    "enhancements": [
+      "Open Lock +21",
+      "Exceptional Nimble Skills Bonus",
+      "Good Luck  +5",
+      "Move Silently +21",
+      "Legendary Forbidden Knowledge",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Library Card",
+    "link": "https://ddowiki.com/page/Item:Legendary_Library_Card",
+    "minLevel": "32",
+    "enhancements": [
+      "Linguistics",
+      "Soundproof",
+      "Insightful Spell Focus Mastery +3",
+      "Insightful Combat Mastery +6",
+      "Rune Arm Charge Rate: 30%",
+      "Legendary Forbidden Knowledge",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Library Card",
+    "link": "https://ddowiki.com/page/Item:Library_Card",
+    "minLevel": "18",
+    "enhancements": [
+      "Linguistics",
+      "Soundproof",
+      "Insightful Spell Focus Mastery +2",
+      "Insightful Combat Mastery +4",
+      "Rune Arm Charge Rate: 20%",
+      "Forbidden Knowledge",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Festival Luck Charms",
+    "link": "https://ddowiki.com/page/Item:Festival_Luck_Charms",
+    "minLevel": "None",
+    "enhancements": [
+      "Good Luck - Reflex +1",
+      "Swim +10"
+    ]
+  },
+  {
+    "name": "Legendary Fragment of a Flayed Mind",
+    "link": "https://ddowiki.com/page/Item:Legendary_Fragment_of_a_Flayed_Mind",
+    "minLevel": "32",
+    "enhancements": [
+      "Quality Wisdom +3",
+      "Superior Reinforced Fists",
+      "Enhanced Ki +4",
+      "Concentration +21",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Illithid Charms",
+    "link": "https://ddowiki.com/page/Item:Legendary_Illithid_Charms",
+    "minLevel": "32",
+    "enhancements": [
+      "Quality Charisma +3",
+      "False Life +54",
+      "Quality Magical Sheltering +8",
+      "Immunity to Fear",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Severed Tentacle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Severed_Tentacle",
+    "minLevel": "32",
+    "enhancements": [
+      "Titan's Grip",
+      "Quality Strength +3",
+      "Quality Doublestrike 3%",
+      "Raging Strength 3",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Jar of Brain Essence",
+    "link": "https://ddowiki.com/page/Item:Legendary_Jar_of_Brain_Essence",
+    "minLevel": "32",
+    "enhancements": [
+      "Quality Intelligence +3",
+      "False Life +54",
+      "Quality Magical Sheltering +8",
+      "Immunity to Fear",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Pearl of Telepathic Seeking",
+    "link": "https://ddowiki.com/page/Item:Legendary_Pearl_of_Telepathic_Seeking",
+    "minLevel": "32",
+    "enhancements": [
+      "Quality Dexterity +3",
+      "Quality Deception +2",
+      "Quality Seeker +3",
+      "Sight Beyond Sight",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Transmutation Talisman",
+    "link": "https://ddowiki.com/page/Item:Transmutation_Talisman",
+    "minLevel": "4",
+    "enhancements": [
+      "Transmutation Focus +2",
+      "Spell Penetration +2",
+      "Magical Efficiency 5%",
+      "Wizardry +63",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Transmutation Talisman",
+    "link": "https://ddowiki.com/page/Item:Legendary_Transmutation_Talisman",
+    "minLevel": "32",
+    "enhancements": [
+      "Transmutation Focus +6",
+      "Spell Penetration +9",
+      "Magical Efficiency 10%",
+      "Wizardry +294",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Pearl of Uncanny Prediction",
+    "link": "https://ddowiki.com/page/Item:Legendary_Pearl_of_Uncanny_Prediction",
+    "minLevel": "32",
+    "enhancements": [
+      "Quality Constitution +3",
+      "Riposte +6",
+      "Lesser Displacement",
+      "Dodge +14%",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Entropic Vessel",
+    "link": "https://ddowiki.com/page/Item:Entropic_Vessel",
+    "minLevel": "15",
+    "enhancements": [
+      "Dodge +6%",
+      "Vitality +20"
+    ]
+  },
+  {
+    "name": "Periapt of Charisma",
+    "link": "https://ddowiki.com/page/Item:Periapt_of_Charisma",
+    "minLevel": "13",
+    "enhancements": [
+      "Charisma +7",
+      "Enchantment Save +6",
+      "Quality Magical Sheltering +4",
+      "Will Save +7",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Periapt of Dexterity",
+    "link": "https://ddowiki.com/page/Item:Periapt_of_Dexterity",
+    "minLevel": "13",
+    "enhancements": [
+      "Dexterity +7",
+      "Insightful Seeker +3",
+      "Quality Dodge +1%",
+      "Reflex Save +7",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Periapt of Dexterity",
+    "link": "https://ddowiki.com/page/Item:Legendary_Periapt_of_Dexterity",
+    "minLevel": "33",
+    "enhancements": [
+      "Dexterity +15",
+      "Insightful Seeker +6",
+      "Quality Dodge +3%",
+      "Reflex Save +13",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Periapt of Intelligence",
+    "link": "https://ddowiki.com/page/Item:Periapt_of_Intelligence",
+    "minLevel": "13",
+    "enhancements": [
+      "Intelligence +7",
+      "Force Absorption +13%",
+      "Quality Magical Sheltering +4",
+      "Reflex Save +7",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Periapt of Intelligence",
+    "link": "https://ddowiki.com/page/Item:Legendary_Periapt_of_Intelligence",
+    "minLevel": "33",
+    "enhancements": [
+      "Intelligence +15",
+      "Force Absorption +16%",
+      "Quality Magical Sheltering +9",
+      "Reflex Save +13",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Periapt of Strength",
+    "link": "https://ddowiki.com/page/Item:Periapt_of_Strength",
+    "minLevel": "13",
+    "enhancements": [
+      "Strength +7",
+      "Insightful Seeker +3",
+      "Quality Seeker +1",
+      "Will Save +7",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Periapt of Strength",
+    "link": "https://ddowiki.com/page/Item:Legendary_Periapt_of_Strength",
+    "minLevel": "33",
+    "enhancements": [
+      "Strength +15",
+      "Insightful Seeker +6",
+      "Quality Seeker +3",
+      "Will Save +13",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Periapt of Constitution",
+    "link": "https://ddowiki.com/page/Item:Periapt_of_Constitution",
+    "minLevel": "13",
+    "enhancements": [
+      "Constitution +7",
+      "Insightful Fortification  +43%",
+      "Force Absorption +13%",
+      "Fortitude Save +7",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Periapt of Constitution",
+    "link": "https://ddowiki.com/page/Item:Legendary_Periapt_of_Constitution",
+    "minLevel": "33",
+    "enhancements": [
+      "Constitution +15",
+      "Insightful Fortification  +78%",
+      "Force Absorption +16%",
+      "Fortitude Save +13",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Periapt of Wisdom (Myth Drannor)",
+    "link": "https://ddowiki.com/page/Item:Periapt_of_Wisdom_(Myth_Drannor)",
+    "minLevel": "13",
+    "enhancements": [
+      "Wisdom +7",
+      "Quality Dodge +1%",
+      "Quality Magical Sheltering +4",
+      "Fortitude Save +7",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Periapt of Wisdom",
+    "link": "https://ddowiki.com/page/Item:Legendary_Periapt_of_Wisdom",
+    "minLevel": "33",
+    "enhancements": [
+      "Wisdom +15",
+      "Quality Dodge +3%",
+      "Quality Magical Sheltering +9",
+      "Fortitude Save +13",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Periapt of Charisma",
+    "link": "https://ddowiki.com/page/Item:Legendary_Periapt_of_Charisma",
+    "minLevel": "33",
+    "enhancements": [
+      "Charisma +15",
+      "Enchantment Save +12",
+      "Quality Magical Sheltering +9",
+      "Will Save +13",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Bauble of Draconic Resistance",
+    "link": "https://ddowiki.com/page/Item:Bauble_of_Draconic_Resistance",
+    "minLevel": "33",
+    "enhancements": [
+      "Dodge +15%",
+      "Natural Armor +15",
+      "Quality Magical Sheltering +9",
+      "Sealed in Undeath",
+      "Green Augment Slot",
+      "Yellow Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Breaker's Bauble",
+    "link": "https://ddowiki.com/page/Item:Breaker%27s_Bauble",
+    "minLevel": "4",
+    "enhancements": [
+      "Doublestrike 4%",
+      "Insightful Doublestrike 1%",
+      "Accuracy +5",
+      "Armor-Piercing - 5%",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Selune's Light",
+    "link": "https://ddowiki.com/page/Item:Selune%27s_Light",
+    "minLevel": "4",
+    "enhancements": [
+      "Radiance +56",
+      "Insightful Radiance Lore +6%",
+      "Spell Focus Mastery +1",
+      "Vitality +11",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Breaker's Bauble",
+    "link": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+    "minLevel": "33",
+    "enhancements": [
+      "Doublestrike 16%",
+      "Insightful Doublestrike 7%",
+      "Accuracy +23",
+      "Armor-Piercing - 23%",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Selune's Light",
+    "link": "https://ddowiki.com/page/Item:Legendary_Selune%27s_Light",
+    "minLevel": "33",
+    "enhancements": [
+      "Radiance +156",
+      "Insightful Radiance Lore +14%",
+      "Spell Focus Mastery +5",
+      "Sacred Spell Focus Mastery +2",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "The Hydra's Heart",
+    "link": "https://ddowiki.com/page/Item:The_Hydra%27s_Heart",
+    "minLevel": "33",
+    "enhancements": [
+      "False Life +58",
+      "Profane Lifeforce +52",
+      "Sheltering +39",
+      "Sealed in Gloom",
+      "Green Augment Slot",
+      "Yellow Augment Slot",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Piece of Shattered Horn",
+    "link": "https://ddowiki.com/page/Item:Epic_Piece_of_Shattered_Horn",
+    "minLevel": "27",
+    "enhancements": [
+      "Deathblock",
+      "Proof Against Poison +10",
+      "Proof Against Disease +10",
+      "Quality Resistance +2",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Piece of Shattered Horn",
+    "link": "https://ddowiki.com/page/Item:Piece_of_Shattered_Horn",
+    "minLevel": "5",
+    "enhancements": [
+      "Deathblock",
+      "Proof Against Poison +3",
+      "Proof Against Disease +3",
+      "Quality Resistance +1",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Icon of the High Tide",
+    "link": "https://ddowiki.com/page/Item:Icon_of_the_High_Tide",
+    "minLevel": "3",
+    "enhancements": [
+      "Cold Absorption +15%",
+      "Cold Resistance +11",
+      "Insightful Will Save +2",
+      "Profane Well Rounded +1",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Icon of the High Tide",
+    "link": "https://ddowiki.com/page/Item:Legendary_Icon_of_the_High_Tide",
+    "minLevel": "33",
+    "enhancements": [
+      "Cold Absorption +37%",
+      "Cold Resistance +56",
+      "Insightful Will Save +6",
+      "Profane Well Rounded +3",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Dark Bargainer's Pactscroll",
+    "link": "https://ddowiki.com/page/Item:Dark_Bargainer%27s_Pactscroll",
+    "minLevel": "15",
+    "enhancements": [
+      "Dodge +6%",
+      "Vitality +20"
+    ]
+  },
+  {
+    "name": "Heartshard",
+    "link": "https://ddowiki.com/page/Item:Heartshard",
+    "minLevel": "8",
+    "enhancements": [
+      "Vitality +16",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Heartshard",
+    "link": "https://ddowiki.com/page/Item:Legendary_Heartshard",
+    "minLevel": "34",
+    "enhancements": [
+      "Legendary Conditioning +15%",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Mark of the Dark Powers",
+    "link": "https://ddowiki.com/page/Item:Mark_of_the_Dark_Powers",
+    "minLevel": "8",
+    "enhancements": [
+      "Quality Magical Sheltering +2",
+      "Profane Lifeforce +16",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Mark of the Dark Powers",
+    "link": "https://ddowiki.com/page/Item:Legendary_Mark_of_the_Dark_Powers",
+    "minLevel": "34",
+    "enhancements": [
+      "Quality Magical Sheltering +9",
+      "Profane Lifeforce +49",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Souvenir Coin",
+    "link": "https://ddowiki.com/page/Item:Souvenir_Coin",
+    "minLevel": "8",
+    "enhancements": [
+      "Exceptional Seeker +3",
+      "Exceptional Alluring Skills Bonus",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Souvenir Coin",
+    "link": "https://ddowiki.com/page/Item:Legendary_Souvenir_Coin",
+    "minLevel": "34",
+    "enhancements": [
+      "Exceptional Seeker +5",
+      "Exceptional Alluring Skills Bonus",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Tiny Brain in a Tiny Jar",
+    "link": "https://ddowiki.com/page/Item:Tiny_Brain_in_a_Tiny_Jar",
+    "minLevel": "8",
+    "enhancements": [
+      "Dodge +5%",
+      "Intelligence Skills - Exceptional Bonus +2",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Tiny Brain in a Tiny Jar",
+    "link": "https://ddowiki.com/page/Item:Legendary_Tiny_Brain_in_a_Tiny_Jar",
+    "minLevel": "34",
+    "enhancements": [
+      "Dodge +15%",
+      "Intelligence Skills - Exceptional Bonus +6",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Golden Souvenir Coin",
+    "link": "https://ddowiki.com/page/Item:Legendary_Golden_Souvenir_Coin",
+    "minLevel": "34",
+    "enhancements": [
+      "Exceptional Seeker +5",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Green Augment Slot",
+      "Colorless Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "Golden Souvenir Coin",
+    "link": "https://ddowiki.com/page/Item:Golden_Souvenir_Coin",
+    "minLevel": "8",
+    "enhancements": [
+      "Exceptional Seeker +3",
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Sun Augment Slot"
+    ]
+  },
+  {
+    "name": "The Bloodstained Letter",
+    "link": "https://ddowiki.com/page/Item:The_Bloodstained_Letter",
+    "minLevel": "34",
+    "enhancements": [
+      "Lamordia: Melancholic Slot (Accessory): Empty",
+      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Blue Augment Slot",
+      "Green Augment Slot",
+      "Sun Augment Slot",
+      "Ability",
+      "Skills"
+    ]
+  }
+]

@@ -1,0 +1,798 @@
+[
+  {
+    "name": "Azure Buckler",
+    "link": "https://ddowiki.com/page/Item:Azure_Buckler",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Quality Magical Sheltering +5",
+      "Shield Bashing +14%",
+      "Feat",
+      "Insightful  Diversion +6%",
+      "Forbidden Knowledge",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Barnacled Buckler",
+    "link": "https://ddowiki.com/page/Item:Barnacled_Buckler",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Riposte VIII",
+      "Competence Elemental Resistance - 10",
+      "Corrosive Salt Guard",
+      "Vulnerability Guard",
+      "Sheltering +12",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Buckler of the Celestial Soldier",
+    "link": "https://ddowiki.com/page/Item:Buckler_of_the_Celestial_Soldier",
+    "minLevel": "27",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Quality Dexterity +3",
+      "Quality Magical Sheltering +8",
+      "Quality Physical Sheltering +8",
+      "Ghostly",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Buckler of the Demonic Soldier",
+    "link": "https://ddowiki.com/page/Item:Buckler_of_the_Demonic_Soldier",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Dazing IV",
+      "Impact",
+      "Sheltering +3",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Buckler of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Buckler_of_the_Fallen_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Shield Bashing +11%",
+      "Shield Spikes",
+      "Rough Hide +7",
+      "Legendary Conditioning +5%",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Buckler of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Buckler_of_the_Golden_Age",
+    "minLevel": "13",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Shield Bashing +11%",
+      "Legendary Conditioning +5%",
+      "Shield Spikes",
+      "Guardbreaking",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Cataclysmic Buckler",
+    "link": "https://ddowiki.com/page/Item:Cataclysmic_Buckler",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Crabshell Buckler",
+    "link": "https://ddowiki.com/page/Item:Crabshell_Buckler",
+    "minLevel": "9",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Chitinous Covering +19%",
+      "Natural Armor +5",
+      "Immunity to Slippery Surfaces",
+      "Guardbreaking",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Defiled Azure Buckler",
+    "link": "https://ddowiki.com/page/Item:Defiled_Azure_Buckler",
+    "minLevel": "18",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Insightful Shield Bashing +6",
+      "Shield Bashing +14%",
+      "Unholy 4",
+      "Insightful  Diversion +6%",
+      "Forbidden Knowledge",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Dinosaur Bone Buckler",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Buckler",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Scale Slot (Armor): Empty",
+      "Isle of Dread: Fang Slot (Armor): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Epic Buckler of the Demonic Soldier",
+    "link": "https://ddowiki.com/page/Item:Epic_Buckler_of_the_Demonic_Soldier",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Dazing VII",
+      "Impact",
+      "Quality Magical Sheltering +2",
+      "Melee Power +6",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Spectre Deflector (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Spectre_Deflector_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Protection from Evil",
+      "Ghostbane 4",
+      "Ghostly",
+      "Lifesealed +27",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Spectre Deflector (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Spectre_Deflector_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Protection from Evil",
+      "Ghostbane 5",
+      "Ghostly",
+      "Lifesealed +30",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Spectre Deflector (level 28)",
+    "link": "https://ddowiki.com/page/Item:Epic_Spectre_Deflector_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Protection from Evil",
+      "Ghostbane 6",
+      "Ghostly",
+      "Lifesealed +33",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Swashbuckler (legacy) (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Swashbuckler_(legacy)_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+5 Enhancement Bonus",
+      "Parrying IV",
+      "Doublestrike 6%",
+      "Guardbreaking",
+      "Riposte",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3",
+      "Insightful Dexterity +2",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Swashbuckler (legacy) (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Swashbuckler_(legacy)_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+6 Enhancement Bonus",
+      "Riposte VIII",
+      "Doublestrike 7%",
+      "Guardbreaking",
+      "Riposte",
+      "Upgradeable - Tier 2",
+      "Insightful Dexterity +1",
+      "Upgradeable - Tier 3",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Swashbuckler (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Swashbuckler_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Parrying +4",
+      "Doublestrike 11%",
+      "Guardbreaking",
+      "Insightful Dexterity +4",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Swashbuckler (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Swashbuckler_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Parrying +5",
+      "Doublestrike 12%",
+      "Guardbreaking",
+      "Insightful Dexterity +5",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Swashbuckler (level 28)",
+    "link": "https://ddowiki.com/page/Item:Epic_Swashbuckler_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+12 Enhancement Bonus",
+      "Parrying +5",
+      "Doublestrike 14%",
+      "Guardbreaking",
+      "Insightful Dexterity +5",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Epic Wind-Swept Buckler",
+    "link": "https://ddowiki.com/page/Item:Epic_Wind-Swept_Buckler",
+    "minLevel": "20",
+    "enhancements": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Insightful Charisma +4",
+      "Radiance Lore +16%",
+      "Radiance +111",
+      "Light Absorption +18%",
+      "Exceptional Charisma +1",
+      "Epic Saltmarsh Explorer",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Fortified Fiddle",
+    "link": "https://ddowiki.com/page/Item:Fortified_Fiddle",
+    "minLevel": "15",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Riposte IV",
+      "Fortification  +100%"
+    ]
+  },
+  {
+    "name": "Frostforged Buckler",
+    "link": "https://ddowiki.com/page/Item:Frostforged_Buckler",
+    "minLevel": "8",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Guardbreaking",
+      "Insightful Physical Sheltering +5",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Hector's Bracer",
+    "link": "https://ddowiki.com/page/Item:Hector%27s_Bracer",
+    "minLevel": "21",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Guardbreaking",
+      "Quality Dodge +2%",
+      "Parrying +4",
+      "Protection +8",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Hexbreaker",
+    "link": "https://ddowiki.com/page/Item:Hexbreaker",
+    "minLevel": "5",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Guardbreaking",
+      "Immunity to Slippery Surfaces",
+      "Spell Save +3",
+      "Spell Resistance +10",
+      "Crystal",
+      "Red Augment Slot",
+      "Seasons of the Feywild"
+    ]
+  },
+  {
+    "name": "Kobold Admiral's Tiller",
+    "link": "https://ddowiki.com/page/Item:Kobold_Admiral%27s_Tiller",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Dodge +10%",
+      "Axeblock VII",
+      "Hammerblock VII",
+      "Guardbreaking",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Alchemical Buckler",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Buckler",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Azure Buckler",
+    "link": "https://ddowiki.com/page/Item:Legendary_Azure_Buckler",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Quality Magical Sheltering +8",
+      "Shield Bashing +22%",
+      "Feat",
+      "Insightful  Diversion +10%",
+      "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Buckler of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Buckler_of_the_Fallen_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Shield Bashing +23%",
+      "Shield Spikes",
+      "Rough Hide +14",
+      "Legendary Conditioning +5%",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Buckler of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Buckler_of_the_Golden_Age",
+    "minLevel": "33",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Shield Bashing +23%",
+      "Legendary Conditioning +5%",
+      "Shield Spikes",
+      "Guardbreaking",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Buckler",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Buckler",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Crabshell Buckler",
+    "link": "https://ddowiki.com/page/Item:Legendary_Crabshell_Buckler",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chitinous Covering +34%",
+      "Natural Armor +13",
+      "Freedom of Movement",
+      "Guardbreaking",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Defiled Azure Buckler",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Azure_Buckler",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Insightful Shield Bashing +10",
+      "Shield Bashing +22%",
+      "Unholy 6",
+      "Insightful  Diversion +10%",
+      "Taint of Evil",
+      "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Frostforged Buckler",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frostforged_Buckler",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Guardbreaking",
+      "Insightful Physical Sheltering +18",
+      "Lamordia: Melancholic Slot (Weapon): Empty",
+      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Hexbreaker",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hexbreaker",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Guardbreaking",
+      "Freedom of Movement",
+      "Spell Save +10",
+      "Spell Resistance +38",
+      "Crystal",
+      "Purple Augment Slot",
+      "Eminence of Spring",
+      "Missile Deflection"
+    ]
+  },
+  {
+    "name": "Legendary Moonguard",
+    "link": "https://ddowiki.com/page/Item:Legendary_Moonguard",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Guardbreaking",
+      "Coruscating 6",
+      "Insightful Magical Sheltering +16",
+      "Quality Magical Sheltering +8",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Swashbuckler (level 32)",
+    "link": "https://ddowiki.com/page/Item:Legendary_Swashbuckler_(level_32)",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Parrying +6",
+      "Doublestrike 16%",
+      "Guardbreaking",
+      "Insightful Dexterity +6",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Wind-Swept Buckler",
+    "link": "https://ddowiki.com/page/Item:Legendary_Wind-Swept_Buckler",
+    "minLevel": "30",
+    "enhancements": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Insightful Charisma +6",
+      "Radiance Lore +21%",
+      "Radiance +146",
+      "Light Absorption +22%",
+      "Exceptional Charisma +1",
+      "Legendary Saltmarsh Explorer",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Wreckage of the Tabernack",
+    "link": "https://ddowiki.com/page/Item:Legendary_Wreckage_of_the_Tabernack",
+    "minLevel": "31",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Impact",
+      "Armor-Piercing - 21%",
+      "Doublestrike 15%",
+      "Quality Dexterity +3",
+      "Red Augment Slot",
+      "The Legendary Dread Isle's Curse"
+    ]
+  },
+  {
+    "name": "Moonguard",
+    "link": "https://ddowiki.com/page/Item:Moonguard",
+    "minLevel": "15",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Guardbreaking",
+      "Coruscating 4",
+      "Insightful Magical Sheltering +9",
+      "Quality Magical Sheltering +4",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Shield of the Hunter",
+    "link": "https://ddowiki.com/page/Item:Shield_of_the_Hunter",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Impact",
+      "Guardbreaking",
+      "Doublestrike 16%",
+      "Armor-Piercing - 22%",
+      "Huntmaster's Favor",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectre Deflector (level 12)",
+    "link": "https://ddowiki.com/page/Item:Spectre_Deflector_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Protection from Evil",
+      "Ghostbane 3",
+      "Ghostly",
+      "Lifesealed +21",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectre Deflector (level 16)",
+    "link": "https://ddowiki.com/page/Item:Spectre_Deflector_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Protection from Evil",
+      "Ghostbane 4",
+      "Ghostly",
+      "Lifesealed +24",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectre Deflector (level 4)",
+    "link": "https://ddowiki.com/page/Item:Spectre_Deflector_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Protection from Evil",
+      "Ghostbane 2",
+      "Lifesealed +15",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Spectre Deflector (level 8)",
+    "link": "https://ddowiki.com/page/Item:Spectre_Deflector_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Protection from Evil",
+      "Ghostbane 2",
+      "Lifesealed +18",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Swashbuckler (legacy) (level 12)",
+    "link": "https://ddowiki.com/page/Item:Swashbuckler_(legacy)_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+3 Enhancement Bonus",
+      "Parrying I",
+      "Doublestrike 3%",
+      "Guardbreaking",
+      "Riposte",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3"
+    ]
+  },
+  {
+    "name": "Swashbuckler (legacy) (level 16)",
+    "link": "https://ddowiki.com/page/Item:Swashbuckler_(legacy)_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+4 Enhancement Bonus",
+      "Parrying IV",
+      "Doublestrike 6%",
+      "Guardbreaking",
+      "Riposte",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3"
+    ]
+  },
+  {
+    "name": "Swashbuckler (legacy) (level 4)",
+    "link": "https://ddowiki.com/page/Item:Swashbuckler_(legacy)_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+1 Enhancement Bonus",
+      "Parrying I",
+      "Doublestrike 3%",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3",
+      "Guardbreaking"
+    ]
+  },
+  {
+    "name": "Swashbuckler (legacy) (level 8)",
+    "link": "https://ddowiki.com/page/Item:Swashbuckler_(legacy)_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "Upgradeable - Tier 1",
+      "+2 Enhancement Bonus",
+      "Parrying I",
+      "Doublestrike 3%",
+      "Guardbreaking",
+      "Upgradeable - Tier 2",
+      "Upgradeable - Tier 3",
+      "Riposte"
+    ]
+  },
+  {
+    "name": "Swashbuckler (level 12)",
+    "link": "https://ddowiki.com/page/Item:Swashbuckler_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Parrying +2",
+      "Doublestrike 7%",
+      "Guardbreaking",
+      "Dexterity +6",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Swashbuckler (level 16)",
+    "link": "https://ddowiki.com/page/Item:Swashbuckler_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Parrying +3",
+      "Doublestrike 9%",
+      "Guardbreaking",
+      "Insightful Dexterity +3",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Swashbuckler (level 4)",
+    "link": "https://ddowiki.com/page/Item:Swashbuckler_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Parrying +1",
+      "Doublestrike 4%",
+      "Guardbreaking",
+      "Dexterity +3",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Swashbuckler (level 8)",
+    "link": "https://ddowiki.com/page/Item:Swashbuckler_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Parrying +2",
+      "Doublestrike 6%",
+      "Guardbreaking",
+      "Dexterity +5",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "The Falling Darkness",
+    "link": "https://ddowiki.com/page/Item:The_Falling_Darkness",
+    "minLevel": "27",
+    "enhancements": [
+      "+8 Enhancement Bonus",
+      "Sheltering +24",
+      "Natural Armor +10",
+      "Spearblock VII",
+      "Upgradeable - Primary Augment",
+      "Upgradeable - Secondary Augment"
+    ]
+  },
+  {
+    "name": "The Rising Light",
+    "link": "https://ddowiki.com/page/Item:The_Rising_Light",
+    "minLevel": "27",
+    "enhancements": [
+      "+8 Enhancement Bonus",
+      "Constitution +10",
+      "Dexterity +10",
+      "Protection +10",
+      "Upgradeable - Primary Augment",
+      "Upgradeable - Secondary Augment"
+    ]
+  },
+  {
+    "name": "Van Richten's Cane",
+    "link": "https://ddowiki.com/page/Item:Van_Richten%27s_Cane",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Stunning +6",
+      "Riposte +2",
+      "Shield Bashing +9",
+      "Undead Bane 3",
+      "Silver",
+      "Orange Augment Slot",
+      "Adherent of the Mists Set (Heroic)"
+    ]
+  },
+  {
+    "name": "Van Richten's Legendary Cane",
+    "link": "https://ddowiki.com/page/Item:Van_Richten%27s_Legendary_Cane",
+    "minLevel": "29",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Stunning +15",
+      "Riposte +6",
+      "Shield Bashing +20",
+      "Undead Bane 6",
+      "Silver",
+      "Orange Augment Slot",
+      "Adherent of the Mists Set (Legendary)"
+    ]
+  },
+  {
+    "name": "Wind-Swept Buckler",
+    "link": "https://ddowiki.com/page/Item:Wind-Swept_Buckler",
+    "minLevel": "3",
+    "enhancements": [
+      "Spellcasting Implement +3",
+      "+2 Enhancement Bonus",
+      "Insightful Charisma +1",
+      "Radiance Lore +8%",
+      "Radiance +53",
+      "Saltmarsh Explorer",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Wreckage of the Tabernack",
+    "link": "https://ddowiki.com/page/Item:Wreckage_of_the_Tabernack",
+    "minLevel": "7",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Impact",
+      "Armor-Piercing - 7%",
+      "Doublestrike 5%",
+      "Quality Dexterity +1",
+      "Red Augment Slot",
+      "The Dread Isle's Curse"
+    ]
+  }
+]
