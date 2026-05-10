@@ -2,335 +2,768 @@
   {
     "name": "Ethereal Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Ethereal_Bastard_Sword",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Sworn Silver Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Sworn_Silver_Bastard_Sword",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Savage Sword",
     "link": "https://ddowiki.com/page/Item:Savage_Sword",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 4,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Enfeebling",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Enfeebling"
+    ],
+    "itemKey": "item:savage_sword",
+    "setMembership": []
   },
   {
     "name": "Chimera's Fang",
     "link": "https://ddowiki.com/page/Item:Chimera%27s_Fang",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Electrifying 2",
       "Stunning +4",
       "Maiming 2",
-      "Dragonshard Focus: Sentinel",
-      "Dragonmark of Sentinel",
-      "Exotic Weapon Proficiency: Bastard Sword",
-      "Parrying I",
-      "Insightful Fortification  +25%",
+      "Dragonshard Focus: Sentinel: This effect bestows additional benefits to those that bear the Dragonmark of Sentinel. Least: Exotic Weapon Proficiency: Bastard Sword. Lesser: Parrying I Greater: Insightful Fortification +25%",
+      "This effect bestows additional benefits to those that bear the Dragonmark of Sentinel. Least: Exotic Weapon Proficiency: Bastard Sword. Lesser: Parrying I Greater: Insightful Fortification +25%",
+      "Least: Exotic Weapon Proficiency: Bastard Sword.",
+      "Lesser: Parrying I",
+      "Greater: Insightful Fortification +25%",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Electrifying 2",
+      "Stunning +4",
+      "Maiming 2",
+      "Dragonshard Focus: Sentinel: This effect bestows additional benefits to those that bear the Dragonmark of Sentinel. Least: Exotic Weapon Proficiency: Bastard Sword. Lesser: Parrying I Greater: Insightful Fortification +25%",
+      "This effect bestows additional benefits to those that bear the Dragonmark of Sentinel. Least: Exotic Weapon Proficiency: Bastard Sword. Lesser: Parrying I Greater: Insightful Fortification +25%",
+      "Least: Exotic Weapon Proficiency: Bastard Sword.",
+      "Lesser: Parrying I",
+      "Greater: Insightful Fortification +25%"
+    ],
+    "itemKey": "item:chimera's_fang",
+    "setMembership": []
   },
   {
     "name": "Chipped Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Chipped_Bastard_Sword",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 5,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Shocking Touch",
       "Unraveling Enchantments"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Shocking Touch",
+      "Unraveling Enchantments"
+    ],
+    "itemKey": "item:chipped_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Ferrocrystal Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Ferrocrystal_Bastard_Sword",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Feybane 2",
       "Destruction",
       "Maiming 2",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Flamesalt Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Flamesalt_Bastard_Sword",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 5,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Chilling 2",
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Cutting Currency",
     "link": "https://ddowiki.com/page/Item:Cutting_Currency",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 6,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Transmuted Platinum",
       "Bludgeoning 2",
       "Metalline",
       "Gashing 5",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Transmuted Platinum",
+      "Bludgeoning 2",
+      "Metalline",
+      "Gashing 5"
+    ],
+    "itemKey": "item:cutting_currency",
+    "setMembership": []
   },
   {
     "name": "Spinal Tap",
     "link": "https://ddowiki.com/page/Item:Spinal_Tap",
-    "minLevel": "7",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 7,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Lesser Human Bane",
       "Hemorrhaging",
       "Puncturing",
       "Wounding",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Lesser Human Bane",
+      "Hemorrhaging",
+      "Puncturing",
+      "Wounding"
+    ],
+    "itemKey": "item:spinal_tap",
+    "setMembership": []
   },
   {
     "name": "Calamitous Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Calamitous_Bastard_Sword",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
       "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)"
+    ],
+    "itemKey": "item:calamitous_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Prysuul's Bane",
     "link": "https://ddowiki.com/page/Item:Prysuul%27s_Bane",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Pure Good",
       "Cold Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Pure Good",
+      "Cold Iron"
+    ],
+    "itemKey": "item:prysuul's_bane",
+    "setMembership": []
   },
   {
     "name": "Barovian's Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Bastard_Sword",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Undead Bane 3",
       "Holy 3",
       "Fiery 3",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Undead Bane 3",
+      "Holy 3",
+      "Fiery 3",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:barovian's_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Macabre Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Macabre_Bastard_Sword",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Charoush's Inferno (historic)",
     "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(historic)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Flaming Burst"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Flaming Burst"
+    ],
+    "itemKey": "item:charoush's_inferno_(historic)",
+    "setMembership": []
   },
   {
     "name": "Alchemical Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Alchemical_Bastard_Sword",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Green Steel Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Green_Steel_Bastard_Sword",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Charoush's Inferno (level 12)",
     "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 12,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Flaming Burst",
       "Incineration"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Flaming Burst",
+      "Incineration"
+    ],
+    "itemKey": "item:charoush's_inferno_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Charoush's Inferno (level 13)",
     "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(level_13)",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Blazing",
       "Incineration"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Blazing",
+      "Incineration"
+    ],
+    "itemKey": "item:charoush's_inferno_(level_13)",
+    "setMembership": []
   },
   {
     "name": "Bastard Sword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Bastard_Sword_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Anarchic Blast 3",
       "Anarchic 3",
       "Aligned",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:bastard_sword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Bastard Sword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Bastard_Sword_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Force Blast 3",
       "Impactful 3",
       "Vorpal",
       "Entropic 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:bastard_sword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Twinblade",
     "link": "https://ddowiki.com/page/Item:Twinblade",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Axiomatic",
       "Anarchic",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Axiomatic",
+      "Anarchic"
+    ],
+    "itemKey": "item:twinblade",
+    "setMembership": []
   },
   {
     "name": "First Blood (level 14)",
     "link": "https://ddowiki.com/page/Item:First_Blood_(level_14)",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 14,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Bloodletter V",
       "Doublestrike 8%",
       "Keen"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Bloodletter V",
+      "Doublestrike 8%",
+      "Keen"
+    ],
+    "itemKey": "item:first_blood_(level_14)",
+    "setMembership": []
   },
   {
     "name": "Charoush's Inferno (level 14)",
     "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(level_14)",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Blazing",
       "Incineration",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Blazing",
+      "Incineration"
+    ],
+    "itemKey": "item:charoush's_inferno_(level_14)",
+    "setMembership": []
   },
   {
     "name": "First Blood (level 15)",
     "link": "https://ddowiki.com/page/Item:First_Blood_(level_15)",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Bloodletter V",
       "Doublestrike 9%",
       "Keen"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Bloodletter V",
+      "Doublestrike 9%",
+      "Keen"
+    ],
+    "itemKey": "item:first_blood_(level_15)",
+    "setMembership": []
   },
   {
     "name": "Wave of Despair",
     "link": "https://ddowiki.com/page/Item:Wave_of_Despair",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Echoes of Angdrelve 4",
       "Wounding 2",
       "Anarchic 4",
       "Slay Living",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Echoes of Angdrelve 4",
+      "Wounding 2",
+      "Anarchic 4",
+      "Slay Living"
+    ],
+    "itemKey": "item:wave_of_despair",
+    "setMembership": []
   },
   {
     "name": "Syranian Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Syranian_Bastard_Sword",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Electrifying 4",
       "Holy 4",
       "Construct Bane 4",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Templar's Retribution",
     "link": "https://ddowiki.com/page/Item:Templar%27s_Retribution",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 16,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Cold Iron",
       "Holy Burst 4",
       "Good Blast 4",
       "Coruscating 4",
       "Godly Wrath"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Cold Iron",
+      "Holy Burst 4",
+      "Good Blast 4",
+      "Coruscating 4",
+      "Godly Wrath"
+    ],
+    "itemKey": "item:templar's_retribution",
+    "setMembership": []
   },
   {
     "name": "First Blood (level 16)",
     "link": "https://ddowiki.com/page/Item:First_Blood_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Bloodletter V",
       "Doublestrike 10%",
       "Keen"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Bloodletter V",
+      "Doublestrike 10%",
+      "Keen"
+    ],
+    "itemKey": "item:first_blood_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Thirteen",
     "link": "https://ddowiki.com/page/Item:Thirteen",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Aligned",
       "Metalline",
@@ -341,65 +774,150 @@
       "Blue Augment Slot",
       "Purple Augment Slot",
       "Colorless Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green",
+      "Blue",
+      "Purple",
+      "Colorless"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Aligned",
+      "Metalline"
+    ],
+    "itemKey": "item:thirteen",
+    "setMembership": []
   },
   {
     "name": "Shining Reliquary Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Bastard_Sword",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Defiled Reliquary Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Bastard_Sword",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Epic Chimera's Fang",
     "link": "https://ddowiki.com/page/Item:Epic_Chimera%27s_Fang",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Keen",
       "Destruction",
       "Shocking Blast 4",
       "Shatter +11",
       "Disintegration",
-      "Greater Chimera's Ferocity",
-      "Dragonmark",
-      "Insightful Fortification  +55%",
-      "Competence Healing Amplification +38",
-      "Repair Amplification +38",
-      "Resistance +8",
-      "Shield +9",
-      "Incite +91",
-      "Lesser Displacement",
-      "Electric Absorption +27%",
-      "Spell Resistance +28",
-      "Silver",
+      "Greater Chimera's Ferocity: If you have a Dragonmark, you get Exotic Weapon Proficiency: Bastard Sword and one of the following: Mark of Finding: Insightful Fortification +55% Mark of Healing: Competence Healing Amplification +38 Mark of Making: Repair Amplification +38 Mark of Passage: Resistance +8 Mark of Scribing: Shield +9 Mark of Sentinel: Incite +91 Mark of Shadow: Lesser Displacement Mark of Storm: Electric Absorption +27% and Whirlwind Ward Mark of Warding: Spell Resistance +28",
+      "If you have a Dragonmark, you get Exotic Weapon Proficiency: Bastard Sword and one of the following: Mark of Finding: Insightful Fortification +55% Mark of Healing: Competence Healing Amplification +38 Mark of Making: Repair Amplification +38 Mark of Passage: Resistance +8 Mark of Scribing: Shield +9 Mark of Sentinel: Incite +91 Mark of Shadow: Lesser Displacement Mark of Storm: Electric Absorption +27% and Whirlwind Ward Mark of Warding: Spell Resistance +28",
+      "Mark of Finding: Insightful Fortification +55%",
+      "Mark of Healing: Competence Healing Amplification +38",
+      "Mark of Making: Repair Amplification +38",
+      "Mark of Passage: Resistance +8",
+      "Mark of Scribing: Shield +9",
+      "Mark of Sentinel: Incite +91",
+      "Mark of Shadow: Lesser Displacement",
+      "Mark of Storm: Electric Absorption +27% and Whirlwind Ward",
+      "Mark of Warding: Spell Resistance +28",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Keen",
+      "Destruction",
+      "Shocking Blast 4",
+      "Shatter +11",
+      "Disintegration",
+      "Greater Chimera's Ferocity: If you have a Dragonmark, you get Exotic Weapon Proficiency: Bastard Sword and one of the following: Mark of Finding: Insightful Fortification +55% Mark of Healing: Competence Healing Amplification +38 Mark of Making: Repair Amplification +38 Mark of Passage: Resistance +8 Mark of Scribing: Shield +9 Mark of Sentinel: Incite +91 Mark of Shadow: Lesser Displacement Mark of Storm: Electric Absorption +27% and Whirlwind Ward Mark of Warding: Spell Resistance +28",
+      "If you have a Dragonmark, you get Exotic Weapon Proficiency: Bastard Sword and one of the following: Mark of Finding: Insightful Fortification +55% Mark of Healing: Competence Healing Amplification +38 Mark of Making: Repair Amplification +38 Mark of Passage: Resistance +8 Mark of Scribing: Shield +9 Mark of Sentinel: Incite +91 Mark of Shadow: Lesser Displacement Mark of Storm: Electric Absorption +27% and Whirlwind Ward Mark of Warding: Spell Resistance +28",
+      "Mark of Finding: Insightful Fortification +55%",
+      "Mark of Healing: Competence Healing Amplification +38",
+      "Mark of Making: Repair Amplification +38",
+      "Mark of Passage: Resistance +8",
+      "Mark of Scribing: Shield +9",
+      "Mark of Sentinel: Incite +91",
+      "Mark of Shadow: Lesser Displacement",
+      "Mark of Storm: Electric Absorption +27% and Whirlwind Ward",
+      "Mark of Warding: Spell Resistance +28",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:epic_chimera's_fang",
+    "setMembership": []
   },
   {
     "name": "Epic Templar's Retribution",
     "link": "https://ddowiki.com/page/Item:Epic_Templar%27s_Retribution",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Holy Burst 4",
       "Good Blast 4",
@@ -407,204 +925,472 @@
       "Godly Wrath",
       "Cold Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Holy Burst 4",
+      "Good Blast 4",
+      "Coruscating 4",
+      "Godly Wrath",
+      "Cold Iron"
+    ],
+    "itemKey": "item:epic_templar's_retribution",
+    "setMembership": []
   },
   {
     "name": "Epic Sworn Silver Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Bastard_Sword",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Unnatural Bane 4",
       "Destruction",
       "Righteous",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Epic Ethereal Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Bastard_Sword",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Impactful 4",
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Drow Bastard Sword of the Weapon Master",
     "link": "https://ddowiki.com/page/Item:Drow_Bastard_Sword_of_the_Weapon_Master",
-    "minLevel": "21",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 21,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Maiming",
+      "Random effect:",
       "Insightful Combat Mastery +5",
       "Shatter +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "Random effect:",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "itemKey": "item:drow_bastard_sword_of_the_weapon_master",
+    "setMembership": []
   },
   {
     "name": "Epic Cutting Currency",
     "link": "https://ddowiki.com/page/Item:Epic_Cutting_Currency",
-    "minLevel": "21",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 21,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Transmuted Platinum (Epic)",
       "Bludgeoning 5",
       "Metalline",
       "Gashing 11",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Transmuted Platinum (Epic)",
+      "Bludgeoning 5",
+      "Metalline",
+      "Gashing 11"
+    ],
+    "itemKey": "item:epic_cutting_currency",
+    "setMembership": []
   },
   {
     "name": "Thunder-Forged Alloy Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Bastard_Sword",
-    "minLevel": "22",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 22,
+    "effectsRaw": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Charoush's Inferno (level 23)",
     "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(level_23)",
-    "minLevel": "23",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 23,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Conflagrating",
       "Incineration"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Conflagrating",
+      "Incineration"
+    ],
+    "itemKey": "item:charoush's_inferno_(level_23)",
+    "setMembership": []
   },
   {
     "name": "Nightmare, the Fallen Moon",
     "link": "https://ddowiki.com/page/Item:Nightmare,_the_Fallen_Moon",
-    "minLevel": "23",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 23,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Keen",
       "Entropic",
       "Life Stealing",
       "Vampirism",
       "Nightmares",
-      "Attuned to Heroism"
-    ]
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Keen",
+      "Entropic",
+      "Life Stealing",
+      "Vampirism",
+      "Nightmares",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "itemKey": "item:nightmare,_the_fallen_moon",
+    "setMembership": []
   },
   {
     "name": "Charoush's Inferno (level 24)",
     "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 24,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Conflagrating",
       "Greater Incineration"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Conflagrating",
+      "Greater Incineration"
+    ],
+    "itemKey": "item:charoush's_inferno_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Charoush's Inferno (level 25)",
     "link": "https://ddowiki.com/page/Item:Charoush%27s_Inferno_(level_25)",
-    "minLevel": "25",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 25,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Conflagrating",
       "Greater Incineration",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Conflagrating",
+      "Greater Incineration"
+    ],
+    "itemKey": "item:charoush's_inferno_(level_25)",
+    "setMembership": []
   },
   {
     "name": "First Blood (level 25)",
     "link": "https://ddowiki.com/page/Item:First_Blood_(level_25)",
-    "minLevel": "25",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 25,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Bloodletter VII",
       "Doublestrike 13%",
       "Keen"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Bloodletter VII",
+      "Doublestrike 13%",
+      "Keen"
+    ],
+    "itemKey": "item:first_blood_(level_25)",
+    "setMembership": []
   },
   {
     "name": "Epic Spinal Tap",
     "link": "https://ddowiki.com/page/Item:Epic_Spinal_Tap",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 26,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Greater Human Bane",
       "Greater Bleeding",
       "Greater Puncturing",
       "Greater Wounding",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Greater Human Bane",
+      "Greater Bleeding",
+      "Greater Puncturing",
+      "Greater Wounding"
+    ],
+    "itemKey": "item:epic_spinal_tap",
+    "setMembership": []
   },
   {
     "name": "First Blood (level 26)",
     "link": "https://ddowiki.com/page/Item:First_Blood_(level_26)",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 26,
+    "effectsRaw": [
       "+8 Enhancement Bonus",
       "Bloodletter VII",
       "Doublestrike 14%",
       "Keen"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+8 Enhancement Bonus",
+      "Bloodletter VII",
+      "Doublestrike 14%",
+      "Keen"
+    ],
+    "itemKey": "item:first_blood_(level_26)",
+    "setMembership": []
   },
   {
     "name": "Legendary Green Steel Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Bastard_Sword",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 26,
+    "effectsRaw": [
       "+14 Enhancement Bonus",
       "Legendary Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "First Blood (level 27)",
     "link": "https://ddowiki.com/page/Item:First_Blood_(level_27)",
-    "minLevel": "27",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 27,
+    "effectsRaw": [
       "+8 Enhancement Bonus",
       "Bloodletter VII",
       "Doublestrike 15%",
       "Keen"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+8 Enhancement Bonus",
+      "Bloodletter VII",
+      "Doublestrike 15%",
+      "Keen"
+    ],
+    "itemKey": "item:first_blood_(level_27)",
+    "setMembership": []
   },
   {
     "name": "Legendary Wave of Despair",
     "link": "https://ddowiki.com/page/Item:Legendary_Wave_of_Despair",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 28,
+    "effectsRaw": [
       "+13 Enhancement Bonus",
       "Echoes of Angdrelve 6",
       "Wounding 3",
       "Anarchic 6",
       "Slay Living",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+13 Enhancement Bonus",
+      "Echoes of Angdrelve 6",
+      "Wounding 3",
+      "Anarchic 6",
+      "Slay Living"
+    ],
+    "itemKey": "item:legendary_wave_of_despair",
+    "setMembership": []
   },
   {
     "name": "Divinity, the Morninglord's Goal",
     "link": "https://ddowiki.com/page/Item:Divinity,_the_Morninglord%27s_Goal",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 28,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Holy 6",
       "Axiomatic 6",
       "Cold Iron",
       "Ghostbane 6",
-      "Coruscating 6",
-      "Metalline",
+      "Coruscating 6 (if Paladin)",
+      "Metalline (if Paladin 20)",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Holy 6",
+      "Axiomatic 6",
+      "Cold Iron",
+      "Ghostbane 6",
+      "Coruscating 6 (if Paladin)",
+      "Metalline (if Paladin 20)"
+    ],
+    "itemKey": "item:divinity,_the_morninglord's_goal",
+    "setMembership": []
   },
   {
     "name": "Soul's Sorrow",
     "link": "https://ddowiki.com/page/Item:Soul%27s_Sorrow",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 28,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Thorny Crown of Madness 6",
       "Echoes of Angdrelve 6",
@@ -612,37 +1398,88 @@
       "Legendary Slay Living",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [
+      "Legendary Slay Living"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Thorny Crown of Madness 6",
+      "Echoes of Angdrelve 6",
+      "Wounding 3"
+    ],
+    "itemKey": "item:soul's_sorrow",
+    "setMembership": []
   },
   {
     "name": "The Shattered Hilt of Constellation",
     "link": "https://ddowiki.com/page/Item:The_Shattered_Hilt_of_Constellation",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Nearly Finished",
+      "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon"
+    ],
+    "itemKey": "item:the_shattered_hilt_of_constellation",
+    "setMembership": []
   },
   {
     "name": "Legendary Ferrocrystal Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Bastard_Sword",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Feybane 6",
       "Improved Destruction",
       "Maiming 6",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "The Bitter Blade",
     "link": "https://ddowiki.com/page/Item:The_Bitter_Blade",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Royalty's Frigid Response",
       "Frostbite",
@@ -650,92 +1487,210 @@
       "Icy Blast 6",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Royalty's Frigid Response",
+      "Frostbite",
+      "Keen",
+      "Icy Blast 6"
+    ],
+    "itemKey": "item:the_bitter_blade",
+    "setMembership": []
   },
   {
     "name": "Morninglord's Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Morninglord%27s_Bastard_Sword",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Nightmother's Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Nightmother%27s_Bastard_Sword",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Legendary Syranian Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Bastard_Sword",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Electrifying 6",
       "Holy 6",
       "Construct Bane 6",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Legendary Flamesalt Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Bastard_Sword",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Chilling 6",
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Legendary Chimera's Fang",
     "link": "https://ddowiki.com/page/Item:Legendary_Chimera%27s_Fang",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 30,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Keen",
       "Improved Destruction",
       "Shocking Blast 6",
       "Shatter +15",
       "Utter Disintegration",
-      "Legendary Chimera's Ferocity",
-      "Dragonmark",
-      "Insightful Fortification  +73%",
-      "Competence Healing Amplification +54",
-      "Repair Amplification +54",
-      "Resistance +11",
-      "Shield +13",
-      "Incite +124",
-      "Lesser Displacement",
-      "Electric Absorption +35%",
-      "Spell Resistance +39",
-      "Silver",
+      "Legendary Chimera's Ferocity If you have a Dragonmark, you get Exotic Weapon Proficiency: Bastard Sword and one of the following: Mark of Finding: Insightful Fortification +73% Mark of Healing: Competence Healing Amplification +54 Mark of Making: Repair Amplification +54 Mark of Passage: Resistance +11 Mark of Scribing: Shield +13 Mark of Sentinel: Incite +124 Mark of Shadow: Lesser Displacement Mark of Storm: Electric Absorption +35% and Whirlwind Ward Mark of Warding: Spell Resistance +39",
+      "If you have a Dragonmark, you get Exotic Weapon Proficiency: Bastard Sword and one of the following: Mark of Finding: Insightful Fortification +73% Mark of Healing: Competence Healing Amplification +54 Mark of Making: Repair Amplification +54 Mark of Passage: Resistance +11 Mark of Scribing: Shield +13 Mark of Sentinel: Incite +124 Mark of Shadow: Lesser Displacement Mark of Storm: Electric Absorption +35% and Whirlwind Ward Mark of Warding: Spell Resistance +39",
+      "Mark of Finding: Insightful Fortification +73%",
+      "Mark of Healing: Competence Healing Amplification +54",
+      "Mark of Making: Repair Amplification +54",
+      "Mark of Passage: Resistance +11",
+      "Mark of Scribing: Shield +13",
+      "Mark of Sentinel: Incite +124",
+      "Mark of Shadow: Lesser Displacement",
+      "Mark of Storm: Electric Absorption +35% and Whirlwind Ward",
+      "Mark of Warding: Spell Resistance +39",
+      "Silver , Alchemical",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [
+      "Legendary Chimera's Ferocity If you have a Dragonmark, you get Exotic Weapon Proficiency: Bastard Sword and one of the following: Mark of Finding: Insightful Fortification +73% Mark of Healing: Competence Healing Amplification +54 Mark of Making: Repair Amplification +54 Mark of Passage: Resistance +11 Mark of Scribing: Shield +13 Mark of Sentinel: Incite +124 Mark of Shadow: Lesser Displacement Mark of Storm: Electric Absorption +35% and Whirlwind Ward Mark of Warding: Spell Resistance +39"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Improved Destruction",
+      "Shocking Blast 6",
+      "Shatter +15",
+      "Utter Disintegration",
+      "If you have a Dragonmark, you get Exotic Weapon Proficiency: Bastard Sword and one of the following: Mark of Finding: Insightful Fortification +73% Mark of Healing: Competence Healing Amplification +54 Mark of Making: Repair Amplification +54 Mark of Passage: Resistance +11 Mark of Scribing: Shield +13 Mark of Sentinel: Incite +124 Mark of Shadow: Lesser Displacement Mark of Storm: Electric Absorption +35% and Whirlwind Ward Mark of Warding: Spell Resistance +39",
+      "Mark of Finding: Insightful Fortification +73%",
+      "Mark of Healing: Competence Healing Amplification +54",
+      "Mark of Making: Repair Amplification +54",
+      "Mark of Passage: Resistance +11",
+      "Mark of Scribing: Shield +13",
+      "Mark of Sentinel: Incite +124",
+      "Mark of Shadow: Lesser Displacement",
+      "Mark of Storm: Electric Absorption +35% and Whirlwind Ward",
+      "Mark of Warding: Spell Resistance +39",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:legendary_chimera's_fang",
+    "setMembership": []
   },
   {
     "name": "Legendary Templar's Retribution",
     "link": "https://ddowiki.com/page/Item:Legendary_Templar%27s_Retribution",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 30,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Holy Burst 6",
       "Good Blast 6",
@@ -743,13 +1698,31 @@
       "Godly Wrath",
       "Cold Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Holy Burst 6",
+      "Good Blast 6",
+      "Coruscating 6",
+      "Godly Wrath",
+      "Cold Iron"
+    ],
+    "itemKey": "item:legendary_templar's_retribution",
+    "setMembership": []
   },
   {
     "name": "Legendary Thirteen",
     "link": "https://ddowiki.com/page/Item:Legendary_Thirteen",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Aligned",
       "Metalline",
@@ -760,13 +1733,34 @@
       "Blue Augment Slot",
       "Purple Augment Slot",
       "Colorless Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green",
+      "Blue",
+      "Purple",
+      "Colorless"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Aligned",
+      "Metalline"
+    ],
+    "itemKey": "item:legendary_thirteen",
+    "setMembership": []
   },
   {
     "name": "Dinosaur Bone Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Bastard_Sword",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -774,13 +1768,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:dinosaur_bone_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Attuned Bone Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Attuned_Bone_Bastard_Sword",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -788,13 +1800,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:attuned_bone_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Legendary Shining Reliquary Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Bastard_Sword",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 6",
@@ -802,13 +1832,31 @@
       "Evil Outsider Bane 6",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Ignition, the Fear and Flame",
     "link": "https://ddowiki.com/page/Item:Ignition,_the_Fear_and_Flame",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Identity Crisis",
       "Legendary Paralysis",
@@ -817,13 +1865,300 @@
       "Planar Searing",
       "Orange Augment Slot",
       "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Paralysis",
+      "Legendary Slay Living",
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 3,
+        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Attack and Damage"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane Bonus to Attack and Damage"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane Bonus to Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to Spell DCs"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Identity Crisis",
+      "Flaming Blast 7",
+      "Planar Searing"
+    ],
+    "itemKey": "item:ignition,_the_fear_and_flame",
+    "setMembership": [
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 61,
+        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Attack and Damage"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane Bonus to Attack and Damage"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane Bonus to Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to Spell DCs"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Legendary Defiled Reliquary Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Bastard_Sword",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 6",
@@ -832,13 +2167,33 @@
       "Taint of Evil",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Legendary Bastard Sword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Bastard_Sword_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Anarchic Blast 7",
       "Anarchic 7",
@@ -846,13 +2201,31 @@
       "Keen",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_bastard_sword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Bastard Sword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Bastard_Sword_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Force Blast 7",
       "Impactful 7",
@@ -860,13 +2233,31 @@
       "Entropic 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_bastard_sword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Bastard Sword of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Bastard_Sword_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Dripping with Magma",
       "3rd Degree Burns",
@@ -874,13 +2265,31 @@
       "Sealed in Fire",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:bastard_sword_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Calamitous Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Bastard_Sword",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -888,13 +2297,31 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_calamitous_bastard_sword",
+    "setMembership": []
   },
   {
     "name": "Legendary Cataclysmic Bastard Sword",
     "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Bastard_Sword",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "bastard_sword",
+    "handedness": "one_handed",
+    "category": "Bastard Swords",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -902,6 +2329,20 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_cataclysmic_bastard_sword",
+    "setMembership": []
   }
 ]

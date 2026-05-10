@@ -2,372 +2,867 @@
   {
     "name": "Bow of the Jade Elf",
     "link": "https://ddowiki.com/page/Item:Bow_of_the_Jade_Elf",
-    "minLevel": "1",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 1,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Dexterity +6",
       "Keen",
       "Ranged Alacrity 10%",
-      "Feat",
+      "Feat: Precise Shot",
       "Sneak Attack Bonus +5",
       "Deception",
       "Striding +25%"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Dexterity +6",
+      "Keen",
+      "Ranged Alacrity 10%",
+      "Feat: Precise Shot",
+      "Sneak Attack Bonus +5",
+      "Deception",
+      "Striding +25%"
+    ],
+    "itemKey": "item:bow_of_the_jade_elf",
+    "setMembership": []
   },
   {
     "name": "Ember Longbow",
     "link": "https://ddowiki.com/page/Item:Ember_Longbow",
-    "minLevel": "1",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 1,
+    "effectsRaw": [
       "Masterwork",
       "Fire Touch",
       "Starter"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ],
+    "itemKey": "item:ember_longbow",
+    "setMembership": []
   },
   {
     "name": "Moldy Longbow",
     "link": "https://ddowiki.com/page/Item:Moldy_Longbow",
-    "minLevel": "1",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 1,
+    "effectsRaw": [
       "Starter"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Starter"
+    ],
+    "itemKey": "item:moldy_longbow",
+    "setMembership": []
   },
   {
     "name": "Cloven-jaw Longbow",
     "link": "https://ddowiki.com/page/Item:Cloven-jaw_Longbow",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 2,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Force",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Force"
+    ],
+    "itemKey": "item:cloven-jaw_longbow",
+    "setMembership": []
   },
   {
     "name": "Guardkiller Bow",
     "link": "https://ddowiki.com/page/Item:Guardkiller_Bow",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 2,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Lesser Human Bane",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Lesser Human Bane"
+    ],
+    "itemKey": "item:guardkiller_bow",
+    "setMembership": []
   },
   {
     "name": "Nicked Longbow",
     "link": "https://ddowiki.com/page/Item:Nicked_Longbow",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 2,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Electrifying 2",
       "Seeker +3",
       "Deadly +3"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Electrifying 2",
+      "Seeker +3",
+      "Deadly +3"
+    ],
+    "itemKey": "item:nicked_longbow",
+    "setMembership": []
   },
   {
     "name": "+1 Starter Longbow",
     "link": "https://ddowiki.com/page/Item:%2B1_Starter_Longbow",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Starter"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Starter"
+    ],
+    "itemKey": "item:+1_starter_longbow",
+    "setMembership": []
   },
   {
     "name": "Zaramang's Longbow",
     "link": "https://ddowiki.com/page/Item:Zaramang%27s_Longbow",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 2,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Lesser Halfling Bane",
       "Lesser Dwarf Bane",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Lesser Halfling Bane",
+      "Lesser Dwarf Bane"
+    ],
+    "itemKey": "item:zaramang's_longbow",
+    "setMembership": []
   },
   {
     "name": "Ethereal Longbow",
     "link": "https://ddowiki.com/page/Item:Ethereal_Longbow",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_longbow",
+    "setMembership": []
   },
   {
     "name": "Sworn Silver Longbow",
     "link": "https://ddowiki.com/page/Item:Sworn_Silver_Longbow",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_longbow",
+    "setMembership": []
   },
   {
     "name": "Lumric's Longbow",
     "link": "https://ddowiki.com/page/Item:Lumric%27s_Longbow",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 4,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Ghost Touch",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:lumric's_longbow",
+    "setMembership": []
   },
   {
     "name": "Elemental Longbow of Earth (level 4)",
     "link": "https://ddowiki.com/page/Item:Elemental_Longbow_of_Earth_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 4,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Acid",
       "Acid Resistance +11"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Acid",
+      "Acid Resistance +11"
+    ],
+    "itemKey": "item:elemental_longbow_of_earth_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Greatbow of the Scrag",
     "link": "https://ddowiki.com/page/Item:Greatbow_of_the_Scrag",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 4,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Blunted Ammunition",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Blunted Ammunition"
+    ],
+    "itemKey": "item:greatbow_of_the_scrag",
+    "setMembership": []
   },
   {
     "name": "Calomel Strung Long Bow (level 4)",
     "link": "https://ddowiki.com/page/Item:Calomel_Strung_Long_Bow_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 4,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Dragon Bane 2",
       "Tidal"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Dragon Bane 2",
+      "Tidal"
+    ],
+    "itemKey": "item:calomel_strung_long_bow_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Spectral Longbow (level 4)",
     "link": "https://ddowiki.com/page/Item:Spectral_Longbow_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 4,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Ghostbane 2",
       "Evil Outsider Bane 2",
       "Crushing 4"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Crushing 4"
+    ],
+    "itemKey": "item:spectral_longbow_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Ship-Siege Bow (level 4)",
     "link": "https://ddowiki.com/page/Item:Ship-Siege_Bow_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 4,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Fiery 2",
       "Construct Bane 2",
       "Destruction",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Fiery 2",
+      "Construct Bane 2",
+      "Destruction",
+      "Keen"
+    ],
+    "itemKey": "item:ship-siege_bow_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Cheap Shot (level 5)",
     "link": "https://ddowiki.com/page/Item:Cheap_Shot_(level_5)",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Poisonous 2",
       "Critical Befouling 1",
       "Doubleshot 3%",
       "Keen",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Poisonous 2",
+      "Critical Befouling 1",
+      "Doubleshot 3%",
+      "Keen"
+    ],
+    "itemKey": "item:cheap_shot_(level_5)",
+    "setMembership": []
   },
   {
     "name": "Ferrocrystal Longbow",
     "link": "https://ddowiki.com/page/Item:Ferrocrystal_Longbow",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Feybane 2",
       "Destruction",
       "Maiming 2",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_longbow",
+    "setMembership": []
   },
   {
     "name": "Flamesalt Longbow",
     "link": "https://ddowiki.com/page/Item:Flamesalt_Longbow",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 5,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Chilling 2",
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_longbow",
+    "setMembership": []
   },
   {
     "name": "Serpentbranch",
     "link": "https://ddowiki.com/page/Item:Serpentbranch",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 6,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Poisonous 2",
       "Proof Against Poison +6",
       "Purple Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Poisonous 2",
+      "Proof Against Poison +6"
+    ],
+    "itemKey": "item:serpentbranch",
+    "setMembership": []
   },
   {
     "name": "Giant's Roar",
     "link": "https://ddowiki.com/page/Item:Giant%27s_Roar",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 6,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Screaming",
       "Roaring",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Screaming",
+      "Roaring"
+    ],
+    "itemKey": "item:giant's_roar",
+    "setMembership": []
   },
   {
     "name": "Ghostbane Longbow",
     "link": "https://ddowiki.com/page/Item:Ghostbane_Longbow",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 6,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Ghost Touch",
       "Undead Bane",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Ghost Touch",
+      "Undead Bane"
+    ],
+    "itemKey": "item:ghostbane_longbow",
+    "setMembership": []
   },
   {
     "name": "Shadowstrike",
     "link": "https://ddowiki.com/page/Item:Shadowstrike",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 6,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Unholy 2",
       "Distant Diversion +6%",
       "Disintegration",
       "Cold Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Unholy 2",
+      "Distant Diversion +6%",
+      "Disintegration",
+      "Cold Iron"
+    ],
+    "itemKey": "item:shadowstrike",
+    "setMembership": []
   },
   {
     "name": "Shatterbow",
     "link": "https://ddowiki.com/page/Item:Shatterbow",
-    "minLevel": "7",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 7,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Reverberating 2",
       "Construct Bane 2",
       "Armor-Piercing 7%"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Reverberating 2",
+      "Construct Bane 2",
+      "Armor-Piercing 7%"
+    ],
+    "itemKey": "item:shatterbow",
+    "setMembership": []
   },
   {
     "name": "Dampened Shatterbow",
     "link": "https://ddowiki.com/page/Item:Dampened_Shatterbow",
-    "minLevel": "7",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 7,
+    "effectsRaw": [
       "Dampened",
       "+1 Enhancement Bonus",
       "Screaming",
       "Construct Bane",
       "Move Silently -5"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Dampened",
+      "+1 Enhancement Bonus",
+      "Screaming",
+      "Construct Bane",
+      "Move Silently -5"
+    ],
+    "itemKey": "item:dampened_shatterbow",
+    "setMembership": []
   },
   {
     "name": "Sapphire Sting",
     "link": "https://ddowiki.com/page/Item:Sapphire_Sting",
-    "minLevel": "7",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 7,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Lesser Human Bane",
       "Destruction",
       "Maiming",
       "Ranged Alacrity 10%",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Lesser Human Bane",
+      "Destruction",
+      "Maiming",
+      "Ranged Alacrity 10%"
+    ],
+    "itemKey": "item:sapphire_sting",
+    "setMembership": []
   },
   {
     "name": "Silver Longbow",
     "link": "https://ddowiki.com/page/Item:Silver_Longbow",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 8,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Holy",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Holy"
+    ],
+    "itemKey": "item:silver_longbow",
+    "setMembership": []
   },
   {
     "name": "Elemental Longbow of Earth (level 8)",
     "link": "https://ddowiki.com/page/Item:Elemental_Longbow_of_Earth_(level_8)",
-    "minLevel": "8",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 8,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:elemental_longbow_of_earth_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Calomel Strung Long Bow (level 8)",
     "link": "https://ddowiki.com/page/Item:Calomel_Strung_Long_Bow_(level_8)",
-    "minLevel": "8",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 8,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:calomel_strung_long_bow_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Spectral Longbow (level 8)",
     "link": "https://ddowiki.com/page/Item:Spectral_Longbow_(level_8)",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 8,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Ghostbane 2",
       "Evil Outsider Bane 2",
       "Vorpal",
       "Crushing 6"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Vorpal",
+      "Crushing 6"
+    ],
+    "itemKey": "item:spectral_longbow_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Ship-Siege Bow (level 8)",
     "link": "https://ddowiki.com/page/Item:Ship-Siege_Bow_(level_8)",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 8,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Fiery 2",
       "Construct Bane 2",
       "Destruction",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Fiery 2",
+      "Construct Bane 2",
+      "Destruction",
+      "Keen"
+    ],
+    "itemKey": "item:ship-siege_bow_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Calamitous Longbow",
     "link": "https://ddowiki.com/page/Item:Calamitous_Longbow",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
       "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)"
+    ],
+    "itemKey": "item:calamitous_longbow",
+    "setMembership": []
   },
   {
     "name": "Inferno Sniper",
     "link": "https://ddowiki.com/page/Item:Inferno_Sniper",
-    "minLevel": "9",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 9,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Blinding Embers",
       "Fiery 3",
       "Fire Vulnerability",
       "Aligned",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Blinding Embers",
+      "Fiery 3",
+      "Fire Vulnerability",
+      "Aligned"
+    ],
+    "itemKey": "item:inferno_sniper",
+    "setMembership": []
   },
   {
     "name": "Bow of the Elements (Air)",
     "link": "https://ddowiki.com/page/Item:Bow_of_the_Elements_(Air)",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 10,
+    "effectsRaw": [
       "Spellcasting Implement +15",
       "+5 Enhancement Bonus",
       "Lightning Strike",
@@ -375,444 +870,1571 @@
       "Lightning Lore +11%",
       "Magnetism +77",
       "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      {
+        "setId": "the_desert_s_writhing_storm",
+        "setName": "The Desert's Writhing Storm",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
+        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2%",
+            "effect": "Artifact bonus to Electric Spellcrit Chance"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+4%",
+            "effect": "Artifact bonus to Electric Spellcrit Chance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+6%",
+            "effect": "Artifact bonus to Electric Spellcrit Chance"
+          }
+        ]
+      },
+      {
+        "setId": "the_desert_s_writhing_storm",
+        "setName": "The Desert's Writhing Storm",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
+        "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Electric Spellpower"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Electric Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Electric Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_desert_s_writhing_storm",
+        "setName": "The Desert's Writhing Storm",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Magical Resistance Rating"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Magical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Magical Resistance Rating"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Lightning Strike",
+      "Shocking Blast 3",
+      "Lightning Lore +11%",
+      "Magnetism +77"
+    ],
+    "itemKey": "item:bow_of_the_elements_(air)",
+    "setMembership": [
+      {
+        "setId": "the_desert_s_writhing_storm",
+        "setName": "The Desert's Writhing Storm",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 11,
+        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Electric Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
+            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2%",
+                "effect": "Artifact bonus to Electric Spellcrit Chance"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+4%",
+                "effect": "Artifact bonus to Electric Spellcrit Chance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+6%",
+                "effect": "Artifact bonus to Electric Spellcrit Chance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
+            "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Electric Spellpower"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Electric Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Electric Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Magical Resistance Rating"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Magical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Magical Resistance Rating"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Thornlord",
     "link": "https://ddowiki.com/page/Item:Thornlord",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Armor-Piercing 9%",
       "Piercing 3",
       "Insightful Doubleshot 2%",
       "Insightful Distant Diversion +4%",
       "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      {
+        "setId": "menechtarun_scavenger",
+        "setName": "Menechtarun Scavenger",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR",
+        "effectRaw": "♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
+          }
+        ]
+      },
+      {
+        "setId": "menechtarun_scavenger",
+        "setName": "Menechtarun Scavenger",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
+        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Armor-Piercing 9%",
+      "Piercing 3",
+      "Insightful Doubleshot 2%",
+      "Insightful Distant Diversion +4%"
+    ],
+    "itemKey": "item:thornlord",
+    "setMembership": [
+      {
+        "setId": "menechtarun_scavenger",
+        "setName": "Menechtarun Scavenger",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 9,
+        "bonusRaw": "2 Pieces Equipped: ♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR ♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR",
+            "effectRaw": "♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
+            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Cheap Shot (level 10)",
     "link": "https://ddowiki.com/page/Item:Cheap_Shot_(level_10)",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 10,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Poisonous 3",
       "Critical Befouling 2",
       "Doubleshot 4%",
       "Keen",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Poisonous 3",
+      "Critical Befouling 2",
+      "Doubleshot 4%",
+      "Keen"
+    ],
+    "itemKey": "item:cheap_shot_(level_10)",
+    "setMembership": []
   },
   {
     "name": "Barovian's Longbow",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Longbow",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_longbow",
+    "setMembership": []
   },
   {
     "name": "Macabre Longbow",
     "link": "https://ddowiki.com/page/Item:Macabre_Longbow",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_longbow",
+    "setMembership": []
   },
   {
     "name": "Bloody War Bow",
     "link": "https://ddowiki.com/page/Item:Bloody_War_Bow",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Crippling",
-      "Feat",
+      "Feat: Bow Strength",
       "Monstrous Humanoid Bane 3",
       "Life Shield (Weapon)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Crippling",
+      "Feat: Bow Strength",
+      "Monstrous Humanoid Bane 3",
+      "Life Shield (Weapon)"
+    ],
+    "itemKey": "item:bloody_war_bow",
+    "setMembership": []
   },
   {
     "name": "Gnollish War Bow",
     "link": "https://ddowiki.com/page/Item:Gnollish_War_Bow",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Crippling",
-      "Feat",
+      "Feat: Bow Strength",
       "Monstrous Humanoid Bane 3",
       "Malleable"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Crippling",
+      "Feat: Bow Strength",
+      "Monstrous Humanoid Bane 3",
+      "Malleable"
+    ],
+    "itemKey": "item:gnollish_war_bow",
+    "setMembership": []
   },
   {
     "name": "Bow of the Elements (Ice)",
     "link": "https://ddowiki.com/page/Item:Bow_of_the_Elements_(Ice)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Icy Burst",
-      "Feat",
+      "Feat: Precise Shot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Icy Burst",
+      "Feat: Precise Shot"
+    ],
+    "itemKey": "item:bow_of_the_elements_(ice)",
+    "setMembership": []
   },
   {
     "name": "Destructive War Bow",
     "link": "https://ddowiki.com/page/Item:Destructive_War_Bow",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Crippling",
-      "Feat",
+      "Feat: Bow Strength",
       "Monstrous Humanoid Bane 3",
       "Destruction",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Crippling",
+      "Feat: Bow Strength",
+      "Monstrous Humanoid Bane 3",
+      "Destruction"
+    ],
+    "itemKey": "item:destructive_war_bow",
+    "setMembership": []
   },
   {
     "name": "Tortured Livewood Bow (historic)",
     "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(historic)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Acid Arrow"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Acid Arrow"
+    ],
+    "itemKey": "item:tortured_livewood_bow_(historic)",
+    "setMembership": []
   },
   {
     "name": "Petrifying War Bow",
     "link": "https://ddowiki.com/page/Item:Petrifying_War_Bow",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Crippling",
-      "Feat",
+      "Feat: Bow Strength",
       "Monstrous Humanoid Bane 3",
       "Stone Prison",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Crippling",
+      "Feat: Bow Strength",
+      "Monstrous Humanoid Bane 3",
+      "Stone Prison"
+    ],
+    "itemKey": "item:petrifying_war_bow",
+    "setMembership": []
   },
   {
     "name": "Green Steel Longbow",
     "link": "https://ddowiki.com/page/Item:Green_Steel_Longbow",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_longbow",
+    "setMembership": []
   },
   {
     "name": "Infectious War Bow",
     "link": "https://ddowiki.com/page/Item:Infectious_War_Bow",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Crippling",
-      "Feat",
+      "Feat: Bow Strength",
       "Monstrous Humanoid Bane 3",
       "Demon Fever",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Crippling",
+      "Feat: Bow Strength",
+      "Monstrous Humanoid Bane 3",
+      "Demon Fever"
+    ],
+    "itemKey": "item:infectious_war_bow",
+    "setMembership": []
   },
   {
     "name": "Alchemical Longbow",
     "link": "https://ddowiki.com/page/Item:Alchemical_Longbow",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_longbow",
+    "setMembership": []
   },
   {
     "name": "Elemental Longbow of Earth (level 12)",
     "link": "https://ddowiki.com/page/Item:Elemental_Longbow_of_Earth_(level_12)",
-    "minLevel": "12",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:elemental_longbow_of_earth_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Tortured Livewood Bow (level 12)",
     "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Acid Arrow"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Acid Arrow"
+    ],
+    "itemKey": "item:tortured_livewood_bow_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Calomel Strung Long Bow (level 12)",
     "link": "https://ddowiki.com/page/Item:Calomel_Strung_Long_Bow_(level_12)",
-    "minLevel": "12",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:calomel_strung_long_bow_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Ship-Siege Bow (level 12)",
     "link": "https://ddowiki.com/page/Item:Ship-Siege_Bow_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Fiery 3",
       "Construct Bane 3",
       "Destruction",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Fiery 3",
+      "Construct Bane 3",
+      "Destruction",
+      "Keen"
+    ],
+    "itemKey": "item:ship-siege_bow_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Spectral Longbow (level 12)",
     "link": "https://ddowiki.com/page/Item:Spectral_Longbow_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Ghostbane 3",
       "Evil Outsider Bane 3",
       "Vorpal",
       "Crushing 7"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Ghostbane 3",
+      "Evil Outsider Bane 3",
+      "Vorpal",
+      "Crushing 7"
+    ],
+    "itemKey": "item:spectral_longbow_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Tortured Livewood Bow (level 13)",
     "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(level_13)",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Acid Arrow"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Acid Arrow"
+    ],
+    "itemKey": "item:tortured_livewood_bow_(level_13)",
+    "setMembership": []
   },
   {
     "name": "Longbow of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Longbow_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Anarchic Blast 3",
       "Anarchic 3",
       "Aligned",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:longbow_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Longbow of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Longbow_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Force Blast 3",
       "Impactful 3",
       "Vorpal",
       "Entropic 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:longbow_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Unwavering Ardency",
     "link": "https://ddowiki.com/page/Item:Unwavering_Ardency",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 14,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Immunity to Fear",
       "Flaming Burst",
       "Smoke Screen",
       "Upgradeable Item (Black Abbot)"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Immunity to Fear",
+      "Flaming Burst",
+      "Smoke Screen",
+      "Upgradeable Item (Black Abbot)"
+    ],
+    "itemKey": "item:unwavering_ardency",
+    "setMembership": []
   },
   {
     "name": "Bow of Sinew",
     "link": "https://ddowiki.com/page/Item:Bow_of_Sinew",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Elasticity",
       "Stealth Strike",
       "Seeker +8",
       "Aligned",
       "Overfocus"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Elasticity",
+      "Stealth Strike",
+      "Seeker +8",
+      "Aligned",
+      "Overfocus"
+    ],
+    "itemKey": "item:bow_of_sinew",
+    "setMembership": []
   },
   {
     "name": "Tortured Livewood Bow (level 14)",
     "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(level_14)",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Acid Arrow",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Acid Arrow"
+    ],
+    "itemKey": "item:tortured_livewood_bow_(level_14)",
+    "setMembership": []
   },
   {
     "name": "Twisted Willow",
     "link": "https://ddowiki.com/page/Item:Twisted_Willow",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Keen",
       "Elasticity",
       "Poisonous 4",
       "Armor-Piercing 12%",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Keen",
+      "Elasticity",
+      "Poisonous 4",
+      "Armor-Piercing 12%"
+    ],
+    "itemKey": "item:twisted_willow",
+    "setMembership": []
   },
   {
     "name": "Cheap Shot (level 15)",
     "link": "https://ddowiki.com/page/Item:Cheap_Shot_(level_15)",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Poisonous 4",
       "Critical Befouling 2",
       "Doubleshot 5%",
       "Keen",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Poisonous 4",
+      "Critical Befouling 2",
+      "Doubleshot 5%",
+      "Keen"
+    ],
+    "itemKey": "item:cheap_shot_(level_15)",
+    "setMembership": []
   },
   {
     "name": "Syranian Longbow",
     "link": "https://ddowiki.com/page/Item:Syranian_Longbow",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Electrifying 4",
       "Holy 4",
       "Construct Bane 4",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_longbow",
+    "setMembership": []
   },
   {
     "name": "Bow of the Silver Flame",
     "link": "https://ddowiki.com/page/Item:Bow_of_the_Silver_Flame",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy Burst 4",
       "Undead Bane 4",
       "Weaken Undead",
       "Blunted Ammunition"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy Burst 4",
+      "Undead Bane 4",
+      "Weaken Undead",
+      "Blunted Ammunition"
+    ],
+    "itemKey": "item:bow_of_the_silver_flame",
+    "setMembership": []
   },
   {
     "name": "Elemental Longbow of Earth (level 16)",
     "link": "https://ddowiki.com/page/Item:Elemental_Longbow_of_Earth_(level_16)",
-    "minLevel": "16",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 16,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:elemental_longbow_of_earth_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Roadwatch Bow (level 16)",
     "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Axiomatic",
       "Aligned",
       "Heartseeker III"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Axiomatic",
+      "Aligned",
+      "Heartseeker III"
+    ],
+    "itemKey": "item:roadwatch_bow_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Calomel Strung Long Bow (level 16)",
     "link": "https://ddowiki.com/page/Item:Calomel_Strung_Long_Bow_(level_16)",
-    "minLevel": "16",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 16,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:calomel_strung_long_bow_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Spectral Longbow (level 16)",
     "link": "https://ddowiki.com/page/Item:Spectral_Longbow_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Ghostbane 4",
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 9"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 9"
+    ],
+    "itemKey": "item:spectral_longbow_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Ship-Siege Bow (level 16)",
     "link": "https://ddowiki.com/page/Item:Ship-Siege_Bow_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Fiery 4",
       "Construct Bane 4",
       "Destruction",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Fiery 4",
+      "Construct Bane 4",
+      "Destruction",
+      "Keen"
+    ],
+    "itemKey": "item:ship-siege_bow_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Roadwatch Bow (level 17)",
     "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(level_17)",
-    "minLevel": "17",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 17,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Axiomatic",
       "Aligned",
       "Heartseeker III"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Axiomatic",
+      "Aligned",
+      "Heartseeker III"
+    ],
+    "itemKey": "item:roadwatch_bow_(level_17)",
+    "setMembership": []
   },
   {
     "name": "Roadwatch Bow (level 18)",
     "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(level_18)",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Absolute Law",
       "Aligned",
       "Heartseeker IV"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Absolute Law",
+      "Aligned",
+      "Heartseeker IV"
+    ],
+    "itemKey": "item:roadwatch_bow_(level_18)",
+    "setMembership": []
   },
   {
     "name": "Shining Reliquary Longbow",
     "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Longbow",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_longbow",
+    "setMembership": []
   },
   {
     "name": "Defiled Reliquary Longbow",
     "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Longbow",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_longbow",
+    "setMembership": []
   },
   {
     "name": "First Course Finder",
     "link": "https://ddowiki.com/page/Item:First_Course_Finder",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Elasticity",
       "Corrosive Salt",
       "Fiery 4",
       "Animal Bane 4",
       "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 3,
+        "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+        "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+20",
+            "effect": "Artifact Bonus to Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Artifact Bonus to Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 3,
+        "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+        "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2%",
+            "effect": "Artifact Bonus to Spell Critical Chance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+6%",
+            "effect": "Artifact Bonus to Spell Critical Chance"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 3,
+        "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
+        "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Imbue Dice"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Imbue Dice"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 4,
+        "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Artifact Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Artifact Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 4,
+        "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+        "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5%",
+            "effect": "Legendary Bonus to Spell Critical Damage"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15%",
+            "effect": "Legendary Bonus to Spell Critical Damage"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Elasticity",
+      "Corrosive Salt",
+      "Fiery 4",
+      "Animal Bane 4"
+    ],
+    "itemKey": "item:first_course_finder",
+    "setMembership": [
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 8,
+        "bonusRaw": "3 Pieces Equipped: ♦+20★+25 Artifact Bonus to Universal Spell Power ♦+2%★+6% Artifact Bonus to Spell Critical Chance ♦+1★+3 Artifact Bonus to Imbue Dice 4 Pieces Equipped: ♦+5★+15 Artifact Bonus to Melee and Ranged Power ♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+            "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+20",
+                "effect": "Artifact Bonus to Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Artifact Bonus to Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+            "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2%",
+                "effect": "Artifact Bonus to Spell Critical Chance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+6%",
+                "effect": "Artifact Bonus to Spell Critical Chance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
+            "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Imbue Dice"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Imbue Dice"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Artifact Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Artifact Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+            "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5%",
+                "effect": "Legendary Bonus to Spell Critical Damage"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15%",
+                "effect": "Legendary Bonus to Spell Critical Damage"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Epic Thornlord",
     "link": "https://ddowiki.com/page/Item:Epic_Thornlord",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Armor-Piercing 15%",
       "Piercing 4",
@@ -820,13 +2442,31 @@
       "Insightful Distant Diversion +7%",
       "Colorless Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Colorless",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Armor-Piercing 15%",
+      "Piercing 4",
+      "Insightful Doubleshot 3%",
+      "Insightful Distant Diversion +7%"
+    ],
+    "itemKey": "item:epic_thornlord",
+    "setMembership": []
   },
   {
     "name": "Epic Shatterbow",
     "link": "https://ddowiki.com/page/Item:Epic_Shatterbow",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Improved Destruction",
       "Sonic Blast 4",
@@ -835,256 +2475,602 @@
       "Adamantine",
       "Move Silently -10",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Improved Destruction",
+      "Sonic Blast 4",
+      "Construct Bane 4",
+      "Armor-Piercing 15%",
+      "Adamantine",
+      "Move Silently -10"
+    ],
+    "itemKey": "item:epic_shatterbow",
+    "setMembership": []
   },
   {
     "name": "Epic Bow of the Elements (Air)",
     "link": "https://ddowiki.com/page/Item:Epic_Bow_of_the_Elements_(Air)",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 20,
+    "effectsRaw": [
       "Spellcasting Implement +20",
       "+6 Enhancement Bonus",
       "Lightning Strike",
       "Shocking Blast 4",
       "Lightning Lore +16%",
       "Magnetism +111",
-      "Whirlwind Absorption",
+      "Whirlwind Absorption - 20 Charges (Recharged/Day: 5)",
       "Colorless Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Colorless",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Lightning Strike",
+      "Shocking Blast 4",
+      "Lightning Lore +16%",
+      "Magnetism +111",
+      "Whirlwind Absorption - 20 Charges (Recharged/Day: 5)"
+    ],
+    "itemKey": "item:epic_bow_of_the_elements_(air)",
+    "setMembership": []
   },
   {
     "name": "Epic Elemental Longbow of Earth",
     "link": "https://ddowiki.com/page/Item:Epic_Elemental_Longbow_of_Earth",
-    "minLevel": "20",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 20,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:epic_elemental_longbow_of_earth",
+    "setMembership": []
   },
   {
     "name": "Epic Bow of the Silver Flame",
     "link": "https://ddowiki.com/page/Item:Epic_Bow_of_the_Silver_Flame",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Holy Burst 4",
       "Undead Bane 4",
       "Weaken Undead",
       "Blunted Ammunition",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Holy Burst 4",
+      "Undead Bane 4",
+      "Weaken Undead",
+      "Blunted Ammunition",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:epic_bow_of_the_silver_flame",
+    "setMembership": []
   },
   {
     "name": "Epic Calomel Long Bow",
     "link": "https://ddowiki.com/page/Item:Epic_Calomel_Long_Bow",
-    "minLevel": "20",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 20,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:epic_calomel_long_bow",
+    "setMembership": []
   },
   {
     "name": "Cheap Shot (level 20)",
     "link": "https://ddowiki.com/page/Item:Cheap_Shot_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Poisonous 4",
       "Critical Befouling 2",
       "Doubleshot 6%",
       "Keen",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Poisonous 4",
+      "Critical Befouling 2",
+      "Doubleshot 6%",
+      "Keen"
+    ],
+    "itemKey": "item:cheap_shot_(level_20)",
+    "setMembership": []
   },
   {
     "name": "Spectral Longbow (level 20)",
     "link": "https://ddowiki.com/page/Item:Spectral_Longbow_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Ghostbane 4",
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 10"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 10"
+    ],
+    "itemKey": "item:spectral_longbow_(level_20)",
+    "setMembership": []
   },
   {
     "name": "Epic Ship-Siege Bow (level 20)",
     "link": "https://ddowiki.com/page/Item:Epic_Ship-Siege_Bow_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Fiery 4",
       "Construct Bane 4",
       "Improved Destruction",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Fiery 4",
+      "Construct Bane 4",
+      "Improved Destruction",
+      "Keen"
+    ],
+    "itemKey": "item:epic_ship-siege_bow_(level_20)",
+    "setMembership": []
   },
   {
     "name": "Epic Sworn Silver Longbow",
     "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Longbow",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Unnatural Bane 4",
       "Destruction",
       "Righteous",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_longbow",
+    "setMembership": []
   },
   {
     "name": "Epic Ethereal Longbow",
     "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Longbow",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Impactful 4",
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_longbow",
+    "setMembership": []
   },
   {
     "name": "Epic Shadowstrike",
     "link": "https://ddowiki.com/page/Item:Epic_Shadowstrike",
-    "minLevel": "21",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 21,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Unholy 5",
-      "Distant  Diversion +15%",
+      "Distant Diversion +15%",
       "Disintegration",
       "Cold Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Unholy 5",
+      "Distant Diversion +15%",
+      "Disintegration",
+      "Cold Iron"
+    ],
+    "itemKey": "item:epic_shadowstrike",
+    "setMembership": []
   },
   {
     "name": "Thunder-Forged Alloy Longbow",
     "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Longbow",
-    "minLevel": "22",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 22,
+    "effectsRaw": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_longbow",
+    "setMembership": []
   },
   {
     "name": "Pinion, Cloud-piercer",
     "link": "https://ddowiki.com/page/Item:Pinion,_Cloud-piercer",
-    "minLevel": "23",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 23,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Ranged Alacrity 20%",
       "Shrieking",
       "Seeker +10",
-      "Attuned to Heroism"
-    ]
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Ranged Alacrity 20%",
+      "Shrieking",
+      "Seeker +10",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "itemKey": "item:pinion,_cloud-piercer",
+    "setMembership": []
   },
   {
     "name": "Roadwatch Bow (level 23)",
     "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(level_23)",
-    "minLevel": "23",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 23,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Absolute Law",
       "Aligned",
       "Heartseeker V"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Absolute Law",
+      "Aligned",
+      "Heartseeker V"
+    ],
+    "itemKey": "item:roadwatch_bow_(level_23)",
+    "setMembership": []
   },
   {
     "name": "Tortured Livewood Bow (level 23)",
     "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(level_23)",
-    "minLevel": "23",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 23,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Greater Acid Arrow",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Greater Acid Arrow"
+    ],
+    "itemKey": "item:tortured_livewood_bow_(level_23)",
+    "setMembership": []
   },
   {
     "name": "Tortured Livewood Bow (level 24)",
     "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 24,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Superior Acid Arrow",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Superior Acid Arrow"
+    ],
+    "itemKey": "item:tortured_livewood_bow_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Roadwatch Bow (level 24)",
     "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 24,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Supreme Law",
       "Aligned",
       "Heartseeker V"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Supreme Law",
+      "Aligned",
+      "Heartseeker V"
+    ],
+    "itemKey": "item:roadwatch_bow_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Spectral Longbow (level 24)",
     "link": "https://ddowiki.com/page/Item:Spectral_Longbow_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 24,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Ghostbane 5",
       "Evil Outsider Bane 5",
       "Greater Vorpal",
       "Crushing 12"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Ghostbane 5",
+      "Evil Outsider Bane 5",
+      "Greater Vorpal",
+      "Crushing 12"
+    ],
+    "itemKey": "item:spectral_longbow_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Epic Ship-Siege Bow (level 24)",
     "link": "https://ddowiki.com/page/Item:Epic_Ship-Siege_Bow_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 24,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Fiery 5",
       "Construct Bane 5",
       "Improved Destruction",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Fiery 5",
+      "Construct Bane 5",
+      "Improved Destruction",
+      "Keen"
+    ],
+    "itemKey": "item:epic_ship-siege_bow_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Tortured Livewood Bow (level 25)",
     "link": "https://ddowiki.com/page/Item:Tortured_Livewood_Bow_(level_25)",
-    "minLevel": "25",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 25,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Sovereign Acid Arrow",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Sovereign Acid Arrow"
+    ],
+    "itemKey": "item:tortured_livewood_bow_(level_25)",
+    "setMembership": []
   },
   {
     "name": "Roadwatch Bow (level 25)",
     "link": "https://ddowiki.com/page/Item:Roadwatch_Bow_(level_25)",
-    "minLevel": "25",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 25,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Supreme Law",
       "Aligned",
       "Heartseeker VI"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Supreme Law",
+      "Aligned",
+      "Heartseeker VI"
+    ],
+    "itemKey": "item:roadwatch_bow_(level_25)",
+    "setMembership": []
   },
   {
     "name": "Cheap Shot (level 25)",
     "link": "https://ddowiki.com/page/Item:Cheap_Shot_(level_25)",
-    "minLevel": "25",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 25,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Poisonous 5",
       "Critical Befouling 3",
       "Doubleshot 7%",
       "Keen",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Poisonous 5",
+      "Critical Befouling 3",
+      "Doubleshot 7%",
+      "Keen"
+    ],
+    "itemKey": "item:cheap_shot_(level_25)",
+    "setMembership": []
   },
   {
     "name": "Epic Serpentbranch",
     "link": "https://ddowiki.com/page/Item:Epic_Serpentbranch",
-    "minLevel": "25",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 25,
+    "effectsRaw": [
       "+8 Enhancement Bonus",
       "Poisonous 5",
       "Toxic 12",
@@ -1092,49 +3078,115 @@
       "Proof Against Poison +6",
       "Purple Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+8 Enhancement Bonus",
+      "Poisonous 5",
+      "Toxic 12",
+      "Poison Resistance +44",
+      "Proof Against Poison +6"
+    ],
+    "itemKey": "item:epic_serpentbranch",
+    "setMembership": []
   },
   {
     "name": "Legendary Green Steel Longbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Longbow",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 26,
+    "effectsRaw": [
       "+14 Enhancement Bonus",
       "Legendary Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_longbow",
+    "setMembership": []
   },
   {
     "name": "Epic Sapphire Sting",
     "link": "https://ddowiki.com/page/Item:Epic_Sapphire_Sting",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 26,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Greater Human Bane",
       "Improved Destruction",
       "Greater Maiming",
       "Ranged Alacrity 20%",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Greater Human Bane",
+      "Improved Destruction",
+      "Greater Maiming",
+      "Ranged Alacrity 20%"
+    ],
+    "itemKey": "item:epic_sapphire_sting",
+    "setMembership": []
   },
   {
     "name": "Void, the Endless Cold",
     "link": "https://ddowiki.com/page/Item:Void,_the_Endless_Cold",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 28,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Frozen Aether",
       "Chilling 6",
       "Cold Vulnerability",
-      "Conjure Ice Arrow",
+      "Conjure Ice Arrow — 1 Charges (Recharged/Day:1)",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Frozen Aether",
+      "Chilling 6",
+      "Cold Vulnerability",
+      "Conjure Ice Arrow — 1 Charges (Recharged/Day:1)"
+    ],
+    "itemKey": "item:void,_the_endless_cold",
+    "setMembership": []
   },
   {
     "name": "Chaosbow",
     "link": "https://ddowiki.com/page/Item:Chaosbow",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 28,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Anarchic 6",
       "Fetters of Unreality",
@@ -1142,64 +3194,149 @@
       "Ranged Alacrity 20%",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic 6",
+      "Fetters of Unreality",
+      "Elasticity",
+      "Ranged Alacrity 20%"
+    ],
+    "itemKey": "item:chaosbow",
+    "setMembership": []
   },
   {
     "name": "Spectral Longbow (level 28)",
     "link": "https://ddowiki.com/page/Item:Spectral_Longbow_(level_28)",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 28,
+    "effectsRaw": [
       "+12 Enhancement Bonus",
       "Ghostbane 6",
       "Evil Outsider Bane 6",
       "Superior Vorpal",
       "Crushing 13"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 13"
+    ],
+    "itemKey": "item:spectral_longbow_(level_28)",
+    "setMembership": []
   },
   {
     "name": "Epic Ship-Siege Bow (level 28)",
     "link": "https://ddowiki.com/page/Item:Epic_Ship-Siege_Bow_(level_28)",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 28,
+    "effectsRaw": [
       "+12 Enhancement Bonus",
       "Fiery 6",
       "Construct Bane 6",
       "Improved Destruction",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Fiery 6",
+      "Construct Bane 6",
+      "Improved Destruction",
+      "Keen"
+    ],
+    "itemKey": "item:epic_ship-siege_bow_(level_28)",
+    "setMembership": []
   },
   {
     "name": "Legendary Inferno Sniper",
     "link": "https://ddowiki.com/page/Item:Legendary_Inferno_Sniper",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Legendary Blinding Embers",
       "Fiery 6",
       "Fire Vulnerability",
       "Aligned",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      "Legendary Blinding Embers"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Fiery 6",
+      "Fire Vulnerability",
+      "Aligned"
+    ],
+    "itemKey": "item:legendary_inferno_sniper",
+    "setMembership": []
   },
   {
     "name": "Legendary Twisted Willow",
     "link": "https://ddowiki.com/page/Item:Legendary_Twisted_Willow",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Keen",
       "Elasticity",
       "Poisonous 6",
       "Armor-Piercing 20%",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Elasticity",
+      "Poisonous 6",
+      "Armor-Piercing 20%"
+    ],
+    "itemKey": "item:legendary_twisted_willow",
+    "setMembership": []
   },
   {
     "name": "Aerania, the Boltbow",
     "link": "https://ddowiki.com/page/Item:Aerania,_the_Boltbow",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Alchemical Air Attunement",
       "Keen",
@@ -1207,105 +3344,243 @@
       "Ranged Alacrity 20%",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Alchemical Air Attunement",
+      "Keen",
+      "Elasticity",
+      "Ranged Alacrity 20%"
+    ],
+    "itemKey": "item:aerania,_the_boltbow",
+    "setMembership": []
   },
   {
     "name": "Morninglord's Longbow",
     "link": "https://ddowiki.com/page/Item:Morninglord%27s_Longbow",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_longbow",
+    "setMembership": []
   },
   {
     "name": "Nightmother's Longbow",
     "link": "https://ddowiki.com/page/Item:Nightmother%27s_Longbow",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_longbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Syranian Longbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Longbow",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Electrifying 6",
       "Holy 6",
       "Construct Bane 6",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_longbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Ferrocrystal Longbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Longbow",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Feybane 6",
       "Improved Destruction",
       "Maiming 6",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_longbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Flamesalt Longbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Longbow",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Chilling 6",
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_longbow",
+    "setMembership": []
   },
   {
     "name": "Cheap Shot (level 30)",
     "link": "https://ddowiki.com/page/Item:Cheap_Shot_(level_30)",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 30,
+    "effectsRaw": [
       "+14 Enhancement Bonus",
       "Poisonous 6",
       "Critical Befouling 3",
       "Doubleshot 8%",
       "Keen",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+14 Enhancement Bonus",
+      "Poisonous 6",
+      "Critical Befouling 3",
+      "Doubleshot 8%",
+      "Keen"
+    ],
+    "itemKey": "item:cheap_shot_(level_30)",
+    "setMembership": []
   },
   {
     "name": "Legendary Bow of the Silver Flame",
     "link": "https://ddowiki.com/page/Item:Legendary_Bow_of_the_Silver_Flame",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 30,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Holy Burst 6",
       "Undead Bane 6",
       "Weaken Undead",
       "Blunted Ammunition",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Holy Burst 6",
+      "Undead Bane 6",
+      "Weaken Undead",
+      "Blunted Ammunition",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:legendary_bow_of_the_silver_flame",
+    "setMembership": []
   },
   {
     "name": "Legendary Shatterbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Shatterbow",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 30,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Sonic Blast 6",
@@ -1315,30 +3590,72 @@
       "Move Silently -10",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Sonic Blast 6",
+      "Construct Bane 6",
+      "Armor-Piercing 21%",
+      "Adamantine",
+      "Move Silently -10"
+    ],
+    "itemKey": "item:legendary_shatterbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Bow of the Elements (Air)",
     "link": "https://ddowiki.com/page/Item:Legendary_Bow_of_the_Elements_(Air)",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 30,
+    "effectsRaw": [
       "Spellcasting Implement +30",
       "+15 Enhancement Bonus",
       "Sovereign Lightning Strike",
       "Shocking Blast 6",
       "Lightning Lore +21%",
       "Magnetism +146",
-      "Whirlwind Absorption",
+      "Whirlwind Absorption - 20 Charges (Recharged/Day: 5)",
       "The Legendary Desert's Writhing Storm",
       "Colorless Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Colorless",
+      "Red"
+    ],
+    "setBonuses": [
+      "The Legendary Desert's Writhing Storm"
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Sovereign Lightning Strike",
+      "Shocking Blast 6",
+      "Lightning Lore +21%",
+      "Magnetism +146",
+      "Whirlwind Absorption - 20 Charges (Recharged/Day: 5)"
+    ],
+    "itemKey": "item:legendary_bow_of_the_elements_(air)",
+    "setMembership": []
   },
   {
     "name": "Legendary Thornlord",
     "link": "https://ddowiki.com/page/Item:Legendary_Thornlord",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 30,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Armor-Piercing 21%",
       "Piercing 6",
@@ -1347,13 +3664,33 @@
       "Legendary Menechtarun Scavenger",
       "Colorless Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Colorless",
+      "Red"
+    ],
+    "setBonuses": [
+      "Legendary Menechtarun Scavenger"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Armor-Piercing 21%",
+      "Piercing 6",
+      "Insightful Doubleshot 4%",
+      "Insightful Distant Diversion +10%"
+    ],
+    "itemKey": "item:legendary_thornlord",
+    "setMembership": []
   },
   {
     "name": "Dinosaur Bone Longbow",
     "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Longbow",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -1361,13 +3698,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:dinosaur_bone_longbow",
+    "setMembership": []
   },
   {
     "name": "Attuned Bone Longbow",
     "link": "https://ddowiki.com/page/Item:Attuned_Bone_Longbow",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -1375,13 +3730,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:attuned_bone_longbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Gnollish War Bow",
     "link": "https://ddowiki.com/page/Item:Legendary_Gnollish_War_Bow",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Crippling",
       "Bonesplitter",
@@ -1389,13 +3762,31 @@
       "Malleable",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Crippling",
+      "Bonesplitter",
+      "Monstrous Humanoid Bane 6",
+      "Malleable"
+    ],
+    "itemKey": "item:legendary_gnollish_war_bow",
+    "setMembership": []
   },
   {
     "name": "Legendary Bloody War Bow",
     "link": "https://ddowiki.com/page/Item:Legendary_Bloody_War_Bow",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Crippling",
       "Bonesplitter",
@@ -1403,13 +3794,31 @@
       "Feeding 30",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Crippling",
+      "Bonesplitter",
+      "Monstrous Humanoid Bane 6",
+      "Feeding 30"
+    ],
+    "itemKey": "item:legendary_bloody_war_bow",
+    "setMembership": []
   },
   {
     "name": "Legendary Destructive War Bow",
     "link": "https://ddowiki.com/page/Item:Legendary_Destructive_War_Bow",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Crippling",
       "Bonesplitter",
@@ -1417,13 +3826,31 @@
       "Improved Destruction",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Crippling",
+      "Bonesplitter",
+      "Monstrous Humanoid Bane 6",
+      "Improved Destruction"
+    ],
+    "itemKey": "item:legendary_destructive_war_bow",
+    "setMembership": []
   },
   {
     "name": "Legendary Infectious War Bow",
     "link": "https://ddowiki.com/page/Item:Legendary_Infectious_War_Bow",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Crippling",
       "Bonesplitter",
@@ -1431,13 +3858,32 @@
       "Legendary Demon Fever",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Demon Fever"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Crippling",
+      "Bonesplitter",
+      "Monstrous Humanoid Bane 6"
+    ],
+    "itemKey": "item:legendary_infectious_war_bow",
+    "setMembership": []
   },
   {
     "name": "Legendary Petrifying War Bow",
     "link": "https://ddowiki.com/page/Item:Legendary_Petrifying_War_Bow",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Crippling",
       "Bonesplitter",
@@ -1445,13 +3891,32 @@
       "Legendary Stone Prison",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Stone Prison"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Crippling",
+      "Bonesplitter",
+      "Monstrous Humanoid Bane 6"
+    ],
+    "itemKey": "item:legendary_petrifying_war_bow",
+    "setMembership": []
   },
   {
     "name": "Eon, the Poisoned Reign",
     "link": "https://ddowiki.com/page/Item:Eon,_the_Poisoned_Reign",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Legendary Virulent Poison",
       "Keen",
@@ -1459,26 +3924,62 @@
       "Poisonous 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Virulent Poison"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Ranged Alacrity 20%",
+      "Poisonous 7"
+    ],
+    "itemKey": "item:eon,_the_poisoned_reign",
+    "setMembership": []
   },
   {
     "name": "Legendary Ship-Siege Bow (level 32)",
     "link": "https://ddowiki.com/page/Item:Legendary_Ship-Siege_Bow_(level_32)",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Fiery 6",
       "Construct Bane 6",
       "Improved Destruction",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Fiery 6",
+      "Construct Bane 6",
+      "Improved Destruction",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_ship-siege_bow_(level_32)",
+    "setMembership": []
   },
   {
     "name": "Legendary Shining Reliquary Longbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Longbow",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 6",
@@ -1486,13 +3987,31 @@
       "Evil Outsider Bane 6",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_longbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Defiled Reliquary Longbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Longbow",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 6",
@@ -1501,13 +4020,33 @@
       "Taint of Evil",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_longbow",
+    "setMembership": []
   },
   {
     "name": "Legendary First Course Finder",
     "link": "https://ddowiki.com/page/Item:Legendary_First_Course_Finder",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Elasticity",
       "Concentrated Corrosive Salt",
@@ -1515,13 +4054,31 @@
       "Animal Bane 6",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Elasticity",
+      "Concentrated Corrosive Salt",
+      "Fiery 6",
+      "Animal Bane 6"
+    ],
+    "itemKey": "item:legendary_first_course_finder",
+    "setMembership": []
   },
   {
     "name": "Legendary Longbow of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Longbow_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Anarchic Blast 7",
       "Anarchic 7",
@@ -1529,13 +4086,31 @@
       "Keen",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_longbow_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Longbow of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Longbow_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Force Blast 7",
       "Impactful 7",
@@ -1543,13 +4118,31 @@
       "Entropic 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_longbow_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Aeon, the Blazing Reign",
     "link": "https://ddowiki.com/page/Item:Aeon,_the_Blazing_Reign",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Ranged Alacrity 20%",
       "Elasticity",
@@ -1557,13 +4150,31 @@
       "Sealed in Fire",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Ranged Alacrity 20%",
+      "Elasticity",
+      "Dripping with Magma",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:aeon,_the_blazing_reign",
+    "setMembership": []
   },
   {
     "name": "Longbow of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Longbow_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Dripping with Magma",
       "3rd Degree Burns",
@@ -1571,13 +4182,31 @@
       "Sealed in Fire",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:longbow_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Calamitous Longbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Longbow",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -1585,13 +4214,31 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_calamitous_longbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Cataclysmic Longbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Longbow",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_bow",
+    "handedness": "two_handed",
+    "category": "Long Bows",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -1599,6 +4246,20 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_cataclysmic_longbow",
+    "setMembership": []
   }
 ]

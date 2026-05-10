@@ -2,189 +2,439 @@
   {
     "name": "Fintan's Bite",
     "link": "https://ddowiki.com/page/Item:Fintan%27s_Bite",
-    "minLevel": "1",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 1,
+    "effectsRaw": [
       "Bodyfeeder",
       "Swim +3",
       "Jump +3"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Bodyfeeder",
+      "Swim +3",
+      "Jump +3"
+    ],
+    "itemKey": "item:fintan's_bite",
+    "setMembership": []
   },
   {
     "name": "Nicked Scimitar",
     "link": "https://ddowiki.com/page/Item:Nicked_Scimitar",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 2,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Acidic 2",
       "Accuracy +5",
       "Deadly +3"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Acidic 2",
+      "Accuracy +5",
+      "Deadly +3"
+    ],
+    "itemKey": "item:nicked_scimitar",
+    "setMembership": []
   },
   {
     "name": "+1 Starter Scimitar",
     "link": "https://ddowiki.com/page/Item:%2B1_Starter_Scimitar",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Starter"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Starter"
+    ],
+    "itemKey": "item:+1_starter_scimitar",
+    "setMembership": []
   },
   {
     "name": "Ethereal Scimitar",
     "link": "https://ddowiki.com/page/Item:Ethereal_Scimitar",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_scimitar",
+    "setMembership": []
   },
   {
     "name": "Sworn Silver Scimitar",
     "link": "https://ddowiki.com/page/Item:Sworn_Silver_Scimitar",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_scimitar",
+    "setMembership": []
   },
   {
     "name": "Brigand's Cutlass (legacy) (level 4)",
     "link": "https://ddowiki.com/page/Item:Brigand%27s_Cutlass_(legacy)_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
-      "Upgradeable - Tier 1",
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 4,
+    "effectsRaw": [
+      "Upgradeable - Tier 1 +1 Enhancement Bonus Intimidate +5 Anarchic",
       "+1 Enhancement Bonus",
       "Intimidate +5",
       "Anarchic",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "True Chaos"
-    ]
+      "Upgradeable - Tier 2 +1 Enhancement Bonus → +2 Enhancement Bonus",
+      "+1 Enhancement Bonus → +2 Enhancement Bonus",
+      "Upgradeable - Tier 3 Adds True Chaos",
+      "Adds True Chaos"
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Upgradeable - Tier 1 +1 Enhancement Bonus Intimidate +5 Anarchic",
+      "+1 Enhancement Bonus",
+      "Intimidate +5",
+      "Anarchic",
+      "Upgradeable - Tier 2 +1 Enhancement Bonus → +2 Enhancement Bonus",
+      "+1 Enhancement Bonus → +2 Enhancement Bonus",
+      "Upgradeable - Tier 3 Adds True Chaos",
+      "Adds True Chaos"
+    ],
+    "itemKey": "item:brigand's_cutlass_(legacy)_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Lacerator",
     "link": "https://ddowiki.com/page/Item:Lacerator",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 4,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Bleed",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Bleed"
+    ],
+    "itemKey": "item:lacerator",
+    "setMembership": []
   },
   {
     "name": "T'Korcha Family Scimitar",
     "link": "https://ddowiki.com/page/Item:T%27Korcha_Family_Scimitar",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 4,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Keen"
+    ],
+    "itemKey": "item:t'korcha_family_scimitar",
+    "setMembership": []
   },
   {
     "name": "Kron'zek's Cruelty",
     "link": "https://ddowiki.com/page/Item:Kron%27zek%27s_Cruelty",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 4,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Electrifying 2",
       "Maiming 2",
       "Bleeding 2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Electrifying 2",
+      "Maiming 2",
+      "Bleeding 2"
+    ],
+    "itemKey": "item:kron'zek's_cruelty",
+    "setMembership": []
   },
   {
     "name": "Calomel Scimitar (level 4)",
     "link": "https://ddowiki.com/page/Item:Calomel_Scimitar_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 4,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Dragon Bane 2",
       "Tidal"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Dragon Bane 2",
+      "Tidal"
+    ],
+    "itemKey": "item:calomel_scimitar_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Brigand's Cutlass (level 4)",
     "link": "https://ddowiki.com/page/Item:Brigand%27s_Cutlass_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 4,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Anarchic 2",
       "Vorpal",
       "Incite +38",
       "Intimidate +6",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Anarchic 2",
+      "Vorpal",
+      "Incite +38",
+      "Intimidate +6"
+    ],
+    "itemKey": "item:brigand's_cutlass_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Ferrocrystal Scimitar",
     "link": "https://ddowiki.com/page/Item:Ferrocrystal_Scimitar",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Feybane 2",
       "Destruction",
       "Maiming 2",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_scimitar",
+    "setMembership": []
   },
   {
     "name": "Flamesalt Scimitar",
     "link": "https://ddowiki.com/page/Item:Flamesalt_Scimitar",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 5,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Chilling 2",
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_scimitar",
+    "setMembership": []
   },
   {
     "name": "Rusted Shamshir",
     "link": "https://ddowiki.com/page/Item:Rusted_Shamshir",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 6,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Lesser Aberration Bane",
       "Keen",
       "Cold Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Lesser Aberration Bane",
+      "Keen",
+      "Cold Iron"
+    ],
+    "itemKey": "item:rusted_shamshir",
+    "setMembership": []
   },
   {
     "name": "Scoundrel's Cutlass",
     "link": "https://ddowiki.com/page/Item:Scoundrel%27s_Cutlass",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 6,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Frost",
       "Anarchic",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Frost",
+      "Anarchic"
+    ],
+    "itemKey": "item:scoundrel's_cutlass",
+    "setMembership": []
   },
   {
     "name": "Leopard's Chill",
     "link": "https://ddowiki.com/page/Item:Leopard%27s_Chill",
-    "minLevel": "7",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 7,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Lesser Evil Outsider Bane",
-      "Silver",
+      "Silver , Alchemical",
       "Freezing Ice",
+      "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 9 seconds)",
+      "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Lesser Evil Outsider Bane",
+      "Silver , Alchemical",
+      "Freezing Ice",
+      "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 9 seconds)",
+      "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice."
+    ],
+    "itemKey": "item:leopard's_chill",
+    "setMembership": []
   },
   {
     "name": "Commodore Alaina's Cutlass",
     "link": "https://ddowiki.com/page/Item:Commodore_Alaina%27s_Cutlass",
-    "minLevel": "7",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 7,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Axiomatic Burst 2",
       "Shocking Blast 2",
@@ -192,397 +442,1414 @@
       "Dodge +5%",
       "The Dread Isle's Curse",
       "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Universal Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane bonus to Universal Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to Spell DCs",
+        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to Spell DCs"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "★+4 Profane bonus to Hit and Damage",
+        "effectRaw": "★+4 Profane bonus to Hit and Damage",
+        "tieredEffects": [
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane bonus to Hit and Damage"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Axiomatic Burst 2",
+      "Shocking Blast 2",
+      "Riposte +2",
+      "Dodge +5%",
+      "The Dread Isle's Curse"
+    ],
+    "itemKey": "item:commodore_alaina's_cutlass",
+    "setMembership": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "minLevels": [
+          7,
+          31
+        ],
+        "availablePieces": 70,
+        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Universal Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane bonus to Universal Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to Spell DCs",
+            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to Spell DCs"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "★+4 Profane bonus to Hit and Damage",
+            "effectRaw": "★+4 Profane bonus to Hit and Damage",
+            "tieredEffects": [
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane bonus to Hit and Damage"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Brigand's Cutlass (legacy) (level 8)",
     "link": "https://ddowiki.com/page/Item:Brigand%27s_Cutlass_(legacy)_(level_8)",
-    "minLevel": "8",
-    "enhancements": [
-      "Upgradeable - Tier 1",
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 8,
+    "effectsRaw": [
+      "Upgradeable - Tier 1 +2 Enhancement Bonus Intimidate +7 Anarchic",
       "+2 Enhancement Bonus",
       "Intimidate +7",
       "Anarchic",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "True Chaos"
-    ]
+      "Upgradeable - Tier 2 +2 Enhancement Bonus → +3 Enhancement Bonus",
+      "+2 Enhancement Bonus → +3 Enhancement Bonus",
+      "Upgradeable - Tier 3 Adds True Chaos",
+      "Adds True Chaos"
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Upgradeable - Tier 1 +2 Enhancement Bonus Intimidate +7 Anarchic",
+      "+2 Enhancement Bonus",
+      "Intimidate +7",
+      "Anarchic",
+      "Upgradeable - Tier 2 +2 Enhancement Bonus → +3 Enhancement Bonus",
+      "+2 Enhancement Bonus → +3 Enhancement Bonus",
+      "Upgradeable - Tier 3 Adds True Chaos",
+      "Adds True Chaos"
+    ],
+    "itemKey": "item:brigand's_cutlass_(legacy)_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Calomel Scimitar (level 8)",
     "link": "https://ddowiki.com/page/Item:Calomel_Scimitar_(level_8)",
-    "minLevel": "8",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 8,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:calomel_scimitar_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Brigand's Cutlass (level 8)",
     "link": "https://ddowiki.com/page/Item:Brigand%27s_Cutlass_(level_8)",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 8,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Anarchic 2",
       "Vorpal",
       "Incite +52",
       "Intimidate +10",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Anarchic 2",
+      "Vorpal",
+      "Incite +52",
+      "Intimidate +10"
+    ],
+    "itemKey": "item:brigand's_cutlass_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Calamitous Scimitar",
     "link": "https://ddowiki.com/page/Item:Calamitous_Scimitar",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
       "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)"
+    ],
+    "itemKey": "item:calamitous_scimitar",
+    "setMembership": []
   },
   {
     "name": "Mirage",
     "link": "https://ddowiki.com/page/Item:Mirage",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Deception",
       "Ghost Touch",
       "Deception +4",
       "Seeker +6",
       "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      {
+        "setId": "windlasher_s_ferocity",
+        "setName": "Windlasher's Ferocity",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
+        "effectRaw": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5%",
+            "effect": "Artifact bonus to Doublestrike and Doubleshot"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+10%",
+            "effect": "Artifact bonus to Doublestrike and Doubleshot"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15%",
+            "effect": "Artifact bonus to Doublestrike and Doubleshot"
+          }
+        ]
+      },
+      {
+        "setId": "windlasher_s_ferocity",
+        "setName": "Windlasher's Ferocity",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Artifact bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Artifact bonus to Melee and Ranged Power"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Deception",
+      "Ghost Touch",
+      "Deception +4",
+      "Seeker +6"
+    ],
+    "itemKey": "item:mirage",
+    "setMembership": [
+      {
+        "setId": "windlasher_s_ferocity",
+        "setName": "Windlasher's Ferocity",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 9,
+        "bonusRaw": "2 Pieces Equipped: ♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot ♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
+            "effectRaw": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5%",
+                "effect": "Artifact bonus to Doublestrike and Doubleshot"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+10%",
+                "effect": "Artifact bonus to Doublestrike and Doubleshot"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15%",
+                "effect": "Artifact bonus to Doublestrike and Doubleshot"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Artifact bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Artifact bonus to Melee and Ranged Power"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Macabre Scimitar",
     "link": "https://ddowiki.com/page/Item:Macabre_Scimitar",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_scimitar",
+    "setMembership": []
   },
   {
     "name": "Barovian's Scimitar",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Scimitar",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_scimitar",
+    "setMembership": []
   },
   {
     "name": "Royal Scimitar (historic)",
     "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(historic)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 12,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Keen",
       "Destruction"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Keen",
+      "Destruction"
+    ],
+    "itemKey": "item:royal_scimitar_(historic)",
+    "setMembership": []
   },
   {
     "name": "Brigand's Cutlass (legacy) (level 12)",
     "link": "https://ddowiki.com/page/Item:Brigand%27s_Cutlass_(legacy)_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 12,
+    "effectsRaw": [
       "Upgradeable - Tier 1",
       "+3 Enhancement Bonus",
       "Intimidate +11",
       "Anarchic",
       "Mortal Strike",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "True Chaos"
-    ]
+      "Upgradeable - Tier 2 +3 Enhancement Bonus → +4 Enhancement Bonus",
+      "+3 Enhancement Bonus → +4 Enhancement Bonus",
+      "Upgradeable - Tier 3 Adds True Chaos",
+      "Adds True Chaos"
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Upgradeable - Tier 1",
+      "+3 Enhancement Bonus",
+      "Intimidate +11",
+      "Anarchic",
+      "Mortal Strike",
+      "Upgradeable - Tier 2 +3 Enhancement Bonus → +4 Enhancement Bonus",
+      "+3 Enhancement Bonus → +4 Enhancement Bonus",
+      "Upgradeable - Tier 3 Adds True Chaos",
+      "Adds True Chaos"
+    ],
+    "itemKey": "item:brigand's_cutlass_(legacy)_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Green Steel Scimitar",
     "link": "https://ddowiki.com/page/Item:Green_Steel_Scimitar",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_scimitar",
+    "setMembership": []
   },
   {
     "name": "Alchemical Scimitar",
     "link": "https://ddowiki.com/page/Item:Alchemical_Scimitar",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_scimitar",
+    "setMembership": []
   },
   {
     "name": "Royal Scimitar (level 12)",
     "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 12,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Destruction",
       "Bloodletter II"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Destruction",
+      "Bloodletter II"
+    ],
+    "itemKey": "item:royal_scimitar_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Calomel Scimitar (level 12)",
     "link": "https://ddowiki.com/page/Item:Calomel_Scimitar_(level_12)",
-    "minLevel": "12",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 12,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:calomel_scimitar_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Brigand's Cutlass (level 12)",
     "link": "https://ddowiki.com/page/Item:Brigand%27s_Cutlass_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 12,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Anarchic 3",
       "Vorpal",
       "Incite +65",
       "Intimidate +14",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Anarchic 3",
+      "Vorpal",
+      "Incite +65",
+      "Intimidate +14"
+    ],
+    "itemKey": "item:brigand's_cutlass_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Royal Scimitar (level 13)",
     "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(level_13)",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 13,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Destruction",
       "Bloodletter III",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Destruction",
+      "Bloodletter III"
+    ],
+    "itemKey": "item:royal_scimitar_(level_13)",
+    "setMembership": []
   },
   {
     "name": "Scimitar of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Scimitar_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Anarchic Blast 3",
       "Anarchic 3",
       "Aligned",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:scimitar_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Scimitar of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Scimitar_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Force Blast 3",
       "Impactful 3",
       "Vorpal",
       "Entropic 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:scimitar_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Royal Scimitar (level 14)",
     "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(level_14)",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Destruction",
       "Bloodletter III",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Destruction",
+      "Bloodletter III"
+    ],
+    "itemKey": "item:royal_scimitar_(level_14)",
+    "setMembership": []
   },
   {
     "name": "Vulkoor's Edge",
     "link": "https://ddowiki.com/page/Item:Vulkoor%27s_Edge",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Poisonous 3",
       "Metalline",
       "Keen",
       "Vorpal",
       "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      {
+        "setId": "wayward_warrior",
+        "setName": "Wayward Warrior",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 2,
+        "effect": "♦+2★+5 Artifact Bonus to Natural Armor",
+        "effectRaw": "♦+2★+5 Artifact Bonus to Natural Armor",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2",
+            "effect": "Artifact Bonus to Natural Armor"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+5",
+            "effect": "Artifact Bonus to Natural Armor"
+          }
+        ]
+      },
+      {
+        "setId": "wayward_warrior",
+        "setName": "Wayward Warrior",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 2,
+        "effect": "♦+1★+3 Artifact Bonus to Constitution",
+        "effectRaw": "♦+1★+3 Artifact Bonus to Constitution",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Constitution"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Constitution"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Poisonous 3",
+      "Metalline",
+      "Keen",
+      "Vorpal"
+    ],
+    "itemKey": "item:vulkoor's_edge",
+    "setMembership": [
+      {
+        "setId": "wayward_warrior",
+        "setName": "Wayward Warrior",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "minLevels": [
+          14,
+          29
+        ],
+        "availablePieces": 4,
+        "bonusRaw": "2 Pieces Equipped: ♦+2★+5 Artifact Bonus to Natural Armor ♦+1★+3 Artifact Bonus to Constitution",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+2★+5 Artifact Bonus to Natural Armor",
+            "effectRaw": "♦+2★+5 Artifact Bonus to Natural Armor",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2",
+                "effect": "Artifact Bonus to Natural Armor"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+5",
+                "effect": "Artifact Bonus to Natural Armor"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1★+3 Artifact Bonus to Constitution",
+            "effectRaw": "♦+1★+3 Artifact Bonus to Constitution",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Constitution"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Constitution"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Swailing Blade (level 15)",
     "link": "https://ddowiki.com/page/Item:Swailing_Blade_(level_15)",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 15,
+    "effectsRaw": [
       "Spellcasting Implement +12",
       "+4 Enhancement Bonus",
       "Flaming Burst",
       "Incineration",
       "Combustion +78"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Flaming Burst",
+      "Incineration",
+      "Combustion +78"
+    ],
+    "itemKey": "item:swailing_blade_(level_15)",
+    "setMembership": []
   },
   {
     "name": "Syranian Scimitar",
     "link": "https://ddowiki.com/page/Item:Syranian_Scimitar",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Electrifying 4",
       "Holy 4",
       "Construct Bane 4",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_scimitar",
+    "setMembership": []
   },
   {
     "name": "Brigand's Cutlass (legacy) (level 16)",
     "link": "https://ddowiki.com/page/Item:Brigand%27s_Cutlass_(legacy)_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
-      "Upgradeable - Tier 1",
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 16,
+    "effectsRaw": [
+      "Upgradeable - Tier 1 +4 Enhancement Bonus Intimidate +13 Anarchic Burst Vorpal Incite +15",
       "+4 Enhancement Bonus",
       "Intimidate +13",
       "Anarchic Burst",
       "Vorpal",
       "Incite +15",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "Absolute Chaos"
-    ]
+      "Upgradeable - Tier 2 +4 Enhancement Bonus → +5 Enhancement Bonus",
+      "+4 Enhancement Bonus → +5 Enhancement Bonus",
+      "Upgradeable - Tier 3 Adds Absolute Chaos",
+      "Adds Absolute Chaos"
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Upgradeable - Tier 1 +4 Enhancement Bonus Intimidate +13 Anarchic Burst Vorpal Incite +15",
+      "+4 Enhancement Bonus",
+      "Intimidate +13",
+      "Anarchic Burst",
+      "Vorpal",
+      "Incite +15",
+      "Upgradeable - Tier 2 +4 Enhancement Bonus → +5 Enhancement Bonus",
+      "+4 Enhancement Bonus → +5 Enhancement Bonus",
+      "Upgradeable - Tier 3 Adds Absolute Chaos",
+      "Adds Absolute Chaos"
+    ],
+    "itemKey": "item:brigand's_cutlass_(legacy)_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Fang of Siberys",
     "link": "https://ddowiki.com/page/Item:Fang_of_Siberys",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Peals of Thunder",
       "Cloudburst",
       "Pure Good"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Peals of Thunder",
+      "Cloudburst",
+      "Pure Good"
+    ],
+    "itemKey": "item:fang_of_siberys",
+    "setMembership": []
   },
   {
     "name": "Swailing Blade (level 16)",
     "link": "https://ddowiki.com/page/Item:Swailing_Blade_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 16,
+    "effectsRaw": [
       "Spellcasting Implement +15",
       "+5 Enhancement Bonus",
       "Flaming Burst",
       "Incineration",
       "Combustion +78"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Flaming Burst",
+      "Incineration",
+      "Combustion +78"
+    ],
+    "itemKey": "item:swailing_blade_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Cruel Nobility",
     "link": "https://ddowiki.com/page/Item:Cruel_Nobility",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Axiomatic Burst 4",
       "Evil Blast 4",
       "Bleeding 4",
       "Disintegration"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Axiomatic Burst 4",
+      "Evil Blast 4",
+      "Bleeding 4",
+      "Disintegration"
+    ],
+    "itemKey": "item:cruel_nobility",
+    "setMembership": []
   },
   {
     "name": "Calomel Scimitar (level 16)",
     "link": "https://ddowiki.com/page/Item:Calomel_Scimitar_(level_16)",
-    "minLevel": "16",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 16,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:calomel_scimitar_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Brigand's Cutlass (level 16)",
     "link": "https://ddowiki.com/page/Item:Brigand%27s_Cutlass_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Anarchic 4",
       "Improved Vorpal",
       "Incite +78",
       "Intimidate +16",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic 4",
+      "Improved Vorpal",
+      "Incite +78",
+      "Intimidate +16"
+    ],
+    "itemKey": "item:brigand's_cutlass_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Swailing Blade (level 17)",
     "link": "https://ddowiki.com/page/Item:Swailing_Blade_(level_17)",
-    "minLevel": "17",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 17,
+    "effectsRaw": [
       "Spellcasting Implement +15",
       "+5 Enhancement Bonus",
       "Blazing",
       "Incineration",
       "Combustion +84"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Blazing",
+      "Incineration",
+      "Combustion +84"
+    ],
+    "itemKey": "item:swailing_blade_(level_17)",
+    "setMembership": []
   },
   {
     "name": "Frostbite Blade (level 17)",
     "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(level_17)",
-    "minLevel": "17",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 17,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Frost IV",
       "Frostbite",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Frost IV",
+      "Frostbite"
+    ],
+    "itemKey": "item:frostbite_blade_(level_17)",
+    "setMembership": []
   },
   {
     "name": "Frostbite Blade (level 18)",
     "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(level_18)",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 18,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Frost V",
       "Frostbite",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Frost V",
+      "Frostbite"
+    ],
+    "itemKey": "item:frostbite_blade_(level_18)",
+    "setMembership": []
   },
   {
     "name": "Shining Reliquary Scimitar",
     "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Scimitar",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_scimitar",
+    "setMembership": []
   },
   {
     "name": "Defiled Reliquary Scimitar",
     "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Scimitar",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_scimitar",
+    "setMembership": []
   },
   {
     "name": "Frostbite Blade (level 19)",
     "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(level_19)",
-    "minLevel": "19",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 19,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Frost V",
       "Frostbite",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Frost V",
+      "Frostbite"
+    ],
+    "itemKey": "item:frostbite_blade_(level_19)",
+    "setMembership": []
   },
   {
     "name": "Epic Mirage",
     "link": "https://ddowiki.com/page/Item:Epic_Mirage",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Improved Deception +17",
       "Ethereal",
@@ -590,19 +1857,50 @@
       "Seeker +9",
       "Improved Cursespewing",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Improved Deception +17",
+      "Ethereal",
+      "Deception +7",
+      "Seeker +9",
+      "Improved Cursespewing"
+    ],
+    "itemKey": "item:epic_mirage",
+    "setMembership": []
   },
   {
     "name": "Epic Calomel Scimitar",
     "link": "https://ddowiki.com/page/Item:Epic_Calomel_Scimitar",
-    "minLevel": "20",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 20,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:epic_calomel_scimitar",
+    "setMembership": []
   },
   {
     "name": "Epic Kron'zek's Cruelty",
     "link": "https://ddowiki.com/page/Item:Epic_Kron%27zek%27s_Cruelty",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Shocking Blast 4",
       "Lightning Strike",
@@ -611,275 +1909,660 @@
       "Improved Destruction",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Shocking Blast 4",
+      "Lightning Strike",
+      "Maiming 4",
+      "Keen",
+      "Improved Destruction"
+    ],
+    "itemKey": "item:epic_kron'zek's_cruelty",
+    "setMembership": []
   },
   {
     "name": "Epic Brigand's Cutlass (legacy) (level 20)",
     "link": "https://ddowiki.com/page/Item:Epic_Brigand%27s_Cutlass_(legacy)_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
-      "Upgradeable - Tier 1",
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 20,
+    "effectsRaw": [
+      "Upgradeable - Tier 1 +5 Enhancement Bonus Intimidate +15 Anarchic Burst Vorpal Incite +15",
       "+5 Enhancement Bonus",
       "Intimidate +15",
       "Anarchic Burst",
       "Vorpal",
       "Incite +15",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "Absolute Chaos",
-      "Red Augment Slot"
-    ]
+      "Upgradeable - Tier 2 +5 Enhancement Bonus → +6 Enhancement Bonus Incite +15 → Incite +20",
+      "+5 Enhancement Bonus → +6 Enhancement Bonus",
+      "Incite +15 → Incite +20",
+      "Upgradeable - Tier 3 Adds Absolute Chaos Adds Red Augment Slot",
+      "Adds Absolute Chaos",
+      "Adds Red Augment Slot",
+      "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons.",
+      "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
+    ],
+    "augmentSlots": [
+      "Upgradeable - Tier 3 Adds Absolute Chaos Adds Red",
+      "Adds Red"
+    ],
+    "setBonuses": [
+      "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
+    ],
+    "namedEffects": [
+      "Upgradeable - Tier 1 +5 Enhancement Bonus Intimidate +15 Anarchic Burst Vorpal Incite +15",
+      "+5 Enhancement Bonus",
+      "Intimidate +15",
+      "Anarchic Burst",
+      "Vorpal",
+      "Incite +15",
+      "Upgradeable - Tier 2 +5 Enhancement Bonus → +6 Enhancement Bonus Incite +15 → Incite +20",
+      "+5 Enhancement Bonus → +6 Enhancement Bonus",
+      "Incite +15 → Incite +20",
+      "Adds Absolute Chaos",
+      "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons."
+    ],
+    "itemKey": "item:epic_brigand's_cutlass_(legacy)_(level_20)",
+    "setMembership": []
   },
   {
     "name": "Epic Cruel Nobility",
     "link": "https://ddowiki.com/page/Item:Epic_Cruel_Nobility",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Axiomatic Burst 4",
       "Evil Blast 4",
       "Bleeding 4",
       "Disintegration",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Axiomatic Burst 4",
+      "Evil Blast 4",
+      "Bleeding 4",
+      "Disintegration"
+    ],
+    "itemKey": "item:epic_cruel_nobility",
+    "setMembership": []
   },
   {
     "name": "Epic Brigand's Cutlass (level 20)",
     "link": "https://ddowiki.com/page/Item:Epic_Brigand%27s_Cutlass_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Anarchic 4",
       "Improved Vorpal",
       "Incite +91",
       "Intimidate +17",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Anarchic 4",
+      "Improved Vorpal",
+      "Incite +91",
+      "Intimidate +17"
+    ],
+    "itemKey": "item:epic_brigand's_cutlass_(level_20)",
+    "setMembership": []
   },
   {
     "name": "Epic Sworn Silver Scimitar",
     "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Scimitar",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Unnatural Bane 4",
       "Destruction",
       "Righteous",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_scimitar",
+    "setMembership": []
   },
   {
     "name": "Epic Ethereal Scimitar",
     "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Scimitar",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Impactful 4",
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_scimitar",
+    "setMembership": []
   },
   {
     "name": "Drow Scimitar of the Weapon Master",
     "link": "https://ddowiki.com/page/Item:Drow_Scimitar_of_the_Weapon_Master",
-    "minLevel": "21",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 21,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
       "Insightful Combat Mastery +5",
       "Shatter +10",
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "itemKey": "item:drow_scimitar_of_the_weapon_master",
+    "setMembership": []
   },
   {
     "name": "Swailing Blade (level 22)",
     "link": "https://ddowiki.com/page/Item:Swailing_Blade_(level_22)",
-    "minLevel": "22",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 22,
+    "effectsRaw": [
       "Spellcasting Implement +18",
       "+6 Enhancement Bonus",
       "Blazing",
       "Incineration",
       "Combustion +102"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Blazing",
+      "Incineration",
+      "Combustion +102"
+    ],
+    "itemKey": "item:swailing_blade_(level_22)",
+    "setMembership": []
   },
   {
     "name": "Thunder-Forged Alloy Scimitar",
     "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Scimitar",
-    "minLevel": "22",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 22,
+    "effectsRaw": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_scimitar",
+    "setMembership": []
   },
   {
     "name": "Swailing Blade (level 23)",
     "link": "https://ddowiki.com/page/Item:Swailing_Blade_(level_23)",
-    "minLevel": "23",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 23,
+    "effectsRaw": [
       "Spellcasting Implement +18",
       "+6 Enhancement Bonus",
       "Blazing",
       "Incineration",
       "Combustion +108"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Blazing",
+      "Incineration",
+      "Combustion +108"
+    ],
+    "itemKey": "item:swailing_blade_(level_23)",
+    "setMembership": []
   },
   {
     "name": "Royal Scimitar (level 23)",
     "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(level_23)",
-    "minLevel": "23",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 23,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Improved Destruction",
       "Bloodletter V",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Improved Destruction",
+      "Bloodletter V"
+    ],
+    "itemKey": "item:royal_scimitar_(level_23)",
+    "setMembership": []
   },
   {
     "name": "Swailing Blade (level 24)",
     "link": "https://ddowiki.com/page/Item:Swailing_Blade_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 24,
+    "effectsRaw": [
       "Spellcasting Implement +21",
       "+7 Enhancement Bonus",
       "Conflagrating",
       "Greater Incineration",
       "Combustion +114"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Conflagrating",
+      "Greater Incineration",
+      "Combustion +114"
+    ],
+    "itemKey": "item:swailing_blade_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Royal Scimitar (level 24)",
     "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 24,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Improved Destruction",
       "Bloodletter VI",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Improved Destruction",
+      "Bloodletter VI"
+    ],
+    "itemKey": "item:royal_scimitar_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Epic Brigand's Cutlass (legacy) (level 24)",
     "link": "https://ddowiki.com/page/Item:Epic_Brigand%27s_Cutlass_(legacy)_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
-      "Upgradeable - Tier 1",
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 24,
+    "effectsRaw": [
+      "Upgradeable - Tier 1 +6 Enhancement Bonus Intimidate +17 Anarchic Burst Vorpal Incite +20",
       "+6 Enhancement Bonus",
       "Intimidate +17",
       "Anarchic Burst",
       "Vorpal",
       "Incite +20",
-      "Upgradeable - Tier 2",
-      "Upgradeable - Tier 3",
-      "Absolute Chaos",
-      "Red Augment Slot"
-    ]
+      "Upgradeable - Tier 2 +6 Enhancement Bonus → +7 Enhancement Bonus Incite +20 → Incite +30",
+      "+6 Enhancement Bonus → +7 Enhancement Bonus",
+      "Incite +20 → Incite +30",
+      "Upgradeable - Tier 3 Adds Absolute Chaos Adds Red Augment Slot",
+      "Adds Absolute Chaos",
+      "Adds Red Augment Slot",
+      "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons.",
+      "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
+    ],
+    "augmentSlots": [
+      "Upgradeable - Tier 3 Adds Absolute Chaos Adds Red",
+      "Adds Red"
+    ],
+    "setBonuses": [
+      "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
+    ],
+    "namedEffects": [
+      "Upgradeable - Tier 1 +6 Enhancement Bonus Intimidate +17 Anarchic Burst Vorpal Incite +20",
+      "+6 Enhancement Bonus",
+      "Intimidate +17",
+      "Anarchic Burst",
+      "Vorpal",
+      "Incite +20",
+      "Upgradeable - Tier 2 +6 Enhancement Bonus → +7 Enhancement Bonus Incite +20 → Incite +30",
+      "+6 Enhancement Bonus → +7 Enhancement Bonus",
+      "Incite +20 → Incite +30",
+      "Adds Absolute Chaos",
+      "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons."
+    ],
+    "itemKey": "item:epic_brigand's_cutlass_(legacy)_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Epic Brigand's Cutlass (level 24)",
     "link": "https://ddowiki.com/page/Item:Epic_Brigand%27s_Cutlass_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 24,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Anarchic 5",
       "Greater Vorpal",
       "Incite +104",
       "Intimidate +18",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Anarchic 5",
+      "Greater Vorpal",
+      "Incite +104",
+      "Intimidate +18"
+    ],
+    "itemKey": "item:epic_brigand's_cutlass_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Royal Scimitar (level 25)",
     "link": "https://ddowiki.com/page/Item:Royal_Scimitar_(level_25)",
-    "minLevel": "25",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 25,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Improved Destruction",
       "Bloodletter VI",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Improved Destruction",
+      "Bloodletter VI"
+    ],
+    "itemKey": "item:royal_scimitar_(level_25)",
+    "setMembership": []
   },
   {
     "name": "Epic Leopard's Chill",
     "link": "https://ddowiki.com/page/Item:Epic_Leopard%27s_Chill",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 26,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Greater Evil Outsider Bane",
-      "Silver",
+      "Silver , Alchemical",
       "Epic Freezing Ice",
+      "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 9 seconds)",
+      "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Greater Evil Outsider Bane",
+      "Silver , Alchemical",
+      "Epic Freezing Ice",
+      "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 9 seconds)",
+      "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice."
+    ],
+    "itemKey": "item:epic_leopard's_chill",
+    "setMembership": []
   },
   {
     "name": "Legendary Green Steel Scimitar",
     "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Scimitar",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 26,
+    "effectsRaw": [
       "+14 Enhancement Bonus",
       "Legendary Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_scimitar",
+    "setMembership": []
   },
   {
     "name": "Frostbite Blade (level 26)",
     "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(level_26)",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 26,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Frost VII",
       "Frostbite",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Frost VII",
+      "Frostbite"
+    ],
+    "itemKey": "item:frostbite_blade_(level_26)",
+    "setMembership": []
   },
   {
     "name": "Frostbite Blade (level 27)",
     "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(level_27)",
-    "minLevel": "27",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 27,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Frost VIII",
       "Frostbite",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Frost VIII",
+      "Frostbite"
+    ],
+    "itemKey": "item:frostbite_blade_(level_27)",
+    "setMembership": []
   },
   {
     "name": "Frostbite Blade (level 28)",
     "link": "https://ddowiki.com/page/Item:Frostbite_Blade_(level_28)",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 28,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Frost VIII",
       "Frostbite",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Frost VIII",
+      "Frostbite"
+    ],
+    "itemKey": "item:frostbite_blade_(level_28)",
+    "setMembership": []
   },
   {
     "name": "Epic Brigand's Cutlass (level 28)",
     "link": "https://ddowiki.com/page/Item:Epic_Brigand%27s_Cutlass_(level_28)",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 28,
+    "effectsRaw": [
       "+12 Enhancement Bonus",
       "Anarchic 6",
       "Greater Vorpal",
       "Incite +117",
       "Intimidate +19",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Anarchic 6",
+      "Greater Vorpal",
+      "Incite +117",
+      "Intimidate +19"
+    ],
+    "itemKey": "item:epic_brigand's_cutlass_(level_28)",
+    "setMembership": []
   },
   {
     "name": "Nightshard",
     "link": "https://ddowiki.com/page/Item:Nightshard",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 28,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Identity Crisis",
       "Keen",
@@ -887,51 +2570,120 @@
       "Byeshk",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Identity Crisis",
+      "Keen",
+      "Utter Disintegration",
+      "Byeshk"
+    ],
+    "itemKey": "item:nightshard",
+    "setMembership": []
   },
   {
     "name": "Reflection of The Frostblade",
     "link": "https://ddowiki.com/page/Item:Reflection_of_The_Frostblade",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 28,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Legendary Freezing Ice",
       "Chilling 6",
       "Evil Outsider Bane 6",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [
+      "Legendary Freezing Ice"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Evil Outsider Bane 6",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:reflection_of_the_frostblade",
+    "setMembership": []
   },
   {
     "name": "Legendary Vulkoor's Edge",
     "link": "https://ddowiki.com/page/Item:Legendary_Vulkoor%27s_Edge",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Poisonous 6",
       "Metalline",
       "Keen",
       "Sovereign Vorpal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Poisonous 6",
+      "Metalline",
+      "Keen",
+      "Sovereign Vorpal"
+    ],
+    "itemKey": "item:legendary_vulkoor's_edge",
+    "setMembership": []
   },
   {
     "name": "The Fractured Elegance",
     "link": "https://ddowiki.com/page/Item:The_Fractured_Elegance",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Nearly Finished",
+      "Nearly FinishedPurple Augment Slot Sovereign VorpalCompleted Weapon",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Nearly FinishedPurple Augment Slot Sovereign VorpalCompleted Weapon"
+    ],
+    "itemKey": "item:the_fractured_elegance",
+    "setMembership": []
   },
   {
     "name": "Valorius, the Flameblade",
     "link": "https://ddowiki.com/page/Item:Valorius,_the_Flameblade",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 29,
+    "effectsRaw": [
       "Spellcasting Implement +29",
       "+15 Enhancement Bonus",
       "Flameblade",
@@ -941,101 +2693,239 @@
       "Legendary Blinding Embers",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Blinding Embers"
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Flameblade",
+      "Fiery 6",
+      "Flaming Blast 6",
+      "Overwhelming Incineration"
+    ],
+    "itemKey": "item:valorius,_the_flameblade",
+    "setMembership": []
   },
   {
     "name": "Morninglord's Scimitar",
     "link": "https://ddowiki.com/page/Item:Morninglord%27s_Scimitar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_scimitar",
+    "setMembership": []
   },
   {
     "name": "Nightmother's Scimitar",
     "link": "https://ddowiki.com/page/Item:Nightmother%27s_Scimitar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_scimitar",
+    "setMembership": []
   },
   {
     "name": "Legendary Syranian Scimitar",
     "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Scimitar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Electrifying 6",
       "Holy 6",
       "Construct Bane 6",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_scimitar",
+    "setMembership": []
   },
   {
     "name": "Legendary Ferrocrystal Scimitar",
     "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Scimitar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Feybane 6",
       "Improved Destruction",
       "Maiming 6",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_scimitar",
+    "setMembership": []
   },
   {
     "name": "Legendary Alchemical Scimitar",
     "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Scimitar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Legendary Alchemical Crafting (Prototype)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_scimitar",
+    "setMembership": []
   },
   {
     "name": "Legendary Flamesalt Scimitar",
     "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Scimitar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Chilling 6",
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_scimitar",
+    "setMembership": []
   },
   {
     "name": "Legendary Cruel Nobility",
     "link": "https://ddowiki.com/page/Item:Legendary_Cruel_Nobility",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 30,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Axiomatic Burst 6",
       "Evil Blast 6",
       "Bleeding 6",
       "Utter Disintegration",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Axiomatic Burst 6",
+      "Evil Blast 6",
+      "Bleeding 6",
+      "Utter Disintegration"
+    ],
+    "itemKey": "item:legendary_cruel_nobility",
+    "setMembership": []
   },
   {
     "name": "Legendary Kron'zek's Cruelty",
     "link": "https://ddowiki.com/page/Item:Legendary_Kron%27zek%27s_Cruelty",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 30,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Shocking Blast 6",
       "Legendary Electric Storm",
@@ -1044,13 +2934,33 @@
       "Improved Destruction",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Electric Storm"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Shocking Blast 6",
+      "Maiming 6",
+      "Keen",
+      "Improved Destruction"
+    ],
+    "itemKey": "item:legendary_kron'zek's_cruelty",
+    "setMembership": []
   },
   {
     "name": "Legendary Mirage",
     "link": "https://ddowiki.com/page/Item:Legendary_Mirage",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 30,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Deception +20",
       "Enhanced Ghostly",
@@ -1059,13 +2969,33 @@
       "Legendary Cursespewing",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [
+      "Legendary Cursespewing"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Deception +20",
+      "Enhanced Ghostly",
+      "Deception +11",
+      "Seeker +13"
+    ],
+    "itemKey": "item:legendary_mirage",
+    "setMembership": []
   },
   {
     "name": "Legendary Commodore Alaina's Cutlass",
     "link": "https://ddowiki.com/page/Item:Legendary_Commodore_Alaina%27s_Cutlass",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Axiomatic Burst 6",
       "Shocking Blast 6",
@@ -1073,13 +3003,31 @@
       "Dodge +14%",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Axiomatic Burst 6",
+      "Shocking Blast 6",
+      "Riposte +6",
+      "Dodge +14%",
+      "Isle of Dread: Scale Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:legendary_commodore_alaina's_cutlass",
+    "setMembership": []
   },
   {
     "name": "Dinosaur Bone Scimitar",
     "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Scimitar",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -1087,13 +3035,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:dinosaur_bone_scimitar",
+    "setMembership": []
   },
   {
     "name": "Attuned Bone Scimitar",
     "link": "https://ddowiki.com/page/Item:Attuned_Bone_Scimitar",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -1101,26 +3067,61 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:attuned_bone_scimitar",
+    "setMembership": []
   },
   {
     "name": "Legendary Brigand's Cutlass (level 32)",
     "link": "https://ddowiki.com/page/Item:Legendary_Brigand%27s_Cutlass_(level_32)",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Anarchic 6",
       "Greater Vorpal",
       "Incite +130",
       "Intimidate +21",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic 6",
+      "Greater Vorpal",
+      "Incite +130",
+      "Intimidate +21"
+    ],
+    "itemKey": "item:legendary_brigand's_cutlass_(level_32)",
+    "setMembership": []
   },
   {
     "name": "Legendary Shining Reliquary Scimitar",
     "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Scimitar",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 6",
@@ -1128,13 +3129,31 @@
       "Evil Outsider Bane 6",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_scimitar",
+    "setMembership": []
   },
   {
     "name": "Legendary Defiled Reliquary Scimitar",
     "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Scimitar",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 6",
@@ -1143,13 +3162,33 @@
       "Taint of Evil",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_scimitar",
+    "setMembership": []
   },
   {
     "name": "Legendary Scimitar of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Scimitar_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Anarchic Blast 7",
       "Anarchic 7",
@@ -1157,13 +3196,31 @@
       "Keen",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_scimitar_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Scimitar of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Scimitar_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Force Blast 7",
       "Impactful 7",
@@ -1171,13 +3228,31 @@
       "Entropic 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_scimitar_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Kindling, the Twin Flames of the City",
     "link": "https://ddowiki.com/page/Item:Kindling,_the_Twin_Flames_of_the_City",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Flamescale",
       "Dripping with Magma",
@@ -1185,13 +3260,60 @@
       "Sealed in Fire",
       "Orange Augment Slot",
       "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      {
+        "setId": "last_line_of_defense",
+        "setName": "Last Line of Defense",
+        "source": "named_item_sets",
+        "sourceSection": "Magic of Myth Drannor set",
+        "piecesRequired": 2,
+        "effect": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+        "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Flamescale",
+      "Dripping with Magma",
+      "Overwhelming Incineration",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:kindling,_the_twin_flames_of_the_city",
+    "setMembership": [
+      {
+        "setId": "last_line_of_defense",
+        "setName": "Last Line of Defense",
+        "source": "named_item_sets",
+        "sourceSection": "Magic of Myth Drannor set",
+        "minLevels": [],
+        "availablePieces": 1,
+        "bonusRaw": "2 Pieces Equipped: +1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+            "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+            "tieredEffects": []
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Scimitar of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Scimitar_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Dripping with Magma",
       "3rd Degree Burns",
@@ -1199,13 +3321,31 @@
       "Sealed in Fire",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:scimitar_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Calamitous Scimitar",
     "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Scimitar",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -1213,13 +3353,31 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_calamitous_scimitar",
+    "setMembership": []
   },
   {
     "name": "Legendary Cataclysmic Scimitar",
     "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Scimitar",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "scimitar",
+    "handedness": "one_handed",
+    "category": "Scimitars",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -1227,6 +3385,20 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_cataclysmic_scimitar",
+    "setMembership": []
   }
 ]

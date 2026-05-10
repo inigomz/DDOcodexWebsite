@@ -2,349 +2,935 @@
   {
     "name": "Brakhash's Axe",
     "link": "https://ddowiki.com/page/Item:Brakhash%27s_Axe",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus"
+    ],
+    "itemKey": "item:brakhash's_axe",
+    "setMembership": []
   },
   {
     "name": "Ethereal Battle Axe",
     "link": "https://ddowiki.com/page/Item:Ethereal_Battle_Axe",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Sworn Silver Battle Axe",
     "link": "https://ddowiki.com/page/Item:Sworn_Silver_Battle_Axe",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Ferrocrystal Battle Axe",
     "link": "https://ddowiki.com/page/Item:Ferrocrystal_Battle_Axe",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Feybane 2",
       "Destruction",
       "Maiming 2",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Flamesalt Battle Axe",
     "link": "https://ddowiki.com/page/Item:Flamesalt_Battle_Axe",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 5,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Chilling 2",
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Iron Cleaver",
     "link": "https://ddowiki.com/page/Item:Iron_Cleaver",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 6,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Acid Burst",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Acid Burst"
+    ],
+    "itemKey": "item:iron_cleaver",
+    "setMembership": []
   },
   {
     "name": "Calamitous Battle Axe",
     "link": "https://ddowiki.com/page/Item:Calamitous_Battle_Axe",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
       "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)"
+    ],
+    "itemKey": "item:calamitous_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Unkor's Cleaver",
     "link": "https://ddowiki.com/page/Item:Unkor%27s_Cleaver",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Keen",
       "Vorpal",
       "Bleeding 3",
       "Fracturing 3",
       "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      {
+        "setId": "windlasher_s_ferocity",
+        "setName": "Windlasher's Ferocity",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
+        "effectRaw": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5%",
+            "effect": "Artifact bonus to Doublestrike and Doubleshot"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+10%",
+            "effect": "Artifact bonus to Doublestrike and Doubleshot"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15%",
+            "effect": "Artifact bonus to Doublestrike and Doubleshot"
+          }
+        ]
+      },
+      {
+        "setId": "windlasher_s_ferocity",
+        "setName": "Windlasher's Ferocity",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Artifact bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Artifact bonus to Melee and Ranged Power"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Keen",
+      "Vorpal",
+      "Bleeding 3",
+      "Fracturing 3"
+    ],
+    "itemKey": "item:unkor's_cleaver",
+    "setMembership": [
+      {
+        "setId": "windlasher_s_ferocity",
+        "setName": "Windlasher's Ferocity",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 9,
+        "bonusRaw": "2 Pieces Equipped: ♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot ♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
+            "effectRaw": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5%",
+                "effect": "Artifact bonus to Doublestrike and Doubleshot"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+10%",
+                "effect": "Artifact bonus to Doublestrike and Doubleshot"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15%",
+                "effect": "Artifact bonus to Doublestrike and Doubleshot"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Artifact bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Artifact bonus to Melee and Ranged Power"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Bereavement",
     "link": "https://ddowiki.com/page/Item:Bereavement",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Seeker +10",
       "Keen"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Seeker +10",
+      "Keen"
+    ],
+    "itemKey": "item:bereavement",
+    "setMembership": []
   },
   {
     "name": "Macabre Battle Axe",
     "link": "https://ddowiki.com/page/Item:Macabre_Battle_Axe",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Barovian's Battle Axe",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Battle_Axe",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Alchemical Battle Axe",
     "link": "https://ddowiki.com/page/Item:Alchemical_Battle_Axe",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Green Steel Battle Axe",
     "link": "https://ddowiki.com/page/Item:Green_Steel_Battle_Axe",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Axe of Adaxus (level 12)",
     "link": "https://ddowiki.com/page/Item:Axe_of_Adaxus_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus"
+    ],
+    "itemKey": "item:axe_of_adaxus_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Axe of Adaxus (level 13)",
     "link": "https://ddowiki.com/page/Item:Axe_of_Adaxus_(level_13)",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Orange Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus"
+    ],
+    "itemKey": "item:axe_of_adaxus_(level_13)",
+    "setMembership": []
   },
   {
     "name": "Battle Axe of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Battle_Axe_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Anarchic Blast 3",
       "Anarchic 3",
       "Aligned",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:battle_axe_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Battle Axe of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Battle_Axe_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Force Blast 3",
       "Impactful 3",
       "Vorpal",
       "Entropic 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:battle_axe_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Serrulae",
     "link": "https://ddowiki.com/page/Item:Serrulae",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Vertigo +10",
       "Metalline",
       "Orange Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Vertigo +10",
+      "Metalline"
+    ],
+    "itemKey": "item:serrulae",
+    "setMembership": []
   },
   {
     "name": "Axe of Adaxus (level 14)",
     "link": "https://ddowiki.com/page/Item:Axe_of_Adaxus_(level_14)",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Orange Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus"
+    ],
+    "itemKey": "item:axe_of_adaxus_(level_14)",
+    "setMembership": []
   },
   {
     "name": "Syranian Battle Axe",
     "link": "https://ddowiki.com/page/Item:Syranian_Battle_Axe",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Electrifying 4",
       "Holy 4",
       "Construct Bane 4",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Shining Reliquary Battle Axe",
     "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Battle_Axe",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Defiled Reliquary Battle Axe",
     "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Battle_Axe",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Epic Unkor's Cleaver",
     "link": "https://ddowiki.com/page/Item:Epic_Unkor%27s_Cleaver",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Keen",
       "Improved Vorpal",
       "Bleeding 4",
       "Fracturing 4",
       "Limb Chopper",
-      "Jerky",
+      "Jerky — 1 Charges (Recharged/Day:1)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Keen",
+      "Improved Vorpal",
+      "Bleeding 4",
+      "Fracturing 4",
+      "Limb Chopper",
+      "Jerky — 1 Charges (Recharged/Day:1)"
+    ],
+    "itemKey": "item:epic_unkor's_cleaver",
+    "setMembership": []
   },
   {
     "name": "Epic Sworn Silver Battle Axe",
     "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Battle_Axe",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Unnatural Bane 4",
       "Destruction",
       "Righteous",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Epic Ethereal Battle Axe",
     "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Battle_Axe",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Impactful 4",
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Thunder-Forged Alloy Battle Axe",
     "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Battle_Axe",
-    "minLevel": "22",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 22,
+    "effectsRaw": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Axe of Adaxus (level 23)",
     "link": "https://ddowiki.com/page/Item:Axe_of_Adaxus_(level_23)",
-    "minLevel": "23",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 23,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Orange Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus"
+    ],
+    "itemKey": "item:axe_of_adaxus_(level_23)",
+    "setMembership": []
   },
   {
     "name": "Axe of Adaxus (level 24)",
     "link": "https://ddowiki.com/page/Item:Axe_of_Adaxus_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 24,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Orange Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus"
+    ],
+    "itemKey": "item:axe_of_adaxus_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Axe of Adaxus (level 25)",
     "link": "https://ddowiki.com/page/Item:Axe_of_Adaxus_(level_25)",
-    "minLevel": "25",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 25,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Orange Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus"
+    ],
+    "itemKey": "item:axe_of_adaxus_(level_25)",
+    "setMembership": []
   },
   {
     "name": "Legendary Green Steel Battle Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Battle_Axe",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 26,
+    "effectsRaw": [
       "+14 Enhancement Bonus",
       "Legendary Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Dusk, the Light Descends",
     "link": "https://ddowiki.com/page/Item:Dusk,_the_Light_Descends",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 28,
+    "effectsRaw": [
       "Spellcasting Implement +28",
       "+15 Enhancement Bonus",
       "Radiance +145",
@@ -353,100 +939,234 @@
       "Brazen Brilliance",
       "Orange Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +28",
+      "+15 Enhancement Bonus",
+      "Radiance +145",
+      "Radiance Lore +21%",
+      "Evocation Focus +6",
+      "Brazen Brilliance"
+    ],
+    "itemKey": "item:dusk,_the_light_descends",
+    "setMembership": []
   },
   {
     "name": "Untold, Crack in the Sky",
     "link": "https://ddowiki.com/page/Item:Untold,_Crack_in_the_Sky",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Nearly Finished",
+      "Nearly FinishedPurple Augment Slot Armor-Piercing 21%Completed Weapon",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Nearly FinishedPurple Augment Slot Armor-Piercing 21%Completed Weapon"
+    ],
+    "itemKey": "item:untold,_crack_in_the_sky",
+    "setMembership": []
   },
   {
     "name": "Morninglord's Battle Axe",
     "link": "https://ddowiki.com/page/Item:Morninglord%27s_Battle_Axe",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Nightmother's Battle Axe",
     "link": "https://ddowiki.com/page/Item:Nightmother%27s_Battle_Axe",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Syranian Battle Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Battle_Axe",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Electrifying 6",
       "Holy 6",
       "Construct Bane 6",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Flamesalt Battle Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Battle_Axe",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Chilling 6",
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Ferrocrystal Battle Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Battle_Axe",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Feybane 6",
       "Improved Destruction",
       "Maiming 6",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Alchemical Battleaxe",
     "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Battleaxe",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Legendary Alchemical Crafting (Prototype)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_battleaxe",
+    "setMembership": []
   },
   {
     "name": "Legendary Unkor's Cleaver",
     "link": "https://ddowiki.com/page/Item:Legendary_Unkor%27s_Cleaver",
-    "minLevel": "30",
-    "enhancements": [
-      "Jerky",
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 30,
+    "effectsRaw": [
+      "Jerky — 3 Charges (Recharged/Day:3)",
       "+15 Enhancement Bonus",
       "Keen",
       "Sovereign Vorpal",
@@ -455,13 +1175,34 @@
       "Limb Chopper",
       "Legendary Windlasher's Ferocity",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      "Legendary Windlasher's Ferocity"
+    ],
+    "namedEffects": [
+      "Jerky — 3 Charges (Recharged/Day:3)",
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Sovereign Vorpal",
+      "Bleeding 6",
+      "Fracturing 6",
+      "Limb Chopper"
+    ],
+    "itemKey": "item:legendary_unkor's_cleaver",
+    "setMembership": []
   },
   {
     "name": "Dinosaur Bone Battle Axe",
     "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Battle_Axe",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -469,13 +1210,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:dinosaur_bone_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Attuned Bone Battle Axe",
     "link": "https://ddowiki.com/page/Item:Attuned_Bone_Battle_Axe",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -483,13 +1242,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:attuned_bone_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Shining Reliquary Battle Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Battle_Axe",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 6",
@@ -497,13 +1274,31 @@
       "Evil Outsider Bane 6",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Defiled Reliquary Battle Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Battle_Axe",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 6",
@@ -512,13 +1307,33 @@
       "Taint of Evil",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Battle Axe of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Battle_Axe_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Anarchic Blast 7",
       "Anarchic 7",
@@ -526,13 +1341,31 @@
       "Keen",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_battle_axe_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Battle Axe of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Battle_Axe_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Force Blast 7",
       "Impactful 7",
@@ -540,13 +1373,31 @@
       "Entropic 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_battle_axe_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Battle Axe of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Battle_Axe_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Dripping with Magma",
       "3rd Degree Burns",
@@ -554,13 +1405,31 @@
       "Sealed in Fire",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:battle_axe_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Clank, the Echo of Despair",
     "link": "https://ddowiki.com/page/Item:Clank,_the_Echo_of_Despair",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Rupturing Echo",
@@ -569,13 +1438,32 @@
       "Sealed in Mist",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Rupturing Echo",
+      "Sonic Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist"
+    ],
+    "itemKey": "item:clank,_the_echo_of_despair",
+    "setMembership": []
   },
   {
     "name": "Clatter, the Blunted Edge",
     "link": "https://ddowiki.com/page/Item:Clatter,_the_Blunted_Edge",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Rupturing Echo",
       "Blunt Trauma",
@@ -583,13 +1471,31 @@
       "Sealed in Mist",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Rupturing Echo",
+      "Blunt Trauma",
+      "Guardbreaking",
+      "Sealed in Mist"
+    ],
+    "itemKey": "item:clatter,_the_blunted_edge",
+    "setMembership": []
   },
   {
     "name": "Legendary Calamitous Battle Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Battle_Axe",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -597,13 +1503,31 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_calamitous_battle_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Cataclysmic Battle Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Battle_Axe",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "battle_axe",
+    "handedness": "one_handed",
+    "category": "Battle Axes",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -611,6 +1535,20 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_cataclysmic_battle_axe",
+    "setMembership": []
   }
 ]

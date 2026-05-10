@@ -1,0 +1,2403 @@
+[
+  {
+    "name": "Solar Gem of Imbuement (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Imbuement_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Imbue Dice +3"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Legendary), Elite and True Elite",
+      "Voices of the Dead, end chest (rare)",
+      "Snowfall and Sunlight, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Assassination (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Assassination_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Assassinate +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Book Burning, end chest",
+      "Beneath the City Streets, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Fortitude (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Fortitude_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Fortitude Save +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Times Long Past, end chest",
+      "Sleeping with the Fishes, House Lyrandar uprising optional chest",
+      "The Wish, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Imbuement (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Imbuement_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Imbue Dice +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Heroic), Elite and True Elite",
+      "Voices of the Dead, end chest (rare)",
+      "Toil and Trouble, end chest (rare)",
+      "Snowfall and Sunlight, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Intelligence (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Intelligence_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Intelligence +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Oghma's Song, end chest",
+      "Dinosaur Crisis, optional chest",
+      "Snowfall and Sunlight, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Spellpower (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Spellpower_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Potency +15"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Oghma's Song, end chest",
+      "The Wizard's Labyrinth, end chest",
+      "The Covered Culvert, optional chest",
+      "A Miner Sacrifice, optional chest",
+      "Wish Upon a Card, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Doubleshot (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Doubleshot_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Doubleshot 15%"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Portal to Below, end chest",
+      "The Knife's Edge, end chest",
+      "Sleeping with the Fishes, end chest",
+      "Snowfall and Sunlight, Potion Paw's chest",
+      "Body and Mind, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Fortitude (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Fortitude_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Fortitude Save +3"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Times Long Past, end chest",
+      "Sleeping with the Fishes, House Lyrandar uprising optional chest",
+      "The Wish, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Negative Amplification (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Negative_Amplification_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Negative Amplification +30"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Secrets of the Red Wizards, end chest",
+      "Special Delivery, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Spell Critical Chance (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Spell_Critical_Chance_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Spell Lore +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Legendary), Elite and True Elite",
+      "Ruins of Myth Drannor, Yegora's chest (rare), and Romira and Juvian's right chest (rare, requires completion of Sleeping with the Fishes)",
+      "The Wizard's Labyrinth, end chest (rare)",
+      "The Proper Authorities, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Constitution (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Constitution_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Constitution +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Seeds of Decay, end chest",
+      "Locked Away (Part One), end chest",
+      "Wish Upon a Card, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Spell DCs (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Spell_DCs_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Spell Focus Mastery +3"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Portal to Below, end chest",
+      "Cold Snap, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Strength (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Strength_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Strength +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The House of Gems, end chest",
+      "Cold Snap, Althea's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Ranged Power (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Ranged_Power_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Ranged Power +5"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Seeds of Decay, end chest",
+      "Land of Lamordia, Fangs of Winter's chest",
+      "The Final Draw, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Wisdom (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Wisdom_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Wisdom +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Safehold, end chest",
+      "Toil and Trouble, optional chest",
+      "A Miner Sacrifice, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Armor Layers (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Armor_Layers_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+15% Artifact Bonus to Armor Class"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Voices of the Dead, end chest",
+      "Sleeping with the Fishes, House Lyrandar uprising optional chest",
+      "The Body Snatchers, cookbook optional chest",
+      "Burning Down the House, bonus chest for completing all optionals"
+    ]
+  },
+  {
+    "name": "Solar Gem of Healing Amplification (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Healing_Amplification_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Healing Amplification +30"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Zulkir's Plan, end chest",
+      "Ruins of Myth Drannor, Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "The Wish, Lamordian Hook Horror Matriarch's chest",
+      "Going Rogue, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Physical Resistance Rating (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Physical_Resistance_Rating_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Physical Sheltering +10"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Secrets of the Red Wizards, end chest",
+      "The Darkness and the Light, end chest",
+      "The Covered Culvert, optional chest",
+      "Zoo Creeper, end chest",
+      "Going Rogue, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Spell DCs (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Spell_DCs_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Spell Focus Mastery +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Portal to Below, end chest",
+      "Cold Snap, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Dexterity (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Dexterity_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Dexterity +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Portal to Below, end chest",
+      "Locked Away (Part One), Asylum Otyugh's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Doublestrike (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Doublestrike_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Doublestrike 15%"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ettercap Incursion, end chest",
+      "Rats in a Cage, end chest",
+      "Locked Away (Part Two), end chest",
+      "Body and Mind, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Cruelty (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Cruelty_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+5% Artifact Bonus to Damage to helpless enemies"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Heroic), Elite and True Elite",
+      "Oghma's Song, end chest (rare)",
+      "A Miner Sacrifice, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Spell Critical Damage (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Spell_Critical_Damage_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Legendary Spell Crit Damage +5%"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Zulkir's Plan, end chest",
+      "The Cerulean Hills, Romira and Juvian's chest (requires completion of Sleeping with the Fishes)",
+      "Ruins of Myth Drannor, Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "Special Delivery, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Strength (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Strength_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Strength +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The House of Gems, end chest",
+      "Dinosaur Crisis, optional chest",
+      "Cold Snap, Althea's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Dodge (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Dodge_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Dodge +10%"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The House of Gems, end chest",
+      "Ends and Means, end chest",
+      "Burning Down the House, bonus chest for completing all optionals"
+    ]
+  },
+  {
+    "name": "Solar Gem of Spell Critical Damage (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Spell_Critical_Damage_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Legendary Spell Crit Damage +15%"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Zulkir's Plan, end chest",
+      "Ruins of Myth Drannor, Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "Special Delivery, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Doublestrike (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Doublestrike_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Doublestrike 5%"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ettercap Incursion, end chest",
+      "Rats in a Cage, end chest",
+      "Toil and Trouble, optional chest",
+      "Locked Away (Part Two), end chest",
+      "Body and Mind, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Charisma (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Charisma_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Charisma +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ettercap Incursion, end chest",
+      "The Wish, Lamordian Hook Horror Matriarch's chest",
+      "Burning Down the House, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Enduring (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Enduring_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Legendary Conditioning +10%"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Secrets of the Red Wizards, end chest (rare)",
+      "Magic of Myth Drannor (Legendary), Elite and True Elite",
+      "Rats in a Cage, end chest (rare)",
+      "Sleeping with the Fishes, end chest (rare)",
+      "The Proper Authorities, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Melee Power (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Melee_Power_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Melee Power +15"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Key to the Mythal, end chest",
+      "A Miner Sacrifice, optional chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Ranged Power (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Ranged_Power_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Ranged Power +15"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Seeds of Decay, end chest",
+      "Land of Lamordia, Fangs of Winter's chest",
+      "The Final Draw, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Physical Resistance Rating (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Physical_Resistance_Rating_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Physical Sheltering +30"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Secrets of the Red Wizards, end chest",
+      "The Darkness and the Light, end chest",
+      "The Covered Culvert, optional chest",
+      "Zoo Creeper, end chest",
+      "Going Rogue, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Threat Decrease (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Threat_Decrease_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Diversion +20%"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ruins of Myth Drannor, Yegora's chest, and Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "Snowfall and Sunlight, Potion Paw's chest",
+      "Burning Down the House, bonus chest for completing all optionals"
+    ]
+  },
+  {
+    "name": "Solar Gem of Assassination (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Assassination_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Assassinate +3"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Book Burning, end chest",
+      "Beneath the City Streets, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Spell Penetration (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Spell_Penetration_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Spell Penetration +3"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Times Long Past, end chest",
+      "Snowfall and Sunlight, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Constitution (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Constitution_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Constitution +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Seeds of Decay, end chest",
+      "Toil and Trouble, optional chest",
+      "Locked Away (Part One), end chest",
+      "Wish Upon a Card, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Fortification Bypass (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Fortification_Bypass_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Armor-Piercing 10%"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Heroic), Elite and True Elite",
+      "Ruins of Myth Drannor, Goranathanil's chest (rare)",
+      "The Knife's Edge, end chest (rare)",
+      "Dinosaur Crisis, end chest (rare)"
+    ]
+  },
+  {
+    "name": "Solar Gem of Magical Resistance Rating (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Magical_Resistance_Rating_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Magical Sheltering +10"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Darkness and the Light, end chest",
+      "The Safehold, end chest",
+      "The Covered Culvert, optional chest",
+      "Cold Snap, Althea's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Sneak Attack Dice (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Sneak_Attack_Dice_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+1 Artifact Bonus to Sneak Attack Dice"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Heroic), Elite and True Elite",
+      "Ruins of Myth Drannor, Goranathanil's chest and red-named rare encounter chests (rare)",
+      "The Knife's Edge, end chest (rare)",
+      "The Covered Culvert, optional chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Cruelty (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Cruelty_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+15% Artifact Bonus to Damage to helpless enemies"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Legendary), Elite and True Elite",
+      "Oghma's Song, end chest (rare)",
+      "A Miner Sacrifice, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Fortification Bypass (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Fortification_Bypass_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Armor-Piercing 30%"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Legendary), Elite and True Elite",
+      "Ruins of Myth Drannor, Goranathanil's chest (rare)",
+      "The Knife's Edge, end chest (rare)"
+    ]
+  },
+  {
+    "name": "Solar Gem of Repair Amplification (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Repair_Amplification_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Repair Amplification +30"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Voices of the Dead, end chest",
+      "The Body Snatchers, end chest",
+      "Thrall of Duty, K'rthol the Sentinel's chest",
+      "Burning Down the House, bonus chest for completing all optionals"
+    ]
+  },
+  {
+    "name": "Solar Gem of Spell Penetration (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Spell_Penetration_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Spell Penetration +10"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Times Long Past, end chest",
+      "Snowfall and Sunlight, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Threat Decrease (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Threat_Decrease_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Diversion +10%"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ruins of Myth Drannor, Yegora's chest, and Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "Snowfall and Sunlight, Potion Paw's chest",
+      "Burning Down the House, bonus chest for completing all optionals"
+    ]
+  },
+  {
+    "name": "Solar Gem of Will (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Will_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Will Save +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Death Hosts This Banquet, end chest",
+      "The Cerulean Hills, Romira and Juvian's chest (requires completion of Sleeping with the Fishes)",
+      "Ruins of Myth Drannor, Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "Beneath the City Streets, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of MRR Cap (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_MRR_Cap_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+30 Artifact Bonus to Magical Resistance Rating Cap"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Legendary), Elite and True Elite",
+      "Ruins of Myth Drannor, red-named rare encounter chests (rare)",
+      "The Covered Culvert, end chest (rare)",
+      "Locked Away (Part One), end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Tactical DCs (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Tactical_DCs_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Combat Mastery +3"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Key to the Mythal, end chest",
+      "The Body Snatchers, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Wisdom (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Wisdom_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Wisdom +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Safehold, end chest",
+      "A Miner Sacrifice, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Doubleshot (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Doubleshot_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Doubleshot 5%"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Portal to Below, end chest",
+      "The Knife's Edge, end chest",
+      "Sleeping with the Fishes, end chest",
+      "Snowfall and Sunlight, Potion Paw's chest",
+      "Body and Mind, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Spell Critical Chance (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Spell_Critical_Chance_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Spell Lore +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Heroic), Elite and True Elite",
+      "Ruins of Myth Drannor, Yegora's chest (rare), and Romira and Juvian's right chest (rare, requires completion of Sleeping with the Fishes)",
+      "The Wizard's Labyrinth, end chest (rare)",
+      "Toil and Trouble, end chest (rare)",
+      "The Proper Authorities, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Strikethrough (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Strikethrough_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+5% Artifact Bonus to Strikethrough"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Death Hosts This Banquet, end chest (rare)",
+      "Magic of Myth Drannor (Heroic), Elite and True Elite",
+      "Rats in a Cage, end chest (rare)",
+      "Dinosaur Crisis, end chest (rare)",
+      "Cold Snap, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Swift Charging (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Swift_Charging_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Rune Arm Charge Rate: 5%"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Heroic), Elite and True Elite",
+      "The Safehold, end chest (rare)",
+      "The Covered Culvert, end chest (rare)",
+      "Ends and Means, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Magical Resistance Rating (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Magical_Resistance_Rating_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Magical Sheltering +30"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Safehold, end chest",
+      "The Darkness and the Light, end chest",
+      "The Covered Culvert, optional chest",
+      "Cold Snap, Althea's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Spellpower (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Spellpower_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Potency +25"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Oghma's Song, end chest",
+      "The Wizard's Labyrinth, end chest",
+      "The Covered Culvert, optional chest",
+      "A Miner Sacrifice, optional chest",
+      "Wish Upon a Card, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Threat Increase (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Threat_Increase_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Incite +100"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ruins of Myth Drannor, Goranathanil's and Yegora's chests, and Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "Sleeping with the Fishes, House Lyrandar uprising optional chest",
+      "Land of Lamordia, Fangs of Winter's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Healing Amplification (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Healing_Amplification_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Healing Amplification +10"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Zulkir's Plan, end chest",
+      "The Cerulean Hills, Romira and Juvian's chest (requires completion of Sleeping with the Fishes)",
+      "Ruins of Myth Drannor, Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "The Wish, Lamordian Hook Horror Matriarch's chest",
+      "Going Rogue, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Negative Amplification (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Negative_Amplification_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Negative Amplification +10"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Secrets of the Red Wizards, end chest",
+      "Special Delivery, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Intelligence (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Intelligence_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Intelligence +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Oghma's Song, end chest",
+      "Snowfall and Sunlight, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Swift Charging (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Swift_Charging_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Rune Arm Charge Rate: 15%"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Legendary), Elite and True Elite",
+      "The Safehold, end chest (rare)",
+      "The Covered Culvert, end chest (rare)",
+      "Ends and Means, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Tactical DCs (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Tactical_DCs_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Combat Mastery +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Key to the Mythal, end chest",
+      "Dinosaur Crisis, end chest",
+      "The Body Snatchers, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Sneak Attack Dice (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Sneak_Attack_Dice_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+3 Artifact Bonus to Sneak Attack Dice"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Legendary), Elite and True Elite",
+      "Ruins of Myth Drannor, Goranathanil's chest and red-named rare encounter chests (rare)",
+      "The Knife's Edge, end chest (rare)",
+      "The Covered Culvert, optional chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Dexterity (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Dexterity_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Dexterity +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Portal to Below, end chest",
+      "Dinosaur Crisis, optional chest",
+      "Locked Away (Part One), Asylum Otyugh's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Repair Amplification (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Repair_Amplification_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Repair Amplification +10"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Voices of the Dead, end chest",
+      "The Body Snatchers, end chest",
+      "Thrall of Duty, K'rthol the Sentinel's chest",
+      "Burning Down the House, bonus chest for completing all optionals"
+    ]
+  },
+  {
+    "name": "Solar Gem of Threat Increase (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Threat_Increase_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Incite +50"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ruins of Myth Drannor, Goranathanil's and Yegora's chests, and Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "Sleeping with the Fishes, House Lyrandar uprising optional chest",
+      "Land of Lamordia, Fangs of Winter's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Sneak Attack Damage (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Sneak_Attack_Damage_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+3 Artifact Bonus to Sneak Attack Damage"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Death Hosts This Banquet, end chest",
+      "The Knife's Edge, end chest",
+      "A Miner Sacrifice, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Will (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Will_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Will Save +3"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Death Hosts This Banquet, end chest",
+      "Ruins of Myth Drannor, Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "Beneath the City Streets, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Strikethrough (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Strikethrough_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+15% Artifact Bonus to Strikethrough"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Death Hosts This Banquet, end chest (rare)",
+      "Magic of Myth Drannor (Legendary), Elite and True Elite",
+      "Rats in a Cage, end chest (rare)",
+      "Dinosaur Crisis, end chest (rare)",
+      "Cold Snap, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Sneak Attack Damage (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Sneak_Attack_Damage_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+1 Artifact Bonus to Sneak Attack Damage"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Death Hosts This Banquet, end chest",
+      "The Knife's Edge, end chest",
+      "A Miner Sacrifice, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Reflex (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Reflex_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Reflex Save +3"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Book Burning, end chest",
+      "Ruins of Myth Drannor, Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "Snowfall and Sunlight, locked chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Armor Layers (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Armor_Layers_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+5% Artifact Bonus to Armor Class"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Voices of the Dead, end chest",
+      "Sleeping with the Fishes, House Lyrandar uprising optional chest",
+      "The Body Snatchers, cookbook optional chest",
+      "Burning Down the House, bonus chest for completing all optionals"
+    ]
+  },
+  {
+    "name": "Solar Gem of Enduring (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Enduring_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Legendary Conditioning +5%"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Secrets of the Red Wizards, end chest (rare)",
+      "Magic of Myth Drannor (Heroic), Elite and True Elite",
+      "Rats in a Cage, end chest (rare)",
+      "Sleeping with the Fishes, end chest (rare)",
+      "The Proper Authorities, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Dodge (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Dodge_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Dodge +3%"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The House of Gems, end chest",
+      "Dinosaur Crisis, end chest",
+      "Ends and Means, end chest",
+      "Burning Down the House, bonus chest for completing all optionals"
+    ]
+  },
+  {
+    "name": "Solar Gem of MRR Cap (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_MRR_Cap_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+10 Artifact Bonus to Magical Resistance Rating Cap"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Magic of Myth Drannor (Heroic), Elite and True Elite",
+      "Ruins of Myth Drannor, red-named rare encounter chests (rare)",
+      "The Covered Culvert, end chest (rare)",
+      "Locked Away (Part One), end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Charisma (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Charisma_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Charisma +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ettercap Incursion, end chest",
+      "Toil and Trouble, optional chest",
+      "The Wish, Lamordian Hook Horror Matriarch's chest",
+      "Burning Down the House, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Melee Power (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Melee_Power_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Melee Power +5"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Key to the Mythal, end chest",
+      "A Miner Sacrifice, optional chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Reflex (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Reflex_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Reflex Save +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Book Burning, end chest",
+      "Dinosaur Crisis, optional chest",
+      "The Cerulean Hills, Romira and Juvian's chest (requires completion of Sleeping with the Fishes)",
+      "Ruins of Myth Drannor, Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "Snowfall and Sunlight, locked chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Fortification Bypass (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Fortification_Bypass_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Armor-Piercing 20%"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Dinosaur Crisis, end chest (rare)"
+    ]
+  },
+  {
+    "name": "Solar Gem of Reflex (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Reflex_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Reflex Save +2"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Dinosaur Crisis, optional chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Dodge (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Dodge_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Dodge +6%"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Dinosaur Crisis, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Strength (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Strength_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Strength +3"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Dinosaur Crisis, optional chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Tactical DCs (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Tactical_DCs_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Combat Mastery +2"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Dinosaur Crisis, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Intelligence (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Intelligence_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Intelligence +3"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Dinosaur Crisis, optional chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Charisma (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Charisma_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Charisma +3"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Toil and Trouble, optional chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Spell Critical Chance (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Spell_Critical_Chance_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Spell Lore +4"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Toil and Trouble, end chest (rare)"
+    ]
+  },
+  {
+    "name": "Solar Gem of Imbuement (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Imbuement_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Imbue Dice +2"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Toil and Trouble, end chest (rare)"
+    ]
+  },
+  {
+    "name": "Solar Gem of Constitution (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Constitution_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Constitution +3"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Toil and Trouble, optional chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Wisdom (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Wisdom_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Wisdom +3"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Toil and Trouble, optional chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Doublestrike (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Doublestrike_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Doublestrike 10%"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Toil and Trouble, optional chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Strikethrough (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Strikethrough_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+10% Artifact Bonus to Strikethrough"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Dinosaur Crisis, end chest (rare)"
+    ]
+  },
+  {
+    "name": "Solar Gem of Dexterity (Epic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Dexterity_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Dexterity +3"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Dinosaur Crisis, optional chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Balance and Tumble (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Balance_and_Tumble_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Balance +2",
+      "Artifact Tumble +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Body Snatchers, cookbook optional chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Balance and Tumble (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Balance_and_Tumble_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Balance +6",
+      "Artifact Tumble +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Body Snatchers, cookbook optional chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Search and Spot (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Search_and_Spot_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Search +2",
+      "Artifact Spot +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Special Delivery, Max Entsetzen's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Search and Spot (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Search_and_Spot_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Search +6",
+      "Artifact Spot +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Special Delivery, Max Entsetzen's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Disable Device and Open Lock (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Disable_Device_and_Open_Lock_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Disable Device +2",
+      "Artifact Open Lock +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Land of Lamordia, Experiment Y's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Disable Device and Open Lock (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Disable_Device_and_Open_Lock_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Disable Device +6",
+      "Artifact Open Lock +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Land of Lamordia, Experiment Y's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Haggle and Perform (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Haggle_and_Perform_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Haggle +2",
+      "Artifact Perform +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Wish, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Haggle and Perform (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Haggle_and_Perform_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Haggle +6",
+      "Artifact Perform +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Wish, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Repair and Use Magic Device (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Repair_and_Use_Magic_Device_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Repair +2",
+      "Artifact Use Magic Device +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Land of Lamordia, Experiment Y's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Repair and Use Magic Device (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Repair_and_Use_Magic_Device_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Repair +6",
+      "Artifact Use Magic Device +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Land of Lamordia, Experiment Y's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Heal and Listen (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Heal_and_Listen_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Heal +2",
+      "Artifact Listen +2",
+      "Artifact Concentration +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Land of Lamordia, Experiment Y's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Heal and Listen (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Heal_and_Listen_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Heal +6",
+      "Artifact Listen +6",
+      "Artifact Concentration +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Land of Lamordia, Experiment Y's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Jump and Swim (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Jump_and_Swim_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Jump +2",
+      "Artifact Swim +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Special Delivery, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Jump and Swim (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Jump_and_Swim_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Jump +6",
+      "Artifact Swim +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Special Delivery, end chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Hide and Move Silently (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Hide_and_Move_Silently_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Hide +2",
+      "Artifact Move Silently +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Wish, Lamordian Hook Horror Matriarch's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Hide and Move Silently (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Hide_and_Move_Silently_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Hide +6",
+      "Artifact Move Silently +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Wish, Lamordian Hook Horror Matriarch's chest"
+    ]
+  },
+  {
+    "name": "Solar Gem of Linguistics (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Linguistics_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Diplomacy +2",
+      "Artifact Intimidate +2",
+      "Artifact Bluff +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Light in the Attic, end chest (rare)",
+      "The Body Snatchers, cookbook optional (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Linguistics (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Linguistics_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Diplomacy +6",
+      "Artifact Intimidate +6",
+      "Artifact Bluff +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Light in the Attic, end chest (rare)",
+      "The Body Snatchers, cookbook optional (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Pact Dice (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Pact_Dice_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Power in Pact +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Light in the Attic, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Pact Dice (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Pact_Dice_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Power in Pact +3"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Light in the Attic, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Force Absorption (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Force_Absorption_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Force Absorption +2%"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Snowfall and Sunlight, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Force Absorption (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Force_Absorption_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Force Absorption +6%"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Snowfall and Sunlight, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Conjuration (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Conjuration_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Conjuration Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Light in the Attic, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Conjuration (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Conjuration_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Conjuration Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Light in the Attic, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Necromancy (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Necromancy_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Necromancy Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Body Snatchers, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Necromancy (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Necromancy_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Necromancy Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Body Snatchers, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Transmutation (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Transmutation_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Transmutation Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Special Delivery, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Transmutation (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Transmutation_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Transmutation Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Special Delivery, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Elemental Absorption (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Elemental_Absorption_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Fire Absorption +10%",
+      "Artifact Cold Absorption +10%",
+      "Artifact Electric Absorption +10%",
+      "Artifact Acid Absorption +10%"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Land of Lamordia, Vornir Frosthelm's chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Elemental Absorption (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Elemental_Absorption_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Fire Absorption +3%",
+      "Artifact Cold Absorption +3%",
+      "Artifact Electric Absorption +3%",
+      "Artifact Acid Absorption +3%"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Land of Lamordia, Vornir Frosthelm's chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Critical Confirmation (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Critical_Confirmation_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Seeker +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Body Snatchers, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty",
+      "Body and Mind, end chest (rare)"
+    ]
+  },
+  {
+    "name": "Solar Gem of Critical Confirmation (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Critical_Confirmation_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Seeker +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Body Snatchers, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty",
+      "Body and Mind, end chest (rare)"
+    ]
+  },
+  {
+    "name": "Solar Gem of Blast Dice (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Blast_Dice_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+1 Artifact Bonus to Eldritch Blast Dice."
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Cold Snap, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Blast Dice (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Blast_Dice_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+3 Artifact Bonus to Eldritch Blast Dice."
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Cold Snap, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Abjuration (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Abjuration_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Abjuration Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Locked Away (Part Two), end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Abjuration (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Abjuration_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Abjuration Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Locked Away (Part Two), end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Enchantment (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Enchantment_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Enchantment Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Beneath the City Streets, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Enchantment (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Enchantment_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Enchantment Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Beneath the City Streets, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Evocation (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Evocation_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Evocation Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Locked Away (Part One), end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Evocation (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Evocation_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Evocation Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Locked Away (Part One), end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Illusion (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Illusion_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Illusion Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Locked Away (Part Two), end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Illusion (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Illusion_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Illusion Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Locked Away (Part Two), end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Attack (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Attack_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Accuracy +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Zoo Creeper, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Attack (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Attack_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Accuracy +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Zoo Creeper, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Dodge Cap (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Dodge_Cap_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+1% Legendary Bonus to Dodge Cap."
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Special Delivery, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Dodge Cap (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Dodge_Cap_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+3% Legendary Bonus to Dodge Cap."
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Special Delivery, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Arcane Endurance (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Arcane_Endurance_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+3% Legendary Bonus to Maximum Spell Points."
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Miner Sacrifice, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Arcane Endurance (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Arcane_Endurance_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+10% Legendary Bonus to Maximum Spell Points."
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Miner Sacrifice, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Rune Arm DCs (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Rune_Arm_DCs_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+1 Artifact bonus to Rune Arm DCs."
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ends and Means, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Rune Arm DCs (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Rune_Arm_DCs_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "+3 Artifact bonus to Rune Arm DCs."
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ends and Means, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Damage (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Damage_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Deadly +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Wish, end chest (rare)",
+      "The Chill of Ravenloft (Heroic), any difficulty"
+    ]
+  },
+  {
+    "name": "Solar Gem of Damage (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Solar_Gem_of_Damage_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Sun",
+    "augmentType": "Sun augments",
+    "effectsRaw": [
+      "Artifact Deadly +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Wish, end chest (rare)",
+      "The Chill of Ravenloft (Legendary), any difficulty"
+    ]
+  }
+]

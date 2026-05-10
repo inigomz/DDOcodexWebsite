@@ -2,450 +2,1061 @@
   {
     "name": "Skartongue's Ladel",
     "link": "https://ddowiki.com/page/Item:Skartongue%27s_Ladel",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 2,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Shocking Touch",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Shocking Touch"
+    ],
+    "itemKey": "item:skartongue's_ladel",
+    "setMembership": []
   },
   {
     "name": "Sworn Silver Light Mace",
     "link": "https://ddowiki.com/page/Item:Sworn_Silver_Light_Mace",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_light_mace",
+    "setMembership": []
   },
   {
     "name": "Ethereal Light Mace",
     "link": "https://ddowiki.com/page/Item:Ethereal_Light_Mace",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_light_mace",
+    "setMembership": []
   },
   {
     "name": "Mournlode Light Mace (level 4)",
     "link": "https://ddowiki.com/page/Item:Mournlode_Light_Mace_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 4,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Righteous",
       "Undead Bane 2"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Righteous",
+      "Undead Bane 2"
+    ],
+    "itemKey": "item:mournlode_light_mace_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Hull-Melter's Mace (level 4)",
     "link": "https://ddowiki.com/page/Item:Hull-Melter%27s_Mace_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 4,
+    "effectsRaw": [
       "Spellcasting Implement +4",
       "+2 Enhancement Bonus",
       "Insightful Corrosion +27",
       "Acid Lore +8%",
       "Insightful Conjuration Focus +1",
-      "Insightful Fortification  +27%",
+      "Insightful Fortification +27%",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +4",
+      "+2 Enhancement Bonus",
+      "Insightful Corrosion +27",
+      "Acid Lore +8%",
+      "Insightful Conjuration Focus +1",
+      "Insightful Fortification +27%"
+    ],
+    "itemKey": "item:hull-melter's_mace_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Ferrocrystal Light Mace",
     "link": "https://ddowiki.com/page/Item:Ferrocrystal_Light_Mace",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Feybane 2",
       "Destruction",
       "Maiming 2",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_light_mace",
+    "setMembership": []
   },
   {
     "name": "Flamesalt Light Mace",
     "link": "https://ddowiki.com/page/Item:Flamesalt_Light_Mace",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 5,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Chilling 2",
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_light_mace",
+    "setMembership": []
   },
   {
     "name": "Mournlode Light Mace (level 8)",
     "link": "https://ddowiki.com/page/Item:Mournlode_Light_Mace_(level_8)",
-    "minLevel": "8",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 8,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:mournlode_light_mace_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Hull-Melter's Mace (level 8)",
     "link": "https://ddowiki.com/page/Item:Hull-Melter%27s_Mace_(level_8)",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 8,
+    "effectsRaw": [
       "Spellcasting Implement +8",
       "+3 Enhancement Bonus",
       "Insightful Corrosion +35",
       "Acid Lore +10%",
       "Insightful Conjuration Focus +1",
-      "Insightful Fortification  +35%",
+      "Insightful Fortification +35%",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +8",
+      "+3 Enhancement Bonus",
+      "Insightful Corrosion +35",
+      "Acid Lore +10%",
+      "Insightful Conjuration Focus +1",
+      "Insightful Fortification +35%"
+    ],
+    "itemKey": "item:hull-melter's_mace_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Calamitous Light Mace",
     "link": "https://ddowiki.com/page/Item:Calamitous_Light_Mace",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
       "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)"
+    ],
+    "itemKey": "item:calamitous_light_mace",
+    "setMembership": []
   },
   {
     "name": "Adoryn's Malice",
     "link": "https://ddowiki.com/page/Item:Adoryn%27s_Malice",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Greater Construct Bane",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Greater Construct Bane",
+      "Adamantine"
+    ],
+    "itemKey": "item:adoryn's_malice",
+    "setMembership": []
   },
   {
     "name": "Macabre Light Mace",
     "link": "https://ddowiki.com/page/Item:Macabre_Light_Mace",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_light_mace",
+    "setMembership": []
   },
   {
     "name": "Barovian's Light Mace",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Light_Mace",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Undead Bane 3",
       "Holy 3",
       "Fiery 3",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Undead Bane 3",
+      "Holy 3",
+      "Fiery 3",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:barovian's_light_mace",
+    "setMembership": []
   },
   {
     "name": "Alchemical Light Mace",
     "link": "https://ddowiki.com/page/Item:Alchemical_Light_Mace",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_light_mace",
+    "setMembership": []
   },
   {
     "name": "Green Steel Light Mace",
     "link": "https://ddowiki.com/page/Item:Green_Steel_Light_Mace",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_light_mace",
+    "setMembership": []
   },
   {
     "name": "Skullsmasher (level 12)",
     "link": "https://ddowiki.com/page/Item:Skullsmasher_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Intimidate +10",
       "Ribcracker III",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Intimidate +10",
+      "Ribcracker III"
+    ],
+    "itemKey": "item:skullsmasher_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Mournlode Light Mace (level 12)",
     "link": "https://ddowiki.com/page/Item:Mournlode_Light_Mace_(level_12)",
-    "minLevel": "12",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 12,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:mournlode_light_mace_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Skullsmasher (historic)",
     "link": "https://ddowiki.com/page/Item:Skullsmasher_(historic)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Intimidate +10",
       "Orc Bane"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Intimidate +10",
+      "Orc Bane"
+    ],
+    "itemKey": "item:skullsmasher_(historic)",
+    "setMembership": []
   },
   {
     "name": "Hull-Melter's Mace (level 12)",
     "link": "https://ddowiki.com/page/Item:Hull-Melter%27s_Mace_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 12,
+    "effectsRaw": [
       "Spellcasting Implement +12",
       "+4 Enhancement Bonus",
       "Insightful Corrosion +42",
       "Acid Lore +12%",
       "Insightful Conjuration Focus +2",
-      "Insightful Fortification  +42%",
+      "Insightful Fortification +42%",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Insightful Corrosion +42",
+      "Acid Lore +12%",
+      "Insightful Conjuration Focus +2",
+      "Insightful Fortification +42%"
+    ],
+    "itemKey": "item:hull-melter's_mace_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Skullsmasher (level 13)",
     "link": "https://ddowiki.com/page/Item:Skullsmasher_(level_13)",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Intimidate +11",
       "Ribcracker III",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Intimidate +11",
+      "Ribcracker III"
+    ],
+    "itemKey": "item:skullsmasher_(level_13)",
+    "setMembership": []
   },
   {
     "name": "Light Mace of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Light_Mace_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Anarchic Blast 3",
       "Anarchic 3",
       "Aligned",
       "Impact",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Impact"
+    ],
+    "itemKey": "item:light_mace_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Light Mace of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Light_Mace_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Force Blast 3",
       "Impactful 3",
       "Vorpal",
       "Entropic 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:light_mace_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Skullsmasher (level 14)",
     "link": "https://ddowiki.com/page/Item:Skullsmasher_(level_14)",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Intimidate +13",
       "Ribcracker IV",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Intimidate +13",
+      "Ribcracker IV"
+    ],
+    "itemKey": "item:skullsmasher_(level_14)",
+    "setMembership": []
   },
   {
     "name": "Syranian Light Mace",
     "link": "https://ddowiki.com/page/Item:Syranian_Light_Mace",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Electrifying 4",
       "Holy 4",
       "Construct Bane 4",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_light_mace",
+    "setMembership": []
   },
   {
     "name": "Mournlode Light Mace (level 16)",
     "link": "https://ddowiki.com/page/Item:Mournlode_Light_Mace_(level_16)",
-    "minLevel": "16",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 16,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:mournlode_light_mace_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Hull-Melter's Mace (level 16)",
     "link": "https://ddowiki.com/page/Item:Hull-Melter%27s_Mace_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 16,
+    "effectsRaw": [
       "Spellcasting Implement +16",
       "+5 Enhancement Bonus",
       "Insightful Corrosion +48",
       "Acid Lore +14%",
       "Insightful Conjuration Focus +2",
-      "Insightful Fortification  +48%",
+      "Insightful Fortification +48%",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +16",
+      "+5 Enhancement Bonus",
+      "Insightful Corrosion +48",
+      "Acid Lore +14%",
+      "Insightful Conjuration Focus +2",
+      "Insightful Fortification +48%"
+    ],
+    "itemKey": "item:hull-melter's_mace_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Shining Reliquary Light Mace",
     "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Light_Mace",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_light_mace",
+    "setMembership": []
   },
   {
     "name": "Defiled Reliquary Light Mace",
     "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Light_Mace",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_light_mace",
+    "setMembership": []
   },
   {
     "name": "Epic Mournlode Light Mace",
     "link": "https://ddowiki.com/page/Item:Epic_Mournlode_Light_Mace",
-    "minLevel": "20",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 20,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:epic_mournlode_light_mace",
+    "setMembership": []
   },
   {
     "name": "Epic Hull-Melter's Mace (level 20)",
     "link": "https://ddowiki.com/page/Item:Epic_Hull-Melter%27s_Mace_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 20,
+    "effectsRaw": [
       "Spellcasting Implement +20",
       "+6 Enhancement Bonus",
       "Insightful Corrosion +55",
       "Acid Lore +16%",
       "Insightful Conjuration Focus +2",
-      "Insightful Fortification  +55%",
+      "Insightful Fortification +55%",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Insightful Corrosion +55",
+      "Acid Lore +16%",
+      "Insightful Conjuration Focus +2",
+      "Insightful Fortification +55%"
+    ],
+    "itemKey": "item:epic_hull-melter's_mace_(level_20)",
+    "setMembership": []
   },
   {
     "name": "Epic Sworn Silver Light Mace",
     "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Light_Mace",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Unnatural Bane 4",
       "Destruction",
       "Righteous",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_light_mace",
+    "setMembership": []
   },
   {
     "name": "Epic Ethereal Light Mace",
     "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Light_Mace",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Impactful 4",
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_light_mace",
+    "setMembership": []
   },
   {
     "name": "Drow Light Mace of the Weapon Master",
     "link": "https://ddowiki.com/page/Item:Drow_Light_Mace_of_the_Weapon_Master",
-    "minLevel": "21",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 21,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
       "Insightful Combat Mastery +5",
       "Shatter +10",
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "itemKey": "item:drow_light_mace_of_the_weapon_master",
+    "setMembership": []
   },
   {
     "name": "Thunder-Forged Alloy Light Mace",
     "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Light_Mace",
-    "minLevel": "22",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 22,
+    "effectsRaw": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_light_mace",
+    "setMembership": []
   },
   {
     "name": "Skullsmasher (level 23)",
     "link": "https://ddowiki.com/page/Item:Skullsmasher_(level_23)",
-    "minLevel": "23",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 23,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Intimidate +17",
       "Ribcracker V",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Intimidate +17",
+      "Ribcracker V"
+    ],
+    "itemKey": "item:skullsmasher_(level_23)",
+    "setMembership": []
   },
   {
     "name": "Skullsmasher (level 24)",
     "link": "https://ddowiki.com/page/Item:Skullsmasher_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 24,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Intimidate +20",
       "Ribcracker VI",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Intimidate +20",
+      "Ribcracker VI"
+    ],
+    "itemKey": "item:skullsmasher_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Epic Hull-Melter's Mace (level 24)",
     "link": "https://ddowiki.com/page/Item:Epic_Hull-Melter%27s_Mace_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 24,
+    "effectsRaw": [
       "Spellcasting Implement +24",
       "+7 Enhancement Bonus",
       "Insightful Corrosion +62",
       "Acid Lore +18%",
       "Quality Conjuration Focus +1",
-      "Insightful Fortification  +62%",
+      "Insightful Fortification +62%",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +24",
+      "+7 Enhancement Bonus",
+      "Insightful Corrosion +62",
+      "Acid Lore +18%",
+      "Quality Conjuration Focus +1",
+      "Insightful Fortification +62%"
+    ],
+    "itemKey": "item:epic_hull-melter's_mace_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Skullsmasher (level 25)",
     "link": "https://ddowiki.com/page/Item:Skullsmasher_(level_25)",
-    "minLevel": "25",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 25,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Intimidate +20",
       "Ribcracker VI",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Intimidate +20",
+      "Ribcracker VI"
+    ],
+    "itemKey": "item:skullsmasher_(level_25)",
+    "setMembership": []
   },
   {
     "name": "Legendary Green Steel Light Mace",
     "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Light_Mace",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 26,
+    "effectsRaw": [
       "+14 Enhancement Bonus",
       "Legendary Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_light_mace",
+    "setMembership": []
   },
   {
     "name": "Lightning Coil",
     "link": "https://ddowiki.com/page/Item:Lightning_Coil",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 28,
+    "effectsRaw": [
       "Spellcasting Implement +28",
       "+15 Enhancement Bonus",
       "Static Attraction",
@@ -454,66 +1065,154 @@
       "Evocation Focus +6",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +28",
+      "+15 Enhancement Bonus",
+      "Static Attraction",
+      "Lightning Lore +21%",
+      "Magnetism +145",
+      "Evocation Focus +6"
+    ],
+    "itemKey": "item:lightning_coil",
+    "setMembership": []
   },
   {
     "name": "Epic Hull-Melter's Mace (level 28)",
     "link": "https://ddowiki.com/page/Item:Epic_Hull-Melter%27s_Mace_(level_28)",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 28,
+    "effectsRaw": [
       "Spellcasting Implement +28",
       "+12 Enhancement Bonus",
       "Insightful Corrosion +69",
       "Acid Lore +20%",
       "Quality Conjuration Focus +1",
-      "Insightful Fortification  +69%",
+      "Insightful Fortification +69%",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +28",
+      "+12 Enhancement Bonus",
+      "Insightful Corrosion +69",
+      "Acid Lore +20%",
+      "Quality Conjuration Focus +1",
+      "Insightful Fortification +69%"
+    ],
+    "itemKey": "item:epic_hull-melter's_mace_(level_28)",
+    "setMembership": []
   },
   {
     "name": "Nightmother's Light Mace",
     "link": "https://ddowiki.com/page/Item:Nightmother%27s_Light_Mace",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_light_mace",
+    "setMembership": []
   },
   {
     "name": "Morninglord's Light Mace",
     "link": "https://ddowiki.com/page/Item:Morninglord%27s_Light_Mace",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_light_mace",
+    "setMembership": []
   },
   {
     "name": "Legendary Syranian Light Mace",
     "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Light_Mace",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Electrifying 6",
       "Holy 6",
       "Construct Bane 6",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_light_mace",
+    "setMembership": []
   },
   {
     "name": "Mori's Focus",
     "link": "https://ddowiki.com/page/Item:Mori%27s_Focus",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 29,
+    "effectsRaw": [
       "Spellcasting Implement +29",
       "+15 Enhancement Bonus",
       "Acid Vulnerability",
@@ -522,49 +1221,117 @@
       "Quality Corrosion +36",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Acid Vulnerability",
+      "Soul Tear",
+      "Insightful Corrosion +74",
+      "Quality Corrosion +36"
+    ],
+    "itemKey": "item:mori's_focus",
+    "setMembership": []
   },
   {
     "name": "Legendary Ferrocrystal Light Mace",
     "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Light_Mace",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Feybane 6",
       "Improved Destruction",
       "Maiming 6",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_light_mace",
+    "setMembership": []
   },
   {
     "name": "Legendary Alchemical Light Mace",
     "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Light_Mace",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Legendary Alchemical Crafting (Prototype)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_light_mace",
+    "setMembership": []
   },
   {
     "name": "Legendary Flamesalt Light Mace",
     "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Light_Mace",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Chilling 6",
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_light_mace",
+    "setMembership": []
   },
   {
     "name": "Dinosaur Bone Light Mace",
     "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Light_Mace",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -572,13 +1339,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:dinosaur_bone_light_mace",
+    "setMembership": []
   },
   {
     "name": "Attuned Bone Light Mace",
     "link": "https://ddowiki.com/page/Item:Attuned_Bone_Light_Mace",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -586,27 +1371,63 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:attuned_bone_light_mace",
+    "setMembership": []
   },
   {
     "name": "Legendary Hull-Melter's Mace (level 32)",
     "link": "https://ddowiki.com/page/Item:Legendary_Hull-Melter%27s_Mace_(level_32)",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 32,
+    "effectsRaw": [
       "Spellcasting Implement +32",
       "+15 Enhancement Bonus",
       "Insightful Corrosion +76",
       "Acid Lore +22%",
       "Quality Conjuration Focus +1",
-      "Insightful Fortification  +76%",
+      "Insightful Fortification +76%",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Insightful Corrosion +76",
+      "Acid Lore +22%",
+      "Quality Conjuration Focus +1",
+      "Insightful Fortification +76%"
+    ],
+    "itemKey": "item:legendary_hull-melter's_mace_(level_32)",
+    "setMembership": []
   },
   {
     "name": "Legendary Shining Reliquary Light Mace",
     "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Light_Mace",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 6",
@@ -614,13 +1435,31 @@
       "Evil Outsider Bane 6",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_light_mace",
+    "setMembership": []
   },
   {
     "name": "Legendary Defiled Reliquary Light Mace",
     "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Light_Mace",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 6",
@@ -629,13 +1468,33 @@
       "Taint of Evil",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_light_mace",
+    "setMembership": []
   },
   {
     "name": "Legendary Light Mace of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Light_Mace_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Anarchic Blast 7",
       "Anarchic 7",
@@ -643,13 +1502,31 @@
       "Impact",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Impact"
+    ],
+    "itemKey": "item:legendary_light_mace_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Light Mace of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Light_Mace_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Force Blast 7",
       "Impactful 7",
@@ -657,13 +1534,31 @@
       "Entropic 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_light_mace_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Light Mace of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Light_Mace_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Dripping with Magma",
       "3rd Degree Burns",
@@ -671,13 +1566,31 @@
       "Sealed in Fire",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:light_mace_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Calamitous Light Mace",
     "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Light_Mace",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -685,13 +1598,31 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_calamitous_light_mace",
+    "setMembership": []
   },
   {
     "name": "Legendary Cataclysmic Light Mace",
     "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Light_Mace",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "light_mace",
+    "handedness": "one_handed",
+    "category": "Light Maces",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -699,6 +1630,20 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_cataclysmic_light_mace",
+    "setMembership": []
   }
 ]

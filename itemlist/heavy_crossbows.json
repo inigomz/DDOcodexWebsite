@@ -2,355 +2,994 @@
   {
     "name": "Ethereal Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Ethereal_Heavy_Crossbow",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Sworn Silver Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Sworn_Silver_Heavy_Crossbow",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Ferrocrystal Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Ferrocrystal_Heavy_Crossbow",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Feybane 2",
       "Destruction",
       "Maiming 2",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Flamesalt Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Flamesalt_Heavy_Crossbow",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 5,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Chilling 2",
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Swift Demise",
     "link": "https://ddowiki.com/page/Item:Swift_Demise",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 6,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Crippling",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Crippling"
+    ],
+    "itemKey": "item:swift_demise",
+    "setMembership": []
   },
   {
     "name": "Calamitous Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Calamitous_Heavy_Crossbow",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
       "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)"
+    ],
+    "itemKey": "item:calamitous_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Barovian's Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Heavy_Crossbow",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Macabre Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Macabre_Heavy_Crossbow",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Storm",
     "link": "https://ddowiki.com/page/Item:Storm",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 12,
+    "effectsRaw": [
       "Spellcasting Implement +15",
       "+5 Enhancement Bonus",
       "Lightning Strike",
       "Shocking Blast 3",
       "Screeching 7",
       "Thunderstorm Lore +12%",
-      "Power of the Thunderstorm",
+      "Power of the Thunderstorm +84",
       "The Desert's Writhing Storm"
+    ],
+    "augmentSlots": [],
+    "setBonuses": [
+      {
+        "setId": "the_desert_s_writhing_storm",
+        "setName": "The Desert's Writhing Storm",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
+        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2%",
+            "effect": "Artifact bonus to Electric Spellcrit Chance"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+4%",
+            "effect": "Artifact bonus to Electric Spellcrit Chance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+6%",
+            "effect": "Artifact bonus to Electric Spellcrit Chance"
+          }
+        ]
+      },
+      {
+        "setId": "the_desert_s_writhing_storm",
+        "setName": "The Desert's Writhing Storm",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
+        "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Electric Spellpower"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Electric Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Electric Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_desert_s_writhing_storm",
+        "setName": "The Desert's Writhing Storm",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Magical Resistance Rating"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Magical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Magical Resistance Rating"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Lightning Strike",
+      "Shocking Blast 3",
+      "Screeching 7",
+      "Thunderstorm Lore +12%",
+      "Power of the Thunderstorm +84",
+      "The Desert's Writhing Storm"
+    ],
+    "itemKey": "item:storm",
+    "setMembership": [
+      {
+        "setId": "the_desert_s_writhing_storm",
+        "setName": "The Desert's Writhing Storm",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 11,
+        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Electric Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
+            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2%",
+                "effect": "Artifact bonus to Electric Spellcrit Chance"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+4%",
+                "effect": "Artifact bonus to Electric Spellcrit Chance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+6%",
+                "effect": "Artifact bonus to Electric Spellcrit Chance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
+            "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Electric Spellpower"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Electric Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Electric Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Magical Resistance Rating"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Magical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Magical Resistance Rating"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Alchemical Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Alchemical_Heavy_Crossbow",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Green Steel Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Green_Steel_Heavy_Crossbow",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Heavy Crossbow of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Heavy_Crossbow_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Anarchic Blast 3",
       "Anarchic 3",
       "Aligned",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:heavy_crossbow_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Heavy Crossbow of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Heavy_Crossbow_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Force Blast 3",
       "Impactful 3",
       "Vorpal",
       "Entropic 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:heavy_crossbow_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Syranian Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Syranian_Heavy_Crossbow",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Electrifying 4",
       "Holy 4",
       "Construct Bane 4",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Shining Reliquary Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Heavy_Crossbow",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Defiled Reliquary Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Heavy_Crossbow",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Epic Storm",
     "link": "https://ddowiki.com/page/Item:Epic_Storm",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 20,
+    "effectsRaw": [
       "Spellcasting Implement +20",
       "+6 Enhancement Bonus",
       "Lightning Strike",
       "Shocking Blast 4",
       "Screeching 10",
       "Thunderstorm Lore +16%",
-      "Power of the Thunderstorm",
+      "Power of the Thunderstorm +111",
       "Colorless Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Colorless",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Lightning Strike",
+      "Shocking Blast 4",
+      "Screeching 10",
+      "Thunderstorm Lore +16%",
+      "Power of the Thunderstorm +111"
+    ],
+    "itemKey": "item:epic_storm",
+    "setMembership": []
   },
   {
     "name": "Epic Sworn Silver Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Heavy_Crossbow",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Unnatural Bane 4",
       "Destruction",
       "Righteous",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Epic Ethereal Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Heavy_Crossbow",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Impactful 4",
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Thunder-Forged Alloy Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Heavy_Crossbow",
-    "minLevel": "22",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 22,
+    "effectsRaw": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Green Steel Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Heavy_Crossbow",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 26,
+    "effectsRaw": [
       "+14 Enhancement Bonus",
       "Legendary Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "The Hallowed Splinters",
     "link": "https://ddowiki.com/page/Item:The_Hallowed_Splinters",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Nearly Finished",
+      "Nearly FinishedPurple Augment SlotConjure Radiant Bolt — 1 Charges (Recharged/Day:1)Completed Weapon",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Nearly FinishedPurple Augment SlotConjure Radiant Bolt — 1 Charges (Recharged/Day:1)Completed Weapon"
+    ],
+    "itemKey": "item:the_hallowed_splinters",
+    "setMembership": []
   },
   {
     "name": "Legendary Ferrocrystal Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Heavy_Crossbow",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Feybane 6",
       "Improved Destruction",
       "Maiming 6",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Morninglord's Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Morninglord%27s_Heavy_Crossbow",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Nightmother's Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Nightmother%27s_Heavy_Crossbow",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Syranian Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Heavy_Crossbow",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Electrifying 6",
       "Holy 6",
       "Construct Bane 6",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Flamesalt Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Heavy_Crossbow",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Chilling 6",
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Storm",
     "link": "https://ddowiki.com/page/Item:Legendary_Storm",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 30,
+    "effectsRaw": [
       "Spellcasting Implement +30",
       "+15 Enhancement Bonus",
       "Sovereign Lightning Strike",
       "Shocking Blast 6",
       "Screeching 15",
       "Thunderstorm Lore +22%",
-      "Power of the Thunderstorm",
+      "Power of the Thunderstorm +151",
       "The Legendary Desert's Writhing Storm",
       "Colorless Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Colorless",
+      "Red"
+    ],
+    "setBonuses": [
+      "The Legendary Desert's Writhing Storm"
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Sovereign Lightning Strike",
+      "Shocking Blast 6",
+      "Screeching 15",
+      "Thunderstorm Lore +22%",
+      "Power of the Thunderstorm +151"
+    ],
+    "itemKey": "item:legendary_storm",
+    "setMembership": []
   },
   {
     "name": "Dinosaur Bone Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Heavy_Crossbow",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -358,13 +997,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:dinosaur_bone_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Attuned Bone Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Attuned_Bone_Heavy_Crossbow",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -372,13 +1029,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:attuned_bone_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Shining Reliquary Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Heavy_Crossbow",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 6",
@@ -386,13 +1061,31 @@
       "Evil Outsider Bane 6",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "The Anarchist's Crossbow (Abridged)",
     "link": "https://ddowiki.com/page/Item:The_Anarchist%27s_Crossbow_(Abridged)",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Thorny Crown of Madness 7",
       "Glass Shards",
@@ -401,13 +1094,300 @@
       "Planar Searing",
       "Orange Augment Slot",
       "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 3,
+        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Attack and Damage"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane Bonus to Attack and Damage"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane Bonus to Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to Spell DCs"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Thorny Crown of Madness 7",
+      "Glass Shards",
+      "Cursed Maelstrom",
+      "Ranged Alacrity 20%",
+      "Planar Searing"
+    ],
+    "itemKey": "item:the_anarchist's_crossbow_(abridged)",
+    "setMembership": [
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 61,
+        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Attack and Damage"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane Bonus to Attack and Damage"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane Bonus to Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to Spell DCs"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Legendary Defiled Reliquary Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Heavy_Crossbow",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 6",
@@ -416,13 +1396,33 @@
       "Taint of Evil",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Heavy Crossbow of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Heavy_Crossbow_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Anarchic Blast 7",
       "Anarchic 7",
@@ -430,13 +1430,31 @@
       "Keen",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_heavy_crossbow_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Heavy Crossbow of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Heavy_Crossbow_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Force Blast 7",
       "Impactful 7",
@@ -444,13 +1462,31 @@
       "Entropic 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_heavy_crossbow_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Heavy Crossbow of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Heavy_Crossbow_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Dripping with Magma",
       "3rd Degree Burns",
@@ -458,13 +1494,31 @@
       "Sealed in Fire",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:heavy_crossbow_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Calamitous Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Heavy_Crossbow",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -472,13 +1526,31 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_calamitous_heavy_crossbow",
+    "setMembership": []
   },
   {
     "name": "Legendary Cataclysmic Heavy Crossbow",
     "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Heavy_Crossbow",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "heavy_crossbow",
+    "handedness": "one_handed",
+    "category": "Heavy Crossbows",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -486,6 +1558,20 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_cataclysmic_heavy_crossbow",
+    "setMembership": []
   }
 ]

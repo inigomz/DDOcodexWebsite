@@ -2,65 +2,145 @@
   {
     "name": "Ethereal Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Ethereal_Throwing_Dagger",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Sworn Silver Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Sworn_Silver_Throwing_Dagger",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Returning"
+    ],
+    "itemKey": "item:sworn_silver_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Noxious Fang",
     "link": "https://ddowiki.com/page/Item:Noxious_Fang",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 4,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Poisonous 2",
       "Critical Befouling 1",
       "Fortitude Save +4",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Poisonous 2",
+      "Critical Befouling 1",
+      "Fortitude Save +4",
+      "Returning"
+    ],
+    "itemKey": "item:noxious_fang",
+    "setMembership": []
   },
   {
     "name": "Spectral Throwing Dagger (level 4)",
     "link": "https://ddowiki.com/page/Item:Spectral_Throwing_Dagger_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 4,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Returning",
       "Ghostbane 2",
       "Evil Outsider Bane 2",
       "Crushing 4"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Returning",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Crushing 4"
+    ],
+    "itemKey": "item:spectral_throwing_dagger_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Lynnabel's Bug Killer (level 5)",
     "link": "https://ddowiki.com/page/Item:Lynnabel%27s_Bug_Killer_(level_5)",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Vermin Bane 2",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Vermin Bane 2",
+      "Returning"
+    ],
+    "itemKey": "item:lynnabel's_bug_killer_(level_5)",
+    "setMembership": []
   },
   {
     "name": "Ferrocrystal Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Ferrocrystal_Throwing_Dagger",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Feybane 2",
       "Destruction",
@@ -68,13 +148,31 @@
       "Crystal",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Returning"
+    ],
+    "itemKey": "item:ferrocrystal_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Flamesalt Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Flamesalt_Throwing_Dagger",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 5,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Chilling 2",
       "Monstrous Humanoid Bane 2",
@@ -82,37 +180,86 @@
       "Flametouched Iron",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Returning"
+    ],
+    "itemKey": "item:flamesalt_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Chill Shard",
     "link": "https://ddowiki.com/page/Item:Chill_Shard",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 6,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Frost",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Frost",
+      "Returning"
+    ],
+    "itemKey": "item:chill_shard",
+    "setMembership": []
   },
   {
     "name": "Spectral Throwing Dagger (level 8)",
     "link": "https://ddowiki.com/page/Item:Spectral_Throwing_Dagger_(level_8)",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 8,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Returning",
       "Ghostbane 2",
       "Evil Outsider Bane 2",
       "Vorpal",
       "Crushing 6"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Returning",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Vorpal",
+      "Crushing 6"
+    ],
+    "itemKey": "item:spectral_throwing_dagger_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Calamitous Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Calamitous_Throwing_Dagger",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
       "Returning",
@@ -120,37 +267,87 @@
       "Lamordia: Dolorous Slot (Weapon)",
       "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)"
+    ],
+    "itemKey": "item:calamitous_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Lynnabel's Bug Killer (level 10)",
     "link": "https://ddowiki.com/page/Item:Lynnabel%27s_Bug_Killer_(level_10)",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 10,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Vermin Bane 3",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vermin Bane 3",
+      "Returning"
+    ],
+    "itemKey": "item:lynnabel's_bug_killer_(level_10)",
+    "setMembership": []
   },
   {
     "name": "Barovian's Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Throwing_Dagger",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Macabre Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Macabre_Throwing_Dagger",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 3",
@@ -158,46 +355,106 @@
       "Chilling 3",
       "Returning",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Returning"
+    ],
+    "itemKey": "item:macabre_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Alchemical Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Alchemical_Throwing_Dagger",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)",
       "Returning"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)",
+      "Returning"
+    ],
+    "itemKey": "item:alchemical_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Green Steel Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Green_Steel_Throwing_Dagger",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Green Steel",
       "Returning"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel",
+      "Returning"
+    ],
+    "itemKey": "item:green_steel_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Spectral Throwing Dagger (level 12)",
     "link": "https://ddowiki.com/page/Item:Spectral_Throwing_Dagger_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 12,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Returning",
       "Ghostbane 3",
       "Evil Outsider Bane 3",
       "Vorpal",
       "Crushing 7"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Returning",
+      "Ghostbane 3",
+      "Evil Outsider Bane 3",
+      "Vorpal",
+      "Crushing 7"
+    ],
+    "itemKey": "item:spectral_throwing_dagger_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Throwing Dagger of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Throwing_Dagger_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Anarchic Blast 3",
       "Anarchic 3",
@@ -205,13 +462,31 @@
       "Keen",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Returning"
+    ],
+    "itemKey": "item:throwing_dagger_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Throwing Dagger of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Throwing_Dagger_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Force Blast 3",
       "Impactful 3",
@@ -219,37 +494,87 @@
       "Entropic 3",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Returning"
+    ],
+    "itemKey": "item:throwing_dagger_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Return to Sender",
     "link": "https://ddowiki.com/page/Item:Return_to_Sender",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 14,
+    "effectsRaw": [
       "Returning",
       "+5 Enhancement Bonus",
       "Solar II",
       "Phlebotomizing",
       "Paralyzing",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Returning",
+      "+5 Enhancement Bonus",
+      "Solar II",
+      "Phlebotomizing",
+      "Paralyzing"
+    ],
+    "itemKey": "item:return_to_sender",
+    "setMembership": []
   },
   {
     "name": "Lynnabel's Bug Killer (level 15)",
     "link": "https://ddowiki.com/page/Item:Lynnabel%27s_Bug_Killer_(level_15)",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Vermin Bane 4",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Vermin Bane 4",
+      "Returning"
+    ],
+    "itemKey": "item:lynnabel's_bug_killer_(level_15)",
+    "setMembership": []
   },
   {
     "name": "Syranian Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Syranian_Throwing_Dagger",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Electrifying 4",
       "Holy 4",
@@ -257,26 +582,60 @@
       "Adamantine",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Returning"
+    ],
+    "itemKey": "item:syranian_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Spectral Throwing Dagger (level 16)",
     "link": "https://ddowiki.com/page/Item:Spectral_Throwing_Dagger_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Returning",
       "Ghostbane 4",
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 9"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Returning",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 9"
+    ],
+    "itemKey": "item:spectral_throwing_dagger_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Shining Reliquary Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Throwing_Dagger",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 4",
@@ -284,13 +643,31 @@
       "Evil Outsider Bane 4",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Returning"
+    ],
+    "itemKey": "item:shining_reliquary_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Defiled Reliquary Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Throwing_Dagger",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 4",
@@ -298,13 +675,31 @@
       "Vile Grip of the Hidden Hand",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Returning"
+    ],
+    "itemKey": "item:defiled_reliquary_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Epic Noxious Fang",
     "link": "https://ddowiki.com/page/Item:Epic_Noxious_Fang",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
       "+9 Enhancement Bonus",
       "Poisonous 4",
       "Disintegration",
@@ -313,51 +708,119 @@
       "Returning",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Poisonous 4",
+      "Disintegration",
+      "Fortitude Save +9",
+      "Large Scorpion Poison",
+      "Returning"
+    ],
+    "itemKey": "item:epic_noxious_fang",
+    "setMembership": []
   },
   {
     "name": "Lynnabel's Bug Killer (level 20)",
     "link": "https://ddowiki.com/page/Item:Lynnabel%27s_Bug_Killer_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Vermin Bane 4",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Vermin Bane 4",
+      "Returning"
+    ],
+    "itemKey": "item:lynnabel's_bug_killer_(level_20)",
+    "setMembership": []
   },
   {
     "name": "Spectral Throwing Dagger (level 20)",
     "link": "https://ddowiki.com/page/Item:Spectral_Throwing_Dagger_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Returning",
       "Ghostbane 4",
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 10"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Returning",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 10"
+    ],
+    "itemKey": "item:spectral_throwing_dagger_(level_20)",
+    "setMembership": []
   },
   {
     "name": "Epic Sworn Silver Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Throwing_Dagger",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Unnatural Bane 4",
       "Destruction",
       "Righteous",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Returning"
+    ],
+    "itemKey": "item:epic_sworn_silver_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Epic Ethereal Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Throwing_Dagger",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Impactful 4",
       "Ghostbane 4",
@@ -365,71 +828,166 @@
       "Adamantine",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Returning"
+    ],
+    "itemKey": "item:epic_ethereal_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Thunder-Forged Alloy Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Throwing_Dagger",
-    "minLevel": "22",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 22,
+    "effectsRaw": [
       "+9 Enhancement Bonus",
       "Returning",
       "Thunder-Forged (Tier 0)",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Returning",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Spectral Throwing Dagger (level 24)",
     "link": "https://ddowiki.com/page/Item:Spectral_Throwing_Dagger_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 24,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Returning",
       "Ghostbane 5",
       "Evil Outsider Bane 5",
       "Greater Vorpal",
       "Crushing 12"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Returning",
+      "Ghostbane 5",
+      "Evil Outsider Bane 5",
+      "Greater Vorpal",
+      "Crushing 12"
+    ],
+    "itemKey": "item:spectral_throwing_dagger_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Lynnabel's Bug Killer (level 25)",
     "link": "https://ddowiki.com/page/Item:Lynnabel%27s_Bug_Killer_(level_25)",
-    "minLevel": "25",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 25,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Vermin Bane 5",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Vermin Bane 5",
+      "Returning"
+    ],
+    "itemKey": "item:lynnabel's_bug_killer_(level_25)",
+    "setMembership": []
   },
   {
     "name": "Legendary Green Steel Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Throwing_Dagger",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 26,
+    "effectsRaw": [
       "+14 Enhancement Bonus",
       "Legendary Green Steel",
       "Returning"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_green_steel_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Epic Return to Sender",
     "link": "https://ddowiki.com/page/Item:Epic_Return_to_Sender",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 28,
+    "effectsRaw": [
       "+12 Enhancement Bonus",
       "Returning",
       "Solar VI",
       "Greater Bleeding",
       "Improved Paralyzing",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Returning",
+      "Solar VI",
+      "Greater Bleeding",
+      "Improved Paralyzing"
+    ],
+    "itemKey": "item:epic_return_to_sender",
+    "setMembership": []
   },
   {
     "name": "Fate, the Knower of All",
     "link": "https://ddowiki.com/page/Item:Fate,_the_Knower_of_All",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 28,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Pick a Card",
       "Sovereign Vorpal",
@@ -438,50 +996,117 @@
       "Returning",
       "Orange Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Pick a Card",
+      "Sovereign Vorpal",
+      "Improved Deception",
+      "Metalline",
+      "Returning"
+    ],
+    "itemKey": "item:fate,_the_knower_of_all",
+    "setMembership": []
   },
   {
     "name": "Spectral Throwing Dagger (level 28)",
     "link": "https://ddowiki.com/page/Item:Spectral_Throwing_Dagger_(level_28)",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 28,
+    "effectsRaw": [
       "+12 Enhancement Bonus",
       "Returning",
       "Ghostbane 6",
       "Evil Outsider Bane 6",
       "Superior Vorpal",
       "Crushing 13"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Returning",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 13"
+    ],
+    "itemKey": "item:spectral_throwing_dagger_(level_28)",
+    "setMembership": []
   },
   {
     "name": "The Wide Open Sky",
     "link": "https://ddowiki.com/page/Item:The_Wide_Open_Sky",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Nearly Finished",
+      "Nearly FinishedPurple Augment SlotAlignedCompleted Weapon",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Nearly FinishedPurple Augment SlotAlignedCompleted Weapon"
+    ],
+    "itemKey": "item:the_wide_open_sky",
+    "setMembership": []
   },
   {
     "name": "Morninglord's Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Morninglord%27s_Throwing_Dagger",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Autumn's Veil",
     "link": "https://ddowiki.com/page/Item:Autumn%27s_Veil",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Deception",
       "Keen",
@@ -490,13 +1115,33 @@
       "Returning",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [
+      "Legendary Slicing Winds"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Deception",
+      "Keen",
+      "Twining Hemlock",
+      "Returning"
+    ],
+    "itemKey": "item:autumn's_veil",
+    "setMembership": []
   },
   {
     "name": "Nightmother's Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Nightmother%27s_Throwing_Dagger",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 6",
@@ -504,13 +1149,31 @@
       "Chilling 6",
       "Returning",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Returning"
+    ],
+    "itemKey": "item:nightmother's_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Legendary Syranian Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Throwing_Dagger",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Electrifying 6",
       "Holy 6",
@@ -518,26 +1181,61 @@
       "Adamantine",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_syranian_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Legendary Ferrocrystal Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Throwing_Dagger",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Feybane 6",
       "Improved Destruction",
       "Maiming 6",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Legendary Flamesalt Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Throwing_Dagger",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Chilling 6",
       "Monstrous Humanoid Bane 6",
@@ -545,24 +1243,57 @@
       "Flametouched Iron",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_flamesalt_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Lynnabel's Bug Killer (level 30)",
     "link": "https://ddowiki.com/page/Item:Lynnabel%27s_Bug_Killer_(level_30)",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 30,
+    "effectsRaw": [
       "+14 Enhancement Bonus",
       "Vermin Bane 6",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+14 Enhancement Bonus",
+      "Vermin Bane 6",
+      "Returning"
+    ],
+    "itemKey": "item:lynnabel's_bug_killer_(level_30)",
+    "setMembership": []
   },
   {
     "name": "Legendary Noxious Fang",
     "link": "https://ddowiki.com/page/Item:Legendary_Noxious_Fang",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 30,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Poison Blast 6",
       "Utter Disintegration",
@@ -571,13 +1302,33 @@
       "Returning",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Virulent Poison"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Poison Blast 6",
+      "Utter Disintegration",
+      "Fortitude Save +12",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_noxious_fang",
+    "setMembership": []
   },
   {
     "name": "Dinosaur Bone Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Throwing_Dagger",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Returning",
       "Isle of Dread: Scale Slot (Weapon): Empty",
@@ -586,13 +1337,32 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:dinosaur_bone_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Attuned Bone Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Attuned_Bone_Throwing_Dagger",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Returning",
       "Isle of Dread: Scale Slot (Weapon): Empty",
@@ -601,26 +1371,61 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:attuned_bone_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Spectral Throwing Dagger (level 32)",
     "link": "https://ddowiki.com/page/Item:Spectral_Throwing_Dagger_(level_32)",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Returning",
       "Ghostbane 6",
       "Evil Outsider Bane 6",
       "Superior Vorpal",
       "Crushing 15"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 15"
+    ],
+    "itemKey": "item:spectral_throwing_dagger_(level_32)",
+    "setMembership": []
   },
   {
     "name": "Legendary Shining Reliquary Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Throwing_Dagger",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 6",
@@ -629,13 +1434,32 @@
       "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Legendary Defiled Reliquary Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Throwing_Dagger",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 6",
@@ -645,13 +1469,34 @@
       "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Legendary Throwing Dagger of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Throwing_Dagger_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Anarchic Blast 7",
       "Anarchic 7",
@@ -660,13 +1505,32 @@
       "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_throwing_dagger_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Throwing Dagger of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Throwing_Dagger_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Force Blast 7",
       "Impactful 7",
@@ -675,28 +1539,66 @@
       "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_throwing_dagger_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Flamefang, the Blazing Bite",
     "link": "https://ddowiki.com/page/Item:Flamefang,_the_Blazing_Bite",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Flamescale",
-      "Feat",
+      "Feat: First Blood",
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Flamescale",
+      "Feat: First Blood",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Returning"
+    ],
+    "itemKey": "item:flamefang,_the_blazing_bite",
+    "setMembership": []
   },
   {
     "name": "Throwing Dagger of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Throwing_Dagger_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Dripping with Magma",
       "3rd Degree Burns",
@@ -705,13 +1607,32 @@
       "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Returning"
+    ],
+    "itemKey": "item:throwing_dagger_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Calamitous Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Throwing_Dagger",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Returning",
       "Lamordia: Melancholic Slot (Weapon)",
@@ -720,13 +1641,32 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_calamitous_throwing_dagger",
+    "setMembership": []
   },
   {
     "name": "Legendary Cataclysmic Throwing Dagger",
     "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Throwing_Dagger",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_dagger",
+    "handedness": "one_handed",
+    "category": "Throwing Daggers",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Returning",
       "Lamordia: Melancholic Slot (Weapon)",
@@ -735,6 +1675,21 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_cataclysmic_throwing_dagger",
+    "setMembership": []
   }
 ]

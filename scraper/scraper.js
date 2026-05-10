@@ -1,150 +1,502 @@
-const axios = require('axios');      // For making HTTP requests
-const cheerio = require('cheerio');  // For parsing HTML
-const fs = require('fs');            // For saving JSON to disk
-const path = require('path');        // For saving JSOn to itemlist
+const axios = require('axios');
+const cheerio = require('cheerio');
+const fs = require('fs');
+const path = require('path');
 
+const BASE_URL = 'https://ddowiki.com';
+
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function cleanText(text) {
+  return text
+    .replace(/\u00a0/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function parseMinLevel(value) {
+
+  const cleaned = cleanText(value);
+
+  if (
+    !cleaned ||
+    cleaned.toLowerCase() === 'none'
+  ) {
+    return null;
+  }
+
+  const number = Number(cleaned);
+
+  return Number.isNaN(number)
+    ? null
+    : number;
+}
 
 function cleanEnhancements(rawList) {
+
   const cleaned = [];
   let skipCount = 0;
 
   for (let i = 0; i < rawList.length; i++) {
+
     const entry = rawList[i];
 
-    // Handle Red Augment Slot
+    // Red Augment Slot
     if (entry === 'Red Augment Slot') {
       cleaned.push(entry);
-      skipCount = 6; // exactly 6 false entries follow
+      skipCount = 6;
       continue;
     }
 
-    // Handle Orange Augment Slot
+    // Orange Augment Slot
     if (entry === 'Orange Augment Slot') {
       cleaned.push(entry);
-      skipCount = 13; // exactly 13 false entries follow
+      skipCount = 13;
       continue;
     }
 
-    // Handle Purple Augment Slot
-    if (entry === 'Purple Augment Slot'){
+    // Purple Augment Slot
+    if (entry === 'Purple Augment Slot') {
       cleaned.push(entry);
-      skipCount = 17; // exactly 17 false entries follow
-      continue
+      skipCount = 17;
+      continue;
     }
-    
-    // Handle Yellow Augment Slot
-    if (entry === 'Yellow Augment Slot'){
+
+    // Yellow Augment Slot
+    if (entry === 'Yellow Augment Slot') {
       cleaned.push(entry);
       skipCount = 11;
-      continue
-    }
-
-    // Handle Green Augment Slot
-    if (entry === 'Green Augment Slot'){
-      cleaned.push(entry);
-      skipCount = 22;
-      continue
-    }
-
-    // Handle Colorless Augment Slot
-    if (entry === 'Colorless Augment Slot'){
-      cleaned.push(entry);
-      skipCount = 4;
-      continue
-    }
-
-    // Handle Blue Augment Slot
-    if (entry === 'Blue Augment Slot'){
-      cleaned.push(entry);
-      skipCount = 15;
-      continue
-    }
-    
-    // Handle Primary and secondary Augment slot (edge case)
-    if (entry === 'Fountain of Necrotic Might'){
-      cleaned.push('Upgradeable - Primary Augment', 'Upgradeable - Secondary Augment')
-      skipCount = 87
       continue;
     }
 
-    // Skip tooltip-generated junk
+    // Green Augment Slot
+    if (entry === 'Green Augment Slot') {
+      cleaned.push(entry);
+      skipCount = 22;
+      continue;
+    }
+
+    // Colorless Augment Slot
+    if (entry === 'Colorless Augment Slot') {
+      cleaned.push(entry);
+      skipCount = 4;
+      continue;
+    }
+
+    // Blue Augment Slot
+    if (entry === 'Blue Augment Slot') {
+      cleaned.push(entry);
+      skipCount = 15;
+      continue;
+    }
+
+    // Special edge case
+    if (entry === 'Fountain of Necrotic Might') {
+
+      cleaned.push(
+        'Upgradeable - Primary Augment',
+        'Upgradeable - Secondary Augment'
+      );
+
+      skipCount = 87;
+      continue;
+    }
+
+    // Skip tooltip junk
     if (skipCount > 0) {
       skipCount--;
       continue;
     }
 
-    // Everything else is valid
     cleaned.push(entry);
   }
 
   return [...new Set(cleaned)];
 }
-// Main function to scrape a specific item category
+
+function extractEffects(rawEffects) {
+
+  const augmentSlots = [];
+  const setBonuses = [];
+  const namedEffects = [];
+
+  for (const effect of rawEffects) {
+
+    // Augment slots
+    const augmentMatch =
+      effect.match(/^(.+?) Augment Slot$/i);
+
+    if (augmentMatch) {
+
+      augmentSlots.push(
+        cleanText(augmentMatch[1])
+      );
+
+      continue;
+    }
+
+    // Set bonuses
+    if (
+      effect.includes('Set') ||
+      effect.includes('Legendary') ||
+      effect.includes('Profane Experiment')
+    ) {
+
+      setBonuses.push(effect);
+      continue;
+    }
+
+    // Everything else
+    namedEffects.push(effect);
+  }
+
+  return {
+    augmentSlots,
+    setBonuses,
+    namedEffects
+  };
+}
+
+function categoryToSlot(categoryName) {
+
+  const map = {
+
+    // Accessories
+    'Head items': 'head',
+    'Hand items': 'hands',
+    'Back items': 'back',
+    'Waist items': 'waist',
+    'Feet items': 'feet',
+    'Wrist items': 'wrists',
+    'Eye items': 'eyes',
+    'Neck items': 'neck',
+    'Finger items': 'finger',
+    'Trinket items': 'trinket',
+
+    // Armor
+    'Cloth armor': 'armor',
+    'Light armor': 'armor',
+    'Medium armor': 'armor',
+    'Heavy armor': 'armor',
+    'Docents': 'armor',
+
+    // Offhand items
+    'Bucklers': 'offhand',
+    'Small shields': 'offhand',
+    'Large shields': 'offhand',
+    'Tower shields': 'offhand',
+
+    'Orbs': 'offhand',
+
+    'Rune Arms': 'offhand',
+
+    // Weapons
+    'Clubs': 'weapon',
+    'Quarterstaffs': 'weapon',
+    'Daggers': 'weapon',
+    'Sickles': 'weapon',
+    'Light Maces': 'weapon',
+    'Heavy Maces': 'weapon',
+    'Morningstars': 'weapon',
+    'Heavy Crossbows': 'weapon',
+    'Light Crossbows': 'weapon',
+    'Hand Axes': 'weapon',
+    'Battle Axes': 'weapon',
+    'Great Axes': 'weapon',
+    'Kukris': 'weapon',
+    'Long Swords': 'weapon',
+    'Great Swords': 'weapon',
+    'Scimitars': 'weapon',
+    'Falchions': 'weapon',
+    'Long Bows': 'weapon',
+    'Short Swords': 'weapon',
+    'Rapiers': 'weapon',
+    'Heavy Picks': 'weapon',
+    'Light Picks': 'weapon',
+    'Light Hammers': 'weapon',
+    'War Hammers': 'weapon',
+    'Mauls': 'weapon',
+    'Great Clubs': 'weapon',
+    'Short Bows': 'weapon',
+    'Bastard Swords': 'weapon',
+    'Dwarven War Axes': 'weapon',
+    'Kamas': 'weapon',
+    'Khopeshes': 'weapon',
+    'Handwraps': 'weapon',
+    'Great Crossbows': 'weapon',
+    'Repeating Heavy Crossbows': 'weapon',
+    'Repeating Light Crossbows': 'weapon',
+    'Throwing Axes': 'weapon',
+    'Throwing Daggers': 'weapon',
+    'Throwing Hammers': 'weapon',
+    'Darts': 'weapon',
+    'Shurikens': 'weapon',
+
+    // Pets
+    'Collars': 'collar'
+  };
+
+  return map[categoryName] || null;
+}
+
+function categoryToSubtype(categoryName) {
+
+  const map = {
+
+    // Shields
+    'Bucklers': 'buckler',
+    'Small shields': 'small_shield',
+    'Large shields': 'large_shield',
+    'Tower shields': 'tower_shield',
+
+    // Spellcasting
+    'Orbs': 'orb',
+    'Rune Arms': 'rune_arm',
+
+    // Weapons
+    'Clubs': 'club',
+    'Quarterstaffs': 'quarterstaff',
+    'Daggers': 'dagger',
+    'Sickles': 'sickle',
+    'Light Maces': 'light_mace',
+    'Heavy Maces': 'heavy_mace',
+    'Morningstars': 'morningstar',
+    'Heavy Crossbows': 'heavy_crossbow',
+    'Light Crossbows': 'light_crossbow',
+    'Hand Axes': 'hand_axe',
+    'Battle Axes': 'battle_axe',
+    'Great Axes': 'great_axe',
+    'Kukris': 'kukri',
+    'Long Swords': 'long_sword',
+    'Great Swords': 'great_sword',
+    'Scimitars': 'scimitar',
+    'Falchions': 'falchion',
+    'Long Bows': 'long_bow',
+    'Short Swords': 'short_sword',
+    'Rapiers': 'rapier',
+    'Heavy Picks': 'heavy_pick',
+    'Light Picks': 'light_pick',
+    'Light Hammers': 'light_hammer',
+    'War Hammers': 'war_hammer',
+    'Mauls': 'maul',
+    'Great Clubs': 'great_club',
+    'Short Bows': 'short_bow',
+    'Bastard Swords': 'bastard_sword',
+    'Dwarven War Axes': 'dwarven_war_axe',
+    'Kamas': 'kama',
+    'Khopeshes': 'khopesh',
+    'Handwraps': 'handwraps',
+    'Great Crossbows': 'great_crossbow',
+    'Repeating Heavy Crossbows': 'repeating_heavy_crossbow',
+    'Repeating Light Crossbows': 'repeating_light_crossbow',
+    'Throwing Axes': 'throwing_axe',
+    'Throwing Daggers': 'throwing_dagger',
+    'Throwing Hammers': 'throwing_hammer',
+    'Darts': 'dart',
+    'Shurikens': 'shuriken'
+  };
+
+  return map[categoryName] || null;
+}
+
+function categoryToHandedness(categoryName) {
+
+  const map = {
+
+    // Two-handed weapons
+    'Falchions': 'two_handed',
+    'Great Axes': 'two_handed',
+    'Great Clubs': 'two_handed',
+    'Great Swords': 'two_handed',
+    'Mauls': 'two_handed',
+    'Quarterstaffs': 'two_handed',
+
+    'Long Bows': 'two_handed',
+    'Short Bows': 'two_handed',
+
+    // Offhand-only
+    'Bucklers': 'offhand_only',
+    'Small shields': 'offhand_only',
+    'Large shields': 'offhand_only',
+    'Tower shields': 'offhand_only',
+
+    'Orbs': 'offhand_only',
+
+    'Rune Arms': 'offhand_only'
+  };
+
+  return map[categoryName] || 'one_handed';
+}
+
 async function scrapeCategory(categoryName) {
-  // Construct the URL to the DDO Wiki Category page
-  const url = `https://ddowiki.com/page/Category:${encodeURIComponent(categoryName)}`;
-  const outputDir = path.join(__dirname, '..', 'itemlist');
-  
+
+  const url =
+    `https://ddowiki.com/page/Category:${encodeURIComponent(categoryName)}`;
+
+  const outputDir =
+    path.join(__dirname, '..', 'itemlist');
+
   try {
-    const { data } = await axios.get(url); // Download page HTML
-    const $ = cheerio.load(data);          // Load it into cheerio
-    const items = [];                      // Hold the final scraped results
 
-    // Go through each row of the first wikitable
-    $('table.wikitable tr').each((_, row) => {
-      const cols = $(row).find('td'); //find all data cells
-      if (cols.length < 3) return; // Skip headers or malformed rows
-
-      // Extract name and link
-      const anchor = $(cols[0]).find('a'); //look for anchor attributes
-      const name = anchor.text().trim();
-      const link = 'https://ddowiki.com' + anchor.attr('href');
-
-      // Skip category redirects
-      if (link.includes('/Category:')) return;
-
-      // Extract minimum level
-      const minLevel = $(cols[2]).text().trim();
-
-      // Extract enhancements from <href> tags inside column 2
-      
-      const enhancements = [];
-
-      $(cols[1]).find('li').each((_, li) => {
-        const a = $(li).find('a[href]').first();
-        const text = a.text().trim();
-
-        // Skip if no valid text or href
-        if (!a.length || !text) return;
-
-        // Skip anything with "Category:" in it
-        if (text.toLowerCase().includes('category:')) return;
-
-        enhancements.push(text);
-      });
-
-      // Save all info into the items list
-      items.push({ name, link, minLevel, enhancements: cleanEnhancements(enhancements) });
+    const { data } = await axios.get(url, {
+      headers: {
+        'User-Agent':
+          'DDO-Gear-Planner-Bot/1.0'
+      }
     });
 
-    // Create a filename like 'handwraps.json' and direct it to itemlist
-    const filename = `${categoryName.toLowerCase().replace(/\s+/g, '_')}.json`;
-    const filepath = path.join(outputDir, filename);
+    const $ = cheerio.load(data);
 
-    // If itemlist doesn't exist, create a new folder and call it itemlist.
+    const items = [];
+
+    $('table.wikitable tr').each((_, row) => {
+
+      const cols = $(row).find('td');
+
+      if (cols.length < 3) {
+        return;
+      }
+
+      // Item name + link
+      const anchor =
+        $(cols[0]).find('a[href]').first();
+
+      if (!anchor.length) {
+        return;
+      }
+
+      const name =
+        cleanText(anchor.text());
+
+      const href =
+        anchor.attr('href');
+
+      if (!href) {
+        return;
+      }
+
+      const link =
+        BASE_URL + href;
+
+      // Skip category links
+      if (link.includes('/Category:')) {
+        return;
+      }
+
+      // Minimum level
+      const minLevel =
+        parseMinLevel(
+          $(cols[2]).text()
+        );
+
+      // Extract enhancement text
+      const rawEnhancements = [];
+
+      $(cols[1]).find('li').each((_, li) => {
+
+        const clone = $(li).clone();
+
+        clone.find('.tooltip').remove();
+        clone.find('style').remove();
+        clone.find('img').remove();
+        clone.find('sup').remove();
+
+        const text =
+          cleanText(clone.text());
+
+        if (!text) {
+          return;
+        }
+
+        if (
+          text.toLowerCase()
+            .includes('category:')
+        ) {
+          return;
+        }
+
+        rawEnhancements.push(text);
+      });
+
+      const effectsRaw =
+        cleanEnhancements(rawEnhancements);
+
+      const {
+        augmentSlots,
+        setBonuses,
+        namedEffects
+      } = extractEffects(effectsRaw);
+
+      items.push({
+
+        name,
+
+        link,
+
+        slot:
+          categoryToSlot(categoryName),
+
+        itemSubtype:
+          categoryToSubtype(categoryName),
+
+        handedness:
+          categoryToHandedness(categoryName),
+
+        category:
+          categoryName,
+
+        minLevel,
+
+        effectsRaw,
+
+        augmentSlots,
+
+        setBonuses,
+
+        namedEffects
+      });
+    });
+
+    // Ensure output directory exists
     if (!fs.existsSync(outputDir)) {
       fs.mkdirSync(outputDir);
     }
-    // Write the full item list to disk
-    fs.writeFileSync(filepath, JSON.stringify(items, null, 2));
-    console.log(`SUCCESS: Saved ${filename} with ${items.length} items`);
 
-    // Return useful metadata
-    return { filename, count: items.length };
+    const filename =
+      `${categoryName
+        .toLowerCase()
+        .replace(/\s+/g, '_')}.json`;
+
+    const filepath =
+      path.join(outputDir, filename);
+
+    fs.writeFileSync(
+      filepath,
+      JSON.stringify(items, null, 2)
+    );
+
+    console.log(
+      `SUCCESS: Saved ${filename} with ${items.length} items`
+    );
+
+    // Respectful delay between requests
+    await delay(750);
+
+    return {
+      filename,
+      count: items.length
+    };
+
   } catch (err) {
-    throw new Error(`ERROR: Failed to scrape ${categoryName}: ${err.message}`);
+
+    throw new Error(
+      `ERROR: Failed to scrape ${categoryName}: ${err.message}`
+    );
   }
 }
 
-// Export the function so other files (like menu.js) can use it
-module.exports = { scrapeCategory };
+module.exports = {
+  scrapeCategory
+};

@@ -2,269 +2,617 @@
   {
     "name": "Morningstar of the Heretic",
     "link": "https://ddowiki.com/page/Item:Morningstar_of_the_Heretic",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 2,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Bodyfeeder",
-      "Doom",
+      "Doom — 3 Charges (Recharged/Day:3)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Bodyfeeder",
+      "Doom — 3 Charges (Recharged/Day:3)"
+    ],
+    "itemKey": "item:morningstar_of_the_heretic",
+    "setMembership": []
   },
   {
     "name": "Spiked Mace of the Elements",
     "link": "https://ddowiki.com/page/Item:Spiked_Mace_of_the_Elements",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 2,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Lesser Elemental Bane",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Lesser Elemental Bane"
+    ],
+    "itemKey": "item:spiked_mace_of_the_elements",
+    "setMembership": []
   },
   {
     "name": "Ethereal Morningstar",
     "link": "https://ddowiki.com/page/Item:Ethereal_Morningstar",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_morningstar",
+    "setMembership": []
   },
   {
     "name": "Sworn Silver Morningstar",
     "link": "https://ddowiki.com/page/Item:Sworn_Silver_Morningstar",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_morningstar",
+    "setMembership": []
   },
   {
     "name": "Star of Endless Night (level 4)",
     "link": "https://ddowiki.com/page/Item:Star_of_Endless_Night_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 4,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Unholy 2",
       "Smashing 4",
       "Piercing 2",
       "Combat Mastery +3"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Unholy 2",
+      "Smashing 4",
+      "Piercing 2",
+      "Combat Mastery +3"
+    ],
+    "itemKey": "item:star_of_endless_night_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Ship-Chaplain's Sidearm (level 4)",
     "link": "https://ddowiki.com/page/Item:Ship-Chaplain%27s_Sidearm_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 4,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Holy 2",
       "Ghostbane 2",
       "Holy Burst",
       "Insightful Deadly +1",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Holy 2",
+      "Ghostbane 2",
+      "Holy Burst",
+      "Insightful Deadly +1"
+    ],
+    "itemKey": "item:ship-chaplain's_sidearm_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Ferrocrystal Morningstar",
     "link": "https://ddowiki.com/page/Item:Ferrocrystal_Morningstar",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Feybane 2",
       "Destruction",
       "Maiming 2",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_morningstar",
+    "setMembership": []
   },
   {
     "name": "Flamesalt Morningstar",
     "link": "https://ddowiki.com/page/Item:Flamesalt_Morningstar",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 5,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Chilling 2",
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_morningstar",
+    "setMembership": []
   },
   {
     "name": "Crushing Capital",
     "link": "https://ddowiki.com/page/Item:Crushing_Capital",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 6,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Transmuted Platinum",
       "Bludgeoning 2",
       "Metalline",
       "Smashing 5",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Transmuted Platinum",
+      "Bludgeoning 2",
+      "Metalline",
+      "Smashing 5"
+    ],
+    "itemKey": "item:crushing_capital",
+    "setMembership": []
   },
   {
     "name": "Star of Endless Night (level 8)",
     "link": "https://ddowiki.com/page/Item:Star_of_Endless_Night_(level_8)",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 8,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Unholy 2",
       "Smashing 6",
       "Piercing 2",
       "Combat Mastery +4"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Unholy 2",
+      "Smashing 6",
+      "Piercing 2",
+      "Combat Mastery +4"
+    ],
+    "itemKey": "item:star_of_endless_night_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Shrieking Star",
     "link": "https://ddowiki.com/page/Item:Shrieking_Star",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Shrieking",
       "Roaring",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Shrieking",
+      "Roaring"
+    ],
+    "itemKey": "item:shrieking_star",
+    "setMembership": []
   },
   {
     "name": "Star of Irian",
     "link": "https://ddowiki.com/page/Item:Star_of_Irian",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Holy",
       "Righteous",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Holy",
+      "Righteous"
+    ],
+    "itemKey": "item:star_of_irian",
+    "setMembership": []
   },
   {
     "name": "Ship-Chaplain's Sidearm (level 8)",
     "link": "https://ddowiki.com/page/Item:Ship-Chaplain%27s_Sidearm_(level_8)",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 8,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Holy 2",
       "Ghostbane 2",
       "Holy Burst",
       "Insightful Deadly +1",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Holy 2",
+      "Ghostbane 2",
+      "Holy Burst",
+      "Insightful Deadly +1"
+    ],
+    "itemKey": "item:ship-chaplain's_sidearm_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Calamitous Morningstar",
     "link": "https://ddowiki.com/page/Item:Calamitous_Morningstar",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
       "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)"
+    ],
+    "itemKey": "item:calamitous_morningstar",
+    "setMembership": []
   },
   {
     "name": "Macabre Morningstar",
     "link": "https://ddowiki.com/page/Item:Macabre_Morningstar",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_morningstar",
+    "setMembership": []
   },
   {
     "name": "Barovian's Morningstar",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Morningstar",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_morningstar",
+    "setMembership": []
   },
   {
     "name": "Star of Endless Night (level 12)",
     "link": "https://ddowiki.com/page/Item:Star_of_Endless_Night_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 12,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Unholy 3",
       "Smashing 7",
       "Piercing 3",
       "Combat Mastery +5"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Unholy 3",
+      "Smashing 7",
+      "Piercing 3",
+      "Combat Mastery +5"
+    ],
+    "itemKey": "item:star_of_endless_night_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Green Steel Morningstar",
     "link": "https://ddowiki.com/page/Item:Green_Steel_Morningstar",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_morningstar",
+    "setMembership": []
   },
   {
     "name": "Alchemical Morningstar",
     "link": "https://ddowiki.com/page/Item:Alchemical_Morningstar",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_morningstar",
+    "setMembership": []
   },
   {
     "name": "Ship-Chaplain's Sidearm (level 12)",
     "link": "https://ddowiki.com/page/Item:Ship-Chaplain%27s_Sidearm_(level_12)",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 12,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Holy 3",
       "Ghostbane 3",
       "Holy Burst",
       "Insightful Deadly +2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Holy 3",
+      "Ghostbane 3",
+      "Holy Burst",
+      "Insightful Deadly +2"
+    ],
+    "itemKey": "item:ship-chaplain's_sidearm_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Morningstar of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Morningstar_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Anarchic Blast 3",
       "Anarchic 3",
       "Aligned",
       "Impact",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Impact"
+    ],
+    "itemKey": "item:morningstar_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Morningstar of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Morningstar_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Force Blast 3",
       "Impactful 3",
       "Vorpal",
       "Entropic 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:morningstar_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Tenderizer",
     "link": "https://ddowiki.com/page/Item:Tenderizer",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Adamantine",
       "Impact",
@@ -272,274 +620,632 @@
       "Bleed",
       "Maladroit",
       "Upgradeable Item (Stormreaver)"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Impact",
+      "Stunning +10",
+      "Bleed",
+      "Maladroit",
+      "Upgradeable Item (Stormreaver)"
+    ],
+    "itemKey": "item:tenderizer",
+    "setMembership": []
   },
   {
     "name": "Coronation",
     "link": "https://ddowiki.com/page/Item:Coronation",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Ribcracker V",
       "Persuasion",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Ribcracker V",
+      "Persuasion"
+    ],
+    "itemKey": "item:coronation",
+    "setMembership": []
   },
   {
     "name": "Suncrusher",
     "link": "https://ddowiki.com/page/Item:Suncrusher",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Fiery 4",
       "Coruscating 4",
       "Aligned",
       "Smiting",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Fiery 4",
+      "Coruscating 4",
+      "Aligned",
+      "Smiting"
+    ],
+    "itemKey": "item:suncrusher",
+    "setMembership": []
   },
   {
     "name": "Syranian Morningstar",
     "link": "https://ddowiki.com/page/Item:Syranian_Morningstar",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Electrifying 4",
       "Holy 4",
       "Construct Bane 4",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_morningstar",
+    "setMembership": []
   },
   {
     "name": "Star of Endless Night (level 16)",
     "link": "https://ddowiki.com/page/Item:Star_of_Endless_Night_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Unholy 4",
       "Smashing 9",
       "Piercing 4",
       "Combat Mastery +6"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Unholy 4",
+      "Smashing 9",
+      "Piercing 4",
+      "Combat Mastery +6"
+    ],
+    "itemKey": "item:star_of_endless_night_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Ship-Chaplain's Sidearm (level 16)",
     "link": "https://ddowiki.com/page/Item:Ship-Chaplain%27s_Sidearm_(level_16)",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Holy 4",
       "Ghostbane 4",
       "Holy Burst",
       "Insightful Deadly +2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Holy 4",
+      "Ghostbane 4",
+      "Holy Burst",
+      "Insightful Deadly +2"
+    ],
+    "itemKey": "item:ship-chaplain's_sidearm_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Shining Reliquary Morningstar",
     "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Morningstar",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_morningstar",
+    "setMembership": []
   },
   {
     "name": "Defiled Reliquary Morningstar",
     "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Morningstar",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_morningstar",
+    "setMembership": []
   },
   {
     "name": "Star of Endless Night (level 20)",
     "link": "https://ddowiki.com/page/Item:Star_of_Endless_Night_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Unholy 4",
       "Smashing 10",
       "Piercing 4",
       "Combat Mastery +8"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Unholy 4",
+      "Smashing 10",
+      "Piercing 4",
+      "Combat Mastery +8"
+    ],
+    "itemKey": "item:star_of_endless_night_(level_20)",
+    "setMembership": []
   },
   {
     "name": "Epic Ship-Chaplain's Sidearm (level 20)",
     "link": "https://ddowiki.com/page/Item:Epic_Ship-Chaplain%27s_Sidearm_(level_20)",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Holy 4",
       "Ghostbane 4",
       "Holy Burst",
       "Insightful Deadly +3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Holy 4",
+      "Ghostbane 4",
+      "Holy Burst",
+      "Insightful Deadly +3"
+    ],
+    "itemKey": "item:epic_ship-chaplain's_sidearm_(level_20)",
+    "setMembership": []
   },
   {
     "name": "Epic Sworn Silver Morningstar",
     "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Morningstar",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Unnatural Bane 4",
       "Destruction",
       "Righteous",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_morningstar",
+    "setMembership": []
   },
   {
     "name": "Epic Ethereal Morningstar",
     "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Morningstar",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Impactful 4",
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_morningstar",
+    "setMembership": []
   },
   {
     "name": "Epic Crushing Capital",
     "link": "https://ddowiki.com/page/Item:Epic_Crushing_Capital",
-    "minLevel": "21",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 21,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Transmuted Platinum (Epic)",
       "Bludgeoning 5",
       "Metalline",
       "Smashing 11",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Transmuted Platinum (Epic)",
+      "Bludgeoning 5",
+      "Metalline",
+      "Smashing 11"
+    ],
+    "itemKey": "item:epic_crushing_capital",
+    "setMembership": []
   },
   {
     "name": "Thunder-Forged Alloy Morningstar",
     "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Morningstar",
-    "minLevel": "22",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 22,
+    "effectsRaw": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_morningstar",
+    "setMembership": []
   },
   {
     "name": "Epic Morningstar of the Heretic",
     "link": "https://ddowiki.com/page/Item:Epic_Morningstar_of_the_Heretic",
-    "minLevel": "23",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 23,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Improved Quelling Strikes",
       "Maiming 5",
       "Bleeding 5",
-      "Unholy Blight",
+      "Unholy Blight — 3 Charges (Recharged/Day:3)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Improved Quelling Strikes",
+      "Maiming 5",
+      "Bleeding 5",
+      "Unholy Blight — 3 Charges (Recharged/Day:3)"
+    ],
+    "itemKey": "item:epic_morningstar_of_the_heretic",
+    "setMembership": []
   },
   {
     "name": "Star of Endless Night (level 24)",
     "link": "https://ddowiki.com/page/Item:Star_of_Endless_Night_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 24,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Unholy 5",
       "Smashing 12",
       "Piercing 5",
       "Combat Mastery +9"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Unholy 5",
+      "Smashing 12",
+      "Piercing 5",
+      "Combat Mastery +9"
+    ],
+    "itemKey": "item:star_of_endless_night_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Epic Ship-Chaplain's Sidearm (level 24)",
     "link": "https://ddowiki.com/page/Item:Epic_Ship-Chaplain%27s_Sidearm_(level_24)",
-    "minLevel": "24",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 24,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Holy 5",
       "Ghostbane 5",
       "Holy Burst",
       "Insightful Deadly +4",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Holy 5",
+      "Ghostbane 5",
+      "Holy Burst",
+      "Insightful Deadly +4"
+    ],
+    "itemKey": "item:epic_ship-chaplain's_sidearm_(level_24)",
+    "setMembership": []
   },
   {
     "name": "Braisingstar",
     "link": "https://ddowiki.com/page/Item:Braisingstar",
-    "minLevel": "25",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 25,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Blazing",
       "Stunning +10",
       "Ribcracker VI",
-      "Attuned to Heroism",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Blazing",
+      "Stunning +10",
+      "Ribcracker VI",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "itemKey": "item:braisingstar",
+    "setMembership": []
   },
   {
     "name": "Legendary Green Steel Morningstar",
     "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Morningstar",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 26,
+    "effectsRaw": [
       "+14 Enhancement Bonus",
       "Legendary Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_morningstar",
+    "setMembership": []
   },
   {
     "name": "Star of Endless Night (level 28)",
     "link": "https://ddowiki.com/page/Item:Star_of_Endless_Night_(level_28)",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 28,
+    "effectsRaw": [
       "+12 Enhancement Bonus",
       "Unholy 6",
       "Smashing 13",
       "Piercing 6",
       "Combat Mastery +10"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Unholy 6",
+      "Smashing 13",
+      "Piercing 6",
+      "Combat Mastery +10"
+    ],
+    "itemKey": "item:star_of_endless_night_(level_28)",
+    "setMembership": []
   },
   {
     "name": "Epic Ship-Chaplain's Sidearm (level 28)",
     "link": "https://ddowiki.com/page/Item:Epic_Ship-Chaplain%27s_Sidearm_(level_28)",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 28,
+    "effectsRaw": [
       "+12 Enhancement Bonus",
       "Holy 6",
       "Ghostbane 6",
       "Holy Burst",
       "Insightful Deadly +4",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Holy 6",
+      "Ghostbane 6",
+      "Holy Burst",
+      "Insightful Deadly +4"
+    ],
+    "itemKey": "item:epic_ship-chaplain's_sidearm_(level_28)",
+    "setMembership": []
   },
   {
     "name": "Legendary Suncrusher",
     "link": "https://ddowiki.com/page/Item:Legendary_Suncrusher",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Fiery 6",
       "Coruscating 6",
       "Aligned",
       "Sovereign Smiting",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Fiery 6",
+      "Coruscating 6",
+      "Aligned",
+      "Sovereign Smiting"
+    ],
+    "itemKey": "item:legendary_suncrusher",
+    "setMembership": []
   },
   {
     "name": "Lamplighter",
     "link": "https://ddowiki.com/page/Item:Lamplighter",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Impact",
       "Fetters of Unreality",
@@ -547,26 +1253,61 @@
       "Lights Out",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Impact",
+      "Fetters of Unreality",
+      "Flaming Blast 6",
+      "Lights Out"
+    ],
+    "itemKey": "item:lamplighter",
+    "setMembership": []
   },
   {
     "name": "Nightmother's Morningstar",
     "link": "https://ddowiki.com/page/Item:Nightmother%27s_Morningstar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_morningstar",
+    "setMembership": []
   },
   {
     "name": "The Bitterstar",
     "link": "https://ddowiki.com/page/Item:The_Bitterstar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Royalty's Frigid Response",
       "Frostbite",
@@ -574,75 +1315,176 @@
       "Icy Blast 6",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Royalty's Frigid Response",
+      "Frostbite",
+      "Impact",
+      "Icy Blast 6"
+    ],
+    "itemKey": "item:the_bitterstar",
+    "setMembership": []
   },
   {
     "name": "Morninglord's Morningstar",
     "link": "https://ddowiki.com/page/Item:Morninglord%27s_Morningstar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_morningstar",
+    "setMembership": []
   },
   {
     "name": "Legendary Syranian Morningstar",
     "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Morningstar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Electrifying 6",
       "Holy 6",
       "Construct Bane 6",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_morningstar",
+    "setMembership": []
   },
   {
     "name": "Legendary Ferrocrystal Morningstar",
     "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Morningstar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Feybane 6",
       "Improved Destruction",
       "Maiming 6",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_morningstar",
+    "setMembership": []
   },
   {
     "name": "Legendary Alchemical Morningstar",
     "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Morningstar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Legendary Alchemical Crafting (Prototype)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_morningstar",
+    "setMembership": []
   },
   {
     "name": "Legendary Flamesalt Morningstar",
     "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Morningstar",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Chilling 6",
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_morningstar",
+    "setMembership": []
   },
   {
     "name": "Dinosaur Bone Morningstar",
     "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Morningstar",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -650,13 +1492,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:dinosaur_bone_morningstar",
+    "setMembership": []
   },
   {
     "name": "Attuned Bone Morningstar",
     "link": "https://ddowiki.com/page/Item:Attuned_Bone_Morningstar",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -664,38 +1524,88 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:attuned_bone_morningstar",
+    "setMembership": []
   },
   {
     "name": "Legendary Ship-Chaplain's Sidearm (level 32)",
     "link": "https://ddowiki.com/page/Item:Legendary_Ship-Chaplain%27s_Sidearm_(level_32)",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Holy 6",
       "Ghostbane 6",
       "Holy Burst",
       "Insightful Deadly +5",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Holy 6",
+      "Ghostbane 6",
+      "Holy Burst",
+      "Insightful Deadly +5"
+    ],
+    "itemKey": "item:legendary_ship-chaplain's_sidearm_(level_32)",
+    "setMembership": []
   },
   {
     "name": "Star of Endless Night (level 32)",
     "link": "https://ddowiki.com/page/Item:Star_of_Endless_Night_(level_32)",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Unholy 6",
       "Smashing 15",
       "Piercing 6",
       "Combat Mastery +11"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Unholy 6",
+      "Smashing 15",
+      "Piercing 6",
+      "Combat Mastery +11"
+    ],
+    "itemKey": "item:star_of_endless_night_(level_32)",
+    "setMembership": []
   },
   {
     "name": "Legendary Shining Reliquary Morningstar",
     "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Morningstar",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 6",
@@ -703,13 +1613,31 @@
       "Evil Outsider Bane 6",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_morningstar",
+    "setMembership": []
   },
   {
     "name": "Legendary Defiled Reliquary Morningstar",
     "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Morningstar",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 6",
@@ -718,13 +1646,33 @@
       "Taint of Evil",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_morningstar",
+    "setMembership": []
   },
   {
     "name": "Legendary Morningstar of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Morningstar_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Anarchic Blast 7",
       "Anarchic 7",
@@ -732,13 +1680,31 @@
       "Impact",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Impact"
+    ],
+    "itemKey": "item:legendary_morningstar_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Morningstar of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Morningstar_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Force Blast 7",
       "Impactful 7",
@@ -746,13 +1712,31 @@
       "Entropic 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_morningstar_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Morningstar of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Morningstar_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Dripping with Magma",
       "3rd Degree Burns",
@@ -760,13 +1744,31 @@
       "Sealed in Fire",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:morningstar_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Calamitous Morningstar",
     "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Morningstar",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -774,13 +1776,31 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_calamitous_morningstar",
+    "setMembership": []
   },
   {
     "name": "Legendary Cataclysmic Morningstar",
     "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Morningstar",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "morningstar",
+    "handedness": "one_handed",
+    "category": "Morningstars",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -788,6 +1808,20 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_cataclysmic_morningstar",
+    "setMembership": []
   }
 ]

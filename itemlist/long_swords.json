@@ -2,345 +2,1241 @@
   {
     "name": "Lhorne's Blade",
     "link": "https://ddowiki.com/page/Item:Lhorne%27s_Blade",
-    "minLevel": "1",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 1,
+    "effectsRaw": [
       "Lesser Monstrous Humanoid Bane"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Lesser Monstrous Humanoid Bane"
+    ],
+    "itemKey": "item:lhorne's_blade",
+    "setMembership": []
   },
   {
     "name": "Ember Longsword",
     "link": "https://ddowiki.com/page/Item:Ember_Longsword",
-    "minLevel": "1",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 1,
+    "effectsRaw": [
       "Masterwork",
       "Fire Touch",
       "Starter"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ],
+    "itemKey": "item:ember_longsword",
+    "setMembership": []
   },
   {
     "name": "Rusty Longsword",
     "link": "https://ddowiki.com/page/Item:Rusty_Longsword",
-    "minLevel": "1",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 1,
+    "effectsRaw": [
       "Starter"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Starter"
+    ],
+    "itemKey": "item:rusty_longsword",
+    "setMembership": []
   },
   {
     "name": "Blade of Inquisition",
     "link": "https://ddowiki.com/page/Item:Blade_of_Inquisition",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 2,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Ghostbane 1",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 1",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:blade_of_inquisition",
+    "setMembership": []
   },
   {
     "name": "Nicked Longsword",
     "link": "https://ddowiki.com/page/Item:Nicked_Longsword",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 2,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Chilling 2",
       "Parrying +1",
       "Deadly +3"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Chilling 2",
+      "Parrying +1",
+      "Deadly +3"
+    ],
+    "itemKey": "item:nicked_longsword",
+    "setMembership": []
   },
   {
     "name": "+1 Starter Longsword",
     "link": "https://ddowiki.com/page/Item:%2B1_Starter_Longsword",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Starter"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Starter"
+    ],
+    "itemKey": "item:+1_starter_longsword",
+    "setMembership": []
   },
   {
     "name": "Sworn Silver Longsword",
     "link": "https://ddowiki.com/page/Item:Sworn_Silver_Longsword",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_longsword",
+    "setMembership": []
   },
   {
     "name": "Ethereal Longsword",
     "link": "https://ddowiki.com/page/Item:Ethereal_Longsword",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_longsword",
+    "setMembership": []
   },
   {
     "name": "Silver Blade of the Flame",
     "link": "https://ddowiki.com/page/Item:Silver_Blade_of_the_Flame",
-    "minLevel": "3",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 3,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Favored Weapon",
       "Silver",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Favored Weapon",
+      "Silver"
+    ],
+    "itemKey": "item:silver_blade_of_the_flame",
+    "setMembership": []
   },
   {
     "name": "Flametongue",
     "link": "https://ddowiki.com/page/Item:Flametongue",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 4,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Flaming Burst",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Flaming Burst"
+    ],
+    "itemKey": "item:flametongue",
+    "setMembership": []
   },
   {
     "name": "Timeblade",
     "link": "https://ddowiki.com/page/Item:Timeblade",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 4,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Paralyzing",
       "Doublestrike 4%",
       "Slowburst",
       "Feather Falling",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Paralyzing",
+      "Doublestrike 4%",
+      "Slowburst",
+      "Feather Falling"
+    ],
+    "itemKey": "item:timeblade",
+    "setMembership": []
   },
   {
     "name": "Mournlode Longsword (level 4)",
     "link": "https://ddowiki.com/page/Item:Mournlode_Longsword_(level_4)",
-    "minLevel": "4",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 4,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Righteous",
       "Undead Bane 2"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Righteous",
+      "Undead Bane 2"
+    ],
+    "itemKey": "item:mournlode_longsword_(level_4)",
+    "setMembership": []
   },
   {
     "name": "Ferrocrystal Longsword",
     "link": "https://ddowiki.com/page/Item:Ferrocrystal_Longsword",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Feybane 2",
       "Destruction",
       "Maiming 2",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_longsword",
+    "setMembership": []
   },
   {
     "name": "Flamesalt Longsword",
     "link": "https://ddowiki.com/page/Item:Flamesalt_Longsword",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 5,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Chilling 2",
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_longsword",
+    "setMembership": []
   },
   {
     "name": "Xoriat Forged Blade",
     "link": "https://ddowiki.com/page/Item:Xoriat_Forged_Blade",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 6,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Flaming",
       "Anarchic",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Flaming",
+      "Anarchic"
+    ],
+    "itemKey": "item:xoriat_forged_blade",
+    "setMembership": []
   },
   {
     "name": "Scoundrel's Longsword",
     "link": "https://ddowiki.com/page/Item:Scoundrel%27s_Longsword",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 6,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Shock",
       "Anarchic",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Shock",
+      "Anarchic"
+    ],
+    "itemKey": "item:scoundrel's_longsword",
+    "setMembership": []
   },
   {
     "name": "Fimbric, Lost Longsword",
     "link": "https://ddowiki.com/page/Item:Fimbric,_Lost_Longsword",
-    "minLevel": "7",
-    "enhancements": [
-      "Feather Fall",
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 7,
+    "effectsRaw": [
+      "Feather Fall — 3 Charges (Recharged/Day:3)",
       "+3 Enhancement Bonus",
       "Axiomatic Blast 2",
       "Holy 2",
       "Ghost Touch",
-      "Silver",
+      "Silver , Alchemical",
       "The Dread Isle's Curse",
       "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Universal Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane bonus to Universal Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to Spell DCs",
+        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to Spell DCs"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "★+4 Profane bonus to Hit and Damage",
+        "effectRaw": "★+4 Profane bonus to Hit and Damage",
+        "tieredEffects": [
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane bonus to Hit and Damage"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "Feather Fall — 3 Charges (Recharged/Day:3)",
+      "+3 Enhancement Bonus",
+      "Axiomatic Blast 2",
+      "Holy 2",
+      "Ghost Touch",
+      "Silver , Alchemical",
+      "The Dread Isle's Curse"
+    ],
+    "itemKey": "item:fimbric,_lost_longsword",
+    "setMembership": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "minLevels": [
+          7,
+          31
+        ],
+        "availablePieces": 70,
+        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Universal Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane bonus to Universal Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to Spell DCs",
+            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to Spell DCs"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "★+4 Profane bonus to Hit and Damage",
+            "effectRaw": "★+4 Profane bonus to Hit and Damage",
+            "tieredEffects": [
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane bonus to Hit and Damage"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Threnalian War Blade",
     "link": "https://ddowiki.com/page/Item:Threnalian_War_Blade",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 8,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Red Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus"
+    ],
+    "itemKey": "item:threnalian_war_blade",
+    "setMembership": []
   },
   {
     "name": "Retribution",
     "link": "https://ddowiki.com/page/Item:Retribution",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Holy",
       "True Law",
       "Pure Good",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Holy",
+      "True Law",
+      "Pure Good"
+    ],
+    "itemKey": "item:retribution",
+    "setMembership": []
   },
   {
     "name": "Nightforge Avenger Blade",
     "link": "https://ddowiki.com/page/Item:Nightforge_Avenger_Blade",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 8,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Adamantine"
+    ],
+    "itemKey": "item:nightforge_avenger_blade",
+    "setMembership": []
   },
   {
     "name": "Mournlode Longsword (level 8)",
     "link": "https://ddowiki.com/page/Item:Mournlode_Longsword_(level_8)",
-    "minLevel": "8",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 8,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:mournlode_longsword_(level_8)",
+    "setMembership": []
   },
   {
     "name": "Calamitous Longsword",
     "link": "https://ddowiki.com/page/Item:Calamitous_Longsword",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
       "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)"
+    ],
+    "itemKey": "item:calamitous_longsword",
+    "setMembership": []
   },
   {
     "name": "Sirocco",
     "link": "https://ddowiki.com/page/Item:Sirocco",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Telekinetic",
       "Force Blast 3",
       "Sirocco",
       "Smoke Screen",
       "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      {
+        "setId": "the_desert_s_biting_sands",
+        "setName": "The Desert's Biting Sands",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
+        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2%",
+            "effect": "Artifact bonus to Force Spellcrit Chance"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+4%",
+            "effect": "Artifact bonus to Force Spellcrit Chance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+6%",
+            "effect": "Artifact bonus to Force Spellcrit Chance"
+          }
+        ]
+      },
+      {
+        "setId": "the_desert_s_biting_sands",
+        "setName": "The Desert's Biting Sands",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
+        "effectRaw": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Force Spellpower"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Force Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Force Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_desert_s_biting_sands",
+        "setName": "The Desert's Biting Sands",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
+        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Magical Resistance Rating Cap"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Magical Resistance Rating Cap"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Magical Resistance Rating Cap"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Telekinetic",
+      "Force Blast 3",
+      "Sirocco",
+      "Smoke Screen"
+    ],
+    "itemKey": "item:sirocco",
+    "setMembership": [
+      {
+        "setId": "the_desert_s_biting_sands",
+        "setName": "The Desert's Biting Sands",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 8,
+        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Force Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
+            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2%",
+                "effect": "Artifact bonus to Force Spellcrit Chance"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+4%",
+                "effect": "Artifact bonus to Force Spellcrit Chance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+6%",
+                "effect": "Artifact bonus to Force Spellcrit Chance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
+            "effectRaw": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Force Spellpower"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Force Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Force Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
+            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Magical Resistance Rating Cap"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Magical Resistance Rating Cap"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Magical Resistance Rating Cap"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Tesyus",
     "link": "https://ddowiki.com/page/Item:Tesyus",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Cold Iron",
       "Vorpal",
       "Pure Good"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Cold Iron",
+      "Vorpal",
+      "Pure Good"
+    ],
+    "itemKey": "item:tesyus",
+    "setMembership": []
   },
   {
     "name": "Macabre Longsword",
     "link": "https://ddowiki.com/page/Item:Macabre_Longsword",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_longsword",
+    "setMembership": []
   },
   {
     "name": "Barovian's Longsword",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Longsword",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_longsword",
+    "setMembership": []
   },
   {
     "name": "Burning Blade of Estelar",
     "link": "https://ddowiki.com/page/Item:Burning_Blade_of_Estelar",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Fiery 3",
       "Flaming 6",
       "Vorpal",
       "Dragon's Edge 2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Fiery 3",
+      "Flaming 6",
+      "Vorpal",
+      "Dragon's Edge 2"
+    ],
+    "itemKey": "item:burning_blade_of_estelar",
+    "setMembership": []
   },
   {
     "name": "Drysvayla's Razor",
     "link": "https://ddowiki.com/page/Item:Drysvayla%27s_Razor",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Poisonous 3",
       "Toxic 6",
       "Vorpal",
       "Dragon's Edge 2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Poisonous 3",
+      "Toxic 6",
+      "Vorpal",
+      "Dragon's Edge 2"
+    ],
+    "itemKey": "item:drysvayla's_razor",
+    "setMembership": []
   },
   {
     "name": "Green Steel Longsword",
     "link": "https://ddowiki.com/page/Item:Green_Steel_Longsword",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_longsword",
+    "setMembership": []
   },
   {
     "name": "Alchemical Longsword",
     "link": "https://ddowiki.com/page/Item:Alchemical_Longsword",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_longsword",
+    "setMembership": []
   },
   {
     "name": "Mournlode Longsword (level 12)",
     "link": "https://ddowiki.com/page/Item:Mournlode_Longsword_(level_12)",
-    "minLevel": "12",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 12,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:mournlode_longsword_(level_12)",
+    "setMembership": []
   },
   {
     "name": "Echo of the Artblade",
     "link": "https://ddowiki.com/page/Item:Echo_of_the_Artblade",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Nullmagic Guard",
@@ -349,55 +1245,129 @@
       "Quality Potency +14",
       "Sacred Spell Focus Mastery +1",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Nullmagic Guard",
+      "Eversight",
+      "Greater Arcane Casting Dexterity",
+      "Quality Potency +14",
+      "Sacred Spell Focus Mastery +1"
+    ],
+    "itemKey": "item:echo_of_the_artblade",
+    "setMembership": []
   },
   {
     "name": "Echo of the Warblade",
     "link": "https://ddowiki.com/page/Item:Echo_of_the_Warblade",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Legendary Accuracy +2",
       "Slashing 4",
       "Gashing 8",
       "Fiery 4",
-      "Blade Barrier",
+      "Blade Barrier — 3 Charges (Recharged/Day:3)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      "Legendary Accuracy +2"
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Slashing 4",
+      "Gashing 8",
+      "Fiery 4",
+      "Blade Barrier — 3 Charges (Recharged/Day:3)"
+    ],
+    "itemKey": "item:echo_of_the_warblade",
+    "setMembership": []
   },
   {
     "name": "Echo of the Crownblade",
     "link": "https://ddowiki.com/page/Item:Echo_of_the_Crownblade",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
-      "Exceptional Alluring Skills Bonus",
+      "Exceptional Alluring Skills Bonus +7",
       "Felling the Oak",
       "Coruscating 4",
       "Electrifying 4",
       "Blazing 8",
-      "Cure Moderate Wounds",
+      "Cure Moderate Wounds — 3 Charges (Recharged/Day:3)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Exceptional Alluring Skills Bonus +7",
+      "Felling the Oak",
+      "Coruscating 4",
+      "Electrifying 4",
+      "Blazing 8",
+      "Cure Moderate Wounds — 3 Charges (Recharged/Day:3)"
+    ],
+    "itemKey": "item:echo_of_the_crownblade",
+    "setMembership": []
   },
   {
     "name": "Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Longsword_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Anarchic Blast 3",
       "Anarchic 3",
       "Aligned",
       "Keen",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Blessed Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Blessed_Longsword_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -406,13 +1376,32 @@
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Devotion +87",
+      "Healing Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3"
+    ],
+    "itemKey": "item:blessed_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Booming Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Booming_Longsword_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -421,13 +1410,32 @@
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Resonance +87",
+      "Sonic Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3"
+    ],
+    "itemKey": "item:booming_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Burning Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Burning_Longsword_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -436,13 +1444,32 @@
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Combustion +87",
+      "Fire Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3"
+    ],
+    "itemKey": "item:burning_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Caustic Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Caustic_Longsword_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -451,13 +1478,32 @@
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Corrosion +87",
+      "Acid Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3"
+    ],
+    "itemKey": "item:caustic_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Deathly Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Deathly_Longsword_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -466,13 +1512,32 @@
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Nullification +87",
+      "Void Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3"
+    ],
+    "itemKey": "item:deathly_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Freezing Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Freezing_Longsword_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -481,13 +1546,32 @@
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Glaciation +87",
+      "Ice Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3"
+    ],
+    "itemKey": "item:freezing_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Gleaming Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Gleaming_Longsword_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -496,13 +1580,32 @@
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Radiance +87",
+      "Radiance Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3"
+    ],
+    "itemKey": "item:gleaming_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Shocking Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Shocking_Longsword_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -511,13 +1614,32 @@
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Magnetism +87",
+      "Lightning Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3"
+    ],
+    "itemKey": "item:shocking_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Mending Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Mending_Longsword_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -526,13 +1648,32 @@
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Reconstruction +87",
+      "Repair Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3"
+    ],
+    "itemKey": "item:mending_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Kinetic Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Kinetic_Longsword_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -541,13 +1682,32 @@
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Impulse +87",
+      "Kinetic Lore +13%",
+      "Quality Spell Focus Mastery +1",
+      "Insightful Spell Penetration +3"
+    ],
+    "itemKey": "item:kinetic_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Blessed Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Blessed_Longsword_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -556,13 +1716,32 @@
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Devotion +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2"
+    ],
+    "itemKey": "item:blessed_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Booming Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Booming_Longsword_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -571,13 +1750,32 @@
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Resonance +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2"
+    ],
+    "itemKey": "item:booming_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Burning Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Burning_Longsword_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -586,13 +1784,32 @@
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Combustion +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2"
+    ],
+    "itemKey": "item:burning_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Gleaming Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Gleaming_Longsword_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -601,13 +1818,32 @@
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Radiance +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2"
+    ],
+    "itemKey": "item:gleaming_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Caustic Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Caustic_Longsword_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -616,13 +1852,32 @@
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Corrosion +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2"
+    ],
+    "itemKey": "item:caustic_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Deathly Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Deathly_Longsword_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -631,13 +1886,32 @@
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Nullification +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2"
+    ],
+    "itemKey": "item:deathly_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Freezing Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Freezing_Longsword_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -646,13 +1920,32 @@
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Glaciation +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2"
+    ],
+    "itemKey": "item:freezing_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Kinetic Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Kinetic_Longsword_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -661,13 +1954,32 @@
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Impulse +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2"
+    ],
+    "itemKey": "item:kinetic_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Mending Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Mending_Longsword_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -676,13 +1988,32 @@
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Reconstruction +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2"
+    ],
+    "itemKey": "item:mending_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Shocking Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Shocking_Longsword_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "Spellcasting Implement +13",
       "+5 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -691,115 +2022,269 @@
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +13",
+      "+5 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Magnetism +43",
+      "Insightful Spell Lore II",
+      "Profane Spell Focus Mastery +1",
+      "Quality Spell Penetration +2"
+    ],
+    "itemKey": "item:shocking_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Longsword_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Force Blast 3",
       "Impactful 3",
       "Vorpal",
       "Entropic 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Enduring Conviction",
     "link": "https://ddowiki.com/page/Item:Enduring_Conviction",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Greater Good",
       "Absolute Law",
       "Evil Outsider Bane",
       "Upgradeable Item (Black Abbot)"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Greater Good",
+      "Absolute Law",
+      "Evil Outsider Bane",
+      "Upgradeable Item (Black Abbot)"
+    ],
+    "itemKey": "item:enduring_conviction",
+    "setMembership": []
   },
   {
     "name": "Dragon Sword of Acid",
     "link": "https://ddowiki.com/page/Item:Dragon_Sword_of_Acid",
-    "minLevel": "14",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 14,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Acid Burst",
       "Dragon Bane",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Acid Burst",
+      "Dragon Bane"
+    ],
+    "itemKey": "item:dragon_sword_of_acid",
+    "setMembership": []
   },
   {
     "name": "Knight's Blade",
     "link": "https://ddowiki.com/page/Item:Knight%27s_Blade",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 15,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Flaming II",
       "Vorpal"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Flaming II",
+      "Vorpal"
+    ],
+    "itemKey": "item:knight's_blade",
+    "setMembership": []
   },
   {
     "name": "Syranian Longsword",
     "link": "https://ddowiki.com/page/Item:Syranian_Longsword",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Electrifying 4",
       "Holy 4",
       "Construct Bane 4",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_longsword",
+    "setMembership": []
   },
   {
     "name": "Entropic Edge",
     "link": "https://ddowiki.com/page/Item:Entropic_Edge",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 15,
+    "effectsRaw": [
       "Spellcasting Implement +15",
       "+3 Enhancement Bonus",
       "Radiance +81",
       "Insightful Evocation Focus +2",
       "Proficiency: Longsword"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+3 Enhancement Bonus",
+      "Radiance +81",
+      "Insightful Evocation Focus +2",
+      "Proficiency: Longsword"
+    ],
+    "itemKey": "item:entropic_edge",
+    "setMembership": []
   },
   {
     "name": "Wild Blade",
     "link": "https://ddowiki.com/page/Item:Wild_Blade",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 15,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Radiance Lore +12%",
       "Insightful Conjuration Focus +2",
       "Proficiency: Longsword"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Radiance Lore +12%",
+      "Insightful Conjuration Focus +2",
+      "Proficiency: Longsword"
+    ],
+    "itemKey": "item:wild_blade",
+    "setMembership": []
   },
   {
     "name": "Watcher's Blade",
     "link": "https://ddowiki.com/page/Item:Watcher%27s_Blade",
-    "minLevel": "16",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 16,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Heightened Awareness 4",
       "Improved Cursespewing",
       "Exceptional Wisdom +1",
-      "saps"
-    ]
+      "Hidden Effect: On critical hits, this weapon saps the target."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Heightened Awareness 4",
+      "Improved Cursespewing",
+      "Exceptional Wisdom +1",
+      "Hidden Effect: On critical hits, this weapon saps the target."
+    ],
+    "itemKey": "item:watcher's_blade",
+    "setMembership": []
   },
   {
     "name": "Mournlode Longsword (level 16)",
     "link": "https://ddowiki.com/page/Item:Mournlode_Longsword_(level_16)",
-    "minLevel": "16",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 16,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:mournlode_longsword_(level_16)",
+    "setMembership": []
   },
   {
     "name": "Master's Riposte (level 17)",
     "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_17)",
-    "minLevel": "17",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 17,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Riposte VI",
+      "One of the following effects: Acid IV Anarchic III Axiomatic III Banishing Eldritch II Flaming IV Frost IV Holy II Holy Burst Improved Roaring Poison IV Seeker +8 Shock IV Shrieking III Solar II Vorpal",
       "Acid IV",
       "Anarchic III",
       "Axiomatic III",
@@ -817,29 +2302,90 @@
       "Solar II",
       "Vorpal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Riposte VI",
+      "One of the following effects: Acid IV Anarchic III Axiomatic III Banishing Eldritch II Flaming IV Frost IV Holy II Holy Burst Improved Roaring Poison IV Seeker +8 Shock IV Shrieking III Solar II Vorpal",
+      "Acid IV",
+      "Anarchic III",
+      "Axiomatic III",
+      "Banishing",
+      "Eldritch II",
+      "Flaming IV",
+      "Frost IV",
+      "Holy II",
+      "Holy Burst",
+      "Improved Roaring",
+      "Poison IV",
+      "Seeker +8",
+      "Shock IV",
+      "Shrieking III",
+      "Solar II",
+      "Vorpal"
+    ],
+    "itemKey": "item:master's_riposte_(level_17)",
+    "setMembership": []
   },
   {
     "name": "Divine Vengeance",
     "link": "https://ddowiki.com/page/Item:Divine_Vengeance",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
-      "Cold Iron",
-      "Holy",
-      "Axiomatic",
-      "Spell Resistance +30",
-      "Greater Dispelling",
-      "Radiance"
-    ]
+      "Cold Iron Lawful version: Adds Holy Adds Axiomatic 1-19 Paladin version Adds Spell Resistance +30 Holy → Holy Burst Axiomatic → Axiomatic Burst 20 Paladin version Adds Greater Dispelling Adds Radiance Spell Resistance +30 → Spell Resistance +35",
+      "Lawful version: Adds Holy Adds Axiomatic",
+      "Adds Holy",
+      "Adds Axiomatic",
+      "1-19 Paladin version Adds Spell Resistance +30 Holy → Holy Burst Axiomatic → Axiomatic Burst",
+      "Adds Spell Resistance +30",
+      "Holy → Holy Burst",
+      "Axiomatic → Axiomatic Burst",
+      "20 Paladin version Adds Greater Dispelling Adds Radiance Spell Resistance +30 → Spell Resistance +35",
+      "Adds Greater Dispelling",
+      "Adds Radiance",
+      "Spell Resistance +30 → Spell Resistance +35"
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Cold Iron Lawful version: Adds Holy Adds Axiomatic 1-19 Paladin version Adds Spell Resistance +30 Holy → Holy Burst Axiomatic → Axiomatic Burst 20 Paladin version Adds Greater Dispelling Adds Radiance Spell Resistance +30 → Spell Resistance +35",
+      "Lawful version: Adds Holy Adds Axiomatic",
+      "Adds Holy",
+      "Adds Axiomatic",
+      "1-19 Paladin version Adds Spell Resistance +30 Holy → Holy Burst Axiomatic → Axiomatic Burst",
+      "Adds Spell Resistance +30",
+      "Holy → Holy Burst",
+      "Axiomatic → Axiomatic Burst",
+      "20 Paladin version Adds Greater Dispelling Adds Radiance Spell Resistance +30 → Spell Resistance +35",
+      "Adds Greater Dispelling",
+      "Adds Radiance",
+      "Spell Resistance +30 → Spell Resistance +35"
+    ],
+    "itemKey": "item:divine_vengeance",
+    "setMembership": []
   },
   {
     "name": "Master's Riposte (level 18)",
     "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_18)",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 18,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Riposte VII",
+      "One of the following effects: Acid IV Anarchic III Axiomatic III Banishing Eldritch II Flaming IV Frost IV Holy II Holy Burst Improved Roaring Poison IV Seeker +8 Shock IV Shrieking III Solar II Vorpal",
       "Acid IV",
       "Anarchic III",
       "Axiomatic III",
@@ -857,80 +2403,1019 @@
       "Solar II",
       "Vorpal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Riposte VII",
+      "One of the following effects: Acid IV Anarchic III Axiomatic III Banishing Eldritch II Flaming IV Frost IV Holy II Holy Burst Improved Roaring Poison IV Seeker +8 Shock IV Shrieking III Solar II Vorpal",
+      "Acid IV",
+      "Anarchic III",
+      "Axiomatic III",
+      "Banishing",
+      "Eldritch II",
+      "Flaming IV",
+      "Frost IV",
+      "Holy II",
+      "Holy Burst",
+      "Improved Roaring",
+      "Poison IV",
+      "Seeker +8",
+      "Shock IV",
+      "Shrieking III",
+      "Solar II",
+      "Vorpal"
+    ],
+    "itemKey": "item:master's_riposte_(level_18)",
+    "setMembership": []
   },
   {
     "name": "Shining Reliquary Longsword",
     "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Longsword",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_longsword",
+    "setMembership": []
   },
   {
     "name": "Defiled Reliquary Longsword",
     "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Longsword",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_longsword",
+    "setMembership": []
   },
   {
     "name": "Fried Sword Fish",
     "link": "https://ddowiki.com/page/Item:Fried_Sword_Fish",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Armor-Piercing 14%",
       "Corrosive Salt",
       "Fiery 4",
       "Flaming 10",
       "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 3,
+        "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+        "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+20",
+            "effect": "Artifact Bonus to Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Artifact Bonus to Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 3,
+        "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+        "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2%",
+            "effect": "Artifact Bonus to Spell Critical Chance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+6%",
+            "effect": "Artifact Bonus to Spell Critical Chance"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 3,
+        "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
+        "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Imbue Dice"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Imbue Dice"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 4,
+        "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Artifact Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Artifact Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 4,
+        "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+        "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5%",
+            "effect": "Legendary Bonus to Spell Critical Damage"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15%",
+            "effect": "Legendary Bonus to Spell Critical Damage"
+          }
+        ]
+      },
+      {
+        "setId": "fried_frozen_frenzy",
+        "setName": "Fried & Frozen Frenzy",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 2,
+        "effect": "♦+1★+3 Artifact Bonus to all Ability Scores",
+        "effectRaw": "♦+1★+3 Artifact Bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "fried_frozen_frenzy",
+        "setName": "Fried & Frozen Frenzy",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 2,
+        "effect": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+        "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Armor-Piercing 14%",
+      "Corrosive Salt",
+      "Fiery 4",
+      "Flaming 10"
+    ],
+    "itemKey": "item:fried_sword_fish",
+    "setMembership": [
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 8,
+        "bonusRaw": "3 Pieces Equipped: ♦+20★+25 Artifact Bonus to Universal Spell Power ♦+2%★+6% Artifact Bonus to Spell Critical Chance ♦+1★+3 Artifact Bonus to Imbue Dice 4 Pieces Equipped: ♦+5★+15 Artifact Bonus to Melee and Ranged Power ♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+            "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+20",
+                "effect": "Artifact Bonus to Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Artifact Bonus to Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+            "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2%",
+                "effect": "Artifact Bonus to Spell Critical Chance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+6%",
+                "effect": "Artifact Bonus to Spell Critical Chance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
+            "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Imbue Dice"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Imbue Dice"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Artifact Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Artifact Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+            "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5%",
+                "effect": "Legendary Bonus to Spell Critical Damage"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15%",
+                "effect": "Legendary Bonus to Spell Critical Damage"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "setId": "fried_frozen_frenzy",
+        "setName": "Fried & Frozen Frenzy",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 2,
+        "bonusRaw": "2 Pieces Equipped: ♦+1★+3 Artifact Bonus to all Ability Scores +1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1★+3 Artifact Bonus to all Ability Scores",
+            "effectRaw": "♦+1★+3 Artifact Bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+            "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+            "tieredEffects": []
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Frozen Sword Fish",
     "link": "https://ddowiki.com/page/Item:Frozen_Sword_Fish",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Armor-Piercing 14%",
       "Corrosive Salt",
       "Chilling 4",
       "Freezing 10",
       "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 3,
+        "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+        "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+20",
+            "effect": "Artifact Bonus to Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Artifact Bonus to Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 3,
+        "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+        "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2%",
+            "effect": "Artifact Bonus to Spell Critical Chance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+6%",
+            "effect": "Artifact Bonus to Spell Critical Chance"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 3,
+        "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
+        "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Imbue Dice"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Imbue Dice"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 4,
+        "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Artifact Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Artifact Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 4,
+        "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+        "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5%",
+            "effect": "Legendary Bonus to Spell Critical Damage"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15%",
+            "effect": "Legendary Bonus to Spell Critical Damage"
+          }
+        ]
+      },
+      {
+        "setId": "fried_frozen_frenzy",
+        "setName": "Fried & Frozen Frenzy",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 2,
+        "effect": "♦+1★+3 Artifact Bonus to all Ability Scores",
+        "effectRaw": "♦+1★+3 Artifact Bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "fried_frozen_frenzy",
+        "setName": "Fried & Frozen Frenzy",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 2,
+        "effect": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+        "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Armor-Piercing 14%",
+      "Corrosive Salt",
+      "Chilling 4",
+      "Freezing 10"
+    ],
+    "itemKey": "item:frozen_sword_fish",
+    "setMembership": [
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 8,
+        "bonusRaw": "3 Pieces Equipped: ♦+20★+25 Artifact Bonus to Universal Spell Power ♦+2%★+6% Artifact Bonus to Spell Critical Chance ♦+1★+3 Artifact Bonus to Imbue Dice 4 Pieces Equipped: ♦+5★+15 Artifact Bonus to Melee and Ranged Power ♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+            "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+20",
+                "effect": "Artifact Bonus to Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Artifact Bonus to Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+            "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2%",
+                "effect": "Artifact Bonus to Spell Critical Chance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+6%",
+                "effect": "Artifact Bonus to Spell Critical Chance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
+            "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Imbue Dice"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Imbue Dice"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Artifact Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Artifact Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+            "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5%",
+                "effect": "Legendary Bonus to Spell Critical Damage"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15%",
+                "effect": "Legendary Bonus to Spell Critical Damage"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "setId": "fried_frozen_frenzy",
+        "setName": "Fried & Frozen Frenzy",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 2,
+        "bonusRaw": "2 Pieces Equipped: ♦+1★+3 Artifact Bonus to all Ability Scores +1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1★+3 Artifact Bonus to all Ability Scores",
+            "effectRaw": "♦+1★+3 Artifact Bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+            "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
+            "tieredEffects": []
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Sword Fish",
     "link": "https://ddowiki.com/page/Item:Sword_Fish",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Armor-Piercing 14%",
       "Corrosive Salt",
       "Slashing 4",
       "Gashing 10",
       "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 3,
+        "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+        "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+20",
+            "effect": "Artifact Bonus to Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Artifact Bonus to Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 3,
+        "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+        "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2%",
+            "effect": "Artifact Bonus to Spell Critical Chance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+6%",
+            "effect": "Artifact Bonus to Spell Critical Chance"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 3,
+        "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
+        "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Imbue Dice"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Imbue Dice"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 4,
+        "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Artifact Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Artifact Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "piecesRequired": 4,
+        "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+        "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5%",
+            "effect": "Legendary Bonus to Spell Critical Damage"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15%",
+            "effect": "Legendary Bonus to Spell Critical Damage"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Armor-Piercing 14%",
+      "Corrosive Salt",
+      "Slashing 4",
+      "Gashing 10"
+    ],
+    "itemKey": "item:sword_fish",
+    "setMembership": [
+      {
+        "setId": "cooking_by_the_book",
+        "setName": "Cooking by the Book",
+        "source": "named_item_sets",
+        "sourceSection": "Slice of Life sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 8,
+        "bonusRaw": "3 Pieces Equipped: ♦+20★+25 Artifact Bonus to Universal Spell Power ♦+2%★+6% Artifact Bonus to Spell Critical Chance ♦+1★+3 Artifact Bonus to Imbue Dice 4 Pieces Equipped: ♦+5★+15 Artifact Bonus to Melee and Ranged Power ♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+            "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+20",
+                "effect": "Artifact Bonus to Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Artifact Bonus to Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+            "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2%",
+                "effect": "Artifact Bonus to Spell Critical Chance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+6%",
+                "effect": "Artifact Bonus to Spell Critical Chance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
+            "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Imbue Dice"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Imbue Dice"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Artifact Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Artifact Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+            "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5%",
+                "effect": "Legendary Bonus to Spell Critical Damage"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15%",
+                "effect": "Legendary Bonus to Spell Critical Damage"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   {
     "name": "Master's Riposte (level 19)",
     "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_19)",
-    "minLevel": "19",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 19,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Riposte VIII",
+      "One of the following effects: Acid IV Anarchic III Axiomatic III Banishing Eldritch II Flaming IV Frost IV Holy II Holy Burst Improved Roaring Poison IV Seeker +8 Shock IV Shrieking III Solar II Vorpal",
       "Acid IV",
       "Anarchic III",
       "Axiomatic III",
@@ -948,13 +3433,44 @@
       "Solar II",
       "Vorpal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Riposte VIII",
+      "One of the following effects: Acid IV Anarchic III Axiomatic III Banishing Eldritch II Flaming IV Frost IV Holy II Holy Burst Improved Roaring Poison IV Seeker +8 Shock IV Shrieking III Solar II Vorpal",
+      "Acid IV",
+      "Anarchic III",
+      "Axiomatic III",
+      "Banishing",
+      "Eldritch II",
+      "Flaming IV",
+      "Frost IV",
+      "Holy II",
+      "Holy Burst",
+      "Improved Roaring",
+      "Poison IV",
+      "Seeker +8",
+      "Shock IV",
+      "Shrieking III",
+      "Solar II",
+      "Vorpal"
+    ],
+    "itemKey": "item:master's_riposte_(level_19)",
+    "setMembership": []
   },
   {
     "name": "Epic Sirocco",
     "link": "https://ddowiki.com/page/Item:Epic_Sirocco",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Epic Telekinetic",
       "Force Blast 4",
@@ -962,13 +3478,31 @@
       "Smoke Screen",
       "Air Guard",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Epic Telekinetic",
+      "Force Blast 4",
+      "Greater Sirocco",
+      "Smoke Screen",
+      "Air Guard"
+    ],
+    "itemKey": "item:epic_sirocco",
+    "setMembership": []
   },
   {
     "name": "Epic Timeblade",
     "link": "https://ddowiki.com/page/Item:Epic_Timeblade",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Improved Paralyzing",
       "Doublestrike 11%",
@@ -977,19 +3511,51 @@
       "Feather Falling",
       "Red Augment Slot",
       "Colorless Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Colorless"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Improved Paralyzing",
+      "Doublestrike 11%",
+      "Improved Slowburst",
+      "Freedom of Movement",
+      "Feather Falling"
+    ],
+    "itemKey": "item:epic_timeblade",
+    "setMembership": []
   },
   {
     "name": "Epic Mournlode Longsword",
     "link": "https://ddowiki.com/page/Item:Epic_Mournlode_Longsword",
-    "minLevel": "20",
-    "enhancements": []
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 20,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:epic_mournlode_longsword",
+    "setMembership": []
   },
   {
     "name": "Oathblade",
     "link": "https://ddowiki.com/page/Item:Oathblade",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Parrying VIII",
       "Absolute Law",
@@ -997,92 +3563,215 @@
       "Keen",
       "Maiming",
       "Bleed"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Parrying VIII",
+      "Absolute Law",
+      "Vorpal",
+      "Keen",
+      "Maiming",
+      "Bleed"
+    ],
+    "itemKey": "item:oathblade",
+    "setMembership": []
   },
   {
     "name": "Epic Sworn Silver Longsword",
     "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Longsword",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Unnatural Bane 4",
       "Destruction",
       "Righteous",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_longsword",
+    "setMembership": []
   },
   {
     "name": "Epic Ethereal Longsword",
     "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Longsword",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Impactful 4",
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_longsword",
+    "setMembership": []
   },
   {
     "name": "Drow Longsword of the Weapon Master",
     "link": "https://ddowiki.com/page/Item:Drow_Longsword_of_the_Weapon_Master",
-    "minLevel": "21",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 21,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
       "Insightful Combat Mastery +5",
       "Shatter +10",
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "itemKey": "item:drow_longsword_of_the_weapon_master",
+    "setMembership": []
   },
   {
     "name": "Thunder-Forged Alloy Longsword",
     "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Longsword",
-    "minLevel": "22",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 22,
+    "effectsRaw": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_longsword",
+    "setMembership": []
   },
   {
     "name": "Tinah, Sword of the Sea",
     "link": "https://ddowiki.com/page/Item:Tinah,_Sword_of_the_Sea",
-    "minLevel": "23",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 23,
+    "effectsRaw": [
       "+7 Enhancement Bonus",
       "Supreme Good",
       "Crushing Wave",
       "Freezing Ice",
+      "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 9 seconds)",
+      "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.",
       "Greater Dragon Bane",
       "Underwater Action",
-      "Attuned to Heroism"
-    ]
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Supreme Good",
+      "Crushing Wave",
+      "Freezing Ice",
+      "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 9 seconds)",
+      "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.",
+      "Greater Dragon Bane",
+      "Underwater Action",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "itemKey": "item:tinah,_sword_of_the_sea",
+    "setMembership": []
   },
   {
     "name": "Epic Blade of Inquisition",
     "link": "https://ddowiki.com/page/Item:Epic_Blade_of_Inquisition",
-    "minLevel": "23",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 23,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Holy 5",
       "Unnatural Bane 5",
       "Ghostbane 5",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Holy 5",
+      "Unnatural Bane 5",
+      "Ghostbane 5",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:epic_blade_of_inquisition",
+    "setMembership": []
   },
   {
     "name": "Master's Riposte (level 26)",
     "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_26)",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 26,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Riposte X",
+      "One of the following effects: Acid VIII Anarchic VII Axiomatic VII Eldritch VI Flaming VIII Frost VIII Greater Banishing Greater Vorpal Holy VI Poison VIII Shock VIII Shrieking VII Solar VI Nothing",
       "Acid VIII",
       "Anarchic VII",
       "Axiomatic VII",
@@ -1096,23 +3785,66 @@
       "Shock VIII",
       "Shrieking VII",
       "Solar VI",
+      "Nothing",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Riposte X",
+      "One of the following effects: Acid VIII Anarchic VII Axiomatic VII Eldritch VI Flaming VIII Frost VIII Greater Banishing Greater Vorpal Holy VI Poison VIII Shock VIII Shrieking VII Solar VI Nothing",
+      "Acid VIII",
+      "Anarchic VII",
+      "Axiomatic VII",
+      "Eldritch VI",
+      "Flaming VIII",
+      "Frost VIII",
+      "Greater Banishing",
+      "Greater Vorpal",
+      "Holy VI",
+      "Poison VIII",
+      "Shock VIII",
+      "Shrieking VII",
+      "Solar VI",
+      "Nothing"
+    ],
+    "itemKey": "item:master's_riposte_(level_26)",
+    "setMembership": []
   },
   {
     "name": "Legendary Green Steel Longsword",
     "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Longsword",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 26,
+    "effectsRaw": [
       "+14 Enhancement Bonus",
       "Legendary Green Steel"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_longsword",
+    "setMembership": []
   },
   {
     "name": "Fellblade (longsword)",
     "link": "https://ddowiki.com/page/Item:Fellblade_(longsword)",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 26,
+    "effectsRaw": [
       "+13 Enhancement Bonus",
       "Improved Banishing",
       "Sovereign Vorpal",
@@ -1122,15 +3854,36 @@
       "Cold Iron",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+13 Enhancement Bonus",
+      "Improved Banishing",
+      "Sovereign Vorpal",
+      "Axiomatic 6",
+      "Armor-Piercing 20%",
+      "Doublestrike 15%",
+      "Cold Iron"
+    ],
+    "itemKey": "item:fellblade_(longsword)",
+    "setMembership": []
   },
   {
     "name": "Master's Riposte (level 27)",
     "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_27)",
-    "minLevel": "27",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 27,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Riposte XI",
+      "One of the following effects: Acid VIII Anarchic VII Axiomatic VII Eldritch VI Flaming VIII Frost VIII Greater Banishing Greater Vorpal Holy VI Poison VIII Shock VIII Shrieking VII Solar VI Nothing",
       "Acid VIII",
       "Anarchic VII",
       "Axiomatic VII",
@@ -1144,16 +3897,47 @@
       "Shock VIII",
       "Shrieking VII",
       "Solar VI",
+      "Nothing",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Riposte XI",
+      "One of the following effects: Acid VIII Anarchic VII Axiomatic VII Eldritch VI Flaming VIII Frost VIII Greater Banishing Greater Vorpal Holy VI Poison VIII Shock VIII Shrieking VII Solar VI Nothing",
+      "Acid VIII",
+      "Anarchic VII",
+      "Axiomatic VII",
+      "Eldritch VI",
+      "Flaming VIII",
+      "Frost VIII",
+      "Greater Banishing",
+      "Greater Vorpal",
+      "Holy VI",
+      "Poison VIII",
+      "Shock VIII",
+      "Shrieking VII",
+      "Solar VI",
+      "Nothing"
+    ],
+    "itemKey": "item:master's_riposte_(level_27)",
+    "setMembership": []
   },
   {
     "name": "Master's Riposte (level 28)",
     "link": "https://ddowiki.com/page/Item:Master%27s_Riposte_(level_28)",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 28,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Riposte XII",
+      "One of the following effects: Acid VIII Anarchic VII Axiomatic VII Eldritch VI Flaming VIII Frost VIII Greater Banishing Greater Vorpal Holy VI Poison VIII Shock VIII Shrieking VII Solar VI Nothing",
       "Acid VIII",
       "Anarchic VII",
       "Axiomatic VII",
@@ -1167,14 +3951,44 @@
       "Shock VIII",
       "Shrieking VII",
       "Solar VI",
+      "Nothing",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Riposte XII",
+      "One of the following effects: Acid VIII Anarchic VII Axiomatic VII Eldritch VI Flaming VIII Frost VIII Greater Banishing Greater Vorpal Holy VI Poison VIII Shock VIII Shrieking VII Solar VI Nothing",
+      "Acid VIII",
+      "Anarchic VII",
+      "Axiomatic VII",
+      "Eldritch VI",
+      "Flaming VIII",
+      "Frost VIII",
+      "Greater Banishing",
+      "Greater Vorpal",
+      "Holy VI",
+      "Poison VIII",
+      "Shock VIII",
+      "Shrieking VII",
+      "Solar VI",
+      "Nothing"
+    ],
+    "itemKey": "item:master's_riposte_(level_28)",
+    "setMembership": []
   },
   {
     "name": "Soulrazor",
     "link": "https://ddowiki.com/page/Item:Soulrazor",
-    "minLevel": "28",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 28,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Overwhelming Stealer of Souls",
       "Keen",
@@ -1183,26 +3997,62 @@
       "Psychic Ward",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Overwhelming Stealer of Souls",
+      "Keen",
+      "Entropic 6",
+      "Vampirism 3",
+      "Psychic Ward"
+    ],
+    "itemKey": "item:soulrazor",
+    "setMembership": []
   },
   {
     "name": "Legendary Silver Blade of the Flame",
     "link": "https://ddowiki.com/page/Item:Legendary_Silver_Blade_of_the_Flame",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Favored Weapon",
       "Coruscating 6",
       "Evil Outsider Bane 6",
-      "Silver",
+      "Silver , Alchemical",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Favored Weapon",
+      "Coruscating 6",
+      "Evil Outsider Bane 6",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:legendary_silver_blade_of_the_flame",
+    "setMembership": []
   },
   {
     "name": "The Bitter Edge",
     "link": "https://ddowiki.com/page/Item:The_Bitter_Edge",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Royalty's Frigid Response",
       "Frostbite",
@@ -1210,13 +4060,31 @@
       "Icy Blast 6",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Royalty's Frigid Response",
+      "Frostbite",
+      "Keen",
+      "Icy Blast 6"
+    ],
+    "itemKey": "item:the_bitter_edge",
+    "setMembership": []
   },
   {
     "name": "Rauven of the Frost",
     "link": "https://ddowiki.com/page/Item:Rauven_of_the_Frost",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "Spellcasting Implement +29",
       "+15 Enhancement Bonus",
       "Frostblade",
@@ -1226,88 +4094,209 @@
       "Improved Destruction",
       "Red Augment Slot",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "setBonuses": [
+      "Legendary Freezing Ice"
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Frostblade",
+      "Chilling 6",
+      "Icy Blast 6",
+      "Improved Destruction"
+    ],
+    "itemKey": "item:rauven_of_the_frost",
+    "setMembership": []
   },
   {
     "name": "Legendary Ferrocrystal Longsword",
     "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Longsword",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Feybane 6",
       "Improved Destruction",
       "Maiming 6",
       "Crystal",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_longsword",
+    "setMembership": []
   },
   {
     "name": "Morninglord's Longsword",
     "link": "https://ddowiki.com/page/Item:Morninglord%27s_Longsword",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_longsword",
+    "setMembership": []
   },
   {
     "name": "Nightmother's Longsword",
     "link": "https://ddowiki.com/page/Item:Nightmother%27s_Longsword",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_longsword",
+    "setMembership": []
   },
   {
     "name": "Legendary Syranian Longsword",
     "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Longsword",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Electrifying 6",
       "Holy 6",
       "Construct Bane 6",
       "Adamantine",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_longsword",
+    "setMembership": []
   },
   {
     "name": "Legendary Alchemical Longsword",
     "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Longsword",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Legendary Alchemical Crafting (Prototype)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_longsword",
+    "setMembership": []
   },
   {
     "name": "Legendary Flamesalt Longsword",
     "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Longsword",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Chilling 6",
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_longsword",
+    "setMembership": []
   },
   {
     "name": "Legendary Timeblade",
     "link": "https://ddowiki.com/page/Item:Legendary_Timeblade",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 30,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Legendary Paralysis",
       "Doublestrike 16%",
@@ -1316,13 +4305,33 @@
       "Feather Falling",
       "Red Augment Slot",
       "Colorless Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red",
+      "Colorless"
+    ],
+    "setBonuses": [
+      "Legendary Paralysis",
+      "Legendary Slowburst"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Doublestrike 16%",
+      "Freedom of Movement",
+      "Feather Falling"
+    ],
+    "itemKey": "item:legendary_timeblade",
+    "setMembership": []
   },
   {
     "name": "Legendary Sirocco",
     "link": "https://ddowiki.com/page/Item:Legendary_Sirocco",
-    "minLevel": "30",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 30,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Legendary Telekinetic",
       "Force Blast 6",
@@ -1332,28 +4341,68 @@
       "The Legendary Desert's Biting Sands",
       "Purple Augment Slot",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "setBonuses": [
+      "Legendary Telekinetic",
+      "Legendary Sirocco",
+      "Legendary Air Guard",
+      "The Legendary Desert's Biting Sands"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 6",
+      "Smoke Screen"
+    ],
+    "itemKey": "item:legendary_sirocco",
+    "setMembership": []
   },
   {
     "name": "Legendary Fimbric, Lost Longsword",
     "link": "https://ddowiki.com/page/Item:Legendary_Fimbric,_Lost_Longsword",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Axiomatic Blast 6",
       "Holy 6",
       "Ghost Touch",
-      "Silver",
-      "Feather Fall",
+      "Silver , Alchemical",
+      "Feather Fall — 3 Charges (Recharged/Day:3)",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Axiomatic Blast 6",
+      "Holy 6",
+      "Ghost Touch",
+      "Silver , Alchemical",
+      "Feather Fall — 3 Charges (Recharged/Day:3)",
+      "Isle of Dread: Scale Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:legendary_fimbric,_lost_longsword",
+    "setMembership": []
   },
   {
     "name": "Dinosaur Bone Longsword",
     "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Longsword",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -1361,13 +4410,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:dinosaur_bone_longsword",
+    "setMembership": []
   },
   {
     "name": "Attuned Bone Longsword",
     "link": "https://ddowiki.com/page/Item:Attuned_Bone_Longsword",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Isle of Dread: Scale Slot (Weapon): Empty",
       "Isle of Dread: Fang Slot (Weapon): Empty",
@@ -1375,13 +4442,31 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:attuned_bone_longsword",
+    "setMembership": []
   },
   {
     "name": "Legendary Shining Reliquary Longsword",
     "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Longsword",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 6",
@@ -1389,13 +4474,31 @@
       "Evil Outsider Bane 6",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_longsword",
+    "setMembership": []
   },
   {
     "name": "Legendary Defiled Reliquary Longsword",
     "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Longsword",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 6",
@@ -1404,13 +4507,33 @@
       "Taint of Evil",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_longsword",
+    "setMembership": []
   },
   {
     "name": "Legendary Fried Sword Fish",
     "link": "https://ddowiki.com/page/Item:Legendary_Fried_Sword_Fish",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Armor-Piercing 22%",
       "Concentrated Corrosive Salt",
@@ -1418,13 +4541,31 @@
       "Flaming 15",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Armor-Piercing 22%",
+      "Concentrated Corrosive Salt",
+      "Fiery 6",
+      "Flaming 15"
+    ],
+    "itemKey": "item:legendary_fried_sword_fish",
+    "setMembership": []
   },
   {
     "name": "Legendary Frozen Sword Fish",
     "link": "https://ddowiki.com/page/Item:Legendary_Frozen_Sword_Fish",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Armor-Piercing 22%",
       "Concentrated Corrosive Salt",
@@ -1432,13 +4573,31 @@
       "Freezing 15",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Armor-Piercing 22%",
+      "Concentrated Corrosive Salt",
+      "Chilling 6",
+      "Freezing 15"
+    ],
+    "itemKey": "item:legendary_frozen_sword_fish",
+    "setMembership": []
   },
   {
     "name": "Legendary Sword Fish",
     "link": "https://ddowiki.com/page/Item:Legendary_Sword_Fish",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Armor-Piercing 22%",
       "Concentrated Corrosive Salt",
@@ -1446,13 +4605,31 @@
       "Gashing 15",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Armor-Piercing 22%",
+      "Concentrated Corrosive Salt",
+      "Slashing 6",
+      "Gashing 15"
+    ],
+    "itemKey": "item:legendary_sword_fish",
+    "setMembership": []
   },
   {
     "name": "Legendary Echo of the Artblade",
     "link": "https://ddowiki.com/page/Item:Legendary_Echo_of_the_Artblade",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Nullmagic Guard",
@@ -1462,44 +4639,104 @@
       "Sacred Spell Focus Mastery +3",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Nullmagic Guard",
+      "Eversight",
+      "Greater Arcane Casting Dexterity",
+      "Quality Potency +27",
+      "Sacred Spell Focus Mastery +3"
+    ],
+    "itemKey": "item:legendary_echo_of_the_artblade",
+    "setMembership": []
   },
   {
     "name": "Legendary Echo of the Warblade",
     "link": "https://ddowiki.com/page/Item:Legendary_Echo_of_the_Warblade",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Legendary Accuracy +5",
       "Slashing 7",
       "Gashing 16",
       "Dripping with Magma",
-      "Blade Barrier",
+      "Blade Barrier — 3 Charges (Recharged/Day:3)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Accuracy +5"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Slashing 7",
+      "Gashing 16",
+      "Dripping with Magma",
+      "Blade Barrier — 3 Charges (Recharged/Day:3)"
+    ],
+    "itemKey": "item:legendary_echo_of_the_warblade",
+    "setMembership": []
   },
   {
     "name": "Legendary Echo of the Crownblade",
     "link": "https://ddowiki.com/page/Item:Legendary_Echo_of_the_Crownblade",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Exceptional Alluring Skills Bonus",
+      "Exceptional Alluring Skills Bonus +11",
       "Felling the Oak",
       "Coruscating 7",
       "Electrifying 7",
       "Blazing 16",
-      "Heal",
+      "Heal — 3 Charges (Recharged/Day:3)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Exceptional Alluring Skills Bonus +11",
+      "Felling the Oak",
+      "Coruscating 7",
+      "Electrifying 7",
+      "Blazing 16",
+      "Heal — 3 Charges (Recharged/Day:3)"
+    ],
+    "itemKey": "item:legendary_echo_of_the_crownblade",
+    "setMembership": []
   },
   {
     "name": "Legendary Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Longsword_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Anarchic Blast 7",
       "Anarchic 7",
@@ -1507,13 +4744,31 @@
       "Keen",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Mending Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Mending_Longsword_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1523,13 +4778,33 @@
       "Insightful Spell Penetration +5",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Reconstruction +156",
+      "Repair Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5"
+    ],
+    "itemKey": "item:legendary_mending_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Kinetic Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Kinetic_Longsword_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1539,13 +4814,33 @@
       "Insightful Spell Penetration +5",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Impulse +156",
+      "Kinetic Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5"
+    ],
+    "itemKey": "item:legendary_kinetic_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Gleaming Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Gleaming_Longsword_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1555,13 +4850,33 @@
       "Insightful Spell Penetration +5",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Radiance +156",
+      "Radiance Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5"
+    ],
+    "itemKey": "item:legendary_gleaming_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Freezing Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Freezing_Longsword_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1571,13 +4886,33 @@
       "Insightful Spell Penetration +5",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Glaciation +156",
+      "Ice Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5"
+    ],
+    "itemKey": "item:legendary_freezing_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Deathly Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Deathly_Longsword_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1587,13 +4922,33 @@
       "Insightful Spell Penetration +5",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Nullification +156",
+      "Void Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5"
+    ],
+    "itemKey": "item:legendary_deathly_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Caustic Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Caustic_Longsword_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1603,13 +4958,33 @@
       "Insightful Spell Penetration +5",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Corrosion +156",
+      "Acid Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5"
+    ],
+    "itemKey": "item:legendary_caustic_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Burning Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Burning_Longsword_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1619,13 +4994,33 @@
       "Insightful Spell Penetration +5",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Combustion +156",
+      "Fire Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5"
+    ],
+    "itemKey": "item:legendary_burning_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Blessed Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Blessed_Longsword_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1635,13 +5030,33 @@
       "Insightful Spell Penetration +5",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Devotion +156",
+      "Healing Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5"
+    ],
+    "itemKey": "item:legendary_blessed_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Booming Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Booming_Longsword_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1651,13 +5066,33 @@
       "Insightful Spell Penetration +5",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Resonance +156",
+      "Sonic Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5"
+    ],
+    "itemKey": "item:legendary_booming_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Shocking Longsword of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Shocking_Longsword_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1667,13 +5102,33 @@
       "Insightful Spell Penetration +5",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Magnetism +156",
+      "Lightning Lore +23%",
+      "Quality Spell Focus Mastery +2",
+      "Insightful Spell Penetration +5"
+    ],
+    "itemKey": "item:legendary_shocking_longsword_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Gleaming Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Gleaming_Longsword_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1683,13 +5138,33 @@
       "Quality Spell Penetration +3",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Radiance +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3"
+    ],
+    "itemKey": "item:legendary_gleaming_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Blessed Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Blessed_Longsword_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1699,13 +5174,33 @@
       "Quality Spell Penetration +3",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Devotion +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3"
+    ],
+    "itemKey": "item:legendary_blessed_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Booming Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Booming_Longsword_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1715,13 +5210,33 @@
       "Quality Spell Penetration +3",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Resonance +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3"
+    ],
+    "itemKey": "item:legendary_booming_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Burning Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Burning_Longsword_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1731,13 +5246,33 @@
       "Quality Spell Penetration +3",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Combustion +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3"
+    ],
+    "itemKey": "item:legendary_burning_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Caustic Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Caustic_Longsword_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1747,13 +5282,33 @@
       "Quality Spell Penetration +3",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Corrosion +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3"
+    ],
+    "itemKey": "item:legendary_caustic_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Deathly Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Deathly_Longsword_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1763,13 +5318,33 @@
       "Quality Spell Penetration +3",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Nullification +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3"
+    ],
+    "itemKey": "item:legendary_deathly_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Freezing Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Freezing_Longsword_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1779,13 +5354,33 @@
       "Quality Spell Penetration +3",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Glaciation +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3"
+    ],
+    "itemKey": "item:legendary_freezing_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Kinetic Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Kinetic_Longsword_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1795,13 +5390,33 @@
       "Quality Spell Penetration +3",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Impulse +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3"
+    ],
+    "itemKey": "item:legendary_kinetic_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Mending Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Mending_Longsword_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1811,13 +5426,33 @@
       "Quality Spell Penetration +3",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Reconstruction +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3"
+    ],
+    "itemKey": "item:legendary_mending_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Shocking Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Shocking_Longsword_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1827,13 +5462,33 @@
       "Quality Spell Penetration +3",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Magnetism +78",
+      "Insightful Spell Lore V",
+      "Profane Spell Focus Mastery +2",
+      "Quality Spell Penetration +3"
+    ],
+    "itemKey": "item:legendary_shocking_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Longsword of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Longsword_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Force Blast 7",
       "Impactful 7",
@@ -1841,13 +5496,31 @@
       "Entropic 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_longsword_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Blessed Longsword of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Blessed_Longsword_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1857,13 +5530,33 @@
       "Spell Lore +13",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Devotion +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13"
+    ],
+    "itemKey": "item:blessed_longsword_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Booming Longsword of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Booming_Longsword_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1873,13 +5566,33 @@
       "Spell Lore +13",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Resonance +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13"
+    ],
+    "itemKey": "item:booming_longsword_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Burning Longsword of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Burning_Longsword_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1889,13 +5602,33 @@
       "Spell Lore +13",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Combustion +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13"
+    ],
+    "itemKey": "item:burning_longsword_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Caustic Longsword of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Caustic_Longsword_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1905,13 +5638,33 @@
       "Spell Lore +13",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Corrosion +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13"
+    ],
+    "itemKey": "item:caustic_longsword_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Deathly Longsword of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Deathly_Longsword_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1921,13 +5674,33 @@
       "Spell Lore +13",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Nullification +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13"
+    ],
+    "itemKey": "item:deathly_longsword_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Freezing Longsword of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Freezing_Longsword_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1937,13 +5710,33 @@
       "Spell Lore +13",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Glaciation +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13"
+    ],
+    "itemKey": "item:freezing_longsword_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Gleaming Longsword of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Gleaming_Longsword_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1953,13 +5746,33 @@
       "Spell Lore +13",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Radiance +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13"
+    ],
+    "itemKey": "item:gleaming_longsword_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Kinetic Longsword of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Kinetic_Longsword_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1969,13 +5782,33 @@
       "Spell Lore +13",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Impulse +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13"
+    ],
+    "itemKey": "item:kinetic_longsword_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Mending Longsword of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Mending_Longsword_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -1985,13 +5818,33 @@
       "Spell Lore +13",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Reconstruction +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13"
+    ],
+    "itemKey": "item:mending_longsword_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Shocking Longsword of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Shocking_Longsword_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Proficiency: Longsword",
@@ -2001,29 +5854,70 @@
       "Spell Lore +13",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Proficiency: Longsword",
+      "Insightful Magnetism +81",
+      "Exceptional Universal Spell Lore +5%",
+      "Sealed in Fire",
+      "Spell Lore +13"
+    ],
+    "itemKey": "item:shocking_longsword_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Reflection of the Crownblade",
     "link": "https://ddowiki.com/page/Item:Reflection_of_the_Crownblade",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "Spellcasting Implement +33",
       "+15 Enhancement Bonus",
       "Felling the Oak",
       "Legendary Radiance",
       "Quality Devotion +40",
       "Sealed in Fire",
-      "The Crownblade's Blessing",
+      "The Crownblade's Blessing — 1 Charges (Recharged/Day:1)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Radiance"
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Felling the Oak",
+      "Quality Devotion +40",
+      "Sealed in Fire",
+      "The Crownblade's Blessing — 1 Charges (Recharged/Day:1)"
+    ],
+    "itemKey": "item:reflection_of_the_crownblade",
+    "setMembership": []
   },
   {
     "name": "Reflection of the Warblade",
     "link": "https://ddowiki.com/page/Item:Reflection_of_the_Warblade",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Legendary Mineral",
       "The Warblade's Wrath",
@@ -2032,28 +5926,67 @@
       "Sealed in Fire",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Mineral",
+      "Legendary Electric Storm"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "The Warblade's Wrath",
+      "Dripping with Magma",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:reflection_of_the_warblade",
+    "setMembership": []
   },
   {
     "name": "Reflection of the Artblade",
     "link": "https://ddowiki.com/page/Item:Reflection_of_the_Artblade",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Spell Lore +13",
       "Sacred Spell Focus Mastery +2",
       "The Artblade's Gift",
-      "Curse Absorption",
+      "Curse Absorption - 10 Charges (Recharged/Day: 10)",
       "Sealed in Fire",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Spell Lore +13",
+      "Sacred Spell Focus Mastery +2",
+      "The Artblade's Gift",
+      "Curse Absorption - 10 Charges (Recharged/Day: 10)",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:reflection_of_the_artblade",
+    "setMembership": []
   },
   {
     "name": "Longsword of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Longsword_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Dripping with Magma",
       "3rd Degree Burns",
@@ -2061,13 +5994,31 @@
       "Sealed in Fire",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:longsword_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Calamitous Longsword",
     "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Longsword",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -2075,13 +6026,31 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_calamitous_longsword",
+    "setMembership": []
   },
   {
     "name": "Legendary Cataclysmic Longsword",
     "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Longsword",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Lamordia: Melancholic Slot (Weapon)",
       "Lamordia: Dolorous Slot (Weapon)",
@@ -2089,13 +6058,31 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_cataclysmic_longsword",
+    "setMembership": []
   },
   {
     "name": "Legendary Drysvayla's Razor",
     "link": "https://ddowiki.com/page/Item:Legendary_Drysvayla%27s_Razor",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Poisonous 7",
       "Toxic 16",
@@ -2103,13 +6090,31 @@
       "Dragon's Edge 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Poisonous 7",
+      "Toxic 16",
+      "Sovereign Vorpal",
+      "Dragon's Edge 7"
+    ],
+    "itemKey": "item:legendary_drysvayla's_razor",
+    "setMembership": []
   },
   {
     "name": "Legendary Burning Blade of Estelar",
     "link": "https://ddowiki.com/page/Item:Legendary_Burning_Blade_of_Estelar",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "long_sword",
+    "handedness": "one_handed",
+    "category": "Long Swords",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Fiery 7",
       "Flaming 16",
@@ -2117,6 +6122,20 @@
       "Dragon's Edge 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Fiery 7",
+      "Flaming 16",
+      "Sovereign Vorpal",
+      "Dragon's Edge 7"
+    ],
+    "itemKey": "item:legendary_burning_blade_of_estelar",
+    "setMembership": []
   }
 ]

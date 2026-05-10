@@ -2,30 +2,64 @@
   {
     "name": "Ethereal Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Ethereal_Throwing_Axe",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Returning"
+    ],
+    "itemKey": "item:ethereal_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Sworn Silver Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Sworn_Silver_Throwing_Axe",
-    "minLevel": "2",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 2,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Returning"
+    ],
+    "itemKey": "item:sworn_silver_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Ferrocrystal Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Ferrocrystal_Throwing_Axe",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 5,
+    "effectsRaw": [
       "+2 Enhancement Bonus",
       "Feybane 2",
       "Destruction",
@@ -33,13 +67,31 @@
       "Crystal",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Returning"
+    ],
+    "itemKey": "item:ferrocrystal_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Flamesalt Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Flamesalt_Throwing_Axe",
-    "minLevel": "5",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 5,
+    "effectsRaw": [
       "+1 Enhancement Bonus",
       "Chilling 2",
       "Monstrous Humanoid Bane 2",
@@ -47,24 +99,56 @@
       "Flametouched Iron",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Returning"
+    ],
+    "itemKey": "item:flamesalt_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Dwarven Thrower",
     "link": "https://ddowiki.com/page/Item:Dwarven_Thrower",
-    "minLevel": "6",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 6,
+    "effectsRaw": [
       "+3 Enhancement Bonus",
       "Extra damage vs Giants",
       "Returning",
       "Extra damage vs non-Giants"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Extra damage vs Giants",
+      "Returning",
+      "Extra damage vs non-Giants"
+    ],
+    "itemKey": "item:dwarven_thrower",
+    "setMembership": []
   },
   {
     "name": "Calamitous Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Calamitous_Throwing_Axe",
-    "minLevel": "8",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 8,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
       "Returning",
@@ -72,35 +156,82 @@
       "Lamordia: Dolorous Slot (Weapon)",
       "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)"
+    ],
+    "itemKey": "item:calamitous_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Returning Axe of Embers",
     "link": "https://ddowiki.com/page/Item:Returning_Axe_of_Embers",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Returning"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Returning"
+    ],
+    "itemKey": "item:returning_axe_of_embers",
+    "setMembership": []
   },
   {
     "name": "Barovian's Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Barovian%27s_Throwing_Axe",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Macabre Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Macabre_Throwing_Axe",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 3",
@@ -108,13 +239,31 @@
       "Chilling 3",
       "Returning",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Returning"
+    ],
+    "itemKey": "item:macabre_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Axe of Savaran",
     "link": "https://ddowiki.com/page/Item:Axe_of_Savaran",
-    "minLevel": "10",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 10,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Electrifying 3",
       "Jolting 7",
@@ -122,33 +271,77 @@
       "Dragon's Edge 3",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 3",
+      "Jolting 7",
+      "Limb Chopper",
+      "Dragon's Edge 3",
+      "Returning"
+    ],
+    "itemKey": "item:axe_of_savaran",
+    "setMembership": []
   },
   {
     "name": "Green Steel Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Green_Steel_Throwing_Axe",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Green Steel",
       "Returning"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel",
+      "Returning"
+    ],
+    "itemKey": "item:green_steel_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Alchemical Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Alchemical_Throwing_Axe",
-    "minLevel": "12",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 12,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)",
       "Returning"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)",
+      "Returning"
+    ],
+    "itemKey": "item:alchemical_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Throwing Axe of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Throwing_Axe_of_the_Fallen_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Anarchic Blast 3",
       "Anarchic 3",
@@ -156,13 +349,31 @@
       "Keen",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Returning"
+    ],
+    "itemKey": "item:throwing_axe_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Throwing Axe of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Throwing_Axe_of_the_Golden_Age",
-    "minLevel": "13",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 13,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Force Blast 3",
       "Impactful 3",
@@ -170,13 +381,31 @@
       "Entropic 3",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Returning"
+    ],
+    "itemKey": "item:throwing_axe_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Syranian Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Syranian_Throwing_Axe",
-    "minLevel": "15",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 15,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Electrifying 4",
       "Holy 4",
@@ -184,13 +413,31 @@
       "Adamantine",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Returning"
+    ],
+    "itemKey": "item:syranian_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Shining Reliquary Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Throwing_Axe",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 4",
@@ -198,13 +445,31 @@
       "Evil Outsider Bane 4",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Returning"
+    ],
+    "itemKey": "item:shining_reliquary_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Defiled Reliquary Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Throwing_Axe",
-    "minLevel": "18",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 18,
+    "effectsRaw": [
       "+5 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 4",
@@ -212,27 +477,63 @@
       "Vile Grip of the Hidden Hand",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Returning"
+    ],
+    "itemKey": "item:defiled_reliquary_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Epic Sworn Silver Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Throwing_Axe",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Unnatural Bane 4",
       "Destruction",
       "Righteous",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Returning"
+    ],
+    "itemKey": "item:epic_sworn_silver_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Epic Ethereal Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Throwing_Axe",
-    "minLevel": "20",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 20,
+    "effectsRaw": [
       "+6 Enhancement Bonus",
       "Impactful 4",
       "Ghostbane 4",
@@ -240,48 +541,113 @@
       "Adamantine",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Returning"
+    ],
+    "itemKey": "item:epic_ethereal_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Thunder-Forged Alloy Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Throwing_Axe",
-    "minLevel": "22",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 22,
+    "effectsRaw": [
       "+9 Enhancement Bonus",
       "Returning",
       "Thunder-Forged (Tier 0)",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Returning",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Green Steel Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Throwing_Axe",
-    "minLevel": "26",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 26,
+    "effectsRaw": [
       "+14 Enhancement Bonus",
       "Legendary Green Steel",
       "Returning"
-    ]
+    ],
+    "augmentSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_green_steel_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Morninglord's Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Morninglord%27s_Throwing_Axe",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
-      "Silver",
+      "Silver , Alchemical",
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Returning"
+    ],
+    "itemKey": "item:morninglord's_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Nightmother's Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Nightmother%27s_Throwing_Axe",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Mother Night's Embrace",
       "Human Bane 6",
@@ -289,13 +655,31 @@
       "Chilling 6",
       "Returning",
       "Orange Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Returning"
+    ],
+    "itemKey": "item:nightmother's_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Syranian Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Throwing_Axe",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Electrifying 6",
       "Holy 6",
@@ -303,13 +687,31 @@
       "Adamantine",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_syranian_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Ferrocrystal Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Throwing_Axe",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Feybane 6",
       "Improved Destruction",
@@ -317,13 +719,31 @@
       "Crystal",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Flamesalt Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Throwing_Axe",
-    "minLevel": "29",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 29,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Chilling 6",
       "Monstrous Humanoid Bane 6",
@@ -331,13 +751,31 @@
       "Flametouched Iron",
       "Returning",
       "Red Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_flamesalt_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Dinosaur Bone Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Throwing_Axe",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Returning",
       "Isle of Dread: Scale Slot (Weapon): Empty",
@@ -346,13 +784,32 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:dinosaur_bone_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Attuned Bone Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Attuned_Bone_Throwing_Axe",
-    "minLevel": "31",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 31,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Returning",
       "Isle of Dread: Scale Slot (Weapon): Empty",
@@ -361,13 +818,32 @@
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty"
+    ],
+    "itemKey": "item:attuned_bone_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Shining Reliquary Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Throwing_Axe",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Coruscating 6",
@@ -376,13 +852,32 @@
       "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Defiled Reliquary Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Throwing_Axe",
-    "minLevel": "32",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 32,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Improved Destruction",
       "Unholy 6",
@@ -392,13 +887,34 @@
       "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Throwing Axe of the Fallen Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Throwing_Axe_of_the_Fallen_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Anarchic Blast 7",
       "Anarchic 7",
@@ -407,13 +923,32 @@
       "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_throwing_axe_of_the_fallen_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Throwing Axe of the Golden Age",
     "link": "https://ddowiki.com/page/Item:Legendary_Throwing_Axe_of_the_Golden_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Force Blast 7",
       "Impactful 7",
@@ -422,13 +957,32 @@
       "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_throwing_axe_of_the_golden_age",
+    "setMembership": []
   },
   {
     "name": "Throwing Axe of the Undying Age",
     "link": "https://ddowiki.com/page/Item:Throwing_Axe_of_the_Undying_Age",
-    "minLevel": "33",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 33,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Dripping with Magma",
       "3rd Degree Burns",
@@ -437,13 +991,32 @@
       "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Returning"
+    ],
+    "itemKey": "item:throwing_axe_of_the_undying_age",
+    "setMembership": []
   },
   {
     "name": "Legendary Calamitous Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Throwing_Axe",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Returning",
       "Lamordia: Melancholic Slot (Weapon)",
@@ -452,13 +1025,32 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_calamitous_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Cataclysmic Throwing Axe",
     "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Throwing_Axe",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 34,
+    "effectsRaw": [
       "+15 Enhancement Bonus",
       "Returning",
       "Lamordia: Melancholic Slot (Weapon)",
@@ -467,13 +1059,32 @@
       "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)"
+    ],
+    "itemKey": "item:legendary_cataclysmic_throwing_axe",
+    "setMembership": []
   },
   {
     "name": "Legendary Axe of Savaran",
     "link": "https://ddowiki.com/page/Item:Legendary_Axe_of_Savaran",
-    "minLevel": "34",
-    "enhancements": [
+    "slot": "weapon",
+    "itemSubtype": "throwing_axe",
+    "handedness": "one_handed",
+    "category": "Throwing Axes",
+    "minLevel": 34,
+    "effectsRaw": [
       "+4 Enhancement Bonus",
       "Electrifying 7",
       "Jolting 16",
@@ -482,6 +1093,21 @@
       "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
-    ]
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Electrifying 7",
+      "Jolting 16",
+      "Limb Chopper",
+      "Dragon's Edge 7",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_axe_of_savaran",
+    "setMembership": []
   }
 ]

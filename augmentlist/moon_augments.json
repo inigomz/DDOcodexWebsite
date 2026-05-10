@@ -1,0 +1,1276 @@
+[
+  {
+    "name": "Lunar Gem of Repair Amplification (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Repair_Amplification_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Repair Amplification +10"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ruins of Myth Drannor, Yegora's chest, and Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "Sleeping with the Fishes, House Lyrandar uprising optional chest",
+      "Snowfall and Sunlight, locked chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Wisdom (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Wisdom_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Wisdom +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ettercap Incursion, end chest",
+      "The Darkness and the Light, end chest",
+      "Land of Lamordia, Vornir Frosthelm's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Magical Protection (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Magical_Protection_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Magical Sheltering +10"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Book Burning, end chest",
+      "Toil and Trouble, end chest",
+      "A Light in the Attic, secret area chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Dexterity (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Dexterity_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Dexterity +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Voices of the Dead, end chest",
+      "The Knife's Edge, end chest",
+      "Locked Away (Part Two), end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Melee Power (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Melee_Power_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Melee Power +15"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Zulkir's Plan, end chest",
+      "Cold Snap, end chest",
+      "Thrall of Duty, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Spell Difficulty (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Spell_Difficulty_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Spell Focus Mastery +3"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Seeds of Decay, end chest",
+      "The Wizard's Labyrinth, end chest",
+      "The Body Snatchers, cookbook optional chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Spellpower (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Spellpower_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Potency +15"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Key to the Mythal, end chest",
+      "Toil and Trouble, end chest",
+      "A Light in the Attic, secret area chest",
+      "Wish Upon a Card, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Strength (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Strength_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Strength +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Seeds of Decay, end chest",
+      "Rats in a Cage, end chest",
+      "The Proper Authorities, end chest",
+      "Going Rogue, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Ranged Power (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Ranged_Power_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Ranged Power +15"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Times Long Past, end chest",
+      "Sleeping with the Fishes, end chest",
+      "Snowfall and Sunlight, Potion Paw's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Dexterity (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Dexterity_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Dexterity +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Voices of the Dead, end chest",
+      "The Knife's Edge, end chest",
+      "Locked Away (Part Two), end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Intelligence (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Intelligence_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Intelligence +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The House of Gems, end chest",
+      "Rats in a Cage, end chest",
+      "The Wizard's Labyrinth, end chest",
+      "Locked Away (Part Two), end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Repair Amplification (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Repair_Amplification_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Repair Amplification +30"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ruins of Myth Drannor, Yegora's chest, and Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "Sleeping with the Fishes, House Lyrandar uprising optional chest",
+      "Snowfall and Sunlight, locked chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Spellpower (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Spellpower_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Potency +25"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Key to the Mythal, end chest",
+      "A Light in the Attic, secret area chest",
+      "Wish Upon a Card, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Strength (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Strength_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Strength +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Seeds of Decay, end chest",
+      "Rats in a Cage, end chest",
+      "The Proper Authorities, end chest",
+      "Going Rogue, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Healing Amplification (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Healing_Amplification_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Healing Amplification +30"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ruins of Myth Drannor, Yegora's chest, and Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "The Darkness and the Light, end chest",
+      "Special Delivery, Max Entsetzen's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Magical Protection (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Magical_Protection_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Magical Sheltering +30"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Book Burning, end chest",
+      "A Light in the Attic, secret area chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Weapon Damage (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Weapon_Damage_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Deadly +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Secrets of the Red Wizards, end chest",
+      "The Knife's Edge, end chest",
+      "Zoo Creeper, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Healing Amplification (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Healing_Amplification_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Healing Amplification +10"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ruins of Myth Drannor, Yegora's chest, and Romira and Juvian's right chest (requires completion of Sleeping with the Fishes)",
+      "The Darkness and the Light, end chest",
+      "Special Delivery, Max Entsetzen's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Physical Protection (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Physical_Protection_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Physical Sheltering +10"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Portal to Below, end chest",
+      "The Covered Culvert, end chest",
+      "A Miner Sacrifice, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Charisma (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Charisma_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Charisma +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Death Hosts This Banquet, end chest",
+      "Rats in a Cage, end chest",
+      "The Wizard's Labyrinth, end chest",
+      "Beneath the City Streets, Dead Man's Wrath's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Constitution (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Constitution_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Constitution +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Oghma's Song, end chest",
+      "Rats in a Cage, end chest",
+      "Beneath the City Streets, end chest",
+      "Wish Upon a Card, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Ranged Power (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Ranged_Power_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Ranged Power +5"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Times Long Past, end chest",
+      "Sleeping with the Fishes, end chest",
+      "Snowfall and Sunlight, Potion Paw's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Weapon Damage (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Weapon_Damage_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Deadly +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Secrets of the Red Wizards, end chest",
+      "The Knife's Edge, end chest",
+      "Zoo Creeper, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Constitution (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Constitution_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Constitution +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Oghma's Song, end chest",
+      "Rats in a Cage, end chest",
+      "Beneath the City Streets, end chest",
+      "Wish Upon a Card, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Negative Amplification (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Negative_Amplification_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Enhancement Negative Amplification +30"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ruins of Myth Drannor, Goranathanil's chest",
+      "Sleeping with the Fishes, end chest",
+      "Zoo Creeper, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Melee Power (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Melee_Power_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Melee Power +5"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Zulkir's Plan, end chest",
+      "Cold Snap, end chest",
+      "Thrall of Duty, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Wisdom (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Wisdom_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Wisdom +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ettercap Incursion, end chest",
+      "The Darkness and the Light, end chest",
+      "Land of Lamordia, Vornir Frosthelm's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Charisma (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Charisma_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Charisma +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Death Hosts This Banquet, end chest",
+      "Rats in a Cage, end chest",
+      "The Wizard's Labyrinth, end chest",
+      "Beneath the City Streets, Dead Man's Wrath's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Spell Difficulty (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Spell_Difficulty_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Spell Focus Mastery +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Seeds of Decay, end chest",
+      "The Wizard's Labyrinth, end chest",
+      "Toil and Trouble, end chest",
+      "The Body Snatchers, cookbook optional chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Physical Protection (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Physical_Protection_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Physical Sheltering +30"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Portal to Below, end chest",
+      "The Covered Culvert, end chest",
+      "A Miner Sacrifice, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Swift Charging (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Swift_Charging_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Rune Arm Charge Rate: 5%"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Book Burning, end chest",
+      "Beneath the City Streets, Dead Man's Wrath's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Intelligence (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Intelligence_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Intelligence +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The House of Gems, end chest",
+      "Rats in a Cage, end chest",
+      "The Wizard's Labyrinth, end chest",
+      "Locked Away (Part Two), end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Accuracy (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Accuracy_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Accuracy +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Safehold, end chest",
+      "Rats in a Cage, end chest",
+      "The Covered Culvert, end chest",
+      "Land of Lamordia, Vornir Frosthelm's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Negative Amplification (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Negative_Amplification_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Enhancement Negative Amplification +10"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ruins of Myth Drannor, Goranathanil's chest",
+      "Sleeping with the Fishes, end chest",
+      "Zoo Creeper, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Swift Charging (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Swift_Charging_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Rune Arm Charge Rate: 15%"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Book Burning, end chest",
+      "Beneath the City Streets, Dead Man's Wrath's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Accuracy (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Accuracy_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Accuracy +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Safehold, end chest",
+      "Rats in a Cage, end chest",
+      "The Covered Culvert, end chest",
+      "Land of Lamordia, Vornir Frosthelm's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Natural Armor (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Natural_Armor_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Natural Armor +5"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ettercap Incursion, end chest",
+      "The Covered Culvert, end chest",
+      "A Miner Sacrifice, optional chest",
+      "The Final Draw, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Natural Armor (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Natural_Armor_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Natural Armor +10"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ettercap Incursion, end chest",
+      "The Covered Culvert, end chest",
+      "A Miner Sacrifice, optional chest",
+      "The Final Draw, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Magical Protection (Epic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Magical_Protection_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Magical Sheltering +20"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Toil and Trouble, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Spell Difficulty (Epic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Spell_Difficulty_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Spell Focus Mastery +2"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Toil and Trouble, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Spellpower (Epic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Spellpower_(Epic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Potency +20"
+    ],
+    "minLevel": 20,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Toil and Trouble, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Necromancy (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Necromancy_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Necromancy Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Light in the Attic, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Illusion (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Illusion_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Illusion Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Cold Snap, Althea's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Linguistics (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Linguistics_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Diplomacy +6",
+      "Profane Intimidate +6",
+      "Profane Bluff +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Body Snatchers, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Linguistics (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Linguistics_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Diplomacy +2",
+      "Profane Intimidate +2",
+      "Profane Bluff +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Body Snatchers, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Enchantment (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Enchantment_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Enchantment Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Light in the Attic, end chest",
+      "Body and Mind, optional chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Enchantment (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Enchantment_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Enchantment Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Light in the Attic, end chest",
+      "Body and Mind, optional chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Blast Dice (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Blast_Dice_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "+1 Profane Bonus to Eldritch Blast Dice."
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Light in the Attic, secret area chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Blast Dice (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Blast_Dice_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "+3 Profane Bonus to Eldritch Blast Dice."
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Light in the Attic, secret area chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Pact Dice (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Pact_Dice_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Power in Pact +3"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Snowfall and Sunlight, locked chest",
+      "Body and Mind, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Pact Dice (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Pact_Dice_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Power in Pact +1"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Snowfall and Sunlight, locked chest",
+      "Body and Mind, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Abjuration (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Abjuration_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Abjuration Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Proper Authorities, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Abjuration (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Abjuration_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Abjuration Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Proper Authorities, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Balance and Tumble (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Balance_and_Tumble_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Balance +2",
+      "Profane Tumble +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Locked Away (Part One), Asylum Otyugh's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Balance and Tumble (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Balance_and_Tumble_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Balance +6",
+      "Profane Tumble +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Locked Away (Part One), Asylum Otyugh's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Conjuration (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Conjuration_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Conjuration Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Wish, end chest",
+      "Body and Mind, optional chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Conjuration (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Conjuration_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Conjuration Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Wish, end chest",
+      "Body and Mind, optional chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Disable Device and Open Lock (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Disable_Device_and_Open_Lock_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Disable Device +2",
+      "Profane Open Lock +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Beneath the City Streets, Dead Man's Wrath's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Disable Device and Open Lock (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Disable_Device_and_Open_Lock_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Disable Device +6",
+      "Profane Open Lock +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Beneath the City Streets, Dead Man's Wrath's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Evocation (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Evocation_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Evocation Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Proper Authorities, end chest",
+      "Body and Mind, optional chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Evocation (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Evocation_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Evocation Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "The Proper Authorities, end chest",
+      "Body and Mind, optional chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Haggle and Perform (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Haggle_and_Perform_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Haggle +2",
+      "Profane Perform +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Land of Lamordia, Fangs of Winter's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Haggle and Perform (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Haggle_and_Perform_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Haggle +6",
+      "Profane Perform +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Land of Lamordia, Fangs of Winter's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Hide and Move Silently (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Hide_and_Move_Silently_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Hide +2",
+      "Profane Move Silently +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ends and Means, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Hide and Move Silently (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Hide_and_Move_Silently_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Hide +6",
+      "Profane Move Silently +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ends and Means, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Illusion (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Illusion_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Illusion Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Cold Snap, Althea's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Jump and Swim (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Jump_and_Swim_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Jump +2",
+      "Profane Swim +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Cold Snap, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Jump and Swim (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Jump_and_Swim_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Jump +6",
+      "Profane Swim +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Cold Snap, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Necromancy (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Necromancy_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Necromancy Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "A Light in the Attic, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Heal and Listen (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Heal_and_Listen_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Heal +2",
+      "Profane Listen +2",
+      "Profane Concentration +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Land of Lamordia, Experiment Y's chest",
+      "The Wish, Lamordian Hook Horror Matriarch's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Heal and Listen (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Heal_and_Listen_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Heal +6",
+      "Profane Listen +6",
+      "Profane Concentration +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Land of Lamordia, Experiment Y's chest",
+      "The Wish, Lamordian Hook Horror Matriarch's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Repair and Use Magic Device (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Repair_and_Use_Magic_Device_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Repair +2",
+      "Profane Use Magic Device +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Special Delivery, Max Entsetzen's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Repair and Use Magic Device (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Repair_and_Use_Magic_Device_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Repair +6",
+      "Profane Use Magic Device +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Special Delivery, Max Entsetzen's chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Search and Spot (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Search_and_Spot_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Search +2",
+      "Profane Spot +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Snowfall and Sunlight, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Search and Spot (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Search_and_Spot_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Search +6",
+      "Profane Spot +6"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Snowfall and Sunlight, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Transmutation (Heroic)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Transmutation_(Heroic)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Transmutation Focus +2"
+    ],
+    "minLevel": 1,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ends and Means, end chest"
+    ]
+  },
+  {
+    "name": "Lunar Gem of Transmutation (Legendary)",
+    "link": "https://ddowiki.com/page/Item:Lunar_Gem_of_Transmutation_(Legendary)",
+    "itemType": "augment",
+    "augmentCategory": "Moon",
+    "augmentType": "Moon augments",
+    "effectsRaw": [
+      "Profane Transmutation Focus +4"
+    ],
+    "minLevel": 30,
+    "binding": "Unbound",
+    "locationRaw": [
+      "Ends and Means, end chest"
+    ]
+  }
+]
