@@ -1,21 +1,5 @@
 [
   {
-    "name": "+5 Ornate Cormyrian Light Plate",
-    "link": "https://ddowiki.com/page/Item:%2B5_Ornate_Cormyrian_Light_Plate",
-    "minLevel": "20",
-    "enhancements": [
-      "+5 Enhancement Bonus"
-    ]
-  },
-  {
-    "name": "+5 Polished Cormyrian Full Plate",
-    "link": "https://ddowiki.com/page/Item:%2B5_Polished_Cormyrian_Full_Plate",
-    "minLevel": "20",
-    "enhancements": [
-      "+5 Enhancement Bonus"
-    ]
-  },
-  {
     "name": "Argenti's Armor",
     "link": "https://ddowiki.com/page/Item:Argenti%27s_Armor",
     "minLevel": "12",
@@ -35,8 +19,7 @@
       "Deadly +6",
       "Incite +69",
       "Protection +6",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -49,8 +32,7 @@
       "Deadly +6",
       "Insightful Fortitude Save +3",
       "Quality Deadly +2",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -82,7 +64,7 @@
     "enhancements": [
       "+5 Enhancement Bonus",
       "Haste Guard",
-      "Armor-Piercing - 10%",
+      "Armor-Piercing 10%",
       "Relentless Fury",
       "Acid Resistance +30"
     ]
@@ -97,8 +79,7 @@
       "Physical Sheltering +19",
       "Competence Healing Amplification +30",
       "False Life +29",
-      "Blue Augment Slot",
-      "Flamecleansed Fury"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -133,8 +114,7 @@
       "Physical Sheltering +19",
       "Competence Healing Amplification +30",
       "False Life +29",
-      "Blue Augment Slot",
-      "Hruit's Influence"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -295,6 +275,14 @@
     ]
   },
   {
+    "name": "Cormyrian Full Plate",
+    "link": "https://ddowiki.com/page/Item:Cormyrian_Full_Plate",
+    "minLevel": "16",
+    "enhancements": [
+      "Eveningstar Challenge Pack"
+    ]
+  },
+  {
     "name": "Cormyrian Green Dragonplate Armor",
     "link": "https://ddowiki.com/page/Item:Cormyrian_Green_Dragonplate_Armor",
     "minLevel": "23",
@@ -306,6 +294,14 @@
       "Resistance +6",
       "Proof Against Poison +10",
       "Power Store"
+    ]
+  },
+  {
+    "name": "Cormyrian Light Plate",
+    "link": "https://ddowiki.com/page/Item:Cormyrian_Light_Plate",
+    "minLevel": "16",
+    "enhancements": [
+      "Eveningstar Challenge Pack"
     ]
   },
   {
@@ -332,8 +328,7 @@
       "Quality Fortification  +21%",
       "Insightful Fortitude Save +3",
       "Vitality +23",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -367,12 +362,11 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Competence Elemental Resistance - 5",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Lamordia: Woeful Slot (Accessory): Empty",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Lamordia: Woeful Slot (Accessory)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -433,8 +427,7 @@
       "Physical Sheltering +19",
       "Competence Healing Amplification +30",
       "False Life +29",
-      "Blue Augment Slot",
-      "Part of the Family"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -500,8 +493,7 @@
       "Insightful Fortitude Save +5",
       "Vitality +41",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -597,8 +589,7 @@
       "Fire Guard II",
       "Incineration Guard",
       "Colorless Augment Slot",
-      "Blue Augment Slot",
-      "Epic Soul of the Red Dragon"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -611,8 +602,7 @@
       "Sheltering +24",
       "Protection +8",
       "Shield +9",
-      "Blue Augment Slot",
-      "Epic Saltmarsh Explorer"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -655,8 +645,7 @@
       "Radiance +111",
       "Radiance Guard",
       "Colorless Augment Slot",
-      "Blue Augment Slot",
-      "Epic Oasis of Morality"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -761,8 +750,7 @@
       "Insightful Spell Resistance +7",
       "Quality Dodge +1%",
       "Insightful Fortification  +33%",
-      "Green Augment Slot",
-      "The Dread Isle's Curse"
+      "Green Augment Slot"
     ]
   },
   {
@@ -772,7 +760,7 @@
     "enhancements": [
       "+7 Enhancement Bonus",
       "Haste Guard",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Relentless Fury",
       "Acid Resistance +40",
       "Attuned to Heroism",
@@ -912,6 +900,128 @@
     ]
   },
   {
+    "name": "Grand Ringmaster's Plate (level 12)",
+    "link": "https://ddowiki.com/page/Item:Grand_Ringmaster%27s_Plate_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Command +4",
+      "Blindness Immunity",
+      "Natural Armor +6",
+      "Magical Sheltering +16",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Grand Ringmaster's Plate (level 16)",
+    "link": "https://ddowiki.com/page/Item:Grand_Ringmaster%27s_Plate_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Command +5",
+      "Blindness Immunity",
+      "Natural Armor +8",
+      "Magical Sheltering +20",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Grand Ringmaster's Plate (level 20)",
+    "link": "https://ddowiki.com/page/Item:Grand_Ringmaster%27s_Plate_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Command +5",
+      "Blindness Immunity",
+      "Natural Armor +9",
+      "Magical Sheltering +24",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Grand Ringmaster's Plate (level 24)",
+    "link": "https://ddowiki.com/page/Item:Grand_Ringmaster%27s_Plate_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Command +6",
+      "Blindness Immunity",
+      "Natural Armor +11",
+      "Magical Sheltering +28",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Grand Ringmaster's Plate (level 28)",
+    "link": "https://ddowiki.com/page/Item:Grand_Ringmaster%27s_Plate_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Command +7",
+      "Blindness Immunity",
+      "Natural Armor +12",
+      "Magical Sheltering +32",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Grand Ringmaster's Plate (level 32)",
+    "link": "https://ddowiki.com/page/Item:Grand_Ringmaster%27s_Plate_(level_32)",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Command +7",
+      "Blindness Immunity",
+      "Natural Armor +14",
+      "Magical Sheltering +36",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Grand Ringmaster's Plate (level 36)",
+    "link": "https://ddowiki.com/page/Item:Grand_Ringmaster%27s_Plate_(level_36)",
+    "minLevel": "36",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Command +8",
+      "Blindness Immunity",
+      "Natural Armor +15",
+      "Magical Sheltering +40",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Grand Ringmaster's Plate (level 4)",
+    "link": "https://ddowiki.com/page/Item:Grand_Ringmaster%27s_Plate_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Command +3",
+      "Blindness Immunity",
+      "Natural Armor +3",
+      "Magical Sheltering +8",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Grand Ringmaster's Plate (level 8)",
+    "link": "https://ddowiki.com/page/Item:Grand_Ringmaster%27s_Plate_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Command +3",
+      "Blindness Immunity",
+      "Natural Armor +5",
+      "Magical Sheltering +12",
+      "Blue Augment Slot"
+    ]
+  },
+  {
     "name": "Gravekeeper's Armor",
     "link": "https://ddowiki.com/page/Item:Gravekeeper%27s_Armor",
     "minLevel": "8",
@@ -919,11 +1029,10 @@
       "+4 Enhancement Bonus",
       "Natural Armor +5",
       "Good Luck  +2",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -958,8 +1067,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Insightful Spell Focus Mastery +3",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -972,8 +1080,7 @@
       "Exceptional Universal Spell Power +8",
       "Exceptional Universal Spell Lore +3%",
       "Legendary Spell Penetration +2",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1001,8 +1108,7 @@
       "Competence Elemental Resistance - 15",
       "Temperance of Spirit",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1015,8 +1121,7 @@
       "Exceptional Healing Amplification +7",
       "Competence Elemental Resistance - 5",
       "Linguistics",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1029,8 +1134,7 @@
       "Cold Absorption +18%",
       "Blurry",
       "Fortification  +70%",
-      "Green Augment Slot",
-      "Temple's Tide"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1043,8 +1147,7 @@
       "Fire Absorption +18%",
       "Blurry",
       "Fortification  +70%",
-      "Green Augment Slot",
-      "Temple's Inferno"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1070,10 +1173,9 @@
       "Accuracy +24",
       "Deadly +12",
       "Shadow Striker",
-      "Legendary Armor-Piercing - 5%",
+      "Legendary Armor-Piercing 5%",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1085,9 +1187,8 @@
       "Accuracy +11",
       "Deadly +6",
       "Demonic Shield",
-      "Legendary Armor-Piercing - 2%",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Legendary Armor-Piercing 2%",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1129,10 +1230,9 @@
       "+4 Enhancement Bonus",
       "Ghostly",
       "Fortification  +70%",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1146,8 +1246,7 @@
       "Incite +133",
       "Protection +12",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1161,8 +1260,7 @@
       "Insightful Fortitude Save +6",
       "Quality Deadly +3",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1175,8 +1273,7 @@
       "Physical Sheltering +33",
       "Competence Healing Amplification +53",
       "False Life +50",
-      "Green Augment Slot",
-      "Legendary Flamecleansed Fury"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1189,8 +1286,7 @@
       "Physical Sheltering +33",
       "Competence Healing Amplification +53",
       "False Life +50",
-      "Green Augment Slot",
-      "Legendary Hruit's Influence"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1242,13 +1338,12 @@
     "enhancements": [
       "+15 Enhancement Bonus",
       "Competence Elemental Resistance - 15",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Lamordia: Woeful Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1261,8 +1356,7 @@
       "Physical Sheltering +33",
       "Competence Healing Amplification +53",
       "False Life +50",
-      "Green Augment Slot",
-      "Legendary Part of the Family"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1344,12 +1438,11 @@
       "+15 Enhancement Bonus",
       "Natural Armor +15",
       "Good Luck  +5",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1363,8 +1456,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Legendary Spell Penetration +3",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1392,8 +1484,7 @@
       "Competence Elemental Resistance - 15",
       "Linguistics",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1447,10 +1538,9 @@
       "Accuracy +23",
       "Deadly +12",
       "Legendary Demonic Shield",
-      "Legendary Armor-Piercing - 5%",
+      "Legendary Armor-Piercing 5%",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1477,11 +1567,10 @@
       "+15 Enhancement Bonus",
       "Enhanced Ghostly",
       "Fortification  +159%",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1494,8 +1583,7 @@
       "Quality Seeker +3",
       "Physical Sheltering +33",
       "Parrying +6",
-      "Green Augment Slot",
-      "Eminence of Summer"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1508,8 +1596,7 @@
       "Competence Healing Amplification +53",
       "Physical Sheltering +33",
       "Parrying +6",
-      "Green Augment Slot",
-      "Eminence of Winter"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1522,8 +1609,7 @@
       "Parrying +6",
       "Physical Sheltering +33",
       "Profane Well Rounded +2",
-      "Blue Augment Slot",
-      "Knight of the Shadows Set (Legendary)"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1539,8 +1625,7 @@
       "Fire Guard X",
       "Incineration Guard",
       "Colorless Augment Slot",
-      "Blue Augment Slot",
-      "Legendary Soul of the Red Dragon"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1553,8 +1638,7 @@
       "Sheltering +34",
       "Protection +11",
       "Shield +13",
-      "Blue Augment Slot",
-      "Legendary Saltmarsh Explorer"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1580,8 +1664,7 @@
       "Parrying +6",
       "Insightful Wisdom +6",
       "Insightful Constitution +6",
-      "Blue Augment Slot",
-      "Wayward Warrior (Legendary)"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1655,8 +1738,7 @@
       "Physical Sheltering +33",
       "Competence Healing Amplification +53",
       "False Life +50",
-      "Green Augment Slot",
-      "Legendary Guardian of the Gates"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1804,8 +1886,7 @@
       "Seeker +4",
       "Physical Sheltering +9",
       "Parrying +1",
-      "Blue Augment Slot",
-      "Seasons of the Feywild"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1818,8 +1899,7 @@
       "Competence Healing Amplification +14",
       "Physical Sheltering +9",
       "Parrying +1",
-      "Blue Augment Slot",
-      "Seasons of the Feywild"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1842,8 +1922,7 @@
       "Physical Sheltering +34",
       "Profane Well Rounded +2",
       "Blue Augment Slot",
-      "Green Augment Slot",
-      "Knight of the Shadows Set (Legendary)"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1856,8 +1935,7 @@
       "Parrying +2",
       "Physical Sheltering +14",
       "Profane Well Rounded +1",
-      "Blue Augment Slot",
-      "Knight of the Shadows Set (Heroic)"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1934,7 +2012,7 @@
     "enhancements": [
       "+6 Enhancement Bonus",
       "Haste Guard",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Relentless Fury",
       "Adamantine"
     ]
@@ -1957,8 +2035,7 @@
       "+2 Enhancement Bonus",
       "Sheltering +7",
       "Protection +3",
-      "Blue Augment Slot",
-      "Saltmarsh Explorer"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1984,8 +2061,7 @@
       "Parrying +3",
       "Insightful Wisdom +3",
       "Insightful Constitution +3",
-      "Blue Augment Slot",
-      "Wayward Warrior"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2010,14 +2086,7 @@
       "Fortification  +130%",
       "Ghostly",
       "From The Shadows",
-      "Blue Augment Slot",
-      "Flawed Shadowscale Armor",
-      "50 Shadow Dragon Scales",
-      "Shadow Caster",
-      "Shadow Disciple",
-      "Shadow Killer",
-      "Shadow Striker",
-      "Shadow Guardian"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2065,9 +2134,7 @@
       "Physical Sheltering +33",
       "Competence Healing Amplification +53",
       "False Life +50",
-      "Green Augment Slot",
-      "Eminence of Spring",
-      "Missile Deflection"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2130,8 +2197,7 @@
       "Command +4",
       "Constitution +6",
       "Radiance +77",
-      "Blue Augment Slot",
-      "Oasis of Morality"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2153,8 +2219,7 @@
       "Physical Sheltering +19",
       "Competence Healing Amplification +30",
       "False Life +29",
-      "Blue Augment Slot",
-      "Guardian of the Gates"
+      "Blue Augment Slot"
     ]
   },
   {

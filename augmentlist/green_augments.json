@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Emerald of Greater Smiting",
+    "link": "https://ddowiki.com/page/Item:Emerald_of_Greater_Smiting",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "+3 Enhancement bonus to Smite Evil charges"
+    ],
+    "sourceRaw": [
+      "Danger at Dunwater, end chest"
+    ]
+  },
+  {
+    "name": "Storm's Bulwark",
+    "link": "https://ddowiki.com/page/Item:Storm%27s_Bulwark",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "ward against the Knockdowns and Slows of an Air Elemental"
+    ],
+    "sourceRaw": [
+      "The Knight Who Cried Windmill, End chest"
+    ]
+  },
+  {
+    "name": "Emerald of Greater Rage",
+    "link": "https://ddowiki.com/page/Item:Emerald_of_Greater_Rage",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Anger"
+    ],
+    "sourceRaw": [
+      "Swim at Your Own Risk, end chest"
+    ]
+  },
+  {
+    "name": "Brightbane Emerald",
+    "link": "https://ddowiki.com/page/Item:Brightbane_Emerald",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Command +4"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Legendary Brightbane Emerald",
+    "link": "https://ddowiki.com/page/Item:Legendary_Brightbane_Emerald",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Command +7"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Demonheart Emerald",
+    "link": "https://ddowiki.com/page/Item:Demonheart_Emerald",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Demonic Shield"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Legendary Wraithborn Emerald",
+    "link": "https://ddowiki.com/page/Item:Legendary_Wraithborn_Emerald",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Ghostly"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Emerald of Bitter Wounds",
+    "link": "https://ddowiki.com/page/Item:Emerald_of_Bitter_Wounds",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Greater Boon of Undeath"
+    ],
+    "sourceRaw": [
+      "The Dryad and the Demigod, End chest or optional chest"
+    ]
+  },
+  {
+    "name": "Emerald of Arcane Empowerment",
+    "link": "https://ddowiki.com/page/Item:Emerald_of_Arcane_Empowerment",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Imbue Dice +1"
+    ],
+    "sourceRaw": [
+      "Hunt or Be Hunted, End chest",
+      "Item:Hunter Rune, (1250) Item:Hunter Rune"
+    ]
+  },
+  {
+    "name": "Legendary Demonheart Emerald",
+    "link": "https://ddowiki.com/page/Item:Legendary_Demonheart_Emerald",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Improved Demonic Shield"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Essence of Pomura's Memento",
+    "link": "https://ddowiki.com/page/Item:Essence_of_Pomura%27s_Memento",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Insightful Spell Lore V"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Pomura's Memento"
+    ]
+  },
+  {
+    "name": "Essence of Ultimatum",
+    "link": "https://ddowiki.com/page/Item:Essence_of_Ultimatum",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Petrification Immunity"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Ultimatum"
+    ]
+  },
+  {
+    "name": "Essence of the Dethek Runestone",
+    "link": "https://ddowiki.com/page/Item:Essence_of_the_Dethek_Runestone",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Runic Revitalization"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Dethek Runestone"
+    ]
+  },
+  {
+    "name": "Wraithborn Emerald",
+    "link": "https://ddowiki.com/page/Item:Wraithborn_Emerald",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Ethereal"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Weaverwisp Melody",
+    "link": "https://ddowiki.com/page/Item:Weaverwisp_Melody",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Melody: Bulwark"
+    ],
+    "sourceRaw": [
+      "Fire Over Morgrave, end chest"
+    ]
+  },
+  {
+    "name": "Facet of Condensed Power",
+    "link": "https://ddowiki.com/page/Item:Facet_of_Condensed_Power",
+    "itemType": "augment",
+    "augmentColor": "Green",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Power Store"
+    ],
+    "sourceRaw": [
+      "Illithid Invasion, any chest"
+    ]
+  }
+]

@@ -215,9 +215,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -256,6 +256,19 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Tailara's Wraps",
+    "link": "https://ddowiki.com/page/Item:Tailara%27s_Wraps",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Chilling 3",
+      "Freezing 7",
+      "Freezing Ice",
+      "Dragon's Edge 3",
       "Red Augment Slot"
     ]
   },
@@ -469,8 +482,7 @@
       "Seeker +8",
       "Doublestrike 9%",
       "Spiked",
-      "Red Augment Slot",
-      "Part of the Family"
+      "Red Augment Slot"
     ]
   },
   {
@@ -547,7 +559,7 @@
       "+5 Enhancement Bonus",
       "Impact",
       "Maiming 4",
-      "Armor-Piercing - 12%",
+      "Armor-Piercing 12%",
       "Insightful Doublestrike 4%",
       "Red Augment Slot"
     ]
@@ -996,11 +1008,6 @@
       "+15 Enhancement Bonus",
       "Nearly Finished",
       "Purple Augment Slot",
-      "Fetters of Unreality",
-      "Completed Weapon",
-      "Cursed Maelstrom",
-      "Accursed Flame",
-      "Improved Destruction",
       "Red Augment Slot"
     ]
   },
@@ -1016,8 +1023,7 @@
       "Seeker +13",
       "Doublestrike 15%",
       "Spiked",
-      "Red Augment Slot",
-      "Legendary Part of the Family"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1044,8 +1050,7 @@
       "Acid Blast 6",
       "Legendary Acid Torrent",
       "Red Augment Slot",
-      "Orange Augment Slot",
-      "One with the Swarm"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -1134,7 +1139,7 @@
       "+15 Enhancement Bonus",
       "Impact",
       "Maiming 6",
-      "Armor-Piercing - 21%",
+      "Armor-Piercing 21%",
       "Insightful Doublestrike 7%",
       "Red Augment Slot",
       "Purple Augment Slot"
@@ -1165,8 +1170,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1179,8 +1183,7 @@
       "Stunning +15",
       "Legendary Stone Prison",
       "Red Augment Slot",
-      "Purple Augment Slot",
-      "Fusible"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1277,8 +1280,7 @@
       "Cursed Maelstrom",
       "Planar Searing",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "Legendary Forbidden Knowledge"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1374,10 +1376,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -1388,10 +1390,24 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Tailara's Wraps",
+    "link": "https://ddowiki.com/page/Item:Legendary_Tailara%27s_Wraps",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 7",
+      "Freezing 16",
+      "Legendary Freezing Ice",
+      "Dragon's Edge 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

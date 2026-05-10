@@ -50,7 +50,7 @@
       "Tendon Slice +3",
       "Electrifying 2",
       "Freezing 4",
-      "Armor-Piercing - 5%"
+      "Armor-Piercing 5%"
     ]
   },
   {
@@ -124,7 +124,7 @@
       "Tendon Slice +4",
       "Electrifying 2",
       "Freezing 6",
-      "Armor-Piercing - 8%"
+      "Armor-Piercing 8%"
     ]
   },
   {
@@ -134,9 +134,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -193,7 +193,7 @@
       "Tendon Slice +5",
       "Electrifying 3",
       "Freezing 7",
-      "Armor-Piercing - 10%"
+      "Armor-Piercing 10%"
     ]
   },
   {
@@ -257,7 +257,7 @@
       "Tendon Slice +6",
       "Electrifying 4",
       "Freezing 9",
-      "Armor-Piercing - 12%"
+      "Armor-Piercing 12%"
     ]
   },
   {
@@ -338,7 +338,7 @@
       "Tendon Slice +8",
       "Electrifying 4",
       "Freezing 10",
-      "Armor-Piercing - 15%"
+      "Armor-Piercing 15%"
     ]
   },
   {
@@ -414,7 +414,7 @@
       "Tendon Slice +9",
       "Electrifying 5",
       "Freezing 12",
-      "Armor-Piercing - 17%"
+      "Armor-Piercing 17%"
     ]
   },
   {
@@ -435,7 +435,7 @@
       "Tendon Slice +10",
       "Electrifying 6",
       "Freezing 13",
-      "Armor-Piercing - 20%"
+      "Armor-Piercing 20%"
     ]
   },
   {
@@ -556,8 +556,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -569,7 +568,7 @@
       "Tendon Slice +11",
       "Electrifying 6",
       "Freezing 15",
-      "Armor-Piercing - 22%"
+      "Armor-Piercing 22%"
     ]
   },
   {
@@ -599,8 +598,7 @@
       "Ghost Touch",
       "Planar Searing",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "Legendary Forbidden Knowledge"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -666,10 +664,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -680,10 +678,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

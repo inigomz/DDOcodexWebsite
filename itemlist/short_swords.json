@@ -248,9 +248,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -273,8 +273,7 @@
       "Wounding 2",
       "Critical Wounding 2",
       "Proof Against Poison +5",
-      "Red Augment Slot",
-      "Vulkoor's Chosen"
+      "Red Augment Slot"
     ]
   },
   {
@@ -287,8 +286,7 @@
       "Shocking Blast 3",
       "Dusk",
       "Doublestrike 6%",
-      "Red Augment Slot",
-      "The Desert's Writhing Storm"
+      "Red Augment Slot"
     ]
   },
   {
@@ -457,7 +455,7 @@
       "Deception",
       "Sneak Attack Bonus +3",
       "Treason",
-      "Armor-Piercing - 10%",
+      "Armor-Piercing 10%",
       "Upgradeable Item (Stormreaver)"
     ]
   },
@@ -524,7 +522,7 @@
       "+5 Enhancement Bonus",
       "Poison Blast 4",
       "Paralyzing",
-      "Armor-Piercing - 12%",
+      "Armor-Piercing 12%",
       "Deadly Spider Venom"
     ]
   },
@@ -619,8 +617,7 @@
       "Wounding 2",
       "Critical Wounding 2",
       "Proof Against Poison +8",
-      "Red Augment Slot",
-      "Epic Vulkoor's Chosen"
+      "Red Augment Slot"
     ]
   },
   {
@@ -665,8 +662,7 @@
       "Shocking Blast 4",
       "Blurry",
       "Doublestrike 11%",
-      "Red Augment Slot",
-      "The Epic Desert's Writhing Storm"
+      "Red Augment Slot"
     ]
   },
   {
@@ -698,7 +694,7 @@
       "+6 Enhancement Bonus",
       "Poison Blast 4",
       "Improved Paralyzing",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Deadly Spider Venom",
       "Enervation",
       "Red Augment Slot"
@@ -819,7 +815,7 @@
       "+7 Enhancement Bonus",
       "Rebellion",
       "Sneak Attack Bonus +5",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Improved Deception",
       "Attuned to Heroism",
       "Red Augment Slot"
@@ -944,11 +940,6 @@
       "+15 Enhancement Bonus",
       "Nearly Finished",
       "Purple Augment Slot",
-      "Fetters of Unreality",
-      "Completed Weapon",
-      "Cursed Maelstrom",
-      "Accursed Flame",
-      "Improved Destruction",
       "Red Augment Slot"
     ]
   },
@@ -1077,7 +1068,7 @@
       "+15 Enhancement Bonus",
       "Poison Blast 6",
       "Legendary Paralysis",
-      "Armor-Piercing - 21%",
+      "Armor-Piercing 21%",
       "Legendary Virulent Poison",
       "Enervation",
       "Red Augment Slot"
@@ -1108,8 +1099,7 @@
       "Critical Wounding 3",
       "Proof Against Poison +11",
       "Purple Augment Slot",
-      "Red Augment Slot",
-      "Legendary Vulkoor's Chosen"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1151,8 +1141,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1315,10 +1304,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -1329,10 +1318,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

@@ -64,9 +64,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -94,6 +94,19 @@
       "Vampirism 1",
       "Chilling 3",
       "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Claws of Phinorae",
+    "link": "https://ddowiki.com/page/Item:Claws_of_Phinorae",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Acidic 3",
+      "Corroding 7",
+      "Maiming 3",
+      "Dragon's Edge 3",
+      "Red Augment Slot"
     ]
   },
   {
@@ -223,11 +236,10 @@
     "enhancements": [
       "+5 Enhancement Bonus",
       "Chilling 3",
-      "Armor-Piercing - 11%",
+      "Armor-Piercing 11%",
       "Bleeding 3",
       "Destruction",
-      "Red Augment Slot",
-      "Renegade Champion"
+      "Red Augment Slot"
     ]
   },
   {
@@ -532,11 +544,10 @@
     "enhancements": [
       "+15 Enhancement Bonus",
       "Chilling 6",
-      "Armor-Piercing - 20%",
+      "Armor-Piercing 20%",
       "Bleeding 6",
       "Improved Destruction",
-      "Red Augment Slot",
-      "Renegade Champion (Legendary)"
+      "Red Augment Slot"
     ]
   },
   {
@@ -547,11 +558,6 @@
       "+15 Enhancement Bonus",
       "Nearly Finished",
       "Purple Augment Slot",
-      "Fetters of Unreality",
-      "Completed Weapon",
-      "Legendary Freezing Ice",
-      "Chilling 6",
-      "Adamantine",
       "Red Augment Slot"
     ]
   },
@@ -563,7 +569,7 @@
       "+15 Enhancement Bonus",
       "Dripping with Magma",
       "Keen",
-      "Armor-Piercing - 21%",
+      "Armor-Piercing 21%",
       "Flamebitten",
       "Red Augment Slot",
       "Orange Augment Slot"
@@ -699,8 +705,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -729,8 +734,7 @@
       "Identity Crisis",
       "Planar Searing",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "Legendary Forbidden Knowledge"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -796,10 +800,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -810,10 +814,24 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Claws of Phinorae",
+    "link": "https://ddowiki.com/page/Item:Legendary_Claws_of_Phinorae",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Acidic 7",
+      "Corroding 16",
+      "Maiming 7",
+      "Dragon's Edge 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

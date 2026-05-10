@@ -460,9 +460,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -478,8 +478,7 @@
       "Lightning Lore +11%",
       "Magnetism +77",
       "Orange Augment Slot",
-      "Red Augment Slot",
-      "The Desert's Writhing Storm"
+      "Red Augment Slot"
     ]
   },
   {
@@ -494,8 +493,7 @@
       "Wounding 2",
       "Adamantine",
       "Purple Augment Slot",
-      "Red Augment Slot",
-      "Vulkoor's Chosen"
+      "Red Augment Slot"
     ]
   },
   {
@@ -509,8 +507,7 @@
       "Sonic Blast 3",
       "Devotion +77",
       "Resonance +77",
-      "Red Augment Slot",
-      "Oasis of Morality"
+      "Red Augment Slot"
     ]
   },
   {
@@ -537,6 +534,19 @@
       "Vampirism 1",
       "Chilling 3",
       "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "The Dragon Dagger",
+    "link": "https://ddowiki.com/page/Item:The_Dragon_Dagger",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Reverberating 3",
+      "Screeching 7",
+      "Paralyzing",
+      "Dragon's Edge 3",
+      "Red Augment Slot"
     ]
   },
   {
@@ -705,8 +715,8 @@
     "enhancements": [
       "+5 Enhancement Bonus",
       "Maiming",
-      "Armor-Piercing - 15%",
-      "Insightful Sneak Attack Bonus +2",
+      "Armor-Piercing 15%",
+      "Insightful Sneak Attack Bonus +2",
       "Improved Vorpal",
       "Slice 'n Dice Set",
       "The Devil's Handiwork",
@@ -915,8 +925,7 @@
       "Lightning Lore +16%",
       "Magnetism +111",
       "Lightning Storm Guard",
-      "Red Augment Slot",
-      "The Epic Desert's Writhing Storm"
+      "Red Augment Slot"
     ]
   },
   {
@@ -931,8 +940,7 @@
       "Wounding 2",
       "Adamantine",
       "Purple Augment Slot",
-      "Red Augment Slot",
-      "Epic Vulkoor's Chosen"
+      "Red Augment Slot"
     ]
   },
   {
@@ -962,8 +970,7 @@
       "Devotion +111",
       "Resonance +111",
       "Efficient Metamagic - Empower Healing II",
-      "Red Augment Slot",
-      "Epic Oasis of Morality"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1372,12 +1379,10 @@
     "enhancements": [
       "+12 Enhancement Bonus",
       "Greater Maiming",
-      "Armor-Piercing - 20%",
-      "Insightful Sneak Attack Bonus +6",
+      "Armor-Piercing 20%",
+      "Insightful Sneak Attack Bonus +6",
       "Sovereign Vorpal",
-      "Purple Augment Slot",
-      "Epic Slice 'n Dice Set",
-      "Epic The Devil's Handiwork"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1419,8 +1424,7 @@
       "Sovereign Vorpal",
       "Deception +11",
       "Purple Augment Slot",
-      "Red Augment Slot",
-      "Pain and Suffering"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1434,8 +1438,7 @@
       "Wounding 3",
       "Metalline",
       "Orange Augment Slot",
-      "Red Augment Slot",
-      "Pain and Suffering"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1739,8 +1742,7 @@
       "Bleeding 6",
       "Tendon Slice +11",
       "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Red Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1784,8 +1786,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1918,10 +1919,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -1932,12 +1933,25 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary The Dragon Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_The_Dragon_Dagger",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Reverberating 7",
+      "Screeching 16",
+      "Legendary Paralysis",
+      "Dragon's Edge 7",
+      "Red Augment Slot"
     ]
   }
 ]

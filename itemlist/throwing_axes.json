@@ -68,9 +68,9 @@
       "+4 Enhancement Bonus",
       "Vampirism 1",
       "Returning",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -108,6 +108,20 @@
       "Chilling 3",
       "Returning",
       "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Axe of Savaran",
+    "link": "https://ddowiki.com/page/Item:Axe_of_Savaran",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 3",
+      "Jolting 7",
+      "Limb Chopper",
+      "Dragon's Edge 3",
+      "Returning",
+      "Red Augment Slot"
     ]
   },
   {
@@ -346,8 +360,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -433,10 +446,10 @@
     "enhancements": [
       "+15 Enhancement Bonus",
       "Returning",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -448,10 +461,25 @@
     "enhancements": [
       "+15 Enhancement Bonus",
       "Returning",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Axe of Savaran",
+    "link": "https://ddowiki.com/page/Item:Legendary_Axe_of_Savaran",
+    "minLevel": "34",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Electrifying 7",
+      "Jolting 16",
+      "Limb Chopper",
+      "Dragon's Edge 7",
+      "Returning",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

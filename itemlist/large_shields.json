@@ -155,8 +155,8 @@
     ]
   },
   {
-    "name": "Battered Guardian Shield",
-    "link": "https://ddowiki.com/page/Item:Battered_Guardian_Shield",
+    "name": "Battered Guardian Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Battered_Guardian_Shield_(angular)",
     "minLevel": "10",
     "enhancements": [
       "+3 Enhancement Bonus",
@@ -166,8 +166,19 @@
     ]
   },
   {
-    "name": "Battered Marketplace Shield",
-    "link": "https://ddowiki.com/page/Item:Battered_Marketplace_Shield",
+    "name": "Battered Guardian Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Battered_Guardian_Shield_(round)",
+    "minLevel": "10",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Life Shield",
+      "Immunity to Fear",
+      "Resistance +2"
+    ]
+  },
+  {
+    "name": "Battered Marketplace Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Battered_Marketplace_Shield_(angular)",
     "minLevel": "1",
     "enhancements": [
       "+3 Enhancement Bonus",
@@ -176,8 +187,29 @@
     ]
   },
   {
-    "name": "Battered Phiarlan Shield",
-    "link": "https://ddowiki.com/page/Item:Battered_Phiarlan_Shield",
+    "name": "Battered Marketplace Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Battered_Marketplace_Shield_(round)",
+    "minLevel": "1",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Enhanced Haggle +3",
+      "Regeneration"
+    ]
+  },
+  {
+    "name": "Battered Phiarlan Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Battered_Phiarlan_Shield_(angular)",
+    "minLevel": "4",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Acid Guard",
+      "Acid Absorption +15%",
+      "Absorb Enchantment Spells"
+    ]
+  },
+  {
+    "name": "Battered Phiarlan Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Battered_Phiarlan_Shield_(round)",
     "minLevel": "4",
     "enhancements": [
       "+3 Enhancement Bonus",
@@ -339,10 +371,10 @@
     "minLevel": "8",
     "enhancements": [
       "+5 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -358,9 +390,7 @@
       "Quality Resistance +2",
       "Mithral",
       "Purple Augment Slot",
-      "Blue Augment Slot",
-      "Legacy of Lorikk",
-      "Legacy of Levikk"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -374,8 +404,7 @@
       "Bashing 7",
       "Shield Bashing +23%",
       "Purple Augment Slot",
-      "Orange Augment Slot",
-      "Legendary Forbidden Knowledge"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -385,11 +414,11 @@
     "enhancements": [
       "Blinding Flash",
       "+5 Enhancement Bonus",
+      "Impact",
       "Holy Blast 3",
       "Blinding",
       "Paragon Light Guard",
-      "Blue Augment Slot",
-      "Oasis of Morality"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -495,8 +524,7 @@
       "Isle of Dread: Scale Slot (Armor): Empty",
       "Isle of Dread: Fang Slot (Armor): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -506,6 +534,68 @@
     "enhancements": [
       "+2 Enhancement Bonus",
       "Electric Resistance +30"
+    ]
+  },
+  {
+    "name": "Enhanced Guardian of Stormreach Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Enhanced_Guardian_of_Stormreach_Shield_(angular)",
+    "minLevel": "10",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Life Shield",
+      "Immunity to Fear",
+      "Resistance +2"
+    ]
+  },
+  {
+    "name": "Enhanced Guardian of Stormreach Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Enhanced_Guardian_of_Stormreach_Shield_(round)",
+    "minLevel": "10",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Life Shield",
+      "Immunity to Fear",
+      "Resistance +2"
+    ]
+  },
+  {
+    "name": "Enhanced Phiarlan Veil Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Enhanced_Phiarlan_Veil_Shield_(angular)",
+    "minLevel": "4",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Acid Guard",
+      "Absorb Enchantment Spells"
+    ]
+  },
+  {
+    "name": "Enhanced Phiarlan Veil Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Enhanced_Phiarlan_Veil_Shield_(round)",
+    "minLevel": "4",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Acid Guard",
+      "Absorb Enchantment Spells"
+    ]
+  },
+  {
+    "name": "Enhanced Stormreach Marketplace Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Enhanced_Stormreach_Marketplace_Shield_(angular)",
+    "minLevel": "1",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Enhanced Haggle +3",
+      "Regeneration"
+    ]
+  },
+  {
+    "name": "Enhanced Stormreach Marketplace Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Enhanced_Stormreach_Marketplace_Shield_(round)",
+    "minLevel": "1",
+    "enhancements": [
+      "+3 Enhancement Bonus",
+      "Enhanced Haggle +3",
+      "Regeneration"
     ]
   },
   {
@@ -519,8 +609,7 @@
       "Greater Sirocco",
       "Epic Paragon Light Guard",
       "Blue Augment Slot",
-      "Purple Augment Slot",
-      "Epic Oasis of Morality"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -534,8 +623,7 @@
       "Vitality +32",
       "False Life +36",
       "Blue Augment Slot",
-      "Purple Augment Slot",
-      "Epic Wards of House Kundarak"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -592,8 +680,7 @@
       "Insightful Spell Resistance +14",
       "Quality Sheltering +6",
       "Blue Augment Slot",
-      "Purple Augment Slot",
-      "Epic Vulkoor's Chosen"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -608,8 +695,7 @@
       "Superior Undead Guard",
       "Flametouched Iron",
       "Red Augment Slot",
-      "Blue Augment Slot",
-      "Epic Oasis of Morality"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -650,8 +736,7 @@
       "Entropic 2",
       "Quality Magical Sheltering +2",
       "Crystal",
-      "Red Augment Slot",
-      "Seasons of the Feywild"
+      "Red Augment Slot"
     ]
   },
   {
@@ -675,8 +760,8 @@
       "+5 Enhancement Bonus",
       "Guardbreaking",
       "Insightful Physical Sheltering +5",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -690,9 +775,7 @@
       "Natural Armor +7",
       "Vitality +24",
       "Protection +6",
-      "Purple Augment Slot",
-      "Wayward Warrior",
-      "Seasons of Change"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -816,10 +899,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Purple Augment Slot",
       "Orange Augment Slot"
     ]
@@ -881,8 +964,7 @@
       "Entropic 6",
       "Quality Magical Sheltering +8",
       "Crystal",
-      "Purple Augment Slot",
-      "Eminence of Summer"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -893,8 +975,8 @@
       "+15 Enhancement Bonus",
       "Guardbreaking",
       "Insightful Physical Sheltering +18",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
       "Purple Augment Slot",
       "Orange Augment Slot"
     ]
@@ -909,9 +991,7 @@
       "Natural Armor +13",
       "Vitality +44",
       "Protection +10",
-      "Purple Augment Slot",
-      "Wayward Warrior (Legendary)",
-      "Seasons of Change (Legendary)"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -925,8 +1005,7 @@
       "Vitality +48",
       "False Life +54",
       "Blue Augment Slot",
-      "Purple Augment Slot",
-      "Legendary Wards of House Kundarak"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1030,8 +1109,7 @@
       "Bonesplitter",
       "Bashing 6",
       "Quality Strength +3",
-      "Red Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1172,8 +1250,7 @@
       "Profane Lifeforce +19",
       "Insightful Spell Resistance +8",
       "Quality Sheltering +4",
-      "Blue Augment Slot",
-      "Vulkoor's Chosen"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1254,8 +1331,7 @@
       "Shield Bashing +9",
       "Impact",
       "Vorpal",
-      "Purple Augment Slot",
-      "Adherent of the Mists Set (Heroic)"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1268,8 +1344,7 @@
       "Shield Bashing +20",
       "Impact",
       "Sovereign Vorpal",
-      "Purple Augment Slot",
-      "Adherent of the Mists Set (Legendary)"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1280,8 +1355,8 @@
       "+15 Enhancement Bonus",
       "Murderous Spikes",
       "Revel in Blood (Shield)",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
       "Purple Augment Slot",
       "Orange Augment Slot"
     ]
@@ -1416,8 +1491,7 @@
       "Undead Bane 3",
       "Undead Guard",
       "Flametouched Iron",
-      "Red Augment Slot",
-      "Oasis of Morality"
+      "Red Augment Slot"
     ]
   },
   {

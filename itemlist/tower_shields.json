@@ -128,8 +128,7 @@
       "Avalanche",
       "Cold Resistance +14",
       "Mithral",
-      "Red Augment Slot",
-      "Seasons of the Feywild"
+      "Red Augment Slot"
     ]
   },
   {
@@ -138,10 +137,10 @@
     "minLevel": "8",
     "enhancements": [
       "+5 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -167,7 +166,7 @@
       "+5 Enhancement Bonus",
       "Cold Resistance +30",
       "Vitality +20",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Impact",
       "Purple Augment Slot"
     ]
@@ -183,8 +182,7 @@
       "Isle of Dread: Scale Slot (Armor): Empty",
       "Isle of Dread: Fang Slot (Armor): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -195,7 +193,7 @@
       "+12 Enhancement Bonus",
       "Cold Resistance +50",
       "Vitality +40",
-      "Armor-Piercing - 20%",
+      "Armor-Piercing 20%",
       "Impact",
       "Purple Augment Slot"
     ]
@@ -250,8 +248,8 @@
       "+5 Enhancement Bonus",
       "Quality  Incite +9",
       "Insightful Physical Sheltering +5",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -324,8 +322,7 @@
       "Shield of Snow",
       "Cold Resistance +50",
       "Mithral",
-      "Purple Augment Slot",
-      "Eminence of Winter"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -334,10 +331,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Purple Augment Slot",
       "Orange Augment Slot"
     ]
@@ -366,8 +363,8 @@
       "+15 Enhancement Bonus",
       "Quality  Incite +30",
       "Insightful Physical Sheltering +18",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
       "Purple Augment Slot",
       "Orange Augment Slot"
     ]
@@ -382,8 +379,7 @@
       "Quality Magical Sheltering +8",
       "Block Elements",
       "Mirror Shield",
-      "Purple Augment Slot",
-      "Adherent of the Mists Set (Legendary)"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -465,8 +461,7 @@
       "Spell Save +11",
       "Ghostly",
       "Quality Wisdom +3",
-      "Red Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Red Augment Slot"
     ]
   },
   {
@@ -513,8 +508,7 @@
       "Quality Magical Sheltering +3",
       "Block Elements",
       "Mirror Shield",
-      "Purple Augment Slot",
-      "Adherent of the Mists Set (Heroic)"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -704,8 +698,8 @@
       "+15 Enhancement Bonus",
       "Legendary Conditioning +20%",
       "Bottled Heart",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
       "Purple Augment Slot",
       "Orange Augment Slot"
     ]
@@ -853,8 +847,7 @@
       "Spell Save +4",
       "Ghostly",
       "Quality Wisdom +1",
-      "Red Augment Slot",
-      "The Dread Isle's Curse"
+      "Red Augment Slot"
     ]
   }
 ]

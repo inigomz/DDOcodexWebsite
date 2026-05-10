@@ -1,0 +1,3552 @@
+[
+  {
+    "name": "Globe of True Imperial Blood",
+    "link": "https://ddowiki.com/page/Item:Globe_of_True_Imperial_Blood",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 25,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "+1 Exceptional Bonus to each Ability Score"
+    ],
+    "sourceRaw": [
+      "Return to Gianthold Tor, Black Dragon (Epic Elite or higher) optional chest"
+    ]
+  },
+  {
+    "name": "Globe of Imperial Blood",
+    "link": "https://ddowiki.com/page/Item:Globe_of_Imperial_Blood",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 14,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "+3 Enhancement Bonus to each Ability Score"
+    ],
+    "sourceRaw": [
+      "Gianthold Tor, Black Dragon (Heroic Elite or higher) optional chest"
+    ]
+  },
+  {
+    "name": "Globe of Cursed Blood",
+    "link": "https://ddowiki.com/page/Item:Globe_of_Cursed_Blood",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "+8 Enhancement bonus to each Ability Score"
+    ],
+    "sourceRaw": [
+      "Illithid Invasion, any chest"
+    ]
+  },
+  {
+    "name": "Clearwater Diamond",
+    "link": "https://ddowiki.com/page/Item:Clearwater_Diamond",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 1,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "1 Positive Healing every minute"
+    ],
+    "sourceRaw": [
+      "Under the Cover of Darkness, end chest"
+    ]
+  },
+  {
+    "name": "Set Augment: Alluring Elocution",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Alluring_Elocution",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Alluring Elocution"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Tattered Scrolls of the Broken One"
+    ]
+  },
+  {
+    "name": "Set Augment: Arcane Barrier",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Arcane_Barrier",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Arcane Barrier"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Mantle of Escher"
+    ]
+  },
+  {
+    "name": "Set Augment: Arcane Guardian",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Arcane_Guardian",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Arcane Guardian"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Citadel's Gaze"
+    ]
+  },
+  {
+    "name": "Diamond of Balance +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Balance_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Balance +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Balance +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Balance_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Balance +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Balance +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Balance_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Balance +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Balance +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Balance_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Balance +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Balance +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Balance_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Balance +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Balance +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Balance_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Balance +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Balance +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Balance_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Balance +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Balance +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Balance_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Balance +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Bluff +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Bluff_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Bluff +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Bluff +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Bluff_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Bluff +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Bluff +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Bluff_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Bluff +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Bluff +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Bluff_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Bluff +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Bluff +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Bluff_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Bluff +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Bluff +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Bluff_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Bluff +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Bluff +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Bluff_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Bluff +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Bluff +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Bluff_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Bluff +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Set Augment: Bold Tactician",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Bold_Tactician",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Bold Tactician"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Page Regalia: Exiled Tactica"
+    ]
+  },
+  {
+    "name": "Set Augment: Brutal Blows",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Brutal_Blows",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Brutal Blows"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Mail of the Mroranon"
+    ]
+  },
+  {
+    "name": "Diamond of Charisma +11",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Charisma_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Charisma +11"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Charisma +12",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Charisma_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Charisma +12"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Charisma +14",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Charisma_%2B14",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Charisma +14"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Charisma +1",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Charisma_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Charisma +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Goldscuttle, The Harbor (4) Item:Astral Shard",
+      "Goldscuttle, Randomly selected Yellow Augment with no minimum level (30) Item:String of Prayer Beads (10) Item:Small Wooden Idol (5) Item:Icon of Khyber",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Charisma +3",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Charisma_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Charisma +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Rudolf Rightman, The Marketplace (8) Item:Astral Shard",
+      "Rudolf Rightman, Randomly selected Red Augment of Minimum Level 4 (30) Item:Caravan Logbook (10) Item:Research Diary (5) Item:Tome: Myths of Old Xen'drik",
+      "Xovun Chalk, The Marketplace (8) Item:Astral Shard",
+      "Xovun Chalk, Randomly selected Red Augment of Minimum Level 4 (30) Item:Skull Fragment (10) Item:Powdered Blood (5) Item:Intact Fingerbone"
+    ]
+  },
+  {
+    "name": "Diamond of Charisma +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Charisma_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Charisma +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Farrik Foe-Cleaver, House Jorasco (8) Item:Astral Shard",
+      "Farrik Foe-Cleaver, Randomly selected Red Augment of Minimum Level 8",
+      "Husk, The Marketplace (8) Item:Astral Shard",
+      "Husk, Randomly selected Red Augment of Minimum Level 8",
+      "Kayla Skywhisper, The Marketplace (8) Item:Astral Shard",
+      "Kayla Skywhisper, Randomly selected Red Augment of Minimum Level 8",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Tara Wightraven, The Marketplace (8) Item:Astral Shard",
+      "Tara Wightraven, Randomly selected Red Augment of Minimum Level 8"
+    ]
+  },
+  {
+    "name": "Diamond of Charisma +6",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Charisma_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Charisma +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Diamond of Charisma +8",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Charisma_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Charisma +8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Charisma +9",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Charisma_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Charisma +9"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Concentration +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Concentration_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Concentration +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Concentration +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Concentration_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Concentration +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Concentration +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Concentration_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Concentration +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Concentration +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Concentration_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Concentration +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Concentration +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Concentration_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Concentration +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Concentration +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Concentration_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Concentration +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Concentration +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Concentration_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Concentration +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Concentration +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Concentration_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Concentration +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Constitution +11",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Constitution +11"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Constitution +12",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Constitution +12"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Constitution +14",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B14",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Constitution +14"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Constitution +1",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Constitution +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Goldscuttle, The Harbor (4) Item:Astral Shard",
+      "Goldscuttle, Randomly selected Yellow Augment with no minimum level (30) Item:String of Prayer Beads (10) Item:Small Wooden Idol (5) Item:Icon of Khyber",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Constitution +3",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Constitution +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Rudolf Rightman, The Marketplace (8) Item:Astral Shard",
+      "Rudolf Rightman, Randomly selected Red Augment of Minimum Level 4 (30) Item:Caravan Logbook (10) Item:Research Diary (5) Item:Tome: Myths of Old Xen'drik",
+      "Xovun Chalk, The Marketplace (8) Item:Astral Shard",
+      "Xovun Chalk, Randomly selected Red Augment of Minimum Level 4 (30) Item:Skull Fragment (10) Item:Powdered Blood (5) Item:Intact Fingerbone"
+    ]
+  },
+  {
+    "name": "Diamond of Constitution +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Constitution +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Farrik Foe-Cleaver, House Jorasco (8) Item:Astral Shard",
+      "Farrik Foe-Cleaver, Randomly selected Red Augment of Minimum Level 8",
+      "Husk, The Marketplace (8) Item:Astral Shard",
+      "Husk, Randomly selected Red Augment of Minimum Level 8",
+      "Kayla Skywhisper, The Marketplace (8) Item:Astral Shard",
+      "Kayla Skywhisper, Randomly selected Red Augment of Minimum Level 8",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Tara Wightraven, The Marketplace (8) Item:Astral Shard",
+      "Tara Wightraven, Randomly selected Red Augment of Minimum Level 8"
+    ]
+  },
+  {
+    "name": "Diamond of Constitution +6",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Constitution +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Diamond of Constitution +8",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Constitution +8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Constitution +9",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Constitution +9"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Set Augment: Cruel Cut",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Cruel_Cut",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Cruel Cut"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:The Family's Blessing"
+    ]
+  },
+  {
+    "name": "Set Augment: Cunning Impact",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Cunning_Impact",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Cunning Impact"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Strange Tidings"
+    ]
+  },
+  {
+    "name": "Diamond of Dexterity +11",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Dexterity_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dexterity +11"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Dexterity +12",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Dexterity_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dexterity +12"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Dexterity +14",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Dexterity_%2B14",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dexterity +14"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Dexterity +1",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Dexterity_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dexterity +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Goldscuttle, The Harbor (4) Item:Astral Shard",
+      "Goldscuttle, Randomly selected Yellow Augment with no minimum level (30) Item:String of Prayer Beads (10) Item:Small Wooden Idol (5) Item:Icon of Khyber",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Dexterity +3",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Dexterity_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dexterity +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Rudolf Rightman, The Marketplace (8) Item:Astral Shard",
+      "Rudolf Rightman, Randomly selected Red Augment of Minimum Level 4 (30) Item:Caravan Logbook (10) Item:Research Diary (5) Item:Tome: Myths of Old Xen'drik",
+      "Xovun Chalk, The Marketplace (8) Item:Astral Shard",
+      "Xovun Chalk, Randomly selected Red Augment of Minimum Level 4 (30) Item:Skull Fragment (10) Item:Powdered Blood (5) Item:Intact Fingerbone"
+    ]
+  },
+  {
+    "name": "Diamond of Dexterity +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Dexterity_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dexterity +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Farrik Foe-Cleaver, House Jorasco (8) Item:Astral Shard",
+      "Farrik Foe-Cleaver, Randomly selected Red Augment of Minimum Level 8",
+      "Husk, The Marketplace (8) Item:Astral Shard",
+      "Husk, Randomly selected Red Augment of Minimum Level 8",
+      "Kayla Skywhisper, The Marketplace (8) Item:Astral Shard",
+      "Kayla Skywhisper, Randomly selected Red Augment of Minimum Level 8",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Tara Wightraven, The Marketplace (8) Item:Astral Shard",
+      "Tara Wightraven, Randomly selected Red Augment of Minimum Level 8"
+    ]
+  },
+  {
+    "name": "Diamond of Dexterity +6",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Dexterity_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dexterity +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Diamond of Dexterity +8",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Dexterity_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dexterity +8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Dexterity +9",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Dexterity_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dexterity +9"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Diplomacy +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Diplomacy_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Diplomacy +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Diplomacy +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Diplomacy_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Diplomacy +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Diplomacy +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Diplomacy_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Diplomacy +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Diplomacy +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Diplomacy_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Diplomacy +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Diplomacy +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Diplomacy_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Diplomacy +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Diplomacy +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Diplomacy_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Diplomacy +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Diplomacy +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Diplomacy_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Diplomacy +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Diplomacy +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Diplomacy_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Diplomacy +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Disable Device +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Disable_Device_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Disable Device +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Disable Device +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Disable_Device_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Disable Device +13"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Disable Device +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Disable_Device_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Disable Device +15"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Disable Device +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Disable_Device_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Disable Device +17"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Disable Device +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Disable_Device_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Disable Device +18"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Disable Device +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Disable_Device_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Disable Device +19"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Disable Device +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Disable_Device_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Disable Device +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Disable Device +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Disable_Device_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Disable Device +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Set Augment: Dusk Raider",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Dusk_Raider",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Dusk Raider"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Coat of Van Richten"
+    ]
+  },
+  {
+    "name": "Set Augment: Esoterica",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Esoterica",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Esoterica"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Cloak of the Mountain"
+    ]
+  },
+  {
+    "name": "Diamond of Exceptional Charisma +1",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Exceptional_Charisma_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Exceptional Charisma +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (5) Item:Greater Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Exceptional Constitution +1",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Exceptional_Constitution_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Exceptional Constitution +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (5) Item:Greater Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Exceptional Dexterity +1",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Exceptional_Dexterity_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Exceptional Dexterity +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (5) Item:Greater Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Exceptional Intelligence +1",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Exceptional_Intelligence_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Exceptional Intelligence +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (5) Item:Greater Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Exceptional Strength +1",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Exceptional_Strength_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Exceptional Strength +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (5) Item:Greater Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Exceptional Wisdom +1",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Exceptional_Wisdom_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Exceptional Wisdom +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (5) Item:Greater Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Festive Charisma +2",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Festive_Charisma_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 22,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Festive Charisma +2"
+    ],
+    "sourceRaw": [
+      "Flurry (NPC), Snowpeaks Festival event craftable augment (20) Item:Gold Snowpeaks Coin (100) Item:Silver Snowpeaks Coin",
+      "Snowpeaks Festival,"
+    ]
+  },
+  {
+    "name": "Diamond of Festive Constitution +2",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Festive_Constitution_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 22,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Festive Constitution +2"
+    ],
+    "sourceRaw": [
+      "Joe Candymaker, The Night Revels event craftable augment (80) Item:Piece of Darkest Chocolate (60) Item:Spooky Almond (60) Item:Black Apple (60) Item:Shadowy Caramel (60) Item:Pinch of Sinister Cinnamon",
+      "The Night Revels,"
+    ]
+  },
+  {
+    "name": "Diamond of Festive Dexterity +2",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Festive_Dexterity_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 22,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Festive Dexterity +2"
+    ],
+    "sourceRaw": [
+      "Flurry (NPC), Snowpeaks Festival event craftable augment (20) Item:Gold Snowpeaks Coin (100) Item:Silver Snowpeaks Coin",
+      "Snowpeaks Festival,"
+    ]
+  },
+  {
+    "name": "Diamond of Festive Intelligence +2",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Festive_Intelligence_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 22,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Festive Intelligence +2"
+    ],
+    "sourceRaw": [
+      "Joe Candymaker, The Night Revels event craftable augment (80) Item:Piece of Darkest Chocolate (60) Item:Spooky Almond (60) Item:Black Apple (60) Item:Shadowy Caramel (60) Item:Pinch of Sinister Cinnamon",
+      "The Night Revels,"
+    ]
+  },
+  {
+    "name": "Diamond of Festive Strength +2",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Festive_Strength_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 22,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Festive Strength +2"
+    ],
+    "sourceRaw": [
+      "Euphonia's Barter Box, Treasure of Crystal Cove event craftable augment (1500) Silver Doubloon (600) Golden Doubloon (45) Stolen Jasper (900) Green Dragonshard",
+      "Treasure of Crystal Cove,"
+    ]
+  },
+  {
+    "name": "Diamond of Festive Wisdom +2",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Festive_Wisdom_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 22,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Festive Wisdom +2"
+    ],
+    "sourceRaw": [
+      "Joe Candymaker, The Night Revels event craftable augment (80) Item:Piece of Darkest Chocolate (60) Item:Spooky Almond (60) Item:Black Apple (60) Item:Shadowy Caramel (60) Item:Pinch of Sinister Cinnamon",
+      "The Night Revels,"
+    ]
+  },
+  {
+    "name": "Diamond of Haggle +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Haggle_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Haggle +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Haggle +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Haggle_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Haggle +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Haggle +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Haggle_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Haggle +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Haggle +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Haggle_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Haggle +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Haggle +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Haggle_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Haggle +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Haggle +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Haggle_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Haggle +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Haggle +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Haggle_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Haggle +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Haggle +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Haggle_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Haggle +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Heal +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Heal_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Heal +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Heal +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Heal_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Heal +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Heal +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Heal_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Heal +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Heal +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Heal_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Heal +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Heal +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Heal_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Heal +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Heal +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Heal_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Heal +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Heal +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Heal_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Heal +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Heal +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Heal_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Heal +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Hide +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Hide_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Hide +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Hide +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Hide_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Hide +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Hide +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Hide_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Hide +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Hide +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Hide_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Hide +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Hide +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Hide_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Hide +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Hide +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Hide_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Hide +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Hide +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Hide_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Hide +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Hide +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Hide_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Hide +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Set Augment: Imbued Infusion",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Imbued_Infusion",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Imbued Infusion"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Kelas' Volatile Mixture"
+    ]
+  },
+  {
+    "name": "Diamond of Insightful Charisma +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Insightful_Charisma_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Insightful Charisma +5"
+    ],
+    "sourceRaw": [
+      "Monster Hunter, Hall of Heroes (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Insightful Constitution +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Insightful_Constitution_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Insightful Constitution +5"
+    ],
+    "sourceRaw": [
+      "Monster Hunter, Hall of Heroes (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Insightful Dexterity +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Insightful_Dexterity_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Insightful Dexterity +5"
+    ],
+    "sourceRaw": [
+      "Monster Hunter, Hall of Heroes (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Insightful Intelligence +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Insightful_Intelligence_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Insightful Intelligence +5"
+    ],
+    "sourceRaw": [
+      "Monster Hunter, Hall of Heroes (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Insightful Strength +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Insightful_Strength_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Insightful Strength +5"
+    ],
+    "sourceRaw": [
+      "Monster Hunter, Hall of Heroes (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Insightful Wisdom +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Insightful_Wisdom_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Insightful Wisdom +5"
+    ],
+    "sourceRaw": [
+      "Monster Hunter, Hall of Heroes (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of the Magi",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_the_Magi",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Insightful Wizardry +100"
+    ],
+    "sourceRaw": [
+      "Under the Cover of Darkness, end chest"
+    ]
+  },
+  {
+    "name": "Diamond of Intelligence +11",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intelligence_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intelligence +11"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Intelligence +12",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intelligence_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intelligence +12"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Intelligence +14",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intelligence_%2B14",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intelligence +14"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Intelligence +1",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intelligence_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intelligence +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Goldscuttle, The Harbor (4) Item:Astral Shard",
+      "Goldscuttle, Randomly selected Yellow Augment with no minimum level (30) Item:String of Prayer Beads (10) Item:Small Wooden Idol (5) Item:Icon of Khyber",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Intelligence +3",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intelligence_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intelligence +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Rudolf Rightman, The Marketplace (8) Item:Astral Shard",
+      "Rudolf Rightman, Randomly selected Red Augment of Minimum Level 4 (30) Item:Caravan Logbook (10) Item:Research Diary (5) Item:Tome: Myths of Old Xen'drik",
+      "Xovun Chalk, The Marketplace (8) Item:Astral Shard",
+      "Xovun Chalk, Randomly selected Red Augment of Minimum Level 4 (30) Item:Skull Fragment (10) Item:Powdered Blood (5) Item:Intact Fingerbone"
+    ]
+  },
+  {
+    "name": "Diamond of Intelligence +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intelligence_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intelligence +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Farrik Foe-Cleaver, House Jorasco (8) Item:Astral Shard",
+      "Farrik Foe-Cleaver, Randomly selected Red Augment of Minimum Level 8",
+      "Husk, The Marketplace (8) Item:Astral Shard",
+      "Husk, Randomly selected Red Augment of Minimum Level 8",
+      "Kayla Skywhisper, The Marketplace (8) Item:Astral Shard",
+      "Kayla Skywhisper, Randomly selected Red Augment of Minimum Level 8",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Tara Wightraven, The Marketplace (8) Item:Astral Shard",
+      "Tara Wightraven, Randomly selected Red Augment of Minimum Level 8"
+    ]
+  },
+  {
+    "name": "Diamond of Intelligence +6",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intelligence_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intelligence +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Diamond of Intelligence +8",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intelligence_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intelligence +8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Intelligence +9",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intelligence_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intelligence +9"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Intimidate +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intimidate_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intimidate +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Intimidate +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intimidate_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intimidate +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Intimidate +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intimidate_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intimidate +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Intimidate +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intimidate_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intimidate +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Intimidate +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intimidate_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intimidate +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Intimidate +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intimidate_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intimidate +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Intimidate +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intimidate_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intimidate +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Intimidate +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Intimidate_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Intimidate +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Jump +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Jump_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Jump +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Jump +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Jump_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Jump +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Jump +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Jump_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Jump +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Jump +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Jump_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Jump +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Jump +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Jump_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Jump +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Jump +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Jump_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Jump +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Jump +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Jump_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Jump +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Jump +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Jump_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Jump +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Set Augment: Legendary Bulwark",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Legendary_Bulwark",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Legendary Bulwark"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:The Stablestone"
+    ]
+  },
+  {
+    "name": "Diamond of Listen +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Listen_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Listen +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Listen +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Listen_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Listen +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Listen +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Listen_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Listen +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Listen +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Listen_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Listen +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Listen +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Listen_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Listen +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Listen +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Listen_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Listen +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Listen +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Listen_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Listen +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Listen +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Listen_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Listen +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Move Silently +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Move_Silently_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Move Silently +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Move Silently +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Move_Silently_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Move Silently +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Move Silently +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Move_Silently_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Move Silently +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Move Silently +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Move_Silently_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Move Silently +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Move Silently +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Move_Silently_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Move Silently +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Move Silently +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Move_Silently_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Move Silently +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Move Silently +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Move_Silently_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Move Silently +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Move Silently +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Move_Silently_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Move Silently +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Open Lock +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Open_Lock_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Open Lock +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Open Lock +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Open_Lock_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Open Lock +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Open Lock +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Open_Lock_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Open Lock +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Open Lock +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Open_Lock_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Open Lock +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Open Lock +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Open_Lock_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Open Lock +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Open Lock +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Open_Lock_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Open Lock +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Open Lock +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Open_Lock_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Open Lock +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Open Lock +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Open_Lock_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Open Lock +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Set Augment: Paragon Guard",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Paragon_Guard",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Paragon Guard"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Platemail of Strahd"
+    ]
+  },
+  {
+    "name": "Set Augment: Perfect Silence",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Perfect_Silence",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Perfect Silence"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Vestments of Ravenloft"
+    ]
+  },
+  {
+    "name": "Diamond of Perform +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Perform_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Perform +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Perform +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Perform_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Perform +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Perform +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Perform_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Perform +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Perform +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Perform_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Perform +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Perform +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Perform_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Perform +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Perform +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Perform_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Perform +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Perform +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Perform_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Perform +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Perform +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Perform_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Perform +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Set Augment: Piercing Mind",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Piercing_Mind",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Piercing Mind"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Staggershockers"
+    ]
+  },
+  {
+    "name": "Set Augment: Quickblade",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Quickblade",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Quickblade"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Guided Sight"
+    ]
+  },
+  {
+    "name": "Diamond of Repair +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Repair_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Repair +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Repair_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Repair +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Repair_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Repair +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Repair_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Repair +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Repair_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Repair +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Repair_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Repair +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Repair_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Repair +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Repair_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Search +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Search_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Search +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Search +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Search_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Search +13"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Search +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Search_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Search +15"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Search +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Search_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Search +17"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Search +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Search_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Search +18"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Search +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Search_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Search +19"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Search +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Search_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Search +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Search +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Search_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Search +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Spellcraft +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spellcraft_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spellcraft +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Spellcraft +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spellcraft_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spellcraft +13"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Spellcraft +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spellcraft_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spellcraft +15"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Spellcraft +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spellcraft_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spellcraft +17"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Spellcraft +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spellcraft_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spellcraft +18"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Spellcraft +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spellcraft_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spellcraft +19"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Spellcraft +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spellcraft_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spellcraft +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Spellcraft +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spellcraft_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spellcraft +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Spot +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spot_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spot +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Spot +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spot_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spot +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Spot +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spot_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spot +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Spot +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spot_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spot +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Spot +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spot_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spot +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Spot +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spot_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spot +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Spot +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spot_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spot +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Spot +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Spot_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spot +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Strength +11",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Strength_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Strength +11"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Strength +12",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Strength_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Strength +12"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Strength +14",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Strength_%2B14",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Strength +14"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Strength +1",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Strength_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Strength +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Goldscuttle, The Harbor (4) Item:Astral Shard",
+      "Goldscuttle, Randomly selected Yellow Augment with no minimum level (30) Item:String of Prayer Beads (10) Item:Small Wooden Idol (5) Item:Icon of Khyber",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Strength +3",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Strength_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Strength +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Rudolf Rightman, The Marketplace (8) Item:Astral Shard",
+      "Rudolf Rightman, Randomly selected Red Augment of Minimum Level 4 (30) Item:Caravan Logbook (10) Item:Research Diary (5) Item:Tome: Myths of Old Xen'drik",
+      "Xovun Chalk, The Marketplace (8) Item:Astral Shard",
+      "Xovun Chalk, Randomly selected Red Augment of Minimum Level 4 (30) Item:Skull Fragment (10) Item:Powdered Blood (5) Item:Intact Fingerbone"
+    ]
+  },
+  {
+    "name": "Diamond of Strength +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Strength_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Strength +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Farrik Foe-Cleaver, House Jorasco (8) Item:Astral Shard",
+      "Farrik Foe-Cleaver, Randomly selected Red Augment of Minimum Level 8",
+      "Husk, The Marketplace (8) Item:Astral Shard",
+      "Husk, Randomly selected Red Augment of Minimum Level 8",
+      "Kayla Skywhisper, The Marketplace (8) Item:Astral Shard",
+      "Kayla Skywhisper, Randomly selected Red Augment of Minimum Level 8",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Tara Wightraven, The Marketplace (8) Item:Astral Shard",
+      "Tara Wightraven, Randomly selected Red Augment of Minimum Level 8"
+    ]
+  },
+  {
+    "name": "Diamond of Strength +6",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Strength_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Strength +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Diamond of Strength +8",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Strength_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Strength +8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Strength +9",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Strength_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Strength +9"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Set Augment: Subtle Blade",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Subtle_Blade",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Subtle Blade"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Page Regalia: Unsanctioned Arcana"
+    ]
+  },
+  {
+    "name": "Diamond of Swim +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Swim_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Swim +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Swim +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Swim_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Swim +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Swim +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Swim_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Swim +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Swim +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Swim_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Swim +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Swim +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Swim_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Swim +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Swim +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Swim_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Swim +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Swim +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Swim_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Swim +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Swim +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Swim_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Swim +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Set Augment: Touch of Power",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Touch_of_Power",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Touch of Power"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Attunement's Gaze"
+    ]
+  },
+  {
+    "name": "Set Augment: Tough Shields",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Tough_Shields",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Tough Shields"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Dumathoin's Bracers"
+    ]
+  },
+  {
+    "name": "Set Augment: Truthful Blow",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Truthful_Blow",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Truthful Blow"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Helm of the Final Watcher"
+    ]
+  },
+  {
+    "name": "Diamond of Tumble +10",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Tumble_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Tumble +10"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Tumble +13",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Tumble_%2B13",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Tumble +13"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Tumble +15",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Tumble_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Tumble +15"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Tumble +17",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Tumble_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Tumble +17"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Tumble +18",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Tumble_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Tumble +18"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Tumble +19",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Tumble_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Tumble +19"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Tumble +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Tumble_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Tumble +20"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Tumble +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Tumble_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Tumble +5"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Set Augment: Visions of the Beyond",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Visions_of_the_Beyond",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Visions of the Beyond"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Crystalline Gauntlets"
+    ]
+  },
+  {
+    "name": "Diamond of Vitality +20",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Vitality_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 11,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Vitality +20"
+    ],
+    "sourceRaw": [
+      "Balkar Aislin, Upper Necropolis (20) Item:Shred of Tapestry",
+      "Tattered Tapestries,",
+      "The Crucible, Underwater chest (Heroic only)"
+    ]
+  },
+  {
+    "name": "Ravil's Book of Recipes",
+    "link": "https://ddowiki.com/page/Item:Ravil%27s_Book_of_Recipes",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Vitality +29"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Ravil's Book of Legendary Recipes",
+    "link": "https://ddowiki.com/page/Item:Ravil%27s_Book_of_Legendary_Recipes",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Vitality +48"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Set Augment: Wild Fortitude",
+    "link": "https://ddowiki.com/page/Item:Set_Augment:_Wild_Fortitude",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Wild Fortitude"
+    ],
+    "sourceRaw": [
+      "Cauldron of Cadence, The Hut from Beyond (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Quori-Infused Core"
+    ]
+  },
+  {
+    "name": "Diamond of Wisdom +11",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Wisdom_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wisdom +11"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Wisdom +12",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Wisdom_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wisdom +12"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Diamond of Wisdom +14",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Wisdom_%2B14",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wisdom +14"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Diamond of Wisdom +1",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Wisdom_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wisdom +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Goldscuttle, The Harbor (4) Item:Astral Shard",
+      "Goldscuttle, Randomly selected Yellow Augment with no minimum level (30) Item:String of Prayer Beads (10) Item:Small Wooden Idol (5) Item:Icon of Khyber",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Wisdom +3",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Wisdom_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wisdom +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Rudolf Rightman, The Marketplace (8) Item:Astral Shard",
+      "Rudolf Rightman, Randomly selected Red Augment of Minimum Level 4 (30) Item:Caravan Logbook (10) Item:Research Diary (5) Item:Tome: Myths of Old Xen'drik",
+      "Xovun Chalk, The Marketplace (8) Item:Astral Shard",
+      "Xovun Chalk, Randomly selected Red Augment of Minimum Level 4 (30) Item:Skull Fragment (10) Item:Powdered Blood (5) Item:Intact Fingerbone"
+    ]
+  },
+  {
+    "name": "Diamond of Wisdom +5",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Wisdom_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wisdom +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Farrik Foe-Cleaver, House Jorasco (8) Item:Astral Shard",
+      "Farrik Foe-Cleaver, Randomly selected Red Augment of Minimum Level 8",
+      "Husk, The Marketplace (8) Item:Astral Shard",
+      "Husk, Randomly selected Red Augment of Minimum Level 8",
+      "Kayla Skywhisper, The Marketplace (8) Item:Astral Shard",
+      "Kayla Skywhisper, Randomly selected Red Augment of Minimum Level 8",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Tara Wightraven, The Marketplace (8) Item:Astral Shard",
+      "Tara Wightraven, Randomly selected Red Augment of Minimum Level 8"
+    ]
+  },
+  {
+    "name": "Diamond of Wisdom +6",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Wisdom_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wisdom +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Diamond of Wisdom +8",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Wisdom_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wisdom +8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Diamond of Wisdom +9",
+    "link": "https://ddowiki.com/page/Item:Diamond_of_Wisdom_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wisdom +9"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Essence of the Epic Litany of the Dead",
+    "link": "https://ddowiki.com/page/Item:Essence_of_the_Epic_Litany_of_the_Dead",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Litany of the Dead II - Ability Bonus"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Epic Litany of the Dead"
+    ]
+  },
+  {
+    "name": "The Master's Gift",
+    "link": "https://ddowiki.com/page/Item:The_Master%27s_Gift",
+    "itemType": "augment",
+    "augmentColor": "Colorless",
+    "minLevel": 1,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Heroic Inspiration"
+    ],
+    "sourceRaw": [
+      "Legacy Altar of Epic Rituals, The Twelve (5) Item:Greater Token of the Twelve (1) Item:Mantle of the Worldshaper (1) Item:Voice of the Master"
+    ]
+  }
+]

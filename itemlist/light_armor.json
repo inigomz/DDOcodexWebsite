@@ -1,36 +1,5 @@
 [
   {
-    "name": "+5 Engraved Cormyrian Leather Armor",
-    "link": "https://ddowiki.com/page/Item:%2B5_Engraved_Cormyrian_Leather_Armor",
-    "minLevel": "20",
-    "enhancements": [
-      "+5 Enhancement Bonus",
-      "Proof Against Disease +8",
-      "Proof Against Poison +8",
-      "Deathblock",
-      "Fortification +100%",
-      "Greater False Life",
-      "Resistance +5",
-      "Protection +5",
-      "Heightened Awareness 5",
-      "DR",
-      "Spell Resistance +25",
-      "Acid Resistance +30",
-      "Cold Resistance +30",
-      "Electric Resistance +30",
-      "Fire Resistance +30",
-      "Sonic Resistance +30"
-    ]
-  },
-  {
-    "name": "+5 Polished Cormyrian Chain Shirt",
-    "link": "https://ddowiki.com/page/Item:%2B5_Polished_Cormyrian_Chain_Shirt",
-    "minLevel": "20",
-    "enhancements": [
-      "+5 Enhancement Bonus"
-    ]
-  },
-  {
     "name": "Allegience of the Wild Hunt",
     "link": "https://ddowiki.com/page/Item:Allegience_of_the_Wild_Hunt",
     "minLevel": "5",
@@ -66,8 +35,7 @@
       "Deadly +6",
       "Insightful Reflex Save +3",
       "Quality Potency +13",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -80,8 +48,7 @@
       "Deadly +6",
       "Insightful Reflex Save +3",
       "Quality Accuracy +2",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -101,7 +68,7 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Sneak Attack Bonus +2",
-      "Armor-Piercing - 10%",
+      "Armor-Piercing 10%",
       "Blue Augment Slot"
     ]
   },
@@ -112,7 +79,7 @@
     "enhancements": [
       "+5 Enhancement Bonus",
       "Sneak Attack Bonus +2",
-      "Armor-Piercing - 10%",
+      "Armor-Piercing 10%",
       "Blue Augment Slot"
     ]
   },
@@ -123,7 +90,20 @@
     "enhancements": [
       "+5 Enhancement Bonus",
       "Sneak Attack Bonus +3",
-      "Armor-Piercing - 10%",
+      "Armor-Piercing 10%",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Azurescale Armor",
+    "link": "https://ddowiki.com/page/Item:Azurescale_Armor",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Electric Resistance +21",
+      "Physical Sheltering +14",
+      "Natural Armor +6",
+      "Insightful Magical Sheltering +6",
       "Blue Augment Slot"
     ]
   },
@@ -143,7 +123,7 @@
     "enhancements": [
       "+5 Enhancement Bonus",
       "Haste Guard",
-      "Armor-Piercing - 10%",
+      "Armor-Piercing 10%",
       "Relentless Fury",
       "Acid Resistance +30"
     ]
@@ -203,6 +183,128 @@
     ]
   },
   {
+    "name": "Chain Shirt of Toppling (level 12)",
+    "link": "https://ddowiki.com/page/Item:Chain_Shirt_of_Toppling_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Combat Mastery +5",
+      "Kick 'Em While They're Down",
+      "Insightful Deadly +2",
+      "Accuracy +10",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Chain Shirt of Toppling (level 16)",
+    "link": "https://ddowiki.com/page/Item:Chain_Shirt_of_Toppling_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Combat Mastery +6",
+      "Kick 'Em While They're Down",
+      "Insightful Deadly +2",
+      "Accuracy +12",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Chain Shirt of Toppling (level 20)",
+    "link": "https://ddowiki.com/page/Item:Chain_Shirt_of_Toppling_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Combat Mastery +8",
+      "Kick 'Em While They're Down",
+      "Insightful Deadly +3",
+      "Accuracy +15",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Chain Shirt of Toppling (level 24)",
+    "link": "https://ddowiki.com/page/Item:Chain_Shirt_of_Toppling_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Combat Mastery +9",
+      "Kick 'Em While They're Down",
+      "Insightful Deadly +4",
+      "Accuracy +17",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Chain Shirt of Toppling (level 28)",
+    "link": "https://ddowiki.com/page/Item:Chain_Shirt_of_Toppling_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Combat Mastery +10",
+      "Kick 'Em While They're Down",
+      "Insightful Deadly +4",
+      "Accuracy +20",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Chain Shirt of Toppling (level 32)",
+    "link": "https://ddowiki.com/page/Item:Chain_Shirt_of_Toppling_(level_32)",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Combat Mastery +11",
+      "Kick 'Em While They're Down",
+      "Insightful Deadly +5",
+      "Accuracy +22",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Chain Shirt of Toppling (level 36)",
+    "link": "https://ddowiki.com/page/Item:Chain_Shirt_of_Toppling_(level_36)",
+    "minLevel": "36",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Combat Mastery +12",
+      "Kick 'Em While They're Down",
+      "Insightful Deadly +5",
+      "Accuracy +24",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Chain Shirt of Toppling (level 4)",
+    "link": "https://ddowiki.com/page/Item:Chain_Shirt_of_Toppling_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Combat Mastery +3",
+      "Kick 'Em While They're Down",
+      "Insightful Deadly +1",
+      "Accuracy +5",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Chain Shirt of Toppling (level 8)",
+    "link": "https://ddowiki.com/page/Item:Chain_Shirt_of_Toppling_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Combat Mastery +4",
+      "Kick 'Em While They're Down",
+      "Insightful Deadly +1",
+      "Accuracy +8",
+      "Blue Augment Slot"
+    ]
+  },
+  {
     "name": "Chain of Conviction",
     "link": "https://ddowiki.com/page/Item:Chain_of_Conviction",
     "minLevel": "16",
@@ -225,8 +327,7 @@
       "Physical Sheltering +33",
       "Competence Healing Amplification +53",
       "False Life +50",
-      "Green Augment Slot",
-      "Eminence of Winter"
+      "Green Augment Slot"
     ]
   },
   {
@@ -239,8 +340,15 @@
       "Insightful Fire Resistance +16",
       "Magical Sheltering +22",
       "Physical Sheltering +22",
-      "Blue Augment Slot",
-      "Cooking By the Book"
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Cormyrian Chain Shirt",
+    "link": "https://ddowiki.com/page/Item:Cormyrian_Chain_Shirt",
+    "minLevel": "16",
+    "enhancements": [
+      "Eveningstar Challenge Pack"
     ]
   },
   {
@@ -255,6 +363,14 @@
       "Resistance +6",
       "Proof Against Poison +10",
       "Power Store"
+    ]
+  },
+  {
+    "name": "Cormyrian Leather Armor",
+    "link": "https://ddowiki.com/page/Item:Cormyrian_Leather_Armor",
+    "minLevel": "16",
+    "enhancements": [
+      "Eveningstar Challenge Pack"
     ]
   },
   {
@@ -295,8 +411,7 @@
       "Quality Fortification  +21%",
       "Insightful Fortitude Save +3",
       "Vitality +23",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -363,12 +478,11 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Competence Elemental Resistance - 5",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Lamordia: Woeful Slot (Accessory): Empty",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Lamordia: Woeful Slot (Accessory)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -621,8 +735,7 @@
       "Insightful Fortitude Save +5",
       "Vitality +41",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -635,8 +748,7 @@
       "Electric Resistance +36",
       "Proof Against Poison +8",
       "Magical Sheltering +24",
-      "Blue Augment Slot",
-      "Epic Menechtarun Scavenger"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -753,8 +865,7 @@
       "Reflex Save +9",
       "Mithral",
       "Colorless Augment Slot",
-      "Blue Augment Slot",
-      "Epic Kundarak Delving Equipment"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -768,8 +879,7 @@
       "Sheltering +24",
       "DR",
       "Taint of Evil",
-      "Blue Augment Slot",
-      "Epic Windlasher's Ferocity"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -789,8 +899,7 @@
       "Physical Sheltering +24",
       "Immunity to Fear",
       "Fearsome",
-      "Blue Augment Slot",
-      "The Epic Desert's Starless Nights"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -820,8 +929,7 @@
       "Fire Guard II",
       "Incineration Guard",
       "Colorless Augment Slot",
-      "Blue Augment Slot",
-      "Epic Soul of the Red Dragon"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -836,8 +944,7 @@
       "Axeblock X",
       "Mithral",
       "Colorless Augment Slot",
-      "Blue Augment Slot",
-      "Epic Vulkoor's Chosen"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -851,8 +958,7 @@
       "Physical Sheltering +24",
       "Haste Guard",
       "Reflex Save +9",
-      "Green Augment Slot",
-      "Epic Saltmarsh Explorer"
+      "Green Augment Slot"
     ]
   },
   {
@@ -881,8 +987,7 @@
       "Mithral",
       "Greater Nimbleness",
       "Colorless Augment Slot",
-      "Blue Augment Slot",
-      "Epic Menechtarun Scavenger"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -911,8 +1016,7 @@
       "Insightful Deception +3",
       "Exceptional Nimble Skills Bonus",
       "Colorless Augment Slot",
-      "Blue Augment Slot",
-      "Epic Vulkoor's Chosen"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -945,8 +1049,7 @@
       "Physical Sheltering +21",
       "Competence Healing Amplification +33",
       "False Life +32",
-      "Blue Augment Slot",
-      "Feywild Dreamer"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -956,7 +1059,7 @@
     "enhancements": [
       "+7 Enhancement Bonus",
       "Haste Guard",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Relentless Fury",
       "Acid Resistance +40",
       "Attuned to Heroism",
@@ -1044,11 +1147,10 @@
       "+4 Enhancement Bonus",
       "Natural Armor +5",
       "Good Luck  +2",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1157,6 +1259,32 @@
     ]
   },
   {
+    "name": "Jadescale Armor",
+    "link": "https://ddowiki.com/page/Item:Jadescale_Armor",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Poison Resistance +21",
+      "Physical Sheltering +14",
+      "Natural Armor +6",
+      "Insightful Magical Sheltering +6",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Jetscale Armor",
+    "link": "https://ddowiki.com/page/Item:Jetscale_Armor",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Acid Resistance +21",
+      "Physical Sheltering +14",
+      "Natural Armor +6",
+      "Insightful Magical Sheltering +6",
+      "Blue Augment Slot"
+    ]
+  },
+  {
     "name": "Kindred Spirit",
     "link": "https://ddowiki.com/page/Item:Kindred_Spirit",
     "minLevel": "10",
@@ -1202,10 +1330,9 @@
       "+4 Enhancement Bonus",
       "Ghostly",
       "Fortification  +70%",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1296,8 +1423,7 @@
       "Insightful Reflex Save +6",
       "Quality Potency +26",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1311,8 +1437,21 @@
       "Insightful Reflex Save +6",
       "Quality Accuracy +5",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Azurescale Armor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Azurescale_Armor",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electric Resistance +57",
+      "Physical Sheltering +38",
+      "Natural Armor +15",
+      "Insightful Magical Sheltering +18",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1326,8 +1465,7 @@
       "Quality Magical Sheltering +8",
       "Physical Sheltering +36",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Legendary Cooking By the Book"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1367,13 +1505,12 @@
     "enhancements": [
       "+15 Enhancement Bonus",
       "Competence Elemental Resistance - 15",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Lamordia: Woeful Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1413,8 +1550,7 @@
       "Physical Sheltering +33",
       "Competence Healing Amplification +53",
       "False Life +50",
-      "Green Augment Slot",
-      "Legendary Feywild Dreamer"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1425,12 +1561,11 @@
       "+15 Enhancement Bonus",
       "Natural Armor +15",
       "Good Luck  +5",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1463,6 +1598,34 @@
     ]
   },
   {
+    "name": "Legendary Jadescale Armor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Jadescale_Armor",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Poison Resistance +57",
+      "Physical Sheltering +38",
+      "Natural Armor +15",
+      "Insightful Magical Sheltering +18",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Jetscale Armor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Jetscale_Armor",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Acid Resistance +57",
+      "Physical Sheltering +38",
+      "Natural Armor +15",
+      "Insightful Magical Sheltering +18",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
     "name": "Legendary Kindred Spirit",
     "link": "https://ddowiki.com/page/Item:Legendary_Kindred_Spirit",
     "minLevel": "29",
@@ -1487,8 +1650,7 @@
       "Reflex Save +12",
       "Mithral",
       "Colorless Augment Slot",
-      "Blue Augment Slot",
-      "Legendary Kundarak Delving Equipment"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1499,11 +1661,10 @@
       "+15 Enhancement Bonus",
       "Enhanced Ghostly",
       "Fortification  +159%",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1517,8 +1678,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Legendary Spell Penetration +3",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1546,8 +1706,7 @@
       "Competence Elemental Resistance - 15",
       "Linguistics",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1601,10 +1760,9 @@
       "Accuracy +23",
       "Deadly +12",
       "Legendary Demonic Shield",
-      "Legendary Armor-Piercing - 5%",
+      "Legendary Armor-Piercing 5%",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1649,8 +1807,7 @@
       "Parrying +6",
       "Physical Sheltering +33",
       "Profane Well Rounded +2",
-      "Green Augment Slot",
-      "Silent Avenger Set (Legendary)"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1667,6 +1824,20 @@
       "The Legendary Desert's Starless Nights",
       "Colorless Augment Slot",
       "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Palescale Armor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Palescale_Armor",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Cold Resistance +57",
+      "Physical Sheltering +38",
+      "Natural Armor +15",
+      "Insightful Magical Sheltering +18",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1696,8 +1867,7 @@
       "Fire Guard X",
       "Incineration Guard",
       "Colorless Augment Slot",
-      "Blue Augment Slot",
-      "Legendary Soul of the Red Dragon"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1710,8 +1880,21 @@
       "Physical Sheltering +33",
       "Competence Healing Amplification +53",
       "False Life +50",
+      "Green Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Scarletscale Armor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Scarletscale_Armor",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fire Resistance +57",
+      "Physical Sheltering +38",
+      "Natural Armor +15",
+      "Insightful Magical Sheltering +18",
       "Green Augment Slot",
-      "Legendary Profane Experiment"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1741,8 +1924,7 @@
       "Physical Sheltering +34",
       "Haste Guard",
       "Reflex Save +12",
-      "Green Augment Slot",
-      "Legendary Saltmarsh Explorer"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1770,9 +1952,7 @@
       "Quality Dodge +3%",
       "Insightful Fortification  +74%",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Dread Stalker",
-      "Defender of Tanaroa"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1862,8 +2042,7 @@
       "Physical Sheltering +33",
       "Competence Healing Amplification +53",
       "False Life +50",
-      "Green Augment Slot",
-      "Legendary Part of the Family"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1876,8 +2055,7 @@
       "Physical Sheltering +33",
       "Competence Healing Amplification +53",
       "False Life +50",
-      "Green Augment Slot",
-      "Legendary Wallwatch"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1902,8 +2080,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Insightful Spell Focus Mastery +3",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1916,8 +2093,7 @@
       "Exceptional Universal Spell Power +8",
       "Exceptional Universal Spell Lore +3%",
       "Legendary Spell Penetration +2",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1945,8 +2121,7 @@
       "Competence Elemental Resistance - 15",
       "Temperance of Spirit",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1959,8 +2134,7 @@
       "Exceptional Healing Amplification +7",
       "Competence Elemental Resistance - 5",
       "Linguistics",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2014,10 +2188,9 @@
       "Accuracy +24",
       "Deadly +12",
       "Shadow Striker",
-      "Legendary Armor-Piercing - 5%",
+      "Legendary Armor-Piercing 5%",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2029,9 +2202,8 @@
       "Accuracy +11",
       "Deadly +6",
       "Demonic Shield",
-      "Legendary Armor-Piercing - 2%",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Legendary Armor-Piercing 2%",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2059,8 +2231,7 @@
       "Insightful Spell Resistance +7",
       "Quality Dodge +1%",
       "Insightful Fortification  +33%",
-      "Green Augment Slot",
-      "The Dread Isle's Curse"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2087,8 +2258,7 @@
       "Parrying +2",
       "Physical Sheltering +14",
       "Profane Well Rounded +1",
-      "Green Augment Slot",
-      "Silent Avenger Set (Heroic)"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2175,6 +2345,19 @@
     ]
   },
   {
+    "name": "Palescale Armor",
+    "link": "https://ddowiki.com/page/Item:Palescale_Armor",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Cold Resistance +21",
+      "Physical Sheltering +14",
+      "Natural Armor +6",
+      "Insightful Magical Sheltering +6",
+      "Blue Augment Slot"
+    ]
+  },
+  {
     "name": "Parasitic Breastplate",
     "link": "https://ddowiki.com/page/Item:Parasitic_Breastplate",
     "minLevel": "14",
@@ -2210,8 +2393,7 @@
       "Physical Sheltering +21",
       "Competence Healing Amplification +33",
       "False Life +32",
-      "Blue Augment Slot",
-      "Profane Experiment"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2267,7 +2449,7 @@
     "enhancements": [
       "+6 Enhancement Bonus",
       "Haste Guard",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Relentless Fury"
     ]
   },
@@ -2291,6 +2473,19 @@
       "Mithral",
       "Green Augment Slot",
       "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Scarletscale Armor",
+    "link": "https://ddowiki.com/page/Item:Scarletscale_Armor",
+    "minLevel": "10",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Fire Resistance +21",
+      "Physical Sheltering +14",
+      "Natural Armor +6",
+      "Insightful Magical Sheltering +6",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2334,12 +2529,7 @@
       "Fortification  +130%",
       "Ghostly",
       "From The Shadows",
-      "Blue Augment Slot",
-      "Flawed Shadowscale Armor",
-      "50 Shadow Dragon Scales",
-      "Shadow Caster",
-      "Shadow Disciple",
-      "Shadow Killer"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2353,8 +2543,7 @@
       "Hide +12",
       "Axeblock V",
       "Mithral",
-      "Blue Augment Slot",
-      "Vulkoor's Chosen"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2366,8 +2555,7 @@
       "+2 Enhancement Bonus",
       "Physical Sheltering +7",
       "Haste Guard",
-      "Green Augment Slot",
-      "Saltmarsh Explorer"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2412,8 +2600,7 @@
       "Reflex Save +6",
       "Curse of Repulsiveness",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Menechtarun Scavenger"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2446,8 +2633,7 @@
       "Insightful Spell Resistance +7",
       "Quality Dodge +1%",
       "Insightful Fortification  +33%",
-      "Green Augment Slot",
-      "The Dread Isle's Curse"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2471,8 +2657,7 @@
       "Physical Sheltering +21",
       "Profane Negative Amplification +33",
       "False Life +32",
-      "Blue Augment Slot",
-      "Dreadkeeper"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2485,8 +2670,7 @@
       "Exceptional Universal Spell Power +8",
       "Physical Sheltering +9",
       "Parrying +1",
-      "Blue Augment Slot",
-      "Seasons of the Feywild"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2499,8 +2683,7 @@
       "Physical Sheltering +33",
       "Profane Negative Amplification +53",
       "False Life +50",
-      "Green Augment Slot",
-      "Legendary Dreadkeeper"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2513,8 +2696,7 @@
       "Exceptional Universal Spell Power +15",
       "Physical Sheltering +33",
       "Parrying +6",
-      "Green Augment Slot",
-      "Eminence of Autumn"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2527,9 +2709,7 @@
       "Competence Healing Amplification +53",
       "Reflex Save +11",
       "Dodge +13%",
-      "Green Augment Slot",
-      "Eminence of Spring",
-      "Missile Deflection"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2542,8 +2722,7 @@
       "Competence Healing Amplification +14",
       "Reflex Save +4",
       "Dodge +4%",
-      "Blue Augment Slot",
-      "Seasons of the Feywild"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2568,8 +2747,7 @@
       "Mithral",
       "Superior Nimbleness",
       "Blue Augment Slot",
-      "Colorless Augment Slot",
-      "Menechtarun Scavenger"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2623,8 +2801,7 @@
       "Physical Sheltering +34",
       "Profane Well Rounded +2",
       "Blue Augment Slot",
-      "Green Augment Slot",
-      "Silent Avenger Set (Legendary)"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2637,8 +2814,7 @@
       "Accuracy +9",
       "Deception +4",
       "Hide +12",
-      "Blue Augment Slot",
-      "Vulkoor's Chosen"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2659,7 +2835,7 @@
       "Blurry",
       "Ethereal",
       "Improved False Life",
-      "Insightful Sneak Attack Bonus +1",
+      "Insightful Sneak Attack Bonus +1",
       "Heightened Awareness 3"
     ]
   },
@@ -2672,7 +2848,7 @@
       "Blurry",
       "Ethereal",
       "Improved False Life",
-      "Insightful Sneak Attack Bonus +1",
+      "Insightful Sneak Attack Bonus +1",
       "Heightened Awareness 3"
     ]
   },
@@ -2685,7 +2861,7 @@
       "Blurry",
       "Ethereal",
       "Greater False Life",
-      "Insightful Sneak Attack Bonus +2",
+      "Insightful Sneak Attack Bonus +2",
       "Heightened Awareness 4"
     ]
   },
@@ -2698,7 +2874,7 @@
       "Blurry",
       "Ghostly",
       "Superior False Life",
-      "Insightful Sneak Attack Bonus +3",
+      "Insightful Sneak Attack Bonus +3",
       "Heightened Awareness 4"
     ]
   },
@@ -2711,7 +2887,7 @@
       "Blurry",
       "Ghostly",
       "Superior False Life",
-      "Insightful Sneak Attack Bonus +4",
+      "Insightful Sneak Attack Bonus +4",
       "Heightened Awareness 4"
     ]
   },
@@ -2724,7 +2900,7 @@
       "Blurry",
       "Ghostly",
       "Superior False Life",
-      "Insightful Sneak Attack Bonus +5",
+      "Insightful Sneak Attack Bonus +5",
       "Heightened Awareness 5"
     ]
   },
@@ -2759,8 +2935,7 @@
       "Physical Sheltering +19",
       "Competence Healing Amplification +30",
       "False Life +29",
-      "Blue Augment Slot",
-      "Part of the Family"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2773,8 +2948,7 @@
       "Physical Sheltering +19",
       "Competence Healing Amplification +30",
       "False Life +29",
-      "Blue Augment Slot",
-      "Wallwatch"
+      "Blue Augment Slot"
     ]
   },
   {

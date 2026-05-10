@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Lifetaker",
+    "link": "https://ddowiki.com/page/Item:Lifetaker",
+    "itemType": "augment",
+    "augmentColor": "Purple",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Legendary Slay Living"
+    ],
+    "sourceRaw": [
+      "Witch Hunt, end chest"
+    ]
+  },
+  {
+    "name": "The Blackstone Liturgy",
+    "link": "https://ddowiki.com/page/Item:The_Blackstone_Liturgy",
+    "itemType": "augment",
+    "augmentColor": "Purple",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "item becomes a Spellcasting Implement",
+      "Nullification +153"
+    ],
+    "sourceRaw": [
+      "Fire Over Morgrave, end chest"
+    ]
+  },
+  {
+    "name": "Feareater",
+    "link": "https://ddowiki.com/page/Item:Feareater",
+    "itemType": "augment",
+    "augmentColor": "Purple",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Sovereign Nightmares"
+    ],
+    "sourceRaw": [
+      "The Dryad and the Demigod, End chest and optional chest"
+    ]
+  },
+  {
+    "name": "Essence of the Cobalt Guard",
+    "link": "https://ddowiki.com/page/Item:Essence_of_the_Cobalt_Guard",
+    "itemType": "augment",
+    "augmentColor": "Purple",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Improved Quelling Strikes"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Cobalt Guard"
+    ]
+  },
+  {
+    "name": "Facet of Coalesced Impacts",
+    "link": "https://ddowiki.com/page/Item:Facet_of_Coalesced_Impacts",
+    "itemType": "augment",
+    "augmentColor": "Purple",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Greater Reinforced Fists"
+    ],
+    "sourceRaw": [
+      "Illithid Invasion, any chest"
+    ]
+  }
+]

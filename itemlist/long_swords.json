@@ -230,9 +230,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -246,8 +246,7 @@
       "Force Blast 3",
       "Sirocco",
       "Smoke Screen",
-      "Red Augment Slot",
-      "The Desert's Biting Sands"
+      "Red Augment Slot"
     ]
   },
   {
@@ -284,6 +283,32 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Burning Blade of Estelar",
+    "link": "https://ddowiki.com/page/Item:Burning_Blade_of_Estelar",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Fiery 3",
+      "Flaming 6",
+      "Vorpal",
+      "Dragon's Edge 2",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Drysvayla's Razor",
+    "link": "https://ddowiki.com/page/Item:Drysvayla%27s_Razor",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Poisonous 3",
+      "Toxic 6",
+      "Vorpal",
+      "Dragon's Edge 2",
       "Red Augment Slot"
     ]
   },
@@ -866,13 +891,11 @@
     "minLevel": "18",
     "enhancements": [
       "+5 Enhancement Bonus",
-      "Armor-Piercing - 14%",
+      "Armor-Piercing 14%",
       "Corrosive Salt",
       "Fiery 4",
       "Flaming 10",
-      "Red Augment Slot",
-      "Cooking By the Book",
-      "Fried & Frozen Frenzy"
+      "Red Augment Slot"
     ]
   },
   {
@@ -881,13 +904,11 @@
     "minLevel": "18",
     "enhancements": [
       "+5 Enhancement Bonus",
-      "Armor-Piercing - 14%",
+      "Armor-Piercing 14%",
       "Corrosive Salt",
       "Chilling 4",
       "Freezing 10",
-      "Red Augment Slot",
-      "Cooking By the Book",
-      "Fried & Frozen Frenzy"
+      "Red Augment Slot"
     ]
   },
   {
@@ -896,12 +917,11 @@
     "minLevel": "18",
     "enhancements": [
       "+5 Enhancement Bonus",
-      "Armor-Piercing - 14%",
+      "Armor-Piercing 14%",
       "Corrosive Salt",
       "Slashing 4",
       "Gashing 10",
-      "Red Augment Slot",
-      "Cooking By the Book"
+      "Red Augment Slot"
     ]
   },
   {
@@ -941,8 +961,7 @@
       "Greater Sirocco",
       "Smoke Screen",
       "Air Guard",
-      "Red Augment Slot",
-      "The Epic Desert's Biting Sands"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1098,7 +1117,7 @@
       "Improved Banishing",
       "Sovereign Vorpal",
       "Axiomatic 6",
-      "Armor-Piercing - 20%",
+      "Armor-Piercing 20%",
       "Doublestrike 15%",
       "Cold Iron",
       "Red Augment Slot",
@@ -1327,8 +1346,7 @@
       "Silver",
       "Feather Fall",
       "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Red Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1356,8 +1374,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1395,14 +1412,12 @@
     "minLevel": "32",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Armor-Piercing - 22%",
+      "Armor-Piercing 22%",
       "Concentrated Corrosive Salt",
       "Fiery 6",
       "Flaming 15",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "Legendary Cooking By the Book",
-      "Legendary Fried & Frozen Frenzy"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1411,14 +1426,12 @@
     "minLevel": "32",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Armor-Piercing - 22%",
+      "Armor-Piercing 22%",
       "Concentrated Corrosive Salt",
       "Chilling 6",
       "Freezing 15",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "Legendary Cooking By the Book",
-      "Legendary Fried & Frozen Frenzy"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1427,13 +1440,12 @@
     "minLevel": "32",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Armor-Piercing - 22%",
+      "Armor-Piercing 22%",
       "Concentrated Corrosive Salt",
       "Slashing 6",
       "Gashing 15",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "Legendary Cooking By the Book"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -2057,10 +2069,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -2071,10 +2083,38 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Drysvayla's Razor",
+    "link": "https://ddowiki.com/page/Item:Legendary_Drysvayla%27s_Razor",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Poisonous 7",
+      "Toxic 16",
+      "Sovereign Vorpal",
+      "Dragon's Edge 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Burning Blade of Estelar",
+    "link": "https://ddowiki.com/page/Item:Legendary_Burning_Blade_of_Estelar",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Fiery 7",
+      "Flaming 16",
+      "Sovereign Vorpal",
+      "Dragon's Edge 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

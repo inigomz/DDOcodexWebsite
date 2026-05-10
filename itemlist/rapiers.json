@@ -208,9 +208,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -249,6 +249,19 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3",
+      "Red Augment Slot"
+    ]
+  },
+  {
+    "name": "Savaran's Tooth",
+    "link": "https://ddowiki.com/page/Item:Savaran%27s_Tooth",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Electrifying 3",
+      "Jolting 7",
+      "Heartseeker III",
+      "Dragon's Edge 3",
       "Red Augment Slot"
     ]
   },
@@ -345,7 +358,7 @@
     "minLevel": "15",
     "enhancements": [
       "+5 Enhancement Bonus",
-      "Armor-Piercing - 13%",
+      "Armor-Piercing 13%",
       "Electrifying 4",
       "Jolting 9",
       "Quality Seeker +1",
@@ -562,7 +575,7 @@
     "minLevel": "28",
     "enhancements": [
       "+13 Enhancement Bonus",
-      "Armor-Piercing - 21%",
+      "Armor-Piercing 21%",
       "Electrifying 6",
       "Jolting 14",
       "Quality Seeker +3",
@@ -749,8 +762,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -844,10 +856,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -858,10 +870,24 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Savaran's Tooth",
+    "link": "https://ddowiki.com/page/Item:Legendary_Savaran%27s_Tooth",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Electrifying 7",
+      "Jolting 16",
+      "Heartseeker VI",
+      "Dragon's Edge 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

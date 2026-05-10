@@ -86,9 +86,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -184,7 +184,7 @@
     "minLevel": "14",
     "enhancements": [
       "Keen",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Shrieking II",
       "Improved Vorpal",
       "+5 Enhancement Bonus",
@@ -207,7 +207,7 @@
     "minLevel": "15",
     "enhancements": [
       "+5 Enhancement Bonus",
-      "Insightful Armor-Piercing - 6%",
+      "Insightful Armor-Piercing 6%",
       "Electrifying 4",
       "Jolting 9",
       "Insightful Distant Diversion +5%",
@@ -305,8 +305,7 @@
       "Keen",
       "Blunt Trauma",
       "Construct Bane 4",
-      "Red Augment Slot",
-      "Remodeling Renegade"
+      "Red Augment Slot"
     ]
   },
   {
@@ -425,7 +424,7 @@
     "minLevel": "28",
     "enhancements": [
       "Keen",
-      "Armor-Piercing - 20%",
+      "Armor-Piercing 20%",
       "Shrieking V",
       "Sovereign Vorpal",
       "+12 Enhancement Bonus",
@@ -438,7 +437,7 @@
     "minLevel": "28",
     "enhancements": [
       "+13 Enhancement Bonus",
-      "Insightful Armor-Piercing - 10%",
+      "Insightful Armor-Piercing 10%",
       "Electrifying 6",
       "Jolting 14",
       "Insightful Distant Diversion +9%",
@@ -466,11 +465,6 @@
       "+15 Enhancement Bonus",
       "Nearly Finished",
       "Purple Augment Slot",
-      "Fetters of Unreality",
-      "Completed Weapon",
-      "Sovereign Vorpal",
-      "Bleeding 6",
-      "Ranged Alacrity 20%",
       "Red Augment Slot"
     ]
   },
@@ -593,8 +587,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -623,8 +616,7 @@
       "Ranged Alacrity 20%",
       "Planar Searing",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "Legendary Forbidden Knowledge"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -653,8 +645,7 @@
       "Blunt Trauma",
       "Construct Bane 6",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "Legendary Remodeling Renegade"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -737,7 +728,7 @@
       "+15 Enhancement Bonus",
       "Lightning Lash",
       "Sparkscale",
-      "Legendary Armor-Piercing - 5%",
+      "Legendary Armor-Piercing 5%",
       "Sealed in Mist",
       "Orange Augment Slot",
       "Purple Augment Slot"
@@ -749,10 +740,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -763,10 +754,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

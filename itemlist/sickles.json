@@ -60,7 +60,7 @@
       "Bleeding 2",
       "Gashing 5",
       "Slashing 2",
-      "Armor-Piercing - 6%",
+      "Armor-Piercing 6%",
       "Purple Augment Slot"
     ]
   },
@@ -131,9 +131,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -154,9 +154,7 @@
     "minLevel": "10",
     "enhancements": [
       "+5 Enhancement Bonus",
-      "Red Augment Slot",
-      "Holy",
-      "Cold Iron"
+      "Red Augment Slot"
     ]
   },
   {
@@ -179,7 +177,7 @@
       "Bleeding 3",
       "Gashing 7",
       "Slashing 3",
-      "Armor-Piercing - 9%",
+      "Armor-Piercing 9%",
       "Purple Augment Slot"
     ]
   },
@@ -202,9 +200,10 @@
     "minLevel": "10",
     "enhancements": [
       "+5 Enhancement Bonus",
-      "Undead Bane 3",
       "Silver",
+      "Holy 3",
       "Fiery 3",
+      "Undead Bane 3",
       "Red Augment Slot"
     ]
   },
@@ -263,8 +262,7 @@
       "Insightful Combustion +45",
       "Fire Lore +13%",
       "Evocation Focus +3",
-      "Red Augment Slot",
-      "Seasons of Change"
+      "Red Augment Slot"
     ]
   },
   {
@@ -278,8 +276,7 @@
       "Insightful Glaciation +45",
       "Ice Lore +13%",
       "Conjuration Focus +3",
-      "Red Augment Slot",
-      "Seasons of Change"
+      "Red Augment Slot"
     ]
   },
   {
@@ -303,7 +300,7 @@
       "Bleeding 4",
       "Gashing 9",
       "Slashing 4",
-      "Armor-Piercing - 12%",
+      "Armor-Piercing 12%",
       "Purple Augment Slot"
     ]
   },
@@ -345,8 +342,8 @@
     ]
   },
   {
-    "name": "Dark Power's Demands",
-    "link": "https://ddowiki.com/page/Item:Dark_Power%27s_Demands",
+    "name": "Dark Powers' Demands",
+    "link": "https://ddowiki.com/page/Item:Dark_Powers%27_Demands",
     "minLevel": "15",
     "enhancements": [
       "+3 Enhancement Bonus",
@@ -454,7 +451,7 @@
       "Bleeding 4",
       "Gashing 10",
       "Slashing 4",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Purple Augment Slot"
     ]
   },
@@ -566,7 +563,7 @@
       "Bleeding 5",
       "Gashing 12",
       "Slashing 5",
-      "Armor-Piercing - 18%",
+      "Armor-Piercing 18%",
       "Purple Augment Slot"
     ]
   },
@@ -609,8 +606,7 @@
       "Limb Chopper",
       "Adamantine",
       "Red Augment Slot",
-      "Orange Augment Slot",
-      "Brilliant Crescents"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -624,8 +620,7 @@
       "Insightful Combustion +71",
       "Fire Lore +21%",
       "Evocation Focus +5",
-      "Red Augment Slot",
-      "Seasons of Change (Legendary)"
+      "Red Augment Slot"
     ]
   },
   {
@@ -639,8 +634,7 @@
       "Insightful Glaciation +71",
       "Ice Lore +21%",
       "Conjuration Focus +5",
-      "Red Augment Slot",
-      "Seasons of Change (Legendary)"
+      "Red Augment Slot"
     ]
   },
   {
@@ -797,7 +791,7 @@
       "Bleeding 6",
       "Gashing 14",
       "Slashing 6",
-      "Armor-Piercing - 21%",
+      "Armor-Piercing 21%",
       "Purple Augment Slot"
     ]
   },
@@ -840,8 +834,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -950,10 +943,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -966,10 +959,10 @@
       "+15 Enhancement Bonus",
       "Murderous Edge",
       "Revel in Blood (Slashing)",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -980,10 +973,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

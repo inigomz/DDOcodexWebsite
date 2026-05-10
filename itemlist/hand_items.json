@@ -166,8 +166,7 @@
       "Spot +13",
       "Heightened Awareness 2",
       "True Seeing",
-      "Yellow Augment Slot",
-      "The Desert's Writhing Storm"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -253,8 +252,7 @@
       "Spearblock V",
       "Greater Thorn Guard",
       "Yellow Augment Slot",
-      "Green Augment Slot",
-      "The Epic Desert's Starless Nights"
+      "Green Augment Slot"
     ]
   },
   {
@@ -267,8 +265,7 @@
       "Heightened Awareness 4",
       "True Seeing",
       "Yellow Augment Slot",
-      "Green Augment Slot",
-      "The Epic Desert's Writhing Storm"
+      "Green Augment Slot"
     ]
   },
   {
@@ -281,8 +278,7 @@
       "Accuracy +15",
       "Deception +7",
       "Yellow Augment Slot",
-      "Green Augment Slot",
-      "Epic Vulkoor's Chosen"
+      "Green Augment Slot"
     ]
   },
   {
@@ -316,8 +312,7 @@
       "Shocking Blow",
       "Strength +4",
       "Electric Resistance +14",
-      "Yellow Augment Slot",
-      "Might of the Abishai"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -329,8 +324,7 @@
       "Intimidate +15",
       "Physical Sheltering +17",
       "Fortitude Save +7",
-      "Green Augment Slot",
-      "Wrath of Sora Kell"
+      "Green Augment Slot"
     ]
   },
   {
@@ -353,8 +347,7 @@
       "Competence Healing Amplification +38",
       "Natural Armor +9",
       "Yellow Augment Slot",
-      "Colorless Augment Slot",
-      "Epic Vulkoor's Might"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -366,8 +359,7 @@
       "Strength +9",
       "Speed +30%",
       "Electric Resistance +36",
-      "Yellow Augment Slot",
-      "Epic Might of the Abishai"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -375,9 +367,9 @@
     "link": "https://ddowiki.com/page/Item:Raven%27s_Talons",
     "minLevel": "7",
     "enhancements": [
-      "Raven's Eye",
       "Dexterity +5",
-      "Bluff +10"
+      "Bluff +10",
+      "Raven's Eye"
     ]
   },
   {
@@ -390,8 +382,7 @@
       "Seeker +9",
       "Deception +7",
       "Yellow Augment Slot",
-      "Colorless Augment Slot",
-      "Epic Raven's Eye"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -500,7 +491,7 @@
     "enhancements": [
       "Bluff +20",
       "Sneak Attack Bonus +5",
-      "Insightful Sneak Attack Bonus +3",
+      "Insightful Sneak Attack Bonus +3",
       "Improved Deception",
       "Yellow Augment Slot"
     ]
@@ -546,7 +537,7 @@
     "enhancements": [
       "Bluff +17",
       "Sneak Attack Bonus +5",
-      "Insightful Sneak Attack Bonus +1",
+      "Insightful Sneak Attack Bonus +1",
       "Improved Deception",
       "Colorless Augment Slot"
     ]
@@ -580,7 +571,7 @@
     "enhancements": [
       "Bluff +20",
       "Sneak Attack Bonus +5",
-      "Insightful Sneak Attack Bonus +2",
+      "Insightful Sneak Attack Bonus +2",
       "Improved Deception",
       "Colorless Augment Slot"
     ]
@@ -902,7 +893,7 @@
     "minLevel": "27",
     "enhancements": [
       "Doublestrike 14%",
-      "Insightful Armor-Piercing - 9%",
+      "Insightful Armor-Piercing 9%",
       "Incite +119",
       "Quality  Incite +26",
       "Green Augment Slot",
@@ -931,8 +922,7 @@
       "Evocation Focus +5",
       "Quality Charisma +3",
       "Wizardry +269",
-      "Yellow Augment Slot",
-      "Adherent of the Mists Set (Legendary)"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -944,8 +934,7 @@
       "Bluff +20",
       "Deadly +10",
       "Insightful  Diversion +9%",
-      "Yellow Augment Slot",
-      "Adherent of the Mists Set (Legendary)"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -957,8 +946,7 @@
       "Lesser Displacement",
       "Efficient Metamagic - Maximize II",
       "Mystic Diversion +20%",
-      "Blue Augment Slot",
-      "Beacon of Magic Set (Legendary)"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -970,8 +958,7 @@
       "Lesser Displacement",
       "Efficient Metamagic - Maximize I",
       "Mystic Diversion +9%",
-      "Blue Augment Slot",
-      "Beacon of Magic Set (Heroic)"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -983,8 +970,7 @@
       "Quality Intelligence +1",
       "Shatter +6",
       "Insightful Physical Sheltering +6",
-      "Blue Augment Slot",
-      "Adherent of the Mists Set (Heroic)"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -996,8 +982,7 @@
       "Quality Intelligence +3",
       "Shatter +15",
       "Insightful Physical Sheltering +16",
-      "Blue Augment Slot",
-      "Adherent of the Mists Set (Legendary)"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1009,8 +994,7 @@
       "Evocation Focus +3",
       "Quality Charisma +1",
       "Wizardry +112",
-      "Yellow Augment Slot",
-      "Adherent of the Mists Set (Heroic)"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -1021,10 +1005,9 @@
       "Pierce Silver",
       "Deadly +11",
       "Doublestrike 15%",
-      "Armor-Piercing - 21%",
+      "Armor-Piercing 21%",
       "Blue Augment Slot",
-      "Green Augment Slot",
-      "Adherent of the Mists Set (Legendary)"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1036,8 +1019,7 @@
       "Bluff +12",
       "Deadly +5",
       "Insightful  Diversion +4%",
-      "Yellow Augment Slot",
-      "Adherent of the Mists Set (Heroic)"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -1280,8 +1262,7 @@
       "Cannith Combat Infusion",
       "Seeker +8",
       "Insightful Deadly +2",
-      "Blue Augment Slot",
-      "Part of the Family"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1293,8 +1274,7 @@
       "Lightning Lore +21%",
       "Evocation Focus +5",
       "Feat",
-      "Green Augment Slot",
-      "Legendary Arcsteel Battlemage"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1306,8 +1286,7 @@
       "Repair Lore +14%",
       "Evocation Focus +3",
       "Feat",
-      "Green Augment Slot",
-      "Arcsteel Battlemage"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1319,8 +1298,7 @@
       "Cannith Combat Infusion",
       "Seeker +13",
       "Insightful Deadly +4",
-      "Blue Augment Slot",
-      "Legendary Part of the Family"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1332,8 +1310,7 @@
       "Devotion +142",
       "Healing Lore +21%",
       "Wizardry +269",
-      "Blue Augment Slot",
-      "Legendary Hruit's Influence"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1345,8 +1322,7 @@
       "Devotion +94",
       "Healing Lore +14%",
       "Wizardry +154",
-      "Blue Augment Slot",
-      "Hruit's Influence"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1358,8 +1334,7 @@
       "Repair Lore +21%",
       "Evocation Focus +5",
       "Feat",
-      "Green Augment Slot",
-      "Legendary Arcsteel Battlemage"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1371,8 +1346,7 @@
       "Dodge +8%",
       "Natural Armor +8",
       "Distant Diversion +12%",
-      "Yellow Augment Slot",
-      "Wallwatch"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -1384,8 +1358,7 @@
       "Dodge +13%",
       "Natural Armor +13",
       "Distant Diversion +20%",
-      "Yellow Augment Slot",
-      "Legendary Wallwatch"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -1397,8 +1370,7 @@
       "Lightning Lore +14%",
       "Evocation Focus +3",
       "Feat",
-      "Green Augment Slot",
-      "Arcsteel Battlemage"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1425,8 +1397,7 @@
       "Spell Absorption",
       "Quality Potency +25",
       "Green Augment Slot",
-      "Yellow Augment Slot",
-      "Legendary Hruit's Influence"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -1439,8 +1410,7 @@
       "Parrying +6",
       "Doublestrike 15%",
       "Blue Augment Slot",
-      "Green Augment Slot",
-      "Legendary Arcsteel Battlemage"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1465,8 +1435,7 @@
       "Insightful Spell Penetration +4",
       "Conjuration Focus +5",
       "Mystic Diversion +20%",
-      "Green Augment Slot",
-      "Legendary Feywild Dreamer"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1478,8 +1447,7 @@
       "Vitality +44",
       "Spell Resistance +38",
       "Quality Physical Sheltering +8",
-      "Blue Augment Slot",
-      "Legendary Dreadkeeper"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1491,8 +1459,7 @@
       "Insightful Spell Penetration +3",
       "Conjuration Focus +4",
       "Mystic Diversion +13%",
-      "Green Augment Slot",
-      "Feywild Dreamer"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1562,8 +1529,7 @@
       "Vitality +28",
       "Spell Resistance +24",
       "Quality Physical Sheltering +5",
-      "Blue Augment Slot",
-      "Dreadkeeper"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1670,8 +1636,7 @@
       "Efficient Metamagic - Maximize II",
       "Efficient Metamagic - Extend II",
       "Blue Augment Slot",
-      "Green Augment Slot",
-      "Anger of the Avalanche"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1692,8 +1657,7 @@
       "Spell Penetration +3",
       "Wizardry +71",
       "Insightful Wizardry +35",
-      "Yellow Augment Slot",
-      "Seasons of the Feywild"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -1705,8 +1669,7 @@
       "Regeneration",
       "Improved Quelling Strikes",
       "Insightful Magical Sheltering +4",
-      "Yellow Augment Slot",
-      "Seasons of the Feywild"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -1718,8 +1681,7 @@
       "Spell Penetration +8",
       "Wizardry +269",
       "Insightful Wizardry +134",
-      "Green Augment Slot",
-      "Eminence of Autumn"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1731,8 +1693,7 @@
       "Power of the Silver Flame",
       "Temperance of Spirit",
       "Quality Resistance +2",
-      "Green Augment Slot",
-      "Eminence of Autumn"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1746,10 +1707,7 @@
       "Deadly +11",
       "Blue Augment Slot",
       "Green Augment Slot",
-      "Yellow Augment Slot",
-      "Eminence of Spring",
-      "Missile Deflection",
-      "Eminence of Summer"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -1763,9 +1721,7 @@
       "Quality Sheltering +9",
       "Blue Augment Slot",
       "Green Augment Slot",
-      "Yellow Augment Slot",
-      "Eminence of Summer",
-      "Eminence of Winter"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -1777,9 +1733,7 @@
       "Strength of Purpose",
       "Improved Quelling Strikes",
       "Insightful Magical Sheltering +16",
-      "Green Augment Slot",
-      "Eminence of Spring",
-      "Missile Deflection"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1795,8 +1749,7 @@
       "Insightful Seeker +6",
       "Quality Seeker +3",
       "Green Augment Slot",
-      "Blue Augment Slot",
-      "Tyrannical Tinkerer"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1812,8 +1765,7 @@
       "Resistance +11",
       "Fortification  +148%",
       "Blue Augment Slot",
-      "Yellow Augment Slot",
-      "Fastidious Fabricator"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -1901,8 +1853,7 @@
       "Resistance +8",
       "Web Immunity",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Epic Saltmarsh Explorer"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1916,8 +1867,7 @@
       "Physical Sheltering +24",
       "Use Magic Device +3",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Epic Saltmarsh Explorer"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1933,8 +1883,7 @@
       "Web Immunity",
       "Yellow Augment Slot",
       "Green Augment Slot",
-      "Blue Augment Slot",
-      "Legendary Saltmarsh Explorer"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1949,8 +1898,7 @@
       "Legendary Lightningstorm Guard",
       "Yellow Augment Slot",
       "Green Augment Slot",
-      "Blue Augment Slot",
-      "Legendary Might of the Abishai"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1961,8 +1909,7 @@
       "Rune Arm Focus +2",
       "Disable Device +6",
       "Open Lock +6",
-      "Blue Augment Slot",
-      "Saltmarsh Explorer"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1973,8 +1920,7 @@
       "Fire Lore +8%",
       "Combustion +53",
       "Web Immunity",
-      "Blue Augment Slot",
-      "Saltmarsh Explorer"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1988,8 +1934,7 @@
       "Physical Sheltering +34",
       "Use Magic Device +5",
       "Green Augment Slot",
-      "Yellow Augment Slot",
-      "Legendary Saltmarsh Explorer"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2002,8 +1947,7 @@
       "Speed +30%",
       "Electric Resistance +54",
       "Legendary Lightningstorm Guard",
-      "Yellow Augment Slot",
-      "Legendary Might of the Abishai"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2017,8 +1961,7 @@
       "Resistance +11",
       "Web Immunity",
       "Green Augment Slot",
-      "Yellow Augment Slot",
-      "Legendary Saltmarsh Explorer"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2031,8 +1974,7 @@
       "Competence Healing Amplification +54",
       "Natural Armor +13",
       "Yellow Augment Slot",
-      "Colorless Augment Slot",
-      "Legendary Vulkoor's Might"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2045,8 +1987,7 @@
       "Seeker +13",
       "Deception +11",
       "Yellow Augment Slot",
-      "Colorless Augment Slot",
-      "Legendary Raven's Eye"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2073,8 +2014,7 @@
       "Spearblock V",
       "Greater Thorn Guard",
       "Yellow Augment Slot",
-      "Green Augment Slot",
-      "The Legendary Desert's Starless Nights"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2101,8 +2041,7 @@
       "Accuracy +21",
       "Deception +11",
       "Yellow Augment Slot",
-      "Green Augment Slot",
-      "Legendary Vulkoor's Chosen"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2116,8 +2055,7 @@
       "Isle of Dread: Horn Slot (Accessory): Empty",
       "Blue Augment Slot",
       "Green Augment Slot",
-      "Yellow Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2130,8 +2068,7 @@
       "Will Save +12",
       "Isle of Dread: Scale Slot (Accessory): Empty",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2144,8 +2081,7 @@
       "Fortitude Save +12",
       "Isle of Dread: Scale Slot (Accessory): Empty",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2157,8 +2093,7 @@
       "Healing Lore +10%",
       "Devotion +66",
       "Vitality +15",
-      "Blue Augment Slot",
-      "The Dread Isle's Curse"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2171,8 +2106,7 @@
       "Vitality +47",
       "Isle of Dread: Scale Slot (Accessory): Empty",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2184,8 +2118,7 @@
       "Illusion Focus +2",
       "Wizardry +88",
       "Will Save +5",
-      "Blue Augment Slot",
-      "The Dread Isle's Curse"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2197,8 +2130,7 @@
       "Natural Armor +5",
       "Shield +5",
       "Fortitude Save +5",
-      "Blue Augment Slot",
-      "The Dread Isle's Curse"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2333,9 +2265,7 @@
       "Physical Sheltering +35",
       "Fortitude Save +12",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Battle-Scarred",
-      "Legendary Wrath of Sora Kell"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2348,9 +2278,7 @@
       "Physical Sheltering +35",
       "Fortitude Save +12",
       "Green Augment Slot",
-      "Yellow Augment Slot",
-      "Legendary Wrath of Sora Kell",
-      "Legendary Perfected Wrath"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2444,8 +2372,7 @@
       "Improved Deception",
       "Dexterity Skills - Exceptional Bonus +6",
       "Green Augment Slot",
-      "Yellow Augment Slot",
-      "Legendary Forbidden Knowledge"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2491,8 +2418,7 @@
       "Quality Reflex Save +2",
       "Speed +23%",
       "Physical Sheltering +17",
-      "Yellow Augment Slot",
-      "Moon Augment Slot"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2504,8 +2430,7 @@
       "Quality Fortitude Save +2",
       "Speed +23%",
       "Physical Sheltering +17",
-      "Yellow Augment Slot",
-      "Moon Augment Slot"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2518,8 +2443,7 @@
       "Speed +30%",
       "Physical Sheltering +37",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Moon Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2532,8 +2456,7 @@
       "Speed +30%",
       "Physical Sheltering +37",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Moon Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2545,8 +2468,7 @@
       "Quality Will Save +2",
       "Speed +23%",
       "Physical Sheltering +17",
-      "Yellow Augment Slot",
-      "Moon Augment Slot"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2559,8 +2481,7 @@
       "Speed +30%",
       "Physical Sheltering +37",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Moon Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2572,8 +2493,7 @@
       "Potency +30",
       "Spell Lore +3",
       "Spell Penetration +2",
-      "Yellow Augment Slot",
-      "Moon Augment Slot"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2586,8 +2506,7 @@
       "Spell Lore +13",
       "Spell Penetration +9",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Moon Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2601,8 +2520,7 @@
       "Sealed in Gloom",
       "Green Augment Slot",
       "Yellow Augment Slot",
-      "Blue Augment Slot",
-      "Moon Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2614,8 +2532,7 @@
       "Insightful Spell Penetration +2",
       "Undying +50",
       "Profane Lifeforce +12",
-      "Yellow Augment Slot",
-      "Moon Augment Slot"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2628,8 +2545,7 @@
       "Undying +195",
       "Profane Lifeforce +41",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Moon Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2641,8 +2557,7 @@
       "Insightful Corrosion +28",
       "Acid Lore +8%",
       "Insightful Spell Focus Mastery +1",
-      "Yellow Augment Slot",
-      "Moon Augment Slot"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2655,8 +2570,7 @@
       "Acid Lore +23%",
       "Insightful Spell Focus Mastery +3",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Moon Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2675,11 +2589,10 @@
     "enhancements": [
       "Reflex Save +13",
       "Quality Magical Sheltering +9",
-      "Lamordia: Melancholic Slot (Accessory): Empty",
-      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Accessory)",
+      "Lamordia: Dolorous Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Moon Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2689,10 +2602,9 @@
     "enhancements": [
       "Reflex Save +5",
       "Quality Magical Sheltering +2",
-      "Lamordia: Melancholic Slot (Accessory): Empty",
-      "Lamordia: Dolorous Slot (Accessory): Empty",
-      "Blue Augment Slot",
-      "Moon Augment Slot"
+      "Lamordia: Melancholic Slot (Accessory)",
+      "Lamordia: Dolorous Slot (Accessory)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2702,10 +2614,9 @@
     "enhancements": [
       "Transmutation Focus +2",
       "Insightful Spell Save +1",
-      "Lamordia: Melancholic Slot (Accessory): Empty",
-      "Lamordia: Dolorous Slot (Accessory): Empty",
-      "Blue Augment Slot",
-      "Moon Augment Slot"
+      "Lamordia: Melancholic Slot (Accessory)",
+      "Lamordia: Dolorous Slot (Accessory)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2715,11 +2626,10 @@
     "enhancements": [
       "Transmutation Focus +6",
       "Insightful Spell Save +5",
-      "Lamordia: Melancholic Slot (Accessory): Empty",
-      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Accessory)",
+      "Lamordia: Dolorous Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Moon Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2729,10 +2639,9 @@
     "enhancements": [
       "Improved Deception +10",
       "Quality Assassinate +1",
-      "Lamordia: Melancholic Slot (Accessory): Empty",
-      "Lamordia: Dolorous Slot (Accessory): Empty",
-      "Blue Augment Slot",
-      "Moon Augment Slot"
+      "Lamordia: Melancholic Slot (Accessory)",
+      "Lamordia: Dolorous Slot (Accessory)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2742,11 +2651,10 @@
     "enhancements": [
       "Improved Deception +22",
       "Quality Assassinate +4",
-      "Lamordia: Melancholic Slot (Accessory): Empty",
-      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Accessory)",
+      "Lamordia: Dolorous Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Moon Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2756,10 +2664,9 @@
     "enhancements": [
       "Temperance of Belief",
       "Strength of Purpose",
-      "Lamordia: Melancholic Slot (Accessory): Empty",
-      "Lamordia: Dolorous Slot (Accessory): Empty",
-      "Yellow Augment Slot",
-      "Moon Augment Slot"
+      "Lamordia: Melancholic Slot (Accessory)",
+      "Lamordia: Dolorous Slot (Accessory)",
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2769,11 +2676,10 @@
     "enhancements": [
       "Temperance of Belief",
       "Strength of Purpose",
-      "Lamordia: Melancholic Slot (Accessory): Empty",
-      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Accessory)",
+      "Lamordia: Dolorous Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Moon Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2783,10 +2689,9 @@
     "enhancements": [
       "Speed +18%",
       "Deception +3",
-      "Lamordia: Melancholic Slot (Accessory): Empty",
-      "Lamordia: Dolorous Slot (Accessory): Empty",
-      "Blue Augment Slot",
-      "Moon Augment Slot"
+      "Lamordia: Melancholic Slot (Accessory)",
+      "Lamordia: Dolorous Slot (Accessory)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2796,11 +2701,10 @@
     "enhancements": [
       "Speed +30%",
       "Deception +12",
-      "Lamordia: Melancholic Slot (Accessory): Empty",
-      "Lamordia: Dolorous Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Accessory)",
+      "Lamordia: Dolorous Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Moon Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2808,15 +2712,12 @@
     "link": "https://ddowiki.com/page/Item:The_Cruel_Hands_of_Fate",
     "minLevel": "34",
     "enhancements": [
-      "Lamordia: Melancholic Slot (Accessory): Empty",
-      "Lamordia: Dolorous Slot (Accessory): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Accessory)",
+      "Lamordia: Dolorous Slot (Accessory)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Lamordia: Woeful Slot (Accessory)",
       "Green Augment Slot",
-      "Yellow Augment Slot",
-      "Moon Augment Slot",
-      "Ability",
-      "Skills"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2828,8 +2729,7 @@
       "Insightful Deception +1",
       "Improved Deception +10",
       "Blood Rage",
-      "Yellow Augment Slot",
-      "Moon Augment Slot"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2842,8 +2742,32 @@
       "Improved Deception +22",
       "Enhanced Bloodrage",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Moon Augment Slot"
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Jetscale Gauntlets",
+    "link": "https://ddowiki.com/page/Item:Jetscale_Gauntlets",
+    "minLevel": "10",
+    "enhancements": [
+      "Corrosion +77",
+      "Insightful Physical Sheltering +6",
+      "Will Save +6",
+      "Insightful False Life +10",
+      "Yellow Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Jetscale Gauntlets",
+    "link": "https://ddowiki.com/page/Item:Legendary_Jetscale_Gauntlets",
+    "minLevel": "34",
+    "enhancements": [
+      "Corrosion +159",
+      "Insightful Physical Sheltering +18",
+      "Will Save +13",
+      "Insightful False Life +28",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
     ]
   }
 ]

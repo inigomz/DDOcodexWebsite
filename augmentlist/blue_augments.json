@@ -1,0 +1,2365 @@
+[
+  {
+    "name": "Sapphire of Armored Agility +1",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Armored_Agility_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "1 Enhancement bonus to the Max Dex Bonus"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point"
+    ]
+  },
+  {
+    "name": "Sapphire of Armored Agility +2",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Armored_Agility_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "2 Enhancement bonus to the Max Dex Bonus"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Golem's Heart",
+    "link": "https://ddowiki.com/page/Item:Golem%27s_Heart",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "2% chance on your being hit to heal you for 20 to 120 Hit Points and deal 50 to 300 Electric damage to your surrounding enemies"
+    ],
+    "sourceRaw": [
+      "A Study in Sable, Elite or higher end chest or Wollstonecraft's optional chest (unconfirmed)"
+    ]
+  },
+  {
+    "name": "Crystallized Unicorn Tear",
+    "link": "https://ddowiki.com/page/Item:Crystallized_Unicorn_Tear",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "5% chance to gain 150 temporary hit points when you are hit."
+    ],
+    "sourceRaw": [
+      "One Dame Thing After Another, end chest"
+    ]
+  },
+  {
+    "name": "Sapphire of Accuracy +10",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Accuracy_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Accuracy +10"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Accuracy +12",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Accuracy_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Accuracy +12"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (28) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Energizing Alloy (1) Stabilizing Compound (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Accuracy +15",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Accuracy_%2B15",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Accuracy +15"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Randall Lyric (Eveningstar), (32) Item:Astral Shard",
+      "Randall Lyric (Eveningstar), (15) Item:Commendation: Druids of the King's Forest (15) Item:Commendation: Druids of the King's Forest (2000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Accuracy +17",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Accuracy_%2B17",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Accuracy +17"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Ball and Chain Tavern), (36) Item:Astral Shard",
+      "Randall Lyric (The Ball and Chain Tavern), (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Accuracy +20",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Accuracy_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Accuracy +20"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Wynwood Hall), (40) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Legendary Chunk of Ferrocrystal (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Accuracy +22",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Accuracy_%2B22",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Accuracy +22"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Sapphire of Accuracy +2",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Accuracy_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Accuracy +2"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (12) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Quartermaster's Chit (300) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Accuracy +5",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Accuracy_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Accuracy +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (Wynwood Hall), (16) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Chunk of Ferrocrystal (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Accuracy +8",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Accuracy_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Accuracy +8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Randall Lyric (Village of Tanaroa), (20) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (500) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Healing Amplification +11",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Healing_Amplification_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Competence Healing Amplification +11"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (Wynwood Hall), (16) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Chunk of Ferrocrystal (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Healing Amplification +18",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Healing_Amplification_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Competence Healing Amplification +18"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Randall Lyric (Village of Tanaroa), (20) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (500) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Healing Amplification +24",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Healing_Amplification_%2B24",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Competence Healing Amplification +24"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Healing Amplification +31",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Healing_Amplification_%2B31",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Competence Healing Amplification +31"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (28) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Dampening Alloy (1) Stabilizing Compound (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Healing Amplification +37",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Healing_Amplification_%2B37",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Competence Healing Amplification +37"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Randall Lyric (Eveningstar), (32) Item:Astral Shard",
+      "Randall Lyric (Eveningstar), (15) Item:Commendation: War Wizards (15) Item:Commendation: Purple Dragon Knights (2000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Healing Amplification +3",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Healing_Amplification_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Competence Healing Amplification +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (12) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Quartermaster's Chit (300) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Healing Amplification +44",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Healing_Amplification_%2B44",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Competence Healing Amplification +44"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Ball and Chain Tavern), (36) Item:Astral Shard",
+      "Randall Lyric (The Ball and Chain Tavern), (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Healing Amplification +50",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Healing_Amplification_%2B50",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Competence Healing Amplification +50"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Wynwood Hall), (40) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Legendary Chunk of Ferrocrystal (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Healing Amplification +57",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Healing_Amplification_%2B57",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Competence Healing Amplification +57"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Sapphire of Crushing Wave Guard",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Crushing_Wave_Guard",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Crushing Wave Guard"
+    ],
+    "sourceRaw": [
+      "Old Tomb, New Tenants, end chest"
+    ]
+  },
+  {
+    "name": "Sapphire of Dodge +1%",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B1%25",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dodge +1%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (12) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Quartermaster's Chit (300) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Dodge +11%",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B11%25",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dodge +11%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Ball and Chain Tavern), (36) Item:Astral Shard",
+      "Randall Lyric (The Ball and Chain Tavern), (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Dodge +12%",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B12%25",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dodge +12%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Blue Water Inn), (40) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (60) Item:Vistani Totem (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Dodge +14%",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B14%25",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dodge +14%"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Morgrave University - Upper Commons), (44) Item:Astral Shard",
+      "Randall Lyric (Morgrave University - Upper Commons), (20) Item:Legendary Esoteric Relic (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Dodge +3%",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B3%25",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dodge +3%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (Wynwood Hall), (16) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Chunk of Ferrocrystal (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Dodge +5%",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B5%25",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dodge +5%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Randall Lyric (Village of Tanaroa), (20) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (500) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Dodge +6%",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B6%25",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dodge +6%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Dodge +8%",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B8%25",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dodge +8%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (28) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Dampening Alloy (1) Caustic Compound (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Dodge +9%",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B9%25",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Dodge +9%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Randall Lyric (Eveningstar), (32) Item:Astral Shard",
+      "Randall Lyric (Eveningstar), (15) Item:Commendation: Villagers of Eveningstar (15) Item:Commendation: Clerics of Amaunator (2000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "How To Cast Faster",
+    "link": "https://ddowiki.com/page/Item:How_To_Cast_Faster",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Efficient Metamagic - Quicken III"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "How To Cast Fast",
+    "link": "https://ddowiki.com/page/Item:How_To_Cast_Fast",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Efficient Metamagic - Quicken I"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Sapphire of False Life +12",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_False_Life_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "False Life +12"
+    ],
+    "sourceRaw": [
+      "Clarice Roden, The Marketplace (8) Item:Astral Shard",
+      "Clarice Roden, Random level 4 Sapphire Augment (30) Item:Cryptmoss Worm Larva (10) Item:Cryptmoss Worm (5) Item:Cryptmoss Queen",
+      "DDO Store, (50) DDO Point",
+      "Loura Jotun, The Marketplace Bazaar (8) Item:Astral Shard",
+      "Loura Jotun, Random level 4 Sapphire Augment (30) Item:Withered Cryptmoss (10) Item:Cryptmoss (5) Item:Lush Cryptmoss"
+    ]
+  },
+  {
+    "name": "Sapphire of False Life +18",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_False_Life_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "False Life +18"
+    ],
+    "sourceRaw": [
+      "Chirugeon Laj'Amal, House Deneith (12) Item:Astral Shard",
+      "Chirugeon Laj'Amal, Random level 8 Sapphire Augment (30) Item:Bruised Spore Pod (10) Item:Intact Spore Pod (5) Item:Flowering Spore Pod",
+      "DDO Store, (75) DDO Point",
+      "Seld the Gray Sister, House Phiarlan (12) Item:Astral Shard",
+      "Seld the Gray Sister, Random level 8 Sapphire Augment (30) Item:Runic Parchment (10) Item:House-Sealed Letter (5) Item:Tome: History of the Houses",
+      "Verisgante, House Jorasco (12) Item:Astral Shard",
+      "Verisgante, Random level 8 Sapphire Augment (30) Item:Amulet of the Lost Empire (10) Item:Amulet of the Six (5) Item:Amulet of the Archbishop"
+    ]
+  },
+  {
+    "name": "Sapphire of False Life +24",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_False_Life_%2B24",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "False Life +24"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Sapphire of False Life +30",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_False_Life_%2B30",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "False Life +30"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Sapphire of False Life +36",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_False_Life_%2B36",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "False Life +36"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Sapphire of False Life +42",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_False_Life_%2B42",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "False Life +42"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Sapphire of False Life +48",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_False_Life_%2B48",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "False Life +48"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (40) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Legendary Quartermaster's Chit (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of False Life +4",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_False_Life_%2B4",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "False Life +4"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Wash Pynoptis, The Harbor (4) Item:Astral Shard",
+      "Wash Pynoptis, Random level 1 Sapphire Augment (30) Item:Amber Vial (10) Item:Vial of Pure Water (5) Item:Vial of Contagion"
+    ]
+  },
+  {
+    "name": "Sapphire of False Life +54",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_False_Life_%2B54",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "False Life +54"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Village of Tanaroa), (44) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Heavy Fortification",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Heavy_Fortification",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Fortification +100%"
+    ],
+    "sourceRaw": [
+      "Chirugeon Laj'Amal, House Deneith (12) Item:Astral Shard",
+      "Chirugeon Laj'Amal, Random level 8 Sapphire Augment",
+      "DDO Store, (75) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve",
+      "Seld the Gray Sister, House Phiarlan (12) Item:Astral Shard",
+      "Seld the Gray Sister, Random level 8 Sapphire Augment (30) Item:Runic Parchment (10) Item:House-Sealed Letter (5) Item:Tome: History of the Houses",
+      "Verisgante, House Jorasco (12) Item:Astral Shard",
+      "Verisgante, Random level 8 Sapphire Augment (30) Item:Amulet of the Lost Empire (10) Item:Amulet of the Six (5) Item:Amulet of the Archbishop"
+    ]
+  },
+  {
+    "name": "Sapphire of Light Fortification",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Light_Fortification",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Fortification +25%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Wash Pynoptis, The Harbor (4) Item:Astral Shard",
+      "Wash Pynoptis, Random level 1 Sapphire Augment (30) Item:Amber Vial (10) Item:Vial of Pure Water (5) Item:Vial of Contagion"
+    ]
+  },
+  {
+    "name": "Sapphire of Moderate Fortification",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Moderate_Fortification",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Fortification +75%"
+    ],
+    "sourceRaw": [
+      "Clarice Roden, The Marketplace (8) Item:Astral Shard",
+      "Clarice Roden, Random level 4 Sapphire Augment (30) Item:Cryptmoss Worm Larva (10) Item:Cryptmoss Worm (5) Item:Cryptmoss Queen",
+      "DDO Store, (50) DDO Point",
+      "Loura Jotun, The Marketplace Bazaar (8) Item:Astral Shard",
+      "Loura Jotun, Random level 4 Sapphire Augment (30) Item:Withered Cryptmoss (10) Item:Cryptmoss (5) Item:Lush Cryptmoss"
+    ]
+  },
+  {
+    "name": "The Legendary Book of Defense: Fortitude",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Book_of_Defense:_Fortitude",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Fortitude Save +12"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "The Book of Defense: Fortitude",
+    "link": "https://ddowiki.com/page/Item:The_Book_of_Defense:_Fortitude",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Fortitude Save +8"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Sapphire of Good Luck +1 (named)",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Good_Luck_%2B1_(named)",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Good Luck +1"
+    ],
+    "sourceRaw": [
+      "The Haunting of Saltmarsh, end chest"
+    ]
+  },
+  {
+    "name": "Sapphire of Good Luck +1",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Good_Luck_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Good Luck +1"
+    ],
+    "sourceRaw": [
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic",
+      "DDO Store, (95) DDO Point"
+    ]
+  },
+  {
+    "name": "Sapphire of Good Luck +2",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Good_Luck_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Good Luck +2"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Sapphire of Good Luck +3",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Good_Luck_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Good Luck +3"
+    ],
+    "sourceRaw": [
+      "The Haunting of Saltmarsh, end chest"
+    ]
+  },
+  {
+    "name": "Sapphire of Greater Heroism",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Greater_Heroism",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Greater Heroism"
+    ],
+    "sourceRaw": [
+      "Immortality Lessons, end chest"
+    ]
+  },
+  {
+    "name": "Sapphire of Heroism",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Heroism",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 6,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Heroism"
+    ],
+    "sourceRaw": [
+      "Immortality Lessons, end chest"
+    ]
+  },
+  {
+    "name": "Sapphire of Natural Armor +11",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Natural_Armor_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Natural Armor +11"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Sapphire of Natural Armor +12",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Natural_Armor_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Natural Armor +12"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (40) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Legendary Quartermaster's Chit (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Natural Armor +14",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Natural_Armor_%2B14",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Natural Armor +14"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Village of Tanaroa), (44) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Natural Armor +1",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Natural_Armor_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Natural Armor +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Wash Pynoptis, The Harbor (4) Item:Astral Shard",
+      "Wash Pynoptis, Random level 1 Sapphire Augment (30) Item:Amber Vial (10) Item:Vial of Pure Water (5) Item:Vial of Contagion"
+    ]
+  },
+  {
+    "name": "Sapphire of Natural Armor +3",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Natural_Armor_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Natural Armor +3"
+    ],
+    "sourceRaw": [
+      "Clarice Roden, The Marketplace (8) Item:Astral Shard",
+      "Clarice Roden, Random level 4 Sapphire Augment (30) Item:Cryptmoss Worm Larva (10) Item:Cryptmoss Worm (5) Item:Cryptmoss Queen",
+      "DDO Store, (50) DDO Point",
+      "Loura Jotun, The Marketplace Bazaar (8) Item:Astral Shard",
+      "Loura Jotun, Random level 4 Sapphire Augment (30) Item:Withered Cryptmoss (10) Item:Cryptmoss (5) Item:Lush Cryptmoss"
+    ]
+  },
+  {
+    "name": "Sapphire of Natural Armor +5",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Natural_Armor_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Natural Armor +5"
+    ],
+    "sourceRaw": [
+      "Chirugeon Laj'Amal, House Deneith (12) Item:Astral Shard",
+      "Chirugeon Laj'Amal, Random level 8 Sapphire Augment (30) Item:Bruised Spore Pod (10) Item:Intact Spore Pod (5) Item:Flowering Spore Pod",
+      "DDO Store, (75) DDO Point",
+      "Seld the Gray Sister, House Phiarlan (12) Item:Astral Shard",
+      "Seld the Gray Sister, Random level 8 Sapphire Augment (30) Item:Runic Parchment (10) Item:House-Sealed Letter (5) Item:Tome: History of the Houses",
+      "Verisgante, House Jorasco (12) Item:Astral Shard",
+      "Verisgante, Random level 8 Sapphire Augment (30) Item:Amulet of the Lost Empire (10) Item:Amulet of the Six (5) Item:Amulet of the Archbishop"
+    ]
+  },
+  {
+    "name": "Sapphire of Natural Armor +6",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Natural_Armor_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Natural Armor +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Sapphire of Natural Armor +8",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Natural_Armor_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Natural Armor +8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Sapphire of Natural Armor +9",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Natural_Armor_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Natural Armor +9"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Sapphire of Negative Amplification +11",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Negative_Amplification_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Profane Negative Amplification +11"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (Wynwood Hall), (16) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Chunk of Ferrocrystal (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Negative Amplification +18",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Negative_Amplification_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Profane Negative Amplification +18"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Randall Lyric (Village of Tanaroa), (20) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (500) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Negative Amplification +24",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Negative_Amplification_%2B24",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Profane Negative Amplification +24"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Negative Amplification +31",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Negative_Amplification_%2B31",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Profane Negative Amplification +31"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (28) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Energizing Alloy (1) Caustic Compound (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Negative Amplification +37",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Negative_Amplification_%2B37",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Profane Negative Amplification +37"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Randall Lyric (Eveningstar), (32) Item:Astral Shard",
+      "Randall Lyric (Eveningstar), (15) Item:Commendation: Clerics of Amaunator (15) Item:Commendation: Druids of the King's Forest (2000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Negative Amplification +3",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Negative_Amplification_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Profane Negative Amplification +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (12) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Quartermaster's Chit (300) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Negative Amplification +44",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Negative_Amplification_%2B44",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Profane Negative Amplification +44"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Ball and Chain Tavern), (36) Item:Astral Shard",
+      "Randall Lyric (The Ball and Chain Tavern), (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Negative Amplification +50",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Negative_Amplification_%2B50",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Profane Negative Amplification +50"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (40) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Legendary Quartermaster's Chit (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Negative Amplification +57",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Negative_Amplification_%2B57",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Profane Negative Amplification +57"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Village of Tanaroa), (44) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Protection +10",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Protection_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Protection +10"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Wynwood Hall), (40) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Legendary Chunk of Ferrocrystal (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Protection +11",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Protection_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Protection +11"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Sapphire of Protection +1",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Protection_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Protection +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Wash Pynoptis, The Harbor (4) Item:Astral Shard",
+      "Wash Pynoptis, Random level 1 Sapphire Augment (30) Item:Amber Vial (10) Item:Vial of Pure Water (5) Item:Vial of Contagion"
+    ]
+  },
+  {
+    "name": "Sapphire of Protection +3",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Protection_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Protection +3"
+    ],
+    "sourceRaw": [
+      "Clarice Roden, The Marketplace (8) Item:Astral Shard",
+      "Clarice Roden, Random level 4 Sapphire Augment (30) Item:Cryptmoss Worm Larva (10) Item:Cryptmoss Worm (5) Item:Cryptmoss Queen",
+      "DDO Store, (50) DDO Point",
+      "Loura Jotun, The Marketplace Bazaar (8) Item:Astral Shard",
+      "Loura Jotun, Random level 4 Sapphire Augment (30) Item:Withered Cryptmoss (10) Item:Cryptmoss (5) Item:Lush Cryptmoss"
+    ]
+  },
+  {
+    "name": "Sapphire of Protection +4",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Protection_%2B4",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Protection +4"
+    ],
+    "sourceRaw": [
+      "Chirugeon Laj'Amal, House Deneith (12) Item:Astral Shard",
+      "Chirugeon Laj'Amal, Random level 8 Sapphire Augment (30) Item:Bruised Spore Pod (10) Item:Intact Spore Pod (5) Item:Flowering Spore Pod",
+      "DDO Store, (75) DDO Point",
+      "Seld the Gray Sister, House Phiarlan (12) Item:Astral Shard",
+      "Seld the Gray Sister, Random level 8 Sapphire Augment (30) Item:Runic Parchment (10) Item:House-Sealed Letter (5) Item:Tome: History of the Houses",
+      "Verisgante, House Jorasco (12) Item:Astral Shard",
+      "Verisgante, Random level 8 Sapphire Augment (30) Item:Amulet of the Lost Empire (10) Item:Amulet of the Six (5) Item:Amulet of the Archbishop"
+    ]
+  },
+  {
+    "name": "Sapphire of Protection +5",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Protection_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Protection +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Sapphire of Protection +6",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Protection_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Protection +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Sapphire of Protection +8",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Protection_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Protection +8"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Sapphire of Protection +9",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Protection_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Protection +9"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "The Legendary Book of Defense: Reflexes",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Book_of_Defense:_Reflexes",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Reflex Save +12"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "The Book of Defense: Reflexes",
+    "link": "https://ddowiki.com/page/Item:The_Book_of_Defense:_Reflexes",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Reflex Save +8"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Sapphire of Repair Amplification +11",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Repair_Amplification_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair Amplification +11"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (Wynwood Hall), (16) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Chunk of Ferrocrystal (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Repair Amplification +18",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Repair_Amplification_%2B18",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair Amplification +18"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Randall Lyric (Village of Tanaroa), (20) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (500) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Repair Amplification +24",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Repair_Amplification_%2B24",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair Amplification +24"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Repair Amplification +31",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Repair_Amplification_%2B31",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair Amplification +31"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (28) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Energizing Alloy (1) Stabilizing Compound (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Repair Amplification +37",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Repair_Amplification_%2B37",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair Amplification +37"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Randall Lyric (Eveningstar), (32) Item:Astral Shard",
+      "Randall Lyric (Eveningstar), (15) Item:Commendation: Purple Dragon Knights (15) Item:Commendation: Villagers of Eveningstar (2000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Repair Amplification +3",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Repair_Amplification_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair Amplification +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (12) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Quartermaster's Chit (300) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Repair Amplification +44",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Repair_Amplification_%2B44",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair Amplification +44"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Ball and Chain Tavern), (36) Item:Astral Shard",
+      "Randall Lyric (The Ball and Chain Tavern), (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Repair Amplification +50",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Repair_Amplification_%2B50",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair Amplification +50"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (40) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Dampening Alloy (1) Caustic Compound (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Repair Amplification +57",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Repair_Amplification_%2B57",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Repair Amplification +57"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Sapphire of Resistance +10",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resistance +10"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Blue Water Inn), (40) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (60) Item:Vistani Totem (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Resistance +11",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resistance +11"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Morgrave University - Upper Commons), (44) Item:Astral Shard",
+      "Randall Lyric (Morgrave University - Upper Commons), (20) Item:Legendary Esoteric Relic (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Resistance +1",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resistance +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant",
+      "Wash Pynoptis, The Harbor (4) Item:Astral Shard",
+      "Wash Pynoptis, Random level 1 Sapphire Augment (30) Item:Amber Vial (10) Item:Vial of Pure Water (5) Item:Vial of Contagion"
+    ]
+  },
+  {
+    "name": "Sapphire of Resistance +3",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resistance +3"
+    ],
+    "sourceRaw": [
+      "Clarice Roden, The Marketplace (8) Item:Astral Shard",
+      "Clarice Roden, Random level 4 Sapphire Augment (30) Item:Cryptmoss Worm Larva (10) Item:Cryptmoss Worm (5) Item:Cryptmoss Queen",
+      "DDO Store, (50) DDO Point",
+      "Loura Jotun, The Marketplace Bazaar (8) Item:Astral Shard",
+      "Loura Jotun, Random level 4 Sapphire Augment (30) Item:Withered Cryptmoss (10) Item:Cryptmoss (5) Item:Lush Cryptmoss",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Resistance +4",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B4",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resistance +4"
+    ],
+    "sourceRaw": [
+      "Chirugeon Laj'Amal, House Deneith (12) Item:Astral Shard",
+      "Chirugeon Laj'Amal, Random level 8 Sapphire Augment",
+      "DDO Store, (75) DDO Point",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant",
+      "Seld the Gray Sister, House Phiarlan (12) Item:Astral Shard",
+      "Seld the Gray Sister, Random level 8 Sapphire Augment (30) Item:Runic Parchment (10) Item:House-Sealed Letter (5) Item:Tome: History of the Houses",
+      "Verisgante, House Jorasco (12) Item:Astral Shard",
+      "Verisgante, Random level 8 Sapphire Augment (30) Item:Amulet of the Lost Empire (10) Item:Amulet of the Six (5) Item:Amulet of the Archbishop"
+    ]
+  },
+  {
+    "name": "Sapphire of Resistance +5",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resistance +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Sapphire of Resistance +6",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resistance +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Resistance +8",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resistance +8"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Resistance +9",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resistance +9"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Sapphire of Riposte",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Riposte",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Riposte +2"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Legendary Sapphire of Riposte",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sapphire_of_Riposte",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Riposte +6"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Sapphire of Shatter +11",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Shatter_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shatter +11"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Randall Lyric (Eveningstar), (32) Item:Astral Shard",
+      "Randall Lyric (Eveningstar), (15) Item:Commendation: Purple Dragon Knights (15) Item:Commendation: Villagers of Eveningstar (2000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Shatter +12",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Shatter_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shatter +12"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Ball and Chain Tavern), (36) Item:Astral Shard",
+      "Randall Lyric (The Ball and Chain Tavern), (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Shatter +14",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Shatter_%2B14",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shatter +14"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (40) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Energizing Alloy (1) Stabilizing Compound (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Shatter +16",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Shatter_%2B16",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shatter +16"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Sapphire of Shatter +2",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Shatter_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shatter +2"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (12) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Quartermaster's Chit (300) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Shatter +4",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Shatter_%2B4",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shatter +4"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (Wynwood Hall), (16) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Chunk of Ferrocrystal (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Shatter +6",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Shatter_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shatter +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Randall Lyric (Village of Tanaroa), (20) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (500) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Shatter +7",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Shatter_%2B7",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shatter +7"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Shatter +9",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Shatter_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shatter +9"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (28) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Energizing Alloy (1) Caustic Compound (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Defense +12",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Defense_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sheltering +12"
+    ],
+    "sourceRaw": [
+      "Chirugeon Laj'Amal, House Deneith (12) Item:Astral Shard",
+      "Chirugeon Laj'Amal, Random level 8 Sapphire Augment",
+      "DDO Store, (75) DDO Point",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant",
+      "Seld the Gray Sister, House Phiarlan (12) Item:Astral Shard",
+      "Seld the Gray Sister, Random level 8 Sapphire Augment (30) Item:Runic Parchment (10) Item:House-Sealed Letter (5) Item:Tome: History of the Houses",
+      "Verisgante, House Jorasco (12) Item:Astral Shard",
+      "Verisgante, Random level 8 Sapphire Augment (30) Item:Amulet of the Lost Empire (10) Item:Amulet of the Six (5) Item:Amulet of the Archbishop"
+    ]
+  },
+  {
+    "name": "Sapphire of Defense +16",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Defense_%2B16",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sheltering +16"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Sapphire of Defense +20",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Defense_%2B20",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sheltering +20"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Defense +24",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Defense_%2B24",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sheltering +24"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Defense +28",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Defense_%2B28",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sheltering +28"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Sapphire of Defense +32",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Defense_%2B32",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sheltering +32"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (40) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Energizing Alloy (1) Caustic Compound (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Defense +36",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Defense_%2B36",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sheltering +36"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Sapphire of Defense +3",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Defense_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sheltering +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant",
+      "Wash Pynoptis, The Harbor (4) Item:Astral Shard",
+      "Wash Pynoptis, Random level 1 Sapphire Augment (30) Item:Amber Vial (10) Item:Vial of Pure Water (5) Item:Vial of Contagion"
+    ]
+  },
+  {
+    "name": "Sapphire of Defense +8",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Defense_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sheltering +8"
+    ],
+    "sourceRaw": [
+      "Clarice Roden, The Marketplace (8) Item:Astral Shard",
+      "Clarice Roden, Random level 4 Sapphire Augment (30) Item:Cryptmoss Worm Larva (10) Item:Cryptmoss Worm (5) Item:Cryptmoss Queen",
+      "DDO Store, (50) DDO Point",
+      "Loura Jotun, The Marketplace Bazaar (8) Item:Astral Shard",
+      "Loura Jotun, Random level 4 Sapphire Augment (30) Item:Withered Cryptmoss (10) Item:Cryptmoss (5) Item:Lush Cryptmoss",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Snowpeaks Speed",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Snowpeaks_Speed",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Striding +30%"
+    ],
+    "sourceRaw": [
+      "Flurry (NPC), Snowpeaks Festival event craftable augment (20) Item:Gold Snowpeaks Coin (100) Item:Silver Snowpeaks Coin",
+      "Snowpeaks Festival,"
+    ]
+  },
+  {
+    "name": "Sapphire of Stunning +11",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Stunning +11"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Randall Lyric (Eveningstar), (32) Item:Astral Shard",
+      "Randall Lyric (Eveningstar), (15) Item:Commendation: Purple Dragon Knights (15) Item:Commendation: War Wizards (2000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Stunning +12",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Stunning +12"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Ball and Chain Tavern), (36) Item:Astral Shard",
+      "Randall Lyric (The Ball and Chain Tavern), (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Stunning +14",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B14",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Stunning +14"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Wynwood Hall), (40) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Legendary Chunk of Ferrocrystal (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Stunning +16",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B16",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Stunning +16"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Sapphire of Stunning +2",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Stunning +2"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (12) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Quartermaster's Chit (300) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Stunning +4",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B4",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Stunning +4"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (Wynwood Hall), (16) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Chunk of Ferrocrystal (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Stunning +6",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Stunning +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Randall Lyric (Village of Tanaroa), (20) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (500) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Stunning +7",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B7",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Stunning +7"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Stunning +9",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Stunning +9"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (28) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Dampening Alloy (1) Caustic Compound (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Legendary Undying Sapphire",
+    "link": "https://ddowiki.com/page/Item:Legendary_Undying_Sapphire",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Undying +225"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Undying Sapphire",
+    "link": "https://ddowiki.com/page/Item:Undying_Sapphire",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Undying +65"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Sapphire of Vertigo +11",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Vertigo_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Vertigo +11"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Randall Lyric (Eveningstar), (32) Item:Astral Shard",
+      "Randall Lyric (Eveningstar), (15) Item:Commendation: Clerics of Amaunator (15) Item:Commendation: Druids of the King's Forest (2000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Vertigo +12",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Vertigo_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Vertigo +12"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Ball and Chain Tavern), (36) Item:Astral Shard",
+      "Randall Lyric (The Ball and Chain Tavern), (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Vertigo +14",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Vertigo_%2B14",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Vertigo +14"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Blue Water Inn), (40) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (60) Item:Vistani Totem (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Vertigo +16",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Vertigo_%2B16",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Vertigo +16"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Morgrave University - Upper Commons), (44) Item:Astral Shard",
+      "Randall Lyric (Morgrave University - Upper Commons), (20) Item:Legendary Esoteric Relic (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Vertigo +2",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Vertigo_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Vertigo +2"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (12) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Quartermaster's Chit (300) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Vertigo +4",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Vertigo_%2B4",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Vertigo +4"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (Wynwood Hall), (16) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Chunk of Ferrocrystal (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Vertigo +6",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Vertigo_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Vertigo +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Randall Lyric (Village of Tanaroa), (20) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (500) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Vertigo +7",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Vertigo_%2B7",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Vertigo +7"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Sapphire of Vertigo +9",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Vertigo_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Vertigo +9"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (28) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Dampening Alloy (1) Stabilizing Compound (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "The Legendary Book of Defense: Willpower",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Book_of_Defense:_Willpower",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Will Save +12"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "The Book of Defense: Willpower",
+    "link": "https://ddowiki.com/page/Item:The_Book_of_Defense:_Willpower",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Will Save +8"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Essence of The Masque",
+    "link": "https://ddowiki.com/page/Item:Essence_of_The_Masque",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Soundproof"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:The Masque"
+    ]
+  },
+  {
+    "name": "Essence of the Champion of the Twins",
+    "link": "https://ddowiki.com/page/Item:Essence_of_the_Champion_of_the_Twins",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Healers Bounty"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Champion of the Twins"
+    ]
+  },
+  {
+    "name": "Silvertongue Sapphire",
+    "link": "https://ddowiki.com/page/Item:Silvertongue_Sapphire",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Linguistics 10%"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Legendary Silvertongue Sapphire",
+    "link": "https://ddowiki.com/page/Item:Legendary_Silvertongue_Sapphire",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Linguistics 15%"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Sapphire of Spell Agility +5%",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Spell_Agility_%2B5%25",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Lesser Arcane Casting Dexterity"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point"
+    ]
+  },
+  {
+    "name": "Sapphire of Spell Agility +10%",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Spell_Agility_%2B10%25",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Arcane Casting Dexterity"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point"
+    ]
+  },
+  {
+    "name": "Sapphire of Spell Agility +15%",
+    "link": "https://ddowiki.com/page/Item:Sapphire_of_Spell_Agility_%2B15%25",
+    "itemType": "augment",
+    "augmentColor": "Blue",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Greater Arcane Casting Dexterity"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  }
+]

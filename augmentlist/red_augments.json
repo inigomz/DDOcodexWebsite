@@ -1,0 +1,3017 @@
+[
+  {
+    "name": "Ruby of the Snowpeaks",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_the_Snowpeaks",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "1 to 8 Cold Damage",
+      "Freezing Ice"
+    ],
+    "sourceRaw": [
+      "Flurry (NPC), Snowpeaks Festival event craftable augment (20) Item:Gold Snowpeaks Coin (100) Item:Silver Snowpeaks Coin",
+      "Snowpeaks Festival,"
+    ]
+  },
+  {
+    "name": "Ruby Eye of Erosion",
+    "link": "https://ddowiki.com/page/Item:Ruby_Eye_of_Erosion",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "2% Chance On Hit to cause a blast of acid to corrode your target, dealing 3 to 18 damage per Minimum Level of the weapon to all nearby enemies"
+    ],
+    "sourceRaw": [
+      "DDO Store, (395) DDO Point",
+      "Fire on Thunder Peak, raid end chest",
+      "Temple of the Deathwyrm, raid end chest",
+      "The Haunted Halls of Eveningstar, quest end chest and optional dragon chest"
+    ]
+  },
+  {
+    "name": "Ruby Eye of the Inferno",
+    "link": "https://ddowiki.com/page/Item:Ruby_Eye_of_the_Inferno",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "2% Chance On Hit to cause a blast of flame to scorch your target, dealing 4 to 16 damage per Minimum Level of the weapon to all nearby enemies"
+    ],
+    "sourceRaw": [
+      "Anniversary Card Collection, Anniversary Card Collection event craftable augment (1) Card II: Achaierai (1) Card X: Tiamat",
+      "DDO Store, (395) DDO Point",
+      "Fire on Thunder Peak, raid end chest",
+      "Temple of the Deathwyrm, raid end chest",
+      "The Haunted Halls of Eveningstar, quest end chest and optional dragon chest"
+    ]
+  },
+  {
+    "name": "Ruby Eye of Righteousness",
+    "link": "https://ddowiki.com/page/Item:Ruby_Eye_of_Righteousness",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "2% Chance On Hit to cause a blast of holy energy to smite your target, dealing 3 to 12 good damage per Minimum Level of the weapon to all nearby enemies"
+    ],
+    "sourceRaw": [
+      "DDO Store, (395) DDO Point",
+      "Fire on Thunder Peak, raid end chest",
+      "Temple of the Deathwyrm, raid end chest",
+      "The Haunted Halls of Eveningstar, quest end chest and optional dragon chest"
+    ]
+  },
+  {
+    "name": "Ruby Eye of the Tempest",
+    "link": "https://ddowiki.com/page/Item:Ruby_Eye_of_the_Tempest",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "2% Chance On Hit to cause a bolt of lightning to strike your target, dealing 1 to 20 electricity damage per Minimum Level of the weapon to all nearby enemies"
+    ],
+    "sourceRaw": [
+      "DDO Store, (395) DDO Point",
+      "Fire on Thunder Peak, raid end chest",
+      "Temple of the Deathwyrm, raid end chest",
+      "The Haunted Halls of Eveningstar, quest end chest and optional dragon chest"
+    ]
+  },
+  {
+    "name": "Ruby Eye of the Glacier",
+    "link": "https://ddowiki.com/page/Item:Ruby_Eye_of_the_Glacier",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "2% Chance On Hit to cause a burst of glacial frost to chill your target, dealing 7 to 14 damage per Minimum Level of the weapon to all nearby enemies"
+    ],
+    "sourceRaw": [
+      "Anniversary Card Collection, Anniversary Card Collection event craftable augment (1) Card VI: Grell (1) Card IX: Lolth",
+      "DDO Store, (395) DDO Point",
+      "Fire on Thunder Peak, raid end chest",
+      "Flurry (NPC), Snowpeaks Festival event craftable augment (20) Item:Gold Snowpeaks Coin (100) Item:Silver Snowpeaks Coin",
+      "Snowpeaks Festival,",
+      "Special event items,",
+      "Taj, Festival of the Traveler event craftable augment (1) Blessing of the Traveler (1) Ultimate Aura of the Traveler",
+      "Temple of the Deathwyrm, raid end chest",
+      "The Haunted Halls of Eveningstar, quest end chest and optional dragon chest"
+    ]
+  },
+  {
+    "name": "Ruby Eye of Force",
+    "link": "https://ddowiki.com/page/Item:Ruby_Eye_of_Force",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "2% Chance On Hit to cause a burst of magical force to strike your target, dealing 3 to 12 damage per Minimum Level of the weapon to all nearby enemies"
+    ],
+    "sourceRaw": [
+      "DDO Store, (395) DDO Point",
+      "Fire on Thunder Peak, raid end chest",
+      "Temple of the Deathwyrm, raid end chest",
+      "The Haunted Halls of Eveningstar, quest end chest and optional dragon chest"
+    ]
+  },
+  {
+    "name": "Meteoric Star Ruby",
+    "link": "https://ddowiki.com/page/Item:Meteoric_Star_Ruby",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "2% Chance On Hit to cause a falling star to strike your target, dealing 3 to 18 Fire Damage and 1 to 6 Bludgeoning Damage per Minimum Level of the weapon to all nearby enemies, with a chance to also knock them prone"
+    ],
+    "sourceRaw": [
+      "The Haunted Halls of Eveningstar, End Chest and optional dragon chest"
+    ]
+  },
+  {
+    "name": "Ruby of Fey Bane",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Fey_Bane",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 6,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Additional 2d8 Bane Damage to Fey creatures on hit"
+    ],
+    "sourceRaw": [
+      "Wake Me Up Inside, end chest"
+    ]
+  },
+  {
+    "name": "Ruby of the Endless Night",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_the_Endless_Night",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Inflicts a Negative Level on vorpal hits"
+    ],
+    "sourceRaw": [
+      "Joe Candymaker, The Night Revels event craftable augment (120) Item:Piece of Darkest Chocolate (50) Item:Spooky Almond (50) Item:Black Apple (50) Item:Shadowy Caramel (50) Item:Pinch of Sinister Cinnamon",
+      "Mabar Endless Night Festival,"
+    ]
+  },
+  {
+    "name": "Ruby of Disintegration",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Disintegration",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "upgrade a weapon with a dark, insidious power deep within. Occasionally, this power lashes out violently at enemies and attempts to disintegrate them"
+    ],
+    "sourceRaw": [
+      "Wake Me Up Inside, end chest"
+    ]
+  },
+  {
+    "name": "Ruby of Acid (1d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Acid_(1d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acidic 1"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Acid (2d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Acid_(2d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acidic 2"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Acid (3d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Acid_(3d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acidic 3"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Acid (4d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Acid_(4d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acidic 4"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Acid (5d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Acid_(5d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acidic 5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Acid (6d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Acid_(6d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acidic 6"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Acid (7d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Acid_(7d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acidic 7"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Acid (8d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Acid_(8d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acidic 8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (40) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Legendary Quartermaster's Chit (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Acid (9d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Acid_(9d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acidic 9"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Village of Tanaroa), (44) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Deconstructor",
+    "link": "https://ddowiki.com/page/Item:Deconstructor",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Adamantine",
+      "Destruction",
+      "6 to 36 bonus Rust damage on hit vs Constructs"
+    ],
+    "sourceRaw": [
+      "Brothers of the Forge, Elite or higher end chest"
+    ]
+  },
+  {
+    "name": "Ruby of the Adamantine Blessing",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_the_Adamantine_Blessing",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Adamantine"
+    ],
+    "sourceRaw": [
+      "Euphonia's Barter Box, Treasure of Crystal Cove event craftable augment (1500) Silver Doubloon (600) Golden Doubloon (45) Stolen Jasper (900) Green Dragonshard"
+    ]
+  },
+  {
+    "name": "Ruby of Adamantine Arms",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Adamantine_Arms",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Adamantine"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Ruby of the Gatekeepers",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_the_Gatekeepers",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Byeshk"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Ruby of Chaos",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Chaos",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Chaotic Aligned"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Ruby of the Iron Hand",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_the_Iron_Hand",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Cold Iron"
+    ],
+    "sourceRaw": [
+      "Flurry (NPC), Snowpeaks Festival event craftable augment (20) Item:Gold Snowpeaks Coin (100) Item:Silver Snowpeaks Coin",
+      "Snowpeaks Festival,"
+    ]
+  },
+  {
+    "name": "Ruby of Iron Blows",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Iron_Blows",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Cold Iron"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Ruby of Combustion 111",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Combustion_111",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Combustion +111"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Combustion 125",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Combustion_125",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Combustion +125"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Combustion 139",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Combustion_139",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Combustion +139"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Blue Water Inn), (40) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (60) Item:Vistani Totem (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Legendary Ruby of Implement's Flame",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ruby_of_Implement%27s_Flame",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Combustion +146",
+      "item becomes a Spellcasting Implement"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Combustion 153",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Combustion_153",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Combustion +153"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Morgrave University - Upper Commons), (44) Item:Astral Shard",
+      "Randall Lyric (Morgrave University - Upper Commons), (20) Item:Legendary Esoteric Relic (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Combustion 38",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Combustion_38",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Combustion +38"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Combustion 55",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Combustion_55",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Combustion +55"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Combustion 70",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Combustion_70",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Combustion +70"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Implement's Flame",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Implement%27s_Flame",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Combustion +70",
+      "item becomes a Spellcasting Implement"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Combustion 84",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Combustion_84",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Combustion +84"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Combustion 97",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Combustion_97",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Combustion +97"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "The Finite Limits of Construction",
+    "link": "https://ddowiki.com/page/Item:The_Finite_Limits_of_Construction",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Construct Bane 4"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "The Infinite Limits of Construction",
+    "link": "https://ddowiki.com/page/Item:The_Infinite_Limits_of_Construction",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Construct Bane 6"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Ruby of Corrosion 111",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Corrosion_111",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Corrosion +111"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Corrosion 125",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Corrosion_125",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Corrosion +125"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Corrosion 139",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Corrosion_139",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Corrosion +139"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (40) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Legendary Quartermaster's Chit (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Legendary Ruby of Implement's Acid",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ruby_of_Implement%27s_Acid",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Corrosion +146",
+      "item becomes a Spellcasting Implement"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Corrosion 153",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Corrosion_153",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Corrosion +153"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Village of Tanaroa), (44) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Corrosion 38",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Corrosion_38",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Corrosion +38"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Corrosion 55",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Corrosion_55",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Corrosion +55"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Corrosion 70",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Corrosion_70",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Corrosion +70"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Implement's Acid",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Implement%27s_Acid",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Corrosion +70",
+      "item becomes a Spellcasting Implement"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Corrosion 84",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Corrosion_84",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Corrosion +84"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Corrosion 97",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Corrosion_97",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Corrosion +97"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Devotion 111",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Devotion_111",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Devotion +111"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Devotion 125",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Devotion_125",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Devotion +125"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Devotion 139",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Devotion_139",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Devotion +139"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Blue Water Inn), (40) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (60) Item:Vistani Totem (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "The Eye of Lamannia",
+    "link": "https://ddowiki.com/page/Item:The_Eye_of_Lamannia",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Item becomes a Spellcasting Implement",
+      "Devotion +146",
+      "Impulse +146"
+    ],
+    "sourceRaw": [
+      "Growing Pains, End chest"
+    ]
+  },
+  {
+    "name": "Ruby of Devotion 153",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Devotion_153",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Devotion +153"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Morgrave University - Upper Commons), (44) Item:Astral Shard",
+      "Randall Lyric (Morgrave University - Upper Commons), (20) Item:Legendary Esoteric Relic (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Devotion 38",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Devotion_38",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Devotion +38"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Devotion 55",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Devotion_55",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Devotion +55"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Devotion 70",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Devotion_70",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Devotion +70"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Devotion 84",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Devotion_84",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Devotion +84"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Devotion 97",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Devotion_97",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Devotion +97"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "A History of Draconic Interference",
+    "link": "https://ddowiki.com/page/Item:A_History_of_Draconic_Interference",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Dragon Bane 4"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "A Legendary History of Draconic Interference",
+    "link": "https://ddowiki.com/page/Item:A_Legendary_History_of_Draconic_Interference",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Dragon Bane 6"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "The Eye of Mabar",
+    "link": "https://ddowiki.com/page/Item:The_Eye_of_Mabar",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Evil Aligned",
+      "Vampirism 5",
+      "When you slay an enemy, you gain 15 Temporary HP. If you are Undead, this healing becomes Negative."
+    ],
+    "sourceRaw": [
+      "Army of Eternal Night, End chest"
+    ]
+  },
+  {
+    "name": "Ruby of Evil",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Evil",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Evil Aligned"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Ruby of Flame (1d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Flame_(1d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Flaming 1"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Flame (2d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Flame_(2d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Flaming 2"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Flame (3d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Flame_(3d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Flaming 3"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Flame (4d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Flame_(4d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Flaming 4"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Flame (5d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Flame_(5d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Flaming 5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Flame (6d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Flame_(6d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Flaming 6"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Flame (7d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Flame_(7d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Flaming 7"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Flame (8d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Flame_(8d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Flaming 8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Blue Water Inn), (40) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (60) Item:Vistani Totem (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Flame (9d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Flame_(9d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Flaming 9"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Morgrave University - Upper Commons), (44) Item:Astral Shard",
+      "Randall Lyric (Morgrave University - Upper Commons), (20) Item:Legendary Esoteric Relic (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Frost (1d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Frost_(1d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Frost 1"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Frost (2d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Frost_(2d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Frost 2"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Frost (3d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Frost_(3d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Frost 3"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Frost (4d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Frost_(4d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Frost 4"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Frost (5d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Frost_(5d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Frost 5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Frost (6d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Frost_(6d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Frost 6"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Frost (7d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Frost_(7d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Frost 7"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Frost (8d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Frost_(8d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Frost 8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Wynwood Hall), (40) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Legendary Chunk of Ferrocrystal (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Frost (9d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Frost_(9d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Frost 9"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Ruby of Glaciation 111",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Glaciation_111",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Glaciation +111"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Glaciation 125",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Glaciation_125",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Glaciation +125"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Glaciation 139",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Glaciation_139",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Glaciation +139"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Wynwood Hall), (40) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Legendary Chunk of Ferrocrystal (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Legendary Ruby of Implement's Frost",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ruby_of_Implement%27s_Frost",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Glaciation +146",
+      "item becomes a Spellcasting Implement"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Glaciation 153",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Glaciation_153",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Glaciation +153"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Ruby of Glaciation 38",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Glaciation_38",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Glaciation +38"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Glaciation 55",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Glaciation_55",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Glaciation +55"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Glaciation 70",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Glaciation_70",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Glaciation +70"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Implement's Frost",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Implement%27s_Frost",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Glaciation +70",
+      "item becomes a Spellcasting Implement"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Glaciation 84",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Glaciation_84",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Glaciation +84"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Glaciation 97",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Glaciation_97",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Glaciation +97"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Good",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Good",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Good Aligned"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Legendary Ruby of Maiming",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ruby_of_Maiming",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Greater Maiming"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Impulse 111",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Impulse_111",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Impulse +111"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Impulse 125",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Impulse_125",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Impulse +125"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Impulse 139",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Impulse_139",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Impulse +139"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (40) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Energizing Alloy (1) Stabilizing Compound (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Impulse 153",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Impulse_153",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Impulse +153"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Ruby of Impulse 38",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Impulse_38",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Impulse +38"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Impulse 55",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Impulse_55",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Impulse +55"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Impulse 70",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Impulse_70",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Impulse +70"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Impulse 84",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Impulse_84",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Impulse +84"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Impulse 97",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Impulse_97",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Impulse +97"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Order",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Order",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Lawful Aligned"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "The Eye of Daanvi",
+    "link": "https://ddowiki.com/page/Item:The_Eye_of_Daanvi",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Lawful Aligned",
+      "On each hit, deals 10d6 extra Law damage to all non-Lawful enemies."
+    ],
+    "sourceRaw": [
+      "Order in the Court!, End chest"
+    ]
+  },
+  {
+    "name": "Bestiary of the Planes",
+    "link": "https://ddowiki.com/page/Item:Bestiary_of_the_Planes",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Magical Beast Bane 4"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Legendary Bestiary of the Planes",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bestiary_of_the_Planes",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Magical Beast Bane 6"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Ruby of Magnetism 111",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Magnetism_111",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Magnetism +111"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Magnetism 125",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Magnetism_125",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Magnetism +125"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Magnetism 139",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Magnetism_139",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Magnetism +139"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (40) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Energizing Alloy (1) Caustic Compound (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Legendary Ruby of Implement's Wind",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ruby_of_Implement%27s_Wind",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Magnetism +146",
+      "item becomes a Spellcasting Implement"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Magnetism 153",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Magnetism_153",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Magnetism +153"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Ruby of Magnetism 38",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Magnetism_38",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Magnetism +38"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Magnetism 55",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Magnetism_55",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Magnetism +55"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Magnetism 70",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Magnetism_70",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Magnetism +70"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Implement's Wind",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Implement%27s_Wind",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Magnetism +70",
+      "item becomes a Spellcasting Implement"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Magnetism 84",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Magnetism_84",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Magnetism +84"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Magnetism 97",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Magnetism_97",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Magnetism +97"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Nullification 111",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Nullification_111",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Nullification +111"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Nullification 125",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Nullification_125",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Nullification +125"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Nullification 139",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Nullification_139",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Nullification +139"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Blue Water Inn), (40) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (60) Item:Vistani Totem (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Nullification 153",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Nullification_153",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Nullification +153"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Morgrave University - Upper Commons), (44) Item:Astral Shard",
+      "Randall Lyric (Morgrave University - Upper Commons), (20) Item:Legendary Esoteric Relic (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Nullification 38",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Nullification_38",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Nullification +38"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Nullification 55",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Nullification_55",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Nullification +55"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Nullification 70",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Nullification_70",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Nullification +70"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Nullification 84",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Nullification_84",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Nullification +84"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Nullification 97",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Nullification_97",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Nullification +97"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Legendary Coalescent Ruby",
+    "link": "https://ddowiki.com/page/Item:Legendary_Coalescent_Ruby",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Potency +100"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Coalescent Ruby",
+    "link": "https://ddowiki.com/page/Item:Coalescent_Ruby",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Potency +41"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Ruby of Radiance 111",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Radiance_111",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Radiance +111"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Radiance 125",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Radiance_125",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Radiance +125"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Radiance 139",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Radiance_139",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Radiance +139"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (40) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Legendary Quartermaster's Chit (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Radiance 153",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Radiance_153",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Radiance +153"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Village of Tanaroa), (44) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Radiance 38",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Radiance_38",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Radiance +38"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Radiance 55",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Radiance_55",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Radiance +55"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Radiance 70",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Radiance_70",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Radiance +70"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Radiance 84",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Radiance_84",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Radiance +84"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Radiance 97",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Radiance_97",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Radiance +97"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Reconstruction 111",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Reconstruction_111",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Reconstruction +111"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Reconstruction 125",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Reconstruction_125",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Reconstruction +125"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Reconstruction 139",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Reconstruction_139",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Reconstruction +139"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (40) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Dampening Alloy (1) Caustic Compound (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Reconstruction 153",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Reconstruction_153",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Reconstruction +153"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Ruby of Reconstruction 38",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Reconstruction_38",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Reconstruction +38"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Reconstruction 55",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Reconstruction_55",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Reconstruction +55"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Reconstruction 70",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Reconstruction_70",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Reconstruction +70"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Reconstruction 84",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Reconstruction_84",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Reconstruction +84"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Reconstruction 97",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Reconstruction_97",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Reconstruction +97"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Resonance 111",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Resonance_111",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resonance +111"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Resonance 125",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Resonance_125",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resonance +125"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Resonance 139",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Resonance_139",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resonance +139"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Wynwood Hall), (40) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Legendary Chunk of Ferrocrystal (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Resonance 153",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Resonance_153",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resonance +153"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Ruby of Resonance 38",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Resonance_38",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resonance +38"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Resonance 55",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Resonance_55",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resonance +55"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Resonance 70",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Resonance_70",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resonance +70"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Resonance 84",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Resonance_84",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resonance +84"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Resonance 97",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Resonance_97",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Resonance +97"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Shock (1d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Shock_(1d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shock 1"
+    ],
+    "sourceRaw": [
+      "Celaeno Kelle, The Harbor (4) Item:Astral Shard",
+      "Celaeno Kelle, Randomly selected Red Augment with no minimum level (30) Item:Sweet Whitecap (10) Item:Deadly Feverblanch (5) Item:Pale Creeper",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Shock (2d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Shock_(2d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shock 2"
+    ],
+    "sourceRaw": [
+      "Davyd Turner, The Marketplace (8) Item:Astral Shard",
+      "Davyd Turner, Randomly selected Red Augment of Minimum Level 4 (30) Item:Blade of the Dark Six (10) Item:Signet of the Devourer (5) Item:Shamanic Totem",
+      "DDO Store, (50) DDO Point",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Yannick Drumdoom, The Marketplace (8) Item:Astral Shard",
+      "Yannick Drumdoom, Randomly selected Red Augment of Minimum Level 4 (30) Item:Funerary Token (10) Item:Mark of the Keeper (5) Item:Necromantic Gem"
+    ]
+  },
+  {
+    "name": "Ruby of Shock (3d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Shock_(3d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shock 3"
+    ],
+    "sourceRaw": [
+      "Bowdlin, House Phiarlan (12) Item:Astral Shard",
+      "Bowdlin, Randomly selected Red Augment of Minimum Level 8",
+      "DDO Store, (75) DDO Point",
+      "Flintchip Fireson, House Deneith (12) Item:Astral Shard",
+      "Flintchip Fireson, Randomly selected Red Augment of Minimum Level 8 (30) Item:Smoldering Ember (10) Item:Polished Ore (5) Item:Elemental Ingot",
+      "Leif Lightman, House Kundarak (12) Item:Astral Shard",
+      "Leif Lightman, Randomly selected Red Augment of Minimum Level 8 (30) Item:Cryptic Message (10) Item:Scholarly Notes (5) Item:Tome: Codes of the Aurum",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Shock (4d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Shock_(4d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shock 4"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Shock (5d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Shock_(5d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shock 5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Ruby of Shock (6d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Shock_(6d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shock 6"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Shock (7d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Shock_(7d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shock 7"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Ruby of Shock (8d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Shock_(8d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shock 8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (40) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Dampening Alloy (1) Stabilizing Compound (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Ruby of Shock (9d6)",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Shock_(9d6)",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Shock 9"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Ruby of the Vampire Slayer",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_the_Vampire_Slayer",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Silver",
+      "1 to 4 Light Damage"
+    ],
+    "sourceRaw": [
+      "Joe Candymaker, The Night Revels event craftable augment (120) Item:Piece of Darkest Chocolate (50) Item:Spooky Almond (50) Item:Black Apple (50) Item:Shadowy Caramel (50) Item:Pinch of Sinister Cinnamon",
+      "Mabar Endless Night Festival,"
+    ]
+  },
+  {
+    "name": "Ruby of Silvered Strikes",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Silvered_Strikes",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Silver"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Ruby of the Surging Tide",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_the_Surging_Tide",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Tidal Burst"
+    ],
+    "sourceRaw": [
+      "Euphonia's Barter Box, Treasure of Crystal Cove event craftable augment (1500) Silver Doubloon (700) Golden Doubloon (45) Stolen Jasper (1000) Green Dragonshard",
+      "Treasure of Crystal Cove,"
+    ]
+  },
+  {
+    "name": "Encyclopedia of the Dead, Vol. 1",
+    "link": "https://ddowiki.com/page/Item:Encyclopedia_of_the_Dead,_Vol._1",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Undead Bane 4",
+      "Ghost Touch"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Encyclopedia of the Dead, Vol. 3",
+    "link": "https://ddowiki.com/page/Item:Encyclopedia_of_the_Dead,_Vol._3",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Undead Bane 6",
+      "Ghost Touch"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Ruby of Ghostbane",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Ghostbane",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Ghost Touch",
+      "1 to 6 Bane damage on hit vs Undead"
+    ],
+    "sourceRaw": [
+      "Joe Candymaker, The Night Revels event craftable augment (120) Item:Piece of Darkest Chocolate (50) Item:Spooky Almond (50) Item:Black Apple (50) Item:Shadowy Caramel (50) Item:Pinch of Sinister Cinnamon",
+      "Mabar Endless Night Festival,"
+    ]
+  },
+  {
+    "name": "Ruby of the Crushing Wave",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_the_Crushing_Wave",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Crushing Wave"
+    ],
+    "sourceRaw": [
+      "Ghost of a Chance (epic), Optional puzzle chest"
+    ]
+  },
+  {
+    "name": "Ruby of Icy Blast",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Icy_Blast",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Icy Blast"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Maiming",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Maiming",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Maiming"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Acid Blast",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Acid_Blast",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Acid Blast"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Shocking Blast",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Shocking_Blast",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Shocking Blast"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "The Eye of Dolurrh",
+    "link": "https://ddowiki.com/page/Item:The_Eye_of_Dolurrh",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Ghost Touch",
+      "Unholy 10"
+    ],
+    "sourceRaw": [
+      "The Hand and the Eyes, End chest"
+    ]
+  },
+  {
+    "name": "The Eye of Shavarath",
+    "link": "https://ddowiki.com/page/Item:The_Eye_of_Shavarath",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Immunity to Fear",
+      "On a Critical Hit, this weapon applies the Shaken debuff."
+    ],
+    "sourceRaw": [
+      "Three Paths to Battle, End chest"
+    ]
+  },
+  {
+    "name": "Legendary Ruby of Shocking Blast",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ruby_of_Shocking_Blast",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Greater Shocking Blast"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Legendary Ruby of Acid Blast",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ruby_of_Acid_Blast",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Greater Acid Blast"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Legendary Ruby of Flaming Blast",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ruby_of_Flaming_Blast",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Greater Flaming Blast"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Legendary Ruby of Icy Blast",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ruby_of_Icy_Blast",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Greater Icy Blast"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Ruby of Flaming Blast",
+    "link": "https://ddowiki.com/page/Item:Ruby_of_Flaming_Blast",
+    "itemType": "augment",
+    "augmentColor": "Red",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Flaming Blast"
+    ],
+    "sourceRaw": [
+      "ToEE: Depths of the Temple, Any rare encounter chest",
+      "ToEE: First Level and Earth Temple, Any rare encounter chest",
+      "ToEE: Lower Temple Complex, Any rare encounter chest"
+    ]
+  }
+]

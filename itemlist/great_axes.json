@@ -237,9 +237,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -249,9 +249,7 @@
     "minLevel": "10",
     "enhancements": [
       "+5 Enhancement Bonus",
-      "Red Augment Slot",
-      "Holy",
-      "Cold Iron"
+      "Red Augment Slot"
     ]
   },
   {
@@ -278,6 +276,19 @@
       "Vampirism 1",
       "Chilling 3",
       "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Drysvayla's Axe",
+    "link": "https://ddowiki.com/page/Item:Drysvayla%27s_Axe",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Poisonous 3",
+      "Toxic 7",
+      "Limb Chopper",
+      "Dragon's Edge 3",
+      "Red Augment Slot"
     ]
   },
   {
@@ -746,7 +757,7 @@
       "+15 Enhancement Bonus",
       "Fetters of Unreality",
       "Improved Destruction",
-      "Insightful Armor-Piercing - 10%",
+      "Insightful Armor-Piercing 10%",
       "Metalline",
       "Orange Augment Slot",
       "Red Augment Slot"
@@ -772,11 +783,6 @@
       "+15 Enhancement Bonus",
       "Nearly Finished",
       "Purple Augment Slot",
-      "Fetters of Unreality",
-      "Completed Weapon",
-      "Keen",
-      "Disease: Unholy Tear",
-      "Limb Chopper",
       "Red Augment Slot"
     ]
   },
@@ -788,7 +794,7 @@
       "+15 Enhancement Bonus",
       "Dripping with Magma",
       "Keen",
-      "Armor-Piercing - 21%",
+      "Armor-Piercing 21%",
       "Flamebitten",
       "Red Augment Slot",
       "Orange Augment Slot"
@@ -899,8 +905,7 @@
       "Doublestrike 15%",
       "Insightful Doublestrike 7%",
       "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Red Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Red Augment Slot"
     ]
   },
   {
@@ -928,8 +933,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1109,10 +1113,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -1123,10 +1127,24 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Drysvayla's Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Drysvayla%27s_Axe",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Poisonous 7",
+      "Toxic 16",
+      "Limb Chopper",
+      "Dragon's Edge 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

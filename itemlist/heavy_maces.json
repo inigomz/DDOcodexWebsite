@@ -180,9 +180,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -289,10 +289,9 @@
       "+5 Enhancement Bonus",
       "Reverberating 3",
       "Disruption",
-      "Armor-Piercing - 11%",
+      "Armor-Piercing 11%",
       "Impact",
-      "Red Augment Slot",
-      "Heavy Warfare"
+      "Red Augment Slot"
     ]
   },
   {
@@ -303,10 +302,9 @@
       "+5 Enhancement Bonus",
       "Impactful 3",
       "Metalline",
-      "Insightful Armor-Piercing - 5%",
+      "Insightful Armor-Piercing 5%",
       "Impact",
-      "Red Augment Slot",
-      "Heavy Warfare"
+      "Red Augment Slot"
     ]
   },
   {
@@ -671,10 +669,9 @@
       "+15 Enhancement Bonus",
       "Impactful 6",
       "Metalline",
-      "Insightful Armor-Piercing - 9%",
+      "Insightful Armor-Piercing 9%",
       "Impact",
-      "Red Augment Slot",
-      "Heavy Warfare (Legendary)"
+      "Red Augment Slot"
     ]
   },
   {
@@ -685,10 +682,9 @@
       "+15 Enhancement Bonus",
       "Reverberating 6",
       "Sovereign Disruption",
-      "Armor-Piercing - 20%",
+      "Armor-Piercing 20%",
       "Impact",
-      "Red Augment Slot",
-      "Heavy Warfare (Legendary)"
+      "Red Augment Slot"
     ]
   },
   {
@@ -701,9 +697,6 @@
       "Completed Weapon",
       "Utter Disintegration",
       "Purple Augment Slot",
-      "Impact",
-      "Overwhelming Shockwave",
-      "Screeching 14",
       "Red Augment Slot"
     ]
   },
@@ -825,8 +818,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -935,10 +927,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -949,10 +941,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

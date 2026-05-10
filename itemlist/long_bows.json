@@ -262,7 +262,7 @@
       "+3 Enhancement Bonus",
       "Reverberating 2",
       "Construct Bane 2",
-      "Armor-Piercing - 7%"
+      "Armor-Piercing 7%"
     ]
   },
   {
@@ -344,9 +344,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -374,8 +374,7 @@
       "Shocking Blast 3",
       "Lightning Lore +11%",
       "Magnetism +77",
-      "Red Augment Slot",
-      "The Desert's Writhing Storm"
+      "Red Augment Slot"
     ]
   },
   {
@@ -384,12 +383,11 @@
     "minLevel": "10",
     "enhancements": [
       "+5 Enhancement Bonus",
-      "Armor-Piercing - 9%",
+      "Armor-Piercing 9%",
       "Piercing 3",
       "Insightful Doubleshot 2%",
       "Insightful Distant Diversion +4%",
-      "Red Augment Slot",
-      "Menechtarun Scavenger"
+      "Red Augment Slot"
     ]
   },
   {
@@ -658,7 +656,7 @@
       "Keen",
       "Elasticity",
       "Poisonous 4",
-      "Armor-Piercing - 12%",
+      "Armor-Piercing 12%",
       "Red Augment Slot"
     ]
   },
@@ -807,8 +805,7 @@
       "Corrosive Salt",
       "Fiery 4",
       "Animal Bane 4",
-      "Red Augment Slot",
-      "Cooking By the Book"
+      "Red Augment Slot"
     ]
   },
   {
@@ -817,13 +814,12 @@
     "minLevel": "20",
     "enhancements": [
       "+6 Enhancement Bonus",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Piercing 4",
       "Insightful Doubleshot 3%",
       "Insightful Distant Diversion +7%",
       "Colorless Augment Slot",
-      "Red Augment Slot",
-      "Epic Menechtarun Scavenger"
+      "Red Augment Slot"
     ]
   },
   {
@@ -835,7 +831,7 @@
       "Improved Destruction",
       "Sonic Blast 4",
       "Construct Bane 4",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Adamantine",
       "Move Silently -10",
       "Red Augment Slot"
@@ -854,8 +850,7 @@
       "Magnetism +111",
       "Whirlwind Absorption",
       "Colorless Augment Slot",
-      "Red Augment Slot",
-      "The Epic Desert's Writhing Storm"
+      "Red Augment Slot"
     ]
   },
   {
@@ -1196,7 +1191,7 @@
       "Keen",
       "Elasticity",
       "Poisonous 6",
-      "Armor-Piercing - 20%",
+      "Armor-Piercing 20%",
       "Red Augment Slot"
     ]
   },
@@ -1315,7 +1310,7 @@
       "Improved Destruction",
       "Sonic Blast 6",
       "Construct Bane 6",
-      "Armor-Piercing - 21%",
+      "Armor-Piercing 21%",
       "Adamantine",
       "Move Silently -10",
       "Orange Augment Slot",
@@ -1345,7 +1340,7 @@
     "minLevel": "30",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Armor-Piercing - 21%",
+      "Armor-Piercing 21%",
       "Piercing 6",
       "Insightful Doubleshot 4%",
       "Insightful Distant Diversion +10%",
@@ -1379,8 +1374,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1520,8 +1514,7 @@
       "Fiery 6",
       "Animal Bane 6",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "Legendary Cooking By the Book"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -1586,10 +1579,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -1600,10 +1593,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

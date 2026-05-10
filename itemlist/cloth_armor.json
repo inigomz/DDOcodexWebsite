@@ -53,8 +53,7 @@
       "Exceptional Universal Spell Power +8",
       "Fortification  +77%",
       "Shield +6",
-      "Green Augment Slot",
-      "Beacon of Magic Set (Heroic)"
+      "Green Augment Slot"
     ]
   },
   {
@@ -64,7 +63,7 @@
     "enhancements": [
       "Armor Bonus +8",
       "Haste Guard",
-      "Armor-Piercing - 10%",
+      "Armor-Piercing 10%",
       "Relentless Fury",
       "Acid Resistance +30"
     ]
@@ -110,11 +109,9 @@
   {
     "name": "Cormyrian Breeches",
     "link": "https://ddowiki.com/page/Item:Cormyrian_Breeches",
-    "minLevel": "20",
+    "minLevel": "16",
     "enhancements": [
-      "Armor Bonus +8",
-      "Greater False Life",
-      "Acid Resistance +30"
+      "Eveningstar Challenge Pack"
     ]
   },
   {
@@ -148,11 +145,9 @@
   {
     "name": "Cormyrian Robes",
     "link": "https://ddowiki.com/page/Item:Cormyrian_Robes",
-    "minLevel": "20",
+    "minLevel": "16",
     "enhancements": [
-      "Armor Bonus +8",
-      "Combustion +90",
-      "Cold Resistance +30"
+      "Eveningstar Challenge Pack"
     ]
   },
   {
@@ -165,8 +160,7 @@
       "Quality Fortification  +21%",
       "Insightful Fortitude Save +3",
       "Vitality +23",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -179,8 +173,7 @@
       "Quality Fortification  +21%",
       "Insightful Fortitude Save +3",
       "Vitality +23",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -273,8 +266,7 @@
       "Parrying +2",
       "Physical Sheltering +14",
       "Profane Well Rounded +1",
-      "Green Augment Slot",
-      "Silent Avenger Set (Heroic)"
+      "Green Augment Slot"
     ]
   },
   {
@@ -295,8 +287,7 @@
       "+2 Enhancement Bonus",
       "Dodge +3%",
       "Resistance +3",
-      "Blue Augment Slot",
-      "Saltmarsh Explorer"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -306,12 +297,11 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Competence Elemental Resistance - 5",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Lamordia: Woeful Slot (Accessory): Empty",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Lamordia: Woeful Slot (Accessory)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -321,12 +311,11 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Exceptional Spell Lore +3",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Lamordia: Woeful Slot (Accessory): Empty",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Lamordia: Woeful Slot (Accessory)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -348,6 +337,137 @@
       "Armor Bonus +4",
       "Conjuration Focus +1",
       "Wizardry III"
+    ]
+  },
+  {
+    "name": "Dragonsoul Vestments (level 12)",
+    "link": "https://ddowiki.com/page/Item:Dragonsoul_Vestments_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Dragontouched",
+      "Doublestrike 7%",
+      "Physical Sheltering +16",
+      "Sight Beyond Sight",
+      "Speed +22%",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Dragonsoul Vestments (level 16)",
+    "link": "https://ddowiki.com/page/Item:Dragonsoul_Vestments_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Dragontouched",
+      "Doublestrike 9%",
+      "Physical Sheltering +20",
+      "Sight Beyond Sight",
+      "Speed +26%",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Dragonsoul Vestments (level 20)",
+    "link": "https://ddowiki.com/page/Item:Dragonsoul_Vestments_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Dragontouched",
+      "Doublestrike 11%",
+      "Physical Sheltering +24",
+      "Sight Beyond Sight",
+      "Speed +30%",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Dragonsoul Vestments (level 24)",
+    "link": "https://ddowiki.com/page/Item:Dragonsoul_Vestments_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Dragontouched",
+      "Doublestrike 12%",
+      "Physical Sheltering +28",
+      "Sight Beyond Sight",
+      "Speed +30%",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Dragonsoul Vestments (level 28)",
+    "link": "https://ddowiki.com/page/Item:Dragonsoul_Vestments_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Dragontouched",
+      "Doublestrike 14%",
+      "Physical Sheltering +32",
+      "Sight Beyond Sight",
+      "Speed +30%",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Dragonsoul Vestments (level 32)",
+    "link": "https://ddowiki.com/page/Item:Dragonsoul_Vestments_(level_32)",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dragontouched",
+      "Doublestrike 16%",
+      "Physical Sheltering +36",
+      "Sight Beyond Sight",
+      "Speed +30%",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Dragonsoul Vestments (level 36)",
+    "link": "https://ddowiki.com/page/Item:Dragonsoul_Vestments_(level_36)",
+    "minLevel": "36",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Dragontouched",
+      "Doublestrike 18%",
+      "Physical Sheltering +40",
+      "Sight Beyond Sight",
+      "Speed +30%",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Dragonsoul Vestments (level 4)",
+    "link": "https://ddowiki.com/page/Item:Dragonsoul_Vestments_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Dragontouched",
+      "Doublestrike 4%",
+      "Physical Sheltering +8",
+      "Sight Beyond Sight",
+      "Speed +15%",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Dragonsoul Vestments (level 8)",
+    "link": "https://ddowiki.com/page/Item:Dragonsoul_Vestments_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Dragontouched",
+      "Doublestrike 6%",
+      "Physical Sheltering +12",
+      "Sight Beyond Sight",
+      "Speed +18%",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -466,8 +586,7 @@
       "Insightful Fortitude Save +5",
       "Vitality +41",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -481,8 +600,7 @@
       "Insightful Fortitude Save +5",
       "Vitality +41",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -525,8 +643,7 @@
       "Competence Healing Amplification +38",
       "Resistance +8",
       "Blue Augment Slot",
-      "Green Augment Slot",
-      "Epic Saltmarsh Explorer"
+      "Green Augment Slot"
     ]
   },
   {
@@ -576,8 +693,7 @@
       "Fire Guard II",
       "Incineration Guard",
       "Colorless Augment Slot",
-      "Blue Augment Slot",
-      "Epic Soul of the Red Dragon"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -617,8 +733,7 @@
       "Fire Resistance +36",
       "Fire Shield (Hot)",
       "Incineration Guard",
-      "Blue Augment Slot",
-      "The Epic Desert's Burning Sun"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -659,8 +774,7 @@
       "Boon of Undeath",
       "Profane Lifeforce +32",
       "Blue Augment Slot",
-      "Yellow Augment Slot",
-      "Epic Saltmarsh Explorer"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -672,8 +786,7 @@
       "Exceptional Universal Spell Power +15",
       "Efficient Metamagic - Maximize II",
       "Disintegration Guard",
-      "Blue Augment Slot",
-      "Epic Vulkoor's Chosen"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -686,8 +799,7 @@
       "Physical Sheltering +21",
       "Exceptional Universal Spell Power +8",
       "Exceptional Universal Spell Lore +3%",
-      "Blue Augment Slot",
-      "Profane Experiment"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -714,8 +826,7 @@
       "Physical Sheltering +21",
       "Exceptional Universal Spell Power +8",
       "Exceptional Universal Spell Lore +3%",
-      "Blue Augment Slot",
-      "Feywild Dreamer"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -729,8 +840,7 @@
       "Competence Healing Amplification +53",
       "False Life +50",
       "Blue Augment Slot",
-      "Green Augment Slot",
-      "Eminence of Summer"
+      "Green Augment Slot"
     ]
   },
   {
@@ -740,7 +850,7 @@
     "enhancements": [
       "Armor Bonus +10",
       "Haste Guard",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Relentless Fury",
       "Acid Resistance +40",
       "Attuned to Heroism",
@@ -830,8 +940,7 @@
       "Reflex Save +4",
       "Dodge +4%",
       "Blue Augment Slot",
-      "Yellow Augment Slot",
-      "Seasons of the Feywild"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -875,11 +984,10 @@
       "+4 Enhancement Bonus",
       "Natural Armor +5",
       "Good Luck  +2",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -890,11 +998,10 @@
       "+4 Enhancement Bonus",
       "Natural Armor +5",
       "Good Luck  +2",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -951,10 +1058,9 @@
       "+4 Enhancement Bonus",
       "Ghostly",
       "Fortification  +70%",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -965,10 +1071,17 @@
       "+4 Enhancement Bonus",
       "Ghostly",
       "Fortification  +70%",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Lawrence's Robe of Trivial Knowledge",
+    "link": "https://ddowiki.com/page/Item:Lawrence%27s_Robe_of_Trivial_Knowledge",
+    "minLevel": "1",
+    "enhancements": [
+      "Haggle +3"
     ]
   },
   {
@@ -981,8 +1094,7 @@
       "Exceptional Universal Spell Power +15",
       "Fortification  +142%",
       "Shield +13",
-      "Green Augment Slot",
-      "Beacon of Magic Set (Legendary)"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1024,8 +1136,7 @@
       "Parrying +6",
       "Physical Sheltering +33",
       "Profane Well Rounded +2",
-      "Green Augment Slot",
-      "Silent Avenger Set (Legendary)"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1039,8 +1150,7 @@
       "Competence Healing Amplification +54",
       "Resistance +11",
       "Blue Augment Slot",
-      "Green Augment Slot",
-      "Legendary Saltmarsh Explorer"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1050,13 +1160,12 @@
     "enhancements": [
       "+15 Enhancement Bonus",
       "Competence Elemental Resistance - 15",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Lamordia: Woeful Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1065,14 +1174,13 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Exceptional Spell Lore +5",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
-      "Lamordia: Woeful Slot (Accessory): Empty",
+      "Exceptional Universal Spell Lore +5%",
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
+      "Lamordia: Woeful Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1098,8 +1206,7 @@
       "Physical Sheltering +33",
       "Exceptional Universal Spell Power +15",
       "Exceptional Universal Spell Lore +5%",
-      "Green Augment Slot",
-      "Legendary Profane Experiment"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1113,8 +1220,7 @@
       "Potency +106",
       "Exceptional Alluring Skills Bonus",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Legendary Date With a Mind Flayer"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1127,8 +1233,7 @@
       "Physical Sheltering +33",
       "Exceptional Universal Spell Power +15",
       "Exceptional Universal Spell Lore +5%",
-      "Green Augment Slot",
-      "Legendary Feywild Dreamer"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1156,9 +1261,7 @@
       "Reflex Save +11",
       "Dodge +13%",
       "Blue Augment Slot",
-      "Green Augment Slot",
-      "Eminence of Spring",
-      "Missile Deflection"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1183,12 +1286,11 @@
       "+15 Enhancement Bonus",
       "Natural Armor +15",
       "Good Luck  +5",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1199,12 +1301,11 @@
       "+15 Enhancement Bonus",
       "Natural Armor +15",
       "Good Luck  +5",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
-      "Lamordia: Miserable Slot (Accessory): Empty",
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
+      "Lamordia: Miserable Slot (Accessory)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1243,11 +1344,10 @@
       "+15 Enhancement Bonus",
       "Enhanced Ghostly",
       "Fortification  +159%",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1258,11 +1358,10 @@
       "+15 Enhancement Bonus",
       "Enhanced Ghostly",
       "Fortification  +159%",
-      "Lamordia: Melancholic Slot (Armor): Empty",
-      "Lamordia: Dolorous Slot (Armor): Empty",
+      "Lamordia: Melancholic Slot (Armor)",
+      "Lamordia: Dolorous Slot (Armor)",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1275,8 +1374,7 @@
       "Physical Sheltering +33",
       "Exceptional Universal Spell Power +15",
       "Exceptional Universal Spell Lore +5%",
-      "Green Augment Slot",
-      "Legendary Esoteric Initiate"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1290,8 +1388,7 @@
       "Mystic Incite +44",
       "Insightful Mystic Incite +19",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1305,8 +1402,7 @@
       "Insightful Reflex Save +6",
       "Quality Accuracy +5",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1320,8 +1416,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Legendary Spell Penetration +3",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1335,8 +1430,7 @@
       "Competence Elemental Resistance - 15",
       "Linguistics",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1348,10 +1442,9 @@
       "Accuracy +23",
       "Deadly +12",
       "Legendary Demonic Shield",
-      "Legendary Armor-Piercing - 5%",
+      "Legendary Armor-Piercing 5%",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1367,8 +1460,7 @@
       "Fire Guard X",
       "Incineration Guard",
       "Colorless Augment Slot",
-      "Blue Augment Slot",
-      "Legendary Soul of the Red Dragon"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1397,8 +1489,7 @@
       "Fire Shield (Hot)",
       "Quality Combustion +36",
       "Legendary Magma Surge Guard",
-      "Blue Augment Slot",
-      "The Legendary Desert's Burning Sun"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1412,8 +1503,7 @@
       "Insightful Spell Focus Mastery +3",
       "Spell Penetration +9",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1427,8 +1517,7 @@
       "Quality Potency +26",
       "Spellcraft +21",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1442,8 +1531,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Legendary Spell Penetration +3",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1457,8 +1545,7 @@
       "Physical Sheltering +33",
       "Parrying +6",
       "Blue Augment Slot",
-      "Green Augment Slot",
-      "Eminence of Autumn"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1472,8 +1559,7 @@
       "Competence Elemental Resistance - 15",
       "Linguistics",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1487,9 +1573,7 @@
       "Quality Dodge +3%",
       "Insightful Fortification  +74%",
       "Blue Augment Slot",
-      "Yellow Augment Slot",
-      "Echoes of the Walking Ancestors",
-      "Deacon of the Auricular Sacrarium"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -1501,10 +1585,9 @@
       "Accuracy +23",
       "Deadly +12",
       "Legendary Demonic Shield",
-      "Legendary Armor-Piercing - 5%",
+      "Legendary Armor-Piercing 5%",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1545,8 +1628,7 @@
       "Physical Sheltering +33",
       "Exceptional Universal Spell Power +15",
       "Exceptional Universal Spell Lore +5%",
-      "Green Augment Slot",
-      "Legendary Dreadkeeper"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1589,8 +1671,7 @@
       "Greater Boon of Undeath",
       "Profane Lifeforce +45",
       "Blue Augment Slot",
-      "Yellow Augment Slot",
-      "Legendary Saltmarsh Explorer"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -1618,8 +1699,7 @@
       "Quality Dodge +3%",
       "Insightful Fortification  +74%",
       "Blue Augment Slot",
-      "Green Augment Slot",
-      "Dread Stalker"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1632,8 +1712,7 @@
       "Physical Sheltering +33",
       "Competence Healing Amplification +53",
       "False Life +50",
-      "Green Augment Slot",
-      "Legendary Part of the Family"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1721,8 +1800,7 @@
       "Physical Sheltering +33",
       "Competence Healing Amplification +53",
       "False Life +50",
-      "Green Augment Slot",
-      "Legendary Wallwatch"
+      "Green Augment Slot"
     ]
   },
   {
@@ -1736,8 +1814,7 @@
       "Physical Sheltering +34",
       "Profane Well Rounded +2",
       "Green Augment Slot",
-      "Blue Augment Slot",
-      "Beacon of Magic Set (Legendary)"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1791,8 +1868,7 @@
       "Physical Sheltering +19",
       "Exceptional Universal Spell Power +8",
       "Exceptional Universal Spell Lore +3%",
-      "Blue Augment Slot",
-      "Esoteric Initiate"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1805,8 +1881,7 @@
       "Spell Save +6",
       "Mystic Incite +23",
       "Insightful Mystic Incite +9",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1819,8 +1894,7 @@
       "Deadly +6",
       "Insightful Reflex Save +3",
       "Quality Accuracy +2",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1834,8 +1908,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Insightful Spell Focus Mastery +3",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1848,8 +1921,7 @@
       "Exceptional Universal Spell Power +8",
       "Exceptional Universal Spell Lore +3%",
       "Legendary Spell Penetration +2",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1898,8 +1970,7 @@
       "Competence Elemental Resistance - 15",
       "Temperance of Spirit",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1912,8 +1983,7 @@
       "Exceptional Healing Amplification +7",
       "Competence Elemental Resistance - 5",
       "Linguistics",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1925,10 +1995,9 @@
       "Accuracy +24",
       "Deadly +12",
       "Shadow Striker",
-      "Legendary Armor-Piercing - 5%",
+      "Legendary Armor-Piercing 5%",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -1940,9 +2009,8 @@
       "Accuracy +11",
       "Deadly +6",
       "Demonic Shield",
-      "Legendary Armor-Piercing - 2%",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Legendary Armor-Piercing 2%",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -1966,8 +2034,7 @@
       "Physical Sheltering +34",
       "Profane Well Rounded +2",
       "Blue Augment Slot",
-      "Green Augment Slot",
-      "Silent Avenger Set (Legendary)"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2046,7 +2113,7 @@
     "enhancements": [
       "Armor Bonus +9",
       "Haste Guard",
-      "Armor-Piercing - 15%",
+      "Armor-Piercing 15%",
       "Relentless Fury"
     ]
   },
@@ -2128,8 +2195,7 @@
       "Fire Absorption +20%",
       "Fire Resistance +21",
       "Fire Shield (Hot)",
-      "Blue Augment Slot",
-      "The Desert's Burning Sun"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2155,8 +2221,7 @@
       "Spell Save +6",
       "Insightful Spell Focus Mastery +2",
       "Spell Penetration +5",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2177,6 +2242,128 @@
     "minLevel": "2",
     "enhancements": [
       "Resistance +2",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Robe of Resonance (level 12)",
+    "link": "https://ddowiki.com/page/Item:Robe_of_Resonance_(level_12)",
+    "minLevel": "12",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Resonance +84",
+      "Physical Sheltering +16",
+      "Rough Hide +6",
+      "Insightful Fortification  +42%",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Robe of Resonance (level 16)",
+    "link": "https://ddowiki.com/page/Item:Robe_of_Resonance_(level_16)",
+    "minLevel": "16",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Resonance +97",
+      "Physical Sheltering +20",
+      "Rough Hide +8",
+      "Insightful Fortification  +48%",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Robe of Resonance (level 20)",
+    "link": "https://ddowiki.com/page/Item:Robe_of_Resonance_(level_20)",
+    "minLevel": "20",
+    "enhancements": [
+      "+6 Enhancement Bonus",
+      "Resonance +111",
+      "Physical Sheltering +24",
+      "Rough Hide +9",
+      "Insightful Fortification  +55%",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Robe of Resonance (level 24)",
+    "link": "https://ddowiki.com/page/Item:Robe_of_Resonance_(level_24)",
+    "minLevel": "24",
+    "enhancements": [
+      "+7 Enhancement Bonus",
+      "Resonance +125",
+      "Physical Sheltering +28",
+      "Rough Hide +11",
+      "Insightful Fortification  +62%",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Robe of Resonance (level 28)",
+    "link": "https://ddowiki.com/page/Item:Robe_of_Resonance_(level_28)",
+    "minLevel": "28",
+    "enhancements": [
+      "+14 Enhancement Bonus",
+      "Resonance +139",
+      "Physical Sheltering +32",
+      "Rough Hide +12",
+      "Insightful Fortification  +69%",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Robe of Resonance (level 32)",
+    "link": "https://ddowiki.com/page/Item:Robe_of_Resonance_(level_32)",
+    "minLevel": "32",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Resonance +153",
+      "Physical Sheltering +36",
+      "Rough Hide +14",
+      "Insightful Fortification  +76%",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Robe of Resonance (level 36)",
+    "link": "https://ddowiki.com/page/Item:Robe_of_Resonance_(level_36)",
+    "minLevel": "36",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Resonance +166",
+      "Physical Sheltering +40",
+      "Rough Hide +15",
+      "Insightful Fortification  +83%",
+      "Green Augment Slot",
+      "Colorless Augment Slot"
+    ]
+  },
+  {
+    "name": "Robe of Resonance (level 4)",
+    "link": "https://ddowiki.com/page/Item:Robe_of_Resonance_(level_4)",
+    "minLevel": "4",
+    "enhancements": [
+      "+2 Enhancement Bonus",
+      "Resonance +56",
+      "Physical Sheltering +8",
+      "Rough Hide +3",
+      "Insightful Fortification  +28%",
+      "Blue Augment Slot"
+    ]
+  },
+  {
+    "name": "Robe of Resonance (level 8)",
+    "link": "https://ddowiki.com/page/Item:Robe_of_Resonance_(level_8)",
+    "minLevel": "8",
+    "enhancements": [
+      "+4 Enhancement Bonus",
+      "Resonance +70",
+      "Physical Sheltering +12",
+      "Rough Hide +5",
+      "Insightful Fortification  +35%",
       "Blue Augment Slot"
     ]
   },
@@ -2287,16 +2474,7 @@
       "Spell Save +6",
       "Quality Potency +13",
       "Spellcraft +15",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
-    ]
-  },
-  {
-    "name": "Robe of Trivial Knowledge",
-    "link": "https://ddowiki.com/page/Item:Robe_of_Trivial_Knowledge",
-    "minLevel": "1",
-    "enhancements": [
-      "Haggle +3"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2320,8 +2498,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Insightful Spell Focus Mastery +3",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2334,8 +2511,7 @@
       "Exceptional Universal Spell Power +8",
       "Exceptional Universal Spell Lore +3%",
       "Legendary Spell Penetration +2",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2349,8 +2525,7 @@
       "Physical Sheltering +9",
       "Parrying +1",
       "Blue Augment Slot",
-      "Yellow Augment Slot",
-      "Seasons of the Feywild"
+      "Yellow Augment Slot"
     ]
   },
   {
@@ -2382,8 +2557,7 @@
       "Competence Elemental Resistance - 15",
       "Temperance of Spirit",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2396,8 +2570,7 @@
       "Exceptional Healing Amplification +7",
       "Competence Elemental Resistance - 5",
       "Linguistics",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2410,8 +2583,7 @@
       "Insightful Spell Resistance +7",
       "Quality Dodge +1%",
       "Insightful Fortification  +33%",
-      "Blue Augment Slot",
-      "The Dread Isle's Curse"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2435,10 +2607,9 @@
       "Accuracy +24",
       "Deadly +12",
       "Shadow Striker",
-      "Legendary Armor-Piercing - 5%",
+      "Legendary Armor-Piercing 5%",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Sun Augment Slot"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2450,9 +2621,8 @@
       "Accuracy +11",
       "Deadly +6",
       "Demonic Shield",
-      "Legendary Armor-Piercing - 2%",
-      "Blue Augment Slot",
-      "Sun Augment Slot"
+      "Legendary Armor-Piercing 2%",
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2493,8 +2663,7 @@
       "Physical Sheltering +21",
       "Exceptional Universal Spell Power +8",
       "Exceptional Universal Spell Lore +3%",
-      "Blue Augment Slot",
-      "Dreadkeeper"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2521,8 +2690,7 @@
       "Electric Absorption +18%",
       "Blurry",
       "Fortification  +70%",
-      "Green Augment Slot",
-      "Temple's Tempest"
+      "Green Augment Slot"
     ]
   },
   {
@@ -2565,11 +2733,7 @@
       "Fortification  +130%",
       "Ghostly",
       "From The Shadows",
-      "Blue Augment Slot",
-      "Flawed Shadowscale Armor",
-      "50 Shadow Dragon Scales",
-      "Shadow Caster",
-      "Shadow Disciple"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2584,11 +2748,7 @@
       "Fortification  +130%",
       "Ghostly",
       "From The Shadows",
-      "Blue Augment Slot",
-      "Flawed Shadowscale Armor",
-      "50 Shadow Dragon Scales",
-      "Shadow Caster",
-      "Shadow Disciple"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2622,8 +2782,7 @@
       "+2 Enhancement Bonus",
       "Ghostly",
       "False Life +11",
-      "Blue Augment Slot",
-      "Saltmarsh Explorer"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2711,8 +2870,7 @@
       "Insightful Spell Resistance +7",
       "Quality Dodge +1%",
       "Insightful Fortification  +33%",
-      "Blue Augment Slot",
-      "The Dread Isle's Curse"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2754,8 +2912,7 @@
       "Physical Sheltering +19",
       "Competence Healing Amplification +30",
       "False Life +29",
-      "Blue Augment Slot",
-      "Part of the Family"
+      "Blue Augment Slot"
     ]
   },
   {
@@ -2847,8 +3004,7 @@
       "Efficient Metamagic - Maximize I",
       "Disintegration Guard",
       "Green Augment Slot",
-      "Colorless Augment Slot",
-      "Vulkoor's Chosen"
+      "Colorless Augment Slot"
     ]
   },
   {
@@ -2885,8 +3041,7 @@
       "Physical Sheltering +19",
       "Competence Healing Amplification +30",
       "False Life +29",
-      "Blue Augment Slot",
-      "Wallwatch"
+      "Blue Augment Slot"
     ]
   }
 ]

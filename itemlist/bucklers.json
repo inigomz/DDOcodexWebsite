@@ -85,10 +85,10 @@
     "minLevel": "8",
     "enhancements": [
       "+5 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -130,8 +130,7 @@
       "Isle of Dread: Scale Slot (Armor): Empty",
       "Isle of Dread: Fang Slot (Armor): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -293,8 +292,8 @@
       "+5 Enhancement Bonus",
       "Guardbreaking",
       "Insightful Physical Sheltering +5",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -322,8 +321,7 @@
       "Spell Save +3",
       "Spell Resistance +10",
       "Crystal",
-      "Red Augment Slot",
-      "Seasons of the Feywild"
+      "Red Augment Slot"
     ]
   },
   {
@@ -399,10 +397,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Purple Augment Slot",
       "Orange Augment Slot"
     ]
@@ -444,8 +442,8 @@
       "+15 Enhancement Bonus",
       "Guardbreaking",
       "Insightful Physical Sheltering +18",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
       "Purple Augment Slot",
       "Orange Augment Slot"
     ]
@@ -461,9 +459,7 @@
       "Spell Save +10",
       "Spell Resistance +38",
       "Crystal",
-      "Purple Augment Slot",
-      "Eminence of Spring",
-      "Missile Deflection"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -515,11 +511,10 @@
     "enhancements": [
       "+15 Enhancement Bonus",
       "Impact",
-      "Armor-Piercing - 21%",
+      "Armor-Piercing 21%",
       "Doublestrike 15%",
       "Quality Dexterity +3",
-      "Red Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Red Augment Slot"
     ]
   },
   {
@@ -544,7 +539,7 @@
       "Impact",
       "Guardbreaking",
       "Doublestrike 16%",
-      "Armor-Piercing - 22%",
+      "Armor-Piercing 22%",
       "Huntmaster's Favor",
       "Red Augment Slot",
       "Purple Augment Slot"
@@ -748,8 +743,7 @@
       "Shield Bashing +9",
       "Undead Bane 3",
       "Silver",
-      "Orange Augment Slot",
-      "Adherent of the Mists Set (Heroic)"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -763,8 +757,7 @@
       "Shield Bashing +20",
       "Undead Bane 6",
       "Silver",
-      "Orange Augment Slot",
-      "Adherent of the Mists Set (Legendary)"
+      "Orange Augment Slot"
     ]
   },
   {
@@ -788,11 +781,10 @@
     "enhancements": [
       "+3 Enhancement Bonus",
       "Impact",
-      "Armor-Piercing - 7%",
+      "Armor-Piercing 7%",
       "Doublestrike 5%",
       "Quality Dexterity +1",
-      "Red Augment Slot",
-      "The Dread Isle's Curse"
+      "Red Augment Slot"
     ]
   }
 ]

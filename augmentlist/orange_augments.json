@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Citrene of Greater Dragonmarks",
+    "link": "https://ddowiki.com/page/Item:Citrene_of_Greater_Dragonmarks",
+    "itemType": "augment",
+    "augmentColor": "Orange",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "+1 Enhancement bonus to Greater Dragonmark charges"
+    ],
+    "sourceRaw": [
+      "The Final Enemy, end chest"
+    ]
+  },
+  {
+    "name": "Scourge of the Outsiders",
+    "link": "https://ddowiki.com/page/Item:Scourge_of_the_Outsiders",
+    "itemType": "augment",
+    "augmentColor": "Orange",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "deal 4 to 24 Bane damage to Outsiders on hit. On Vorpal Hit: If an outsider struck by this weapon has fewer than 1000 Hit Points, it is instantly slain. If the outsider has above 1000 hit points, it takes 100 damage."
+    ],
+    "sourceRaw": [
+      "The Thornwright, end chest"
+    ]
+  },
+  {
+    "name": "A Treatise on Battle",
+    "link": "https://ddowiki.com/page/Item:A_Treatise_on_Battle",
+    "itemType": "augment",
+    "augmentColor": "Orange",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Combat Mastery +11",
+      "Immunity to Fear"
+    ],
+    "sourceRaw": [
+      "Fire Over Morgrave, end chest"
+    ]
+  },
+  {
+    "name": "Meridian Fragment",
+    "link": "https://ddowiki.com/page/Item:Meridian_Fragment",
+    "itemType": "augment",
+    "augmentColor": "Orange",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Efficient Metamagic - Maximize III",
+      "Once every three seconds when you take physical damage you get Psionic Universal Spell Power +8. This can stack up to three times (up to Psionic Universal Spell Power +24) and each stack lasts for 20 seconds."
+    ],
+    "sourceRaw": [
+      "Fire on Thunder Peak, Warded chest"
+    ]
+  },
+  {
+    "name": "Dismagicka",
+    "link": "https://ddowiki.com/page/Item:Dismagicka",
+    "itemType": "augment",
+    "augmentColor": "Orange",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Improved Shattermantle"
+    ],
+    "sourceRaw": [
+      "The Dryad and the Demigod, End chest and optional chest"
+    ]
+  },
+  {
+    "name": "Facet of Psionic Intrusion",
+    "link": "https://ddowiki.com/page/Item:Facet_of_Psionic_Intrusion",
+    "itemType": "augment",
+    "augmentColor": "Orange",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "item becomes a Spellcasting Implement",
+      "Impulse +153",
+      "You also gain immunity to Mind-Altering Enchantments as if you were under the effects of the Protection from Evil spell"
+    ],
+    "sourceRaw": [
+      "Illithid Invasion, any chest"
+    ]
+  },
+  {
+    "name": "Essence of Constellation, Broken and Reforged",
+    "link": "https://ddowiki.com/page/Item:Essence_of_Constellation,_Broken_and_Reforged",
+    "itemType": "augment",
+    "augmentColor": "Orange",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Improved Destruction"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:The Broken Blade of Constellation (1) Item:The Shattered Hilt of Constellation",
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Constellation, Cursed Blade"
+    ]
+  },
+  {
+    "name": "Essence of the Spear of the Mournlands",
+    "link": "https://ddowiki.com/page/Item:Essence_of_the_Spear_of_the_Mournlands",
+    "itemType": "augment",
+    "augmentColor": "Orange",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Touch of the Mournlands"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Spear of the Mournlands"
+    ]
+  }
+]

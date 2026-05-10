@@ -81,9 +81,9 @@
     "enhancements": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
       "Red Augment Slot"
     ]
   },
@@ -99,8 +99,7 @@
       "Favored Weapon",
       "Adamantine",
       "Purple Augment Slot",
-      "Red Augment Slot",
-      "Menechtarun Scavenger"
+      "Red Augment Slot"
     ]
   },
   {
@@ -127,6 +126,19 @@
       "Vampirism 1",
       "Chilling 3",
       "Orange Augment Slot"
+    ]
+  },
+  {
+    "name": "Wing of Tailara",
+    "link": "https://ddowiki.com/page/Item:Wing_of_Tailara",
+    "minLevel": "10",
+    "enhancements": [
+      "+5 Enhancement Bonus",
+      "Chilling 3",
+      "Freezing 7",
+      "Banishing",
+      "Dragon's Edge 3",
+      "Red Augment Slot"
     ]
   },
   {
@@ -408,8 +420,7 @@
       "Anarchic Blast 4",
       "Vampirism 2",
       "Chaos Absorption +18%",
-      "Red Augment Slot",
-      "Epic Windlasher's Ferocity"
+      "Red Augment Slot"
     ]
   },
   {
@@ -423,8 +434,7 @@
       "Doublestrike 11%",
       "Favored Weapon",
       "Adamantine",
-      "Red Augment Slot",
-      "Epic Menechtarun Scavenger"
+      "Red Augment Slot"
     ]
   },
   {
@@ -752,8 +762,7 @@
       "Isle of Dread: Claw Slot (Weapon): Empty",
       "Isle of Dread: Horn Slot (Weapon): Empty",
       "Orange Augment Slot",
-      "Purple Augment Slot",
-      "The Legendary Dread Isle's Curse"
+      "Purple Augment Slot"
     ]
   },
   {
@@ -903,10 +912,10 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]
@@ -917,10 +926,24 @@
     "minLevel": "34",
     "enhancements": [
       "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon): Empty",
-      "Lamordia: Dolorous Slot (Weapon): Empty",
-      "Lamordia: Miserable Slot (Weapon): Empty",
-      "Lamordia: Woeful Slot (Weapon): Empty",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ]
+  },
+  {
+    "name": "Legendary Wing of Tailara",
+    "link": "https://ddowiki.com/page/Item:Legendary_Wing_of_Tailara",
+    "minLevel": "34",
+    "enhancements": [
+      "+15 Enhancement Bonus",
+      "Chilling 7",
+      "Freezing 16",
+      "Sovereign Banishing",
+      "Dragon's Edge 7",
       "Orange Augment Slot",
       "Purple Augment Slot"
     ]

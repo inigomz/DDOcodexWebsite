@@ -1,0 +1,2303 @@
+[
+  {
+    "name": "Guide to Animal Handling",
+    "link": "https://ddowiki.com/page/Item:Guide_to_Animal_Handling",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "+1 Enhancement bonus to Wild Empathy Charges"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Legendary Guide to Animal Handling",
+    "link": "https://ddowiki.com/page/Item:Legendary_Guide_to_Animal_Handling",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "+3 Enhancement bonus to Wild Empathy Charges"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Topaz of Abjuration Power",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Abjuration_Power",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Abjuration Focus +6"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Topaz of Acid Resistance 10",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Acid_Resistance_10",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acid Resistance +10"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Kipling Vranch, The Marketplace (8) Item:Astral Shard",
+      "Kipling Vranch, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Phoenix Tavern Purchase Order (10) Item:'Wavecrasher' Cargo Manifest (5) Item:Tome: Stormreach Imports and Exports, 857YK",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Peta Flashpin, The Marketplace (8) Item:Astral Shard",
+      "Peta Flashpin, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Glittering Dust (10) Item:Sparkling Dust (5) Item:Luminescent Dust"
+    ]
+  },
+  {
+    "name": "Topaz of Acid Resistance 15",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Acid_Resistance_15",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acid Resistance +15"
+    ],
+    "sourceRaw": [
+      "Chor Blast-Horn, House Kundarak (12) Item:Astral Shard",
+      "Chor Blast-Horn, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Romantic Sonnet (10) Item:Silver Flame Hymnal (5) Item:Tome: Lost Songs of Cyre",
+      "DDO Store, (75) DDO Point",
+      "Mantakhan, House Jorasco (12) Item:Astral Shard",
+      "Mantakhan, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Duskbrood Trumpeter (10) Item:Headsman Beetle (5) Item:Executioner Beetle",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Acid Resistance 20",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Acid_Resistance_20",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acid Resistance +20"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Topaz of Acid Resistance 25",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Acid_Resistance_25",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acid Resistance +25"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Acid Resistance 30",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Acid_Resistance_30",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acid Resistance +30"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Acid Resistance 35",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Acid_Resistance_35",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acid Resistance +35"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Acid Resistance 40",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Acid_Resistance_40",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acid Resistance +40"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Blue Water Inn), (40) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (60) Item:Vistani Totem (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Acid Resistance 45",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Acid_Resistance_45",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acid Resistance +45"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Morgrave University - Upper Commons), (44) Item:Astral Shard",
+      "Randall Lyric (Morgrave University - Upper Commons), (20) Item:Legendary Esoteric Relic (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Acid Resistance 5",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Acid_Resistance_5",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Acid Resistance +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Giles Goodman, The Marketplace (4) Item:Astral Shard",
+      "Giles Goodman, Randomly selected Yellow Augment with no minimum level (30) Item:Page Torn from a Research Notebook (10) Item:Khyber Prayer Pamphlet (5) Item:Tome: Prophecies of Khyber",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Anthem",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Anthem",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Anthem"
+    ],
+    "sourceRaw": [
+      "Precious Cargo, End chest"
+    ]
+  },
+  {
+    "name": "The Art of Sabotage, Vol. 1",
+    "link": "https://ddowiki.com/page/Item:The_Art_of_Sabotage,_Vol._1",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Armor-Piercing 14%"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "The Art of Sabotage, Vol. 3",
+    "link": "https://ddowiki.com/page/Item:The_Art_of_Sabotage,_Vol._3",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Armor-Piercing 22%"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "The Art of Persuasion, Vol. 1",
+    "link": "https://ddowiki.com/page/Item:The_Art_of_Persuasion,_Vol._1",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Assassinate +10"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "The Art of Persuasion, Vol. 3",
+    "link": "https://ddowiki.com/page/Item:The_Art_of_Persuasion,_Vol._3",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Assassinate +16"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Topaz of Cold Resistance 10",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Cold_Resistance_10",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Cold Resistance +10"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Kipling Vranch, The Marketplace (8) Item:Astral Shard",
+      "Kipling Vranch, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Phoenix Tavern Purchase Order (10) Item:'Wavecrasher' Cargo Manifest (5) Item:Tome: Stormreach Imports and Exports, 857YK",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Peta Flashpin, The Marketplace (8) Item:Astral Shard",
+      "Peta Flashpin, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Glittering Dust (10) Item:Sparkling Dust (5) Item:Luminescent Dust"
+    ]
+  },
+  {
+    "name": "Topaz of Cold Resistance 15",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Cold_Resistance_15",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Cold Resistance +15"
+    ],
+    "sourceRaw": [
+      "Chor Blast-Horn, House Kundarak (12) Item:Astral Shard",
+      "Chor Blast-Horn, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Romantic Sonnet (10) Item:Silver Flame Hymnal (5) Item:Tome: Lost Songs of Cyre",
+      "DDO Store, (75) DDO Point",
+      "Mantakhan, House Jorasco (12) Item:Astral Shard",
+      "Mantakhan, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Duskbrood Trumpeter (10) Item:Headsman Beetle (5) Item:Executioner Beetle",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Cold Resistance 20",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Cold_Resistance_20",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Cold Resistance +20"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Topaz of Cold Resistance 25",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Cold_Resistance_25",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Cold Resistance +25"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Cold Resistance 30",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Cold_Resistance_30",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Cold Resistance +30"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Cold Resistance 35",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Cold_Resistance_35",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Cold Resistance +35"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Cold Resistance 40",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Cold_Resistance_40",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Cold Resistance +40"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Wynwood Hall), (40) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Legendary Chunk of Ferrocrystal (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Cold Resistance 45",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Cold_Resistance_45",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Cold Resistance +45"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Topaz of Cold Resistance 5",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Cold_Resistance_5",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Cold Resistance +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Giles Goodman, The Marketplace (4) Item:Astral Shard",
+      "Giles Goodman, Randomly selected Yellow Augment with no minimum level (30) Item:Page Torn from a Research Notebook (10) Item:Khyber Prayer Pamphlet (5) Item:Tome: Prophecies of Khyber",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Conjured Power",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Conjured_Power",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Conjuration Focus +6"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Topaz of Damage +10",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Deadly +10"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Blue Water Inn), (40) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (60) Item:Vistani Totem (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Damage +11",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B11",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Deadly +11"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Morgrave University - Upper Commons), (44) Item:Astral Shard",
+      "Randall Lyric (Morgrave University - Upper Commons), (20) Item:Legendary Esoteric Relic (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Damage +1",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Deadly +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (12) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Quartermaster's Chit (300) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Damage +3",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Deadly +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (Wynwood Hall), (16) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Chunk of Ferrocrystal (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Damage +4",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B4",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Deadly +4"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point",
+      "Randall Lyric (Village of Tanaroa), (20) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (500) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Damage +5",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Deadly +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Damage +6",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Deadly +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (28) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Dampening Alloy (1) Caustic Compound (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Damage +8",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Deadly +8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Randall Lyric (Eveningstar), (32) Item:Astral Shard",
+      "Randall Lyric (Eveningstar), (15) Item:Commendation: Druids of the King's Forest (15) Item:Commendation: War Wizards (2000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Damage +9",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Deadly +9"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Ball and Chain Tavern), (36) Item:Astral Shard",
+      "Randall Lyric (The Ball and Chain Tavern), (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Arrowbound Topaz",
+    "link": "https://ddowiki.com/page/Item:Arrowbound_Topaz",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Doubleshot 4%"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Legendary Arrowbound Topaz",
+    "link": "https://ddowiki.com/page/Item:Legendary_Arrowbound_Topaz",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Doubleshot 8%"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Legendary Swordcrossed Topaz",
+    "link": "https://ddowiki.com/page/Item:Legendary_Swordcrossed_Topaz",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Doublestrike 15%"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Swordcrossed Topaz",
+    "link": "https://ddowiki.com/page/Item:Swordcrossed_Topaz",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Doublestrike 6%"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Crystallized Drop of Tea",
+    "link": "https://ddowiki.com/page/Item:Crystallized_Drop_of_Tea",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Efficient Metamagic - Empower IV",
+      "Once every three seconds when you take physical damage, you get Psionic Universal Spell Power +8. This can stack up to three times (up to Psionic Universal Spell Power +24) and each stack lasts for 20 seconds."
+    ],
+    "sourceRaw": [
+      "Through the Tulgey Wood, locked chest, end chest, second secret chest"
+    ]
+  },
+  {
+    "name": "Topaz of Electric Resistance 10",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Electric_Resistance_10",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Electric Resistance +10"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Kipling Vranch, The Marketplace (8) Item:Astral Shard",
+      "Kipling Vranch, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Phoenix Tavern Purchase Order (10) Item:'Wavecrasher' Cargo Manifest (5) Item:Tome: Stormreach Imports and Exports, 857YK",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Peta Flashpin, The Marketplace (8) Item:Astral Shard",
+      "Peta Flashpin, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Glittering Dust (10) Item:Sparkling Dust (5) Item:Luminescent Dust"
+    ]
+  },
+  {
+    "name": "Topaz of Electric Resistance 15",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Electric_Resistance_15",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Electric Resistance +15"
+    ],
+    "sourceRaw": [
+      "Chor Blast-Horn, House Kundarak (12) Item:Astral Shard",
+      "Chor Blast-Horn, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Romantic Sonnet (10) Item:Silver Flame Hymnal (5) Item:Tome: Lost Songs of Cyre",
+      "DDO Store, (75) DDO Point",
+      "Mantakhan, House Jorasco (12) Item:Astral Shard",
+      "Mantakhan, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Duskbrood Trumpeter (10) Item:Headsman Beetle (5) Item:Executioner Beetle",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Electric Resistance 20",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Electric_Resistance_20",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Electric Resistance +20"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Topaz of Electric Resistance 25",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Electric_Resistance_25",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Electric Resistance +25"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Electric Resistance 30",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Electric_Resistance_30",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Electric Resistance +30"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Electric Resistance 35",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Electric_Resistance_35",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Electric Resistance +35"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Electric Resistance 40",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Electric_Resistance_40",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Electric Resistance +40"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (40) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Dampening Alloy (1) Caustic Compound (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Electric Resistance 45",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Electric_Resistance_45",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Electric Resistance +45"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Topaz of Electric Resistance 5",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Electric_Resistance_5",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Electric Resistance +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Giles Goodman, The Marketplace (4) Item:Astral Shard",
+      "Giles Goodman, Randomly selected Yellow Augment with no minimum level (30) Item:Page Torn from a Research Notebook (10) Item:Khyber Prayer Pamphlet (5) Item:Tome: Prophecies of Khyber",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Draconic Soul Gem",
+    "link": "https://ddowiki.com/page/Item:Draconic_Soul_Gem",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 25,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Elemental Resistance +30"
+    ],
+    "sourceRaw": [
+      "The Fall of Truth, (Epic Elite or higher) end chest"
+    ]
+  },
+  {
+    "name": "Topaz of Enchanted Power",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Enchanted_Power",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Enchantment Focus +6"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Topaz of Abjuration",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Abjuration",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Abjuration Focus +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Topaz of Greater Abjuration",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Greater_Abjuration",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Abjuration Focus +2"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Conjuration",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Conjuration",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Conjuration Focus +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Topaz of Greater Conjuration",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Greater_Conjuration",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Conjuration Focus +2"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Enchantment",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Enchantment",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Enchantment Focus +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Topaz of Greater Enchantment",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Greater_Enchantment",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Enchantment Focus +2"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Evocation",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Evocation",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Evocation Focus +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Topaz of Greater Evocation",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Greater_Evocation",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Evocation Focus +2"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Illusion",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Illusion",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Illusion Focus +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Topaz of Greater Illusion",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Greater_Illusion",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Illusion Focus +2"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Necromancy",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Necromancy",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Necromancy Focus +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Topaz of Greater Necromancy",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Greater_Necromancy",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Necromancy Focus +2"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Transmutation",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Transmutation",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Transmutation Focus +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Topaz of Greater Transmutation",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Greater_Transmutation",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Enhancement Transmutation Focus +2"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Evocation Power",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Evocation_Power",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Evocation Focus +6"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Topaz of Minor Smiting",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Minor_Smiting",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Extra Smite"
+    ],
+    "sourceRaw": [
+      "Danger at Dunwater, End chest"
+    ]
+  },
+  {
+    "name": "Topaz of Fire Resistance 10",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Fire_Resistance_10",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Fire Resistance +10"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Kipling Vranch, The Marketplace (8) Item:Astral Shard",
+      "Kipling Vranch, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Phoenix Tavern Purchase Order (10) Item:'Wavecrasher' Cargo Manifest (5) Item:Tome: Stormreach Imports and Exports, 857YK",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Peta Flashpin, The Marketplace (8) Item:Astral Shard",
+      "Peta Flashpin, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Glittering Dust (10) Item:Sparkling Dust (5) Item:Luminescent Dust"
+    ]
+  },
+  {
+    "name": "Topaz of Fire Resistance 15",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Fire_Resistance_15",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Fire Resistance +15"
+    ],
+    "sourceRaw": [
+      "Chor Blast-Horn, House Kundarak (12) Item:Astral Shard",
+      "Chor Blast-Horn, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Romantic Sonnet (10) Item:Silver Flame Hymnal (5) Item:Tome: Lost Songs of Cyre",
+      "DDO Store, (75) DDO Point",
+      "Mantakhan, House Jorasco (12) Item:Astral Shard",
+      "Mantakhan, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Duskbrood Trumpeter (10) Item:Headsman Beetle (5) Item:Executioner Beetle",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Fire Resistance 20",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Fire_Resistance_20",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Fire Resistance +20"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Topaz of Fire Resistance 25",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Fire_Resistance_25",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Fire Resistance +25"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Fire Resistance 30",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Fire_Resistance_30",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Fire Resistance +30"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Fire Resistance 35",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Fire_Resistance_35",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Fire Resistance +35"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Fire Resistance 40",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Fire_Resistance_40",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Fire Resistance +40"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (40) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Legendary Quartermaster's Chit (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Fire Resistance 45",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Fire_Resistance_45",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Fire Resistance +45"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Village of Tanaroa), (44) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Fire Resistance 5",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Fire_Resistance_5",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Fire Resistance +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Giles Goodman, The Marketplace (4) Item:Astral Shard",
+      "Giles Goodman, Randomly selected Yellow Augment with no minimum level (30) Item:Page Torn from a Research Notebook (10) Item:Khyber Prayer Pamphlet (5) Item:Tome: Prophecies of Khyber",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Illusory Power",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Illusory_Power",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Illusion Focus +6"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Essence of the Cloak of Strahd",
+    "link": "https://ddowiki.com/page/Item:Essence_of_the_Cloak_of_Strahd",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Invisibility Guard"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:The Invisible Cloak of Strahd"
+    ]
+  },
+  {
+    "name": "Topaz of Melee Power +10",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Melee_Power_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Melee Power +10"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (40) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Dampening Alloy (1) Stabilizing Compound (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Melee Power +12",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Melee_Power_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Melee Power +12"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Topaz of Melee Power +2",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Melee_Power_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Melee Power +2"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Melee Power +4",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Melee_Power_%2B4",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Melee Power +4"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (28) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Dampening Alloy (1) Caustic Compound (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Melee Power +6",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Melee_Power_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Melee Power +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Randall Lyric (Eveningstar), (32) Item:Astral Shard",
+      "Randall Lyric (Eveningstar), (15) Item:Commendation: War Wizards (15) Item:Commendation: Purple Dragon Knights (2000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Melee Power +8",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Melee_Power_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Melee Power +8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Ball and Chain Tavern), (36) Item:Astral Shard",
+      "Randall Lyric (The Ball and Chain Tavern), (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Minor Rage",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Minor_Rage",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Minor Anger"
+    ],
+    "sourceRaw": [
+      "Swim at Your Own Risk, End chest"
+    ]
+  },
+  {
+    "name": "Topaz of Lesser Dragonmarks",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Lesser_Dragonmarks",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Minor Lesser Dragonmark Enhancement"
+    ],
+    "sourceRaw": [
+      "The Final Enemy, End chest"
+    ]
+  },
+  {
+    "name": "Topaz of Necromantic Power",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Necromantic_Power",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Necromancy Focus +6"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Essence of the Nullscale Armor",
+    "link": "https://ddowiki.com/page/Item:Essence_of_the_Nullscale_Armor",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Nullmagic Guard"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Nullscale Armor"
+    ]
+  },
+  {
+    "name": "Topaz of Proof Against Disease +3",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Proof_Against_Disease_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Proof Against Disease +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Proof Against Disease +4",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Proof_Against_Disease_%2B4",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Proof Against Disease +4"
+    ],
+    "sourceRaw": [
+      "Chor Blast-Horn, House Kundarak (12) Item:Astral Shard",
+      "Chor Blast-Horn, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Romantic Sonnet (10) Item:Silver Flame Hymnal (5) Item:Tome: Lost Songs of Cyre",
+      "DDO Store, (75) DDO Point",
+      "Mantakhan, House Jorasco (12) Item:Astral Shard",
+      "Mantakhan, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Duskbrood Trumpeter (10) Item:Headsman Beetle (5) Item:Executioner Beetle"
+    ]
+  },
+  {
+    "name": "Topaz of Proof Against Disease +5",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Proof_Against_Disease_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Proof Against Disease +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Proof Against Disease +6",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Proof_Against_Disease_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Proof Against Disease +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Topaz of Proof Against Disease +8",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Proof_Against_Disease_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Proof Against Disease +8"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Proof Against Poison +3",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Proof_Against_Poison_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Proof Against Poison +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Proof Against Poison +4",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Proof_Against_Poison_%2B4",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Proof Against Poison +4"
+    ],
+    "sourceRaw": [
+      "Chor Blast-Horn, House Kundarak (12) Item:Astral Shard",
+      "Chor Blast-Horn, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Romantic Sonnet (10) Item:Silver Flame Hymnal (5) Item:Tome: Lost Songs of Cyre",
+      "DDO Store, (75) DDO Point",
+      "Mantakhan, House Jorasco (12) Item:Astral Shard",
+      "Mantakhan, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Duskbrood Trumpeter (10) Item:Headsman Beetle (5) Item:Executioner Beetle"
+    ]
+  },
+  {
+    "name": "Topaz of Proof Against Poison +5",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Proof_Against_Poison_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Proof Against Poison +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Proof Against Poison +6",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Proof_Against_Poison_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Proof Against Poison +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Topaz of Proof Against Poison +8",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Proof_Against_Poison_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Proof Against Poison +8"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Ranged Power +10",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Ranged_Power_%2B10",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Ranged Power +10"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (40) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Legendary Quartermaster's Chit (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Ranged Power +12",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Ranged_Power_%2B12",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Ranged Power +12"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Village of Tanaroa), (44) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Ranged Power +2",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Ranged_Power_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Ranged Power +2"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Ranged Power +4",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Ranged_Power_%2B4",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Ranged Power +4"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Randall Lyric (Sharn - Clifftop Tower District), (28) Item:Astral Shard",
+      "Randall Lyric (Sharn - Clifftop Tower District), (1) Dampening Alloy (1) Stabilizing Compound (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Ranged Power +6",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Ranged_Power_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Ranged Power +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Randall Lyric (Eveningstar), (32) Item:Astral Shard",
+      "Randall Lyric (Eveningstar), (15) Item:Commendation: Clerics of Amaunator (15) Item:Commendation: Druids of the King's Forest (2000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Ranged Power +8",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Ranged_Power_%2B8",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Ranged Power +8"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Ball and Chain Tavern), (36) Item:Astral Shard",
+      "Randall Lyric (The Ball and Chain Tavern), (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Sonic Resistance 10",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Sonic_Resistance_10",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sonic Resistance +10"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Kipling Vranch, The Marketplace (8) Item:Astral Shard",
+      "Kipling Vranch, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Phoenix Tavern Purchase Order (10) Item:'Wavecrasher' Cargo Manifest (5) Item:Tome: Stormreach Imports and Exports, 857YK",
+      "Monster Hunter, Hall of Heroes (200) Item:Mysterious Remnant",
+      "Peta Flashpin, The Marketplace (8) Item:Astral Shard",
+      "Peta Flashpin, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Glittering Dust (10) Item:Sparkling Dust (5) Item:Luminescent Dust"
+    ]
+  },
+  {
+    "name": "Topaz of Sonic Resistance 15",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Sonic_Resistance_15",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sonic Resistance +15"
+    ],
+    "sourceRaw": [
+      "Chor Blast-Horn, House Kundarak (12) Item:Astral Shard",
+      "Chor Blast-Horn, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Romantic Sonnet (10) Item:Silver Flame Hymnal (5) Item:Tome: Lost Songs of Cyre",
+      "DDO Store, (75) DDO Point",
+      "Mantakhan, House Jorasco (12) Item:Astral Shard",
+      "Mantakhan, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Duskbrood Trumpeter (10) Item:Headsman Beetle (5) Item:Executioner Beetle",
+      "Monster Hunter, Hall of Heroes (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Sonic Resistance 20",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Sonic_Resistance_20",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sonic Resistance +20"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Monster Hunter, Hall of Heroes (600) Item:Mysterious Remnant",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Topaz of Sonic Resistance 25",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Sonic_Resistance_25",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sonic Resistance +25"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic",
+      "Monster Hunter, Hall of Heroes (800) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Sonic Resistance 30",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Sonic_Resistance_30",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sonic Resistance +30"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Monster Hunter, Hall of Heroes (1000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Sonic Resistance 35",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Sonic_Resistance_35",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sonic Resistance +35"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Sonic Resistance 40",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Sonic_Resistance_40",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sonic Resistance +40"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (40) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Legendary Quartermaster's Chit (4000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Sonic Resistance 45",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Sonic_Resistance_45",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sonic Resistance +45"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Village of Tanaroa), (44) Item:Astral Shard",
+      "Randall Lyric (Village of Tanaroa), (5000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Sonic Resistance 5",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Sonic_Resistance_5",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Sonic Resistance +5"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Giles Goodman, The Marketplace (4) Item:Astral Shard",
+      "Giles Goodman, Randomly selected Yellow Augment with no minimum level (30) Item:Page Torn from a Research Notebook (10) Item:Khyber Prayer Pamphlet (5) Item:Tome: Prophecies of Khyber",
+      "Monster Hunter, Hall of Heroes (100) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Swiftness 15%",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Swiftness_15%25",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Speed +30%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Spell Penetration +1",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Spell_Penetration_%2B1",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spell Penetration +1"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (The Snapping Line Inn), (12) Item:Astral Shard",
+      "Randall Lyric (The Snapping Line Inn), (20) Item:Quartermaster's Chit (300) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Spell Penetration +2",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Spell_Penetration_%2B2",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spell Penetration +2"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Randall Lyric (Wynwood Hall), (16) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Chunk of Ferrocrystal (400) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Spell Penetration +3",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Spell_Penetration_%2B3",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spell Penetration +3"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Spell Penetration +4",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Spell_Penetration_%2B4",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spell Penetration +4"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Spell Penetration +5",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Spell_Penetration_%2B5",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spell Penetration +5"
+    ],
+    "sourceRaw": [
+      "Randall Lyric (Blue Water Inn), (24) Item:Astral Shard",
+      "Randall Lyric (Blue Water Inn), (40) Item:Vistani Talisman (700) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Spell Penetration +6",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Spell_Penetration_%2B6",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spell Penetration +6"
+    ],
+    "sourceRaw": [
+      "DDO Store, (175) DDO Point",
+      "Randall Lyric (Eveningstar), (32) Item:Astral Shard",
+      "Randall Lyric (Eveningstar), (15) Item:Commendation: Villagers of Eveningstar (15) Item:Commendation: Clerics of Amaunator (2000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Spell Penetration +7",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Spell_Penetration_%2B7",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spell Penetration +7"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (The Ball and Chain Tavern), (36) Item:Astral Shard",
+      "Randall Lyric (The Ball and Chain Tavern), (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Spell Penetration +9",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Spell_Penetration_%2B9",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Spell Penetration +9"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Topaz of Striding 10%",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Striding_10%25",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Striding +10%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Giles Goodman, The Marketplace (4) Item:Astral Shard",
+      "Giles Goodman, Randomly selected Yellow Augment with no minimum level (30) Item:Page Torn from a Research Notebook (10) Item:Khyber Prayer Pamphlet (5) Item:Tome: Prophecies of Khyber"
+    ]
+  },
+  {
+    "name": "Topaz of Striding 20%",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Striding_20%25",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Striding +20%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Kipling Vranch, The Marketplace (8) Item:Astral Shard",
+      "Kipling Vranch, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Phoenix Tavern Purchase Order (10) Item:'Wavecrasher' Cargo Manifest (5) Item:Tome: Stormreach Imports and Exports, 857YK",
+      "Peta Flashpin, The Marketplace (8) Item:Astral Shard",
+      "Peta Flashpin, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Glittering Dust (10) Item:Sparkling Dust (5) Item:Luminescent Dust"
+    ]
+  },
+  {
+    "name": "Topaz of Striding 30%",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Striding_30%25",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Striding +30%"
+    ],
+    "sourceRaw": [
+      "Chor Blast-Horn, House Kundarak (12) Item:Astral Shard",
+      "Chor Blast-Horn, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Romantic Sonnet (10) Item:Silver Flame Hymnal (5) Item:Tome: Lost Songs of Cyre",
+      "DDO Store, (75) DDO Point",
+      "Mantakhan, House Jorasco (12) Item:Astral Shard",
+      "Mantakhan, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Duskbrood Trumpeter (10) Item:Headsman Beetle (5) Item:Executioner Beetle"
+    ]
+  },
+  {
+    "name": "Topaz of Swiftness 5%",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Swiftness_5%25",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Striding +30%",
+      "Melee Alacrity 5%"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Topaz of Swiftness 10%",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Swiftness_10%25",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Striding +30%",
+      "Melee Alacrity 10%"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Transmuted Power",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Transmuted_Power",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Transmutation Focus +6"
+    ],
+    "sourceRaw": [
+      "The Isle of Dread, Any chest"
+    ]
+  },
+  {
+    "name": "Topaz of Wizardry +129",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Wizardry_%2B129",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wizardry +129"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point",
+      "Ruskin Blackboot, Gianthold (3) Item:Ancient Dragon Relic (3) Item:Ancient Elven Relic (3) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Topaz of Wizardry +162",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Wizardry_%2B162",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 16,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wizardry +162"
+    ],
+    "sourceRaw": [
+      "DDO Store, (150) DDO Point",
+      "Meliager Ei'n, Gianthold (6) Item:Ancient Dragon Relic (6) Item:Ancient Elven Relic (6) Item:Ancient Giant Relic"
+    ]
+  },
+  {
+    "name": "Topaz of Wizardry +195",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Wizardry_%2B195",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 20,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wizardry +195"
+    ],
+    "sourceRaw": [
+      "Broag Umber, Gianthold (6) Item:Restored Dragon Relic (6) Item:Restored Elven Relic (6) Item:Restored Giant Relic",
+      "DDO Store, (175) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Topaz of Wizardry +19",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Wizardry_%2B19",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 1,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wizardry +19"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Wizardry +228",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Wizardry_%2B228",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 24,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wizardry +228"
+    ],
+    "sourceRaw": [
+      "Agate Twistiron, Gianthold (1) Item:Commendation of Heroism (9) Item:Restored Dragon Relic (9) Item:Restored Elven Relic (9) Item:Restored Giant Relic",
+      "DDO Store, (195) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Wizardry +261",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Wizardry_%2B261",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 28,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wizardry +261"
+    ],
+    "sourceRaw": [
+      "DDO Store, (195) DDO Point",
+      "Randall Lyric (Wynwood Hall), (40) Item:Astral Shard",
+      "Randall Lyric (Wynwood Hall), (40) Item:Legendary Chunk of Ferrocrystal (3000) Item:Mysterious Remnant"
+    ]
+  },
+  {
+    "name": "Topaz of Wizardry +294",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Wizardry_%2B294",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wizardry +294"
+    ],
+    "sourceRaw": []
+  },
+  {
+    "name": "Topaz of Wizardry +60",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Wizardry_%2B60",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wizardry +60"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Kipling Vranch, The Marketplace (8) Item:Astral Shard",
+      "Kipling Vranch, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Phoenix Tavern Purchase Order (10) Item:'Wavecrasher' Cargo Manifest (5) Item:Tome: Stormreach Imports and Exports, 857YK",
+      "Peta Flashpin, The Marketplace (8) Item:Astral Shard",
+      "Peta Flashpin, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Glittering Dust (10) Item:Sparkling Dust (5) Item:Luminescent Dust"
+    ]
+  },
+  {
+    "name": "Topaz of Wizardry +96",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Wizardry_%2B96",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Wizardry +96"
+    ],
+    "sourceRaw": [
+      "DDO Store, (75) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Quick Movements",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Quick_Movements",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 6,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Feat: Quick Draw"
+    ],
+    "sourceRaw": [
+      "The Feywild, Any rare encounter chest"
+    ]
+  },
+  {
+    "name": "Essence of the Cracked Core",
+    "link": "https://ddowiki.com/page/Item:Essence_of_the_Cracked_Core",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Alchemical Conservation"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Cracked Core"
+    ]
+  },
+  {
+    "name": "Essence of Dark Diversion",
+    "link": "https://ddowiki.com/page/Item:Essence_of_Dark_Diversion",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 30,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Occultation"
+    ],
+    "sourceRaw": [
+      "Soulforge, Hall of Heroes (50) Item:Thread of Fate (1) Item:Empty Soul Vessel (1) Item:Dark Diversion"
+    ]
+  },
+  {
+    "name": "Moment to Moment",
+    "link": "https://ddowiki.com/page/Item:Moment_to_Moment",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 18,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Minor Action Boost Enhancement"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Legendary Moment to Legendary Moment",
+    "link": "https://ddowiki.com/page/Item:Legendary_Moment_to_Legendary_Moment",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 32,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Action Boost Enhancement"
+    ],
+    "sourceRaw": [
+      "Vecna Unleashed, Any quest end chest"
+    ]
+  },
+  {
+    "name": "Topaz of Blindness Immunity",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Blindness_Immunity",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Blindness Immunity"
+    ],
+    "sourceRaw": [
+      "Chor Blast-Horn, House Kundarak (12) Item:Astral Shard",
+      "Chor Blast-Horn, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Romantic Sonnet (10) Item:Silver Flame Hymnal (5) Item:Tome: Lost Songs of Cyre",
+      "DDO Store, (75) DDO Point",
+      "Lahar, The Twelve (20) Item:Token of the Twelve",
+      "Mantakhan, House Jorasco (12) Item:Astral Shard",
+      "Mantakhan, Randomly selected Yellow Augment of Minimum Level 8 (30) Item:Duskbrood Trumpeter (10) Item:Headsman Beetle (5) Item:Executioner Beetle"
+    ]
+  },
+  {
+    "name": "Topaz of Deathblock",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Deathblock",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 12,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Deathblock"
+    ],
+    "sourceRaw": [
+      "DDO Store, (95) DDO Point"
+    ]
+  },
+  {
+    "name": "Topaz of Feather Falling",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Feather_Falling",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Feather Falling"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Kipling Vranch, The Marketplace (8) Item:Astral Shard",
+      "Kipling Vranch, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Phoenix Tavern Purchase Order (10) Item:'Wavecrasher' Cargo Manifest (5) Item:Tome: Stormreach Imports and Exports, 857YK",
+      "Lahar, The Twelve (20) Item:Token of the Twelve",
+      "Peta Flashpin, The Marketplace (8) Item:Astral Shard",
+      "Peta Flashpin, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Glittering Dust (10) Item:Sparkling Dust (5) Item:Luminescent Dust"
+    ]
+  },
+  {
+    "name": "Topaz of Fear Immunity",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Fear_Immunity",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 8,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Immunity to Fear"
+    ],
+    "sourceRaw": [
+      "Lahar, The Twelve (20) Item:Token of the Twelve"
+    ]
+  },
+  {
+    "name": "Topaz of Water Breathing",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Water_Breathing",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 4,
+    "binding": "Unbound",
+    "effectsRaw": [
+      "Underwater Action"
+    ],
+    "sourceRaw": [
+      "DDO Store, (50) DDO Point",
+      "Kipling Vranch, The Marketplace (8) Item:Astral Shard",
+      "Kipling Vranch, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Phoenix Tavern Purchase Order (10) Item:'Wavecrasher' Cargo Manifest (5) Item:Tome: Stormreach Imports and Exports, 857YK",
+      "Lahar, The Twelve (20) Item:Token of the Twelve",
+      "Peta Flashpin, The Marketplace (8) Item:Astral Shard",
+      "Peta Flashpin, Randomly selected Yellow Augment of Minimum Level 4 (30) Item:Glittering Dust (10) Item:Sparkling Dust (5) Item:Luminescent Dust"
+    ]
+  },
+  {
+    "name": "Topaz of Augmented Summoning",
+    "link": "https://ddowiki.com/page/Item:Topaz_of_Augmented_Summoning",
+    "itemType": "augment",
+    "augmentColor": "Yellow",
+    "minLevel": 28,
+    "binding": "Bound to Account on Acquire",
+    "effectsRaw": [
+      "Augment Summoning"
+    ],
+    "sourceRaw": [
+      "The Feywild, Any rare encounter chest"
+    ]
+  }
+]
