@@ -1,0 +1,1088 @@
+{
+  "counts": {
+    "targetCount": 46,
+    "metTargetCount": 21,
+    "underfilledTargetCount": 12,
+    "missingTargetCount": 13,
+    "openGapCount": 25,
+    "openNormalSlotCount": 15,
+    "normalAugmentRecommendationCount": 2,
+    "craftingAugmentRecommendationCount": 0
+  },
+  "highestPriorityOpenGaps": [
+    {
+      "targetId": "default_or_enhancement_stunning",
+      "label": "Stunning",
+      "category": "tactical_dc",
+      "priority": 100,
+      "status": "below_target",
+      "currentValue": 16,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Stunning +16",
+        "stackKey": "Default:Stunning",
+        "value": 16,
+        "sourceLabel": "Sapphire of Stunning +16 slotted into Perfected Jidz-Tet'ka"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_combat_mastery",
+      "label": "Combat Mastery",
+      "category": "tactical_dc",
+      "priority": 98,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 12,
+      "missingToMinimum": 10,
+      "missingToTarget": 12,
+      "bestBonus": null
+    },
+    {
+      "targetId": "insightful_stunning",
+      "label": "Insightful Stunning",
+      "category": "tactical_dc",
+      "priority": 85,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 6,
+      "targetValue": 6,
+      "missingToMinimum": 6,
+      "missingToTarget": 6,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_prr",
+      "label": "PRR",
+      "category": "survivability",
+      "priority": 84,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_mrr",
+      "label": "MRR",
+      "category": "survivability",
+      "priority": 82,
+      "status": "below_target",
+      "currentValue": 35,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 3,
+      "bestBonus": {
+        "raw": "Magical Sheltering +35",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 35,
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_deadly",
+      "label": "Deadly",
+      "category": "melee_damage",
+      "priority": 78,
+      "status": "below_target",
+      "currentValue": 11,
+      "minimumValue": 11,
+      "targetValue": 12,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Deadly +11",
+        "stackKey": "Default:Deadly",
+        "value": 11,
+        "sourceLabel": "Topaz of Damage +11 slotted into Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_physical_sheltering",
+      "label": "Physical Sheltering",
+      "category": "survivability",
+      "priority": 78,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_enhanced_ki",
+      "label": "Enhanced Ki",
+      "category": "monk",
+      "priority": 78,
+      "status": "below_minimum",
+      "currentValue": 3,
+      "minimumValue": 4,
+      "targetValue": 5,
+      "missingToMinimum": 1,
+      "missingToTarget": 2,
+      "bestBonus": {
+        "raw": "Enhanced Ki +3",
+        "stackKey": "Default:Enhanced Ki",
+        "value": 3,
+        "sourceLabel": "Visions of Precision"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_constitution",
+      "label": "Constitution",
+      "category": "primary_stat",
+      "priority": 76,
+      "status": "below_target",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Constitution +14",
+        "stackKey": "Default:Constitution",
+        "value": 14,
+        "sourceLabel": "Diamond of Constitution +14 slotted into Legendary Black Dynamo"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_magical_sheltering",
+      "label": "Magical Sheltering",
+      "category": "survivability",
+      "priority": 76,
+      "status": "below_target",
+      "currentValue": 35,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 3,
+      "bestBonus": {
+        "raw": "Magical Sheltering +35",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 35,
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_armor_piercing",
+      "label": "Armor-Piercing",
+      "category": "melee_damage",
+      "priority": 74,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 21,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Armor-Piercing 23%",
+        "stackKey": "Default:Armor-Piercing",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "quality_doublestrike",
+      "label": "Quality Doublestrike",
+      "category": "melee_damage",
+      "priority": 72,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 4,
+      "targetValue": 4,
+      "missingToMinimum": 4,
+      "missingToTarget": 4,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_accuracy",
+      "label": "Accuracy",
+      "category": "melee_accuracy",
+      "priority": 72,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 22,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Accuracy +23",
+        "stackKey": "Default:Accuracy",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "artifact_tactical_dc",
+      "label": "Artifact Tactical DC",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 5,
+      "targetValue": 5,
+      "missingToMinimum": 5,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_doublestrike",
+      "label": "Artifact Doublestrike",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 15,
+      "targetValue": 15,
+      "missingToMinimum": 15,
+      "missingToTarget": 15,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_armor_piercing",
+      "label": "Artifact Armor-Piercing",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 30,
+      "targetValue": 30,
+      "missingToMinimum": 30,
+      "missingToTarget": 30,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_dodge",
+      "label": "Dodge",
+      "category": "survivability",
+      "priority": 70,
+      "status": "below_target",
+      "currentValue": 14,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Dodge +14%",
+        "stackKey": "Default:Dodge",
+        "value": 14,
+        "sourceLabel": "Sapphire of Dodge +14% slotted into Firefly Garb"
+      }
+    },
+    {
+      "targetId": "quality_constitution",
+      "label": "Quality Constitution",
+      "category": "primary_stat",
+      "priority": 66,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "missingToMinimum": 3,
+      "missingToTarget": 3,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_fortification",
+      "label": "Fortification",
+      "category": "survivability",
+      "priority": 66,
+      "status": "below_target",
+      "currentValue": 142,
+      "minimumValue": 142,
+      "targetValue": 156,
+      "missingToMinimum": 0,
+      "missingToTarget": 14,
+      "bestBonus": {
+        "raw": "Fortification +142%",
+        "stackKey": "Default:Fortification",
+        "value": 142,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "insightful_deadly",
+      "label": "Insightful Deadly",
+      "category": "melee_damage",
+      "priority": 64,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 5,
+      "targetValue": 5,
+      "missingToMinimum": 5,
+      "missingToTarget": 5,
+      "bestBonus": null
+    }
+  ],
+  "underfilledTargets": [
+    {
+      "targetId": "default_or_enhancement_stunning",
+      "label": "Stunning",
+      "category": "tactical_dc",
+      "priority": 100,
+      "status": "below_target",
+      "currentValue": 16,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Stunning +16",
+        "stackKey": "Default:Stunning",
+        "value": 16,
+        "sourceLabel": "Sapphire of Stunning +16 slotted into Perfected Jidz-Tet'ka"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_prr",
+      "label": "PRR",
+      "category": "survivability",
+      "priority": 84,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_mrr",
+      "label": "MRR",
+      "category": "survivability",
+      "priority": 82,
+      "status": "below_target",
+      "currentValue": 35,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 3,
+      "bestBonus": {
+        "raw": "Magical Sheltering +35",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 35,
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_deadly",
+      "label": "Deadly",
+      "category": "melee_damage",
+      "priority": 78,
+      "status": "below_target",
+      "currentValue": 11,
+      "minimumValue": 11,
+      "targetValue": 12,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Deadly +11",
+        "stackKey": "Default:Deadly",
+        "value": 11,
+        "sourceLabel": "Topaz of Damage +11 slotted into Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_physical_sheltering",
+      "label": "Physical Sheltering",
+      "category": "survivability",
+      "priority": 78,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_enhanced_ki",
+      "label": "Enhanced Ki",
+      "category": "monk",
+      "priority": 78,
+      "status": "below_minimum",
+      "currentValue": 3,
+      "minimumValue": 4,
+      "targetValue": 5,
+      "missingToMinimum": 1,
+      "missingToTarget": 2,
+      "bestBonus": {
+        "raw": "Enhanced Ki +3",
+        "stackKey": "Default:Enhanced Ki",
+        "value": 3,
+        "sourceLabel": "Visions of Precision"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_constitution",
+      "label": "Constitution",
+      "category": "primary_stat",
+      "priority": 76,
+      "status": "below_target",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Constitution +14",
+        "stackKey": "Default:Constitution",
+        "value": 14,
+        "sourceLabel": "Diamond of Constitution +14 slotted into Legendary Black Dynamo"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_magical_sheltering",
+      "label": "Magical Sheltering",
+      "category": "survivability",
+      "priority": 76,
+      "status": "below_target",
+      "currentValue": 35,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 3,
+      "bestBonus": {
+        "raw": "Magical Sheltering +35",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 35,
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_armor_piercing",
+      "label": "Armor-Piercing",
+      "category": "melee_damage",
+      "priority": 74,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 21,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Armor-Piercing 23%",
+        "stackKey": "Default:Armor-Piercing",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_accuracy",
+      "label": "Accuracy",
+      "category": "melee_accuracy",
+      "priority": 72,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 22,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Accuracy +23",
+        "stackKey": "Default:Accuracy",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_dodge",
+      "label": "Dodge",
+      "category": "survivability",
+      "priority": 70,
+      "status": "below_target",
+      "currentValue": 14,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Dodge +14%",
+        "stackKey": "Default:Dodge",
+        "value": 14,
+        "sourceLabel": "Sapphire of Dodge +14% slotted into Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_fortification",
+      "label": "Fortification",
+      "category": "survivability",
+      "priority": 66,
+      "status": "below_target",
+      "currentValue": 142,
+      "minimumValue": 142,
+      "targetValue": 156,
+      "missingToMinimum": 0,
+      "missingToTarget": 14,
+      "bestBonus": {
+        "raw": "Fortification +142%",
+        "stackKey": "Default:Fortification",
+        "value": 142,
+        "sourceLabel": "Firefly Garb"
+      }
+    }
+  ],
+  "missingTargets": [
+    {
+      "targetId": "default_or_enhancement_combat_mastery",
+      "label": "Combat Mastery",
+      "category": "tactical_dc",
+      "priority": 98,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 12,
+      "missingToMinimum": 10,
+      "missingToTarget": 12,
+      "bestBonus": null
+    },
+    {
+      "targetId": "insightful_stunning",
+      "label": "Insightful Stunning",
+      "category": "tactical_dc",
+      "priority": 85,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 6,
+      "targetValue": 6,
+      "missingToMinimum": 6,
+      "missingToTarget": 6,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_doublestrike",
+      "label": "Quality Doublestrike",
+      "category": "melee_damage",
+      "priority": 72,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 4,
+      "targetValue": 4,
+      "missingToMinimum": 4,
+      "missingToTarget": 4,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_tactical_dc",
+      "label": "Artifact Tactical DC",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 5,
+      "targetValue": 5,
+      "missingToMinimum": 5,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_doublestrike",
+      "label": "Artifact Doublestrike",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 15,
+      "targetValue": 15,
+      "missingToMinimum": 15,
+      "missingToTarget": 15,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_armor_piercing",
+      "label": "Artifact Armor-Piercing",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 30,
+      "targetValue": 30,
+      "missingToMinimum": 30,
+      "missingToTarget": 30,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_constitution",
+      "label": "Quality Constitution",
+      "category": "primary_stat",
+      "priority": 66,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "missingToMinimum": 3,
+      "missingToTarget": 3,
+      "bestBonus": null
+    },
+    {
+      "targetId": "insightful_deadly",
+      "label": "Insightful Deadly",
+      "category": "melee_damage",
+      "priority": 64,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 5,
+      "targetValue": 5,
+      "missingToMinimum": 5,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_accuracy",
+      "label": "Quality Accuracy",
+      "category": "melee_accuracy",
+      "priority": 62,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 4,
+      "targetValue": 5,
+      "missingToMinimum": 4,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_physical_sheltering",
+      "label": "Quality Physical Sheltering",
+      "category": "survivability",
+      "priority": 60,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 8,
+      "targetValue": 9,
+      "missingToMinimum": 8,
+      "missingToTarget": 9,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_dodge",
+      "label": "Quality Dodge",
+      "category": "survivability",
+      "priority": 60,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "missingToMinimum": 3,
+      "missingToTarget": 3,
+      "bestBonus": null
+    },
+    {
+      "targetId": "exceptional_healing_amplification",
+      "label": "Exceptional Healing Amplification",
+      "category": "survivability",
+      "priority": 56,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 15,
+      "targetValue": 15,
+      "missingToMinimum": 15,
+      "missingToTarget": 15,
+      "bestBonus": null
+    },
+    {
+      "targetId": "exceptional_constitution",
+      "label": "Exceptional Constitution",
+      "category": "primary_stat",
+      "priority": 51,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "missingToMinimum": 2,
+      "missingToTarget": 2,
+      "bestBonus": null
+    }
+  ],
+  "openNormalSlots": [
+    {
+      "itemName": "Legendary Black Dynamo",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Firefly Garb",
+      "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Breaker's Bauble",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Perfected Jidz-Tet'ka",
+      "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+      "color": "yellow",
+      "raw": {
+        "slotColor": "Yellow",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Perfected Jidz-Tet'ka",
+      "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Lionheart Ring",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Death's Deferral",
+      "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Death's Deferral",
+      "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+      "color": "yellow",
+      "raw": {
+        "slotColor": "Yellow",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Lamordian Top Hat",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Lamordian Top Hat",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+      "color": "colorless",
+      "raw": {
+        "slotColor": "Colorless",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Storm's Harness",
+      "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+      "color": "red",
+      "raw": {
+        "slotColor": "Red",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Storm's Harness",
+      "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+      "color": "orange",
+      "raw": "Orange"
+    },
+    {
+      "itemName": "Visions of Precision",
+      "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+      "color": "blue",
+      "raw": "Blue"
+    },
+    {
+      "itemName": "Visions of Precision",
+      "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+      "color": "green",
+      "raw": "Green"
+    }
+  ],
+  "bestRecommendations": [
+    {
+      "sourceType": "normal_augment",
+      "name": "A Treatise on Battle",
+      "link": "https://ddowiki.com/page/Item:A_Treatise_on_Battle",
+      "effect": "Combat Mastery +11",
+      "stackKey": "Default:Combat Mastery",
+      "value": 11,
+      "score": 201.66666666666666,
+      "targetId": "default_or_enhancement_combat_mastery",
+      "targetLabel": "Combat Mastery",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 12,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Exceptional Constitution +1",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Exceptional_Constitution_%2B1",
+      "effect": "Exceptional Constitution +1",
+      "stackKey": "Exceptional:Constitution",
+      "value": 1,
+      "score": 93,
+      "targetId": "exceptional_constitution",
+      "targetLabel": "Exceptional Constitution",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "orange"
+        },
+        {
+          "itemName": "Visions of Precision",
+          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "color": "blue"
+        },
+        {
+          "itemName": "Visions of Precision",
+          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "color": "green"
+        }
+      ]
+    }
+  ],
+  "normalAugmentRecommendations": [
+    {
+      "sourceType": "normal_augment",
+      "name": "A Treatise on Battle",
+      "link": "https://ddowiki.com/page/Item:A_Treatise_on_Battle",
+      "effect": "Combat Mastery +11",
+      "stackKey": "Default:Combat Mastery",
+      "value": 11,
+      "score": 201.66666666666666,
+      "targetId": "default_or_enhancement_combat_mastery",
+      "targetLabel": "Combat Mastery",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 12,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Exceptional Constitution +1",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Exceptional_Constitution_%2B1",
+      "effect": "Exceptional Constitution +1",
+      "stackKey": "Exceptional:Constitution",
+      "value": 1,
+      "score": 93,
+      "targetId": "exceptional_constitution",
+      "targetLabel": "Exceptional Constitution",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "orange"
+        },
+        {
+          "itemName": "Visions of Precision",
+          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "color": "blue"
+        },
+        {
+          "itemName": "Visions of Precision",
+          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "color": "green"
+        }
+      ]
+    }
+  ],
+  "craftingAugmentRecommendations": []
+}

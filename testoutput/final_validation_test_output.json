@@ -1,0 +1,869 @@
+{
+  "valid": true,
+  "errorCount": 0,
+  "warningCount": 11,
+  "stackingConflictCount": 11,
+  "errors": [],
+  "warnings": [
+    {
+      "type": "stacking_conflict",
+      "message": "Wisdom +14 suppresses Wisdom +13 for Default:Wisdom.",
+      "stackKey": "Default:Wisdom",
+      "winningBonus": {
+        "raw": "Wisdom +14",
+        "parsed": true,
+        "parser": "simple_numeric_bonus",
+        "bonusType": "Default",
+        "bonusTypeInferred": true,
+        "stat": "Wisdom",
+        "value": 14,
+        "valueText": "+14",
+        "isPercent": false,
+        "family": "Wisdom",
+        "stackKey": "Default:Wisdom",
+        "source": {
+          "type": "item",
+          "name": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "slot": "wrists"
+        },
+        "sourceLabel": "Perfected Jidz-Tet'ka"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Wisdom +13",
+          "parsed": true,
+          "parser": "simple_numeric_bonus",
+          "bonusType": "Default",
+          "bonusTypeInferred": true,
+          "stat": "Wisdom",
+          "value": 13,
+          "valueText": "+13",
+          "isPercent": false,
+          "family": "Wisdom",
+          "stackKey": "Default:Wisdom",
+          "source": {
+            "type": "item",
+            "name": "Visions of Precision",
+            "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+            "slot": "eyes"
+          },
+          "sourceLabel": "Visions of Precision"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "Insightful Wisdom +7 suppresses Insightful Wisdom +6, Insightful Wisdom +4 for Insightful:Wisdom.",
+      "stackKey": "Insightful:Wisdom",
+      "winningBonus": {
+        "raw": "Insightful Wisdom +7",
+        "parsed": true,
+        "parser": "prefix_bonus_type",
+        "bonusType": "Insightful",
+        "bonusTypeInferred": false,
+        "stat": "Wisdom",
+        "value": 7,
+        "valueText": "+7",
+        "isPercent": false,
+        "family": "Wisdom",
+        "stackKey": "Insightful:Wisdom",
+        "source": {
+          "type": "item",
+          "name": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "slot": "head"
+        },
+        "sourceLabel": "Legendary Lamordian Top Hat"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Insightful Wisdom +6",
+          "parsed": true,
+          "parser": "prefix_bonus_type",
+          "bonusType": "Insightful",
+          "bonusTypeInferred": false,
+          "stat": "Wisdom",
+          "value": 6,
+          "valueText": "+6",
+          "isPercent": false,
+          "family": "Wisdom",
+          "stackKey": "Insightful:Wisdom",
+          "source": {
+            "type": "item",
+            "name": "Visions of Precision",
+            "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+            "slot": "eyes"
+          },
+          "sourceLabel": "Visions of Precision"
+        },
+        {
+          "raw": "Insightful Wisdom +4",
+          "parsed": true,
+          "parser": "prefix_bonus_type",
+          "bonusType": "Insightful",
+          "bonusTypeInferred": false,
+          "stat": "Wisdom",
+          "value": 4,
+          "valueText": "+4",
+          "isPercent": false,
+          "family": "Wisdom",
+          "stackKey": "Insightful:Wisdom",
+          "source": {
+            "type": "item",
+            "name": "Belt of Blind Devotion",
+            "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+            "slot": "waist"
+          },
+          "sourceLabel": "Belt of Blind Devotion"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "Insightful Constitution +7 suppresses Insightful Constitution +6 for Insightful:Constitution.",
+      "stackKey": "Insightful:Constitution",
+      "winningBonus": {
+        "raw": "Insightful Constitution +7",
+        "parsed": true,
+        "parser": "prefix_bonus_type",
+        "bonusType": "Insightful",
+        "bonusTypeInferred": false,
+        "stat": "Constitution",
+        "value": 7,
+        "valueText": "+7",
+        "isPercent": false,
+        "family": "Constitution",
+        "stackKey": "Insightful:Constitution",
+        "source": {
+          "type": "item",
+          "name": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "slot": "neck"
+        },
+        "sourceLabel": "Legendary Black Dynamo"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Insightful Constitution +6",
+          "parsed": true,
+          "parser": "prefix_bonus_type",
+          "bonusType": "Insightful",
+          "bonusTypeInferred": false,
+          "stat": "Constitution",
+          "value": 6,
+          "valueText": "+6",
+          "isPercent": false,
+          "family": "Constitution",
+          "stackKey": "Insightful:Constitution",
+          "source": {
+            "type": "item",
+            "name": "Legendary Lionheart Ring",
+            "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+            "slot": "finger"
+          },
+          "sourceLabel": "Legendary Lionheart Ring"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "Insightful Armor-Piercing 11% suppresses Insightful Armor-Piercing 9% for Insightful:Armor-Piercing.",
+      "stackKey": "Insightful:Armor-Piercing",
+      "winningBonus": {
+        "raw": "Insightful Armor-Piercing 11%",
+        "parsed": true,
+        "parser": "prefix_bonus_type",
+        "bonusType": "Insightful",
+        "bonusTypeInferred": false,
+        "stat": "Armor-Piercing",
+        "value": 11,
+        "valueText": "11%",
+        "isPercent": true,
+        "family": "Armor-Piercing",
+        "stackKey": "Insightful:Armor-Piercing",
+        "source": {
+          "type": "item",
+          "name": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "slot": "neck"
+        },
+        "sourceLabel": "Legendary Black Dynamo"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Insightful Armor-Piercing 9%",
+          "parsed": true,
+          "parser": "prefix_bonus_type",
+          "bonusType": "Insightful",
+          "bonusTypeInferred": false,
+          "stat": "Armor-Piercing",
+          "value": 9,
+          "valueText": "9%",
+          "isPercent": true,
+          "family": "Armor-Piercing",
+          "stackKey": "Insightful:Armor-Piercing",
+          "source": {
+            "type": "item",
+            "name": "Legendary Lionheart Ring",
+            "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+            "slot": "finger"
+          },
+          "sourceLabel": "Legendary Lionheart Ring"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "Stunning +16 suppresses Stunning +15 for Default:Stunning.",
+      "stackKey": "Default:Stunning",
+      "winningBonus": {
+        "raw": "Stunning +16",
+        "parsed": true,
+        "parser": "simple_numeric_bonus",
+        "bonusType": "Default",
+        "bonusTypeInferred": true,
+        "stat": "Stunning",
+        "value": 16,
+        "valueText": "+16",
+        "isPercent": false,
+        "family": "Stunning",
+        "stackKey": "Default:Stunning",
+        "source": {
+          "type": "augment",
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "slotColor": "blue",
+          "name": "Sapphire of Stunning +16",
+          "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B16"
+        },
+        "sourceLabel": "Sapphire of Stunning +16 slotted into Perfected Jidz-Tet'ka"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Stunning +15",
+          "parsed": true,
+          "parser": "simple_numeric_bonus",
+          "bonusType": "Default",
+          "bonusTypeInferred": true,
+          "stat": "Stunning",
+          "value": 15,
+          "valueText": "+15",
+          "isPercent": false,
+          "family": "Stunning",
+          "stackKey": "Default:Stunning",
+          "source": {
+            "type": "item",
+            "name": "Legendary Lionheart Ring",
+            "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+            "slot": "finger"
+          },
+          "sourceLabel": "Legendary Lionheart Ring"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "Quality Wisdom +3 suppresses Quality Wisdom +2 for Quality:Wisdom.",
+      "stackKey": "Quality:Wisdom",
+      "winningBonus": {
+        "raw": "Quality Wisdom +3",
+        "parsed": true,
+        "parser": "prefix_bonus_type",
+        "bonusType": "Quality",
+        "bonusTypeInferred": false,
+        "stat": "Wisdom",
+        "value": 3,
+        "valueText": "+3",
+        "isPercent": false,
+        "family": "Wisdom",
+        "stackKey": "Quality:Wisdom",
+        "source": {
+          "type": "item",
+          "name": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "slot": "hands"
+        },
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Quality Wisdom +2",
+          "parsed": true,
+          "parser": "prefix_bonus_type",
+          "bonusType": "Quality",
+          "bonusTypeInferred": false,
+          "stat": "Wisdom",
+          "value": 2,
+          "valueText": "+2",
+          "isPercent": false,
+          "family": "Wisdom",
+          "stackKey": "Quality:Wisdom",
+          "source": {
+            "type": "item",
+            "name": "Belt of Blind Devotion",
+            "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+            "slot": "waist"
+          },
+          "sourceLabel": "Belt of Blind Devotion"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "+15 Enhancement Bonus suppresses +14 Enhancement Bonus for Enhancement:Weapon Enhancement.",
+      "stackKey": "Enhancement:Weapon Enhancement",
+      "winningBonus": {
+        "raw": "+15 Enhancement Bonus",
+        "parsed": true,
+        "parser": "enhancement_bonus",
+        "bonusType": "Enhancement",
+        "bonusTypeInferred": false,
+        "stat": "Weapon Enhancement",
+        "value": 15,
+        "valueText": "+15",
+        "isPercent": false,
+        "family": "Weapon Enhancement",
+        "stackKey": "Enhancement:Weapon Enhancement",
+        "source": {
+          "type": "item",
+          "name": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "slot": "armor"
+        },
+        "sourceLabel": "Firefly Garb"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "+14 Enhancement Bonus",
+          "parsed": true,
+          "parser": "enhancement_bonus",
+          "bonusType": "Enhancement",
+          "bonusTypeInferred": false,
+          "stat": "Weapon Enhancement",
+          "value": 14,
+          "valueText": "+14",
+          "isPercent": false,
+          "family": "Weapon Enhancement",
+          "stackKey": "Enhancement:Weapon Enhancement",
+          "source": {
+            "type": "item",
+            "name": "Storm's Harness",
+            "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+            "slot": "weapon"
+          },
+          "sourceLabel": "Storm's Harness"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "Physical Sheltering +33 suppresses Physical Sheltering +25 for Default:Physical Sheltering.",
+      "stackKey": "Default:Physical Sheltering",
+      "winningBonus": {
+        "raw": "Physical Sheltering +33",
+        "parsed": true,
+        "parser": "simple_numeric_bonus",
+        "bonusType": "Default",
+        "bonusTypeInferred": true,
+        "stat": "Physical Sheltering",
+        "value": 33,
+        "valueText": "+33",
+        "isPercent": false,
+        "family": "Physical Sheltering",
+        "stackKey": "Default:Physical Sheltering",
+        "source": {
+          "type": "item",
+          "name": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "slot": "armor"
+        },
+        "sourceLabel": "Firefly Garb"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Physical Sheltering +25",
+          "parsed": true,
+          "parser": "simple_numeric_bonus",
+          "bonusType": "Default",
+          "bonusTypeInferred": true,
+          "stat": "Physical Sheltering",
+          "value": 25,
+          "valueText": "+25",
+          "isPercent": false,
+          "family": "Physical Sheltering",
+          "stackKey": "Default:Physical Sheltering",
+          "source": {
+            "type": "item",
+            "name": "Belt of Blind Devotion",
+            "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+            "slot": "waist"
+          },
+          "sourceLabel": "Belt of Blind Devotion"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "+61 Competence bonus to Positive Healing Amplification suppresses Competence Healing Amplification +53 for Competence:Healing Amplification.",
+      "stackKey": "Competence:Healing Amplification",
+      "winningBonus": {
+        "raw": "+61 Competence bonus to Positive Healing Amplification",
+        "parsed": true,
+        "parser": "explicit_bonus_to",
+        "bonusType": "Competence",
+        "bonusTypeInferred": false,
+        "stat": "Healing Amplification",
+        "value": 61,
+        "valueText": "+61",
+        "isPercent": false,
+        "family": "Healing Amplification",
+        "stackKey": "Competence:Healing Amplification",
+        "source": {
+          "type": "crafting_augment",
+          "name": "Dolorous Healing Amplification (Heroic)",
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "craftingSlotKey": "Lamordia:Dolorous:Accessory",
+          "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak::Lamordia:Dolorous:Accessory"
+        },
+        "sourceLabel": "Dolorous Healing Amplification (Heroic) planned for Legendary Gravekeeper's Stoic Cloak"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Competence Healing Amplification +53",
+          "parsed": true,
+          "parser": "prefix_bonus_type",
+          "bonusType": "Competence",
+          "bonusTypeInferred": false,
+          "stat": "Healing Amplification",
+          "value": 53,
+          "valueText": "+53",
+          "isPercent": false,
+          "family": "Healing Amplification",
+          "stackKey": "Competence:Healing Amplification",
+          "source": {
+            "type": "item",
+            "name": "Firefly Garb",
+            "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+            "slot": "armor"
+          },
+          "sourceLabel": "Firefly Garb"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "False Life +50 suppresses False Life +38 for Default:False Life.",
+      "stackKey": "Default:False Life",
+      "winningBonus": {
+        "raw": "False Life +50",
+        "parsed": true,
+        "parser": "simple_numeric_bonus",
+        "bonusType": "Default",
+        "bonusTypeInferred": true,
+        "stat": "False Life",
+        "value": 50,
+        "valueText": "+50",
+        "isPercent": false,
+        "family": "False Life",
+        "stackKey": "Default:False Life",
+        "source": {
+          "type": "item",
+          "name": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "slot": "armor"
+        },
+        "sourceLabel": "Firefly Garb"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "False Life +38",
+          "parsed": true,
+          "parser": "simple_numeric_bonus",
+          "bonusType": "Default",
+          "bonusTypeInferred": true,
+          "stat": "False Life",
+          "value": 38,
+          "valueText": "+38",
+          "isPercent": false,
+          "family": "False Life",
+          "stackKey": "Default:False Life",
+          "source": {
+            "type": "item",
+            "name": "Belt of Blind Devotion",
+            "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+            "slot": "waist"
+          },
+          "sourceLabel": "Belt of Blind Devotion"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "Deadly +11 suppresses Deadly +10 for Default:Deadly.",
+      "stackKey": "Default:Deadly",
+      "winningBonus": {
+        "raw": "Deadly +11",
+        "parsed": true,
+        "parser": "simple_numeric_bonus",
+        "bonusType": "Default",
+        "bonusTypeInferred": true,
+        "stat": "Deadly",
+        "value": 11,
+        "valueText": "+11",
+        "isPercent": false,
+        "family": "Deadly",
+        "stackKey": "Default:Deadly",
+        "source": {
+          "type": "augment",
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "slotColor": "yellow",
+          "name": "Topaz of Damage +11",
+          "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B11"
+        },
+        "sourceLabel": "Topaz of Damage +11 slotted into Legendary Wondrous Magegloves"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Deadly +10",
+          "parsed": true,
+          "parser": "simple_numeric_bonus",
+          "bonusType": "Default",
+          "bonusTypeInferred": true,
+          "stat": "Deadly",
+          "value": 10,
+          "valueText": "+10",
+          "isPercent": false,
+          "family": "Deadly",
+          "stackKey": "Default:Deadly",
+          "source": {
+            "type": "item",
+            "name": "Storm's Harness",
+            "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+            "slot": "weapon"
+          },
+          "sourceLabel": "Storm's Harness"
+        }
+      ]
+    }
+  ],
+  "activeSetBonuses": [],
+  "setProgress": [],
+  "stackingConflicts": [
+    {
+      "stackKey": "Default:Wisdom",
+      "bonusType": "Default",
+      "stat": "Wisdom",
+      "winningBonus": {
+        "raw": "Wisdom +14",
+        "value": 14,
+        "source": {
+          "type": "item",
+          "name": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "slot": "wrists"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Wisdom +13",
+          "value": 13,
+          "source": {
+            "type": "item",
+            "name": "Visions of Precision",
+            "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+            "slot": "eyes"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Insightful:Wisdom",
+      "bonusType": "Insightful",
+      "stat": "Wisdom",
+      "winningBonus": {
+        "raw": "Insightful Wisdom +7",
+        "value": 7,
+        "source": {
+          "type": "item",
+          "name": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "slot": "head"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Insightful Wisdom +6",
+          "value": 6,
+          "source": {
+            "type": "item",
+            "name": "Visions of Precision",
+            "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+            "slot": "eyes"
+          }
+        },
+        {
+          "raw": "Insightful Wisdom +4",
+          "value": 4,
+          "source": {
+            "type": "item",
+            "name": "Belt of Blind Devotion",
+            "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+            "slot": "waist"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Insightful:Constitution",
+      "bonusType": "Insightful",
+      "stat": "Constitution",
+      "winningBonus": {
+        "raw": "Insightful Constitution +7",
+        "value": 7,
+        "source": {
+          "type": "item",
+          "name": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "slot": "neck"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Insightful Constitution +6",
+          "value": 6,
+          "source": {
+            "type": "item",
+            "name": "Legendary Lionheart Ring",
+            "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+            "slot": "finger"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Insightful:Armor-Piercing",
+      "bonusType": "Insightful",
+      "stat": "Armor-Piercing",
+      "winningBonus": {
+        "raw": "Insightful Armor-Piercing 11%",
+        "value": 11,
+        "source": {
+          "type": "item",
+          "name": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "slot": "neck"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Insightful Armor-Piercing 9%",
+          "value": 9,
+          "source": {
+            "type": "item",
+            "name": "Legendary Lionheart Ring",
+            "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+            "slot": "finger"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:Stunning",
+      "bonusType": "Default",
+      "stat": "Stunning",
+      "winningBonus": {
+        "raw": "Stunning +16",
+        "value": 16,
+        "source": {
+          "type": "augment",
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "slotColor": "blue",
+          "name": "Sapphire of Stunning +16",
+          "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B16"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Stunning +15",
+          "value": 15,
+          "source": {
+            "type": "item",
+            "name": "Legendary Lionheart Ring",
+            "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+            "slot": "finger"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Quality:Wisdom",
+      "bonusType": "Quality",
+      "stat": "Wisdom",
+      "winningBonus": {
+        "raw": "Quality Wisdom +3",
+        "value": 3,
+        "source": {
+          "type": "item",
+          "name": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "slot": "hands"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Quality Wisdom +2",
+          "value": 2,
+          "source": {
+            "type": "item",
+            "name": "Belt of Blind Devotion",
+            "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+            "slot": "waist"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Enhancement:Weapon Enhancement",
+      "bonusType": "Enhancement",
+      "stat": "Weapon Enhancement",
+      "winningBonus": {
+        "raw": "+15 Enhancement Bonus",
+        "value": 15,
+        "source": {
+          "type": "item",
+          "name": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "slot": "armor"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "+14 Enhancement Bonus",
+          "value": 14,
+          "source": {
+            "type": "item",
+            "name": "Storm's Harness",
+            "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+            "slot": "weapon"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:Physical Sheltering",
+      "bonusType": "Default",
+      "stat": "Physical Sheltering",
+      "winningBonus": {
+        "raw": "Physical Sheltering +33",
+        "value": 33,
+        "source": {
+          "type": "item",
+          "name": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "slot": "armor"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Physical Sheltering +25",
+          "value": 25,
+          "source": {
+            "type": "item",
+            "name": "Belt of Blind Devotion",
+            "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+            "slot": "waist"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Competence:Healing Amplification",
+      "bonusType": "Competence",
+      "stat": "Healing Amplification",
+      "winningBonus": {
+        "raw": "+61 Competence bonus to Positive Healing Amplification",
+        "value": 61,
+        "source": {
+          "type": "crafting_augment",
+          "name": "Dolorous Healing Amplification (Heroic)",
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "craftingSlotKey": "Lamordia:Dolorous:Accessory",
+          "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak::Lamordia:Dolorous:Accessory"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Competence Healing Amplification +53",
+          "value": 53,
+          "source": {
+            "type": "item",
+            "name": "Firefly Garb",
+            "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+            "slot": "armor"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:False Life",
+      "bonusType": "Default",
+      "stat": "False Life",
+      "winningBonus": {
+        "raw": "False Life +50",
+        "value": 50,
+        "source": {
+          "type": "item",
+          "name": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "slot": "armor"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "False Life +38",
+          "value": 38,
+          "source": {
+            "type": "item",
+            "name": "Belt of Blind Devotion",
+            "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+            "slot": "waist"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:Deadly",
+      "bonusType": "Default",
+      "stat": "Deadly",
+      "winningBonus": {
+        "raw": "Deadly +11",
+        "value": 11,
+        "source": {
+          "type": "augment",
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "slotColor": "yellow",
+          "name": "Topaz of Damage +11",
+          "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B11"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Deadly +10",
+          "value": 10,
+          "source": {
+            "type": "item",
+            "name": "Storm's Harness",
+            "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+            "slot": "weapon"
+          }
+        }
+      ]
+    }
+  ]
+}

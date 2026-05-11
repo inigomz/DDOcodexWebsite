@@ -1,4 +1,4 @@
-// viktraniumCraftingParser.js
+// lamordiaparser.js
 
 const axios = require('axios');
 const cheerio = require('cheerio');
@@ -45,6 +45,7 @@ function removeNoise($, cell) {
 
 function getCellText($, cell) {
   const cleanCell = removeNoise($, cell);
+
   return cleanText(cleanCell.text());
 }
 
@@ -71,20 +72,62 @@ function getListText($, cell) {
   return results;
 }
 
+function getNameFromItemLink(link) {
+  if (!link) {
+    return null;
+  }
+
+  const match = link.match(/\/page\/Item:([^#?]+)/);
+
+  if (!match) {
+    return null;
+  }
+
+  return decodeURIComponent(match[1])
+    .replace(/_/g, ' ')
+    .trim();
+}
+
+function isWeakVisibleName(name) {
+  const cleaned = cleanText(name).toLowerCase();
+
+  return (
+    cleaned === '(heroic)' ||
+    cleaned === '(legendary)' ||
+    cleaned === '(heroic - dreadful)' ||
+    cleaned === 'heroic' ||
+    cleaned === 'legendary' ||
+    cleaned === ''
+  );
+}
+
 function getItemInfo($, cell) {
   const cleanCell = removeNoise($, cell);
   const link = cleanCell.find('a[href^="/page/Item:"]').first();
 
   if (!link.length) {
+    const fallbackName = cleanText(cleanCell.text());
+
     return {
-      name: cleanText(cleanCell.text()),
-      link: null
+      name: fallbackName,
+      link: null,
+      visibleName: fallbackName
     };
   }
 
+  const visibleName = cleanText(link.text());
+  const fullLink = BASE_URL + link.attr('href');
+
+  const derivedName = getNameFromItemLink(link.attr('href'));
+
+  const name = isWeakVisibleName(visibleName)
+    ? derivedName || visibleName
+    : visibleName;
+
   return {
-    name: cleanText(link.text()),
-    link: BASE_URL + link.attr('href')
+    name,
+    link: fullLink,
+    visibleName
   };
 }
 
@@ -161,18 +204,69 @@ function isViktraniumRecipeTable($, table) {
   return hasEffectColumn && (hasCostColumn || mentionsSlotType);
 }
 
+function getFirstText(value) {
+  if (Array.isArray(value)) {
+    return value[0] || null;
+  }
+
+  return value || null;
+}
+
+function isNoHeroicVersion(text) {
+  return cleanText(text)
+    .toLowerCase()
+    .includes('n/a (no heroic version');
+}
+
+function hasLegendaryOnlyName(name) {
+  return cleanText(name)
+    .toLowerCase()
+    .includes('(legendary)');
+}
+
+function createTieredEffects({
+  itemName,
+  heroicEffectRaw,
+  legendaryEffectRaw
+}) {
+  const tieredEffects = [];
+
+  const heroicIsMissing = isNoHeroicVersion(heroicEffectRaw);
+
+  if (heroicEffectRaw && !heroicIsMissing && !hasLegendaryOnlyName(itemName)) {
+    tieredEffects.push({
+      tier: 'heroic',
+      effectRaw: heroicEffectRaw
+    });
+  }
+
+  if (legendaryEffectRaw) {
+    tieredEffects.push({
+      tier: 'legendary',
+      effectRaw: legendaryEffectRaw
+    });
+  } else if (hasLegendaryOnlyName(itemName) && heroicEffectRaw && !heroicIsMissing) {
+    tieredEffects.push({
+      tier: 'legendary',
+      effectRaw: heroicEffectRaw
+    });
+  }
+
+  return tieredEffects;
+}
+
 function parseRecipeTable($, table) {
   const sourceSection = getNearestSectionTitle($, table);
   const headers = getTableHeaders($, table);
   const recipeInfo = detectRecipeInfo(headers, sourceSection);
 
   const rows = [];
-  let sharedCost = [];
+  let sharedLegendaryEffectRawList = [];
 
   table.find('tbody > tr').each((_, row) => {
     const cells = $(row).children('td, th');
 
-    // Skip header rows
+    // Skip header rows.
     if ($(row).find('th').length > 0) {
       return;
     }
@@ -182,44 +276,70 @@ function parseRecipeTable($, table) {
     }
 
     const itemInfo = getItemInfo($, cells.eq(0));
-    const effectRaw = getCellText($, cells.eq(1));
 
-    let costRaw = sharedCost;
+    // The second column is the heroic effect in Heroic rows.
+    const heroicEffectRaw = getCellText($, cells.eq(1));
 
-    // Cost often uses rowspan, so only the first row has the cost cell.
+    let legendaryEffectRawList = sharedLegendaryEffectRawList;
+
+    // The third column is named "cost" by the old parser,
+    // but for this table it often contains the Legendary effect.
+    // It can use rowspan, so later rows may inherit the same cell.
     if (cells.length >= 3) {
-      const possibleCost = getListText($, cells.eq(2));
+      const possibleLegendaryEffect = getListText($, cells.eq(2));
 
-      if (possibleCost.length > 0) {
-        sharedCost = possibleCost;
-        costRaw = possibleCost;
+      if (possibleLegendaryEffect.length > 0) {
+        sharedLegendaryEffectRawList = possibleLegendaryEffect;
+        legendaryEffectRawList = possibleLegendaryEffect;
       }
     }
 
-    if (!itemInfo.name || !effectRaw) {
+    const legendaryEffectRaw = getFirstText(legendaryEffectRawList);
+
+    if (!itemInfo.name || !heroicEffectRaw) {
       return;
     }
 
-    // Fallback: try to detect slot/group from the item name if headers did not give it.
     const fallbackText = `${itemInfo.name} ${sourceSection || ''}`;
+
+    const slotType =
+      recipeInfo.slotType || detectSlotType(fallbackText);
+
+    const itemGroup =
+      recipeInfo.itemGroup || detectItemGroup(fallbackText);
+
+    const tieredEffects = createTieredEffects({
+      itemName: itemInfo.name,
+      heroicEffectRaw,
+      legendaryEffectRaw
+    });
 
     rows.push({
       itemType: 'crafting_augment',
       system: SYSTEM_NAME,
 
-      slotType:
-        recipeInfo.slotType || detectSlotType(fallbackText),
-
-      itemGroup:
-        recipeInfo.itemGroup || detectItemGroup(fallbackText),
+      slotType,
+      itemGroup,
 
       sourceSection,
 
       name: itemInfo.name,
+      visibleName: itemInfo.visibleName,
       link: itemInfo.link,
 
-      effectRaw,
-      costRaw
+      heroicEffectRaw: isNoHeroicVersion(heroicEffectRaw)
+        ? null
+        : heroicEffectRaw,
+
+      legendaryEffectRaw,
+
+      tieredEffects,
+
+      // Backward compatibility with older planner code.
+      // New planner code should prefer heroicEffectRaw,
+      // legendaryEffectRaw, or tieredEffects.
+      effectRaw: heroicEffectRaw,
+      costRaw: legendaryEffectRawList
     });
   });
 
@@ -289,5 +409,11 @@ if (require.main === module) {
 module.exports = {
   parseViktraniumCraftingHTML,
   parseRecipeTable,
-  scrapeViktraniumCrafting
+  scrapeViktraniumCrafting,
+
+  // Exported for tests/debugging.
+  getFirstText,
+  isNoHeroicVersion,
+  createTieredEffects,
+  getNameFromItemLink
 };

@@ -1,0 +1,963 @@
+{
+  "buildMaxLevel": 34,
+  "usefulCraftingSlots": [
+    {
+      "key": "Lamordia:Dolorous:Accessory",
+      "label": "Lamordia Dolorous Accessory",
+      "system": "Lamordia",
+      "slotType": "Dolorous",
+      "itemGroup": "Accessory",
+      "bestScore": 156.2,
+      "bestCandidate": {
+        "name": "Dolorous Quality Wisdom (Heroic)",
+        "link": "https://ddowiki.com/page/Item:Dolorous_Quality_Wisdom_(Heroic)",
+        "selectedTier": "legendary",
+        "selectedEffectRaw": "+3 Quality bonus to Wisdom.",
+        "stackKey": "Quality:Wisdom",
+        "stat": "Wisdom",
+        "value": 3,
+        "searchScore": 156.2
+      },
+      "stackFamilies": [
+        {
+          "stackKey": "Quality:Wisdom",
+          "stat": "Wisdom",
+          "value": 3,
+          "bestCandidate": "Dolorous Quality Wisdom (Heroic)",
+          "bestEffect": "+3 Quality bonus to Wisdom.",
+          "bestScore": 156.2,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Quality:Combat Mastery",
+          "stat": "Combat Mastery",
+          "value": 3,
+          "bestCandidate": "Dolorous Quality Combat Mastery (Heroic)",
+          "bestEffect": "+3 Quality bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+          "bestScore": 136.2,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement:Seeker",
+          "stat": "Seeker",
+          "value": 15,
+          "bestCandidate": "Dolorous Seeker (Heroic)",
+          "bestEffect": "+15 Enhancement bonus to Critical Confirmation and Critical Damage.",
+          "bestScore": 81,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Competence:Accuracy",
+          "stat": "Accuracy",
+          "value": 23,
+          "bestCandidate": "Dolorous Accuracy (Heroic)",
+          "bestEffect": "+23 Competence bonus to Attack.",
+          "bestScore": 67.2,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Competence:Healing Amplification",
+          "stat": "Healing Amplification",
+          "value": 61,
+          "bestCandidate": "Dolorous Healing Amplification (Heroic)",
+          "bestEffect": "+61 Competence bonus to Positive Healing Amplification.",
+          "bestScore": 62.400000000000006,
+          "selectedTier": "legendary"
+        }
+      ]
+    },
+    {
+      "key": "Lamordia:Melancholic:Accessory",
+      "label": "Lamordia Melancholic Accessory",
+      "system": "Lamordia",
+      "slotType": "Melancholic",
+      "itemGroup": "Accessory",
+      "bestScore": 126,
+      "bestCandidate": {
+        "name": "Melancholic Wisdom (Heroic)",
+        "link": "https://ddowiki.com/page/Item:Melancholic_Wisdom_(Heroic)",
+        "selectedTier": "legendary",
+        "selectedEffectRaw": "+15 Enhancement bonus to Wisdom.",
+        "stackKey": "Enhancement:Wisdom",
+        "stat": "Wisdom",
+        "value": 15,
+        "searchScore": 126
+      },
+      "stackFamilies": [
+        {
+          "stackKey": "Enhancement:Wisdom",
+          "stat": "Wisdom",
+          "value": 15,
+          "bestCandidate": "Melancholic Wisdom (Heroic)",
+          "bestEffect": "+15 Enhancement bonus to Wisdom.",
+          "bestScore": 126,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement:Doublestrike",
+          "stat": "Doublestrike",
+          "value": 17,
+          "bestCandidate": "Melancholic Doublestrike (Heroic)",
+          "bestEffect": "+17% Enhancement bonus to Doublestrike.",
+          "bestScore": 46.8,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement:False Life",
+          "stat": "False Life",
+          "value": 57,
+          "bestCandidate": "Melancholic False Life (Heroic)",
+          "bestEffect": "+57 Enhancement bonus to Maximum HP.",
+          "bestScore": 42.8,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement:Constitution",
+          "stat": "Constitution",
+          "value": 15,
+          "bestCandidate": "Melancholic Constitution (Heroic)",
+          "bestEffect": "+15 Enhancement bonus to Constitution.",
+          "bestScore": 26,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement:Charisma",
+          "stat": "Charisma",
+          "value": 15,
+          "bestCandidate": "Melancholic Charisma (Heroic)",
+          "bestEffect": "+15 Enhancement bonus to Charisma.",
+          "bestScore": 5,
+          "selectedTier": "legendary"
+        }
+      ]
+    },
+    {
+      "key": "Lamordia:Miserable:Weapon",
+      "label": "Lamordia Miserable Weapon",
+      "system": "Lamordia",
+      "slotType": "Miserable",
+      "itemGroup": "Weapon",
+      "bestScore": 120.8,
+      "bestCandidate": {
+        "name": "Miserable Chill (Heroic)",
+        "link": "https://ddowiki.com/page/Item:Miserable_Chill_(Heroic)",
+        "selectedTier": "legendary",
+        "selectedEffectRaw": "+2 Exceptional bonus to Wisdom.",
+        "stackKey": "Exceptional:Wisdom",
+        "stat": "Wisdom",
+        "value": 2,
+        "searchScore": 120.8
+      },
+      "stackFamilies": [
+        {
+          "stackKey": "Exceptional:Wisdom",
+          "stat": "Wisdom",
+          "value": 2,
+          "bestCandidate": "Miserable Chill (Heroic)",
+          "bestEffect": "+2 Exceptional bonus to Wisdom.",
+          "bestScore": 120.8,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement:Armor-Piercing",
+          "stat": "Armor-Piercing",
+          "value": 23,
+          "bestCandidate": "Miserable Armor-Piercing (Heroic)",
+          "bestEffect": "Adds Armor-Piercing. +23% Enhancement bonus to bypass enemy Fortification",
+          "bestScore": 64.2,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Miserable Maiming (Heroic)",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Miserable Maiming (Heroic)",
+          "bestEffect": "Adds Maiming. When you score a critical hit with this weapon, it does an additional +7d8 damage.",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Miserable Humanoid Bane (Heroic)",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Miserable Humanoid Bane (Heroic)",
+          "bestEffect": "This weapon is attuned specifically to those that walk among us, dealing an additional 7d10 bane damage vs. Humanoids",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Miserable Monstrous Humanoid Bane (Heroic)",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Miserable Monstrous Humanoid Bane (Heroic)",
+          "bestEffect": "This weapon is attuned specifically to hunt those who are descended from monsters dealing an additional 7d10 bane damage vs. Monstrous Humanoids",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        }
+      ]
+    },
+    {
+      "key": "Lamordia:Woeful:Weapon",
+      "label": "Lamordia Woeful Weapon",
+      "system": "Lamordia",
+      "slotType": "Woeful",
+      "itemGroup": "Weapon",
+      "bestScore": 86,
+      "bestCandidate": {
+        "name": "Woeful Acid",
+        "link": "https://ddowiki.com/page/Item:Woeful_Acid",
+        "selectedTier": "legendary",
+        "selectedEffectRaw": "Your attacks and offensive spells have a chance to reduce enemy Physical Resistance Rating and Positive Healing Amplification. (undocumented) (Grants Legendary Dust)",
+        "stackKey": "Special:Woeful Acid",
+        "stat": "Special Effect",
+        "value": null,
+        "searchScore": 86
+      },
+      "stackFamilies": [
+        {
+          "stackKey": "Special:Woeful Acid",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Woeful Acid",
+          "bestEffect": "Your attacks and offensive spells have a chance to reduce enemy Physical Resistance Rating and Positive Healing Amplification. (undocumented) (Grants Legendary Dust)",
+          "bestScore": 86,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Woeful Shadows",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Woeful Shadows",
+          "bestEffect": "Your attacks and offensive spells have a chance to reduce enemy Physical and Magical Resistance Rating. (undocumented) (Grants a version of Constricting Nightmare that works with spells)",
+          "bestScore": 53,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement:Melee Alacrity, +20% Enhancement Bonus to Ranged Alacrity",
+          "stat": "Melee Alacrity, +20% Enhancement Bonus to Ranged Alacrity",
+          "value": 15,
+          "bestCandidate": "Woeful Shadow",
+          "bestEffect": "+3% Profane Doublestrike and Doubleshot, +15% Enhancement Bonus to Melee Alacrity, +20% Enhancement Bonus to Ranged Alacrity.",
+          "bestScore": 46,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Woeful Magma",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Woeful Magma",
+          "bestEffect": "Your attacks and offensive spells have a high chance to deal very strong fire damage over time. (undocumented) (Grants Dripping with Magma)",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Woeful Frostbite",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Woeful Frostbite",
+          "bestEffect": "Your attacks and offensive spells have a high chance to deal very strong cold damage over time. (undocumented) (Grants Bitter Frostbite)",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        }
+      ]
+    },
+    {
+      "key": "Lamordia:Melancholic:Armor",
+      "label": "Lamordia Melancholic Armor",
+      "system": "Lamordia",
+      "slotType": "Melancholic",
+      "itemGroup": "Armor",
+      "bestScore": 84,
+      "bestCandidate": {
+        "name": "Melancholic Plating (Heroic)",
+        "link": "https://ddowiki.com/page/Item:Melancholic_Plating_(Heroic)",
+        "selectedTier": "legendary",
+        "selectedEffectRaw": "+160% Enhancement bonus to Fortification.",
+        "stackKey": "Enhancement:Fortification",
+        "stat": "Fortification",
+        "value": 160,
+        "searchScore": 84
+      },
+      "stackFamilies": [
+        {
+          "stackKey": "Enhancement:Fortification",
+          "stat": "Fortification",
+          "value": 160,
+          "bestCandidate": "Melancholic Plating (Heroic)",
+          "bestEffect": "+160% Enhancement bonus to Fortification.",
+          "bestScore": 84,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Competence:Healing Amplification",
+          "stat": "Healing Amplification",
+          "value": 61,
+          "bestCandidate": "Melancholic Converter (Heroic)",
+          "bestEffect": "+61 Competence bonus to Positive Healing Amplification +61 Enhancement bonus to Repair Healing Amplification +61 Profane bonus to Negative Healing Amplification",
+          "bestScore": 62.400000000000006,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Melancholic Device (Heroic)",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Melancholic Device (Heroic)",
+          "bestEffect": "You have Deathblock and are Ghostly.",
+          "bestScore": 5,
+          "selectedTier": "legendary"
+        }
+      ]
+    },
+    {
+      "key": "Lamordia:Miserable:Accessory",
+      "label": "Lamordia Miserable Accessory",
+      "system": "Lamordia",
+      "slotType": "Miserable",
+      "itemGroup": "Accessory",
+      "bestScore": 81.8,
+      "bestCandidate": {
+        "name": "Miserable Stunning (Heroic)",
+        "link": "https://ddowiki.com/page/Item:Miserable_Stunning_(Heroic)",
+        "selectedTier": "legendary",
+        "selectedEffectRaw": "+17 Enhancement bonus to Stunning DCs.",
+        "stackKey": "Enhancement:Stunning",
+        "stat": "Stunning",
+        "value": 17,
+        "searchScore": 81.8
+      },
+      "stackFamilies": [
+        {
+          "stackKey": "Enhancement:Stunning",
+          "stat": "Stunning",
+          "value": 17,
+          "bestCandidate": "Miserable Stunning (Heroic)",
+          "bestEffect": "+17 Enhancement bonus to Stunning DCs.",
+          "bestScore": 81.8,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement:Trip",
+          "stat": "Trip",
+          "value": 17,
+          "bestCandidate": "Miserable Trip (Heroic)",
+          "bestEffect": "+17 Enhancement bonus to Trip DCs.",
+          "bestScore": 71.8,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement:Sunder",
+          "stat": "Sunder",
+          "value": 17,
+          "bestCandidate": "Miserable Sunder (Heroic)",
+          "bestEffect": "+17 Enhancement bonus to Sunder DCs.",
+          "bestScore": 71.8,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement:PRR",
+          "stat": "PRR",
+          "value": 38,
+          "bestCandidate": "Miserable Physical Resistance Rating (Heroic)",
+          "bestEffect": "+38 Enhancement bonus to Physical Resistance Rating.",
+          "bestScore": 68.2,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement:MRR",
+          "stat": "MRR",
+          "value": 38,
+          "bestCandidate": "Miserable Magical Resistance Rating (Heroic)",
+          "bestEffect": "+38 Enhancement bonus to Magical Resistance Rating.",
+          "bestScore": 68.2,
+          "selectedTier": "legendary"
+        }
+      ]
+    },
+    {
+      "key": "Lamordia:Woeful:Accessory",
+      "label": "Lamordia Woeful Accessory",
+      "system": "Lamordia",
+      "slotType": "Woeful",
+      "itemGroup": "Accessory",
+      "bestScore": 76.2,
+      "bestCandidate": {
+        "name": "Woeful Quality Seeker",
+        "link": "https://ddowiki.com/page/Item:Woeful:_Quality_Seeker",
+        "selectedTier": "legendary",
+        "selectedEffectRaw": "+3 Quality bonus to confirm critical hits, and damage (before multiplier) on critical hits.",
+        "stackKey": "Quality:confirm critical hits, and damage (before multiplier) on critical hits",
+        "stat": "confirm critical hits, and damage (before multiplier) on critical hits",
+        "value": 3,
+        "searchScore": 76.2
+      },
+      "stackFamilies": [
+        {
+          "stackKey": "Quality:confirm critical hits, and damage (before multiplier) on critical hits",
+          "stat": "confirm critical hits, and damage (before multiplier) on critical hits",
+          "value": 3,
+          "bestCandidate": "Woeful Quality Seeker",
+          "bestEffect": "+3 Quality bonus to confirm critical hits, and damage (before multiplier) on critical hits.",
+          "bestScore": 76.2,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement damage:your melee, ranged, and unarmed attacks for 30 seconds",
+          "stat": "your melee, ranged, and unarmed attacks for 30 seconds",
+          "value": 5,
+          "bestCandidate": "Woeful Relentless Fury (Heroic)",
+          "bestEffect": "While this item is equipped, any killing blows you strike against enemies may drive you into a furious rage, providing a 5% Enhancement damage bonus to your melee, ranged, and unarmed attacks for 30 seconds. Slaying weaker opponents has a reduced chance of producing this effect.",
+          "bestScore": 42,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Competence:your Ranged Attack and +2 Competence bonus to your Ranged Damage",
+          "stat": "your Ranged Attack and +2 Competence bonus to your Ranged Damage",
+          "value": 3,
+          "bestCandidate": "Woeful Greater Marksmanship",
+          "bestEffect": "You gain +3 Competence bonus to your Ranged Attack and +2 Competence bonus to your Ranged Damage.",
+          "bestScore": 41.2,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Enhancement:Armor-Piercing",
+          "stat": "Armor-Piercing",
+          "value": 23,
+          "bestCandidate": "Woeful Armor Piercing (Heroic)",
+          "bestEffect": "+23% Enhancement bonus to Fortification bypass.",
+          "bestScore": 29.200000000000003,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Resistance:all Saving Throws",
+          "stat": "all Saving Throws",
+          "value": 12,
+          "bestCandidate": "Woeful Resistance (Heroic)",
+          "bestEffect": "+12 Resistance bonus to all Saving Throws.",
+          "bestScore": 24.8,
+          "selectedTier": "legendary"
+        }
+      ]
+    },
+    {
+      "key": "Lamordia:Melancholic:Weapon",
+      "label": "Lamordia Melancholic Weapon",
+      "system": "Lamordia",
+      "slotType": "Melancholic",
+      "itemGroup": "Weapon",
+      "bestScore": 40,
+      "bestCandidate": {
+        "name": "Melancholic Flames (Heroic)",
+        "link": "https://ddowiki.com/page/Item:Melancholic_Flames_(Heroic)",
+        "selectedTier": "legendary",
+        "selectedEffectRaw": "Adds Adamantine material type. On hit: 16d6 Fire Damage.",
+        "stackKey": "Special:Melancholic Flames (Heroic)",
+        "stat": "Special Effect",
+        "value": null,
+        "searchScore": 40
+      },
+      "stackFamilies": [
+        {
+          "stackKey": "Special:Melancholic Flames (Heroic)",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Melancholic Flames (Heroic)",
+          "bestEffect": "Adds Adamantine material type. On hit: 16d6 Fire Damage.",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Melancholic Chill (Heroic)",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Melancholic Chill (Heroic)",
+          "bestEffect": "Adds Cold Iron material type. On hit: 16d6 Cold Damage.",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Melancholic Sparks (Heroic)",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Melancholic Sparks (Heroic)",
+          "bestEffect": "Adds Silver material type. On hit: 16d6 Electric Damage.",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Melancholic Acid (Heroic)",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Melancholic Acid (Heroic)",
+          "bestEffect": "Adds Crystal and Byeshk material type. On hit: 16d6 Acid Damage. Note: Does not grant immunity to weapon damage from Rust Monsters or Oozes.",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        }
+      ]
+    },
+    {
+      "key": "Lamordia:Dolorous:Weapon",
+      "label": "Lamordia Dolorous Weapon",
+      "system": "Lamordia",
+      "slotType": "Dolorous",
+      "itemGroup": "Weapon",
+      "bestScore": 40,
+      "bestCandidate": {
+        "name": "Dolorous Flames (Heroic)",
+        "link": "https://ddowiki.com/page/Item:Dolorous_Flames_(Heroic)",
+        "selectedTier": "legendary",
+        "selectedEffectRaw": "Adds Good alignment bypass. Your attacks and spells have a small chance to deal a large amount of Fire damage. (undocumented) (Grants Alchemical Fire Attunement)",
+        "stackKey": "Special:Dolorous Flames (Heroic)",
+        "stat": "Special Effect",
+        "value": null,
+        "searchScore": 40
+      },
+      "stackFamilies": [
+        {
+          "stackKey": "Special:Dolorous Flames (Heroic)",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Dolorous Flames (Heroic)",
+          "bestEffect": "Adds Good alignment bypass. Your attacks and spells have a small chance to deal a large amount of Fire damage. (undocumented) (Grants Alchemical Fire Attunement)",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Dolorous Chill (Heroic)",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Dolorous Chill (Heroic)",
+          "bestEffect": "Adds Chaotic alignment bypass. Your attacks and spells have a chance to inflict ten stacks of Cold damage over time. (undocumented) (Grants Alchemical Water Attunement)",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Dolorous Sparks (Heroic)",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Dolorous Sparks (Heroic)",
+          "bestEffect": "Adds Lawful alignment bypass. Your attacks and spells have a small chance to deal a massive amount of Electric damage. (undocumented) (Grants Alchemical Air Attunement)",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Dolorous Acid (Heroic)",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Dolorous Acid (Heroic)",
+          "bestEffect": "Adds Evil alignment bypass. Your attacks and spells deal a large amount of stacking Acid damage over time. (undocumented) (Grants Alchemical Earth Attunement)",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        },
+        {
+          "stackKey": "Special:Dolorous Dimlight",
+          "stat": "Special Effect",
+          "value": null,
+          "bestCandidate": "Dolorous Dimlight",
+          "bestEffect": "Your attacks and offensive spells have a chance to deal Untyped damage. (undocumented) (Grants Legendary Steam)",
+          "bestScore": 40,
+          "selectedTier": "legendary"
+        }
+      ]
+    },
+    {
+      "key": "Lamordia:Dolorous:Armor",
+      "label": "Lamordia Dolorous Armor",
+      "system": "Lamordia",
+      "slotType": "Dolorous",
+      "itemGroup": "Armor",
+      "bestScore": 5,
+      "bestCandidate": {
+        "name": "Dolorous Silencer (Heroic)",
+        "link": "https://ddowiki.com/page/Item:Dolorous_Silencer_(Heroic)",
+        "selectedTier": "legendary",
+        "selectedEffectRaw": "+2d6 Profane bonus to your Sneak Attack Dice.",
+        "stackKey": "Profane:your Sneak Attack Dice",
+        "stat": "your Sneak Attack Dice",
+        "value": 6,
+        "searchScore": 5
+      },
+      "stackFamilies": [
+        {
+          "stackKey": "Profane:your Sneak Attack Dice",
+          "stat": "your Sneak Attack Dice",
+          "value": 6,
+          "bestCandidate": "Dolorous Silencer (Heroic)",
+          "bestEffect": "+2d6 Profane bonus to your Sneak Attack Dice.",
+          "bestScore": 5,
+          "selectedTier": "legendary"
+        }
+      ]
+    }
+  ],
+  "desiredCraftingStackKeys": [
+    {
+      "stackKey": "Quality:Wisdom",
+      "stat": "Wisdom",
+      "value": 3,
+      "bestCandidate": "Dolorous Quality Wisdom (Heroic)",
+      "bestEffect": "+3 Quality bonus to Wisdom.",
+      "bestScore": 156.2,
+      "sourceSlotLabel": "Lamordia Dolorous Accessory"
+    },
+    {
+      "stackKey": "Quality:Combat Mastery",
+      "stat": "Combat Mastery",
+      "value": 3,
+      "bestCandidate": "Dolorous Quality Combat Mastery (Heroic)",
+      "bestEffect": "+3 Quality bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "bestScore": 136.2,
+      "sourceSlotLabel": "Lamordia Dolorous Accessory"
+    },
+    {
+      "stackKey": "Enhancement:Wisdom",
+      "stat": "Wisdom",
+      "value": 15,
+      "bestCandidate": "Melancholic Wisdom (Heroic)",
+      "bestEffect": "+15 Enhancement bonus to Wisdom.",
+      "bestScore": 126,
+      "sourceSlotLabel": "Lamordia Melancholic Accessory"
+    },
+    {
+      "stackKey": "Exceptional:Wisdom",
+      "stat": "Wisdom",
+      "value": 2,
+      "bestCandidate": "Miserable Chill (Heroic)",
+      "bestEffect": "+2 Exceptional bonus to Wisdom.",
+      "bestScore": 120.8,
+      "sourceSlotLabel": "Lamordia Miserable Weapon"
+    },
+    {
+      "stackKey": "Special:Woeful Acid",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Woeful Acid",
+      "bestEffect": "Your attacks and offensive spells have a chance to reduce enemy Physical Resistance Rating and Positive Healing Amplification. (undocumented) (Grants Legendary Dust)",
+      "bestScore": 86,
+      "sourceSlotLabel": "Lamordia Woeful Weapon"
+    },
+    {
+      "stackKey": "Enhancement:Fortification",
+      "stat": "Fortification",
+      "value": 160,
+      "bestCandidate": "Melancholic Plating (Heroic)",
+      "bestEffect": "+160% Enhancement bonus to Fortification.",
+      "bestScore": 84,
+      "sourceSlotLabel": "Lamordia Melancholic Armor"
+    },
+    {
+      "stackKey": "Enhancement:Stunning",
+      "stat": "Stunning",
+      "value": 17,
+      "bestCandidate": "Miserable Stunning (Heroic)",
+      "bestEffect": "+17 Enhancement bonus to Stunning DCs.",
+      "bestScore": 81.8,
+      "sourceSlotLabel": "Lamordia Miserable Accessory"
+    },
+    {
+      "stackKey": "Enhancement:Seeker",
+      "stat": "Seeker",
+      "value": 15,
+      "bestCandidate": "Dolorous Seeker (Heroic)",
+      "bestEffect": "+15 Enhancement bonus to Critical Confirmation and Critical Damage.",
+      "bestScore": 81,
+      "sourceSlotLabel": "Lamordia Dolorous Accessory"
+    },
+    {
+      "stackKey": "Quality:confirm critical hits, and damage (before multiplier) on critical hits",
+      "stat": "confirm critical hits, and damage (before multiplier) on critical hits",
+      "value": 3,
+      "bestCandidate": "Woeful Quality Seeker",
+      "bestEffect": "+3 Quality bonus to confirm critical hits, and damage (before multiplier) on critical hits.",
+      "bestScore": 76.2,
+      "sourceSlotLabel": "Lamordia Woeful Accessory"
+    },
+    {
+      "stackKey": "Enhancement:Trip",
+      "stat": "Trip",
+      "value": 17,
+      "bestCandidate": "Miserable Trip (Heroic)",
+      "bestEffect": "+17 Enhancement bonus to Trip DCs.",
+      "bestScore": 71.8,
+      "sourceSlotLabel": "Lamordia Miserable Accessory"
+    },
+    {
+      "stackKey": "Enhancement:Sunder",
+      "stat": "Sunder",
+      "value": 17,
+      "bestCandidate": "Miserable Sunder (Heroic)",
+      "bestEffect": "+17 Enhancement bonus to Sunder DCs.",
+      "bestScore": 71.8,
+      "sourceSlotLabel": "Lamordia Miserable Accessory"
+    },
+    {
+      "stackKey": "Enhancement:PRR",
+      "stat": "PRR",
+      "value": 38,
+      "bestCandidate": "Miserable Physical Resistance Rating (Heroic)",
+      "bestEffect": "+38 Enhancement bonus to Physical Resistance Rating.",
+      "bestScore": 68.2,
+      "sourceSlotLabel": "Lamordia Miserable Accessory"
+    },
+    {
+      "stackKey": "Enhancement:MRR",
+      "stat": "MRR",
+      "value": 38,
+      "bestCandidate": "Miserable Magical Resistance Rating (Heroic)",
+      "bestEffect": "+38 Enhancement bonus to Magical Resistance Rating.",
+      "bestScore": 68.2,
+      "sourceSlotLabel": "Lamordia Miserable Accessory"
+    },
+    {
+      "stackKey": "Competence:Accuracy",
+      "stat": "Accuracy",
+      "value": 23,
+      "bestCandidate": "Dolorous Accuracy (Heroic)",
+      "bestEffect": "+23 Competence bonus to Attack.",
+      "bestScore": 67.2,
+      "sourceSlotLabel": "Lamordia Dolorous Accessory"
+    },
+    {
+      "stackKey": "Enhancement:Armor-Piercing",
+      "stat": "Armor-Piercing",
+      "value": 23,
+      "bestCandidate": "Miserable Armor-Piercing (Heroic)",
+      "bestEffect": "Adds Armor-Piercing. +23% Enhancement bonus to bypass enemy Fortification",
+      "bestScore": 64.2,
+      "sourceSlotLabel": "Lamordia Miserable Weapon"
+    },
+    {
+      "stackKey": "Competence:Healing Amplification",
+      "stat": "Healing Amplification",
+      "value": 61,
+      "bestCandidate": "Dolorous Healing Amplification (Heroic)",
+      "bestEffect": "+61 Competence bonus to Positive Healing Amplification.",
+      "bestScore": 62.400000000000006,
+      "sourceSlotLabel": "Lamordia Dolorous Accessory"
+    },
+    {
+      "stackKey": "Special:Woeful Shadows",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Woeful Shadows",
+      "bestEffect": "Your attacks and offensive spells have a chance to reduce enemy Physical and Magical Resistance Rating. (undocumented) (Grants a version of Constricting Nightmare that works with spells)",
+      "bestScore": 53,
+      "sourceSlotLabel": "Lamordia Woeful Weapon"
+    },
+    {
+      "stackKey": "Enhancement:Doublestrike",
+      "stat": "Doublestrike",
+      "value": 17,
+      "bestCandidate": "Melancholic Doublestrike (Heroic)",
+      "bestEffect": "+17% Enhancement bonus to Doublestrike.",
+      "bestScore": 46.8,
+      "sourceSlotLabel": "Lamordia Melancholic Accessory"
+    },
+    {
+      "stackKey": "Enhancement:Melee Alacrity, +20% Enhancement Bonus to Ranged Alacrity",
+      "stat": "Melee Alacrity, +20% Enhancement Bonus to Ranged Alacrity",
+      "value": 15,
+      "bestCandidate": "Woeful Shadow",
+      "bestEffect": "+3% Profane Doublestrike and Doubleshot, +15% Enhancement Bonus to Melee Alacrity, +20% Enhancement Bonus to Ranged Alacrity.",
+      "bestScore": 46,
+      "sourceSlotLabel": "Lamordia Woeful Weapon"
+    },
+    {
+      "stackKey": "Enhancement:False Life",
+      "stat": "False Life",
+      "value": 57,
+      "bestCandidate": "Melancholic False Life (Heroic)",
+      "bestEffect": "+57 Enhancement bonus to Maximum HP.",
+      "bestScore": 42.8,
+      "sourceSlotLabel": "Lamordia Melancholic Accessory"
+    },
+    {
+      "stackKey": "Enhancement damage:your melee, ranged, and unarmed attacks for 30 seconds",
+      "stat": "your melee, ranged, and unarmed attacks for 30 seconds",
+      "value": 5,
+      "bestCandidate": "Woeful Relentless Fury (Heroic)",
+      "bestEffect": "While this item is equipped, any killing blows you strike against enemies may drive you into a furious rage, providing a 5% Enhancement damage bonus to your melee, ranged, and unarmed attacks for 30 seconds. Slaying weaker opponents has a reduced chance of producing this effect.",
+      "bestScore": 42,
+      "sourceSlotLabel": "Lamordia Woeful Accessory"
+    },
+    {
+      "stackKey": "Competence:your Ranged Attack and +2 Competence bonus to your Ranged Damage",
+      "stat": "your Ranged Attack and +2 Competence bonus to your Ranged Damage",
+      "value": 3,
+      "bestCandidate": "Woeful Greater Marksmanship",
+      "bestEffect": "You gain +3 Competence bonus to your Ranged Attack and +2 Competence bonus to your Ranged Damage.",
+      "bestScore": 41.2,
+      "sourceSlotLabel": "Lamordia Woeful Accessory"
+    },
+    {
+      "stackKey": "Special:Miserable Maiming (Heroic)",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Miserable Maiming (Heroic)",
+      "bestEffect": "Adds Maiming. When you score a critical hit with this weapon, it does an additional +7d8 damage.",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Miserable Weapon"
+    },
+    {
+      "stackKey": "Special:Miserable Humanoid Bane (Heroic)",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Miserable Humanoid Bane (Heroic)",
+      "bestEffect": "This weapon is attuned specifically to those that walk among us, dealing an additional 7d10 bane damage vs. Humanoids",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Miserable Weapon"
+    },
+    {
+      "stackKey": "Special:Miserable Monstrous Humanoid Bane (Heroic)",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Miserable Monstrous Humanoid Bane (Heroic)",
+      "bestEffect": "This weapon is attuned specifically to hunt those who are descended from monsters dealing an additional 7d10 bane damage vs. Monstrous Humanoids",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Miserable Weapon"
+    },
+    {
+      "stackKey": "Special:Woeful Magma",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Woeful Magma",
+      "bestEffect": "Your attacks and offensive spells have a high chance to deal very strong fire damage over time. (undocumented) (Grants Dripping with Magma)",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Woeful Weapon"
+    },
+    {
+      "stackKey": "Special:Woeful Frostbite",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Woeful Frostbite",
+      "bestEffect": "Your attacks and offensive spells have a high chance to deal very strong cold damage over time. (undocumented) (Grants Bitter Frostbite)",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Woeful Weapon"
+    },
+    {
+      "stackKey": "Special:Melancholic Flames (Heroic)",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Melancholic Flames (Heroic)",
+      "bestEffect": "Adds Adamantine material type. On hit: 16d6 Fire Damage.",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Melancholic Weapon"
+    },
+    {
+      "stackKey": "Special:Melancholic Chill (Heroic)",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Melancholic Chill (Heroic)",
+      "bestEffect": "Adds Cold Iron material type. On hit: 16d6 Cold Damage.",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Melancholic Weapon"
+    },
+    {
+      "stackKey": "Special:Melancholic Sparks (Heroic)",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Melancholic Sparks (Heroic)",
+      "bestEffect": "Adds Silver material type. On hit: 16d6 Electric Damage.",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Melancholic Weapon"
+    },
+    {
+      "stackKey": "Special:Melancholic Acid (Heroic)",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Melancholic Acid (Heroic)",
+      "bestEffect": "Adds Crystal and Byeshk material type. On hit: 16d6 Acid Damage. Note: Does not grant immunity to weapon damage from Rust Monsters or Oozes.",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Melancholic Weapon"
+    },
+    {
+      "stackKey": "Special:Dolorous Flames (Heroic)",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Dolorous Flames (Heroic)",
+      "bestEffect": "Adds Good alignment bypass. Your attacks and spells have a small chance to deal a large amount of Fire damage. (undocumented) (Grants Alchemical Fire Attunement)",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Dolorous Weapon"
+    },
+    {
+      "stackKey": "Special:Dolorous Chill (Heroic)",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Dolorous Chill (Heroic)",
+      "bestEffect": "Adds Chaotic alignment bypass. Your attacks and spells have a chance to inflict ten stacks of Cold damage over time. (undocumented) (Grants Alchemical Water Attunement)",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Dolorous Weapon"
+    },
+    {
+      "stackKey": "Special:Dolorous Sparks (Heroic)",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Dolorous Sparks (Heroic)",
+      "bestEffect": "Adds Lawful alignment bypass. Your attacks and spells have a small chance to deal a massive amount of Electric damage. (undocumented) (Grants Alchemical Air Attunement)",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Dolorous Weapon"
+    },
+    {
+      "stackKey": "Special:Dolorous Acid (Heroic)",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Dolorous Acid (Heroic)",
+      "bestEffect": "Adds Evil alignment bypass. Your attacks and spells deal a large amount of stacking Acid damage over time. (undocumented) (Grants Alchemical Earth Attunement)",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Dolorous Weapon"
+    },
+    {
+      "stackKey": "Special:Dolorous Dimlight",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Dolorous Dimlight",
+      "bestEffect": "Your attacks and offensive spells have a chance to deal Untyped damage. (undocumented) (Grants Legendary Steam)",
+      "bestScore": 40,
+      "sourceSlotLabel": "Lamordia Dolorous Weapon"
+    },
+    {
+      "stackKey": "Enhancement:Constitution",
+      "stat": "Constitution",
+      "value": 15,
+      "bestCandidate": "Melancholic Constitution (Heroic)",
+      "bestEffect": "+15 Enhancement bonus to Constitution.",
+      "bestScore": 26,
+      "sourceSlotLabel": "Lamordia Melancholic Accessory"
+    },
+    {
+      "stackKey": "Resistance:all Saving Throws",
+      "stat": "all Saving Throws",
+      "value": 12,
+      "bestCandidate": "Woeful Resistance (Heroic)",
+      "bestEffect": "+12 Resistance bonus to all Saving Throws.",
+      "bestScore": 24.8,
+      "sourceSlotLabel": "Lamordia Woeful Accessory"
+    },
+    {
+      "stackKey": "Enhancement:Charisma",
+      "stat": "Charisma",
+      "value": 15,
+      "bestCandidate": "Melancholic Charisma (Heroic)",
+      "bestEffect": "+15 Enhancement bonus to Charisma.",
+      "bestScore": 5,
+      "sourceSlotLabel": "Lamordia Melancholic Accessory"
+    },
+    {
+      "stackKey": "Special:Melancholic Device (Heroic)",
+      "stat": "Special Effect",
+      "value": null,
+      "bestCandidate": "Melancholic Device (Heroic)",
+      "bestEffect": "You have Deathblock and are Ghostly.",
+      "bestScore": 5,
+      "sourceSlotLabel": "Lamordia Melancholic Armor"
+    },
+    {
+      "stackKey": "Profane:your Sneak Attack Dice",
+      "stat": "your Sneak Attack Dice",
+      "value": 6,
+      "bestCandidate": "Dolorous Silencer (Heroic)",
+      "bestEffect": "+2d6 Profane bonus to your Sneak Attack Dice.",
+      "bestScore": 5,
+      "sourceSlotLabel": "Lamordia Dolorous Armor"
+    }
+  ]
+}

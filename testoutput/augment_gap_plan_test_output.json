@@ -1,0 +1,3890 @@
+{
+  "counts": {
+    "targetCount": 46,
+    "metTargetCount": 14,
+    "underfilledTargetCount": 13,
+    "missingTargetCount": 19,
+    "openGapCount": 32,
+    "openNormalSlotCount": 19,
+    "normalAugmentRecommendationCount": 25,
+    "craftingAugmentRecommendationCount": 12
+  },
+  "highestPriorityOpenGaps": [
+    {
+      "targetId": "default_or_enhancement_wisdom",
+      "label": "Wisdom",
+      "category": "primary_stat",
+      "priority": 100,
+      "status": "below_target",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Wisdom +14",
+        "stackKey": "Default:Wisdom",
+        "value": 14,
+        "sourceLabel": "Perfected Jidz-Tet'ka"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_stunning",
+      "label": "Stunning",
+      "category": "tactical_dc",
+      "priority": 100,
+      "status": "below_minimum",
+      "currentValue": 15,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "missingToMinimum": 1,
+      "missingToTarget": 2,
+      "bestBonus": {
+        "raw": "Stunning +15",
+        "stackKey": "Default:Stunning",
+        "value": 15,
+        "sourceLabel": "Legendary Lionheart Ring"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_combat_mastery",
+      "label": "Combat Mastery",
+      "category": "tactical_dc",
+      "priority": 98,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 12,
+      "missingToMinimum": 10,
+      "missingToTarget": 12,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_combat_mastery",
+      "label": "Quality Combat Mastery",
+      "category": "tactical_dc",
+      "priority": 90,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "missingToMinimum": 3,
+      "missingToTarget": 3,
+      "bestBonus": null
+    },
+    {
+      "targetId": "insightful_stunning",
+      "label": "Insightful Stunning",
+      "category": "tactical_dc",
+      "priority": 85,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 6,
+      "targetValue": 6,
+      "missingToMinimum": 6,
+      "missingToTarget": 6,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_prr",
+      "label": "PRR",
+      "category": "survivability",
+      "priority": 84,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_mrr",
+      "label": "MRR",
+      "category": "survivability",
+      "priority": 82,
+      "status": "below_target",
+      "currentValue": 35,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 3,
+      "bestBonus": {
+        "raw": "Magical Sheltering +35",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 35,
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_deadly",
+      "label": "Deadly",
+      "category": "melee_damage",
+      "priority": 78,
+      "status": "below_minimum",
+      "currentValue": 10,
+      "minimumValue": 11,
+      "targetValue": 12,
+      "missingToMinimum": 1,
+      "missingToTarget": 2,
+      "bestBonus": {
+        "raw": "Deadly +10",
+        "stackKey": "Default:Deadly",
+        "value": 10,
+        "sourceLabel": "Storm's Harness"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_physical_sheltering",
+      "label": "Physical Sheltering",
+      "category": "survivability",
+      "priority": 78,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_enhanced_ki",
+      "label": "Enhanced Ki",
+      "category": "monk",
+      "priority": 78,
+      "status": "below_minimum",
+      "currentValue": 3,
+      "minimumValue": 4,
+      "targetValue": 5,
+      "missingToMinimum": 1,
+      "missingToTarget": 2,
+      "bestBonus": {
+        "raw": "Enhanced Ki +3",
+        "stackKey": "Default:Enhanced Ki",
+        "value": 3,
+        "sourceLabel": "Visions of Precision"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_constitution",
+      "label": "Constitution",
+      "category": "primary_stat",
+      "priority": 76,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "missingToMinimum": 14,
+      "missingToTarget": 15,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_magical_sheltering",
+      "label": "Magical Sheltering",
+      "category": "survivability",
+      "priority": 76,
+      "status": "below_target",
+      "currentValue": 35,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 3,
+      "bestBonus": {
+        "raw": "Magical Sheltering +35",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 35,
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_armor_piercing",
+      "label": "Armor-Piercing",
+      "category": "melee_damage",
+      "priority": 74,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 21,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Armor-Piercing 23%",
+        "stackKey": "Default:Armor-Piercing",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "quality_doublestrike",
+      "label": "Quality Doublestrike",
+      "category": "melee_damage",
+      "priority": 72,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 4,
+      "targetValue": 4,
+      "missingToMinimum": 4,
+      "missingToTarget": 4,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_accuracy",
+      "label": "Accuracy",
+      "category": "melee_accuracy",
+      "priority": 72,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 22,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Accuracy +23",
+        "stackKey": "Default:Accuracy",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_false_life",
+      "label": "False Life",
+      "category": "survivability",
+      "priority": 72,
+      "status": "below_minimum",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "missingToMinimum": 4,
+      "missingToTarget": 7,
+      "bestBonus": {
+        "raw": "False Life +50",
+        "stackKey": "Default:False Life",
+        "value": 50,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_healing_amplification",
+      "label": "Healing Amplification",
+      "category": "survivability",
+      "priority": 72,
+      "status": "below_minimum",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "missingToMinimum": 4,
+      "missingToTarget": 8,
+      "bestBonus": {
+        "raw": "Competence Healing Amplification +53",
+        "stackKey": "Competence:Healing Amplification",
+        "value": 53,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "artifact_tactical_dc",
+      "label": "Artifact Tactical DC",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 5,
+      "targetValue": 5,
+      "missingToMinimum": 5,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_doublestrike",
+      "label": "Artifact Doublestrike",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 15,
+      "targetValue": 15,
+      "missingToMinimum": 15,
+      "missingToTarget": 15,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_armor_piercing",
+      "label": "Artifact Armor-Piercing",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 30,
+      "targetValue": 30,
+      "missingToMinimum": 30,
+      "missingToTarget": 30,
+      "bestBonus": null
+    }
+  ],
+  "underfilledTargets": [
+    {
+      "targetId": "default_or_enhancement_wisdom",
+      "label": "Wisdom",
+      "category": "primary_stat",
+      "priority": 100,
+      "status": "below_target",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Wisdom +14",
+        "stackKey": "Default:Wisdom",
+        "value": 14,
+        "sourceLabel": "Perfected Jidz-Tet'ka"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_stunning",
+      "label": "Stunning",
+      "category": "tactical_dc",
+      "priority": 100,
+      "status": "below_minimum",
+      "currentValue": 15,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "missingToMinimum": 1,
+      "missingToTarget": 2,
+      "bestBonus": {
+        "raw": "Stunning +15",
+        "stackKey": "Default:Stunning",
+        "value": 15,
+        "sourceLabel": "Legendary Lionheart Ring"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_prr",
+      "label": "PRR",
+      "category": "survivability",
+      "priority": 84,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_mrr",
+      "label": "MRR",
+      "category": "survivability",
+      "priority": 82,
+      "status": "below_target",
+      "currentValue": 35,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 3,
+      "bestBonus": {
+        "raw": "Magical Sheltering +35",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 35,
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_deadly",
+      "label": "Deadly",
+      "category": "melee_damage",
+      "priority": 78,
+      "status": "below_minimum",
+      "currentValue": 10,
+      "minimumValue": 11,
+      "targetValue": 12,
+      "missingToMinimum": 1,
+      "missingToTarget": 2,
+      "bestBonus": {
+        "raw": "Deadly +10",
+        "stackKey": "Default:Deadly",
+        "value": 10,
+        "sourceLabel": "Storm's Harness"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_physical_sheltering",
+      "label": "Physical Sheltering",
+      "category": "survivability",
+      "priority": 78,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_enhanced_ki",
+      "label": "Enhanced Ki",
+      "category": "monk",
+      "priority": 78,
+      "status": "below_minimum",
+      "currentValue": 3,
+      "minimumValue": 4,
+      "targetValue": 5,
+      "missingToMinimum": 1,
+      "missingToTarget": 2,
+      "bestBonus": {
+        "raw": "Enhanced Ki +3",
+        "stackKey": "Default:Enhanced Ki",
+        "value": 3,
+        "sourceLabel": "Visions of Precision"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_magical_sheltering",
+      "label": "Magical Sheltering",
+      "category": "survivability",
+      "priority": 76,
+      "status": "below_target",
+      "currentValue": 35,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 3,
+      "bestBonus": {
+        "raw": "Magical Sheltering +35",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 35,
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_armor_piercing",
+      "label": "Armor-Piercing",
+      "category": "melee_damage",
+      "priority": 74,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 21,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Armor-Piercing 23%",
+        "stackKey": "Default:Armor-Piercing",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_accuracy",
+      "label": "Accuracy",
+      "category": "melee_accuracy",
+      "priority": 72,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 22,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Accuracy +23",
+        "stackKey": "Default:Accuracy",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_false_life",
+      "label": "False Life",
+      "category": "survivability",
+      "priority": 72,
+      "status": "below_minimum",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "missingToMinimum": 4,
+      "missingToTarget": 7,
+      "bestBonus": {
+        "raw": "False Life +50",
+        "stackKey": "Default:False Life",
+        "value": 50,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_healing_amplification",
+      "label": "Healing Amplification",
+      "category": "survivability",
+      "priority": 72,
+      "status": "below_minimum",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "missingToMinimum": 4,
+      "missingToTarget": 8,
+      "bestBonus": {
+        "raw": "Competence Healing Amplification +53",
+        "stackKey": "Competence:Healing Amplification",
+        "value": 53,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_fortification",
+      "label": "Fortification",
+      "category": "survivability",
+      "priority": 66,
+      "status": "below_target",
+      "currentValue": 142,
+      "minimumValue": 142,
+      "targetValue": 156,
+      "missingToMinimum": 0,
+      "missingToTarget": 14,
+      "bestBonus": {
+        "raw": "Fortification +142%",
+        "stackKey": "Default:Fortification",
+        "value": 142,
+        "sourceLabel": "Firefly Garb"
+      }
+    }
+  ],
+  "missingTargets": [
+    {
+      "targetId": "default_or_enhancement_combat_mastery",
+      "label": "Combat Mastery",
+      "category": "tactical_dc",
+      "priority": 98,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 12,
+      "missingToMinimum": 10,
+      "missingToTarget": 12,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_combat_mastery",
+      "label": "Quality Combat Mastery",
+      "category": "tactical_dc",
+      "priority": 90,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "missingToMinimum": 3,
+      "missingToTarget": 3,
+      "bestBonus": null
+    },
+    {
+      "targetId": "insightful_stunning",
+      "label": "Insightful Stunning",
+      "category": "tactical_dc",
+      "priority": 85,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 6,
+      "targetValue": 6,
+      "missingToMinimum": 6,
+      "missingToTarget": 6,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_constitution",
+      "label": "Constitution",
+      "category": "primary_stat",
+      "priority": 76,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "missingToMinimum": 14,
+      "missingToTarget": 15,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_doublestrike",
+      "label": "Quality Doublestrike",
+      "category": "melee_damage",
+      "priority": 72,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 4,
+      "targetValue": 4,
+      "missingToMinimum": 4,
+      "missingToTarget": 4,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_tactical_dc",
+      "label": "Artifact Tactical DC",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 5,
+      "targetValue": 5,
+      "missingToMinimum": 5,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_doublestrike",
+      "label": "Artifact Doublestrike",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 15,
+      "targetValue": 15,
+      "missingToMinimum": 15,
+      "missingToTarget": 15,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_armor_piercing",
+      "label": "Artifact Armor-Piercing",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 30,
+      "targetValue": 30,
+      "missingToMinimum": 30,
+      "missingToTarget": 30,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_dodge",
+      "label": "Dodge",
+      "category": "survivability",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "missingToMinimum": 11,
+      "missingToTarget": 15,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_constitution",
+      "label": "Quality Constitution",
+      "category": "primary_stat",
+      "priority": 66,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "missingToMinimum": 3,
+      "missingToTarget": 3,
+      "bestBonus": null
+    },
+    {
+      "targetId": "festive_wisdom",
+      "label": "Festive Wisdom",
+      "category": "primary_stat",
+      "priority": 65,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "missingToMinimum": 2,
+      "missingToTarget": 2,
+      "bestBonus": null
+    },
+    {
+      "targetId": "insightful_deadly",
+      "label": "Insightful Deadly",
+      "category": "melee_damage",
+      "priority": 64,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 5,
+      "targetValue": 5,
+      "missingToMinimum": 5,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_accuracy",
+      "label": "Quality Accuracy",
+      "category": "melee_accuracy",
+      "priority": 62,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 4,
+      "targetValue": 5,
+      "missingToMinimum": 4,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_physical_sheltering",
+      "label": "Quality Physical Sheltering",
+      "category": "survivability",
+      "priority": 60,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 8,
+      "targetValue": 9,
+      "missingToMinimum": 8,
+      "missingToTarget": 9,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_dodge",
+      "label": "Quality Dodge",
+      "category": "survivability",
+      "priority": 60,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "missingToMinimum": 3,
+      "missingToTarget": 3,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_resistance",
+      "label": "Resistance",
+      "category": "survivability",
+      "priority": 58,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 11,
+      "missingToMinimum": 10,
+      "missingToTarget": 11,
+      "bestBonus": null
+    },
+    {
+      "targetId": "exceptional_healing_amplification",
+      "label": "Exceptional Healing Amplification",
+      "category": "survivability",
+      "priority": 56,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 15,
+      "targetValue": 15,
+      "missingToMinimum": 15,
+      "missingToTarget": 15,
+      "bestBonus": null
+    },
+    {
+      "targetId": "exceptional_constitution",
+      "label": "Exceptional Constitution",
+      "category": "primary_stat",
+      "priority": 51,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "missingToMinimum": 2,
+      "missingToTarget": 2,
+      "bestBonus": null
+    },
+    {
+      "targetId": "festive_constitution",
+      "label": "Festive Constitution",
+      "category": "primary_stat",
+      "priority": 41,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "missingToMinimum": 2,
+      "missingToTarget": 2,
+      "bestBonus": null
+    }
+  ],
+  "openNormalSlots": [
+    {
+      "itemName": "Legendary Black Dynamo",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Black Dynamo",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+      "color": "colorless",
+      "raw": {
+        "slotColor": "Colorless",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Breaker's Bauble",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Breaker's Bauble",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+      "color": "colorless",
+      "raw": {
+        "slotColor": "Colorless",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Lionheart Ring",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Wondrous Magegloves",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+      "color": "yellow",
+      "raw": {
+        "slotColor": "Yellow",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Firefly Garb",
+      "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+      "color": "blue",
+      "raw": {
+        "slotColor": "Blue",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Firefly Garb",
+      "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Death's Deferral",
+      "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Death's Deferral",
+      "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+      "color": "yellow",
+      "raw": {
+        "slotColor": "Yellow",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Belt of Blind Devotion",
+      "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+      "color": "blue",
+      "raw": {
+        "slotColor": "Blue",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Perfected Jidz-Tet'ka",
+      "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+      "color": "yellow",
+      "raw": {
+        "slotColor": "Yellow",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Perfected Jidz-Tet'ka",
+      "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Perfected Jidz-Tet'ka",
+      "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+      "color": "blue",
+      "raw": {
+        "slotColor": "Blue",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+      "color": "colorless",
+      "raw": {
+        "slotColor": "Colorless",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Lamordian Top Hat",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+      "color": "green",
+      "raw": {
+        "slotColor": "Green",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Legendary Lamordian Top Hat",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+      "color": "colorless",
+      "raw": {
+        "slotColor": "Colorless",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    },
+    {
+      "itemName": "Storm's Harness",
+      "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+      "color": "red",
+      "raw": {
+        "slotColor": "Red",
+        "reason": "No strong non-duplicate non-suppressed candidate found."
+      }
+    }
+  ],
+  "bestRecommendations": [
+    {
+      "sourceType": "crafting_augment",
+      "name": "Dolorous Quality Combat Mastery (Heroic)",
+      "link": null,
+      "effect": "+3 Quality bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "stackKey": "Quality:Combat Mastery",
+      "value": 3,
+      "score": 196,
+      "targetId": "quality_combat_mastery",
+      "targetLabel": "Quality Combat Mastery",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "itemName": "Legendary Black Dynamo",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Dolorous Quality Combat Mastery (Heroic)",
+      "link": null,
+      "effect": "+3 Quality bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "stackKey": "Quality:Combat Mastery",
+      "value": 3,
+      "score": 196,
+      "targetId": "quality_combat_mastery",
+      "targetLabel": "Quality Combat Mastery",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Dolorous Quality Combat Mastery (Heroic)",
+      "link": null,
+      "effect": "+3 Quality bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "stackKey": "Quality:Combat Mastery",
+      "value": 3,
+      "score": 196,
+      "targetId": "quality_combat_mastery",
+      "targetLabel": "Quality Combat Mastery",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "itemName": "Legendary Lamordian Top Hat",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Constitution +14",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B14",
+      "effect": "Constitution +14",
+      "stackKey": "Default:Constitution",
+      "value": 14,
+      "score": 186.33333333333334,
+      "targetId": "default_or_enhancement_constitution",
+      "targetLabel": "Constitution",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Dodge +14%",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B14%25",
+      "effect": "Dodge +14%",
+      "stackKey": "Default:Dodge",
+      "value": 14,
+      "score": 180.33333333333334,
+      "targetId": "default_or_enhancement_dodge",
+      "targetLabel": "Dodge",
+      "currentValue": 0,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Resistance +11",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B11",
+      "effect": "Resistance +11",
+      "stackKey": "Default:Resistance",
+      "value": 11,
+      "score": 180,
+      "targetId": "default_or_enhancement_resistance",
+      "targetLabel": "Resistance",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 11,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Dodge +12%",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B12%25",
+      "effect": "Dodge +12%",
+      "stackKey": "Default:Dodge",
+      "value": 12,
+      "score": 171,
+      "targetId": "default_or_enhancement_dodge",
+      "targetLabel": "Dodge",
+      "currentValue": 0,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Festive Wisdom +2",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Festive_Wisdom_%2B2",
+      "effect": "Festive Wisdom +2",
+      "stackKey": "Festive:Wisdom",
+      "value": 2,
+      "score": 169,
+      "targetId": "festive_wisdom",
+      "targetLabel": "Festive Wisdom",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Dolorous Healing Amplification (Heroic)",
+      "link": null,
+      "effect": "+61 Competence bonus to Positive Healing Amplification.",
+      "stackKey": "Competence:Healing Amplification",
+      "value": 61,
+      "score": 168,
+      "targetId": "default_or_enhancement_healing_amplification",
+      "targetLabel": "Healing Amplification",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "itemName": "Legendary Black Dynamo",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Dolorous Healing Amplification (Heroic)",
+      "link": null,
+      "effect": "+61 Competence bonus to Positive Healing Amplification.",
+      "stackKey": "Competence:Healing Amplification",
+      "value": 61,
+      "score": 168,
+      "targetId": "default_or_enhancement_healing_amplification",
+      "targetLabel": "Healing Amplification",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Dolorous Healing Amplification (Heroic)",
+      "link": null,
+      "effect": "+61 Competence bonus to Positive Healing Amplification.",
+      "stackKey": "Competence:Healing Amplification",
+      "value": 61,
+      "score": 168,
+      "targetId": "default_or_enhancement_healing_amplification",
+      "targetLabel": "Healing Amplification",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "itemName": "Legendary Lamordian Top Hat",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Dodge +11%",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B11%25",
+      "effect": "Dodge +11%",
+      "stackKey": "Default:Dodge",
+      "value": 11,
+      "score": 166.33333333333331,
+      "targetId": "default_or_enhancement_dodge",
+      "targetLabel": "Dodge",
+      "currentValue": 0,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Melancholic False Life (Heroic)",
+      "link": null,
+      "effect": "+57 Enhancement bonus to Maximum HP.",
+      "stackKey": "Enhancement:False Life",
+      "value": 57,
+      "score": 166,
+      "targetId": "default_or_enhancement_false_life",
+      "targetLabel": "False Life",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "itemName": "Legendary Black Dynamo",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Melancholic False Life (Heroic)",
+      "link": null,
+      "effect": "+57 Enhancement bonus to Maximum HP.",
+      "stackKey": "Enhancement:False Life",
+      "value": 57,
+      "score": 166,
+      "targetId": "default_or_enhancement_false_life",
+      "targetLabel": "False Life",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Melancholic False Life (Heroic)",
+      "link": null,
+      "effect": "+57 Enhancement bonus to Maximum HP.",
+      "stackKey": "Enhancement:False Life",
+      "value": 57,
+      "score": 166,
+      "targetId": "default_or_enhancement_false_life",
+      "targetLabel": "False Life",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "itemName": "Legendary Lamordian Top Hat",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Resistance +10",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B10",
+      "effect": "Resistance +10",
+      "stackKey": "Default:Resistance",
+      "value": 10,
+      "score": 159.36363636363637,
+      "targetId": "default_or_enhancement_resistance",
+      "targetLabel": "Resistance",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 11,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Melancholic Wisdom (Heroic)",
+      "link": null,
+      "effect": "+15 Enhancement bonus to Wisdom.",
+      "stackKey": "Enhancement:Wisdom",
+      "value": 15,
+      "score": 157,
+      "targetId": "default_or_enhancement_wisdom",
+      "targetLabel": "Wisdom",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": "Legendary Black Dynamo",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Melancholic Wisdom (Heroic)",
+      "link": null,
+      "effect": "+15 Enhancement bonus to Wisdom.",
+      "stackKey": "Enhancement:Wisdom",
+      "value": 15,
+      "score": 157,
+      "targetId": "default_or_enhancement_wisdom",
+      "targetLabel": "Wisdom",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Melancholic Wisdom (Heroic)",
+      "link": null,
+      "effect": "+15 Enhancement bonus to Wisdom.",
+      "stackKey": "Enhancement:Wisdom",
+      "value": 15,
+      "score": 157,
+      "targetId": "default_or_enhancement_wisdom",
+      "targetLabel": "Wisdom",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": "Legendary Lamordian Top Hat",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Constitution +12",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B12",
+      "effect": "Constitution +12",
+      "stackKey": "Default:Constitution",
+      "value": 12,
+      "score": 152,
+      "targetId": "default_or_enhancement_constitution",
+      "targetLabel": "Constitution",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "normalAugmentRecommendations": [
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Constitution +14",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B14",
+      "effect": "Constitution +14",
+      "stackKey": "Default:Constitution",
+      "value": 14,
+      "score": 186.33333333333334,
+      "targetId": "default_or_enhancement_constitution",
+      "targetLabel": "Constitution",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Dodge +14%",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B14%25",
+      "effect": "Dodge +14%",
+      "stackKey": "Default:Dodge",
+      "value": 14,
+      "score": 180.33333333333334,
+      "targetId": "default_or_enhancement_dodge",
+      "targetLabel": "Dodge",
+      "currentValue": 0,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Resistance +11",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B11",
+      "effect": "Resistance +11",
+      "stackKey": "Default:Resistance",
+      "value": 11,
+      "score": 180,
+      "targetId": "default_or_enhancement_resistance",
+      "targetLabel": "Resistance",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 11,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Dodge +12%",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B12%25",
+      "effect": "Dodge +12%",
+      "stackKey": "Default:Dodge",
+      "value": 12,
+      "score": 171,
+      "targetId": "default_or_enhancement_dodge",
+      "targetLabel": "Dodge",
+      "currentValue": 0,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Festive Wisdom +2",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Festive_Wisdom_%2B2",
+      "effect": "Festive Wisdom +2",
+      "stackKey": "Festive:Wisdom",
+      "value": 2,
+      "score": 169,
+      "targetId": "festive_wisdom",
+      "targetLabel": "Festive Wisdom",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Dodge +11%",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B11%25",
+      "effect": "Dodge +11%",
+      "stackKey": "Default:Dodge",
+      "value": 11,
+      "score": 166.33333333333331,
+      "targetId": "default_or_enhancement_dodge",
+      "targetLabel": "Dodge",
+      "currentValue": 0,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Resistance +10",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B10",
+      "effect": "Resistance +10",
+      "stackKey": "Default:Resistance",
+      "value": 10,
+      "score": 159.36363636363637,
+      "targetId": "default_or_enhancement_resistance",
+      "targetLabel": "Resistance",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 11,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Constitution +12",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B12",
+      "effect": "Constitution +12",
+      "stackKey": "Default:Constitution",
+      "value": 12,
+      "score": 152,
+      "targetId": "default_or_enhancement_constitution",
+      "targetLabel": "Constitution",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Constitution +11",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B11",
+      "effect": "Constitution +11",
+      "stackKey": "Default:Constitution",
+      "value": 11,
+      "score": 147.33333333333331,
+      "targetId": "default_or_enhancement_constitution",
+      "targetLabel": "Constitution",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Stunning +16",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B16",
+      "effect": "Stunning +16",
+      "stackKey": "Default:Stunning",
+      "value": 16,
+      "score": 147,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
+      "currentValue": 15,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Festive Constitution +2",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Festive_Constitution_%2B2",
+      "effect": "Festive Constitution +2",
+      "stackKey": "Festive:Constitution",
+      "value": 2,
+      "score": 145,
+      "targetId": "festive_constitution",
+      "targetLabel": "Festive Constitution",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Constitution +9",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B9",
+      "effect": "Constitution +9",
+      "stackKey": "Default:Constitution",
+      "value": 9,
+      "score": 138,
+      "targetId": "default_or_enhancement_constitution",
+      "targetLabel": "Constitution",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Constitution +8",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B8",
+      "effect": "Constitution +8",
+      "stackKey": "Default:Constitution",
+      "value": 8,
+      "score": 133.33333333333331,
+      "targetId": "default_or_enhancement_constitution",
+      "targetLabel": "Constitution",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Dodge +9%",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B9%25",
+      "effect": "Dodge +9%",
+      "stackKey": "Default:Dodge",
+      "value": 9,
+      "score": 132,
+      "targetId": "default_or_enhancement_dodge",
+      "targetLabel": "Dodge",
+      "currentValue": 0,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Resistance +9",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B9",
+      "effect": "Resistance +9",
+      "stackKey": "Default:Resistance",
+      "value": 9,
+      "score": 128.72727272727272,
+      "targetId": "default_or_enhancement_resistance",
+      "targetLabel": "Resistance",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 11,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of False Life +54",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_False_Life_%2B54",
+      "effect": "False Life +54",
+      "stackKey": "Default:False Life",
+      "value": 54,
+      "score": 127.85714285714286,
+      "targetId": "default_or_enhancement_false_life",
+      "targetLabel": "False Life",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Dodge +8%",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B8%25",
+      "effect": "Dodge +8%",
+      "stackKey": "Default:Dodge",
+      "value": 8,
+      "score": 127.33333333333333,
+      "targetId": "default_or_enhancement_dodge",
+      "targetLabel": "Dodge",
+      "currentValue": 0,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Healing Amplification +57",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Healing_Amplification_%2B57",
+      "effect": "Competence Healing Amplification +57",
+      "stackKey": "Competence:Healing Amplification",
+      "value": 57,
+      "score": 125,
+      "targetId": "default_or_enhancement_healing_amplification",
+      "targetLabel": "Healing Amplification",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Topaz of Damage +11",
+      "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B11",
+      "effect": "Deadly +11",
+      "stackKey": "Default:Deadly",
+      "value": 11,
+      "score": 125,
+      "targetId": "default_or_enhancement_deadly",
+      "targetLabel": "Deadly",
+      "currentValue": 10,
+      "minimumValue": 11,
+      "targetValue": 12,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Diamond of Constitution +6",
+      "link": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B6",
+      "effect": "Constitution +6",
+      "stackKey": "Default:Constitution",
+      "value": 6,
+      "score": 124,
+      "targetId": "default_or_enhancement_constitution",
+      "targetLabel": "Constitution",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lionheart Ring",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Wondrous Magegloves",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "color": "blue"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Storm's Harness",
+          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+          "color": "red"
+        }
+      ]
+    }
+  ],
+  "craftingAugmentRecommendations": [
+    {
+      "sourceType": "crafting_augment",
+      "name": "Dolorous Quality Combat Mastery (Heroic)",
+      "link": null,
+      "effect": "+3 Quality bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "stackKey": "Quality:Combat Mastery",
+      "value": 3,
+      "score": 196,
+      "targetId": "quality_combat_mastery",
+      "targetLabel": "Quality Combat Mastery",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "itemName": "Legendary Black Dynamo",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Dolorous Quality Combat Mastery (Heroic)",
+      "link": null,
+      "effect": "+3 Quality bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "stackKey": "Quality:Combat Mastery",
+      "value": 3,
+      "score": 196,
+      "targetId": "quality_combat_mastery",
+      "targetLabel": "Quality Combat Mastery",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Dolorous Quality Combat Mastery (Heroic)",
+      "link": null,
+      "effect": "+3 Quality bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "stackKey": "Quality:Combat Mastery",
+      "value": 3,
+      "score": 196,
+      "targetId": "quality_combat_mastery",
+      "targetLabel": "Quality Combat Mastery",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "itemName": "Legendary Lamordian Top Hat",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Dolorous Healing Amplification (Heroic)",
+      "link": null,
+      "effect": "+61 Competence bonus to Positive Healing Amplification.",
+      "stackKey": "Competence:Healing Amplification",
+      "value": 61,
+      "score": 168,
+      "targetId": "default_or_enhancement_healing_amplification",
+      "targetLabel": "Healing Amplification",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "itemName": "Legendary Black Dynamo",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Dolorous Healing Amplification (Heroic)",
+      "link": null,
+      "effect": "+61 Competence bonus to Positive Healing Amplification.",
+      "stackKey": "Competence:Healing Amplification",
+      "value": 61,
+      "score": 168,
+      "targetId": "default_or_enhancement_healing_amplification",
+      "targetLabel": "Healing Amplification",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Dolorous Healing Amplification (Heroic)",
+      "link": null,
+      "effect": "+61 Competence bonus to Positive Healing Amplification.",
+      "stackKey": "Competence:Healing Amplification",
+      "value": 61,
+      "score": 168,
+      "targetId": "default_or_enhancement_healing_amplification",
+      "targetLabel": "Healing Amplification",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "itemName": "Legendary Lamordian Top Hat",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Melancholic False Life (Heroic)",
+      "link": null,
+      "effect": "+57 Enhancement bonus to Maximum HP.",
+      "stackKey": "Enhancement:False Life",
+      "value": 57,
+      "score": 166,
+      "targetId": "default_or_enhancement_false_life",
+      "targetLabel": "False Life",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "itemName": "Legendary Black Dynamo",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Melancholic False Life (Heroic)",
+      "link": null,
+      "effect": "+57 Enhancement bonus to Maximum HP.",
+      "stackKey": "Enhancement:False Life",
+      "value": 57,
+      "score": 166,
+      "targetId": "default_or_enhancement_false_life",
+      "targetLabel": "False Life",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Melancholic False Life (Heroic)",
+      "link": null,
+      "effect": "+57 Enhancement bonus to Maximum HP.",
+      "stackKey": "Enhancement:False Life",
+      "value": 57,
+      "score": 166,
+      "targetId": "default_or_enhancement_false_life",
+      "targetLabel": "False Life",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "itemName": "Legendary Lamordian Top Hat",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Melancholic Wisdom (Heroic)",
+      "link": null,
+      "effect": "+15 Enhancement bonus to Wisdom.",
+      "stackKey": "Enhancement:Wisdom",
+      "value": 15,
+      "score": 157,
+      "targetId": "default_or_enhancement_wisdom",
+      "targetLabel": "Wisdom",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": "Legendary Black Dynamo",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Melancholic Wisdom (Heroic)",
+      "link": null,
+      "effect": "+15 Enhancement bonus to Wisdom.",
+      "stackKey": "Enhancement:Wisdom",
+      "value": 15,
+      "score": 157,
+      "targetId": "default_or_enhancement_wisdom",
+      "targetLabel": "Wisdom",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "compatibleSlots": []
+    },
+    {
+      "sourceType": "crafting_augment",
+      "name": "Melancholic Wisdom (Heroic)",
+      "link": null,
+      "effect": "+15 Enhancement bonus to Wisdom.",
+      "stackKey": "Enhancement:Wisdom",
+      "value": 15,
+      "score": 157,
+      "targetId": "default_or_enhancement_wisdom",
+      "targetLabel": "Wisdom",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "itemName": "Legendary Lamordian Top Hat",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "compatibleSlots": []
+    }
+  ]
+}

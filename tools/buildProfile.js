@@ -1,114 +1,225 @@
 // buildProfile.js
 
-function normalizeText(value) {
-  return String(value || '').toLowerCase();
+function cleanText(value) {
+  return String(value || '')
+    .replace(/\u00a0/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
-function uniqueList(values) {
+function normalizeText(value) {
+  return cleanText(value).toLowerCase();
+}
+
+function includesAny(text, terms) {
+  const normalized = normalizeText(text);
+
+  return terms.some(term =>
+    normalized.includes(normalizeText(term))
+  );
+}
+
+function unique(values) {
   return [...new Set(values.filter(Boolean))];
 }
 
-function addBuildType(profile, buildType) {
-  if (!profile.buildTypes.includes(buildType)) {
-    profile.buildTypes.push(buildType);
+function detectMaxLevel(goal) {
+  const text = normalizeText(goal);
+
+  const levelMatch = text.match(/level\s+(\d+)/i);
+
+  if (levelMatch) {
+    return Number(levelMatch[1]);
   }
+
+  const maxLevelMatch = text.match(/max(?:imum)?\s*level\s+(\d+)/i);
+
+  if (maxLevelMatch) {
+    return Number(maxLevelMatch[1]);
+  }
+
+  return 34;
 }
 
-function createBaseProfile(goal) {
-  return {
-    goal,
+function detectPrimaryStats(goal) {
+  const text = normalizeText(goal);
+  const primaryStats = [];
 
-    maxLevel: 34,
+  const statChecks = [
+    ['Strength', ['strength-based', 'strength based', 'str-based', 'str based', 'strength']],
+    ['Dexterity', ['dexterity-based', 'dexterity based', 'dex-based', 'dex based', 'dexterity']],
+    ['Constitution', ['constitution-based', 'constitution based', 'con-based', 'con based', 'constitution']],
+    ['Intelligence', ['intelligence-based', 'intelligence based', 'int-based', 'int based', 'intelligence']],
+    ['Wisdom', ['wisdom-based', 'wisdom based', 'wis-based', 'wis based', 'wisdom']],
+    ['Charisma', ['charisma-based', 'charisma based', 'cha-based', 'cha based', 'charisma']]
+  ];
 
-    buildTypes: [],
+  for (const [stat, terms] of statChecks) {
+    if (terms.some(term => text.includes(term))) {
+      primaryStats.push(stat);
+    }
+  }
 
-    primaryStats: [],
-    combatStyle: [],
-    priorityTerms: [],
-    secondaryTerms: [],
-    avoidTerms: [],
-
-    requiredSlots: [],
-    preferredWeaponSubtypes: [],
-
-    notes: []
-  };
+  return unique(primaryStats);
 }
 
-function detectAbilityStats(goalText) {
-  const stats = [];
+function detectBuildTypes(goal) {
+  const text = normalizeText(goal);
+  const buildTypes = [];
 
-  if (goalText.includes('strength') || goalText.includes('str')) {
-    stats.push('Strength');
+  if (includesAny(text, ['melee', 'handwraps', 'unarmed', 'monk'])) {
+    buildTypes.push('melee');
   }
 
-  if (goalText.includes('dexterity') || goalText.includes('dex')) {
-    stats.push('Dexterity');
+  if (includesAny(text, ['tactical', 'tactics', 'stunning', 'trip', 'sunder', 'dc'])) {
+    buildTypes.push('tactical');
   }
 
-  if (goalText.includes('constitution') || goalText.includes('con')) {
-    stats.push('Constitution');
+  if (includesAny(text, ['defensive', 'survivability', 'survival', 'prr', 'mrr', 'dodge', 'tank'])) {
+    buildTypes.push('defensive');
   }
 
-  if (goalText.includes('intelligence') || goalText.includes('int')) {
-    stats.push('Intelligence');
+  if (includesAny(text, ['tank'])) {
+    buildTypes.push('tank');
   }
 
-  if (goalText.includes('wisdom') || goalText.includes('wis')) {
-    stats.push('Wisdom');
+  if (includesAny(text, ['monk', 'handwraps', 'unarmed'])) {
+    buildTypes.push('monk');
   }
 
-  if (goalText.includes('charisma') || goalText.includes('cha')) {
-    stats.push('Charisma');
+  if (includesAny(text, ['caster', 'spell power', 'spellpower', 'spell dc'])) {
+    buildTypes.push('caster');
   }
 
-  return uniqueList(stats);
+  return unique(buildTypes);
 }
 
-function detectWeaponSubtypes(goalText) {
+function detectPreferredWeaponSubtypes(goal) {
+  const text = normalizeText(goal);
   const subtypes = [];
 
-  if (goalText.includes('handwrap')) {
+  if (includesAny(text, ['handwrap', 'handwraps', 'unarmed'])) {
     subtypes.push('handwraps');
   }
 
-  if (goalText.includes('warhammer') || goalText.includes('war hammer')) {
-    subtypes.push('war_hammer');
+  if (includesAny(text, ['quarterstaff', 'staff build'])) {
+    subtypes.push('quarterstaff');
   }
 
-  if (goalText.includes('long sword') || goalText.includes('longsword')) {
-    subtypes.push('long_sword');
+  if (includesAny(text, ['falchion'])) {
+    subtypes.push('falchion');
   }
 
-  if (goalText.includes('great sword') || goalText.includes('greatsword')) {
+  if (includesAny(text, ['great axe', 'greataxe'])) {
+    subtypes.push('great_axe');
+  }
+
+  if (includesAny(text, ['great sword', 'greatsword'])) {
     subtypes.push('great_sword');
   }
 
-  if (goalText.includes('dagger')) {
-    subtypes.push('dagger');
+  if (includesAny(text, ['maul'])) {
+    subtypes.push('maul');
   }
 
-  if (goalText.includes('bow') || goalText.includes('ranger')) {
-    subtypes.push('long_bow', 'short_bow');
+  if (includesAny(text, ['longbow', 'long bow'])) {
+    subtypes.push('long_bow');
   }
 
-  if (goalText.includes('crossbow')) {
-    subtypes.push(
-      'light_crossbow',
-      'heavy_crossbow',
-      'great_crossbow',
-      'repeating_light_crossbow',
-      'repeating_heavy_crossbow'
-    );
+  if (includesAny(text, ['shortbow', 'short bow'])) {
+    subtypes.push('short_bow');
   }
 
-  return uniqueList(subtypes);
+  return unique(subtypes);
 }
 
-function addMeleeProfile(profile, goalText) {
-  addBuildType(profile, 'melee');
+function detectArmorPreference(goal, buildTypes = []) {
+  const text = normalizeText(goal);
+  const notes = [];
 
-  profile.priorityTerms.push(
+  if (
+    includesAny(text, [
+      'cloth armor',
+      'cloth',
+      'robe',
+      'robes',
+      'outfit',
+      'outfits',
+      'no armor',
+      'unarmored',
+      'unarmoured'
+    ])
+  ) {
+    notes.push('Detected cloth / robe / outfit armor requirement.');
+
+    return {
+      enforceArmorType: true,
+      allowedArmorTypes: ['cloth'],
+      preferredArmorTypes: ['cloth'],
+      avoidArmorTypes: ['light', 'medium', 'heavy'],
+      notes
+    };
+  }
+
+  if (includesAny(text, ['light armor'])) {
+    notes.push('Detected light armor requirement.');
+
+    return {
+      enforceArmorType: true,
+      allowedArmorTypes: ['light'],
+      preferredArmorTypes: ['light'],
+      avoidArmorTypes: ['cloth', 'medium', 'heavy'],
+      notes
+    };
+  }
+
+  if (includesAny(text, ['medium armor'])) {
+    notes.push('Detected medium armor requirement.');
+
+    return {
+      enforceArmorType: true,
+      allowedArmorTypes: ['medium'],
+      preferredArmorTypes: ['medium'],
+      avoidArmorTypes: ['cloth', 'light', 'heavy'],
+      notes
+    };
+  }
+
+  if (includesAny(text, ['heavy armor'])) {
+    notes.push('Detected heavy armor requirement.');
+
+    return {
+      enforceArmorType: true,
+      allowedArmorTypes: ['heavy'],
+      preferredArmorTypes: ['heavy'],
+      avoidArmorTypes: ['cloth', 'light', 'medium'],
+      notes
+    };
+  }
+
+  if (buildTypes.includes('monk')) {
+    notes.push('Detected Monk-style build. Cloth armor is preferred, but not enforced unless the goal says cloth armor, robe, outfit, or unarmored.');
+
+    return {
+      enforceArmorType: false,
+      allowedArmorTypes: [],
+      preferredArmorTypes: ['cloth'],
+      avoidArmorTypes: ['medium', 'heavy'],
+      notes
+    };
+  }
+
+  return {
+    enforceArmorType: false,
+    allowedArmorTypes: [],
+    preferredArmorTypes: [],
+    avoidArmorTypes: [],
+    notes
+  };
+}
+
+function getMeleePriorityTerms() {
+  return [
     'Melee Power',
     'Doublestrike',
     'Deadly',
@@ -116,412 +227,216 @@ function addMeleeProfile(profile, goalText) {
     'Armor-Piercing',
     'Seeker',
     'Damage'
-  );
-
-  profile.secondaryTerms.push(
-    'PRR',
-    'MRR',
-    'Sheltering',
-    'Fortification',
-    'Resistance',
-    'Constitution',
-    'Healing Amplification'
-  );
-
-  profile.avoidTerms.push(
-    'Spell Power',
-    'Spell Lore',
-    'Spell Critical',
-    'Spell Penetration'
-  );
-
-  if (
-    goalText.includes('stunning') ||
-    goalText.includes('tactical') ||
-    goalText.includes('dc')
-  ) {
-    addBuildType(profile, 'tactical');
-
-    profile.priorityTerms.push(
-      'Stunning',
-      'Combat Mastery',
-      'Tactical',
-      'DC'
-    );
-  }
+  ];
 }
 
-function addCasterProfile(profile, goalText) {
-  addBuildType(profile, 'caster');
-
-  profile.priorityTerms.push(
-    'Spell DC',
-    'Spell Focus',
-    'Spell Penetration',
-    'Spell Power',
-    'Spell Lore',
-    'Potency',
-    'Universal Spell Power'
-  );
-
-  profile.secondaryTerms.push(
-    'Spell Points',
-    'Constitution',
-    'MRR',
-    'Resistance',
-    'Sheltering',
-    'False Life'
-  );
-
-  profile.avoidTerms.push(
-    'Melee Power',
-    'Doublestrike',
-    'Stunning',
-    'Armor-Piercing'
-  );
-
-  if (goalText.includes('fire')) {
-    addBuildType(profile, 'fire');
-
-    profile.priorityTerms.push(
-      'Fire Spell Power',
-      'Fire Spell Lore',
-      'Combustion',
-      'Evocation'
-    );
-  }
-
-  if (goalText.includes('cold') || goalText.includes('ice')) {
-    addBuildType(profile, 'cold');
-
-    profile.priorityTerms.push(
-      'Cold Spell Power',
-      'Cold Spell Lore',
-      'Glaciation',
-      'Evocation'
-    );
-  }
-
-  if (goalText.includes('light')) {
-    addBuildType(profile, 'light');
-
-    profile.priorityTerms.push(
-      'Light Spell Power',
-      'Radiance',
-      'Light Spell Lore'
-    );
-  }
-
-  if (goalText.includes('negative') || goalText.includes('necromancy')) {
-    addBuildType(profile, 'negative');
-    addBuildType(profile, 'necromancy');
-
-    profile.priorityTerms.push(
-      'Negative Spell Power',
-      'Nullification',
-      'Necromancy'
-    );
-  }
-}
-
-function addRangedProfile(profile) {
-  addBuildType(profile, 'ranged');
-
-  profile.priorityTerms.push(
-    'Ranged Power',
-    'Doubleshot',
-    'Deadly',
-    'Accuracy',
-    'Armor-Piercing',
-    'Seeker'
-  );
-
-  profile.secondaryTerms.push(
-    'PRR',
-    'MRR',
-    'Dodge',
-    'Constitution',
-    'Resistance',
-    'Sheltering'
-  );
-
-  profile.avoidTerms.push(
-    'Spell Power',
-    'Spell Lore',
-    'Melee Power',
-    'Stunning'
-  );
-}
-
-function addDefensiveProfile(profile) {
-  addBuildType(profile, 'defensive');
-
-  profile.secondaryTerms.push(
-    'PRR',
-    'MRR',
-    'Sheltering',
-    'Fortification',
-    'Constitution',
-    'False Life',
-    'Healing Amplification',
-    'Physical Resistance Rating',
-    'Magical Resistance Rating',
-    'Dodge',
-    'Resistance',
-    'Armor Class',
-    'Protection',
-    'Natural Armor'
-  );
-}
-
-function addTankProfile(profile) {
-  addBuildType(profile, 'tank');
-
-  profile.priorityTerms.push(
-    'PRR',
-    'MRR',
-    'Sheltering',
-    'Fortification',
-    'Constitution',
-    'False Life',
-    'Healing Amplification',
-    'Physical Resistance Rating',
-    'Magical Resistance Rating'
-  );
-
-  profile.secondaryTerms.push(
-    'Dodge',
-    'Resistance',
-    'Armor Class',
-    'Intimidate',
-    'Protection',
-    'Natural Armor'
-  );
-}
-
-function addHealerProfile(profile) {
-  addBuildType(profile, 'healer');
-
-  profile.priorityTerms.push(
-    'Devotion',
-    'Positive Spell Power',
-    'Healing Amplification',
-    'Positive Spell Lore',
-    'Wisdom',
-    'Spell Points'
-  );
-
-  profile.secondaryTerms.push(
-    'MRR',
-    'Constitution',
-    'Resistance',
-    'Sheltering',
-    'False Life'
-  );
-
-  profile.avoidTerms.push(
-    'Melee Power',
-    'Doublestrike',
-    'Armor-Piercing'
-  );
-}
-
-function addMonkProfile(profile) {
-  addBuildType(profile, 'monk');
-
-  profile.notes.push('Detected Monk-style build.');
-
-  profile.priorityTerms.push(
-    'Wisdom',
+function getTacticalPriorityTerms() {
+  return [
     'Stunning',
     'Combat Mastery',
     'Tactical',
-    'Enhanced Ki',
-    'Doublestrike'
-  );
-
-  profile.secondaryTerms.push(
-    'PRR',
-    'MRR',
-    'Dodge',
-    'Sheltering',
-    'Healing Amplification',
-    'Resistance'
-  );
-
-  if (!profile.preferredWeaponSubtypes.includes('handwraps')) {
-    profile.preferredWeaponSubtypes.push('handwraps');
-  }
+    'DC'
+  ];
 }
 
-function applyPrimaryStats(profile) {
-  for (const stat of profile.primaryStats) {
-    profile.priorityTerms.push(stat);
+function getWisdomPriorityTerms() {
+  return [
+    'Wisdom',
+    'Enhanced Ki',
+    'Insightful Wisdom',
+    'Quality Wisdom'
+  ];
+}
 
-    if (stat === 'Wisdom') {
-      profile.priorityTerms.push(
-        'Insightful Wisdom',
-        'Quality Wisdom'
-      );
-    }
+function getDefensiveSecondaryTerms() {
+  return [
+    'PRR',
+    'MRR',
+    'Sheltering',
+    'Fortification',
+    'Resistance',
+    'Constitution',
+    'Healing Amplification',
+    'False Life',
+    'Physical Resistance Rating',
+    'Magical Resistance Rating',
+    'Dodge',
+    'Armor Class',
+    'Protection',
+    'Natural Armor'
+  ];
+}
 
-    if (stat === 'Strength') {
-      profile.priorityTerms.push(
-        'Insightful Strength',
-        'Quality Strength'
-      );
-    }
+function getTankSecondaryTerms() {
+  return [
+    'Intimidate',
+    'Threat Generation',
+    'Physical Sheltering',
+    'Magical Sheltering',
+    'Insightful Sheltering',
+    'Quality Sheltering'
+  ];
+}
 
-    if (stat === 'Dexterity') {
-      profile.priorityTerms.push(
-        'Insightful Dexterity',
-        'Quality Dexterity'
-      );
-    }
+function buildPriorityTerms(goal, primaryStats, buildTypes) {
+  const priorityTerms = [];
 
-    if (stat === 'Constitution') {
-      profile.secondaryTerms.push(
-        'Insightful Constitution',
-        'Quality Constitution'
-      );
-    }
-
-    if (stat === 'Intelligence') {
-      profile.priorityTerms.push(
-        'Insightful Intelligence',
-        'Quality Intelligence'
-      );
-    }
-
-    if (stat === 'Charisma') {
-      profile.priorityTerms.push(
-        'Insightful Charisma',
-        'Quality Charisma'
-      );
-    }
+  if (buildTypes.includes('melee')) {
+    priorityTerms.push(...getMeleePriorityTerms());
   }
+
+  if (buildTypes.includes('tactical')) {
+    priorityTerms.push(...getTacticalPriorityTerms());
+  }
+
+  if (primaryStats.includes('Wisdom')) {
+    priorityTerms.push(...getWisdomPriorityTerms());
+  }
+
+  for (const stat of primaryStats) {
+    priorityTerms.push(stat);
+    priorityTerms.push(`Insightful ${stat}`);
+    priorityTerms.push(`Quality ${stat}`);
+  }
+
+  return unique(priorityTerms);
+}
+
+function buildSecondaryTerms(goal, buildTypes) {
+  const secondaryTerms = [];
+
+  if (
+    buildTypes.includes('defensive') ||
+    buildTypes.includes('tank') ||
+    buildTypes.includes('monk')
+  ) {
+    secondaryTerms.push(...getDefensiveSecondaryTerms());
+  }
+
+  if (buildTypes.includes('tank')) {
+    secondaryTerms.push(...getTankSecondaryTerms());
+  }
+
+  return unique(secondaryTerms);
+}
+
+function buildAvoidTerms(goal, buildTypes) {
+  const avoidTerms = [];
+
+  if (!buildTypes.includes('caster')) {
+    avoidTerms.push(
+      'Spell Power',
+      'Spell Lore',
+      'Spell Critical',
+      'Spell Crit',
+      'Spell Penetration',
+      'Spell DC',
+      'Spell Focus'
+    );
+  }
+
+  return unique(avoidTerms);
+}
+
+function buildNotes(goal, buildTypes, armorPreference) {
+  const notes = [];
+
+  if (buildTypes.includes('monk')) {
+    notes.push('Detected Monk-style build.');
+  }
+
+  if (buildTypes.includes('defensive') && !buildTypes.includes('tank')) {
+    notes.push('Treat survivability as a defensive priority, not necessarily a pure tank build.');
+  }
+
+  for (const note of armorPreference.notes || []) {
+    notes.push(note);
+  }
+
+  return unique(notes);
 }
 
 function buildProfileFromGoal(goal) {
-  const profile = createBaseProfile(goal);
-  const goalText = normalizeText(goal);
+  const cleanedGoal = cleanText(goal);
+  const maxLevel = detectMaxLevel(cleanedGoal);
+  const primaryStats = detectPrimaryStats(cleanedGoal);
+  const buildTypes = detectBuildTypes(cleanedGoal);
+  const preferredWeaponSubtypes = detectPreferredWeaponSubtypes(cleanedGoal);
+  const armorPreference = detectArmorPreference(cleanedGoal, buildTypes);
 
-  profile.primaryStats = detectAbilityStats(goalText);
-  profile.preferredWeaponSubtypes = detectWeaponSubtypes(goalText);
+  const priorityTerms = buildPriorityTerms(
+    cleanedGoal,
+    primaryStats,
+    buildTypes
+  );
 
-  const isMonk =
-    goalText.includes('monk') ||
-    goalText.includes('handwrap');
+  const secondaryTerms = buildSecondaryTerms(
+    cleanedGoal,
+    buildTypes
+  );
 
-  const isCaster =
-    goalText.includes('caster') ||
-    goalText.includes('sorcerer') ||
-    goalText.includes('wizard') ||
-    goalText.includes('warlock') ||
-    goalText.includes('spell') ||
-    goalText.includes('dc caster');
+  const avoidTerms = buildAvoidTerms(
+    cleanedGoal,
+    buildTypes
+  );
 
-  const isRanged =
-    goalText.includes('ranged') ||
-    goalText.includes('bow') ||
-    goalText.includes('ranger') ||
-    goalText.includes('crossbow') ||
-    goalText.includes('doubleshot');
+  const notes = buildNotes(
+    cleanedGoal,
+    buildTypes,
+    armorPreference
+  );
 
-  const isTank =
-    goalText.includes('tank');
+  return {
+    goal: cleanedGoal,
+    maxLevel,
 
-  const isDefensive =
-    goalText.includes('survivability') ||
-    goalText.includes('defense') ||
-    goalText.includes('defensive') ||
-    goalText.includes('prr') ||
-    goalText.includes('mrr');
+    buildTypes,
+    primaryStats,
 
-  const isHealer =
-    goalText.includes('healer') ||
-    goalText.includes('healing') ||
-    goalText.includes('devotion');
+    priorityTerms,
+    secondaryTerms,
+    avoidTerms,
 
-  const isMelee =
-    goalText.includes('melee') ||
-    goalText.includes('doublestrike') ||
-    goalText.includes('stunning') ||
-    goalText.includes('tactical') ||
-    isMonk;
+    preferredWeaponSubtypes,
 
-  if (isCaster) {
-    addCasterProfile(profile, goalText);
-  }
+    armorPreference,
 
-  if (isRanged) {
-    addRangedProfile(profile);
-  }
-
-  if (isMelee) {
-    addMeleeProfile(profile, goalText);
-  }
-
-  if (isTank) {
-    addTankProfile(profile);
-  } else if (isDefensive) {
-    addDefensiveProfile(profile);
-
-    profile.notes.push(
-      'Treat survivability as a defensive priority, not necessarily a pure tank build.'
-    );
-  }
-
-  if (isHealer) {
-    addHealerProfile(profile);
-  }
-
-  if (isMonk) {
-    addMonkProfile(profile);
-  }
-
-  applyPrimaryStats(profile);
-
-  if (profile.buildTypes.length === 0) {
-    profile.buildTypes.push('general');
-
-    profile.notes.push(
-      'No clear build type detected. Using general-purpose priorities.'
-    );
-
-    profile.priorityTerms.push(
-      'Constitution',
-      'Resistance',
-      'Sheltering',
-      'PRR',
-      'MRR'
-    );
-  }
-
-  profile.buildTypes = uniqueList(profile.buildTypes);
-  profile.priorityTerms = uniqueList(profile.priorityTerms);
-  profile.secondaryTerms = uniqueList(profile.secondaryTerms);
-  profile.avoidTerms = uniqueList(profile.avoidTerms);
-  profile.preferredWeaponSubtypes = uniqueList(profile.preferredWeaponSubtypes);
-
-  return profile;
+    notes
+  };
 }
 
-function compactBuildProfileForAI(profile) {
+function compactBuildProfileForAI(buildProfile) {
   return {
-    goal: profile.goal,
-    maxLevel: profile.maxLevel,
-    buildTypes: profile.buildTypes,
-    primaryStats: profile.primaryStats,
-    priorityTerms: profile.priorityTerms,
-    secondaryTerms: profile.secondaryTerms,
-    avoidTerms: profile.avoidTerms,
-    preferredWeaponSubtypes: profile.preferredWeaponSubtypes,
-    notes: profile.notes
+    goal: buildProfile.goal,
+    maxLevel: buildProfile.maxLevel,
+
+    buildTypes: buildProfile.buildTypes || [],
+    primaryStats: buildProfile.primaryStats || [],
+
+    priorityTerms: buildProfile.priorityTerms || [],
+    secondaryTerms: buildProfile.secondaryTerms || [],
+    avoidTerms: buildProfile.avoidTerms || [],
+
+    preferredWeaponSubtypes: buildProfile.preferredWeaponSubtypes || [],
+
+    armorPreference: buildProfile.armorPreference || {
+      enforceArmorType: false,
+      allowedArmorTypes: [],
+      preferredArmorTypes: [],
+      avoidArmorTypes: []
+    },
+
+    notes: buildProfile.notes || []
   };
 }
 
 module.exports = {
   buildProfileFromGoal,
-  compactBuildProfileForAI
+  compactBuildProfileForAI,
+
+  detectMaxLevel,
+  detectPrimaryStats,
+  detectBuildTypes,
+  detectPreferredWeaponSubtypes,
+  detectArmorPreference
 };
