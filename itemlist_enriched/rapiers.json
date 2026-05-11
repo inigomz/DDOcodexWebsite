@@ -1,0 +1,2285 @@
+[
+  {
+    "name": "Ember Rapier",
+    "link": "https://ddowiki.com/page/Item:Ember_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ],
+    "itemKey": "item:ember_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Thera's Rapier",
+    "link": "https://ddowiki.com/page/Item:Thera%27s_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Lesser Monstrous Humanoid Bane"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Lesser Monstrous Humanoid Bane"
+    ],
+    "itemKey": "item:thera's_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Rusty Rapier",
+    "link": "https://ddowiki.com/page/Item:Rusty_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Starter"
+    ],
+    "itemKey": "item:rusty_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Spider Spike",
+    "link": "https://ddowiki.com/page/Item:Spider_Spike",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Lesser Vermin Bane",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Lesser Vermin Bane"
+    ],
+    "itemKey": "item:spider_spike",
+    "setMembership": []
+  },
+  {
+    "name": "+1 Starter Rapier",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Starter"
+    ],
+    "itemKey": "item:+1_starter_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Sworn Silver Rapier",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Ethereal Rapier",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Duelist's Epee",
+    "link": "https://ddowiki.com/page/Item:Duelist%27s_Epee",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 3,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Keen",
+      "Humanoid Bane 2",
+      "Deception",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Keen",
+      "Humanoid Bane 2",
+      "Deception"
+    ],
+    "itemKey": "item:duelist's_epee",
+    "setMembership": []
+  },
+  {
+    "name": "Elemental Rapier of Air (level 4)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Rapier_of_Air_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Shock",
+      "Electric Resistance +11"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Shock",
+      "Electric Resistance +11"
+    ],
+    "itemKey": "item:elemental_rapier_of_air_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Calomel Rapier (level 4)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Rapier_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Dragon Bane 2",
+      "Tidal"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Dragon Bane 2",
+      "Tidal"
+    ],
+    "itemKey": "item:calomel_rapier_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "The Frozen Skull",
+    "link": "https://ddowiki.com/page/Item:The_Frozen_Skull",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Chilling 2",
+      "Minor Freezing Ice",
+      "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Minor Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 5 seconds)",
+      "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Chilling 2",
+      "Minor Freezing Ice",
+      "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Minor Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 5 seconds)",
+      "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice."
+    ],
+    "itemKey": "item:the_frozen_skull",
+    "setMembership": []
+  },
+  {
+    "name": "Corroded Rapier",
+    "link": "https://ddowiki.com/page/Item:Corroded_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 5,
+    "effectsRaw": [
+      "Spellcasting Implement +3",
+      "+1 Enhancement Bonus",
+      "Devotion +36",
+      "Silver , Alchemical",
+      "Unraveling Enchantments"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +3",
+      "+1 Enhancement Bonus",
+      "Devotion +36",
+      "Silver , Alchemical",
+      "Unraveling Enchantments"
+    ],
+    "itemKey": "item:corroded_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Elyd Edge",
+    "link": "https://ddowiki.com/page/Item:Elyd_Edge",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 5,
+    "effectsRaw": [
+      "Spellcasting Implement +5",
+      "+2 Enhancement Bonus",
+      "Charisma +4",
+      "Devotion +59",
+      "Anthem",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +5",
+      "+2 Enhancement Bonus",
+      "Charisma +4",
+      "Devotion +59",
+      "Anthem",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:elyd_edge",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Rapier",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Flamesalt Rapier",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Dueling Schlager",
+    "link": "https://ddowiki.com/page/Item:Dueling_Schlager",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 6,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus"
+    ],
+    "itemKey": "item:dueling_schlager",
+    "setMembership": []
+  },
+  {
+    "name": "Nuushmaar's Adamantine Tooth",
+    "link": "https://ddowiki.com/page/Item:Nuushmaar%27s_Adamantine_Tooth",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 6,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Adamantine"
+    ],
+    "itemKey": "item:nuushmaar's_adamantine_tooth",
+    "setMembership": []
+  },
+  {
+    "name": "Sheridan's Ruin",
+    "link": "https://ddowiki.com/page/Item:Sheridan%27s_Ruin",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Keen"
+    ],
+    "itemKey": "item:sheridan's_ruin",
+    "setMembership": []
+  },
+  {
+    "name": "Elemental Rapier of Air (level 8)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Rapier_of_Air_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:elemental_rapier_of_air_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Calomel Rapier (level 8)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Rapier_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:calomel_rapier_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Calamitous Rapier",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1"
+    ],
+    "itemKey": "item:calamitous_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Tyrzza's Bane",
+    "link": "https://ddowiki.com/page/Item:Tyrzza%27s_Bane",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "True Law",
+      "Cold Iron",
+      "Pure Good",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "True Law",
+      "Cold Iron",
+      "Pure Good"
+    ],
+    "itemKey": "item:tyrzza's_bane",
+    "setMembership": []
+  },
+  {
+    "name": "Macabre Rapier",
+    "link": "https://ddowiki.com/page/Item:Macabre_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Barovian's Rapier",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Savaran's Tooth",
+    "link": "https://ddowiki.com/page/Item:Savaran%27s_Tooth",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 3",
+      "Jolting 7",
+      "Heartseeker III",
+      "Dragon's Edge 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 3",
+      "Jolting 7",
+      "Heartseeker III",
+      "Dragon's Edge 3"
+    ],
+    "itemKey": "item:savaran's_tooth",
+    "setMembership": []
+  },
+  {
+    "name": "Toothpick",
+    "link": "https://ddowiki.com/page/Item:Toothpick",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "Greater Giant Bane",
+      "Masterwork"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Greater Giant Bane",
+      "Masterwork"
+    ],
+    "itemKey": "item:toothpick",
+    "setMembership": []
+  },
+  {
+    "name": "Green Steel Rapier",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Fell Rapier of Ice",
+    "link": "https://ddowiki.com/page/Item:Fell_Rapier_of_Ice",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Boreal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Boreal"
+    ],
+    "itemKey": "item:fell_rapier_of_ice",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Rapier",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Elemental Rapier of Air (level 12)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Rapier_of_Air_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:elemental_rapier_of_air_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Calomel Rapier (level 12)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Rapier_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:calomel_rapier_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Rapier of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Rapier_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:rapier_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Rapier of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Rapier_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:rapier_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Turbulent Epee",
+    "link": "https://ddowiki.com/page/Item:Turbulent_Epee",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Turbulent Burst",
+      "Treason",
+      "Metalline",
+      "Aligned"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Turbulent Burst",
+      "Treason",
+      "Metalline",
+      "Aligned"
+    ],
+    "itemKey": "item:turbulent_epee",
+    "setMembership": []
+  },
+  {
+    "name": "Thunderstrike",
+    "link": "https://ddowiki.com/page/Item:Thunderstrike",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Armor-Piercing 13%",
+      "Electrifying 4",
+      "Jolting 9",
+      "Quality Seeker +1",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Armor-Piercing 13%",
+      "Electrifying 4",
+      "Jolting 9",
+      "Quality Seeker +1"
+    ],
+    "itemKey": "item:thunderstrike",
+    "setMembership": []
+  },
+  {
+    "name": "Fine Finesse",
+    "link": "https://ddowiki.com/page/Item:Fine_Finesse",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Fiery 3",
+      "Vorpal"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Fiery 3",
+      "Vorpal"
+    ],
+    "itemKey": "item:fine_finesse",
+    "setMembership": []
+  },
+  {
+    "name": "Syranian Rapier",
+    "link": "https://ddowiki.com/page/Item:Syranian_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Holy 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Holy 4"
+    ],
+    "itemKey": "item:syranian_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Bloody Bite",
+    "link": "https://ddowiki.com/page/Item:Bloody_Bite",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Piercing 3",
+      "Shockwave",
+      "Proficiency: Rapier"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Piercing 3",
+      "Shockwave",
+      "Proficiency: Rapier"
+    ],
+    "itemKey": "item:bloody_bite",
+    "setMembership": []
+  },
+  {
+    "name": "Elemental Rapier of Air (level 16)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Rapier_of_Air_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:elemental_rapier_of_air_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Calomel Rapier (level 16)",
+    "link": "https://ddowiki.com/page/Item:Calomel_Rapier_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:calomel_rapier_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Reliquary Rapier",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Reliquary Rapier",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Elyd Edge",
+    "link": "https://ddowiki.com/page/Item:Epic_Elyd_Edge",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Charisma +9",
+      "Cacophony",
+      "Inspiring Echoes",
+      "Sonic Blast 4",
+      "Healing Lore +16%",
+      "Devotion +111",
+      "Anthem",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Charisma +9",
+      "Cacophony",
+      "Inspiring Echoes",
+      "Sonic Blast 4",
+      "Healing Lore +16%",
+      "Devotion +111",
+      "Anthem",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:epic_elyd_edge",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Calomel Rapier",
+    "link": "https://ddowiki.com/page/Item:Epic_Calomel_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:epic_calomel_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Elemental Rapier of Air",
+    "link": "https://ddowiki.com/page/Item:Epic_Elemental_Rapier_of_Air",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:epic_elemental_rapier_of_air",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ethereal Rapier",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sworn Silver Rapier",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Duelist's Epee",
+    "link": "https://ddowiki.com/page/Item:Epic_Duelist%27s_Epee",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Keen",
+      "Humanoid Bane 4",
+      "Improved Deception +17",
+      "Dodge +9%",
+      "Mortal Strike",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Keen",
+      "Humanoid Bane 4",
+      "Improved Deception +17",
+      "Dodge +9%",
+      "Mortal Strike"
+    ],
+    "itemKey": "item:epic_duelist's_epee",
+    "setMembership": []
+  },
+  {
+    "name": "Drow Rapier of the Weapon Master",
+    "link": "https://ddowiki.com/page/Item:Drow_Rapier_of_the_Weapon_Master",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 21,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "itemKey": "item:drow_rapier_of_the_weapon_master",
+    "setMembership": []
+  },
+  {
+    "name": "Thunder-Forged Alloy Rapier",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Balizarde, Protector of the King",
+    "link": "https://ddowiki.com/page/Item:Balizarde,_Protector_of_the_King",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 23,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Keen",
+      "Hemorrhaging",
+      "Parrying VIII",
+      "Dodge +8%",
+      "Good Luck +2",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Keen",
+      "Hemorrhaging",
+      "Parrying VIII",
+      "Dodge +8%",
+      "Good Luck +2",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "itemKey": "item:balizarde,_protector_of_the_king",
+    "setMembership": []
+  },
+  {
+    "name": "Mutineer's Blade",
+    "link": "https://ddowiki.com/page/Item:Mutineer%27s_Blade",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Dexterity +8",
+      "Ghostbane VIII",
+      "Brilliance",
+      "Coruscating",
+      "Improved Disruption",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Dexterity +8",
+      "Ghostbane VIII",
+      "Brilliance",
+      "Coruscating",
+      "Improved Disruption"
+    ],
+    "itemKey": "item:mutineer's_blade",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Steel Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Thunderstrike",
+    "link": "https://ddowiki.com/page/Item:Legendary_Thunderstrike",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+13 Enhancement Bonus",
+      "Armor-Piercing 21%",
+      "Electrifying 6",
+      "Jolting 14",
+      "Quality Seeker +3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+13 Enhancement Bonus",
+      "Armor-Piercing 21%",
+      "Electrifying 6",
+      "Jolting 14",
+      "Quality Seeker +3"
+    ],
+    "itemKey": "item:legendary_thunderstrike",
+    "setMembership": []
+  },
+  {
+    "name": "Flow, the Piercer of Hearts",
+    "link": "https://ddowiki.com/page/Item:Flow,_the_Piercer_of_Hearts",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Fetters of Unreality",
+      "Bewildering 3",
+      "Anarchic 6",
+      "Guardbreaking",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Fetters of Unreality",
+      "Bewildering 3",
+      "Anarchic 6",
+      "Guardbreaking"
+    ],
+    "itemKey": "item:flow,_the_piercer_of_hearts",
+    "setMembership": []
+  },
+  {
+    "name": "Vivace, the Dreamcarver",
+    "link": "https://ddowiki.com/page/Item:Vivace,_the_Dreamcarver",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Sound and Silence",
+      "Sonic Spell Crit Damage +20%",
+      "Sonic Lore +22%",
+      "Resonance +148",
+      "Crystal",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Sound and Silence",
+      "Sonic Spell Crit Damage +20%",
+      "Sonic Lore +22%",
+      "Resonance +148",
+      "Crystal"
+    ],
+    "itemKey": "item:vivace,_the_dreamcarver",
+    "setMembership": []
+  },
+  {
+    "name": "Morninglord's Rapier",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Nightmother's Rapier",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Syranian Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Pomura's Impaler",
+    "link": "https://ddowiki.com/page/Item:Pomura%27s_Impaler",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Sovereign Vorpal",
+      "Cold Vulnerability",
+      "Icy Blast 6",
+      "Insightful Glaciation +74",
+      "Quality Glaciation +36",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Sovereign Vorpal",
+      "Cold Vulnerability",
+      "Icy Blast 6",
+      "Insightful Glaciation +74",
+      "Quality Glaciation +36"
+    ],
+    "itemKey": "item:pomura's_impaler",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Alchemical Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flamesalt Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Duelist's Epee",
+    "link": "https://ddowiki.com/page/Item:Legendary_Duelist%27s_Epee",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Humanoid Bane 6",
+      "Improved Deception +20",
+      "Dodge +13%",
+      "Mortal Strike",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Humanoid Bane 6",
+      "Improved Deception +20",
+      "Dodge +13%",
+      "Mortal Strike"
+    ],
+    "itemKey": "item:legendary_duelist's_epee",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Elyd Edge",
+    "link": "https://ddowiki.com/page/Item:Legendary_Elyd_Edge",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 30,
+    "effectsRaw": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Charisma +13",
+      "Cacophony",
+      "Inspiring Echoes",
+      "Sonic Blast 6",
+      "Healing Lore +21%",
+      "Devotion +146",
+      "Anthem",
+      "Silver , Alchemical",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Charisma +13",
+      "Cacophony",
+      "Inspiring Echoes",
+      "Sonic Blast 6",
+      "Healing Lore +21%",
+      "Devotion +146",
+      "Anthem",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:legendary_elyd_edge",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Rapier",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Attuned Bone Rapier",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:attuned_bone_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shining Reliquary Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Defiled Reliquary Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Rapier of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Rapier_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_rapier_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Rapier of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Rapier_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_rapier_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Folly, the Thorn of Cormanthyr",
+    "link": "https://ddowiki.com/page/Item:Folly,_the_Thorn_of_Cormanthyr",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Flamescale",
+      "Metalline",
+      "3rd Degree Burns",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Flamescale",
+      "Metalline",
+      "3rd Degree Burns",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:folly,_the_thorn_of_cormanthyr",
+    "setMembership": []
+  },
+  {
+    "name": "Rapier of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Rapier_of_the_Undying_Age",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:rapier_of_the_undying_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Calamitous Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_calamitous_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Rapier",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Rapier",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_rapier",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Savaran's Tooth",
+    "link": "https://ddowiki.com/page/Item:Legendary_Savaran%27s_Tooth",
+    "slot": "weapon",
+    "itemSubtype": "rapier",
+    "handedness": "one_handed",
+    "category": "Rapiers",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 7",
+      "Jolting 16",
+      "Heartseeker VI",
+      "Dragon's Edge 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 7",
+      "Jolting 16",
+      "Heartseeker VI",
+      "Dragon's Edge 7"
+    ],
+    "itemKey": "item:legendary_savaran's_tooth",
+    "setMembership": []
+  }
+]

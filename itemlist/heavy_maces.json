@@ -11,12 +11,11 @@
       "Lesser Monstrous Humanoid Bane"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Lesser Monstrous Humanoid Bane"
-    ],
-    "itemKey": "item:valen's_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ember Heavy Mace",
@@ -32,14 +31,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Masterwork",
       "Fire Touch",
       "Starter"
-    ],
-    "itemKey": "item:ember_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fire Touch Heavy Mace",
@@ -54,13 +52,12 @@
       "Craftable (+5)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Fire Touch",
       "Craftable (+5)"
-    ],
-    "itemKey": "item:fire_touch_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rusty Heavy Mace",
@@ -74,12 +71,11 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Starter"
-    ],
-    "itemKey": "item:rusty_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Gerard Dryden's Mace",
@@ -94,13 +90,12 @@
       "Undead Bane"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Undead Bane"
-    ],
-    "itemKey": "item:gerard_dryden's_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nicked Heavy Mace",
@@ -117,15 +112,14 @@
       "Deadly +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Impactful 2",
       "Stunning +4",
       "Deadly +3"
-    ],
-    "itemKey": "item:nicked_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Heavy Mace",
@@ -142,15 +136,14 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +3",
       "+1 Enhancement Bonus",
       "Devotion +30",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Heavy Mace",
@@ -168,13 +161,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Heavy Mace",
@@ -192,13 +184,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crochet Crusher",
@@ -219,6 +210,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -226,9 +218,7 @@
       "Entangling Yarn",
       "Impactful 2",
       "Bludgeoning 2"
-    ],
-    "itemKey": "item:crochet_crusher",
-    "setMembership": []
+    ]
   },
   {
     "name": "Selune's Favor",
@@ -250,6 +240,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -258,9 +249,7 @@
       "Impactful 2",
       "Holy Burst 2",
       "Favored Weapon"
-    ],
-    "itemKey": "item:selune's_favor",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Heavy Mace",
@@ -281,6 +270,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -288,9 +278,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Heavy Mace",
@@ -311,6 +299,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -318,9 +307,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mace of Smiting",
@@ -339,14 +326,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Adamantine",
       "Smiting"
-    ],
-    "itemKey": "item:mace_of_smiting",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mace of the Wraith",
@@ -365,14 +351,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Ghost Touch",
       "Force"
-    ],
-    "itemKey": "item:mace_of_the_wraith",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rope and Pulley",
@@ -393,271 +378,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Universal Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane bonus to Universal Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to Spell DCs",
-        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to Spell DCs"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "★+4 Profane bonus to Hit and Damage",
-        "effectRaw": "★+4 Profane bonus to Hit and Damage",
-        "tieredEffects": [
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane bonus to Hit and Damage"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Icy Blast 2",
       "Frostbite",
       "Slowburst",
       "The Dread Isle's Curse"
-    ],
-    "itemKey": "item:rope_and_pulley",
-    "setMembership": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "minLevels": [
-          7,
-          31
-        ],
-        "availablePieces": 70,
-        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Universal Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane bonus to Universal Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to Spell DCs",
-            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to Spell DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "★+4 Profane bonus to Hit and Damage",
-            "effectRaw": "★+4 Profane bonus to Hit and Damage",
-            "tieredEffects": [
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane bonus to Hit and Damage"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -679,16 +407,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_heavy_mace",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Scepter of Healing",
@@ -709,6 +452,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -716,9 +460,7 @@
       "Healing Lore IV",
       "Devotion +66",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:scepter_of_healing",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Heavy Mace",
@@ -739,6 +481,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -746,9 +489,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Heavy Mace",
@@ -769,6 +510,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -776,9 +518,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Heavy Mace",
@@ -793,13 +533,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Heavy Mace",
@@ -814,13 +553,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Heavy Mace of the Fallen Age",
@@ -841,6 +579,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -848,9 +587,7 @@
       "Anarchic 3",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:heavy_mace_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Heavy Mace of the Golden Age",
@@ -871,6 +608,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -878,9 +616,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:heavy_mace_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Phosphor",
@@ -900,15 +636,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Sun Burst",
       "Righteous",
       "Coruscating"
-    ],
-    "itemKey": "item:phosphor",
-    "setMembership": []
+    ]
   },
   {
     "name": "Beacon of Night",
@@ -929,115 +664,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "heavy_warfare",
-        "setName": "Heavy Warfare",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 2,
-        "effect": "♦+5★+15 Artifact Bonus to Melee Power",
-        "effectRaw": "♦+5★+15 Artifact Bonus to Melee Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact Bonus to Melee Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact Bonus to Melee Power"
-          }
-        ]
-      },
-      {
-        "setId": "heavy_warfare",
-        "setName": "Heavy Warfare",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 2,
-        "effect": "♦+5%★+15% Artifact Bonus to Doublestrike",
-        "effectRaw": "♦+5%★+15% Artifact Bonus to Doublestrike",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Artifact Bonus to Doublestrike"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Artifact Bonus to Doublestrike"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Reverberating 3",
       "Disruption",
       "Armor-Piercing 11%",
       "Impact"
-    ],
-    "itemKey": "item:beacon_of_night",
-    "setMembership": [
-      {
-        "setId": "heavy_warfare",
-        "setName": "Heavy Warfare",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "minLevels": [
-          14,
-          29
-        ],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: ♦+5★+15 Artifact Bonus to Melee Power ♦+5%★+15% Artifact Bonus to Doublestrike",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5★+15 Artifact Bonus to Melee Power",
-            "effectRaw": "♦+5★+15 Artifact Bonus to Melee Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact Bonus to Melee Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact Bonus to Melee Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5%★+15% Artifact Bonus to Doublestrike",
-            "effectRaw": "♦+5%★+15% Artifact Bonus to Doublestrike",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Artifact Bonus to Doublestrike"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Artifact Bonus to Doublestrike"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1059,115 +693,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "heavy_warfare",
-        "setName": "Heavy Warfare",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 2,
-        "effect": "♦+5★+15 Artifact Bonus to Melee Power",
-        "effectRaw": "♦+5★+15 Artifact Bonus to Melee Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact Bonus to Melee Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact Bonus to Melee Power"
-          }
-        ]
-      },
-      {
-        "setId": "heavy_warfare",
-        "setName": "Heavy Warfare",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 2,
-        "effect": "♦+5%★+15% Artifact Bonus to Doublestrike",
-        "effectRaw": "♦+5%★+15% Artifact Bonus to Doublestrike",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Artifact Bonus to Doublestrike"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Artifact Bonus to Doublestrike"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Impactful 3",
       "Metalline",
       "Insightful Armor-Piercing 5%",
       "Impact"
-    ],
-    "itemKey": "item:beacon_of_day",
-    "setMembership": [
-      {
-        "setId": "heavy_warfare",
-        "setName": "Heavy Warfare",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "minLevels": [
-          14,
-          29
-        ],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: ♦+5★+15 Artifact Bonus to Melee Power ♦+5%★+15% Artifact Bonus to Doublestrike",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5★+15 Artifact Bonus to Melee Power",
-            "effectRaw": "♦+5★+15 Artifact Bonus to Melee Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact Bonus to Melee Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact Bonus to Melee Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5%★+15% Artifact Bonus to Doublestrike",
-            "effectRaw": "♦+5%★+15% Artifact Bonus to Doublestrike",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Artifact Bonus to Doublestrike"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Artifact Bonus to Doublestrike"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1184,14 +717,13 @@
       "Ghost Touch"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Solar III",
       "Ghost Touch"
-    ],
-    "itemKey": "item:dawnbreaker",
-    "setMembership": []
+    ]
   },
   {
     "name": "Return",
@@ -1207,14 +739,13 @@
       "Shockwave"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Bludgeoning 3",
       "Shockwave"
-    ],
-    "itemKey": "item:return",
-    "setMembership": []
+    ]
   },
   {
     "name": "Redeem",
@@ -1230,14 +761,13 @@
       "Disruption"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Coruscating 3",
       "Disruption"
-    ],
-    "itemKey": "item:redeem",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Heavy Mace",
@@ -1258,6 +788,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1265,9 +796,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forgotten Light (level 16)",
@@ -1285,6 +814,7 @@
       "Radiance +78"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -1292,9 +822,7 @@
       "Holy",
       "Devotion +78",
       "Radiance +78"
-    ],
-    "itemKey": "item:forgotten_light_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Gavel of Daanvi",
@@ -1315,6 +843,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1322,9 +851,7 @@
       "Chaotic Outsider Bane 4",
       "Seeker +8",
       "Favored Weapon"
-    ],
-    "itemKey": "item:the_gavel_of_daanvi",
-    "setMembership": []
+    ]
   },
   {
     "name": "Magistrate's Scepter (level 17)",
@@ -1356,6 +883,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -1374,9 +902,7 @@
       "Riposte V",
       "Stumbling V",
       "Sundering V"
-    ],
-    "itemKey": "item:magistrate's_scepter_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forgotten Light (level 17)",
@@ -1394,6 +920,7 @@
       "Radiance +84"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -1401,9 +928,7 @@
       "Holy",
       "Devotion +84",
       "Radiance +84"
-    ],
-    "itemKey": "item:forgotten_light_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Magistrate's Scepter (level 18)",
@@ -1435,6 +960,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -1453,9 +979,7 @@
       "Riposte V",
       "Stumbling V",
       "Sundering V"
-    ],
-    "itemKey": "item:magistrate's_scepter_(level_18)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forgotten Light (level 18)",
@@ -1473,6 +997,7 @@
       "Radiance +90"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -1480,9 +1005,7 @@
       "Greater Good",
       "Devotion +90",
       "Radiance +90"
-    ],
-    "itemKey": "item:forgotten_light_(level_18)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Heavy Mace",
@@ -1503,6 +1026,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1510,9 +1034,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Heavy Mace",
@@ -1533,6 +1055,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1540,9 +1063,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Magistrate's Scepter (level 19)",
@@ -1574,6 +1095,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -1592,9 +1114,7 @@
       "Riposte V",
       "Stumbling V",
       "Sundering V"
-    ],
-    "itemKey": "item:magistrate's_scepter_(level_19)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Heavy Mace",
@@ -1615,6 +1135,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1622,9 +1143,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Heavy Mace",
@@ -1645,6 +1164,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1652,9 +1172,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Heavy Mace",
@@ -1672,13 +1190,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forgotten Light (level 23)",
@@ -1696,6 +1213,7 @@
       "Radiance +108"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -1703,9 +1221,7 @@
       "Greater Good",
       "Devotion +108",
       "Radiance +108"
-    ],
-    "itemKey": "item:forgotten_light_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forgotten Light (level 24)",
@@ -1723,6 +1239,7 @@
       "Radiance +114"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +21",
@@ -1730,9 +1247,7 @@
       "Supreme Good",
       "Devotion +114",
       "Radiance +114"
-    ],
-    "itemKey": "item:forgotten_light_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forgotten Light (level 25)",
@@ -1750,6 +1265,7 @@
       "Radiance +120"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +21",
@@ -1757,9 +1273,7 @@
       "Supreme Good",
       "Devotion +120",
       "Radiance +120"
-    ],
-    "itemKey": "item:forgotten_light_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Magistrate's Scepter (level 26)",
@@ -1792,6 +1306,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1811,9 +1326,7 @@
       "Riposte VIII",
       "Stumbling VIII",
       "Sundering VIII"
-    ],
-    "itemKey": "item:magistrate's_scepter_(level_26)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Heavy Mace",
@@ -1828,14 +1341,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Magistrate's Scepter (level 27)",
@@ -1868,6 +1380,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1887,9 +1400,7 @@
       "Riposte VIII",
       "Stumbling VIII",
       "Sundering VIII"
-    ],
-    "itemKey": "item:magistrate's_scepter_(level_27)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Magistrate's Scepter (level 28)",
@@ -1922,6 +1433,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1941,9 +1453,7 @@
       "Riposte VIII",
       "Stumbling VIII",
       "Sundering VIII"
-    ],
-    "itemKey": "item:magistrate's_scepter_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hellstroke Heavy Mace",
@@ -1966,6 +1476,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1973,9 +1484,7 @@
       "Impact",
       "Doublestrike 15%",
       "Cold Iron"
-    ],
-    "itemKey": "item:hellstroke_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Beacon of Day",
@@ -1996,6 +1505,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2003,9 +1513,7 @@
       "Metalline",
       "Insightful Armor-Piercing 9%",
       "Impact"
-    ],
-    "itemKey": "item:legendary_beacon_of_day",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Beacon of Night",
@@ -2026,6 +1534,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2033,9 +1542,7 @@
       "Sovereign Disruption",
       "Armor-Piercing 20%",
       "Impact"
-    ],
-    "itemKey": "item:legendary_beacon_of_night",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Everstorm, Maelstrom Courser",
@@ -2058,14 +1565,13 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Completed Weapon",
       "Utter Disintegration"
-    ],
-    "itemKey": "item:the_everstorm,_maelstrom_courser",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Heavy Mace",
@@ -2086,6 +1592,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2093,9 +1600,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Heavy Mace",
@@ -2116,6 +1621,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2123,9 +1629,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Heavy Mace",
@@ -2146,6 +1650,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2153,9 +1658,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Heavy Mace",
@@ -2176,6 +1679,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2183,9 +1687,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Heavy Mace",
@@ -2206,6 +1708,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2213,9 +1716,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Rope and Pulley",
@@ -2237,6 +1738,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [
       "Legendary Slowburst",
       "The Legendary Dread Isle's Curse"
@@ -2244,11 +1753,8 @@
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Icy Blast 6",
-      "Frostbite",
-      "Isle of Dread: Scale Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:legendary_rope_and_pulley",
-    "setMembership": []
+      "Frostbite"
+    ]
   },
   {
     "name": "The Legendary Gavel of Daanvi",
@@ -2271,6 +1777,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2278,9 +1785,7 @@
       "Chaotic Outsider Bane 6",
       "Seeker +14",
       "Favored Weapon"
-    ],
-    "itemKey": "item:the_legendary_gavel_of_daanvi",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Heavy Mace",
@@ -2303,16 +1808,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_heavy_mace",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Heavy Mace",
@@ -2335,16 +1860,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_heavy_mace",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Heavy Mace",
@@ -2367,6 +1912,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2374,9 +1920,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Heavy Mace",
@@ -2400,6 +1944,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -2409,9 +1954,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_heavy_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Crochet Crusher",
@@ -2434,6 +1977,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Slowburst",
       "Legendary Entangling Yarn"
@@ -2442,9 +1986,7 @@
       "+15 Enhancement Bonus",
       "Impactful 6",
       "Bludgeoning 6"
-    ],
-    "itemKey": "item:legendary_crochet_crusher",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Heavy Mace of the Fallen Age",
@@ -2467,6 +2009,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2474,9 +2017,7 @@
       "Anarchic 7",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:legendary_heavy_mace_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Heavy Mace of the Golden Age",
@@ -2499,6 +2040,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2506,9 +2048,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_heavy_mace_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Heavy Mace of the Undying Age",
@@ -2531,6 +2071,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2538,9 +2079,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:heavy_mace_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Selune's Favor",
@@ -2564,6 +2103,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2572,9 +2112,7 @@
       "Impactful 7",
       "Holy Burst 7",
       "Favored Weapon"
-    ],
-    "itemKey": "item:legendary_selune's_favor",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Heavy Mace",
@@ -2597,16 +2135,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_heavy_mace",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Heavy Mace",
@@ -2629,15 +2187,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_heavy_mace",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

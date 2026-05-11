@@ -1,0 +1,3156 @@
+[
+  {
+    "name": "Ember Great Axe",
+    "link": "https://ddowiki.com/page/Item:Ember_Great_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ],
+    "itemKey": "item:ember_great_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Molin's Great Axe",
+    "link": "https://ddowiki.com/page/Item:Molin%27s_Great_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Lesser Monstrous Humanoid Bane"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Lesser Monstrous Humanoid Bane"
+    ],
+    "itemKey": "item:molin's_great_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Oath of Droaam",
+    "link": "https://ddowiki.com/page/Item:Oath_of_Droaam",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Flaming Burst",
+      "Keen",
+      "Vorpal",
+      "Adamantine"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Flaming Burst",
+      "Keen",
+      "Vorpal",
+      "Adamantine"
+    ],
+    "itemKey": "item:oath_of_droaam",
+    "setMembership": []
+  },
+  {
+    "name": "Axe of the Scarlet Warrior",
+    "link": "https://ddowiki.com/page/Item:Axe_of_the_Scarlet_Warrior",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Strength +6",
+      "Vorpal",
+      "Maiming"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Strength +6",
+      "Vorpal",
+      "Maiming"
+    ],
+    "itemKey": "item:axe_of_the_scarlet_warrior",
+    "setMembership": []
+  },
+  {
+    "name": "Rusty Great Axe",
+    "link": "https://ddowiki.com/page/Item:Rusty_Great_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Starter"
+    ],
+    "itemKey": "item:rusty_great_axe",
+    "setMembership": []
+  },
+  {
+    "name": "+1 Starter Great Axe",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Great_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Starter"
+    ],
+    "itemKey": "item:+1_starter_great_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Ethereal Greataxe",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Sworn Silver Greataxe",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Carnifex",
+    "link": "https://ddowiki.com/page/Item:Carnifex",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Keen",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Keen"
+    ],
+    "itemKey": "item:carnifex",
+    "setMembership": []
+  },
+  {
+    "name": "Antique Greataxe",
+    "link": "https://ddowiki.com/page/Item:Antique_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Impactful 2",
+      "Evil Outsider Bane 2",
+      "Melee Alacrity 5%",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Impactful 2",
+      "Evil Outsider Bane 2",
+      "Melee Alacrity 5%",
+      "Adamantine"
+    ],
+    "itemKey": "item:antique_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Hellstroke Great Axe",
+    "link": "https://ddowiki.com/page/Item:Hellstroke_Great_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Doublestrike 4%",
+      "Keen",
+      "Cold Iron",
+      "Maiming 2",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Doublestrike 4%",
+      "Keen",
+      "Cold Iron",
+      "Maiming 2"
+    ],
+    "itemKey": "item:hellstroke_great_axe",
+    "setMembership": []
+  },
+  {
+    "name": "+2 Starter Great Axe",
+    "link": "https://ddowiki.com/page/Item:%2B2_Starter_Great_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Shock",
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Shock",
+      "Starter"
+    ],
+    "itemKey": "item:+2_starter_great_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Elemental Greataxe of Fire (level 4)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Greataxe_of_Fire_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Cold Resistance +11"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Cold Resistance +11"
+    ],
+    "itemKey": "item:elemental_greataxe_of_fire_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Mournlode Greataxe (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Greataxe_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Righteous",
+      "Undead Bane 2"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Righteous",
+      "Undead Bane 2"
+    ],
+    "itemKey": "item:mournlode_greataxe_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Axe (level 4)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Axe_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Crushing 4"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Crushing 4"
+    ],
+    "itemKey": "item:spectral_great_axe_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Greataxe",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Flamesalt Greataxe",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Twinchopper",
+    "link": "https://ddowiki.com/page/Item:Twinchopper",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 7,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Vorpal",
+      "Doublestrike 5%",
+      "Insightful Doublestrike 2%",
+      "The Dread Isle's Curse",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Universal Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane bonus to Universal Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to Spell DCs",
+        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to Spell DCs"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "★+4 Profane bonus to Hit and Damage",
+        "effectRaw": "★+4 Profane bonus to Hit and Damage",
+        "tieredEffects": [
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane bonus to Hit and Damage"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Vorpal",
+      "Doublestrike 5%",
+      "Insightful Doublestrike 2%",
+      "The Dread Isle's Curse"
+    ],
+    "itemKey": "item:twinchopper",
+    "setMembership": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "minLevels": [
+          7,
+          31
+        ],
+        "availablePieces": 70,
+        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Universal Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane bonus to Universal Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to Spell DCs",
+            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to Spell DCs"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "★+4 Profane bonus to Hit and Damage",
+            "effectRaw": "★+4 Profane bonus to Hit and Damage",
+            "tieredEffects": [
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane bonus to Hit and Damage"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maelstrom",
+    "link": "https://ddowiki.com/page/Item:Maelstrom",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Frost",
+      "Anarchic",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Frost",
+      "Anarchic"
+    ],
+    "itemKey": "item:maelstrom",
+    "setMembership": []
+  },
+  {
+    "name": "Elemental Greataxe of Fire (level 8)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Greataxe_of_Fire_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 8,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:elemental_greataxe_of_fire_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Mournlode Greataxe (level 8)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Greataxe_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 8,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:mournlode_greataxe_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Axe (level 8)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Axe_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Vorpal",
+      "Crushing 6"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Vorpal",
+      "Crushing 6"
+    ],
+    "itemKey": "item:spectral_great_axe_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Calamitous Greataxe",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1"
+    ],
+    "itemKey": "item:calamitous_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Garzuul's Bane",
+    "link": "https://ddowiki.com/page/Item:Garzuul%27s_Bane",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus"
+    ],
+    "itemKey": "item:garzuul's_bane",
+    "setMembership": []
+  },
+  {
+    "name": "Barovian's Greataxe",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Macabre Greataxe",
+    "link": "https://ddowiki.com/page/Item:Macabre_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Drysvayla's Axe",
+    "link": "https://ddowiki.com/page/Item:Drysvayla%27s_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Poisonous 3",
+      "Toxic 7",
+      "Limb Chopper",
+      "Dragon's Edge 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Poisonous 3",
+      "Toxic 7",
+      "Limb Chopper",
+      "Dragon's Edge 3"
+    ],
+    "itemKey": "item:drysvayla's_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Insurrection",
+    "link": "https://ddowiki.com/page/Item:Insurrection",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Construct Bane",
+      "Shatter +10",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Construct Bane",
+      "Shatter +10"
+    ],
+    "itemKey": "item:insurrection",
+    "setMembership": []
+  },
+  {
+    "name": "Great Axe of the Chained Soldier (historic)",
+    "link": "https://ddowiki.com/page/Item:Great_Axe_of_the_Chained_Soldier_(historic)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Break Enchantment — 1 Charges (Recharged/Day:1)",
+      "Immunity to Fear"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Break Enchantment — 1 Charges (Recharged/Day:1)",
+      "Immunity to Fear"
+    ],
+    "itemKey": "item:great_axe_of_the_chained_soldier_(historic)",
+    "setMembership": []
+  },
+  {
+    "name": "Petrifying War Axe",
+    "link": "https://ddowiki.com/page/Item:Petrifying_War_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 3",
+      "Gashing 7",
+      "Stone Prison",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 3",
+      "Gashing 7",
+      "Stone Prison"
+    ],
+    "itemKey": "item:petrifying_war_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Ogrish War Axe",
+    "link": "https://ddowiki.com/page/Item:Ogrish_War_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 3",
+      "Gashing 7",
+      "Malleable"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 3",
+      "Gashing 7",
+      "Malleable"
+    ],
+    "itemKey": "item:ogrish_war_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Greataxe",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Green Steel Greataxe",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Bloody War Axe",
+    "link": "https://ddowiki.com/page/Item:Bloody_War_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 3",
+      "Gashing 7",
+      "Bodyfeeder",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 3",
+      "Gashing 7",
+      "Bodyfeeder"
+    ],
+    "itemKey": "item:bloody_war_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Infectious War Axe",
+    "link": "https://ddowiki.com/page/Item:Infectious_War_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 3",
+      "Gashing 7",
+      "Demon Fever",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 3",
+      "Gashing 7",
+      "Demon Fever"
+    ],
+    "itemKey": "item:infectious_war_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Great Axe of the Chained Soldier (level 12)",
+    "link": "https://ddowiki.com/page/Item:Great_Axe_of_the_Chained_Soldier_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Hemorrhaging",
+      "Immunity to Fear"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Hemorrhaging",
+      "Immunity to Fear"
+    ],
+    "itemKey": "item:great_axe_of_the_chained_soldier_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Destructive War Axe",
+    "link": "https://ddowiki.com/page/Item:Destructive_War_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 3",
+      "Gashing 7",
+      "Destruction",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 3",
+      "Gashing 7",
+      "Destruction"
+    ],
+    "itemKey": "item:destructive_war_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Elemental Greataxe of Fire (level 12)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Greataxe_of_Fire_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:elemental_greataxe_of_fire_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Mournlode Greataxe (level 12)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Greataxe_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:mournlode_greataxe_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Axe (level 12)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Axe_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Ghostbane 3",
+      "Evil Outsider Bane 3",
+      "Vorpal",
+      "Crushing 7"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Ghostbane 3",
+      "Evil Outsider Bane 3",
+      "Vorpal",
+      "Crushing 7"
+    ],
+    "itemKey": "item:spectral_great_axe_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Great Axe of the Chained Soldier (level 13)",
+    "link": "https://ddowiki.com/page/Item:Great_Axe_of_the_Chained_Soldier_(level_13)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Hemorrhaging",
+      "Immunity to Fear",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Hemorrhaging",
+      "Immunity to Fear"
+    ],
+    "itemKey": "item:great_axe_of_the_chained_soldier_(level_13)",
+    "setMembership": []
+  },
+  {
+    "name": "Riftmaker",
+    "link": "https://ddowiki.com/page/Item:Riftmaker",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Burst",
+      "Banishing",
+      "Bloodletter III",
+      "Flametouched Iron",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Burst",
+      "Banishing",
+      "Bloodletter III",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:riftmaker",
+    "setMembership": []
+  },
+  {
+    "name": "Greataxe of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Greataxe_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:greataxe_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Greataxe of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Greataxe_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:greataxe_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Great Axe of the Chained Soldier (level 14)",
+    "link": "https://ddowiki.com/page/Item:Great_Axe_of_the_Chained_Soldier_(level_14)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Hemorrhaging",
+      "Immunity to Fear",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Hemorrhaging",
+      "Immunity to Fear"
+    ],
+    "itemKey": "item:great_axe_of_the_chained_soldier_(level_14)",
+    "setMembership": []
+  },
+  {
+    "name": "Syranian Greataxe",
+    "link": "https://ddowiki.com/page/Item:Syranian_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Mournlode Greataxe (level 16)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Greataxe_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 16,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:mournlode_greataxe_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Elemental Greataxe of Fire (level 16)",
+    "link": "https://ddowiki.com/page/Item:Elemental_Greataxe_of_Fire_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 16,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:elemental_greataxe_of_fire_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Axe (level 16)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Axe_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 9"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 9"
+    ],
+    "itemKey": "item:spectral_great_axe_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Reliquary Greataxe",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Reliquary Greataxe",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Antique Greataxe",
+    "link": "https://ddowiki.com/page/Item:Epic_Antique_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Force Blast 4",
+      "Metalline",
+      "Righteous",
+      "Anarchic 4",
+      "Adamantine",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Force Blast 4",
+      "Metalline",
+      "Righteous",
+      "Anarchic 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_antique_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Hellstroke Great Axe",
+    "link": "https://ddowiki.com/page/Item:Epic_Hellstroke_Great_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Cold Iron",
+      "Doublestrike 11%",
+      "Incite +91",
+      "Keen",
+      "Maiming 4",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Cold Iron",
+      "Doublestrike 11%",
+      "Incite +91",
+      "Keen",
+      "Maiming 4"
+    ],
+    "itemKey": "item:epic_hellstroke_great_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Mournlode Greataxe",
+    "link": "https://ddowiki.com/page/Item:Epic_Mournlode_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 20,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:epic_mournlode_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Elemental Greataxe of Fire",
+    "link": "https://ddowiki.com/page/Item:Epic_Elemental_Greataxe_of_Fire",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 20,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:epic_elemental_greataxe_of_fire",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Axe (level 20)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Axe_(level_20)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 10"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 10"
+    ],
+    "itemKey": "item:spectral_great_axe_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sworn Silver Greataxe",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ethereal Greataxe",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Drow Greataxe of the Weapon Master",
+    "link": "https://ddowiki.com/page/Item:Drow_Greataxe_of_the_Weapon_Master",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 21,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "itemKey": "item:drow_greataxe_of_the_weapon_master",
+    "setMembership": []
+  },
+  {
+    "name": "Thunder-Forged Alloy Greataxe",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Cleaver, Hewer of Suffering",
+    "link": "https://ddowiki.com/page/Item:Cleaver,_Hewer_of_Suffering",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 23,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Hemorrhaging",
+      "Limb Chopper",
+      "Improved Cursespewing",
+      "Doublestrike 6%",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Hemorrhaging",
+      "Limb Chopper",
+      "Improved Cursespewing",
+      "Doublestrike 6%",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "itemKey": "item:cleaver,_hewer_of_suffering",
+    "setMembership": []
+  },
+  {
+    "name": "Great Axe of the Chained Soldier (level 23)",
+    "link": "https://ddowiki.com/page/Item:Great_Axe_of_the_Chained_Soldier_(level_23)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 23,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Hemorrhaging",
+      "Immunity to Fear",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Hemorrhaging",
+      "Immunity to Fear"
+    ],
+    "itemKey": "item:great_axe_of_the_chained_soldier_(level_23)",
+    "setMembership": []
+  },
+  {
+    "name": "Great Axe of the Chained Soldier (level 24)",
+    "link": "https://ddowiki.com/page/Item:Great_Axe_of_the_Chained_Soldier_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+8 Enhancement Bonus",
+      "Hemorrhaging",
+      "Immunity to Fear",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+8 Enhancement Bonus",
+      "Hemorrhaging",
+      "Immunity to Fear"
+    ],
+    "itemKey": "item:great_axe_of_the_chained_soldier_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Axe (level 24)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Axe_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Ghostbane 5",
+      "Evil Outsider Bane 5",
+      "Greater Vorpal",
+      "Crushing 12"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Ghostbane 5",
+      "Evil Outsider Bane 5",
+      "Greater Vorpal",
+      "Crushing 12"
+    ],
+    "itemKey": "item:spectral_great_axe_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Great Axe of the Chained Soldier (level 25)",
+    "link": "https://ddowiki.com/page/Item:Great_Axe_of_the_Chained_Soldier_(level_25)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+8 Enhancement Bonus",
+      "Phlebotomizing",
+      "Immunity to Fear",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+8 Enhancement Bonus",
+      "Phlebotomizing",
+      "Immunity to Fear"
+    ],
+    "itemKey": "item:great_axe_of_the_chained_soldier_(level_25)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Carnifex",
+    "link": "https://ddowiki.com/page/Item:Epic_Carnifex",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+8 Enhancement Bonus",
+      "Keen",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+8 Enhancement Bonus",
+      "Keen"
+    ],
+    "itemKey": "item:epic_carnifex",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Steel Greataxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Riftmaker",
+    "link": "https://ddowiki.com/page/Item:Epic_Riftmaker",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+12 Enhancement Bonus",
+      "Improved Banishing",
+      "Bloodletter VII",
+      "Melee Power +6",
+      "Superior Force Burst",
+      "Flametouched Iron",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Improved Banishing",
+      "Bloodletter VII",
+      "Melee Power +6",
+      "Superior Force Burst",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:epic_riftmaker",
+    "setMembership": []
+  },
+  {
+    "name": "Torn, That Which Renders Despair",
+    "link": "https://ddowiki.com/page/Item:Torn,_That_Which_Renders_Despair",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Fetters of Unreality",
+      "Improved Destruction",
+      "Insightful Armor-Piercing 10%",
+      "Metalline",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Fetters of Unreality",
+      "Improved Destruction",
+      "Insightful Armor-Piercing 10%",
+      "Metalline"
+    ],
+    "itemKey": "item:torn,_that_which_renders_despair",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Axe (level 28)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Axe_(level_28)",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+12 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 13"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 13"
+    ],
+    "itemKey": "item:spectral_great_axe_(level_28)",
+    "setMembership": []
+  },
+  {
+    "name": "Baz'Morath, the Curator of Decay",
+    "link": "https://ddowiki.com/page/Item:Baz%27Morath,_the_Curator_of_Decay",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon"
+    ],
+    "itemKey": "item:baz'morath,_the_curator_of_decay",
+    "setMembership": []
+  },
+  {
+    "name": "The Magmatic Cleaver",
+    "link": "https://ddowiki.com/page/Item:The_Magmatic_Cleaver",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "Keen",
+      "Armor-Piercing 21%",
+      "Flamebitten",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "Keen",
+      "Armor-Piercing 21%",
+      "Flamebitten"
+    ],
+    "itemKey": "item:the_magmatic_cleaver",
+    "setMembership": []
+  },
+  {
+    "name": "Morninglord's Greataxe",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Nightmother's Greataxe",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Syranian Greataxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Greataxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flamesalt Greataxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Antique Greataxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Antique_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 6",
+      "Metalline",
+      "Righteous",
+      "Holy Burst 6",
+      "Adamantine",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 6",
+      "Metalline",
+      "Righteous",
+      "Holy Burst 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_antique_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Hellstroke Great Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hellstroke_Great_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Doublestrike 16%",
+      "Maiming 6",
+      "Incite +129",
+      "Cold Iron",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Doublestrike 16%",
+      "Maiming 6",
+      "Incite +129",
+      "Cold Iron"
+    ],
+    "itemKey": "item:legendary_hellstroke_great_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Twinchopper",
+    "link": "https://ddowiki.com/page/Item:Legendary_Twinchopper",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Sovereign Vorpal",
+      "Doublestrike 15%",
+      "Insightful Doublestrike 7%",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Sovereign Vorpal",
+      "Doublestrike 15%",
+      "Insightful Doublestrike 7%"
+    ],
+    "itemKey": "item:legendary_twinchopper",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Greataxe",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Attuned Bone Greataxe",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:attuned_bone_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ogrish War Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ogrish_War_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 6",
+      "Gashing 15",
+      "Malleable",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 6",
+      "Gashing 15",
+      "Malleable"
+    ],
+    "itemKey": "item:legendary_ogrish_war_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Infectious War Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Infectious_War_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 6",
+      "Gashing 15",
+      "Legendary Demon Fever",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Demon Fever"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 6",
+      "Gashing 15"
+    ],
+    "itemKey": "item:legendary_infectious_war_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Bloody War Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bloody_War_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 6",
+      "Gashing 15",
+      "Feeding 30",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 6",
+      "Gashing 15",
+      "Feeding 30"
+    ],
+    "itemKey": "item:legendary_bloody_war_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Destructive War Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Destructive_War_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 6",
+      "Gashing 15",
+      "Improved Destruction",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 6",
+      "Gashing 15",
+      "Improved Destruction"
+    ],
+    "itemKey": "item:legendary_destructive_war_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Petrifying War Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Petrifying_War_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 6",
+      "Gashing 15",
+      "Legendary Stone Prison",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Stone Prison"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Vengeful",
+      "Humanoid Bane 6",
+      "Gashing 15"
+    ],
+    "itemKey": "item:legendary_petrifying_war_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shining Reliquary Greataxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Defiled Reliquary Greataxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Greataxe of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Greataxe_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_greataxe_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Greataxe of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Greataxe_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_greataxe_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Greataxe of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Greataxe_of_the_Undying_Age",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:greataxe_of_the_undying_age",
+    "setMembership": []
+  },
+  {
+    "name": "Arctica, the Mystic Cold",
+    "link": "https://ddowiki.com/page/Item:Arctica,_the_Mystic_Cold",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 33,
+    "effectsRaw": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Bitter Frostbite",
+      "Ice Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist",
+      "Exceptional Spell Focus Mastery +2",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Bitter Frostbite",
+      "Ice Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist",
+      "Exceptional Spell Focus Mastery +2"
+    ],
+    "itemKey": "item:arctica,_the_mystic_cold",
+    "setMembership": []
+  },
+  {
+    "name": "Iceshard, the Bitter Bite",
+    "link": "https://ddowiki.com/page/Item:Iceshard,_the_Bitter_Bite",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Bitter Frostbite",
+      "Legendary Freezing Ice",
+      "Icy Blast 7",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Freezing Ice"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Bitter Frostbite",
+      "Icy Blast 7",
+      "Sealed in Mist"
+    ],
+    "itemKey": "item:iceshard,_the_bitter_bite",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Calamitous Greataxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_calamitous_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Greataxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Greataxe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_greataxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Drysvayla's Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Drysvayla%27s_Axe",
+    "slot": "weapon",
+    "itemSubtype": "great_axe",
+    "handedness": "two_handed",
+    "category": "Great Axes",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Poisonous 7",
+      "Toxic 16",
+      "Limb Chopper",
+      "Dragon's Edge 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Poisonous 7",
+      "Toxic 16",
+      "Limb Chopper",
+      "Dragon's Edge 7"
+    ],
+    "itemKey": "item:legendary_drysvayla's_axe",
+    "setMembership": []
+  }
+]

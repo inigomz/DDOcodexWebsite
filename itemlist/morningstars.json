@@ -16,14 +16,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Bodyfeeder",
       "Doom — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:morningstar_of_the_heretic",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spiked Mace of the Elements",
@@ -41,13 +40,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Lesser Elemental Bane"
-    ],
-    "itemKey": "item:spiked_mace_of_the_elements",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Morningstar",
@@ -65,13 +63,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Morningstar",
@@ -89,13 +86,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Star of Endless Night (level 4)",
@@ -113,6 +109,7 @@
       "Combat Mastery +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -120,9 +117,7 @@
       "Smashing 4",
       "Piercing 2",
       "Combat Mastery +3"
-    ],
-    "itemKey": "item:star_of_endless_night_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ship-Chaplain's Sidearm (level 4)",
@@ -143,6 +138,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -150,9 +146,7 @@
       "Ghostbane 2",
       "Holy Burst",
       "Insightful Deadly +1"
-    ],
-    "itemKey": "item:ship-chaplain's_sidearm_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Morningstar",
@@ -173,6 +167,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -180,9 +175,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Morningstar",
@@ -203,6 +196,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -210,9 +204,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crushing Capital",
@@ -233,6 +225,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -240,9 +233,7 @@
       "Bludgeoning 2",
       "Metalline",
       "Smashing 5"
-    ],
-    "itemKey": "item:crushing_capital",
-    "setMembership": []
+    ]
   },
   {
     "name": "Star of Endless Night (level 8)",
@@ -260,6 +251,7 @@
       "Combat Mastery +4"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -267,9 +259,7 @@
       "Smashing 6",
       "Piercing 2",
       "Combat Mastery +4"
-    ],
-    "itemKey": "item:star_of_endless_night_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shrieking Star",
@@ -288,14 +278,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Shrieking",
       "Roaring"
-    ],
-    "itemKey": "item:shrieking_star",
-    "setMembership": []
+    ]
   },
   {
     "name": "Star of Irian",
@@ -316,14 +305,13 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Holy",
       "Righteous"
-    ],
-    "itemKey": "item:star_of_irian",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ship-Chaplain's Sidearm (level 8)",
@@ -344,6 +332,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -351,9 +340,7 @@
       "Ghostbane 2",
       "Holy Burst",
       "Insightful Deadly +1"
-    ],
-    "itemKey": "item:ship-chaplain's_sidearm_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Morningstar",
@@ -374,16 +361,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_morningstar",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Macabre Morningstar",
@@ -404,6 +406,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -411,9 +414,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Morningstar",
@@ -434,6 +435,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -441,9 +443,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Star of Endless Night (level 12)",
@@ -461,6 +461,7 @@
       "Combat Mastery +5"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -468,9 +469,7 @@
       "Smashing 7",
       "Piercing 3",
       "Combat Mastery +5"
-    ],
-    "itemKey": "item:star_of_endless_night_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Morningstar",
@@ -485,13 +484,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Morningstar",
@@ -506,13 +504,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ship-Chaplain's Sidearm (level 12)",
@@ -533,6 +530,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -540,9 +538,7 @@
       "Ghostbane 3",
       "Holy Burst",
       "Insightful Deadly +2"
-    ],
-    "itemKey": "item:ship-chaplain's_sidearm_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morningstar of the Fallen Age",
@@ -563,6 +559,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -570,9 +567,7 @@
       "Anarchic 3",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:morningstar_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morningstar of the Golden Age",
@@ -593,6 +588,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -600,9 +596,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:morningstar_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tenderizer",
@@ -622,6 +616,7 @@
       "Upgradeable Item (Stormreaver)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -631,9 +626,7 @@
       "Bleed",
       "Maladroit",
       "Upgradeable Item (Stormreaver)"
-    ],
-    "itemKey": "item:tenderizer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Coronation",
@@ -654,14 +647,13 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Ribcracker V",
       "Persuasion"
-    ],
-    "itemKey": "item:coronation",
-    "setMembership": []
+    ]
   },
   {
     "name": "Suncrusher",
@@ -682,6 +674,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -689,9 +682,7 @@
       "Coruscating 4",
       "Aligned",
       "Smiting"
-    ],
-    "itemKey": "item:suncrusher",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Morningstar",
@@ -712,6 +703,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -719,9 +711,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Star of Endless Night (level 16)",
@@ -739,6 +729,7 @@
       "Combat Mastery +6"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -746,9 +737,7 @@
       "Smashing 9",
       "Piercing 4",
       "Combat Mastery +6"
-    ],
-    "itemKey": "item:star_of_endless_night_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ship-Chaplain's Sidearm (level 16)",
@@ -769,6 +758,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -776,9 +766,7 @@
       "Ghostbane 4",
       "Holy Burst",
       "Insightful Deadly +2"
-    ],
-    "itemKey": "item:ship-chaplain's_sidearm_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Morningstar",
@@ -799,6 +787,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -806,9 +795,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Morningstar",
@@ -829,6 +816,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -836,9 +824,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Star of Endless Night (level 20)",
@@ -856,6 +842,7 @@
       "Combat Mastery +8"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -863,9 +850,7 @@
       "Smashing 10",
       "Piercing 4",
       "Combat Mastery +8"
-    ],
-    "itemKey": "item:star_of_endless_night_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ship-Chaplain's Sidearm (level 20)",
@@ -886,6 +871,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -893,9 +879,7 @@
       "Ghostbane 4",
       "Holy Burst",
       "Insightful Deadly +3"
-    ],
-    "itemKey": "item:epic_ship-chaplain's_sidearm_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Morningstar",
@@ -916,6 +900,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -923,9 +908,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Morningstar",
@@ -946,6 +929,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -953,9 +937,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Crushing Capital",
@@ -976,6 +958,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -983,9 +966,7 @@
       "Bludgeoning 5",
       "Metalline",
       "Smashing 11"
-    ],
-    "itemKey": "item:epic_crushing_capital",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Morningstar",
@@ -1003,13 +984,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Morningstar of the Heretic",
@@ -1030,6 +1010,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1037,9 +1018,7 @@
       "Maiming 5",
       "Bleeding 5",
       "Unholy Blight — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:epic_morningstar_of_the_heretic",
-    "setMembership": []
+    ]
   },
   {
     "name": "Star of Endless Night (level 24)",
@@ -1057,6 +1036,7 @@
       "Combat Mastery +9"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1064,9 +1044,7 @@
       "Smashing 12",
       "Piercing 5",
       "Combat Mastery +9"
-    ],
-    "itemKey": "item:star_of_endless_night_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ship-Chaplain's Sidearm (level 24)",
@@ -1087,6 +1065,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1094,9 +1073,7 @@
       "Ghostbane 5",
       "Holy Burst",
       "Insightful Deadly +4"
-    ],
-    "itemKey": "item:epic_ship-chaplain's_sidearm_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Braisingstar",
@@ -1117,6 +1094,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1124,9 +1102,7 @@
       "Stunning +10",
       "Ribcracker VI",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:braisingstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Morningstar",
@@ -1141,14 +1117,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Star of Endless Night (level 28)",
@@ -1166,6 +1141,7 @@
       "Combat Mastery +10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -1173,9 +1149,7 @@
       "Smashing 13",
       "Piercing 6",
       "Combat Mastery +10"
-    ],
-    "itemKey": "item:star_of_endless_night_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ship-Chaplain's Sidearm (level 28)",
@@ -1196,6 +1170,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -1203,9 +1178,7 @@
       "Ghostbane 6",
       "Holy Burst",
       "Insightful Deadly +4"
-    ],
-    "itemKey": "item:epic_ship-chaplain's_sidearm_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Suncrusher",
@@ -1226,6 +1199,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1233,9 +1207,7 @@
       "Coruscating 6",
       "Aligned",
       "Sovereign Smiting"
-    ],
-    "itemKey": "item:legendary_suncrusher",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lamplighter",
@@ -1258,6 +1230,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1265,9 +1238,7 @@
       "Fetters of Unreality",
       "Flaming Blast 6",
       "Lights Out"
-    ],
-    "itemKey": "item:lamplighter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Morningstar",
@@ -1288,6 +1259,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1295,9 +1267,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Bitterstar",
@@ -1320,6 +1290,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1327,9 +1298,7 @@
       "Frostbite",
       "Impact",
       "Icy Blast 6"
-    ],
-    "itemKey": "item:the_bitterstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Morningstar",
@@ -1350,6 +1319,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1357,9 +1327,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Morningstar",
@@ -1380,6 +1348,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1387,9 +1356,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Morningstar",
@@ -1410,6 +1377,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1417,9 +1385,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Morningstar",
@@ -1437,14 +1403,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Morningstar",
@@ -1465,6 +1430,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1472,9 +1438,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Morningstar",
@@ -1497,16 +1461,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_morningstar",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Morningstar",
@@ -1529,16 +1513,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_morningstar",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Ship-Chaplain's Sidearm (level 32)",
@@ -1559,6 +1563,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1566,9 +1571,7 @@
       "Ghostbane 6",
       "Holy Burst",
       "Insightful Deadly +5"
-    ],
-    "itemKey": "item:legendary_ship-chaplain's_sidearm_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Star of Endless Night (level 32)",
@@ -1586,6 +1589,7 @@
       "Combat Mastery +11"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1593,9 +1597,7 @@
       "Smashing 15",
       "Piercing 6",
       "Combat Mastery +11"
-    ],
-    "itemKey": "item:star_of_endless_night_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Morningstar",
@@ -1618,6 +1620,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1625,9 +1628,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Morningstar",
@@ -1651,6 +1652,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1660,9 +1662,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_morningstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Morningstar of the Fallen Age",
@@ -1685,6 +1685,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1692,9 +1693,7 @@
       "Anarchic 7",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:legendary_morningstar_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Morningstar of the Golden Age",
@@ -1717,6 +1716,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1724,9 +1724,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_morningstar_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morningstar of the Undying Age",
@@ -1749,6 +1747,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1756,9 +1755,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:morningstar_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Morningstar",
@@ -1781,16 +1778,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_morningstar",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Morningstar",
@@ -1813,15 +1830,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_morningstar",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

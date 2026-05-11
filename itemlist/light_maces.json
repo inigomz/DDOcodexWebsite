@@ -15,13 +15,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Shocking Touch"
-    ],
-    "itemKey": "item:skartongue's_ladel",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Light Mace",
@@ -39,13 +38,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Light Mace",
@@ -63,13 +61,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Light Mace (level 4)",
@@ -85,14 +82,13 @@
       "Undead Bane 2"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Righteous",
       "Undead Bane 2"
-    ],
-    "itemKey": "item:mournlode_light_mace_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hull-Melter's Mace (level 4)",
@@ -114,6 +110,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +4",
@@ -122,9 +119,7 @@
       "Acid Lore +8%",
       "Insightful Conjuration Focus +1",
       "Insightful Fortification +27%"
-    ],
-    "itemKey": "item:hull-melter's_mace_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Light Mace",
@@ -145,6 +140,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -152,9 +148,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Light Mace",
@@ -175,6 +169,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -182,9 +177,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Light Mace (level 8)",
@@ -198,12 +191,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_light_mace_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hull-Melter's Mace (level 8)",
@@ -225,6 +217,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +8",
@@ -233,9 +226,7 @@
       "Acid Lore +10%",
       "Insightful Conjuration Focus +1",
       "Insightful Fortification +35%"
-    ],
-    "itemKey": "item:hull-melter's_mace_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Light Mace",
@@ -256,16 +247,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_light_mace",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Adoryn's Malice",
@@ -284,14 +290,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Greater Construct Bane",
       "Adamantine"
-    ],
-    "itemKey": "item:adoryn's_malice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Light Mace",
@@ -312,6 +317,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -319,9 +325,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Light Mace",
@@ -342,6 +346,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -349,9 +354,7 @@
       "Holy 3",
       "Fiery 3",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:barovian's_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Light Mace",
@@ -366,13 +369,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Light Mace",
@@ -387,13 +389,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Skullsmasher (level 12)",
@@ -412,14 +413,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Intimidate +10",
       "Ribcracker III"
-    ],
-    "itemKey": "item:skullsmasher_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Light Mace (level 12)",
@@ -433,12 +433,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_light_mace_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Skullsmasher (historic)",
@@ -454,14 +453,13 @@
       "Orc Bane"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Intimidate +10",
       "Orc Bane"
-    ],
-    "itemKey": "item:skullsmasher_(historic)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hull-Melter's Mace (level 12)",
@@ -483,6 +481,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -491,9 +490,7 @@
       "Acid Lore +12%",
       "Insightful Conjuration Focus +2",
       "Insightful Fortification +42%"
-    ],
-    "itemKey": "item:hull-melter's_mace_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Skullsmasher (level 13)",
@@ -512,14 +509,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Intimidate +11",
       "Ribcracker III"
-    ],
-    "itemKey": "item:skullsmasher_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Mace of the Fallen Age",
@@ -540,6 +536,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -547,9 +544,7 @@
       "Anarchic 3",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:light_mace_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Mace of the Golden Age",
@@ -570,6 +565,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -577,9 +573,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:light_mace_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Skullsmasher (level 14)",
@@ -598,14 +592,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Intimidate +13",
       "Ribcracker IV"
-    ],
-    "itemKey": "item:skullsmasher_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Light Mace",
@@ -626,6 +619,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -633,9 +627,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Light Mace (level 16)",
@@ -649,12 +641,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_light_mace_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hull-Melter's Mace (level 16)",
@@ -676,6 +667,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +16",
@@ -684,9 +676,7 @@
       "Acid Lore +14%",
       "Insightful Conjuration Focus +2",
       "Insightful Fortification +48%"
-    ],
-    "itemKey": "item:hull-melter's_mace_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Light Mace",
@@ -707,6 +697,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -714,9 +705,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Light Mace",
@@ -737,6 +726,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -744,9 +734,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Mournlode Light Mace",
@@ -760,12 +748,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_mournlode_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Hull-Melter's Mace (level 20)",
@@ -787,6 +774,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -795,9 +783,7 @@
       "Acid Lore +16%",
       "Insightful Conjuration Focus +2",
       "Insightful Fortification +55%"
-    ],
-    "itemKey": "item:epic_hull-melter's_mace_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Light Mace",
@@ -818,6 +804,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -825,9 +812,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Light Mace",
@@ -848,6 +833,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -855,9 +841,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drow Light Mace of the Weapon Master",
@@ -878,6 +862,7 @@
       "Tendon Slice 10%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -888,9 +873,7 @@
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:drow_light_mace_of_the_weapon_master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Light Mace",
@@ -908,13 +891,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Skullsmasher (level 23)",
@@ -933,14 +915,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Intimidate +17",
       "Ribcracker V"
-    ],
-    "itemKey": "item:skullsmasher_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Skullsmasher (level 24)",
@@ -959,14 +940,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Intimidate +20",
       "Ribcracker VI"
-    ],
-    "itemKey": "item:skullsmasher_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Hull-Melter's Mace (level 24)",
@@ -988,6 +968,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +24",
@@ -996,9 +977,7 @@
       "Acid Lore +18%",
       "Quality Conjuration Focus +1",
       "Insightful Fortification +62%"
-    ],
-    "itemKey": "item:epic_hull-melter's_mace_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Skullsmasher (level 25)",
@@ -1017,14 +996,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Intimidate +20",
       "Ribcracker VI"
-    ],
-    "itemKey": "item:skullsmasher_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Light Mace",
@@ -1039,14 +1017,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lightning Coil",
@@ -1070,6 +1047,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +28",
@@ -1078,9 +1056,7 @@
       "Lightning Lore +21%",
       "Magnetism +145",
       "Evocation Focus +6"
-    ],
-    "itemKey": "item:lightning_coil",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Hull-Melter's Mace (level 28)",
@@ -1102,6 +1078,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +28",
@@ -1110,9 +1087,7 @@
       "Acid Lore +20%",
       "Quality Conjuration Focus +1",
       "Insightful Fortification +69%"
-    ],
-    "itemKey": "item:epic_hull-melter's_mace_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Light Mace",
@@ -1133,6 +1108,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1140,9 +1116,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Light Mace",
@@ -1163,6 +1137,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1170,9 +1145,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Light Mace",
@@ -1193,6 +1166,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1200,9 +1174,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mori's Focus",
@@ -1226,6 +1198,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -1234,9 +1207,7 @@
       "Soul Tear",
       "Insightful Corrosion +74",
       "Quality Corrosion +36"
-    ],
-    "itemKey": "item:mori's_focus",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Light Mace",
@@ -1257,6 +1228,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1264,9 +1236,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Light Mace",
@@ -1284,14 +1254,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Light Mace",
@@ -1312,6 +1281,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1319,9 +1289,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Light Mace",
@@ -1344,16 +1312,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_light_mace",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Light Mace",
@@ -1376,16 +1364,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_light_mace",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Hull-Melter's Mace (level 32)",
@@ -1407,6 +1415,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -1415,9 +1424,7 @@
       "Acid Lore +22%",
       "Quality Conjuration Focus +1",
       "Insightful Fortification +76%"
-    ],
-    "itemKey": "item:legendary_hull-melter's_mace_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Light Mace",
@@ -1440,6 +1447,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1447,9 +1455,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Light Mace",
@@ -1473,6 +1479,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1482,9 +1489,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_light_mace",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Light Mace of the Fallen Age",
@@ -1507,6 +1512,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1514,9 +1520,7 @@
       "Anarchic 7",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:legendary_light_mace_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Light Mace of the Golden Age",
@@ -1539,6 +1543,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1546,9 +1551,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_light_mace_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Mace of the Undying Age",
@@ -1571,6 +1574,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1578,9 +1582,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:light_mace_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Light Mace",
@@ -1603,16 +1605,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_light_mace",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Light Mace",
@@ -1635,15 +1657,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_light_mace",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

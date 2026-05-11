@@ -14,15 +14,14 @@
       "Keen"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Deception",
       "Returning",
       "Keen"
-    ],
-    "itemKey": "item:shadow_star",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Shuriken",
@@ -41,14 +40,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
       "Returning"
-    ],
-    "itemKey": "item:ethereal_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Shuriken",
@@ -67,14 +65,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical",
       "Returning"
-    ],
-    "itemKey": "item:sworn_silver_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Shuriken",
@@ -95,6 +92,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -102,9 +100,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Shuriken",
@@ -126,6 +122,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -134,9 +131,7 @@
       "Weakening 1",
       "Flametouched Iron",
       "Returning"
-    ],
-    "itemKey": "item:flamesalt_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Compass Rose",
@@ -158,140 +153,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Universal Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane bonus to Universal Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to Spell DCs",
-        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to Spell DCs"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "★+4 Profane bonus to Hit and Damage",
-        "effectRaw": "★+4 Profane bonus to Hit and Damage",
-        "tieredEffects": [
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane bonus to Hit and Damage"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Bleeding 2",
@@ -299,131 +162,6 @@
       "Spiked",
       "Returning",
       "The Dread Isle's Curse"
-    ],
-    "itemKey": "item:the_compass_rose",
-    "setMembership": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "minLevels": [
-          7,
-          31
-        ],
-        "availablePieces": 70,
-        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Universal Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane bonus to Universal Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to Spell DCs",
-            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to Spell DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "★+4 Profane bonus to Hit and Damage",
-            "effectRaw": "★+4 Profane bonus to Hit and Damage",
-            "tieredEffects": [
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane bonus to Hit and Damage"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -440,14 +178,13 @@
       "Icy Burst"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Returning",
       "Icy Burst"
-    ],
-    "itemKey": "item:snowstar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Shuriken",
@@ -469,17 +206,32 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Returning",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_shuriken",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Macabre Shuriken",
@@ -501,6 +253,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -509,9 +262,7 @@
       "Vampirism 1",
       "Chilling 3",
       "Returning"
-    ],
-    "itemKey": "item:macabre_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Shuriken",
@@ -533,6 +284,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -541,9 +293,7 @@
       "Fiery 3",
       "Undead Bane 3",
       "Returning"
-    ],
-    "itemKey": "item:barovian's_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Shuriken",
@@ -559,14 +309,13 @@
       "Returning"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel",
       "Returning"
-    ],
-    "itemKey": "item:green_steel_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Shuriken",
@@ -582,14 +331,13 @@
       "Returning"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)",
       "Returning"
-    ],
-    "itemKey": "item:alchemical_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dawnbringer (level 13)",
@@ -611,6 +359,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -619,9 +368,7 @@
       "Deadly III",
       "Bloodletter III",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:dawnbringer_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shuriken of the Fallen Age",
@@ -643,6 +390,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -651,9 +399,7 @@
       "Aligned",
       "Keen",
       "Returning"
-    ],
-    "itemKey": "item:shuriken_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shuriken of the Golden Age",
@@ -675,6 +421,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -683,9 +430,7 @@
       "Vorpal",
       "Entropic 3",
       "Returning"
-    ],
-    "itemKey": "item:shuriken_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Morning Star (level 14)",
@@ -706,6 +451,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Returning",
@@ -713,9 +459,7 @@
       "Solar I",
       "Flaming II",
       "Ghostbane I"
-    ],
-    "itemKey": "item:the_morning_star_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Morning Star (level 15)",
@@ -736,6 +480,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Returning",
@@ -743,9 +488,7 @@
       "Solar I",
       "Flaming II",
       "Ghostbane II"
-    ],
-    "itemKey": "item:the_morning_star_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Arc Ricochet",
@@ -767,6 +510,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Returning",
@@ -775,9 +519,7 @@
       "Reverberating 4",
       "Jolting 9",
       "Blunted Ammunition"
-    ],
-    "itemKey": "item:arc_ricochet",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Shuriken",
@@ -799,6 +541,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -807,9 +550,7 @@
       "Construct Bane 4",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:syranian_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Morning Star (level 16)",
@@ -830,6 +571,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Returning",
@@ -837,9 +579,7 @@
       "Solar II",
       "Flaming III",
       "Ghostbane II"
-    ],
-    "itemKey": "item:the_morning_star_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Shuriken",
@@ -861,6 +601,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -869,9 +610,7 @@
       "Blazing 10",
       "Evil Outsider Bane 4",
       "Returning"
-    ],
-    "itemKey": "item:shining_reliquary_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Shuriken",
@@ -893,6 +632,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -901,9 +641,7 @@
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
       "Returning"
-    ],
-    "itemKey": "item:defiled_reliquary_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Shuriken",
@@ -925,6 +663,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -933,9 +672,7 @@
       "Destruction",
       "Righteous",
       "Returning"
-    ],
-    "itemKey": "item:epic_sworn_silver_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Shuriken",
@@ -957,6 +694,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -965,9 +703,7 @@
       "Weaken Undead",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:epic_ethereal_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Shuriken",
@@ -986,14 +722,13 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Returning",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Morning Star (level 25)",
@@ -1014,6 +749,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Returning",
@@ -1021,9 +757,7 @@
       "Solar IV",
       "Flaming V",
       "Ghostbane IV"
-    ],
-    "itemKey": "item:the_morning_star_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Morning Star (level 26)",
@@ -1044,6 +778,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Returning",
@@ -1051,9 +786,7 @@
       "Solar IV",
       "Flaming V",
       "Ghostbane V"
-    ],
-    "itemKey": "item:the_morning_star_(level_26)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Shuriken",
@@ -1069,15 +802,14 @@
       "Returning"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus",
       "Returning"
-    ],
-    "itemKey": "item:legendary_green_steel_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Morning Star (level 27)",
@@ -1098,6 +830,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Returning",
@@ -1105,9 +838,7 @@
       "Solar V",
       "Flaming VI",
       "Ghostbane V"
-    ],
-    "itemKey": "item:the_morning_star_(level_27)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dawnbringer (level 28)",
@@ -1130,6 +861,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -1139,9 +871,7 @@
       "Bloodletter VII",
       "Ranged Power +6",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:dawnbringer_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spite, the Fractured Shards",
@@ -1165,6 +895,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1173,9 +904,7 @@
       "Sovereign Disruption",
       "Hemorrhaging",
       "Returning"
-    ],
-    "itemKey": "item:spite,_the_fractured_shards",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Arc Ricochet",
@@ -1197,6 +926,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1205,9 +935,7 @@
       "Jolting 14",
       "Blunted Ammunition",
       "Returning"
-    ],
-    "itemKey": "item:legendary_arc_ricochet",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Shuriken",
@@ -1229,6 +957,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1237,9 +966,7 @@
       "Construct Bane 6",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:legendary_syranian_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Salazar, Borne of Hemlock",
@@ -1263,6 +990,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Slicing Winds"
     ],
@@ -1272,9 +1000,7 @@
       "Keen",
       "Twining Hemlock",
       "Returning"
-    ],
-    "itemKey": "item:salazar,_borne_of_hemlock",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Shuriken",
@@ -1296,6 +1022,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1304,9 +1031,7 @@
       "Fiery 6",
       "Undead Bane 6",
       "Returning"
-    ],
-    "itemKey": "item:morninglord's_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Shuriken",
@@ -1328,6 +1053,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1336,9 +1062,7 @@
       "Vampirism 2",
       "Chilling 6",
       "Returning"
-    ],
-    "itemKey": "item:nightmother's_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Shuriken",
@@ -1360,6 +1084,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1368,9 +1093,7 @@
       "Maiming 6",
       "Crystal",
       "Returning"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Shuriken",
@@ -1392,6 +1115,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1400,9 +1124,7 @@
       "Weakening 3",
       "Flametouched Iron",
       "Returning"
-    ],
-    "itemKey": "item:legendary_flamesalt_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Legendary Compass Rose",
@@ -1425,6 +1147,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [
       "The Legendary Dread Isle's Curse"
     ],
@@ -1433,11 +1163,8 @@
       "Bleeding 6",
       "Metalline",
       "Spiked",
-      "Returning",
-      "Isle of Dread: Scale Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:the_legendary_compass_rose",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Dinosaur Bone Shuriken",
@@ -1461,17 +1188,37 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_shuriken",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Attuned Bone Shuriken",
@@ -1495,17 +1242,37 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_shuriken",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Shuriken",
@@ -1529,6 +1296,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1537,9 +1305,7 @@
       "Blazing 15",
       "Evil Outsider Bane 6",
       "Returning"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Shuriken",
@@ -1564,6 +1330,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1574,9 +1341,7 @@
       "Evil Blast 6",
       "Taint of Evil",
       "Returning"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_shuriken",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shuriken of the Fallen Age",
@@ -1600,6 +1365,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1608,9 +1374,7 @@
       "Aligned",
       "Keen",
       "Returning"
-    ],
-    "itemKey": "item:legendary_shuriken_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shuriken of the Golden Age",
@@ -1634,6 +1398,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1642,9 +1407,7 @@
       "Sovereign Vorpal",
       "Entropic 7",
       "Returning"
-    ],
-    "itemKey": "item:legendary_shuriken_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nova, the Wild Star",
@@ -1668,6 +1431,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Steam"
     ],
@@ -1677,9 +1441,7 @@
       "Touched by Wild Magic",
       "Sealed in Fire",
       "Returning"
-    ],
-    "itemKey": "item:nova,_the_wild_star",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shuriken of the Undying Age",
@@ -1703,6 +1465,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1711,9 +1474,7 @@
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Returning"
-    ],
-    "itemKey": "item:shuriken_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Shuriken",
@@ -1737,17 +1498,37 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_shuriken",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Shuriken",
@@ -1771,16 +1552,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_shuriken",
-    "setMembership": []
+      "Returning"
+    ]
   }
 ]

@@ -15,13 +15,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Kukri",
@@ -39,13 +38,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Midnight Greetings",
@@ -65,15 +63,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Entropic 2",
       "Deception +2",
       "Deception"
-    ],
-    "itemKey": "item:midnight_greetings",
-    "setMembership": []
+    ]
   },
   {
     "name": "Filthy Kukri",
@@ -89,14 +86,13 @@
       "Unraveling Enchantments"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Deception",
       "Unraveling Enchantments"
-    ],
-    "itemKey": "item:filthy_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Kukri",
@@ -117,6 +113,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -124,9 +121,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Kukri",
@@ -147,6 +142,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -154,9 +150,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Giant Stalker's Knife",
@@ -174,13 +168,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Greater Giant Bane"
-    ],
-    "itemKey": "item:giant_stalker's_knife",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tchurvul's Kukri",
@@ -197,15 +190,14 @@
       "Tchurvul's Touch"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Curse of Repulsiveness",
       "Melee Alacrity 10%",
       "Tchurvul's Touch"
-    ],
-    "itemKey": "item:tchurvul's_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Blood Machete",
@@ -226,14 +218,13 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Slicing",
       "Rage — 1 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:blood_machete",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Kukri",
@@ -254,16 +245,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_kukri",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Macabre Kukri",
@@ -284,6 +290,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -291,9 +298,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Kukri",
@@ -314,6 +319,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -321,9 +327,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Blade",
@@ -343,95 +347,8 @@
       "The Desert's Biting Sands"
     ],
     "augmentSlots": [],
-    "setBonuses": [
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact bonus to Force Spellcrit Chance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+4%",
-            "effect": "Artifact bonus to Force Spellcrit Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact bonus to Force Spellcrit Chance"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Force Spellpower"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Force Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Force Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Magical Resistance Rating Cap"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Magical Resistance Rating Cap"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Magical Resistance Rating Cap"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
       "+5 Enhancement Bonus",
@@ -440,98 +357,6 @@
       "Impulse +84",
       "Illusion Focus +3",
       "The Desert's Biting Sands"
-    ],
-    "itemKey": "item:green_blade",
-    "setMembership": [
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 8,
-        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Force Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact bonus to Force Spellcrit Chance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+4%",
-                "effect": "Artifact bonus to Force Spellcrit Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact bonus to Force Spellcrit Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Force Spellpower"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Force Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Force Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Magical Resistance Rating Cap"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Magical Resistance Rating Cap"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Magical Resistance Rating Cap"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -547,13 +372,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Kukri",
@@ -568,13 +392,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kukri of the Fallen Age",
@@ -595,6 +418,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -602,9 +426,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:kukri_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kukri of the Golden Age",
@@ -625,6 +447,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -632,9 +455,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:kukri_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Kukri",
@@ -655,6 +476,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -662,9 +484,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Kukri",
@@ -685,6 +505,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -692,9 +513,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Kukri",
@@ -715,6 +534,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -722,9 +542,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Green Blade",
@@ -746,6 +564,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -754,9 +573,7 @@
       "Kinetic Lore +16%",
       "Impulse +111",
       "Illusion Focus +4"
-    ],
-    "itemKey": "item:epic_green_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Midnight Greetings",
@@ -779,6 +596,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -788,9 +606,7 @@
       "Assassinate +11",
       "Finesse +9",
       "Clever Strike"
-    ],
-    "itemKey": "item:epic_midnight_greetings",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Kukri",
@@ -811,6 +627,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -818,9 +635,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Kukri",
@@ -841,6 +656,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -848,9 +664,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Kukri",
@@ -868,13 +682,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Kukri",
@@ -889,14 +702,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Labrythine Edge",
@@ -916,13 +728,12 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon"
-    ],
-    "itemKey": "item:the_labrythine_edge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Kukri",
@@ -943,6 +754,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -950,9 +762,7 @@
       "Fiery 6",
       "Undead Bane 6",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:morninglord's_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Kukri",
@@ -973,6 +783,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -980,9 +791,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Kukri",
@@ -1003,6 +812,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1010,9 +820,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Kukri",
@@ -1033,6 +841,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1040,9 +849,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Hunter's Darkblade",
@@ -1067,6 +874,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -1076,9 +884,7 @@
       "Fetters of Unreality",
       "Insightful Nullification +74",
       "Quality Nullification +36"
-    ],
-    "itemKey": "item:the_hunter's_darkblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Kukri",
@@ -1096,14 +902,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Kukri",
@@ -1124,6 +929,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1131,9 +937,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Midnight Greetings",
@@ -1157,6 +961,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Paralysis"
     ],
@@ -1166,9 +971,7 @@
       "Utter Disintegration",
       "Assassinate +15",
       "Finesse +13"
-    ],
-    "itemKey": "item:legendary_midnight_greetings",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Blade",
@@ -1190,6 +993,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -1198,9 +1002,7 @@
       "Kinetic Lore +22%",
       "Impulse +151",
       "Illusion Focus +6"
-    ],
-    "itemKey": "item:legendary_green_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Kukri",
@@ -1223,16 +1025,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_kukri",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Kukri",
@@ -1255,16 +1077,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_kukri",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Kukri",
@@ -1287,6 +1129,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1294,9 +1137,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Kukri",
@@ -1320,6 +1161,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1329,9 +1171,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_kukri",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Kukri of the Fallen Age",
@@ -1354,6 +1194,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1361,9 +1202,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_kukri_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Kukri of the Golden Age",
@@ -1386,6 +1225,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1393,9 +1233,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_kukri_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Maw, the Dracolich's Bite",
@@ -1418,6 +1256,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Paralysis",
       "Legendary Armor-Piercing 5%"
@@ -1426,9 +1265,7 @@
       "+15 Enhancement Bonus",
       "Guardbreaking",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:maw,_the_dracolich's_bite",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kukri of the Undying Age",
@@ -1451,6 +1288,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1458,9 +1296,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:kukri_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Kukri",
@@ -1483,16 +1319,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_kukri",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Kukri",
@@ -1515,15 +1371,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_kukri",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

@@ -1,0 +1,1966 @@
+[
+  {
+    "name": "Oladren's Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Oladren%27s_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Keen",
+      "Cold Touch"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Keen",
+      "Cold Touch"
+    ],
+    "itemKey": "item:oladren's_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Ethereal Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Sworn Silver Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Crossbow (level 4)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Crushing 4"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Crushing 4"
+    ],
+    "itemKey": "item:spectral_great_crossbow_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Flamesalt Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Leverage",
+    "link": "https://ddowiki.com/page/Item:Leverage",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 7,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Lesser Human Bane",
+      "Heartseeker I",
+      "Frostbite",
+      "Insightful Sneak Attack Bonus +2",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Lesser Human Bane",
+      "Heartseeker I",
+      "Frostbite",
+      "Insightful Sneak Attack Bonus +2"
+    ],
+    "itemKey": "item:leverage",
+    "setMembership": []
+  },
+  {
+    "name": "Masthead",
+    "link": "https://ddowiki.com/page/Item:Masthead",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 7,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Cursespewing",
+      "Aligned",
+      "Ghost Touch",
+      "The Dread Isle's Curse",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Universal Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane bonus to Universal Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to Spell DCs",
+        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to Spell DCs"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "★+4 Profane bonus to Hit and Damage",
+        "effectRaw": "★+4 Profane bonus to Hit and Damage",
+        "tieredEffects": [
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane bonus to Hit and Damage"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Cursespewing",
+      "Aligned",
+      "Ghost Touch",
+      "The Dread Isle's Curse"
+    ],
+    "itemKey": "item:masthead",
+    "setMembership": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "minLevels": [
+          7,
+          31
+        ],
+        "availablePieces": 70,
+        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Universal Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane bonus to Universal Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to Spell DCs",
+            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to Spell DCs"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "★+4 Profane bonus to Hit and Damage",
+            "effectRaw": "★+4 Profane bonus to Hit and Damage",
+            "tieredEffects": [
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane bonus to Hit and Damage"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spectral Great Crossbow (level 8)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Vorpal",
+      "Crushing 6"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Vorpal",
+      "Crushing 6"
+    ],
+    "itemKey": "item:spectral_great_crossbow_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Calamitous Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1"
+    ],
+    "itemKey": "item:calamitous_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Warden's Hand Turret",
+    "link": "https://ddowiki.com/page/Item:Warden%27s_Hand_Turret",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Paralyzing",
+      "Manslayer",
+      "Lesser Boneshatter",
+      "Bludgeoning 2",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Paralyzing",
+      "Manslayer",
+      "Lesser Boneshatter",
+      "Bludgeoning 2"
+    ],
+    "itemKey": "item:warden's_hand_turret",
+    "setMembership": []
+  },
+  {
+    "name": "Barovian's Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Macabre Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Macabre_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Green Steel Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Crossbow (level 12)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Ghostbane 3",
+      "Evil Outsider Bane 3",
+      "Vorpal",
+      "Crushing 7"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Ghostbane 3",
+      "Evil Outsider Bane 3",
+      "Vorpal",
+      "Crushing 7"
+    ],
+    "itemKey": "item:spectral_great_crossbow_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Divine Artillery",
+    "link": "https://ddowiki.com/page/Item:Divine_Artillery",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Deception III",
+      "Eldritch III",
+      "Vorpal",
+      "Stealth Strike",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Deception III",
+      "Eldritch III",
+      "Vorpal",
+      "Stealth Strike",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:divine_artillery",
+    "setMembership": []
+  },
+  {
+    "name": "Great Crossbow of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Great_Crossbow_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:great_crossbow_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Great Crossbow of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Great_Crossbow_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:great_crossbow_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Rumbling Thunder",
+    "link": "https://ddowiki.com/page/Item:Rumbling_Thunder",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Reverberating 4",
+      "Jolting 9",
+      "Vorpal",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Reverberating 4",
+      "Jolting 9",
+      "Vorpal",
+      "Adamantine"
+    ],
+    "itemKey": "item:rumbling_thunder",
+    "setMembership": []
+  },
+  {
+    "name": "Syranian Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Syranian_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Crossbow (level 16)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 9"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 9"
+    ],
+    "itemKey": "item:spectral_great_crossbow_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Reliquary Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Reliquary Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Crossbow (level 20)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_20)",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 10"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 10"
+    ],
+    "itemKey": "item:spectral_great_crossbow_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sworn Silver Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ethereal Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Thunder-Forged Alloy Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Crossbow (level 24)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Ghostbane 5",
+      "Evil Outsider Bane 5",
+      "Greater Vorpal",
+      "Crushing 12"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Ghostbane 5",
+      "Evil Outsider Bane 5",
+      "Greater Vorpal",
+      "Crushing 12"
+    ],
+    "itemKey": "item:spectral_great_crossbow_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Leverage",
+    "link": "https://ddowiki.com/page/Item:Epic_Leverage",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Greater Human Bane",
+      "Heartseeker VI",
+      "Frostbite",
+      "Insightful Sneak Attack Bonus +6",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Greater Human Bane",
+      "Heartseeker VI",
+      "Frostbite",
+      "Insightful Sneak Attack Bonus +6"
+    ],
+    "itemKey": "item:epic_leverage",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Steel Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Divine Artillery",
+    "link": "https://ddowiki.com/page/Item:Epic_Divine_Artillery",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+12 Enhancement Bonus",
+      "Deception IX",
+      "Eldritch VI",
+      "Sovereign Vorpal",
+      "Stealth Strike",
+      "Flametouched Iron",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Deception IX",
+      "Eldritch VI",
+      "Sovereign Vorpal",
+      "Stealth Strike",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:epic_divine_artillery",
+    "setMembership": []
+  },
+  {
+    "name": "Volley, Arbalest of the Damned",
+    "link": "https://ddowiki.com/page/Item:Volley,_Arbalest_of_the_Damned",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Identity Crisis",
+      "Nightmares",
+      "Fetters of Unreality",
+      "Blunted Ammunition",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Identity Crisis",
+      "Nightmares",
+      "Fetters of Unreality",
+      "Blunted Ammunition"
+    ],
+    "itemKey": "item:volley,_arbalest_of_the_damned",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Great Crossbow (level 28)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Great_Crossbow_(level_28)",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+12 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 13"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 13"
+    ],
+    "itemKey": "item:spectral_great_crossbow_(level_28)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Rumbling Thunder",
+    "link": "https://ddowiki.com/page/Item:Legendary_Rumbling_Thunder",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Reverberating 6",
+      "Jolting 14",
+      "Sovereign Vorpal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Reverberating 6",
+      "Jolting 14",
+      "Sovereign Vorpal"
+    ],
+    "itemKey": "item:legendary_rumbling_thunder",
+    "setMembership": []
+  },
+  {
+    "name": "Morninglord's Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Nightmother's Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Syranian Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flamesalt Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Masthead",
+    "link": "https://ddowiki.com/page/Item:Legendary_Masthead",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Cursespewing",
+      "Aligned",
+      "Ghost Touch",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [
+      "Legendary Cursespewing"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Aligned",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:legendary_masthead",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Attuned Bone Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:attuned_bone_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shining Reliquary Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Defiled Reliquary Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Great Crossbow of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Great_Crossbow_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_great_crossbow_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Great Crossbow of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Great_Crossbow_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_great_crossbow_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Great Crossbow of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Great_Crossbow_of_the_Undying_Age",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:great_crossbow_of_the_undying_age",
+    "setMembership": []
+  },
+  {
+    "name": "Caustica, the Volley of Pain",
+    "link": "https://ddowiki.com/page/Item:Caustica,_the_Volley_of_Pain",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lingering Acidic Burn",
+      "Acid Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist",
+      "Exceptional Spell Focus Mastery +2",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Lingering Acidic Burn",
+      "Acid Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist",
+      "Exceptional Spell Focus Mastery +2"
+    ],
+    "itemKey": "item:caustica,_the_volley_of_pain",
+    "setMembership": []
+  },
+  {
+    "name": "Acrida, the Caustic Arbalest",
+    "link": "https://ddowiki.com/page/Item:Acrida,_the_Caustic_Arbalest",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Meltscale",
+      "Lingering Acidic Burn",
+      "Sovereign Vorpal",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Meltscale",
+      "Lingering Acidic Burn",
+      "Sovereign Vorpal",
+      "Sealed in Mist"
+    ],
+    "itemKey": "item:acrida,_the_caustic_arbalest",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Calamitous Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_calamitous_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Great Crossbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Great_Crossbow",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_great_crossbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Warden's Hand Turret",
+    "link": "https://ddowiki.com/page/Item:Legendary_Warden%27s_Hand_Turret",
+    "slot": "weapon",
+    "itemSubtype": "great_crossbow",
+    "handedness": "one_handed",
+    "category": "Great Crossbows",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Paralysis",
+      "Legendary Manslayer",
+      "Bonesplitter",
+      "Bludgeoning 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Paralysis",
+      "Legendary Manslayer"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Bonesplitter",
+      "Bludgeoning 7"
+    ],
+    "itemKey": "item:legendary_warden's_hand_turret",
+    "setMembership": []
+  }
+]

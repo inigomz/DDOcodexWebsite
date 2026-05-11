@@ -16,14 +16,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Fortitude Save +1",
       "Deception"
-    ],
-    "itemKey": "item:miasma's_fang",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dagger of Inquisition",
@@ -42,14 +41,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Ghostbane 1",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:dagger_of_inquisition",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bloodletter's Knife",
@@ -67,13 +65,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Slicing"
-    ],
-    "itemKey": "item:bloodletter's_knife",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rhakmel's Dagger",
@@ -90,12 +87,11 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus"
-    ],
-    "itemKey": "item:rhakmel's_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mutiny's Tooth",
@@ -113,13 +109,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Acid Touch"
-    ],
-    "itemKey": "item:mutiny's_tooth",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Intimidating Dagger of Acid",
@@ -135,14 +130,13 @@
       "Acid"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Intimidate +3",
       "Acid"
-    ],
-    "itemKey": "item:+1_intimidating_dagger_of_acid",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Dagger",
@@ -157,13 +151,12 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Dagger",
@@ -181,13 +174,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Dagger",
@@ -205,13 +197,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dagger of the Liturgist",
@@ -230,14 +221,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Vengeful",
       "Manslayer"
-    ],
-    "itemKey": "item:dagger_of_the_liturgist",
-    "setMembership": []
+    ]
   },
   {
     "name": "Goldcursed Dagger",
@@ -257,15 +247,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Goldcurse",
       "Entropic 2",
       "Wounding 1"
-    ],
-    "itemKey": "item:goldcursed_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sky Pirate's Dagger",
@@ -283,13 +272,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Keen"
-    ],
-    "itemKey": "item:sky_pirate's_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Phiarlan Spy Dagger",
@@ -309,15 +297,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Acidic 2",
       "Critical Weakening 1",
       "Deception +2"
-    ],
-    "itemKey": "item:phiarlan_spy_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamedagger",
@@ -333,14 +320,13 @@
       "Burning Hands — 3 Charges (Recharged/Day:1)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Burning Hands — 3 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:flamedagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ornamented Dagger (legacy) (level 4)",
@@ -363,6 +349,7 @@
       "Combustion +36 becomes Combustion +48"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -375,9 +362,7 @@
       "Glaciation +36 becomes Glaciation +48",
       "Upgradeable - Tier 3 Combustion +36 becomes Combustion +48",
       "Combustion +36 becomes Combustion +48"
-    ],
-    "itemKey": "item:ornamented_dagger_(legacy)_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Dagger (level 4)",
@@ -394,15 +379,14 @@
       "Crushing 4"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Ghostbane 2",
       "Evil Outsider Bane 2",
       "Crushing 4"
-    ],
-    "itemKey": "item:spectral_dagger_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flotsam (level 4)",
@@ -423,6 +407,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -430,9 +415,7 @@
       "Bludgeoning 2",
       "Corrosive Salt",
       "Undead Bane 2"
-    ],
-    "itemKey": "item:flotsam_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ornamented Dagger (level 4)",
@@ -454,6 +437,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +4",
@@ -462,9 +446,7 @@
       "Combustion +55",
       "Glaciation +55",
       "Magnetism +55"
-    ],
-    "itemKey": "item:ornamented_dagger_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Poniard of Pain",
@@ -485,6 +467,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -492,9 +475,7 @@
       "Aligned",
       "Maiming 2",
       "Freezing 4"
-    ],
-    "itemKey": "item:poniard_of_pain",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Dagger",
@@ -515,6 +496,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -522,9 +504,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Dagger",
@@ -545,6 +525,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -552,9 +533,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Whisperdoom's Fang",
@@ -572,13 +551,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Enfeebling"
-    ],
-    "itemKey": "item:whisperdoom's_fang",
-    "setMembership": []
+    ]
   },
   {
     "name": "Grievous Blade",
@@ -596,13 +574,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Puncturing"
-    ],
-    "itemKey": "item:grievous_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Onyxhorn",
@@ -619,12 +596,11 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus"
-    ],
-    "itemKey": "item:onyxhorn",
-    "setMembership": []
+    ]
   },
   {
     "name": "Obsidian Dagger",
@@ -644,15 +620,14 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +6",
       "+3 Enhancement Bonus",
       "Void Lore +9%",
       "Nullification +63"
-    ],
-    "itemKey": "item:obsidian_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cursed Shard",
@@ -673,6 +648,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -680,9 +656,7 @@
       "Weakening 1",
       "Polycurse",
       "Cold Iron"
-    ],
-    "itemKey": "item:cursed_shard",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dagger of the Deep Ones",
@@ -703,6 +677,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -710,9 +685,7 @@
       "Corrosive Salt",
       "Bleeding 2",
       "Maiming 2"
-    ],
-    "itemKey": "item:dagger_of_the_deep_ones",
-    "setMembership": []
+    ]
   },
   {
     "name": "Assassin's Kiss",
@@ -733,6 +706,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -740,9 +714,7 @@
       "Deception",
       "Greater Dispelling",
       "Assassinate +2"
-    ],
-    "itemKey": "item:assassin's_kiss",
-    "setMembership": []
+    ]
   },
   {
     "name": "Greenstone Dagger",
@@ -764,6 +736,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -772,9 +745,7 @@
       "Seeker +5",
       "Deception +3",
       "Crystal"
-    ],
-    "itemKey": "item:greenstone_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bottle o' Rum",
@@ -795,271 +766,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Universal Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane bonus to Universal Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to Spell DCs",
-        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to Spell DCs"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "★+4 Profane bonus to Hit and Damage",
-        "effectRaw": "★+4 Profane bonus to Hit and Damage",
-        "tieredEffects": [
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane bonus to Hit and Damage"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Vorpal",
       "Bleeding 2",
       "Tendon Slice +4",
       "The Dread Isle's Curse"
-    ],
-    "itemKey": "item:bottle_o'_rum",
-    "setMembership": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "minLevels": [
-          7,
-          31
-        ],
-        "availablePieces": 70,
-        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Universal Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane bonus to Universal Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to Spell DCs",
-            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to Spell DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "★+4 Profane bonus to Hit and Damage",
-            "effectRaw": "★+4 Profane bonus to Hit and Damage",
-            "tieredEffects": [
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane bonus to Hit and Damage"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1077,15 +791,14 @@
       "Acid"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Paralyzing",
       "Intimidate +3",
       "Acid"
-    ],
-    "itemKey": "item:+2_intimidating_dagger_of_paralyzing_acid",
-    "setMembership": []
+    ]
   },
   {
     "name": "Threnalian War Dagger",
@@ -1104,12 +817,11 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus"
-    ],
-    "itemKey": "item:threnalian_war_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tenebrous Stiletto",
@@ -1130,6 +842,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -1137,9 +850,7 @@
       "Deception",
       "Adamantine",
       "Hide +11"
-    ],
-    "itemKey": "item:tenebrous_stiletto",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sheridan's Wrack",
@@ -1157,13 +868,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Keen"
-    ],
-    "itemKey": "item:sheridan's_wrack",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ornamented Dagger (legacy) (level 8)",
@@ -1188,6 +898,7 @@
       "Potency +32 becomes Potency +36"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -1202,9 +913,7 @@
       "Combustion +48, Glaciation +48, Magnetism +48, Corrosion +48 becomes Potency +32",
       "Upgradeable - Tier 3 Potency +32 becomes Potency +36",
       "Potency +32 becomes Potency +36"
-    ],
-    "itemKey": "item:ornamented_dagger_(legacy)_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Dagger (level 8)",
@@ -1222,6 +931,7 @@
       "Crushing 6"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -1229,9 +939,7 @@
       "Evil Outsider Bane 2",
       "Vorpal",
       "Crushing 6"
-    ],
-    "itemKey": "item:spectral_dagger_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ornamented Dagger (level 8)",
@@ -1252,6 +960,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -1259,9 +968,7 @@
       "Fire Lore +10%",
       "Ice Lore +10%",
       "Lightning Lore +10%"
-    ],
-    "itemKey": "item:ornamented_dagger_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flotsam (level 8)",
@@ -1282,6 +989,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -1289,9 +997,7 @@
       "Bludgeoning 2",
       "Corrosive Salt",
       "Undead Bane 2"
-    ],
-    "itemKey": "item:flotsam_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightforge Stiletto",
@@ -1309,13 +1015,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Adamantine"
-    ],
-    "itemKey": "item:nightforge_stiletto",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Dagger",
@@ -1336,16 +1041,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_dagger",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Flint",
@@ -1369,95 +1089,8 @@
       "Orange",
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact bonus to Electric Spellcrit Chance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+4%",
-            "effect": "Artifact bonus to Electric Spellcrit Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact bonus to Electric Spellcrit Chance"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Electric Spellpower"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Electric Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Electric Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Magical Resistance Rating"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Magical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Magical Resistance Rating"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +10",
       "+5 Enhancement Bonus",
@@ -1465,98 +1098,6 @@
       "Shocking Blast 3",
       "Lightning Lore +11%",
       "Magnetism +77"
-    ],
-    "itemKey": "item:flint",
-    "setMembership": [
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 11,
-        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Electric Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact bonus to Electric Spellcrit Chance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+4%",
-                "effect": "Artifact bonus to Electric Spellcrit Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact bonus to Electric Spellcrit Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Electric Spellpower"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Electric Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Electric Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Magical Resistance Rating"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Magical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Magical Resistance Rating"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1581,124 +1122,8 @@
       "Purple",
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
-        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Poison Resistance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact Bonus to Poison Resistance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Poison Resistance"
-          }
-        ]
-      },
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
-        "effectRaw": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact bonus to Sneak Attack Dice"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Artifact bonus to Sneak Attack Dice"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact bonus to Sneak Attack Dice"
-          }
-        ]
-      },
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
-        "effectRaw": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Saving Throws"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Artifact Bonus to Saving Throws"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Saving Throws"
-          }
-        ]
-      },
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-        "effectRaw": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Dexterity and Constitution"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Artifact Bonus to Dexterity and Constitution"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Dexterity and Constitution"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Poison Blast 3",
@@ -1706,123 +1131,6 @@
       "Giant Bane 3",
       "Wounding 2",
       "Adamantine"
-    ],
-    "itemKey": "item:ancient_vulkoorim_dagger",
-    "setMembership": [
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 13,
-        "bonusRaw": "2 Pieces Equipped: ♦+10●+20★+30 Artifact Bonus to Poison Resistance ♦+1●+2★+3 Artifact bonus to Sneak Attack Dice ♦+1●+2★+3 Artifact Bonus to Saving Throws ♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
-            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Poison Resistance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact Bonus to Poison Resistance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Poison Resistance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
-            "effectRaw": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact bonus to Sneak Attack Dice"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Artifact bonus to Sneak Attack Dice"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact bonus to Sneak Attack Dice"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
-            "effectRaw": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Saving Throws"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Artifact Bonus to Saving Throws"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Saving Throws"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-            "effectRaw": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Dexterity and Constitution"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Artifact Bonus to Dexterity and Constitution"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Dexterity and Constitution"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1845,95 +1153,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "oasis_of_morality",
-        "setName": "Oasis of Morality",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
-        "effectRaw": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact Bonus to Positive Spellcrit Chance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+4%",
-            "effect": "Artifact Bonus to Positive Spellcrit Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact Bonus to Positive Spellcrit Chance"
-          }
-        ]
-      },
-      {
-        "setId": "oasis_of_morality",
-        "setName": "Oasis of Morality",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
-        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Positive Spellpower"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact Bonus to Positive Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Positive Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "oasis_of_morality",
-        "setName": "Oasis of Morality",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
-        "effectRaw": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Artifact Bonus to Fortification Bypass"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+10%",
-            "effect": "Artifact Bonus to Fortification Bypass"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Artifact Bonus to Fortification Bypass"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +10",
       "+5 Enhancement Bonus",
@@ -1941,98 +1162,6 @@
       "Sonic Blast 3",
       "Devotion +77",
       "Resonance +77"
-    ],
-    "itemKey": "item:bejeweled_letter_opener",
-    "setMembership": [
-      {
-        "setId": "oasis_of_morality",
-        "setName": "Oasis of Morality",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 8,
-        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance ♦+10●+20★+30 Artifact Bonus to Positive Spellpower ♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
-            "effectRaw": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact Bonus to Positive Spellcrit Chance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+4%",
-                "effect": "Artifact Bonus to Positive Spellcrit Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact Bonus to Positive Spellcrit Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
-            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Positive Spellpower"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact Bonus to Positive Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Positive Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
-            "effectRaw": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Artifact Bonus to Fortification Bypass"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+10%",
-                "effect": "Artifact Bonus to Fortification Bypass"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Artifact Bonus to Fortification Bypass"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -2054,6 +1183,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2061,9 +1191,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Dagger",
@@ -2084,6 +1212,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2091,9 +1220,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Dragon Dagger",
@@ -2114,6 +1241,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2121,9 +1249,7 @@
       "Screeching 7",
       "Paralyzing",
       "Dragon's Edge 3"
-    ],
-    "itemKey": "item:the_dragon_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Guardian of the Liturgy",
@@ -2142,14 +1268,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Bleed",
       "Heartseeker IV"
-    ],
-    "itemKey": "item:guardian_of_the_liturgy",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Dagger",
@@ -2164,13 +1289,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ornamented Dagger (legacy) (level 12)",
@@ -2192,6 +1316,7 @@
       "Potency +36 becomes Potency +44"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -2203,9 +1328,7 @@
       "Potency +36 becomes Potency +36",
       "Upgradeable - Tier 3 Potency +36 becomes Potency +44",
       "Potency +36 becomes Potency +44"
-    ],
-    "itemKey": "item:ornamented_dagger_(legacy)_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Dagger",
@@ -2220,13 +1343,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ornamented Dagger (level 12)",
@@ -2248,6 +1370,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2256,9 +1379,7 @@
       "Combustion +84",
       "Glaciation +84",
       "Magnetism +84"
-    ],
-    "itemKey": "item:ornamented_dagger_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Dagger (level 12)",
@@ -2276,6 +1397,7 @@
       "Crushing 7"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -2283,9 +1405,7 @@
       "Evil Outsider Bane 3",
       "Vorpal",
       "Crushing 7"
-    ],
-    "itemKey": "item:spectral_dagger_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flotsam (level 12)",
@@ -2306,6 +1426,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -2313,9 +1434,7 @@
       "Bludgeoning 3",
       "Corrosive Salt",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:flotsam_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dagger of the Fallen Age",
@@ -2336,6 +1455,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2343,9 +1463,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:dagger_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dagger of the Golden Age",
@@ -2366,6 +1484,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2373,9 +1492,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:dagger_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Skiver",
@@ -2396,6 +1513,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2403,9 +1521,7 @@
       "Spell Lore VI",
       "Efficient Metamagic - Extend I",
       "Efficient Metamagic - Empower II"
-    ],
-    "itemKey": "item:skiver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Polycurse Dagger",
@@ -2424,6 +1540,7 @@
       "Corrosive Salt"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2432,9 +1549,7 @@
       "Deception",
       "Curse Vector",
       "Corrosive Salt"
-    ],
-    "itemKey": "item:polycurse_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fell Shiv (level 14)",
@@ -2452,13 +1567,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Improved Vorpal"
-    ],
-    "itemKey": "item:fell_shiv_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Slice",
@@ -2481,77 +1595,9 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
-      "Slice 'n Dice Set",
-      {
-        "setId": "slice_n_dice",
-        "setName": "Slice 'n Dice",
-        "source": "named_item_sets",
-        "sourceSection": "The Devil's Gambit sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2 Quality bonus bonus to Seeker",
-        "effectRaw": "♦+1●+2 Quality bonus bonus to Seeker",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Quality bonus bonus to Seeker"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Quality bonus bonus to Seeker"
-          }
-        ]
-      },
-      {
-        "setId": "slice_n_dice",
-        "setName": "Slice 'n Dice",
-        "source": "named_item_sets",
-        "sourceSection": "The Devil's Gambit sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2 Quality bonus bonus to Sneak Attack",
-        "effectRaw": "♦+1●+2 Quality bonus bonus to Sneak Attack",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Quality bonus bonus to Sneak Attack"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Quality bonus bonus to Sneak Attack"
-          }
-        ]
-      },
-      {
-        "setId": "the_devil_s_handiwork",
-        "setName": "The Devil's Handiwork",
-        "source": "named_item_sets",
-        "sourceSection": "The Devil's Gambit sets",
-        "piecesRequired": 5,
-        "effect": "♦+2●+3 Quality bonus bonus to Ability stats",
-        "effectRaw": "♦+2●+3 Quality bonus bonus to Ability stats",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2",
-            "effect": "Quality bonus bonus to Ability stats"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+3",
-            "effect": "Quality bonus bonus to Ability stats"
-          }
-        ]
-      }
+      "Slice 'n Dice Set"
     ],
     "namedEffects": [
       "Phlebotomizing",
@@ -2560,94 +1606,6 @@
       "Destruction",
       "+5 Enhancement Bonus",
       "The Devil's Handiwork"
-    ],
-    "itemKey": "item:slice",
-    "setMembership": [
-      {
-        "setId": "slice_n_dice",
-        "setName": "Slice 'n Dice",
-        "source": "named_item_sets",
-        "sourceSection": "The Devil's Gambit sets",
-        "minLevels": [
-          14,
-          28
-        ],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: ♦+1●+2 Quality bonus bonus to Seeker ♦+1●+2 Quality bonus bonus to Sneak Attack",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2 Quality bonus bonus to Seeker",
-            "effectRaw": "♦+1●+2 Quality bonus bonus to Seeker",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Quality bonus bonus to Seeker"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Quality bonus bonus to Seeker"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2 Quality bonus bonus to Sneak Attack",
-            "effectRaw": "♦+1●+2 Quality bonus bonus to Sneak Attack",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Quality bonus bonus to Sneak Attack"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Quality bonus bonus to Sneak Attack"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "setId": "the_devil_s_handiwork",
-        "setName": "The Devil's Handiwork",
-        "source": "named_item_sets",
-        "sourceSection": "The Devil's Gambit sets",
-        "minLevels": [
-          14,
-          28
-        ],
-        "availablePieces": 8,
-        "bonusRaw": "5 Pieces Equipped: ♦+2●+3 Quality bonus bonus to Ability stats",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+2●+3 Quality bonus bonus to Ability stats",
-            "effectRaw": "♦+2●+3 Quality bonus bonus to Ability stats",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2",
-                "effect": "Quality bonus bonus to Ability stats"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+3",
-                "effect": "Quality bonus bonus to Ability stats"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -2671,77 +1629,9 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
-      "Slice 'n Dice Set",
-      {
-        "setId": "slice_n_dice",
-        "setName": "Slice 'n Dice",
-        "source": "named_item_sets",
-        "sourceSection": "The Devil's Gambit sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2 Quality bonus bonus to Seeker",
-        "effectRaw": "♦+1●+2 Quality bonus bonus to Seeker",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Quality bonus bonus to Seeker"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Quality bonus bonus to Seeker"
-          }
-        ]
-      },
-      {
-        "setId": "slice_n_dice",
-        "setName": "Slice 'n Dice",
-        "source": "named_item_sets",
-        "sourceSection": "The Devil's Gambit sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2 Quality bonus bonus to Sneak Attack",
-        "effectRaw": "♦+1●+2 Quality bonus bonus to Sneak Attack",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Quality bonus bonus to Sneak Attack"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Quality bonus bonus to Sneak Attack"
-          }
-        ]
-      },
-      {
-        "setId": "the_devil_s_handiwork",
-        "setName": "The Devil's Handiwork",
-        "source": "named_item_sets",
-        "sourceSection": "The Devil's Gambit sets",
-        "piecesRequired": 5,
-        "effect": "♦+2●+3 Quality bonus bonus to Ability stats",
-        "effectRaw": "♦+2●+3 Quality bonus bonus to Ability stats",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2",
-            "effect": "Quality bonus bonus to Ability stats"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+3",
-            "effect": "Quality bonus bonus to Ability stats"
-          }
-        ]
-      }
+      "Slice 'n Dice Set"
     ],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2750,94 +1640,6 @@
       "Insightful Sneak Attack Bonus +2",
       "Improved Vorpal",
       "The Devil's Handiwork"
-    ],
-    "itemKey": "item:dice",
-    "setMembership": [
-      {
-        "setId": "slice_n_dice",
-        "setName": "Slice 'n Dice",
-        "source": "named_item_sets",
-        "sourceSection": "The Devil's Gambit sets",
-        "minLevels": [
-          14,
-          28
-        ],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: ♦+1●+2 Quality bonus bonus to Seeker ♦+1●+2 Quality bonus bonus to Sneak Attack",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2 Quality bonus bonus to Seeker",
-            "effectRaw": "♦+1●+2 Quality bonus bonus to Seeker",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Quality bonus bonus to Seeker"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Quality bonus bonus to Seeker"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2 Quality bonus bonus to Sneak Attack",
-            "effectRaw": "♦+1●+2 Quality bonus bonus to Sneak Attack",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Quality bonus bonus to Sneak Attack"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Quality bonus bonus to Sneak Attack"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "setId": "the_devil_s_handiwork",
-        "setName": "The Devil's Handiwork",
-        "source": "named_item_sets",
-        "sourceSection": "The Devil's Gambit sets",
-        "minLevels": [
-          14,
-          28
-        ],
-        "availablePieces": 8,
-        "bonusRaw": "5 Pieces Equipped: ♦+2●+3 Quality bonus bonus to Ability stats",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+2●+3 Quality bonus bonus to Ability stats",
-            "effectRaw": "♦+2●+3 Quality bonus bonus to Ability stats",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2",
-                "effect": "Quality bonus bonus to Ability stats"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+3",
-                "effect": "Quality bonus bonus to Ability stats"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -2855,59 +1657,13 @@
       "Risk and Reward"
     ],
     "augmentSlots": [],
-    "setBonuses": [
-      {
-        "setId": "risk_and_reward",
-        "setName": "Risk and Reward",
-        "source": "named_item_sets",
-        "sourceSection": "Iconic Level 15 Reward set",
-        "piecesRequired": 2,
-        "effect": "Additional +0.5[W] damage dice.",
-        "effectRaw": "Additional +0.5[W] damage dice.",
-        "tieredEffects": []
-      },
-      {
-        "setId": "risk_and_reward",
-        "setName": "Risk and Reward",
-        "source": "named_item_sets",
-        "sourceSection": "Iconic Level 15 Reward set",
-        "piecesRequired": 2,
-        "effect": "A 5% chance on hit to Bluff your target for 4 seconds.",
-        "effectRaw": "A 5% chance on hit to Bluff your target for 4 seconds.",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Vicious",
       "Heartseeker III",
       "Risk and Reward"
-    ],
-    "itemKey": "item:risk",
-    "setMembership": [
-      {
-        "setId": "risk_and_reward",
-        "setName": "Risk and Reward",
-        "source": "named_item_sets",
-        "sourceSection": "Iconic Level 15 Reward set",
-        "minLevels": [],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: Additional +0.5[W] damage dice. A 5% chance on hit to Bluff your target for 4 seconds.",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "Additional +0.5[W] damage dice.",
-            "effectRaw": "Additional +0.5[W] damage dice.",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "A 5% chance on hit to Bluff your target for 4 seconds.",
-            "effectRaw": "A 5% chance on hit to Bluff your target for 4 seconds.",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -2925,59 +1681,13 @@
       "Risk and Reward"
     ],
     "augmentSlots": [],
-    "setBonuses": [
-      {
-        "setId": "risk_and_reward",
-        "setName": "Risk and Reward",
-        "source": "named_item_sets",
-        "sourceSection": "Iconic Level 15 Reward set",
-        "piecesRequired": 2,
-        "effect": "Additional +0.5[W] damage dice.",
-        "effectRaw": "Additional +0.5[W] damage dice.",
-        "tieredEffects": []
-      },
-      {
-        "setId": "risk_and_reward",
-        "setName": "Risk and Reward",
-        "source": "named_item_sets",
-        "sourceSection": "Iconic Level 15 Reward set",
-        "piecesRequired": 2,
-        "effect": "A 5% chance on hit to Bluff your target for 4 seconds.",
-        "effectRaw": "A 5% chance on hit to Bluff your target for 4 seconds.",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Vampirism",
       "Bloodletter III",
       "Risk and Reward"
-    ],
-    "itemKey": "item:reward",
-    "setMembership": [
-      {
-        "setId": "risk_and_reward",
-        "setName": "Risk and Reward",
-        "source": "named_item_sets",
-        "sourceSection": "Iconic Level 15 Reward set",
-        "minLevels": [],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: Additional +0.5[W] damage dice. A 5% chance on hit to Bluff your target for 4 seconds.",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "Additional +0.5[W] damage dice.",
-            "effectRaw": "Additional +0.5[W] damage dice.",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "A 5% chance on hit to Bluff your target for 4 seconds.",
-            "effectRaw": "A 5% chance on hit to Bluff your target for 4 seconds.",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -2996,13 +1706,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Improved Vorpal"
-    ],
-    "itemKey": "item:fell_shiv_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Deep Demise",
@@ -3023,6 +1732,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3030,9 +1740,7 @@
       "Illusion Focus +3",
       "Insightful Illusion Focus +2",
       "Quality Spell Penetration +2"
-    ],
-    "itemKey": "item:deep_demise",
-    "setMembership": []
+    ]
   },
   {
     "name": "Moonslice",
@@ -3053,6 +1761,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3060,9 +1769,7 @@
       "Chilling 4",
       "Vorpal",
       "Quality Deception +1"
-    ],
-    "itemKey": "item:moonslice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sunslice",
@@ -3083,6 +1790,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3090,9 +1798,7 @@
       "Fiery 4",
       "Banishing",
       "Insightful Deception +3"
-    ],
-    "itemKey": "item:sunslice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Dagger",
@@ -3113,6 +1819,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3120,9 +1827,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ornamented Dagger (legacy) (level 16)",
@@ -3145,6 +1850,7 @@
       "Adds Lightning Lore V"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -3157,9 +1863,7 @@
       "Adds Ice Lore V",
       "Upgradeable - Tier 3 Adds Lightning Lore V",
       "Adds Lightning Lore V"
-    ],
-    "itemKey": "item:ornamented_dagger_(legacy)_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fell Shiv (level 16)",
@@ -3177,13 +1881,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Improved Vorpal"
-    ],
-    "itemKey": "item:fell_shiv_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flotsam (level 16)",
@@ -3204,6 +1907,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3211,9 +1915,7 @@
       "Bludgeoning 4",
       "Corrosive Salt",
       "Undead Bane 4"
-    ],
-    "itemKey": "item:flotsam_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ornamented Dagger (level 16)",
@@ -3234,6 +1936,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3241,9 +1944,7 @@
       "Fire Lore +14%",
       "Ice Lore +14%",
       "Lightning Lore +14%"
-    ],
-    "itemKey": "item:ornamented_dagger_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Dagger (level 16)",
@@ -3261,6 +1962,7 @@
       "Crushing 9"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3268,9 +1970,7 @@
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 9"
-    ],
-    "itemKey": "item:spectral_dagger_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lamannian Hunting Dagger",
@@ -3293,6 +1993,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3302,9 +2003,7 @@
       "Humanoid Bane 4",
       "Doublestrike 9%",
       "Seeker +8"
-    ],
-    "itemKey": "item:lamannian_hunting_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Dagger",
@@ -3325,6 +2024,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3332,9 +2032,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Dagger",
@@ -3355,6 +2053,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3362,9 +2061,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Flint",
@@ -3387,6 +2084,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3396,9 +2094,7 @@
       "Lightning Lore +16%",
       "Magnetism +111",
       "Lightning Storm Guard"
-    ],
-    "itemKey": "item:epic_flint",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ancient Vulkoorim Dagger",
@@ -3422,6 +2118,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3430,9 +2127,7 @@
       "Giant Bane 4",
       "Wounding 2",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ancient_vulkoorim_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Phiarlan Spy Dagger",
@@ -3456,6 +2151,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3464,9 +2160,7 @@
       "Dusk",
       "Critical Weakening 2",
       "Improved Paralyzing"
-    ],
-    "itemKey": "item:epic_phiarlan_spy_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Bejeweled Letter Opener",
@@ -3489,6 +2183,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3498,9 +2193,7 @@
       "Devotion +111",
       "Resonance +111",
       "Efficient Metamagic - Empower Healing II"
-    ],
-    "itemKey": "item:epic_bejeweled_letter_opener",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ornamented Dagger (legacy) (level 20)",
@@ -3529,6 +2222,7 @@
     "augmentSlots": [
       "Adds Yellow"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
     ],
@@ -3545,9 +2239,7 @@
       "Upgradeable - Tier 3 Adds Yellow Augment Slot Potency +48 becomes Potency +52",
       "Yellow Augments: Standard augments provide bonuses to offensive stats, condition resistances and immunities, elemental resistances and DC spellcasting stats.",
       "Potency +48 becomes Potency +52"
-    ],
-    "itemKey": "item:epic_ornamented_dagger_(legacy)_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sacrificial Dagger",
@@ -3569,6 +2261,7 @@
       "Lesser Vampirism"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3580,9 +2273,7 @@
       "Negative Energy Spike",
       "Life Stealing",
       "Lesser Vampirism"
-    ],
-    "itemKey": "item:sacrificial_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Earthcarver Shard",
@@ -3601,6 +2292,7 @@
       "Acidic Reaping"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3609,9 +2301,7 @@
       "Aberration Bane",
       "Magical Beast Bane",
       "Acidic Reaping"
-    ],
-    "itemKey": "item:earthcarver_shard",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Dagger (level 20)",
@@ -3629,6 +2319,7 @@
       "Crushing 10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3636,9 +2327,7 @@
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 10"
-    ],
-    "itemKey": "item:spectral_dagger_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Flotsam (level 20)",
@@ -3659,6 +2348,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3666,9 +2356,7 @@
       "Bludgeoning 4",
       "Corrosive Salt",
       "Undead Bane 4"
-    ],
-    "itemKey": "item:epic_flotsam_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ornamented Dagger (level 20)",
@@ -3690,6 +2378,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3698,9 +2387,7 @@
       "Potency +73",
       "Spell Lore +8",
       "Lesser Maximize — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:epic_ornamented_dagger_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Dagger",
@@ -3721,6 +2408,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3728,9 +2416,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Dagger",
@@ -3751,6 +2437,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3758,9 +2445,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Goldcursed Dagger",
@@ -3783,6 +2468,7 @@
       "Red",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3790,9 +2476,7 @@
       "Entropic 4",
       "Wounding 2",
       "Destruction"
-    ],
-    "itemKey": "item:epic_goldcursed_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Blade of the High Priestess",
@@ -3812,6 +2496,7 @@
       "Slay Living"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3821,9 +2506,7 @@
       "Bewildering",
       "Wounding",
       "Slay Living"
-    ],
-    "itemKey": "item:blade_of_the_high_priestess",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drow Dagger of the Weapon Master",
@@ -3844,6 +2527,7 @@
       "Tendon Slice 10%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3854,9 +2538,7 @@
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:drow_dagger_of_the_weapon_master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Cursed Shard",
@@ -3877,6 +2559,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3884,9 +2567,7 @@
       "Weakening 2",
       "Polycurse",
       "Cold Iron"
-    ],
-    "itemKey": "item:epic_cursed_shard",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Dagger",
@@ -3904,13 +2585,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Agony, the Knife in the Dark",
@@ -3930,6 +2610,7 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -3939,9 +2620,7 @@
       "Disintegration",
       "Improved Deception",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:agony,_the_knife_in_the_dark",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Dagger of Inquisition",
@@ -3962,6 +2641,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3969,9 +2649,7 @@
       "Unnatural Bane 5",
       "Ghostbane 5",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:epic_dagger_of_inquisition",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ornamented Dagger (legacy) (level 24)",
@@ -4005,6 +2683,7 @@
       "Upgradeable - Tier 3 Potency +72 → Potency +76 Adds Orange",
       "Adds Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
     ],
@@ -4022,9 +2701,7 @@
       "Orange Augments: All Orange augments are named augments.",
       "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons.",
       "Yellow Augments: Standard augments provide bonuses to offensive stats, condition resistances and immunities, elemental resistances and DC spellcasting stats."
-    ],
-    "itemKey": "item:epic_ornamented_dagger_(legacy)_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Flotsam (level 24)",
@@ -4045,6 +2722,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -4052,9 +2730,7 @@
       "Bludgeoning 5",
       "Corrosive Salt",
       "Undead Bane 5"
-    ],
-    "itemKey": "item:epic_flotsam_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ornamented Dagger (level 24)",
@@ -4076,6 +2752,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +24",
@@ -4084,9 +2761,7 @@
       "Potency +84",
       "Spell Lore +10",
       "Lesser Maximize — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:epic_ornamented_dagger_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Dagger (level 24)",
@@ -4104,6 +2779,7 @@
       "Crushing 12"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -4111,9 +2787,7 @@
       "Evil Outsider Bane 5",
       "Greater Vorpal",
       "Crushing 12"
-    ],
-    "itemKey": "item:spectral_dagger_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fell Shiv (level 25)",
@@ -4154,6 +2828,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -4181,9 +2856,7 @@
       "Shatter +10",
       "Tendon Slice 10%",
       "Vertigo +10"
-    ],
-    "itemKey": "item:fell_shiv_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Obsidian Dagger",
@@ -4205,6 +2878,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +25",
@@ -4213,9 +2887,7 @@
       "Nullification +128",
       "Profane Lifeforce +39",
       "Quality Negative Amplification +12"
-    ],
-    "itemKey": "item:epic_obsidian_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fell Shiv (level 26)",
@@ -4256,6 +2928,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -4283,9 +2956,7 @@
       "Shatter +10",
       "Tendon Slice 10%",
       "Vertigo +10"
-    ],
-    "itemKey": "item:fell_shiv_(level_26)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Assassin's Kiss",
@@ -4306,6 +2977,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -4313,9 +2985,7 @@
       "Improved Deception",
       "Greater Dispelling",
       "Assassinate +6"
-    ],
-    "itemKey": "item:epic_assassin's_kiss",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Dagger",
@@ -4330,14 +3000,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fell Shiv (level 27)",
@@ -4378,6 +3047,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -4405,9 +3075,7 @@
       "Shatter +10",
       "Tendon Slice 10%",
       "Vertigo +10"
-    ],
-    "itemKey": "item:fell_shiv_(level_27)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Dagger of the Deep Ones",
@@ -4428,6 +3096,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4435,9 +3104,7 @@
       "Corrosive Salt",
       "Bleeding 6",
       "Maiming 6"
-    ],
-    "itemKey": "item:legendary_dagger_of_the_deep_ones",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Dice",
@@ -4458,6 +3125,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -4465,9 +3133,7 @@
       "Armor-Piercing 20%",
       "Insightful Sneak Attack Bonus +6",
       "Sovereign Vorpal"
-    ],
-    "itemKey": "item:epic_dice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Slice",
@@ -4490,6 +3156,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Epic Slice 'n Dice Set"
     ],
@@ -4500,9 +3167,7 @@
       "Improved Destruction",
       "+12 Enhancement Bonus",
       "Epic The Devil's Handiwork"
-    ],
-    "itemKey": "item:epic_slice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Deep Demise",
@@ -4523,6 +3188,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+13 Enhancement Bonus",
@@ -4530,9 +3196,7 @@
       "Illusion Focus +5",
       "Insightful Illusion Focus +3",
       "Quality Spell Penetration +2"
-    ],
-    "itemKey": "item:legendary_deep_demise",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pain, the Half of Whole",
@@ -4555,46 +3219,14 @@
       "Purple",
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "pain_and_suffering",
-        "setName": "Pain and Suffering",
-        "source": "named_item_sets",
-        "sourceSection": "Ravenloft sets",
-        "piecesRequired": 2,
-        "effect": "+0.5[W] to each of your Daggers",
-        "effectRaw": "+0.5[W] to each of your Daggers",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Fetters of Unreality",
       "Improved Deception",
       "Sovereign Vorpal",
       "Deception +11"
-    ],
-    "itemKey": "item:pain,_the_half_of_whole",
-    "setMembership": [
-      {
-        "setId": "pain_and_suffering",
-        "setName": "Pain and Suffering",
-        "source": "named_item_sets",
-        "sourceSection": "Ravenloft sets",
-        "minLevels": [
-          28
-        ],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: +0.5[W] to each of your Daggers",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "+0.5[W] to each of your Daggers",
-            "effectRaw": "+0.5[W] to each of your Daggers",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -4618,46 +3250,14 @@
       "Orange",
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "pain_and_suffering",
-        "setName": "Pain and Suffering",
-        "source": "named_item_sets",
-        "sourceSection": "Ravenloft sets",
-        "piecesRequired": 2,
-        "effect": "+0.5[W] to each of your Daggers",
-        "effectRaw": "+0.5[W] to each of your Daggers",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Piercing 6",
       "Constricting Nightmare",
       "Wounding 3",
       "Metalline"
-    ],
-    "itemKey": "item:suffering,_the_half_of_whole",
-    "setMembership": [
-      {
-        "setId": "pain_and_suffering",
-        "setName": "Pain and Suffering",
-        "source": "named_item_sets",
-        "sourceSection": "Ravenloft sets",
-        "minLevels": [
-          28
-        ],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: +0.5[W] to each of your Daggers",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "+0.5[W] to each of your Daggers",
-            "effectRaw": "+0.5[W] to each of your Daggers",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -4679,6 +3279,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -4686,9 +3287,7 @@
       "Bludgeoning 6",
       "Corrosive Salt",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:epic_flotsam_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ornamented Dagger (level 28)",
@@ -4710,6 +3309,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +28",
@@ -4718,9 +3318,7 @@
       "Potency +95",
       "Spell Lore +11",
       "Lesser Maximize — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:epic_ornamented_dagger_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Dagger (level 28)",
@@ -4738,6 +3336,7 @@
       "Crushing 13"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -4745,9 +3344,7 @@
       "Evil Outsider Bane 6",
       "Superior Vorpal",
       "Crushing 13"
-    ],
-    "itemKey": "item:spectral_dagger_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Moonslice",
@@ -4768,6 +3365,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4775,9 +3373,7 @@
       "Chilling 6",
       "Sovereign Vorpal",
       "Quality Deception +2"
-    ],
-    "itemKey": "item:legendary_moonslice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Sunslice",
@@ -4798,6 +3394,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4805,9 +3402,7 @@
       "Fiery 6",
       "Sovereign Banishing",
       "Insightful Deception +5"
-    ],
-    "itemKey": "item:legendary_sunslice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dull Dagger",
@@ -4830,6 +3425,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4837,9 +3433,7 @@
       "Cold Iron",
       "If equipped on a character with Follower of the Blood of Vol: Lesser Favor of the Lady Vol",
       "Lesser Favor of the Lady Vol"
-    ],
-    "itemKey": "item:dull_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Dagger of the Liturgist",
@@ -4860,6 +3454,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4867,9 +3462,7 @@
       "Enhanced Bloodrage",
       "Blood Rage",
       "Sovereign Vorpal"
-    ],
-    "itemKey": "item:legendary_dagger_of_the_liturgist",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Dagger",
@@ -4890,6 +3483,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4897,9 +3491,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Keeper of the Crimson Covenant",
@@ -4924,6 +3516,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "First Litany of the Crimson Covenant",
@@ -4933,9 +3526,7 @@
       "+15 Enhancement Bonus",
       "Keen",
       "Cold Iron"
-    ],
-    "itemKey": "item:keeper_of_the_crimson_covenant",
-    "setMembership": []
+    ]
   },
   {
     "name": "Raellia, the Frostblade",
@@ -4960,6 +3551,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Freezing Ice"
     ],
@@ -4970,9 +3562,7 @@
       "Chilling 6",
       "Icy Blast 6",
       "Improved Destruction"
-    ],
-    "itemKey": "item:raellia,_the_frostblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Dagger",
@@ -4993,6 +3583,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5000,9 +3591,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Dagger",
@@ -5023,6 +3612,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5030,9 +3620,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Dagger",
@@ -5053,6 +3641,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5060,9 +3649,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Dagger",
@@ -5083,6 +3670,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5090,9 +3678,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Greenstone Dagger",
@@ -5114,6 +3700,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Slay Living"
     ],
@@ -5123,9 +3710,7 @@
       "Seeker +13",
       "Deception +10",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_greenstone_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Dagger",
@@ -5143,14 +3728,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Phiarlan Spy Dagger",
@@ -5174,6 +3758,7 @@
       "Purple",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Paralysis"
     ],
@@ -5183,9 +3768,7 @@
       "Improved Deception +20",
       "Enhanced Ghostly",
       "Critical Weakening 3"
-    ],
-    "itemKey": "item:legendary_phiarlan_spy_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Goldcursed Dagger",
@@ -5209,6 +3792,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Goldcurse"
     ],
@@ -5218,9 +3802,7 @@
       "Wounding 3",
       "Improved Destruction",
       "The Golden Curse"
-    ],
-    "itemKey": "item:legendary_goldcursed_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ancient Vulkoorim Dagger",
@@ -5245,6 +3827,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vulkoor's Chosen"
     ],
@@ -5255,9 +3838,7 @@
       "Giant Bane 6",
       "Wounding 3",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_ancient_vulkoorim_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Bejeweled Letter Opener",
@@ -5281,6 +3862,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Oasis of Morality"
     ],
@@ -5292,9 +3874,7 @@
       "Devotion +146",
       "Resonance +146",
       "Efficient Metamagic - Empower Healing II"
-    ],
-    "itemKey": "item:legendary_bejeweled_letter_opener",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flint",
@@ -5318,6 +3898,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Lightningstorm Guard",
       "The Legendary Desert's Writhing Storm"
@@ -5329,9 +3910,7 @@
       "Shocking Blast 6",
       "Lightning Lore +21%",
       "Magnetism +146"
-    ],
-    "itemKey": "item:legendary_flint",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Bottle o' Rum",
@@ -5352,16 +3931,21 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Sovereign Vorpal",
       "Bleeding 6",
-      "Tendon Slice +11",
-      "Isle of Dread: Scale Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:legendary_bottle_o'_rum",
-    "setMembership": []
+      "Tendon Slice +11"
+    ]
   },
   {
     "name": "Dinosaur Bone Dagger",
@@ -5384,16 +3968,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_dagger",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Lamannian Hunting Dagger",
@@ -5418,6 +4022,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5427,9 +4032,7 @@
       "Humanoid Bane 6",
       "Doublestrike 15%",
       "Seeker +14"
-    ],
-    "itemKey": "item:legendary_lamannian_hunting_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Attuned Bone Dagger",
@@ -5452,16 +4055,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_dagger",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Flotsam (level 32)",
@@ -5482,6 +4105,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5489,9 +4113,7 @@
       "Bludgeoning 6",
       "Corrosive Salt",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:legendary_flotsam_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ornamented Dagger (level 32)",
@@ -5513,6 +4135,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -5521,9 +4144,7 @@
       "Potency +106",
       "Spell Lore +12",
       "Lesser Maximize — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:legendary_ornamented_dagger_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Dagger (level 32)",
@@ -5541,6 +4162,7 @@
       "Crushing 15"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5548,9 +4170,7 @@
       "Evil Outsider Bane 6",
       "Superior Vorpal",
       "Crushing 15"
-    ],
-    "itemKey": "item:spectral_dagger_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Dagger",
@@ -5573,6 +4193,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5580,9 +4201,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Dagger",
@@ -5606,6 +4225,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -5615,9 +4235,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Dagger of the Fallen Age",
@@ -5640,6 +4258,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5647,9 +4266,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_dagger_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Dagger of the Golden Age",
@@ -5672,6 +4289,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5679,9 +4297,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_dagger_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dagger of the Undying Age",
@@ -5704,6 +4320,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5711,9 +4328,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:dagger_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Poniard of Pain",
@@ -5736,6 +4351,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Freezing Ice"
     ],
@@ -5744,9 +4360,7 @@
       "Metalline",
       "Aligned",
       "Maiming 7"
-    ],
-    "itemKey": "item:legendary_poniard_of_pain",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Dagger",
@@ -5769,16 +4383,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_dagger",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Dagger",
@@ -5801,16 +4435,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_dagger",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary The Dragon Dagger",
@@ -5831,6 +4485,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Paralysis"
     ],
@@ -5839,8 +4494,6 @@
       "Reverberating 7",
       "Screeching 16",
       "Dragon's Edge 7"
-    ],
-    "itemKey": "item:legendary_the_dragon_dagger",
-    "setMembership": []
+    ]
   }
 ]

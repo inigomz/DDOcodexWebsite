@@ -13,14 +13,13 @@
       "Jump +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Bodyfeeder",
       "Swim +3",
       "Jump +3"
-    ],
-    "itemKey": "item:fintan's_bite",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nicked Scimitar",
@@ -37,15 +36,14 @@
       "Deadly +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Acidic 2",
       "Accuracy +5",
       "Deadly +3"
-    ],
-    "itemKey": "item:nicked_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Scimitar",
@@ -61,14 +59,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Scimitar",
@@ -86,13 +83,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Scimitar",
@@ -110,13 +106,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Brigand's Cutlass (legacy) (level 4)",
@@ -137,6 +132,7 @@
       "Adds True Chaos"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1 +1 Enhancement Bonus Intimidate +5 Anarchic",
@@ -147,9 +143,7 @@
       "+1 Enhancement Bonus → +2 Enhancement Bonus",
       "Upgradeable - Tier 3 Adds True Chaos",
       "Adds True Chaos"
-    ],
-    "itemKey": "item:brigand's_cutlass_(legacy)_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lacerator",
@@ -167,13 +161,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Bleed"
-    ],
-    "itemKey": "item:lacerator",
-    "setMembership": []
+    ]
   },
   {
     "name": "T'Korcha Family Scimitar",
@@ -191,13 +184,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Keen"
-    ],
-    "itemKey": "item:t'korcha_family_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kron'zek's Cruelty",
@@ -217,15 +209,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Electrifying 2",
       "Maiming 2",
       "Bleeding 2"
-    ],
-    "itemKey": "item:kron'zek's_cruelty",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Scimitar (level 4)",
@@ -241,14 +232,13 @@
       "Tidal"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Dragon Bane 2",
       "Tidal"
-    ],
-    "itemKey": "item:calomel_scimitar_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Brigand's Cutlass (level 4)",
@@ -269,6 +259,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -276,9 +267,7 @@
       "Vorpal",
       "Incite +38",
       "Intimidate +6"
-    ],
-    "itemKey": "item:brigand's_cutlass_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Scimitar",
@@ -299,6 +288,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -306,9 +296,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Scimitar",
@@ -329,6 +317,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -336,9 +325,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rusted Shamshir",
@@ -358,15 +345,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Lesser Aberration Bane",
       "Keen",
       "Cold Iron"
-    ],
-    "itemKey": "item:rusted_shamshir",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scoundrel's Cutlass",
@@ -385,14 +371,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Frost",
       "Anarchic"
-    ],
-    "itemKey": "item:scoundrel's_cutlass",
-    "setMembership": []
+    ]
   },
   {
     "name": "Leopard's Chill",
@@ -414,6 +399,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -422,9 +408,7 @@
       "Freezing Ice",
       "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 9 seconds)",
       "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice."
-    ],
-    "itemKey": "item:leopard's_chill",
-    "setMembership": []
+    ]
   },
   {
     "name": "Commodore Alaina's Cutlass",
@@ -446,140 +430,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Universal Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane bonus to Universal Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to Spell DCs",
-        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to Spell DCs"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "★+4 Profane bonus to Hit and Damage",
-        "effectRaw": "★+4 Profane bonus to Hit and Damage",
-        "tieredEffects": [
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane bonus to Hit and Damage"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Axiomatic Burst 2",
@@ -587,131 +439,6 @@
       "Riposte +2",
       "Dodge +5%",
       "The Dread Isle's Curse"
-    ],
-    "itemKey": "item:commodore_alaina's_cutlass",
-    "setMembership": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "minLevels": [
-          7,
-          31
-        ],
-        "availablePieces": 70,
-        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Universal Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane bonus to Universal Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to Spell DCs",
-            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to Spell DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "★+4 Profane bonus to Hit and Damage",
-            "effectRaw": "★+4 Profane bonus to Hit and Damage",
-            "tieredEffects": [
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane bonus to Hit and Damage"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -733,6 +460,7 @@
       "Adds True Chaos"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1 +2 Enhancement Bonus Intimidate +7 Anarchic",
@@ -743,9 +471,7 @@
       "+2 Enhancement Bonus → +3 Enhancement Bonus",
       "Upgradeable - Tier 3 Adds True Chaos",
       "Adds True Chaos"
-    ],
-    "itemKey": "item:brigand's_cutlass_(legacy)_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Scimitar (level 8)",
@@ -759,12 +485,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_scimitar_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Brigand's Cutlass (level 8)",
@@ -785,6 +510,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -792,9 +518,7 @@
       "Vorpal",
       "Incite +52",
       "Intimidate +10"
-    ],
-    "itemKey": "item:brigand's_cutlass_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Scimitar",
@@ -815,16 +539,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_scimitar",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Mirage",
@@ -845,139 +584,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "windlasher_s_ferocity",
-        "setName": "Windlasher's Ferocity",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
-        "effectRaw": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Artifact bonus to Doublestrike and Doubleshot"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+10%",
-            "effect": "Artifact bonus to Doublestrike and Doubleshot"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Artifact bonus to Doublestrike and Doubleshot"
-          }
-        ]
-      },
-      {
-        "setId": "windlasher_s_ferocity",
-        "setName": "Windlasher's Ferocity",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact bonus to Melee and Ranged Power"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Deception",
       "Ghost Touch",
       "Deception +4",
       "Seeker +6"
-    ],
-    "itemKey": "item:mirage",
-    "setMembership": [
-      {
-        "setId": "windlasher_s_ferocity",
-        "setName": "Windlasher's Ferocity",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 9,
-        "bonusRaw": "2 Pieces Equipped: ♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot ♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
-            "effectRaw": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Artifact bonus to Doublestrike and Doubleshot"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+10%",
-                "effect": "Artifact bonus to Doublestrike and Doubleshot"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Artifact bonus to Doublestrike and Doubleshot"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact bonus to Melee and Ranged Power"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -999,6 +613,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1006,9 +621,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Scimitar",
@@ -1029,6 +642,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1036,9 +650,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Royal Scimitar (historic)",
@@ -1054,14 +666,13 @@
       "Destruction"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Keen",
       "Destruction"
-    ],
-    "itemKey": "item:royal_scimitar_(historic)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Brigand's Cutlass (legacy) (level 12)",
@@ -1083,6 +694,7 @@
       "Adds True Chaos"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -1094,9 +706,7 @@
       "+3 Enhancement Bonus → +4 Enhancement Bonus",
       "Upgradeable - Tier 3 Adds True Chaos",
       "Adds True Chaos"
-    ],
-    "itemKey": "item:brigand's_cutlass_(legacy)_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Scimitar",
@@ -1111,13 +721,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Scimitar",
@@ -1132,13 +741,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Royal Scimitar (level 12)",
@@ -1154,14 +762,13 @@
       "Bloodletter II"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Destruction",
       "Bloodletter II"
-    ],
-    "itemKey": "item:royal_scimitar_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Scimitar (level 12)",
@@ -1175,12 +782,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_scimitar_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Brigand's Cutlass (level 12)",
@@ -1201,6 +807,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -1208,9 +815,7 @@
       "Vorpal",
       "Incite +65",
       "Intimidate +14"
-    ],
-    "itemKey": "item:brigand's_cutlass_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Royal Scimitar (level 13)",
@@ -1229,14 +834,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Destruction",
       "Bloodletter III"
-    ],
-    "itemKey": "item:royal_scimitar_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scimitar of the Fallen Age",
@@ -1257,6 +861,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1264,9 +869,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:scimitar_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scimitar of the Golden Age",
@@ -1287,6 +890,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1294,9 +898,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:scimitar_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Royal Scimitar (level 14)",
@@ -1315,14 +917,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Destruction",
       "Bloodletter III"
-    ],
-    "itemKey": "item:royal_scimitar_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Vulkoor's Edge",
@@ -1343,115 +944,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "wayward_warrior",
-        "setName": "Wayward Warrior",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 2,
-        "effect": "♦+2★+5 Artifact Bonus to Natural Armor",
-        "effectRaw": "♦+2★+5 Artifact Bonus to Natural Armor",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2",
-            "effect": "Artifact Bonus to Natural Armor"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+5",
-            "effect": "Artifact Bonus to Natural Armor"
-          }
-        ]
-      },
-      {
-        "setId": "wayward_warrior",
-        "setName": "Wayward Warrior",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 2,
-        "effect": "♦+1★+3 Artifact Bonus to Constitution",
-        "effectRaw": "♦+1★+3 Artifact Bonus to Constitution",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Constitution"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Constitution"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Poisonous 3",
       "Metalline",
       "Keen",
       "Vorpal"
-    ],
-    "itemKey": "item:vulkoor's_edge",
-    "setMembership": [
-      {
-        "setId": "wayward_warrior",
-        "setName": "Wayward Warrior",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "minLevels": [
-          14,
-          29
-        ],
-        "availablePieces": 4,
-        "bonusRaw": "2 Pieces Equipped: ♦+2★+5 Artifact Bonus to Natural Armor ♦+1★+3 Artifact Bonus to Constitution",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2★+5 Artifact Bonus to Natural Armor",
-            "effectRaw": "♦+2★+5 Artifact Bonus to Natural Armor",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2",
-                "effect": "Artifact Bonus to Natural Armor"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+5",
-                "effect": "Artifact Bonus to Natural Armor"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1★+3 Artifact Bonus to Constitution",
-            "effectRaw": "♦+1★+3 Artifact Bonus to Constitution",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Constitution"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Constitution"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1470,6 +970,7 @@
       "Combustion +78"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -1477,9 +978,7 @@
       "Flaming Burst",
       "Incineration",
       "Combustion +78"
-    ],
-    "itemKey": "item:swailing_blade_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Scimitar",
@@ -1500,6 +999,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1507,9 +1007,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Brigand's Cutlass (legacy) (level 16)",
@@ -1532,6 +1030,7 @@
       "Adds Absolute Chaos"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1 +4 Enhancement Bonus Intimidate +13 Anarchic Burst Vorpal Incite +15",
@@ -1544,9 +1043,7 @@
       "+4 Enhancement Bonus → +5 Enhancement Bonus",
       "Upgradeable - Tier 3 Adds Absolute Chaos",
       "Adds Absolute Chaos"
-    ],
-    "itemKey": "item:brigand's_cutlass_(legacy)_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fang of Siberys",
@@ -1563,15 +1060,14 @@
       "Pure Good"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Peals of Thunder",
       "Cloudburst",
       "Pure Good"
-    ],
-    "itemKey": "item:fang_of_siberys",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swailing Blade (level 16)",
@@ -1589,6 +1085,7 @@
       "Combustion +78"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -1596,9 +1093,7 @@
       "Flaming Burst",
       "Incineration",
       "Combustion +78"
-    ],
-    "itemKey": "item:swailing_blade_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cruel Nobility",
@@ -1616,6 +1111,7 @@
       "Disintegration"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1623,9 +1119,7 @@
       "Evil Blast 4",
       "Bleeding 4",
       "Disintegration"
-    ],
-    "itemKey": "item:cruel_nobility",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Scimitar (level 16)",
@@ -1639,12 +1133,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_scimitar_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Brigand's Cutlass (level 16)",
@@ -1665,6 +1158,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1672,9 +1166,7 @@
       "Improved Vorpal",
       "Incite +78",
       "Intimidate +16"
-    ],
-    "itemKey": "item:brigand's_cutlass_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swailing Blade (level 17)",
@@ -1692,6 +1184,7 @@
       "Combustion +84"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -1699,9 +1192,7 @@
       "Blazing",
       "Incineration",
       "Combustion +84"
-    ],
-    "itemKey": "item:swailing_blade_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Frostbite Blade (level 17)",
@@ -1720,14 +1211,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Frost IV",
       "Frostbite"
-    ],
-    "itemKey": "item:frostbite_blade_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Frostbite Blade (level 18)",
@@ -1746,14 +1236,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Frost V",
       "Frostbite"
-    ],
-    "itemKey": "item:frostbite_blade_(level_18)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Scimitar",
@@ -1774,6 +1263,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1781,9 +1271,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Scimitar",
@@ -1804,6 +1292,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1811,9 +1300,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Frostbite Blade (level 19)",
@@ -1832,14 +1319,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Frost V",
       "Frostbite"
-    ],
-    "itemKey": "item:frostbite_blade_(level_19)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Mirage",
@@ -1861,6 +1347,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1869,9 +1356,7 @@
       "Deception +7",
       "Seeker +9",
       "Improved Cursespewing"
-    ],
-    "itemKey": "item:epic_mirage",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Calomel Scimitar",
@@ -1885,12 +1370,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_calomel_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Kron'zek's Cruelty",
@@ -1914,6 +1398,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1922,9 +1407,7 @@
       "Maiming 4",
       "Keen",
       "Improved Destruction"
-    ],
-    "itemKey": "item:epic_kron'zek's_cruelty",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Brigand's Cutlass (legacy) (level 20)",
@@ -1954,6 +1437,7 @@
       "Upgradeable - Tier 3 Adds Absolute Chaos Adds Red",
       "Adds Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
     ],
@@ -1969,9 +1453,7 @@
       "Incite +15 → Incite +20",
       "Adds Absolute Chaos",
       "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons."
-    ],
-    "itemKey": "item:epic_brigand's_cutlass_(legacy)_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Cruel Nobility",
@@ -1992,6 +1474,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1999,9 +1482,7 @@
       "Evil Blast 4",
       "Bleeding 4",
       "Disintegration"
-    ],
-    "itemKey": "item:epic_cruel_nobility",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Brigand's Cutlass (level 20)",
@@ -2022,6 +1503,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2029,9 +1511,7 @@
       "Improved Vorpal",
       "Incite +91",
       "Intimidate +17"
-    ],
-    "itemKey": "item:epic_brigand's_cutlass_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Scimitar",
@@ -2052,6 +1532,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2059,9 +1540,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Scimitar",
@@ -2082,6 +1561,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2089,9 +1569,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drow Scimitar of the Weapon Master",
@@ -2112,6 +1590,7 @@
       "Tendon Slice 10%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2122,9 +1601,7 @@
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:drow_scimitar_of_the_weapon_master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swailing Blade (level 22)",
@@ -2142,6 +1619,7 @@
       "Combustion +102"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -2149,9 +1627,7 @@
       "Blazing",
       "Incineration",
       "Combustion +102"
-    ],
-    "itemKey": "item:swailing_blade_(level_22)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Scimitar",
@@ -2169,13 +1645,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swailing Blade (level 23)",
@@ -2193,6 +1668,7 @@
       "Combustion +108"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -2200,9 +1676,7 @@
       "Blazing",
       "Incineration",
       "Combustion +108"
-    ],
-    "itemKey": "item:swailing_blade_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Royal Scimitar (level 23)",
@@ -2221,14 +1695,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Improved Destruction",
       "Bloodletter V"
-    ],
-    "itemKey": "item:royal_scimitar_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swailing Blade (level 24)",
@@ -2246,6 +1719,7 @@
       "Combustion +114"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +21",
@@ -2253,9 +1727,7 @@
       "Conflagrating",
       "Greater Incineration",
       "Combustion +114"
-    ],
-    "itemKey": "item:swailing_blade_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Royal Scimitar (level 24)",
@@ -2274,14 +1746,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Improved Destruction",
       "Bloodletter VI"
-    ],
-    "itemKey": "item:royal_scimitar_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Brigand's Cutlass (legacy) (level 24)",
@@ -2311,6 +1782,7 @@
       "Upgradeable - Tier 3 Adds Absolute Chaos Adds Red",
       "Adds Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
     ],
@@ -2326,9 +1798,7 @@
       "Incite +20 → Incite +30",
       "Adds Absolute Chaos",
       "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons."
-    ],
-    "itemKey": "item:epic_brigand's_cutlass_(legacy)_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Brigand's Cutlass (level 24)",
@@ -2349,6 +1819,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -2356,9 +1827,7 @@
       "Greater Vorpal",
       "Incite +104",
       "Intimidate +18"
-    ],
-    "itemKey": "item:epic_brigand's_cutlass_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Royal Scimitar (level 25)",
@@ -2377,14 +1846,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Improved Destruction",
       "Bloodletter VI"
-    ],
-    "itemKey": "item:royal_scimitar_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Leopard's Chill",
@@ -2406,6 +1874,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -2414,9 +1883,7 @@
       "Epic Freezing Ice",
       "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 9 seconds)",
       "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice."
-    ],
-    "itemKey": "item:epic_leopard's_chill",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Scimitar",
@@ -2431,14 +1898,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Frostbite Blade (level 26)",
@@ -2459,14 +1925,13 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Frost VII",
       "Frostbite"
-    ],
-    "itemKey": "item:frostbite_blade_(level_26)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Frostbite Blade (level 27)",
@@ -2487,14 +1952,13 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Frost VIII",
       "Frostbite"
-    ],
-    "itemKey": "item:frostbite_blade_(level_27)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Frostbite Blade (level 28)",
@@ -2515,14 +1979,13 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Frost VIII",
       "Frostbite"
-    ],
-    "itemKey": "item:frostbite_blade_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Brigand's Cutlass (level 28)",
@@ -2543,6 +2006,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -2550,9 +2014,7 @@
       "Greater Vorpal",
       "Incite +117",
       "Intimidate +19"
-    ],
-    "itemKey": "item:epic_brigand's_cutlass_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightshard",
@@ -2575,6 +2037,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2582,9 +2045,7 @@
       "Keen",
       "Utter Disintegration",
       "Byeshk"
-    ],
-    "itemKey": "item:nightshard",
-    "setMembership": []
+    ]
   },
   {
     "name": "Reflection of The Frostblade",
@@ -2607,6 +2068,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Freezing Ice"
     ],
@@ -2615,9 +2077,7 @@
       "Chilling 6",
       "Evil Outsider Bane 6",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:reflection_of_the_frostblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Vulkoor's Edge",
@@ -2638,6 +2098,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2645,9 +2106,7 @@
       "Metalline",
       "Keen",
       "Sovereign Vorpal"
-    ],
-    "itemKey": "item:legendary_vulkoor's_edge",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Fractured Elegance",
@@ -2667,13 +2126,12 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Nearly FinishedPurple Augment Slot Sovereign VorpalCompleted Weapon"
-    ],
-    "itemKey": "item:the_fractured_elegance",
-    "setMembership": []
+    ]
   },
   {
     "name": "Valorius, the Flameblade",
@@ -2698,6 +2156,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Blinding Embers"
     ],
@@ -2708,9 +2167,7 @@
       "Fiery 6",
       "Flaming Blast 6",
       "Overwhelming Incineration"
-    ],
-    "itemKey": "item:valorius,_the_flameblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Scimitar",
@@ -2731,6 +2188,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2738,9 +2196,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Scimitar",
@@ -2761,6 +2217,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2768,9 +2225,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Scimitar",
@@ -2791,6 +2246,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2798,9 +2254,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Scimitar",
@@ -2821,6 +2275,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2828,9 +2283,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Scimitar",
@@ -2848,14 +2301,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Scimitar",
@@ -2876,6 +2328,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2883,9 +2336,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Cruel Nobility",
@@ -2906,6 +2357,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2913,9 +2365,7 @@
       "Evil Blast 6",
       "Bleeding 6",
       "Utter Disintegration"
-    ],
-    "itemKey": "item:legendary_cruel_nobility",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Kron'zek's Cruelty",
@@ -2939,6 +2389,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Electric Storm"
     ],
@@ -2948,9 +2399,7 @@
       "Maiming 6",
       "Keen",
       "Improved Destruction"
-    ],
-    "itemKey": "item:legendary_kron'zek's_cruelty",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Mirage",
@@ -2974,6 +2423,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Cursespewing"
     ],
@@ -2983,9 +2433,7 @@
       "Enhanced Ghostly",
       "Deception +11",
       "Seeker +13"
-    ],
-    "itemKey": "item:legendary_mirage",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Commodore Alaina's Cutlass",
@@ -3007,17 +2455,22 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Axiomatic Burst 6",
       "Shocking Blast 6",
       "Riposte +6",
-      "Dodge +14%",
-      "Isle of Dread: Scale Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:legendary_commodore_alaina's_cutlass",
-    "setMembership": []
+      "Dodge +14%"
+    ]
   },
   {
     "name": "Dinosaur Bone Scimitar",
@@ -3040,16 +2493,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_scimitar",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Scimitar",
@@ -3072,16 +2545,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_scimitar",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Brigand's Cutlass (level 32)",
@@ -3102,6 +2595,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3109,9 +2603,7 @@
       "Greater Vorpal",
       "Incite +130",
       "Intimidate +21"
-    ],
-    "itemKey": "item:legendary_brigand's_cutlass_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Scimitar",
@@ -3134,6 +2626,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3141,9 +2634,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Scimitar",
@@ -3167,6 +2658,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -3176,9 +2668,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_scimitar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Scimitar of the Fallen Age",
@@ -3201,6 +2691,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3208,9 +2699,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_scimitar_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Scimitar of the Golden Age",
@@ -3233,6 +2722,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3240,9 +2730,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_scimitar_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kindling, the Twin Flames of the City",
@@ -3265,44 +2753,14 @@
       "Orange",
       "Purple"
     ],
-    "setBonuses": [
-      {
-        "setId": "last_line_of_defense",
-        "setName": "Last Line of Defense",
-        "source": "named_item_sets",
-        "sourceSection": "Magic of Myth Drannor set",
-        "piecesRequired": 2,
-        "effect": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-        "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Flamescale",
       "Dripping with Magma",
       "Overwhelming Incineration",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:kindling,_the_twin_flames_of_the_city",
-    "setMembership": [
-      {
-        "setId": "last_line_of_defense",
-        "setName": "Last Line of Defense",
-        "source": "named_item_sets",
-        "sourceSection": "Magic of Myth Drannor set",
-        "minLevels": [],
-        "availablePieces": 1,
-        "bonusRaw": "2 Pieces Equipped: +1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-            "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -3326,6 +2784,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3333,9 +2792,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:scimitar_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Scimitar",
@@ -3358,16 +2815,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_scimitar",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Scimitar",
@@ -3390,15 +2867,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_scimitar",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

@@ -15,13 +15,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Warhammer",
@@ -39,13 +38,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Warhammer (level 4)",
@@ -61,14 +59,13 @@
       "Undead Bane 2"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Righteous",
       "Undead Bane 2"
-    ],
-    "itemKey": "item:mournlode_warhammer_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Warhammer (level 4)",
@@ -85,15 +82,14 @@
       "Crushing 4"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Ghostbane 2",
       "Evil Outsider Bane 2",
       "Crushing 4"
-    ],
-    "itemKey": "item:spectral_warhammer_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hull-Wrecker's Hammer (level 4)",
@@ -113,15 +109,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Bludgeoning 2",
       "Construct Bane 2",
       "Destruction"
-    ],
-    "itemKey": "item:hull-wrecker's_hammer_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Squid Smasher",
@@ -142,14 +137,13 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Doublestrike 4%",
       "Righteous"
-    ],
-    "itemKey": "item:squid_smasher",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Warhammer",
@@ -170,6 +164,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -177,9 +172,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Warhammer",
@@ -200,6 +193,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -207,9 +201,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ol' Reliable",
@@ -230,271 +222,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Universal Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane bonus to Universal Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to Spell DCs",
-        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to Spell DCs"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "★+4 Profane bonus to Hit and Damage",
-        "effectRaw": "★+4 Profane bonus to Hit and Damage",
-        "tieredEffects": [
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane bonus to Hit and Damage"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Force Blast 2",
       "Aligned",
       "Melee Alacrity 5%",
       "Human Bane 2"
-    ],
-    "itemKey": "item:ol'_reliable",
-    "setMembership": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "minLevels": [
-          7,
-          31
-        ],
-        "availablePieces": 70,
-        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Universal Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane bonus to Universal Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to Spell DCs",
-            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to Spell DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "★+4 Profane bonus to Hit and Damage",
-            "effectRaw": "★+4 Profane bonus to Hit and Damage",
-            "tieredEffects": [
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane bonus to Hit and Damage"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -513,13 +248,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Adamantine"
-    ],
-    "itemKey": "item:nightforge_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Jeweled Hammer",
@@ -538,14 +272,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Command +2",
       "Impact"
-    ],
-    "itemKey": "item:jeweled_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Warhammer (level 8)",
@@ -559,12 +292,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_warhammer_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hull-Wrecker's Hammer (level 8)",
@@ -584,15 +316,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Bludgeoning 2",
       "Construct Bane 2",
       "Destruction"
-    ],
-    "itemKey": "item:hull-wrecker's_hammer_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Warhammer (level 8)",
@@ -610,6 +341,7 @@
       "Crushing 6"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -617,9 +349,7 @@
       "Evil Outsider Bane 2",
       "Vorpal",
       "Crushing 6"
-    ],
-    "itemKey": "item:spectral_warhammer_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Warhammer",
@@ -640,16 +370,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_warhammer",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Echo of Whelm",
@@ -672,6 +417,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -679,9 +425,7 @@
       "Blunt Trauma",
       "Lesser Boneshatter",
       "Giant Bane 3"
-    ],
-    "itemKey": "item:echo_of_whelm",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Warhammer",
@@ -702,6 +446,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -709,9 +454,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Warhammer",
@@ -732,6 +475,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -739,9 +483,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Warhammer",
@@ -756,13 +498,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hammer of the Leaden Clouds (historic)",
@@ -781,6 +522,7 @@
       "Stunning +8"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -789,9 +531,7 @@
       "Thundering",
       "Resonance +66",
       "Stunning +8"
-    ],
-    "itemKey": "item:hammer_of_the_leaden_clouds_(historic)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Warhammer",
@@ -806,13 +546,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hammer of the Leaden Clouds (level 12)",
@@ -831,6 +570,7 @@
       "Stunning +8"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -839,9 +579,7 @@
       "Resonance +66",
       "Thundering",
       "Stunning +8"
-    ],
-    "itemKey": "item:hammer_of_the_leaden_clouds_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Warhammer (level 12)",
@@ -855,12 +593,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_warhammer_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Warhammer (level 12)",
@@ -878,6 +615,7 @@
       "Crushing 7"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -885,9 +623,7 @@
       "Evil Outsider Bane 3",
       "Vorpal",
       "Crushing 7"
-    ],
-    "itemKey": "item:spectral_warhammer_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hull-Wrecker's Hammer (level 12)",
@@ -907,15 +643,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Bludgeoning 3",
       "Construct Bane 3",
       "Destruction"
-    ],
-    "itemKey": "item:hull-wrecker's_hammer_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hammer of the Leaden Clouds (level 13)",
@@ -934,6 +669,7 @@
       "Stunning +10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -942,9 +678,7 @@
       "Resonance +66",
       "Thundering",
       "Stunning +10"
-    ],
-    "itemKey": "item:hammer_of_the_leaden_clouds_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Warhammer of the Fallen Age",
@@ -965,6 +699,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -972,9 +707,7 @@
       "Anarchic 3",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:warhammer_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Warhammer of the Golden Age",
@@ -995,6 +728,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1002,9 +736,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:warhammer_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hammer of the Leaden Clouds (level 14)",
@@ -1023,6 +755,7 @@
       "Stunning +10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -1031,9 +764,7 @@
       "Resonance +72",
       "Shrieking",
       "Stunning +10"
-    ],
-    "itemKey": "item:hammer_of_the_leaden_clouds_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Stormreach Guardian's Hammer",
@@ -1054,131 +785,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "renegade_champion",
-        "setName": "Renegade Champion",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 3,
-        "effect": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
-        "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
-        "tieredEffects": []
-      },
-      {
-        "setId": "renegade_champion",
-        "setName": "Renegade Champion",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 3,
-        "effect": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
-        "effectRaw": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2",
-            "effect": "Artifact Bonus to Rune Arm DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Rune Arm DCs"
-          }
-        ]
-      },
-      {
-        "setId": "renegade_champion",
-        "setName": "Renegade Champion",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+30 Artifact Bonus to Repair Amplification",
-        "effectRaw": "♦+10★+30 Artifact Bonus to Repair Amplification",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Repair Amplification"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Repair Amplification"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Chilling 3",
       "Crushing 8",
       "Ghost Touch",
       "Shockwave"
-    ],
-    "itemKey": "item:stormreach_guardian's_hammer",
-    "setMembership": [
-      {
-        "setId": "renegade_champion",
-        "setName": "Renegade Champion",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "minLevels": [
-          14,
-          29
-        ],
-        "availablePieces": 5,
-        "bonusRaw": "3 Pieces Equipped: +1 Artifact Bonus to Critical Multiplier on a 19-20 ♦+2★+3 Artifact Bonus to Rune Arm DCs ♦+10★+30 Artifact Bonus to Repair Amplification",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
-            "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
-            "effectRaw": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2",
-                "effect": "Artifact Bonus to Rune Arm DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Rune Arm DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+30 Artifact Bonus to Repair Amplification",
-            "effectRaw": "♦+10★+30 Artifact Bonus to Repair Amplification",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Repair Amplification"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Repair Amplification"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1201,6 +815,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1209,9 +824,7 @@
       "Improved Smiting",
       "Improved Disruption",
       "Anchoring"
-    ],
-    "itemKey": "item:the_banhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forge",
@@ -1232,6 +845,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1239,9 +853,7 @@
       "Flaming 9",
       "Jolting 9",
       "Seeker +8"
-    ],
-    "itemKey": "item:forge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Warhammer",
@@ -1262,6 +874,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1269,9 +882,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Earthshatter Warhammer",
@@ -1290,6 +901,7 @@
       "Unwieldy"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1298,9 +910,7 @@
       "Rock Shattering",
       "Maiming",
       "Unwieldy"
-    ],
-    "itemKey": "item:earthshatter_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Warhammer (level 16)",
@@ -1314,12 +924,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_warhammer_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Warhammer (level 16)",
@@ -1337,6 +946,7 @@
       "Crushing 9"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1344,9 +954,7 @@
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 9"
-    ],
-    "itemKey": "item:spectral_warhammer_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hull-Wrecker's Hammer (level 16)",
@@ -1366,15 +974,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Bludgeoning 4",
       "Construct Bane 4",
       "Destruction"
-    ],
-    "itemKey": "item:hull-wrecker's_hammer_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Warhammer",
@@ -1395,6 +1002,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1402,9 +1010,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Warhammer",
@@ -1425,6 +1031,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1432,9 +1039,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Mournlode Warhammer",
@@ -1448,12 +1053,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_mournlode_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Warhammer (level 20)",
@@ -1471,6 +1075,7 @@
       "Crushing 10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1478,9 +1083,7 @@
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 10"
-    ],
-    "itemKey": "item:spectral_warhammer_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Hull-Wrecker's Hammer (level 20)",
@@ -1500,15 +1103,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Bludgeoning 4",
       "Construct Bane 4",
       "Improved Destruction"
-    ],
-    "itemKey": "item:epic_hull-wrecker's_hammer_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Warhammer",
@@ -1529,6 +1131,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1536,9 +1139,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Warhammer",
@@ -1559,6 +1160,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1566,9 +1168,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drow Warhammer of the Weapon Master",
@@ -1589,6 +1189,7 @@
       "Tendon Slice 10%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1599,9 +1200,7 @@
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:drow_warhammer_of_the_weapon_master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Warhammer",
@@ -1619,13 +1218,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mornh, Hammer of the Mountains",
@@ -1645,6 +1243,7 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1654,9 +1253,7 @@
       "Seeker +10",
       "Adamantine",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:mornh,_hammer_of_the_mountains",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hammer of the Leaden Clouds (level 23)",
@@ -1675,6 +1272,7 @@
       "Stunning +10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -1683,9 +1281,7 @@
       "Resonance +108",
       "Shrieking",
       "Stunning +10"
-    ],
-    "itemKey": "item:hammer_of_the_leaden_clouds_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hammer of the Leaden Clouds (level 24)",
@@ -1704,6 +1300,7 @@
       "Stunning +10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +21",
@@ -1712,9 +1309,7 @@
       "Resonance +114",
       "Shrieking",
       "Stunning +10"
-    ],
-    "itemKey": "item:hammer_of_the_leaden_clouds_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Warhammer (level 24)",
@@ -1732,6 +1327,7 @@
       "Crushing 12"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1739,9 +1335,7 @@
       "Evil Outsider Bane 5",
       "Greater Vorpal",
       "Crushing 12"
-    ],
-    "itemKey": "item:spectral_warhammer_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Hull-Wrecker's Hammer (level 24)",
@@ -1761,15 +1355,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Bludgeoning 5",
       "Construct Bane 5",
       "Improved Destruction"
-    ],
-    "itemKey": "item:epic_hull-wrecker's_hammer_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hammer of the Leaden Clouds (level 25)",
@@ -1788,6 +1381,7 @@
       "Stunning +10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +21",
@@ -1796,9 +1390,7 @@
       "Resonance +120",
       "Wailing",
       "Stunning +10"
-    ],
-    "itemKey": "item:hammer_of_the_leaden_clouds_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Warhammer",
@@ -1813,14 +1405,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Forge",
@@ -1841,6 +1432,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+13 Enhancement Bonus",
@@ -1848,9 +1440,7 @@
       "Flaming 14",
       "Jolting 14",
       "Seeker +13"
-    ],
-    "itemKey": "item:legendary_forge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Reflection of Whelm",
@@ -1873,6 +1463,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1880,9 +1471,7 @@
       "Blunt Trauma",
       "Bonesplitter",
       "Giant Bane 6"
-    ],
-    "itemKey": "item:reflection_of_whelm",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Hull-Wrecker's Hammer (level 28)",
@@ -1902,15 +1491,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
       "Bludgeoning 6",
       "Construct Bane 6",
       "Improved Destruction"
-    ],
-    "itemKey": "item:epic_hull-wrecker's_hammer_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Warhammer (level 28)",
@@ -1928,6 +1516,7 @@
       "Crushing 13"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -1935,9 +1524,7 @@
       "Evil Outsider Bane 6",
       "Superior Vorpal",
       "Crushing 13"
-    ],
-    "itemKey": "item:spectral_warhammer_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Stormreach Guardian's Hammer",
@@ -1958,6 +1545,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1965,9 +1553,7 @@
       "Crushing 14",
       "Ghost Touch",
       "Shockwave"
-    ],
-    "itemKey": "item:legendary_stormreach_guardian's_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Echo of Whelm",
@@ -1990,6 +1576,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Whelming Shockwave"
     ],
@@ -1998,9 +1585,7 @@
       "Blunt Trauma",
       "Bonesplitter",
       "Giant Bane 6"
-    ],
-    "itemKey": "item:legendary_echo_of_whelm",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Warhammer",
@@ -2021,6 +1606,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2028,9 +1614,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Warhammer",
@@ -2051,6 +1635,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2058,9 +1643,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Warhammer",
@@ -2081,6 +1664,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2088,9 +1672,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Warhammer",
@@ -2111,6 +1693,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2118,9 +1701,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Warhammer",
@@ -2138,14 +1719,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Warhammer",
@@ -2166,6 +1746,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2173,9 +1754,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ol' Reliable",
@@ -2196,6 +1775,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2203,9 +1783,7 @@
       "Aligned",
       "Melee Alacrity 15%",
       "Human Bane 6"
-    ],
-    "itemKey": "item:legendary_ol'_reliable",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Warhammer",
@@ -2228,16 +1806,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_warhammer",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Warhammer",
@@ -2260,16 +1858,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_warhammer",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Hull-Wrecker's Hammer (level 32)",
@@ -2289,15 +1907,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Bludgeoning 6",
       "Construct Bane 6",
       "Improved Destruction"
-    ],
-    "itemKey": "item:legendary_hull-wrecker's_hammer_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Warhammer",
@@ -2320,6 +1937,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2327,9 +1945,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pestle, the Crucible of Bones",
@@ -2353,146 +1969,8 @@
       "Orange",
       "Purple"
     ],
-    "setBonuses": [
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Attack and Damage"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane Bonus to Attack and Damage"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Universal Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane Bonus to Universal Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to Spell DCs"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Felling the Oak",
@@ -2500,137 +1978,6 @@
       "Blunt Trauma",
       "Improved Destruction",
       "Planar Searing"
-    ],
-    "itemKey": "item:pestle,_the_crucible_of_bones",
-    "setMembership": [
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 61,
-        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Attack and Damage"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane Bonus to Attack and Damage"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Universal Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane Bonus to Universal Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to Spell DCs"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -2655,6 +2002,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -2664,9 +2012,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_warhammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Warhammer of the Fallen Age",
@@ -2689,6 +2035,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2696,9 +2043,7 @@
       "Anarchic 7",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:legendary_warhammer_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Warhammer of the Golden Age",
@@ -2721,6 +2066,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2728,9 +2074,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_warhammer_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Warhammer of the Undying Age",
@@ -2753,6 +2097,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2760,9 +2105,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:warhammer_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Audion, the Shattering Way",
@@ -2785,6 +2128,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2792,9 +2136,7 @@
       "Blunt Trauma",
       "Felling the Oak",
       "Sealed in Mist"
-    ],
-    "itemKey": "item:audion,_the_shattering_way",
-    "setMembership": []
+    ]
   },
   {
     "name": "Soniar, the Echo of Pain",
@@ -2818,6 +2160,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -2826,9 +2169,7 @@
       "Sonic Lore +24%",
       "Quality Spell Focus Mastery +2",
       "Sealed in Mist"
-    ],
-    "itemKey": "item:soniar,_the_echo_of_pain",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Warhammer",
@@ -2851,16 +2192,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_warhammer",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Warhammer",
@@ -2883,15 +2244,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_warhammer",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

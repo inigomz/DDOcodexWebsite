@@ -1,0 +1,1546 @@
+[
+  {
+    "name": "Ember Shortbow",
+    "link": "https://ddowiki.com/page/Item:Ember_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ],
+    "itemKey": "item:ember_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "+1 Starter Shortbow",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Starter"
+    ],
+    "itemKey": "item:+1_starter_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Ethereal Shortbow",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Sworn Silver Shortbow",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Scorpion Tail Shortbow",
+    "link": "https://ddowiki.com/page/Item:Scorpion_Tail_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Poison",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Poison"
+    ],
+    "itemKey": "item:scorpion_tail_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Shortbow",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Flamesalt Shortbow",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Calamitous Shortbow",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1"
+    ],
+    "itemKey": "item:calamitous_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Collapsible Shortbow",
+    "link": "https://ddowiki.com/page/Item:Collapsible_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Deception +12",
+      "Jump +12",
+      "Swim +12",
+      "Tumble +12",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
+        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Poison Resistance"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact Bonus to Poison Resistance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact Bonus to Poison Resistance"
+          }
+        ]
+      },
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
+        "effectRaw": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact bonus to Sneak Attack Dice"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Artifact bonus to Sneak Attack Dice"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact bonus to Sneak Attack Dice"
+          }
+        ]
+      },
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
+        "effectRaw": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Saving Throws"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Artifact Bonus to Saving Throws"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Saving Throws"
+          }
+        ]
+      },
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+        "effectRaw": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Dexterity and Constitution"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Artifact Bonus to Dexterity and Constitution"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Dexterity and Constitution"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Deception +12",
+      "Jump +12",
+      "Swim +12",
+      "Tumble +12"
+    ],
+    "itemKey": "item:collapsible_shortbow",
+    "setMembership": [
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 13,
+        "bonusRaw": "2 Pieces Equipped: ♦+10●+20★+30 Artifact Bonus to Poison Resistance ♦+1●+2★+3 Artifact bonus to Sneak Attack Dice ♦+1●+2★+3 Artifact Bonus to Saving Throws ♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
+            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Poison Resistance"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact Bonus to Poison Resistance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact Bonus to Poison Resistance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
+            "effectRaw": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact bonus to Sneak Attack Dice"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Artifact bonus to Sneak Attack Dice"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact bonus to Sneak Attack Dice"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
+            "effectRaw": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Saving Throws"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Artifact Bonus to Saving Throws"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Saving Throws"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+            "effectRaw": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Dexterity and Constitution"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Artifact Bonus to Dexterity and Constitution"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Dexterity and Constitution"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Barovian's Shortbow",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Macabre Shortbow",
+    "link": "https://ddowiki.com/page/Item:Macabre_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Green Steel Shortbow",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Shortbow",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Shortbow of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Shortbow_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:shortbow_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Shortbow of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Shortbow_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:shortbow_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Hunter of Wilds",
+    "link": "https://ddowiki.com/page/Item:Hunter_of_Wilds",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Trace of Madness",
+      "Elasticity",
+      "Anarchic 3",
+      "Heartseeker I",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Trace of Madness",
+      "Elasticity",
+      "Anarchic 3",
+      "Heartseeker I",
+      "Keen"
+    ],
+    "itemKey": "item:hunter_of_wilds",
+    "setMembership": []
+  },
+  {
+    "name": "Syranian Shortbow",
+    "link": "https://ddowiki.com/page/Item:Syranian_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Reliquary Shortbow",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Reliquary Shortbow",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Collapsible Shortbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Collapsible_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Force Blast 4",
+      "Improved Deception +17",
+      "Jump +17",
+      "Tumble +17",
+      "Swim +17",
+      "Colorless Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Colorless",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Force Blast 4",
+      "Improved Deception +17",
+      "Jump +17",
+      "Tumble +17",
+      "Swim +17"
+    ],
+    "itemKey": "item:epic_collapsible_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sworn Silver Shortbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ethereal Shortbow",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Thunder-Forged Alloy Shortbow",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Steel Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Hunter of Wilds",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hunter_of_Wilds",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Trace of Madness",
+      "Elasticity",
+      "Anarchic 6",
+      "Heartseeker VII",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Trace of Madness",
+      "Elasticity",
+      "Anarchic 6",
+      "Heartseeker VII",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_hunter_of_wilds",
+    "setMembership": []
+  },
+  {
+    "name": "Morninglord's Shortbow",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Nightmother's Shortbow",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Syranian Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flamesalt Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Collapsible Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Collapsible_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 6",
+      "Improved Deception +20",
+      "Jump +20",
+      "Tumble +20",
+      "Swim +20",
+      "Legendary Vulkoor's Chosen",
+      "Colorless Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Colorless",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vulkoor's Chosen"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 6",
+      "Improved Deception +20",
+      "Jump +20",
+      "Tumble +20",
+      "Swim +20"
+    ],
+    "itemKey": "item:legendary_collapsible_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Shortbow",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Attuned Bone Shortbow",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:attuned_bone_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shining Reliquary Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Defiled Reliquary Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shortbow of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shortbow_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_shortbow_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shortbow of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shortbow_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_shortbow_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Shortbow of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Shortbow_of_the_Undying_Age",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:shortbow_of_the_undying_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Calamitous Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_calamitous_shortbow",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Shortbow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Shortbow",
+    "slot": "weapon",
+    "itemSubtype": "short_bow",
+    "handedness": "two_handed",
+    "category": "Short Bows",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_shortbow",
+    "setMembership": []
+  }
+]

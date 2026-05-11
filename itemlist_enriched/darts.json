@@ -1,0 +1,1827 @@
+[
+  {
+    "name": "Lump of Coal",
+    "link": "https://ddowiki.com/page/Item:Lump_of_Coal",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 1,
+    "effectsRaw": [],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [],
+    "itemKey": "item:lump_of_coal",
+    "setMembership": []
+  },
+  {
+    "name": "Snowball",
+    "link": "https://ddowiki.com/page/Item:Snowball",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Icy Burst"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Icy Burst"
+    ],
+    "itemKey": "item:snowball",
+    "setMembership": []
+  },
+  {
+    "name": "Sphere of Silver Flame Essence",
+    "link": "https://ddowiki.com/page/Item:Sphere_of_Silver_Flame_Essence",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Holy"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Holy"
+    ],
+    "itemKey": "item:sphere_of_silver_flame_essence",
+    "setMembership": []
+  },
+  {
+    "name": "Sun Flask",
+    "link": "https://ddowiki.com/page/Item:Sun_Flask",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Ghost Touch"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Ghost Touch"
+    ],
+    "itemKey": "item:sun_flask",
+    "setMembership": []
+  },
+  {
+    "name": "Sworn Silver Dart",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Returning"
+    ],
+    "itemKey": "item:sworn_silver_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Ethereal Dart",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Returning"
+    ],
+    "itemKey": "item:ethereal_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Spectre Striker",
+    "link": "https://ddowiki.com/page/Item:Spectre_Striker",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 3,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Deception",
+      "Ghost Touch",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Deception",
+      "Ghost Touch",
+      "Returning"
+    ],
+    "itemKey": "item:spectre_striker",
+    "setMembership": []
+  },
+  {
+    "name": "Splintermast",
+    "link": "https://ddowiki.com/page/Item:Splintermast",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 3,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Bleeding 2",
+      "Tidal 2",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Bleeding 2",
+      "Tidal 2",
+      "Returning"
+    ],
+    "itemKey": "item:splintermast",
+    "setMembership": []
+  },
+  {
+    "name": "Ball o' Yarn",
+    "link": "https://ddowiki.com/page/Item:Ball_o%27_Yarn",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Slowburst",
+      "Entangling Yarn",
+      "Impactful 2",
+      "Bludgeoning 2",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Slowburst",
+      "Entangling Yarn",
+      "Impactful 2",
+      "Bludgeoning 2",
+      "Returning"
+    ],
+    "itemKey": "item:ball_o'_yarn",
+    "setMembership": []
+  },
+  {
+    "name": "Pumpkin Head",
+    "link": "https://ddowiki.com/page/Item:Pumpkin_Head",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 5,
+    "effectsRaw": [],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [],
+    "itemKey": "item:pumpkin_head",
+    "setMembership": []
+  },
+  {
+    "name": "Lesser Vial of Seafog",
+    "link": "https://ddowiki.com/page/Item:Lesser_Vial_of_Seafog",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 5,
+    "effectsRaw": [
+      "Special: Casts Obscuring Mist at caster level 10."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Special: Casts Obscuring Mist at caster level 10."
+    ],
+    "itemKey": "item:lesser_vial_of_seafog",
+    "setMembership": []
+  },
+  {
+    "name": "Greater Vial of Seafog",
+    "link": "https://ddowiki.com/page/Item:Greater_Vial_of_Seafog",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 5,
+    "effectsRaw": [
+      "Special: Casts Solid Fog at caster level 10."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Special: Casts Solid Fog at caster level 10."
+    ],
+    "itemKey": "item:greater_vial_of_seafog",
+    "setMembership": []
+  },
+  {
+    "name": "Bottled Fear",
+    "link": "https://ddowiki.com/page/Item:Bottled_Fear",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 5,
+    "effectsRaw": [
+      "AoE Phantasmal Killer CL10"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "AoE Phantasmal Killer CL10"
+    ],
+    "itemKey": "item:bottled_fear",
+    "setMembership": []
+  },
+  {
+    "name": "Vial of Seafog",
+    "link": "https://ddowiki.com/page/Item:Vial_of_Seafog",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 5,
+    "effectsRaw": [
+      "Special: Casts Fog Cloud at caster level 10."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Special: Casts Fog Cloud at caster level 10."
+    ],
+    "itemKey": "item:vial_of_seafog",
+    "setMembership": []
+  },
+  {
+    "name": "Jolly Roger Bomb",
+    "link": "https://ddowiki.com/page/Item:Jolly_Roger_Bomb",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 5,
+    "effectsRaw": [
+      "Special: Casts Slay Living at caster level 10."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Special: Casts Slay Living at caster level 10."
+    ],
+    "itemKey": "item:jolly_roger_bomb",
+    "setMembership": []
+  },
+  {
+    "name": "Skull Head",
+    "link": "https://ddowiki.com/page/Item:Skull_Head",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 5,
+    "effectsRaw": [],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [],
+    "itemKey": "item:skull_head",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Dart",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Returning"
+    ],
+    "itemKey": "item:ferrocrystal_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Flamesalt Dart",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Returning"
+    ],
+    "itemKey": "item:flamesalt_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Nightforge Spike",
+    "link": "https://ddowiki.com/page/Item:Nightforge_Spike",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Returning"
+    ],
+    "itemKey": "item:nightforge_spike",
+    "setMembership": []
+  },
+  {
+    "name": "Calamitous Dart",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Returning"
+    ],
+    "itemKey": "item:calamitous_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Barovian's Dart",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Returning"
+    ],
+    "itemKey": "item:barovian's_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Macabre Dart",
+    "link": "https://ddowiki.com/page/Item:Macabre_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Returning",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Returning"
+    ],
+    "itemKey": "item:macabre_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Dart",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)",
+      "Returning"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)",
+      "Returning"
+    ],
+    "itemKey": "item:alchemical_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Dart of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Dart_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Returning"
+    ],
+    "itemKey": "item:dart_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Dart of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Dart_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Returning"
+    ],
+    "itemKey": "item:dart_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Returning Snowball",
+    "link": "https://ddowiki.com/page/Item:Returning_Snowball",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Humanoid Bane 3",
+      "Frostbite",
+      "Freezing 8",
+      "Chilling 3",
+      "Returning",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Humanoid Bane 3",
+      "Frostbite",
+      "Freezing 8",
+      "Chilling 3",
+      "Returning"
+    ],
+    "itemKey": "item:returning_snowball",
+    "setMembership": []
+  },
+  {
+    "name": "Syranian Dart",
+    "link": "https://ddowiki.com/page/Item:Syranian_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Returning"
+    ],
+    "itemKey": "item:syranian_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Twisted Missile",
+    "link": "https://ddowiki.com/page/Item:Twisted_Missile",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 17,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "The Dragging of the Depths 4",
+      "Vorpal",
+      "Maiming 4",
+      "Weaken Undead",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "The Dragging of the Depths 4",
+      "Vorpal",
+      "Maiming 4",
+      "Weaken Undead",
+      "Returning"
+    ],
+    "itemKey": "item:twisted_missile",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Reliquary Dart",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Returning"
+    ],
+    "itemKey": "item:shining_reliquary_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Reliquary Dart",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Returning"
+    ],
+    "itemKey": "item:defiled_reliquary_dart",
+    "setMembership": []
+  },
+  {
+    "name": "+5 Heirloom Spelltouched Dart",
+    "link": "https://ddowiki.com/page/Item:%2B5_Heirloom_Spelltouched_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Returning",
+      "Flaming",
+      "Steam",
+      "Strength Sapping"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Returning",
+      "Flaming",
+      "Steam",
+      "Strength Sapping"
+    ],
+    "itemKey": "item:+5_heirloom_spelltouched_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sworn Silver Dart",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Returning"
+    ],
+    "itemKey": "item:epic_sworn_silver_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ethereal Dart",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Returning"
+    ],
+    "itemKey": "item:epic_ethereal_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Splintermast",
+    "link": "https://ddowiki.com/page/Item:Epic_Splintermast",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Bleeding 4",
+      "Tidal 4",
+      "Crushing Wave",
+      "Ghostbane 4",
+      "Corrosive Salt",
+      "Returning",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Bleeding 4",
+      "Tidal 4",
+      "Crushing Wave",
+      "Ghostbane 4",
+      "Corrosive Salt",
+      "Returning"
+    ],
+    "itemKey": "item:epic_splintermast",
+    "setMembership": []
+  },
+  {
+    "name": "Thunder-Forged Alloy Dart",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+9 Enhancement Bonus",
+      "Returning",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Returning",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Coffin Nail",
+    "link": "https://ddowiki.com/page/Item:Coffin_Nail",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Returning",
+      "Doubleshot 8%",
+      "Keen",
+      "Improved Paralyzing",
+      "Improved Slowburst",
+      "Improved Vorpal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Returning",
+      "Doubleshot 8%",
+      "Keen",
+      "Improved Paralyzing",
+      "Improved Slowburst",
+      "Improved Vorpal"
+    ],
+    "itemKey": "item:coffin_nail",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Steel Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel",
+      "Returning"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_green_steel_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Returning Snowball",
+    "link": "https://ddowiki.com/page/Item:Epic_Returning_Snowball",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 27,
+    "effectsRaw": [
+      "+13 Enhancement Bonus",
+      "Humanoid Bane 6",
+      "Frostbite",
+      "Freezing 13",
+      "Chilling 6",
+      "Returning",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+13 Enhancement Bonus",
+      "Humanoid Bane 6",
+      "Frostbite",
+      "Freezing 13",
+      "Chilling 6",
+      "Returning"
+    ],
+    "itemKey": "item:epic_returning_snowball",
+    "setMembership": []
+  },
+  {
+    "name": "Gloaming Philter",
+    "link": "https://ddowiki.com/page/Item:Gloaming_Philter",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 27,
+    "effectsRaw": [
+      "Returning",
+      "Special: Deals 10 to 60 Negative Energy Damage to nearby enemies, and possibly inflicting a negative level."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Returning",
+      "Special: Deals 10 to 60 Negative Energy Damage to nearby enemies, and possibly inflicting a negative level."
+    ],
+    "itemKey": "item:gloaming_philter",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Spectre Striker",
+    "link": "https://ddowiki.com/page/Item:Legendary_Spectre_Striker",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Deception",
+      "Bleeding 6",
+      "Piercing 6",
+      "Ghost Touch",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Deception",
+      "Bleeding 6",
+      "Piercing 6",
+      "Ghost Touch",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_spectre_striker",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Twisted Missile",
+    "link": "https://ddowiki.com/page/Item:Legendary_Twisted_Missile",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "The Dragging of the Depths 6",
+      "Sovereign Vorpal",
+      "Maiming 6",
+      "Weaken Undead",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "The Dragging of the Depths 6",
+      "Sovereign Vorpal",
+      "Maiming 6",
+      "Weaken Undead",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_twisted_missile",
+    "setMembership": []
+  },
+  {
+    "name": "Morninglord's Dart",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Returning"
+    ],
+    "itemKey": "item:morninglord's_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Nightmother's Dart",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Returning",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Returning"
+    ],
+    "itemKey": "item:nightmother's_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Syranian Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Returning",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_syranian_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flamesalt Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Splintermast",
+    "link": "https://ddowiki.com/page/Item:Legendary_Splintermast",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Bleeding 6",
+      "Tidal 6",
+      "Crushing Tsunami",
+      "Ghostbane 6",
+      "Concentrated Corrosive Salt",
+      "Returning",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Bleeding 6",
+      "Tidal 6",
+      "Crushing Tsunami",
+      "Ghostbane 6",
+      "Concentrated Corrosive Salt",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_splintermast",
+    "setMembership": []
+  },
+  {
+    "name": "The Immortal Sun Flask",
+    "link": "https://ddowiki.com/page/Item:The_Immortal_Sun_Flask",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Brilliance of the Shattered Sun",
+      "Ghostbane 6",
+      "Flaming Blast 6",
+      "Good Blast 6",
+      "Returning",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Brilliance of the Shattered Sun",
+      "Ghostbane 6",
+      "Flaming Blast 6",
+      "Good Blast 6",
+      "Returning"
+    ],
+    "itemKey": "item:the_immortal_sun_flask",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Dart",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning"
+    ],
+    "itemKey": "item:dinosaur_bone_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Attuned Bone Dart",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning"
+    ],
+    "itemKey": "item:attuned_bone_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shining Reliquary Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Defiled Reliquary Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Humanoid Bane 6",
+      "Taint of Evil",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Humanoid Bane 6",
+      "Taint of Evil",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ball o' Yarn",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ball_o%27_Yarn",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Slowburst",
+      "Legendary Entangling Yarn",
+      "Impactful 6",
+      "Bludgeoning 6",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Slowburst",
+      "Legendary Entangling Yarn"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Impactful 6",
+      "Bludgeoning 6",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_ball_o'_yarn",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Dart of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dart_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_dart_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Dart of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dart_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_dart_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Dart of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Dart_of_the_Undying_Age",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Returning",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Returning"
+    ],
+    "itemKey": "item:dart_of_the_undying_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Calamitous Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_calamitous_dart",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Dart",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Dart",
+    "slot": "weapon",
+    "itemSubtype": "dart",
+    "handedness": "one_handed",
+    "category": "Darts",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Returning",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Returning"
+    ],
+    "itemKey": "item:legendary_cataclysmic_dart",
+    "setMembership": []
+  }
+]

@@ -18,6 +18,7 @@
       "Fireball — 50 Charges"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -28,9 +29,7 @@
       "Intelligence +6",
       "Potency +60",
       "Fireball — 50 Charges"
-    ],
-    "itemKey": "item:staff_of_the_golden_wizard",
-    "setMembership": []
+    ]
   },
   {
     "name": "-1 Quarterstaff of Lesser Halfling Bane",
@@ -46,14 +45,13 @@
       "Curse of Weakness"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "-1 Enhancement Bonus",
       "Lesser Halfling Bane",
       "Curse of Weakness"
-    ],
-    "itemKey": "item:-1_quarterstaff_of_lesser_halfling_bane",
-    "setMembership": []
+    ]
   },
   {
     "name": "Moldy Quarterstaff",
@@ -67,12 +65,11 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Starter"
-    ],
-    "itemKey": "item:moldy_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ionna's Ancestral Staff",
@@ -88,14 +85,13 @@
       "Summon Monster III — 1 Charges (Recharged/Day:1)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Giant Slayer",
       "+1 Enhancement Bonus",
       "Summon Monster III — 1 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:ionna's_ancestral_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Long Broom of Mystery",
@@ -109,12 +105,11 @@
       "Flaming Sphere — 5 Charges (Recharged/Day:1)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Flaming Sphere — 5 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:long_broom_of_mystery",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Balance Beam",
@@ -130,10 +125,9 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
-    "namedEffects": [],
-    "itemKey": "item:the_balance_beam",
-    "setMembership": []
+    "namedEffects": []
   },
   {
     "name": "Shimmering",
@@ -148,13 +142,12 @@
       "Solar IX"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Epic Giant Bane",
       "Solar IX"
-    ],
-    "itemKey": "item:shimmering",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scorpion Staff",
@@ -172,13 +165,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Summon Monster II — 1 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:scorpion_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pillar of Light",
@@ -199,6 +191,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +2",
@@ -206,9 +199,7 @@
       "Silver Flame Lore +6%",
       "Power of the Silver Flame +43",
       "Holy 1"
-    ],
-    "itemKey": "item:pillar_of_light",
-    "setMembership": []
+    ]
   },
   {
     "name": "Melt Wood Staff",
@@ -226,13 +217,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Melf's Acid Arrow — 3 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:melt_wood_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Quarterstaff",
@@ -249,15 +239,14 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +3",
       "+1 Enhancement Bonus",
       "Potency +20",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nicked Quarterstaff",
@@ -274,15 +263,14 @@
       "Deadly +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Impactful 2",
       "Vertigo +4",
       "Deadly +3"
-    ],
-    "itemKey": "item:nicked_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Quarterstaff",
@@ -300,13 +288,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Quarterstaff",
@@ -324,13 +311,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bullywug Priestess' Staff",
@@ -352,6 +338,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -360,9 +347,7 @@
       "Spell Penetration +3",
       "Bless Ward",
       "Bane of the Depths"
-    ],
-    "itemKey": "item:bullywug_priestess'_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Twig of the Giant Mage",
@@ -380,13 +365,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Spell Resistance +15"
-    ],
-    "itemKey": "item:twig_of_the_giant_mage",
-    "setMembership": []
+    ]
   },
   {
     "name": "Staff of Nat Gann",
@@ -407,6 +391,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -414,9 +399,7 @@
       "Dexterity +3",
       "Deception +2",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:staff_of_nat_gann",
-    "setMembership": []
+    ]
   },
   {
     "name": "Chieftain's Spear",
@@ -436,15 +419,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Bleed",
       "Maiming",
       "Puncturing"
-    ],
-    "itemKey": "item:chieftain's_spear",
-    "setMembership": []
+    ]
   },
   {
     "name": "Broken Oar (level 4)",
@@ -465,6 +447,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -472,9 +455,7 @@
       "Impact",
       "Doublestrike 4%",
       "Felling the Oak"
-    ],
-    "itemKey": "item:broken_oar_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Quarterstaff",
@@ -495,6 +476,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -502,9 +484,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Quarterstaff",
@@ -525,6 +505,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -532,9 +513,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Totemic Staff of Splinterskull",
@@ -554,13 +533,12 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Summon Monster III — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:totemic_staff_of_splinterskull",
-    "setMembership": []
+    ]
   },
   {
     "name": "Arlyn's Staff",
@@ -579,14 +557,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Protection +3",
       "Force"
-    ],
-    "itemKey": "item:arlyn's_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Brine Shaman's Staff",
@@ -607,6 +584,7 @@
       "Gust of Wind — 3 Charges (Recharged/Day:0)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +6",
@@ -617,9 +595,7 @@
       "Lightning Lore I",
       "Tidal",
       "Gust of Wind — 3 Charges (Recharged/Day:0)"
-    ],
-    "itemKey": "item:brine_shaman's_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bludgeoning Bankroll",
@@ -640,6 +616,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -647,9 +624,7 @@
       "Bludgeoning 2",
       "Metalline",
       "Smashing 5"
-    ],
-    "itemKey": "item:bludgeoning_bankroll",
-    "setMembership": []
+    ]
   },
   {
     "name": "Souleater",
@@ -666,15 +641,14 @@
       "Vampirism 1"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Mortal Strike",
       "Feeding 10",
       "Vampirism 1"
-    ],
-    "itemKey": "item:souleater",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Bloom",
@@ -695,6 +669,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -702,9 +677,7 @@
       "Bodyfeeder",
       "Paralyzing",
       "Bewildering"
-    ],
-    "itemKey": "item:elemental_bloom",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spearfisher",
@@ -726,140 +699,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Universal Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane bonus to Universal Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to Spell DCs",
-        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to Spell DCs"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "★+4 Profane bonus to Hit and Damage",
-        "effectRaw": "★+4 Profane bonus to Hit and Damage",
-        "tieredEffects": [
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane bonus to Hit and Damage"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Animal Bane 2",
@@ -867,131 +708,6 @@
       "Cold Vulnerability",
       "Underwater Action +9",
       "The Dread Isle's Curse"
-    ],
-    "itemKey": "item:spearfisher",
-    "setMembership": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "minLevels": [
-          7,
-          31
-        ],
-        "availablePieces": 70,
-        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Universal Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane bonus to Universal Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to Spell DCs",
-            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to Spell DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "★+4 Profane bonus to Hit and Damage",
-            "effectRaw": "★+4 Profane bonus to Hit and Damage",
-            "tieredEffects": [
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane bonus to Hit and Damage"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1015,6 +731,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -1022,9 +739,7 @@
       "Wisdom +5",
       "Use Magic Device +5",
       "True Seeing — 1 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:stave_of_the_seer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lightning Rod",
@@ -1045,6 +760,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -1052,9 +768,7 @@
       "Magnetism +54",
       "Shock",
       "Electric Resistance +3"
-    ],
-    "itemKey": "item:lightning_rod",
-    "setMembership": []
+    ]
   },
   {
     "name": "Theurgic Stave",
@@ -1076,15 +790,14 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Adamantine",
       "Elemental Bane",
       "Spot +5"
-    ],
-    "itemKey": "item:theurgic_stave",
-    "setMembership": []
+    ]
   },
   {
     "name": "Witching Hour",
@@ -1106,6 +819,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -1114,9 +828,7 @@
       "Nullification +54",
       "Void Lore +14%",
       "Adamantine"
-    ],
-    "itemKey": "item:witching_hour",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shamanic Staff",
@@ -1138,15 +850,14 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
       "+4 Enhancement Bonus",
       "True Chaos",
       "Glaciation +42"
-    ],
-    "itemKey": "item:shamanic_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Slave Master's Staff",
@@ -1172,123 +883,9 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
-      "Against the Slave Lords Set Bonus",
-      {
-        "setId": "slave_lord_s_might",
-        "setName": "Slave Lord's Might",
-        "source": "named_item_sets",
-        "sourceSection": "Slave Lords Crafting sets",
-        "piecesRequired": 3,
-        "effect": "♦+1★+2 artifact bonus to Melee Power/Ranged Power",
-        "effectRaw": "♦+1★+2 artifact bonus to Melee Power/Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "artifact bonus to Melee Power/Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "artifact bonus to Melee Power/Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "slave_lord_s_might",
-        "setName": "Slave Lord's Might",
-        "source": "named_item_sets",
-        "sourceSection": "Slave Lords Crafting sets",
-        "piecesRequired": 3,
-        "effect": "♦+1★+2 artifact bonus to Deadly",
-        "effectRaw": "♦+1★+2 artifact bonus to Deadly",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "artifact bonus to Deadly"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "artifact bonus to Deadly"
-          }
-        ]
-      },
-      {
-        "setId": "slave_lord_s_might",
-        "setName": "Slave Lord's Might",
-        "source": "named_item_sets",
-        "sourceSection": "Slave Lords Crafting sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 artifact bonus to Strength and Dexterity",
-        "effectRaw": "♦+1★+2 artifact bonus to Strength and Dexterity",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "artifact bonus to Strength and Dexterity"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "artifact bonus to Strength and Dexterity"
-          }
-        ]
-      },
-      {
-        "setId": "slave_lord_s_might",
-        "setName": "Slave Lord's Might",
-        "source": "named_item_sets",
-        "sourceSection": "Slave Lords Crafting sets",
-        "piecesRequired": 5,
-        "effect": "♦+2★+4 artifact bonus to Melee Power/Ranged Power",
-        "effectRaw": "♦+2★+4 artifact bonus to Melee Power/Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2",
-            "effect": "artifact bonus to Melee Power/Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "artifact bonus to Melee Power/Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "slave_lord_s_might",
-        "setName": "Slave Lord's Might",
-        "source": "named_item_sets",
-        "sourceSection": "Slave Lords Crafting sets",
-        "piecesRequired": 5,
-        "effect": "♦+2★+4 artifact bonus to Deadly",
-        "effectRaw": "♦+2★+4 artifact bonus to Deadly",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2",
-            "effect": "artifact bonus to Deadly"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "artifact bonus to Deadly"
-          }
-        ]
-      }
+      "Against the Slave Lords Set Bonus"
     ],
     "namedEffects": [
       "Spellcasting Implement +8",
@@ -1300,118 +897,6 @@
       "Elemental Resonance +70",
       "Acid Lore +10%",
       "Insightful Conjuration Focus +1"
-    ],
-    "itemKey": "item:slave_master's_staff",
-    "setMembership": [
-      {
-        "setId": "slave_lord_s_might",
-        "setName": "Slave Lord's Might",
-        "source": "named_item_sets",
-        "sourceSection": "Slave Lords Crafting sets",
-        "minLevels": [
-          8,
-          28
-        ],
-        "availablePieces": 14,
-        "bonusRaw": "3 Pieces Equipped: ♦+1★+2 artifact bonus to Melee Power/Ranged Power ♦+1★+2 artifact bonus to Deadly 5 Pieces Equipped: ♦+1★+2 artifact bonus to Strength and Dexterity ♦+2★+4 artifact bonus to Melee Power/Ranged Power ♦+2★+4 artifact bonus to Deadly",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+1★+2 artifact bonus to Melee Power/Ranged Power",
-            "effectRaw": "♦+1★+2 artifact bonus to Melee Power/Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "artifact bonus to Melee Power/Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "artifact bonus to Melee Power/Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+1★+2 artifact bonus to Deadly",
-            "effectRaw": "♦+1★+2 artifact bonus to Deadly",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "artifact bonus to Deadly"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "artifact bonus to Deadly"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 artifact bonus to Strength and Dexterity",
-            "effectRaw": "♦+1★+2 artifact bonus to Strength and Dexterity",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "artifact bonus to Strength and Dexterity"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "artifact bonus to Strength and Dexterity"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+2★+4 artifact bonus to Melee Power/Ranged Power",
-            "effectRaw": "♦+2★+4 artifact bonus to Melee Power/Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2",
-                "effect": "artifact bonus to Melee Power/Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "artifact bonus to Melee Power/Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+2★+4 artifact bonus to Deadly",
-            "effectRaw": "♦+2★+4 artifact bonus to Deadly",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2",
-                "effect": "artifact bonus to Deadly"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "artifact bonus to Deadly"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1433,6 +918,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -1440,9 +926,7 @@
       "Impact",
       "Doublestrike 6%",
       "Felling the Oak"
-    ],
-    "itemKey": "item:broken_oar_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Quarterstaff",
@@ -1463,16 +947,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_quarterstaff",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Echo of Wave",
@@ -1496,6 +995,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +9",
@@ -1504,9 +1004,7 @@
       "Frozen Storm Lore +11%",
       "Power of the Frozen Storm +73",
       "Underwater Action"
-    ],
-    "itemKey": "item:echo_of_wave",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tinder",
@@ -1530,95 +1028,8 @@
       "Purple",
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_desert_s_burning_sun",
-        "setName": "The Desert's Burning Sun",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+2%●+4%★+6% Artifact bonus to Fire Spellcrit Chance",
-        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Fire Spellcrit Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact bonus to Fire Spellcrit Chance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+4%",
-            "effect": "Artifact bonus to Fire Spellcrit Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact bonus to Fire Spellcrit Chance"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_burning_sun",
-        "setName": "The Desert's Burning Sun",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Fire Spellpower",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Fire Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Fire Spellpower"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Fire Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Fire Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_burning_sun",
-        "setName": "The Desert's Burning Sun",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+10★+30 Artifact bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10●+10★+30 Artifact bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Physical Resistance Rating"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +10",
       "+5 Enhancement Bonus",
@@ -1626,98 +1037,6 @@
       "Flaming Blast 3",
       "Fire Lore +11%",
       "Combustion +77"
-    ],
-    "itemKey": "item:tinder",
-    "setMembership": [
-      {
-        "setId": "the_desert_s_burning_sun",
-        "setName": "The Desert's Burning Sun",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 9,
-        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Fire Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Fire Spellpower ♦+10●+10★+30 Artifact bonus to Physical Resistance Rating",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2%●+4%★+6% Artifact bonus to Fire Spellcrit Chance",
-            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Fire Spellcrit Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact bonus to Fire Spellcrit Chance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+4%",
-                "effect": "Artifact bonus to Fire Spellcrit Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact bonus to Fire Spellcrit Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Fire Spellpower",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Fire Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Fire Spellpower"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Fire Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Fire Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+10★+30 Artifact bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10●+10★+30 Artifact bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Physical Resistance Rating"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1739,6 +1058,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -1746,9 +1066,7 @@
       "Efficient Metamagic - Maximize II",
       "Spell Penetration II",
       "Potency +40"
-    ],
-    "itemKey": "item:arcane_shard",
-    "setMembership": []
+    ]
   },
   {
     "name": "Staff of Inner Sight",
@@ -1772,95 +1090,8 @@
       "Purple",
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact bonus to Force Spellcrit Chance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+4%",
-            "effect": "Artifact bonus to Force Spellcrit Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact bonus to Force Spellcrit Chance"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Force Spellpower"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Force Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Force Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Magical Resistance Rating Cap"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Magical Resistance Rating Cap"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Magical Resistance Rating Cap"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Intelligence +6",
@@ -1868,98 +1099,6 @@
       "Charisma +6",
       "Spell Focus Mastery +2",
       "True Seeing"
-    ],
-    "itemKey": "item:staff_of_inner_sight",
-    "setMembership": [
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 8,
-        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Force Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact bonus to Force Spellcrit Chance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+4%",
-                "effect": "Artifact bonus to Force Spellcrit Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact bonus to Force Spellcrit Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Force Spellpower"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Force Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Force Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Magical Resistance Rating Cap"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Magical Resistance Rating Cap"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Magical Resistance Rating Cap"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1981,6 +1120,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1988,9 +1128,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Quarterstaff",
@@ -2011,6 +1149,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2018,9 +1157,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Staff of Arcane Power",
@@ -2040,95 +1177,8 @@
       "The Desert's Biting Sands"
     ],
     "augmentSlots": [],
-    "setBonuses": [
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact bonus to Force Spellcrit Chance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+4%",
-            "effect": "Artifact bonus to Force Spellcrit Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact bonus to Force Spellcrit Chance"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Force Spellpower"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Force Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Force Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Magical Resistance Rating Cap"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Magical Resistance Rating Cap"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Magical Resistance Rating Cap"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Spell Focus Mastery +2",
@@ -2137,98 +1187,6 @@
       "Good Luck +2",
       "Staff of Arcane Power: Spell Selection — 25 Charges (Recharged/Day:1)",
       "The Desert's Biting Sands"
-    ],
-    "itemKey": "item:staff_of_arcane_power",
-    "setMembership": [
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 8,
-        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Force Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact bonus to Force Spellcrit Chance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+4%",
-                "effect": "Artifact bonus to Force Spellcrit Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact bonus to Force Spellcrit Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Force Spellpower"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Force Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Force Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Magical Resistance Rating Cap"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Magical Resistance Rating Cap"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Magical Resistance Rating Cap"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -2246,15 +1204,14 @@
       "Magnetism +66"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +6",
       "+2 Enhancement Bonus",
       "Lightning Lore V",
       "Magnetism +66"
-    ],
-    "itemKey": "item:copper_ingot_arcanum_(historic)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bronze Ingot Arcanum (historic)",
@@ -2271,15 +1228,14 @@
       "Corrosion +66"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +6",
       "+2 Enhancement Bonus",
       "Acid Lore V",
       "Corrosion +66"
-    ],
-    "itemKey": "item:bronze_ingot_arcanum_(historic)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Silver Ingot Arcanum (historic)",
@@ -2296,15 +1252,14 @@
       "Glaciation +66"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +6",
       "+2 Enhancement Bonus",
       "Ice Lore V",
       "Glaciation +66"
-    ],
-    "itemKey": "item:silver_ingot_arcanum_(historic)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Quarterstaff",
@@ -2319,13 +1274,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Infectious Shadow Staff",
@@ -2346,6 +1300,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2353,9 +1308,7 @@
       "Life Stealing",
       "Entropic 3",
       "Demon Fever"
-    ],
-    "itemKey": "item:infectious_shadow_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Petrifying Shadow Staff",
@@ -2376,6 +1329,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2383,9 +1337,7 @@
       "Life Stealing",
       "Entropic 3",
       "Stone Prison"
-    ],
-    "itemKey": "item:petrifying_shadow_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Staff of the Shadow",
@@ -2403,6 +1355,7 @@
       "Malleable"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2410,9 +1363,7 @@
       "Life Stealing",
       "Entropic 3",
       "Malleable"
-    ],
-    "itemKey": "item:staff_of_the_shadow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bloody Shadow Staff",
@@ -2433,6 +1384,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2440,9 +1392,7 @@
       "Life Stealing",
       "Entropic 3",
       "Bodyfeeder"
-    ],
-    "itemKey": "item:bloody_shadow_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Quarterstaff",
@@ -2457,13 +1407,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Master Transmuter's Staff",
@@ -2488,6 +1437,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2499,9 +1449,7 @@
       "Concentration +14",
       "Healing Lore +12%",
       "Disintegrate — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:master_transmuter's_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Destructive Shadow Staff",
@@ -2522,6 +1470,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2529,9 +1478,7 @@
       "Life Stealing",
       "Entropic 3",
       "Destruction"
-    ],
-    "itemKey": "item:destructive_shadow_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Silver Ingot Arcanum (level 12)",
@@ -2550,6 +1497,7 @@
       "Potency +44"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2558,9 +1506,7 @@
       "Glaciation +66",
       "Impulse +66",
       "Potency +44"
-    ],
-    "itemKey": "item:silver_ingot_arcanum_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bronze Ingot Arcanum (level 12)",
@@ -2579,6 +1525,7 @@
       "Potency +44"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2587,9 +1534,7 @@
       "Corrosion +66",
       "Impulse +66",
       "Potency +44"
-    ],
-    "itemKey": "item:bronze_ingot_arcanum_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Copper Ingot Arcanum (level 12)",
@@ -2608,6 +1553,7 @@
       "Potency +44"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2616,9 +1562,7 @@
       "Magnetism +66",
       "Impulse +66",
       "Potency +44"
-    ],
-    "itemKey": "item:copper_ingot_arcanum_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Broken Oar (level 12)",
@@ -2639,6 +1583,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -2646,9 +1591,7 @@
       "Impact",
       "Doublestrike 7%",
       "Felling the Oak"
-    ],
-    "itemKey": "item:broken_oar_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Combustible Devoted Quarterstaff",
@@ -2677,6 +1620,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2690,9 +1634,7 @@
       "Evocation Focus +3",
       "Physical Sheltering +16",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:combustible_devoted_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Combustible Nullified Quarterstaff",
@@ -2721,6 +1663,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2734,9 +1677,7 @@
       "Evocation Focus +3",
       "Necromancy Focus +3",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:combustible_nullified_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Combustible Radiant Quarterstaff",
@@ -2765,6 +1706,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2778,9 +1720,7 @@
       "Evocation Focus +3",
       "Insightful Wizardry +64",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:combustible_radiant_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Combustible Reconstructed Quarterstaff",
@@ -2809,6 +1749,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2822,9 +1763,7 @@
       "Evocation Focus +3",
       "False Life +24",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:combustible_reconstructed_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Combustible Resonating Quarterstaff",
@@ -2853,6 +1792,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2866,9 +1806,7 @@
       "Evocation Focus +3",
       "Magical Sheltering +16",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:combustible_resonating_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Corrosive Devoted Quarterstaff",
@@ -2897,6 +1835,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2910,9 +1849,7 @@
       "Conjuration Focus +3",
       "Physical Sheltering +16",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:corrosive_devoted_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Corrosive Nullified Quarterstaff",
@@ -2941,6 +1878,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2954,9 +1892,7 @@
       "Conjuration Focus +3",
       "Necromancy Focus +3",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:corrosive_nullified_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Corrosive Radiant Quarterstaff",
@@ -2985,6 +1921,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2998,9 +1935,7 @@
       "Conjuration Focus +3",
       "Insightful Wizardry +64",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:corrosive_radiant_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Corrosive Reconstructed Quarterstaff",
@@ -3029,6 +1964,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3042,9 +1978,7 @@
       "Conjuration Focus +3",
       "False Life +24",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:corrosive_reconstructed_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Corrosive Resonating Quarterstaff",
@@ -3073,6 +2007,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3086,9 +2021,7 @@
       "Conjuration Focus +3",
       "Magical Sheltering +16",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:corrosive_resonating_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Glaciated Devoted Quarterstaff",
@@ -3117,6 +2050,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3130,9 +2064,7 @@
       "Evocation Focus +3",
       "Physical Sheltering +16",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:glaciated_devoted_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Glaciated Nullified Quarterstaff",
@@ -3161,6 +2093,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3174,9 +2107,7 @@
       "Evocation Focus +3",
       "Necromancy Focus +3",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:glaciated_nullified_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Glaciated Radiant Quarterstaff",
@@ -3205,6 +2136,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3218,9 +2150,7 @@
       "Evocation Focus +3",
       "Insightful Wizardry +64",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:glaciated_radiant_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Glaciated Reconstructed Quarterstaff",
@@ -3249,6 +2179,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3262,9 +2193,7 @@
       "Evocation Focus +3",
       "False Life +24",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:glaciated_reconstructed_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Glaciated Resonating Quarterstaff",
@@ -3293,6 +2222,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3306,9 +2236,7 @@
       "Evocation Focus +3",
       "Magical Sheltering +16",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:glaciated_resonating_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Impulsive Devoted Quarterstaff",
@@ -3337,6 +2265,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3350,9 +2279,7 @@
       "Evocation Focus +3",
       "Physical Sheltering +16",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:impulsive_devoted_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Impulsive Nullified Quarterstaff",
@@ -3381,6 +2308,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3394,9 +2322,7 @@
       "Evocation Focus +3",
       "Necromancy Focus +3",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:impulsive_nullified_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Impulsive Radiant Quarterstaff",
@@ -3425,6 +2351,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3438,9 +2365,7 @@
       "Evocation Focus +3",
       "Insightful Wizardry +64",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:impulsive_radiant_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Impulsive Reconstructed Quarterstaff",
@@ -3469,6 +2394,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3482,9 +2408,7 @@
       "Evocation Focus +3",
       "False Life +24",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:impulsive_reconstructed_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Impulsive Resonating Quarterstaff",
@@ -3513,6 +2437,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3526,9 +2451,7 @@
       "Evocation Focus +3",
       "Magical Sheltering +16",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:impulsive_resonating_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Magnetic Devoted Quarterstaff",
@@ -3557,6 +2480,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3570,9 +2494,7 @@
       "Evocation Focus +3",
       "Physical Sheltering +16",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:magnetic_devoted_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Magnetic Nullified Quarterstaff",
@@ -3601,6 +2523,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3614,9 +2537,7 @@
       "Evocation Focus +3",
       "Necromancy Focus +3",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:magnetic_nullified_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Magnetic Radiant Quarterstaff",
@@ -3645,6 +2566,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3658,9 +2580,7 @@
       "Evocation Focus +3",
       "Insightful Wizardry +64",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:magnetic_radiant_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Magnetic Reconstructed Quarterstaff",
@@ -3689,6 +2609,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3702,9 +2623,7 @@
       "Evocation Focus +3",
       "False Life +24",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:magnetic_reconstructed_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Magnetic Resonating Quarterstaff",
@@ -3733,6 +2652,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3746,9 +2666,7 @@
       "Evocation Focus +3",
       "Magical Sheltering +16",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:magnetic_resonating_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Copper Ingot Arcanum (level 13)",
@@ -3767,6 +2685,7 @@
       "Potency +44"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -3775,9 +2694,7 @@
       "Magnetism +66",
       "Impulse +66",
       "Potency +44"
-    ],
-    "itemKey": "item:copper_ingot_arcanum_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Silver Ingot Arcanum (level 13)",
@@ -3796,6 +2713,7 @@
       "Potency +44"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -3804,9 +2722,7 @@
       "Glaciation +66",
       "Impulse +66",
       "Potency +44"
-    ],
-    "itemKey": "item:silver_ingot_arcanum_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Branch of Vile Curses (level 13)",
@@ -3828,6 +2744,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -3836,9 +2753,7 @@
       "Potency +48",
       "Nullification +72",
       "Necromancy Focus +1"
-    ],
-    "itemKey": "item:branch_of_vile_curses_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bronze Ingot Arcanum (level 13)",
@@ -3857,6 +2772,7 @@
       "Potency +44"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -3865,9 +2781,7 @@
       "Corrosion +66",
       "Impulse +66",
       "Potency +44"
-    ],
-    "itemKey": "item:bronze_ingot_arcanum_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Unending",
@@ -3889,6 +2803,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3897,9 +2812,7 @@
       "Metalline",
       "Banishing",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:light_unending",
-    "setMembership": []
+    ]
   },
   {
     "name": "Quarterstaff of the Fallen Age",
@@ -3920,6 +2833,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3927,9 +2841,7 @@
       "Anarchic 3",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:quarterstaff_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Quarterstaff of the Golden Age",
@@ -3950,6 +2862,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3957,9 +2870,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:quarterstaff_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dreamspitter",
@@ -3978,6 +2889,7 @@
       "Upgradeable Item (Stormreaver)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3986,9 +2898,7 @@
       "Enchantment Focus II",
       "Suppressed Power",
       "Upgradeable Item (Stormreaver)"
-    ],
-    "itemKey": "item:dreamspitter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Staff of the Petitioner",
@@ -4008,6 +2918,7 @@
       "Upgradeable Item (Black Abbot)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -4017,9 +2928,7 @@
       "Concentration +5",
       "Spell Penetration III",
       "Upgradeable Item (Black Abbot)"
-    ],
-    "itemKey": "item:staff_of_the_petitioner",
-    "setMembership": []
+    ]
   },
   {
     "name": "Breeze",
@@ -4038,6 +2947,7 @@
       "Upgradeable Item (Black Abbot)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -4046,9 +2956,7 @@
       "Telekinetic",
       "Slicing Winds",
       "Upgradeable Item (Black Abbot)"
-    ],
-    "itemKey": "item:breeze",
-    "setMembership": []
+    ]
   },
   {
     "name": "Staff of Fleshshaping",
@@ -4068,6 +2976,7 @@
       "Efficient Metamagic - Empower Healing II"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -4077,9 +2986,7 @@
       "Nullification +72",
       "Void Lore V",
       "Efficient Metamagic - Empower Healing II"
-    ],
-    "itemKey": "item:staff_of_fleshshaping",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bronze Ingot Arcanum (level 14)",
@@ -4098,6 +3005,7 @@
       "Potency +48"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -4106,9 +3014,7 @@
       "Corrosion +72",
       "Impulse +72",
       "Potency +48"
-    ],
-    "itemKey": "item:bronze_ingot_arcanum_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Copper Ingot Arcanum (level 14)",
@@ -4127,6 +3033,7 @@
       "Potency +48"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -4135,9 +3042,7 @@
       "Magnetism +72",
       "Impulse +72",
       "Potency +48"
-    ],
-    "itemKey": "item:copper_ingot_arcanum_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Silver Ingot Arcanum (level 14)",
@@ -4156,6 +3061,7 @@
       "Potency +48"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -4164,9 +3070,7 @@
       "Glaciation +72",
       "Impulse +72",
       "Potency +48"
-    ],
-    "itemKey": "item:silver_ingot_arcanum_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Branch of Vile Curses (level 14)",
@@ -4188,6 +3092,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -4196,9 +3101,7 @@
       "Potency +52",
       "Nullification +78",
       "Necromancy Focus +1"
-    ],
-    "itemKey": "item:branch_of_vile_curses_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Branch of Vile Curses (level 15)",
@@ -4220,6 +3123,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -4228,9 +3132,7 @@
       "Potency +52",
       "Nullification +78",
       "Necromancy Focus II"
-    ],
-    "itemKey": "item:branch_of_vile_curses_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Stonework Beam",
@@ -4251,6 +3153,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -4258,9 +3161,7 @@
       "Paralyzing",
       "Quality Deception +1",
       "Shield +8"
-    ],
-    "itemKey": "item:stonework_beam",
-    "setMembership": []
+    ]
   },
   {
     "name": "Creeping Dust Conduit",
@@ -4286,6 +3187,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -4296,9 +3198,7 @@
       "Evocation Focus +3",
       "Arcane Augmentation IX",
       "Quality Spell Focus Mastery +1"
-    ],
-    "itemKey": "item:creeping_dust_conduit",
-    "setMembership": []
+    ]
   },
   {
     "name": "Firestorm Conduit",
@@ -4324,6 +3224,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -4334,9 +3235,7 @@
       "Evocation Focus +3",
       "Arcane Augmentation IX",
       "Quality Spell Focus Mastery +1"
-    ],
-    "itemKey": "item:firestorm_conduit",
-    "setMembership": []
+    ]
   },
   {
     "name": "Moonbeam",
@@ -4357,6 +3256,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -4364,9 +3264,7 @@
       "Holy 4",
       "Doublestrike 9%",
       "Felling the Oak"
-    ],
-    "itemKey": "item:moonbeam",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Quarterstaff",
@@ -4387,6 +3285,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -4394,9 +3293,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Trailblazer's Branch",
@@ -4412,14 +3309,13 @@
       "Shockwave"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Bludgeoning 3",
       "Shockwave"
-    ],
-    "itemKey": "item:trailblazer's_branch",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nature's Vengeance",
@@ -4437,6 +3333,7 @@
       "Densewood"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -4444,9 +3341,7 @@
       "Sun Burst",
       "Greater Stability",
       "Densewood"
-    ],
-    "itemKey": "item:nature's_vengeance",
-    "setMembership": []
+    ]
   },
   {
     "name": "Luminous Truth",
@@ -4466,6 +3361,7 @@
       "Incineration"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -4475,9 +3371,7 @@
       "Flaming Blast 4",
       "Coruscating 4",
       "Incineration"
-    ],
-    "itemKey": "item:luminous_truth",
-    "setMembership": []
+    ]
   },
   {
     "name": "Broken Oar (level 16)",
@@ -4498,6 +3392,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -4505,9 +3400,7 @@
       "Impact",
       "Doublestrike 9%",
       "Felling the Oak"
-    ],
-    "itemKey": "item:broken_oar_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rahl's Might",
@@ -4532,6 +3425,7 @@
       "Suppressed Power"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -4546,9 +3440,7 @@
       "Shock",
       "Hidden Effect: Increases all threat generated by 15%",
       "Suppressed Power"
-    ],
-    "itemKey": "item:rahl's_might",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bone Crusher",
@@ -4570,6 +3462,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -4578,9 +3471,7 @@
       "Rockslide",
       "Shockwave",
       "Dexterity +6"
-    ],
-    "itemKey": "item:bone_crusher",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Quarterstaff",
@@ -4601,6 +3492,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -4608,9 +3500,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Quarterstaff",
@@ -4631,6 +3521,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -4638,9 +3529,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Staff of Arcane Power",
@@ -4666,6 +3555,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -4678,9 +3568,7 @@
       "Efficient Metamagic - Extend II",
       "Good Luck +3",
       "Staff of Arcane Power: Spell Selection — 50 Charges (Recharged/Day:5)"
-    ],
-    "itemKey": "item:epic_staff_of_arcane_power",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Staff of Inner Sight",
@@ -4707,6 +3595,7 @@
       "Colorless",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -4718,9 +3607,7 @@
       "True Seeing",
       "Potency +73",
       "Insightful Potency +36"
-    ],
-    "itemKey": "item:epic_staff_of_inner_sight",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Souleater",
@@ -4742,6 +3629,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -4750,9 +3638,7 @@
       "Feeding 20",
       "Vampirism 2",
       "Negativity 4"
-    ],
-    "itemKey": "item:epic_souleater",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Staff of Nat Gann",
@@ -4776,6 +3662,7 @@
       "Red",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -4784,9 +3671,7 @@
       "Deception +7",
       "Seeker +9",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:epic_staff_of_nat_gann",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Tinder",
@@ -4812,6 +3697,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -4822,9 +3708,7 @@
       "Combustion +111",
       "Incineration Guard",
       "Greater Incineration"
-    ],
-    "itemKey": "item:epic_tinder",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alarphon's Staff",
@@ -4842,6 +3726,7 @@
       "Alarphon's Staff: Spell Selection — 25 Charges (Recharged/Day:0)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -4849,9 +3734,7 @@
       "Elemental Manipulation",
       "Spell Lore VI",
       "Alarphon's Staff: Spell Selection — 25 Charges (Recharged/Day:0)"
-    ],
-    "itemKey": "item:alarphon's_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Luminous Truth",
@@ -4874,6 +3757,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -4883,9 +3767,7 @@
       "Flaming Blast 4",
       "Coruscating 4",
       "Greater Incineration"
-    ],
-    "itemKey": "item:epic_luminous_truth",
-    "setMembership": []
+    ]
   },
   {
     "name": "Implement of the Deep Woods",
@@ -4907,6 +3789,7 @@
       "Restoration — 1 Charges (Recharged/Day:1)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -4918,9 +3801,7 @@
       "Lightning Lore VI",
       "Competence Elemental Resistance - 5",
       "Restoration — 1 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:implement_of_the_deep_woods",
-    "setMembership": []
+    ]
   },
   {
     "name": "Stout Oak Walking Stick",
@@ -4939,6 +3820,7 @@
       "Immunity to Slippery Surfaces"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -4947,9 +3829,7 @@
       "Fracturing",
       "Felling the Oak",
       "Immunity to Slippery Surfaces"
-    ],
-    "itemKey": "item:stout_oak_walking_stick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Broken Oar (level 20)",
@@ -4970,6 +3850,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -4977,9 +3858,7 @@
       "Impact",
       "Doublestrike 11%",
       "Felling the Oak"
-    ],
-    "itemKey": "item:epic_broken_oar_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Quarterstaff",
@@ -5000,6 +3879,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -5007,9 +3887,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Quarterstaff",
@@ -5030,6 +3908,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -5037,9 +3916,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Bullywug Priestess' Staff",
@@ -5066,6 +3943,7 @@
       "Red",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -5077,9 +3955,7 @@
       "Spell Penetration +6",
       "Bless Ward",
       "Bane of the Depths"
-    ],
-    "itemKey": "item:epic_bullywug_priestess'_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drow Quarterstaff of the Weapon Master",
@@ -5100,6 +3976,7 @@
       "Tendon Slice 10%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -5110,9 +3987,7 @@
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:drow_quarterstaff_of_the_weapon_master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Staff of the Necromancer",
@@ -5132,6 +4007,7 @@
       "Necromancy Focus III"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -5141,9 +4017,7 @@
       "Spell Penetration III",
       "Lesser Arcane Augmentation IX",
       "Necromancy Focus III"
-    ],
-    "itemKey": "item:staff_of_the_necromancer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Bludgeoning Bankroll",
@@ -5164,6 +4038,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -5171,9 +4046,7 @@
       "Bludgeoning 5",
       "Metalline",
       "Smashing 11"
-    ],
-    "itemKey": "item:epic_bludgeoning_bankroll",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Quarterstaff",
@@ -5191,13 +4064,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Twilight, Element of Magic",
@@ -5219,6 +4091,7 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +21",
@@ -5230,9 +4103,7 @@
       "Arcane Augmentation IX",
       "Spell Lore VI",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:twilight,_element_of_magic",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sireth, Spear of the Sky",
@@ -5252,6 +4123,7 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -5261,9 +4133,7 @@
       "Freedom of Movement",
       "Feather Falling",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:sireth,_spear_of_the_sky",
-    "setMembership": []
+    ]
   },
   {
     "name": "Silver Ingot Arcanum (level 23)",
@@ -5282,6 +4152,7 @@
       "Potency +72"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +24",
@@ -5290,9 +4161,7 @@
       "Glaciation +108",
       "Impulse +108",
       "Potency +72"
-    ],
-    "itemKey": "item:silver_ingot_arcanum_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Copper Ingot Arcanum (level 23)",
@@ -5311,6 +4180,7 @@
       "Potency +72"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +24",
@@ -5319,9 +4189,7 @@
       "Magnetism +108",
       "Impulse +108",
       "Potency +72"
-    ],
-    "itemKey": "item:copper_ingot_arcanum_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bronze Ingot Arcanum (level 23)",
@@ -5340,6 +4208,7 @@
       "Potency +72"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +24",
@@ -5348,9 +4217,7 @@
       "Corrosion +108",
       "Impulse +108",
       "Potency +72"
-    ],
-    "itemKey": "item:bronze_ingot_arcanum_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Pillar of Light",
@@ -5373,6 +4240,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +23",
@@ -5382,9 +4250,7 @@
       "Holy 5",
       "Hallowed +11",
       "Sacred +11"
-    ],
-    "itemKey": "item:epic_pillar_of_light",
-    "setMembership": []
+    ]
   },
   {
     "name": "Silver Ingot Arcanum (level 24)",
@@ -5403,6 +4269,7 @@
       "Potency +76"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +27",
@@ -5411,9 +4278,7 @@
       "Glaciation +114",
       "Impulse +114",
       "Potency +76"
-    ],
-    "itemKey": "item:silver_ingot_arcanum_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bronze Ingot Arcanum (level 24)",
@@ -5432,6 +4297,7 @@
       "Potency +76"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +27",
@@ -5440,9 +4306,7 @@
       "Corrosion +114",
       "Impulse +114",
       "Potency +76"
-    ],
-    "itemKey": "item:bronze_ingot_arcanum_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Copper Ingot Arcanum (level 24)",
@@ -5461,6 +4325,7 @@
       "Potency +76"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +27",
@@ -5469,9 +4334,7 @@
       "Magnetism +114",
       "Impulse +114",
       "Potency +76"
-    ],
-    "itemKey": "item:copper_ingot_arcanum_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Broken Oar (level 24)",
@@ -5492,6 +4355,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -5499,9 +4363,7 @@
       "Impact",
       "Doublestrike 12%",
       "Felling the Oak"
-    ],
-    "itemKey": "item:epic_broken_oar_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Silver Ingot Arcanum (level 25)",
@@ -5520,6 +4382,7 @@
       "Potency +80"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -5528,9 +4391,7 @@
       "Glaciation +120",
       "Impulse +120",
       "Potency +80"
-    ],
-    "itemKey": "item:silver_ingot_arcanum_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bronze Ingot Arcanum (level 25)",
@@ -5549,6 +4410,7 @@
       "Potency +80"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -5557,9 +4419,7 @@
       "Corrosion +120",
       "Impulse +120",
       "Potency +80"
-    ],
-    "itemKey": "item:bronze_ingot_arcanum_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dreampiercer",
@@ -5581,6 +4441,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -5589,9 +4450,7 @@
       "Life Stealing",
       "Enchantment Focus III",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:dreampiercer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Copper Ingot Arcanum (level 25)",
@@ -5610,6 +4469,7 @@
       "Potency +80"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -5618,9 +4478,7 @@
       "Magnetism +120",
       "Impulse +120",
       "Potency +80"
-    ],
-    "itemKey": "item:copper_ingot_arcanum_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Elemental Bloom",
@@ -5641,6 +4499,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -5648,9 +4507,7 @@
       "Bodyfeeder",
       "Improved Paralyzing",
       "Bewildering"
-    ],
-    "itemKey": "item:epic_elemental_bloom",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Bone Crusher",
@@ -5672,6 +4529,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+10 Enhancement Bonus",
@@ -5680,9 +4538,7 @@
       "Rockslide",
       "Shockwave",
       "Dexterity +11"
-    ],
-    "itemKey": "item:epic_bone_crusher",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Quarterstaff",
@@ -5697,14 +4553,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mythic Bone Crusher",
@@ -5727,6 +4582,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+10 Enhancement Bonus",
@@ -5736,9 +4592,7 @@
       "Shockwave",
       "Exceptional Stunning +2",
       "Dexterity +11"
-    ],
-    "itemKey": "item:mythic_bone_crusher",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Light Unending",
@@ -5761,6 +4615,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -5770,9 +4625,7 @@
       "Improved Banishing",
       "Holy VI",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:epic_light_unending",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Stonework Beam",
@@ -5793,6 +4646,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+13 Enhancement Bonus",
@@ -5800,9 +4654,7 @@
       "Improved Paralyzing",
       "Quality Deception +2",
       "Shield +13"
-    ],
-    "itemKey": "item:legendary_stonework_beam",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Slave Master's Staff",
@@ -5828,6 +4680,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Against the Slave Lords Set Bonus"
     ],
@@ -5841,9 +4694,7 @@
       "Elemental Resonance +142",
       "Acid Lore +21%",
       "Insightful Conjuration Focus +3"
-    ],
-    "itemKey": "item:legendary_slave_master's_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nocturne, the Song of Night",
@@ -5869,6 +4720,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +28",
@@ -5879,9 +4731,7 @@
       "Insightful Impulse +72",
       "Quality Evocation Focus +1",
       "Evocation Focus +6"
-    ],
-    "itemKey": "item:nocturne,_the_song_of_night",
-    "setMembership": []
+    ]
   },
   {
     "name": "Gulthias Staff",
@@ -5904,6 +4754,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5911,9 +4762,7 @@
       "Animal Bane 6",
       "Aberration Bane 6",
       "Vampirism 3"
-    ],
-    "itemKey": "item:gulthias_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Broken Oar (level 28)",
@@ -5934,6 +4783,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -5941,9 +4791,7 @@
       "Impact",
       "Doublestrike 14%",
       "Felling the Oak"
-    ],
-    "itemKey": "item:epic_broken_oar_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Staff of Shadow",
@@ -5965,13 +4813,12 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Adamantine"
-    ],
-    "itemKey": "item:the_staff_of_shadow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Staff of Irian",
@@ -5997,6 +4844,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +28",
@@ -6007,9 +4855,7 @@
       "Irian's Fury",
       "Irian's Might",
       "Brazen Brilliance"
-    ],
-    "itemKey": "item:staff_of_irian",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Echo of Wave",
@@ -6034,6 +4880,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Cerulean Wave"
     ],
@@ -6044,9 +4891,7 @@
       "Power of the Frozen Storm +142",
       "Freedom of Movement",
       "Underwater Action"
-    ],
-    "itemKey": "item:legendary_echo_of_wave",
-    "setMembership": []
+    ]
   },
   {
     "name": "Reflection of Wave",
@@ -6072,6 +4917,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6082,9 +4928,7 @@
       "Greater Water Elemental Form",
       "Underwater Action",
       "Swirling Icy Shield — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:reflection_of_wave",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Eclipse Itself",
@@ -6107,6 +4951,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6116,9 +4961,7 @@
       "Spell Lore +12",
       "Quality Spell Focus Mastery +2",
       "Arcane Augmentation IX"
-    ],
-    "itemKey": "item:the_eclipse_itself",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Firestorm Conduit",
@@ -6144,6 +4987,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6154,9 +4998,7 @@
       "Evocation Focus +5",
       "Arcane Augmentation IX",
       "Quality Spell Focus Mastery +2"
-    ],
-    "itemKey": "item:legendary_firestorm_conduit",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Moonbeam",
@@ -6177,6 +5019,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -6184,9 +5027,7 @@
       "Holy 6",
       "Doublestrike 15%",
       "Felling the Oak"
-    ],
-    "itemKey": "item:legendary_moonbeam",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Creeping Dust Conduit",
@@ -6212,6 +5053,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6222,9 +5064,7 @@
       "Evocation Focus +5",
       "Arcane Augmentation IX",
       "Quality Spell Focus Mastery +2"
-    ],
-    "itemKey": "item:legendary_creeping_dust_conduit",
-    "setMembership": []
+    ]
   },
   {
     "name": "Blightstaff",
@@ -6252,6 +5092,7 @@
       "Purple",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Earthgrab Guard"
     ],
@@ -6263,9 +5104,7 @@
       "Spell Focus Mastery +5",
       "Spell Penetration +9",
       "Inflict Blight"
-    ],
-    "itemKey": "item:blightstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spear of the Mournlands",
@@ -6290,6 +5129,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "If your character's deity is the Lord of Blades: Favor of the Lord of Blades",
@@ -6299,9 +5139,7 @@
       "Fetters of Unreality",
       "Keen",
       "Improved Destruction"
-    ],
-    "itemKey": "item:spear_of_the_mournlands",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Quarterstaff",
@@ -6322,6 +5160,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -6329,9 +5168,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Staff of the Summer Solstice",
@@ -6356,6 +5193,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6365,9 +5203,7 @@
       "Power of the Flames of Purity +148",
       "Sacred Spell Focus Mastery +2",
       "Summer's Impertenence"
-    ],
-    "itemKey": "item:staff_of_the_summer_solstice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Staff of the Winter Solstice",
@@ -6392,6 +5228,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6401,9 +5238,7 @@
       "Power of the Moonlit Haunt +148",
       "Profane Spell Focus Mastery +2",
       "Winter's Impertenence"
-    ],
-    "itemKey": "item:staff_of_the_winter_solstice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Combustible Devoted Quarterstaff",
@@ -6432,6 +5267,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6445,9 +5281,7 @@
       "Evocation Focus +5",
       "Physical Sheltering +33",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_combustible_devoted_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Combustible Nullified Quarterstaff",
@@ -6476,6 +5310,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6489,9 +5324,7 @@
       "Evocation Focus +5",
       "Necromancy Focus +5",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_combustible_nullified_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Combustible Radiant Quarterstaff",
@@ -6520,6 +5353,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6533,9 +5367,7 @@
       "Evocation Focus +5",
       "Insightful Wizardry +134",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_combustible_radiant_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Combustible Reconstructed Quarterstaff",
@@ -6564,6 +5396,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6577,9 +5410,7 @@
       "Evocation Focus +5",
       "False Life +50",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_combustible_reconstructed_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Combustible Resonating Quarterstaff",
@@ -6608,6 +5439,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6621,9 +5453,7 @@
       "Evocation Focus +5",
       "Magical Sheltering +33",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_combustible_resonating_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Corrosive Devoted Quarterstaff",
@@ -6652,6 +5482,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6665,9 +5496,7 @@
       "Conjuration Focus +5",
       "Physical Sheltering +33",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_corrosive_devoted_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Corrosive Nullified Quarterstaff",
@@ -6696,6 +5525,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6709,9 +5539,7 @@
       "Conjuration Focus +5",
       "Necromancy Focus +5",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_corrosive_nullified_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Corrosive Radiant Quarterstaff",
@@ -6740,6 +5568,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6753,9 +5582,7 @@
       "Conjuration Focus +5",
       "Insightful Wizardry +134",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_corrosive_radiant_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Corrosive Reconstructed Quarterstaff",
@@ -6784,6 +5611,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6797,9 +5625,7 @@
       "Conjuration Focus +5",
       "False Life +50",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_corrosive_reconstructed_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Corrosive Resonating Quarterstaff",
@@ -6828,6 +5654,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6841,9 +5668,7 @@
       "Conjuration Focus +5",
       "Magical Sheltering +33",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_corrosive_resonating_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Impulsive Devoted Quarterstaff",
@@ -6872,6 +5697,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6885,9 +5711,7 @@
       "Evocation Focus +5",
       "Physical Sheltering +33",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_impulsive_devoted_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Impulsive Nullified Quarterstaff",
@@ -6916,6 +5740,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6929,9 +5754,7 @@
       "Evocation Focus +5",
       "Necromancy Focus +5",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_impulsive_nullified_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Impulsive Radiant Quarterstaff",
@@ -6960,6 +5783,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -6973,9 +5797,7 @@
       "Evocation Focus +5",
       "Insightful Wizardry +134",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_impulsive_radiant_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Impulsive Reconstructed Quarterstaff",
@@ -7004,6 +5826,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -7017,9 +5840,7 @@
       "Evocation Focus +5",
       "False Life +50",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_impulsive_reconstructed_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Impulsive Resonating Quarterstaff",
@@ -7048,6 +5869,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -7061,9 +5883,7 @@
       "Evocation Focus +5",
       "Magical Sheltering +33",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_impulsive_resonating_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Magnetic Devoted Quarterstaff",
@@ -7092,6 +5912,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -7105,9 +5926,7 @@
       "Evocation Focus +5",
       "Physical Sheltering +33",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_magnetic_devoted_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Magnetic Nullified Quarterstaff",
@@ -7136,6 +5955,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -7149,9 +5969,7 @@
       "Evocation Focus +5",
       "Necromancy Focus +5",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_magnetic_nullified_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Magnetic Radiant Quarterstaff",
@@ -7180,6 +5998,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -7193,9 +6012,7 @@
       "Evocation Focus +5",
       "Insightful Wizardry +134",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_magnetic_radiant_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Magnetic Reconstructed Quarterstaff",
@@ -7224,6 +6041,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -7237,9 +6055,7 @@
       "Evocation Focus +5",
       "False Life +50",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_magnetic_reconstructed_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Magnetic Resonating Quarterstaff",
@@ -7268,6 +6084,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -7281,9 +6098,7 @@
       "Evocation Focus +5",
       "Magical Sheltering +33",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_magnetic_resonating_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Glaciated Devoted Quarterstaff",
@@ -7312,6 +6127,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -7325,9 +6141,7 @@
       "Evocation Focus +5",
       "Physical Sheltering +33",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_glaciated_devoted_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Glaciated Nullified Quarterstaff",
@@ -7356,6 +6170,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -7369,9 +6184,7 @@
       "Evocation Focus +5",
       "Necromancy Focus +5",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_glaciated_nullified_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Glaciated Radiant Quarterstaff",
@@ -7400,6 +6213,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -7413,9 +6227,7 @@
       "Evocation Focus +5",
       "Insightful Wizardry +134",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_glaciated_radiant_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Glaciated Reconstructed Quarterstaff",
@@ -7444,6 +6256,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -7457,9 +6270,7 @@
       "Evocation Focus +5",
       "False Life +50",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_glaciated_reconstructed_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Glaciated Resonating Quarterstaff",
@@ -7488,6 +6299,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -7501,9 +6313,7 @@
       "Evocation Focus +5",
       "Magical Sheltering +33",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_glaciated_resonating_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Quarterstaff",
@@ -7524,6 +6334,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -7531,9 +6342,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Quarterstaff",
@@ -7554,6 +6363,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -7561,9 +6371,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Quarterstaff",
@@ -7584,6 +6392,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -7591,9 +6400,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Quarterstaff",
@@ -7614,6 +6421,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -7621,9 +6429,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spear of the Hunter",
@@ -7650,38 +6456,8 @@
       "Red",
       "Purple"
     ],
-    "setBonuses": [
-      {
-        "setId": "huntmaster_s_favor",
-        "setName": "Huntmaster's Favor",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "piecesRequired": 2,
-        "effect": "2 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice",
-        "effectRaw": "2 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice",
-        "tieredEffects": []
-      },
-      {
-        "setId": "huntmaster_s_favor",
-        "setName": "Huntmaster's Favor",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "piecesRequired": 3,
-        "effect": "3 Pieces Equipped: +15% Artifact bonus to Doublestrike",
-        "effectRaw": "3 Pieces Equipped: +15% Artifact bonus to Doublestrike",
-        "tieredEffects": []
-      },
-      {
-        "setId": "huntmaster_s_favor",
-        "setName": "Huntmaster's Favor",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "piecesRequired": 4,
-        "effect": "4 Pieces Equipped: +15% Artifact bonus to damage vs the Helpless",
-        "effectRaw": "4 Pieces Equipped: +15% Artifact bonus to damage vs the Helpless",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "The Falling Star",
@@ -7692,40 +6468,6 @@
       "2 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice",
       "3 Pieces Equipped: +15% Artifact bonus to Doublestrike",
       "4 Pieces Equipped: +15% Artifact bonus to damage vs the Helpless"
-    ],
-    "itemKey": "item:spear_of_the_hunter",
-    "setMembership": [
-      {
-        "setId": "huntmaster_s_favor",
-        "setName": "Huntmaster's Favor",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "minLevels": [
-          29
-        ],
-        "availablePieces": 5,
-        "bonusRaw": "2 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice 3 Pieces Equipped: +15% Artifact bonus to Doublestrike 4 Pieces Equipped: +15% Artifact bonus to damage vs the Helpless",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "2 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice",
-            "effectRaw": "2 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "3 Pieces Equipped: +15% Artifact bonus to Doublestrike",
-            "effectRaw": "3 Pieces Equipped: +15% Artifact bonus to Doublestrike",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "4 Pieces Equipped: +15% Artifact bonus to damage vs the Helpless",
-            "effectRaw": "4 Pieces Equipped: +15% Artifact bonus to damage vs the Helpless",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -7753,6 +6495,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -7764,9 +6507,7 @@
       "Spell Penetration +9",
       "Bless Ward",
       "Bane of the Depths"
-    ],
-    "itemKey": "item:legendary_bullywug_priestess'_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Luminous Truth",
@@ -7789,6 +6530,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -7798,9 +6540,7 @@
       "Flaming Blast 6",
       "Coruscating 6",
       "Overwhelming Incineration"
-    ],
-    "itemKey": "item:legendary_luminous_truth",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Souleater",
@@ -7825,6 +6565,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Trap the Soul"
     ],
@@ -7835,9 +6576,7 @@
       "Vampirism 3",
       "Negativity 6",
       "Profane Lifeforce +45"
-    ],
-    "itemKey": "item:legendary_souleater",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Staff of Nat Gann",
@@ -7861,6 +6600,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -7869,9 +6609,7 @@
       "Deception +11",
       "Seeker +14",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:legendary_staff_of_nat_gann",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Staff of Arcane Power",
@@ -7898,6 +6636,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "The Legendary Desert's Biting Sands"
     ],
@@ -7912,9 +6651,7 @@
       "Efficient Metamagic - Enlarge II",
       "Efficient Metamagic - Extend II",
       "Good Luck +3"
-    ],
-    "itemKey": "item:legendary_staff_of_arcane_power",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Staff of Inner Sight",
@@ -7942,6 +6679,7 @@
       "Colorless",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "The Legendary Desert's Biting Sands"
     ],
@@ -7955,9 +6693,7 @@
       "True Seeing",
       "Potency +100",
       "Insightful Potency +50"
-    ],
-    "itemKey": "item:legendary_staff_of_inner_sight",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Tinder",
@@ -7984,6 +6720,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Magma Surge",
       "Legendary Magma Surge Guard",
@@ -7996,9 +6733,7 @@
       "Fire Lore +21%",
       "Combustion +146",
       "Overwhelming Incineration"
-    ],
-    "itemKey": "item:legendary_tinder",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Spearfisher",
@@ -8020,17 +6755,22 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Animal Bane 6",
       "Tidal 6",
       "Cold Vulnerability",
-      "Underwater Action +21",
-      "Isle of Dread: Scale Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:legendary_spearfisher",
-    "setMembership": []
+      "Underwater Action +21"
+    ]
   },
   {
     "name": "Dinosaur Bone Quarterstaff",
@@ -8053,16 +6793,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_quarterstaff",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Quarterstaff",
@@ -8085,16 +6845,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_quarterstaff",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Staff of the Shadow",
@@ -8117,6 +6897,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -8124,9 +6905,7 @@
       "Life Stealing",
       "Entropic 6",
       "Malleable"
-    ],
-    "itemKey": "item:legendary_staff_of_the_shadow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Destructive Shadow Staff",
@@ -8149,6 +6928,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -8156,9 +6936,7 @@
       "Life Stealing",
       "Entropic 6",
       "Improved Destruction"
-    ],
-    "itemKey": "item:legendary_destructive_shadow_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Bloody Shadow Staff",
@@ -8181,6 +6959,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -8188,9 +6967,7 @@
       "Life Stealing",
       "Entropic 6",
       "Feeding 30"
-    ],
-    "itemKey": "item:legendary_bloody_shadow_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Infectious Shadow Staff",
@@ -8213,6 +6990,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -8221,9 +6999,7 @@
       "Vampirism 3",
       "Life Stealing",
       "Entropic 6"
-    ],
-    "itemKey": "item:legendary_infectious_shadow_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Petrifying Shadow Staff",
@@ -8246,6 +7022,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Stone Prison"
     ],
@@ -8254,9 +7031,7 @@
       "Vampirism 3",
       "Life Stealing",
       "Entropic 6"
-    ],
-    "itemKey": "item:legendary_petrifying_shadow_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Master Transmuter's Staff",
@@ -8283,6 +7058,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Disintegrate — 3 Charges (Recharged/Day:3)",
@@ -8294,9 +7070,7 @@
       "Potency +103",
       "Concentration +21",
       "Healing Lore +22%"
-    ],
-    "itemKey": "item:legendary_master_transmuter's_staff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Broken Oar (level 32)",
@@ -8317,6 +7091,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -8324,9 +7099,7 @@
       "Impact",
       "Doublestrike 16%",
       "Felling the Oak"
-    ],
-    "itemKey": "item:legendary_broken_oar_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Quarterstaff",
@@ -8349,6 +7122,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -8356,9 +7130,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Quarterstaff",
@@ -8382,6 +7154,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -8391,9 +7164,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_quarterstaff",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Quarterstaff of the Fallen Age",
@@ -8416,6 +7187,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -8423,9 +7195,7 @@
       "Anarchic 7",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:legendary_quarterstaff_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Quarterstaff of the Golden Age",
@@ -8448,6 +7218,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -8455,9 +7226,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_quarterstaff_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Quarterstaff of the Undying Age",
@@ -8480,6 +7249,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -8487,9 +7257,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:quarterstaff_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Amplin, the Channeling Bolt",
@@ -8514,6 +7282,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -8523,9 +7292,7 @@
       "Quality Spell Focus Mastery +2",
       "Sealed in Mist",
       "Exceptional Spell Focus Mastery +2"
-    ],
-    "itemKey": "item:amplin,_the_channeling_bolt",
-    "setMembership": []
+    ]
   },
   {
     "name": "Conduct, the Bolt of Rage",
@@ -8548,6 +7315,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Electric Storm"
     ],
@@ -8556,9 +7324,7 @@
       "Lightning Lash",
       "Shocking Blast 7",
       "Sealed in Mist"
-    ],
-    "itemKey": "item:conduct,_the_bolt_of_rage",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Quarterstaff",
@@ -8581,16 +7347,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_quarterstaff",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Quarterstaff",
@@ -8613,15 +7399,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_quarterstaff",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

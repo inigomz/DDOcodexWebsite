@@ -1,0 +1,2695 @@
+[
+  {
+    "name": "Ember Sickle",
+    "link": "https://ddowiki.com/page/Item:Ember_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Masterwork",
+      "Fire Touch",
+      "Starter"
+    ],
+    "itemKey": "item:ember_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Gnashtooth Sickle",
+    "link": "https://ddowiki.com/page/Item:Gnashtooth_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Stench",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Stench"
+    ],
+    "itemKey": "item:gnashtooth_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Sworn Silver Sickle",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Ethereal Sickle",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Sickle of Vile Attunement",
+    "link": "https://ddowiki.com/page/Item:Sickle_of_Vile_Attunement",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 3,
+    "effectsRaw": [
+      "Spellcasting Implement +3",
+      "+3 Enhancement Bonus",
+      "Void Lore +7%",
+      "Nullification +47",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +3",
+      "+3 Enhancement Bonus",
+      "Void Lore +7%",
+      "Nullification +47"
+    ],
+    "itemKey": "item:sickle_of_vile_attunement",
+    "setMembership": []
+  },
+  {
+    "name": "Kookie Kutter (level 5)",
+    "link": "https://ddowiki.com/page/Item:Kookie_Kutter_(level_5)",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Bleeding 2",
+      "Gashing 5",
+      "Slashing 2",
+      "Armor-Piercing 6%",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Bleeding 2",
+      "Gashing 5",
+      "Slashing 2",
+      "Armor-Piercing 6%"
+    ],
+    "itemKey": "item:kookie_kutter_(level_5)",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Sickle",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Flamesalt Sickle",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Sickle of Sypheros",
+    "link": "https://ddowiki.com/page/Item:Sickle_of_Sypheros",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 6,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Frost",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Frost"
+    ],
+    "itemKey": "item:sickle_of_sypheros",
+    "setMembership": []
+  },
+  {
+    "name": "+1 Vorpal Sickle of Haggling",
+    "link": "https://ddowiki.com/page/Item:%2B1_Vorpal_Sickle_of_Haggling",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 6,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Haggle +3",
+      "Vorpal"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Haggle +3",
+      "Vorpal"
+    ],
+    "itemKey": "item:+1_vorpal_sickle_of_haggling",
+    "setMembership": []
+  },
+  {
+    "name": "The Hedge Trimmer",
+    "link": "https://ddowiki.com/page/Item:The_Hedge_Trimmer",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 7,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Plant Bane 2",
+      "Piercing 2",
+      "Bleeding 2",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Plant Bane 2",
+      "Piercing 2",
+      "Bleeding 2",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:the_hedge_trimmer",
+    "setMembership": []
+  },
+  {
+    "name": "Calamitous Sickle",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1"
+    ],
+    "itemKey": "item:calamitous_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Crescents",
+    "link": "https://ddowiki.com/page/Item:Shining_Crescents",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Vertigo +6",
+      "Tendon Slice 6%",
+      "Adamantine"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Vertigo +6",
+      "Tendon Slice 6%",
+      "Adamantine"
+    ],
+    "itemKey": "item:shining_crescents",
+    "setMembership": []
+  },
+  {
+    "name": "Tharkuul's Bane",
+    "link": "https://ddowiki.com/page/Item:Tharkuul%27s_Bane",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus"
+    ],
+    "itemKey": "item:tharkuul's_bane",
+    "setMembership": []
+  },
+  {
+    "name": "Widowblight",
+    "link": "https://ddowiki.com/page/Item:Widowblight",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Paralyzing",
+      "Bewildering",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Paralyzing",
+      "Bewildering"
+    ],
+    "itemKey": "item:widowblight",
+    "setMembership": []
+  },
+  {
+    "name": "Kookie Kutter (level 10)",
+    "link": "https://ddowiki.com/page/Item:Kookie_Kutter_(level_10)",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Bleeding 3",
+      "Gashing 7",
+      "Slashing 3",
+      "Armor-Piercing 9%",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Bleeding 3",
+      "Gashing 7",
+      "Slashing 3",
+      "Armor-Piercing 9%"
+    ],
+    "itemKey": "item:kookie_kutter_(level_10)",
+    "setMembership": []
+  },
+  {
+    "name": "Macabre Sickle",
+    "link": "https://ddowiki.com/page/Item:Macabre_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Barovian's Sickle",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Green Steel Sickle",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Sickle",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Sickle of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Sickle_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:sickle_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Sickle of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Sickle_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:sickle_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Wild Flame",
+    "link": "https://ddowiki.com/page/Item:Wild_Flame",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 14,
+    "effectsRaw": [
+      "Spellcasting Implement +14",
+      "+5 Enhancement Bonus",
+      "Combustion +90",
+      "Insightful Combustion +45",
+      "Fire Lore +13%",
+      "Evocation Focus +3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "seasons_of_change",
+        "setName": "Seasons of Change",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 2,
+        "effect": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
+        "effectRaw": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Fire and Cold Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact Bonus to Fire and Cold Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "seasons_of_change",
+        "setName": "Seasons of Change",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 2,
+        "effect": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+        "effectRaw": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Evocation Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Evocation Spell DCs"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +14",
+      "+5 Enhancement Bonus",
+      "Combustion +90",
+      "Insightful Combustion +45",
+      "Fire Lore +13%",
+      "Evocation Focus +3"
+    ],
+    "itemKey": "item:wild_flame",
+    "setMembership": [
+      {
+        "setId": "seasons_of_change",
+        "setName": "Seasons of Change",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "minLevels": [
+          14,
+          29
+        ],
+        "availablePieces": 3,
+        "bonusRaw": "2 Pieces Equipped: ♦+10★+30 Artifact Bonus to Fire and Cold Spell Power ♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
+            "effectRaw": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Fire and Cold Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact Bonus to Fire and Cold Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+            "effectRaw": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Evocation Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Evocation Spell DCs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wild Frost",
+    "link": "https://ddowiki.com/page/Item:Wild_Frost",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 14,
+    "effectsRaw": [
+      "Spellcasting Implement +14",
+      "+5 Enhancement Bonus",
+      "Glaciation +90",
+      "Insightful Glaciation +45",
+      "Ice Lore +13%",
+      "Conjuration Focus +3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "seasons_of_change",
+        "setName": "Seasons of Change",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 2,
+        "effect": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
+        "effectRaw": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Fire and Cold Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact Bonus to Fire and Cold Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "seasons_of_change",
+        "setName": "Seasons of Change",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 2,
+        "effect": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+        "effectRaw": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Evocation Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Evocation Spell DCs"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +14",
+      "+5 Enhancement Bonus",
+      "Glaciation +90",
+      "Insightful Glaciation +45",
+      "Ice Lore +13%",
+      "Conjuration Focus +3"
+    ],
+    "itemKey": "item:wild_frost",
+    "setMembership": [
+      {
+        "setId": "seasons_of_change",
+        "setName": "Seasons of Change",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "minLevels": [
+          14,
+          29
+        ],
+        "availablePieces": 3,
+        "bonusRaw": "2 Pieces Equipped: ♦+10★+30 Artifact Bonus to Fire and Cold Spell Power ♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
+            "effectRaw": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Fire and Cold Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact Bonus to Fire and Cold Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+            "effectRaw": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Evocation Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Evocation Spell DCs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thunderstorm Crescent (level 15)",
+    "link": "https://ddowiki.com/page/Item:Thunderstorm_Crescent_(level_15)",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 15,
+    "effectsRaw": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Shock",
+      "Lightning Strike",
+      "Magnetism +78"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Shock",
+      "Lightning Strike",
+      "Magnetism +78"
+    ],
+    "itemKey": "item:thunderstorm_crescent_(level_15)",
+    "setMembership": []
+  },
+  {
+    "name": "Kookie Kutter (level 15)",
+    "link": "https://ddowiki.com/page/Item:Kookie_Kutter_(level_15)",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Bleeding 4",
+      "Gashing 9",
+      "Slashing 4",
+      "Armor-Piercing 12%",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Bleeding 4",
+      "Gashing 9",
+      "Slashing 4",
+      "Armor-Piercing 12%"
+    ],
+    "itemKey": "item:kookie_kutter_(level_15)",
+    "setMembership": []
+  },
+  {
+    "name": "Flicker of the Crescent Moon",
+    "link": "https://ddowiki.com/page/Item:Flicker_of_the_Crescent_Moon",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Chilling 4",
+      "Bleeding 4",
+      "Keen",
+      "Insightful Deception +3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Chilling 4",
+      "Bleeding 4",
+      "Keen",
+      "Insightful Deception +3"
+    ],
+    "itemKey": "item:flicker_of_the_crescent_moon",
+    "setMembership": []
+  },
+  {
+    "name": "Syranian Sickle",
+    "link": "https://ddowiki.com/page/Item:Syranian_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Mystic Force",
+    "link": "https://ddowiki.com/page/Item:Mystic_Force",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 15,
+    "effectsRaw": [
+      "Spellcasting Implement +15",
+      "+3 Enhancement Bonus",
+      "Impulse +81",
+      "Insightful Enchantment Focus +2"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+3 Enhancement Bonus",
+      "Impulse +81",
+      "Insightful Enchantment Focus +2"
+    ],
+    "itemKey": "item:mystic_force",
+    "setMembership": []
+  },
+  {
+    "name": "Dark Powers' Demands",
+    "link": "https://ddowiki.com/page/Item:Dark_Powers%27_Demands",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Kinetic Lore +12%",
+      "Insightful Evocation Focus +2"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Kinetic Lore +12%",
+      "Insightful Evocation Focus +2"
+    ],
+    "itemKey": "item:dark_powers'_demands",
+    "setMembership": []
+  },
+  {
+    "name": "Thunderstorm Crescent (level 16)",
+    "link": "https://ddowiki.com/page/Item:Thunderstorm_Crescent_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 16,
+    "effectsRaw": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Shocking Burst",
+      "Lightning Strike",
+      "Magnetism +78"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Shocking Burst",
+      "Lightning Strike",
+      "Magnetism +78"
+    ],
+    "itemKey": "item:thunderstorm_crescent_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Shadow's Curve",
+    "link": "https://ddowiki.com/page/Item:Shadow%27s_Curve",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Unholy 4",
+      "Negative Blast 4",
+      "Human Bane 4",
+      "Doublestrike 9%",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Unholy 4",
+      "Negative Blast 4",
+      "Human Bane 4",
+      "Doublestrike 9%"
+    ],
+    "itemKey": "item:shadow's_curve",
+    "setMembership": []
+  },
+  {
+    "name": "Thunderstorm Crescent (level 17)",
+    "link": "https://ddowiki.com/page/Item:Thunderstorm_Crescent_(level_17)",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 17,
+    "effectsRaw": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Voltaic",
+      "Lightning Strike",
+      "Magnetism +84"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Voltaic",
+      "Lightning Strike",
+      "Magnetism +84"
+    ],
+    "itemKey": "item:thunderstorm_crescent_(level_17)",
+    "setMembership": []
+  },
+  {
+    "name": "The Hook",
+    "link": "https://ddowiki.com/page/Item:The_Hook",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 17,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "The Dragging of the Depths 4",
+      "Limb Chopper",
+      "Bleeding 4",
+      "Weaken Undead",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "The Dragging of the Depths 4",
+      "Limb Chopper",
+      "Bleeding 4",
+      "Weaken Undead"
+    ],
+    "itemKey": "item:the_hook",
+    "setMembership": []
+  },
+  {
+    "name": "Death's Touch",
+    "link": "https://ddowiki.com/page/Item:Death%27s_Touch",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 18,
+    "effectsRaw": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Negative Energy Spike",
+      "Lesser Vampirism",
+      "Nullification +84",
+      "Void Lore IV",
+      "Taint of Evil",
+      "Suppressed Power"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Negative Energy Spike",
+      "Lesser Vampirism",
+      "Nullification +84",
+      "Void Lore IV",
+      "Taint of Evil",
+      "Suppressed Power"
+    ],
+    "itemKey": "item:death's_touch",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Reliquary Sickle",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Reliquary Sickle",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Kookie Kutter (level 20)",
+    "link": "https://ddowiki.com/page/Item:Kookie_Kutter_(level_20)",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Bleeding 4",
+      "Gashing 10",
+      "Slashing 4",
+      "Armor-Piercing 15%",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Bleeding 4",
+      "Gashing 10",
+      "Slashing 4",
+      "Armor-Piercing 15%"
+    ],
+    "itemKey": "item:kookie_kutter_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sworn Silver Sickle",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ethereal Sickle",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Icerazor",
+    "link": "https://ddowiki.com/page/Item:Icerazor",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 21,
+    "effectsRaw": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Glaciation +102",
+      "Ice Lore V",
+      "Slicing",
+      "Icy Burst",
+      "Freezing Ice",
+      "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 9 seconds)",
+      "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Glaciation +102",
+      "Ice Lore V",
+      "Slicing",
+      "Icy Burst",
+      "Freezing Ice",
+      "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 9 seconds)",
+      "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice."
+    ],
+    "itemKey": "item:icerazor",
+    "setMembership": []
+  },
+  {
+    "name": "Thunderstorm Crescent (level 22)",
+    "link": "https://ddowiki.com/page/Item:Thunderstorm_Crescent_(level_22)",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 22,
+    "effectsRaw": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Voltaic",
+      "Lightning Strike",
+      "Magnetism +102"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Voltaic",
+      "Lightning Strike",
+      "Magnetism +102"
+    ],
+    "itemKey": "item:thunderstorm_crescent_(level_22)",
+    "setMembership": []
+  },
+  {
+    "name": "Thunder-Forged Alloy Sickle",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Thunderstorm Crescent (level 23)",
+    "link": "https://ddowiki.com/page/Item:Thunderstorm_Crescent_(level_23)",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 23,
+    "effectsRaw": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Electrifying",
+      "Lightning Strike",
+      "Magnetism +108"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Electrifying",
+      "Lightning Strike",
+      "Magnetism +108"
+    ],
+    "itemKey": "item:thunderstorm_crescent_(level_23)",
+    "setMembership": []
+  },
+  {
+    "name": "Devourer's Reaping",
+    "link": "https://ddowiki.com/page/Item:Devourer%27s_Reaping",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Greater Vorpal",
+      "Doublestrike 14%",
+      "Hemorrhaging",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Greater Vorpal",
+      "Doublestrike 14%",
+      "Hemorrhaging"
+    ],
+    "itemKey": "item:devourer's_reaping",
+    "setMembership": []
+  },
+  {
+    "name": "Thunderstorm Crescent (level 24)",
+    "link": "https://ddowiki.com/page/Item:Thunderstorm_Crescent_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 24,
+    "effectsRaw": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Electrifying",
+      "Lightning Strike",
+      "Magnetism +114"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Electrifying",
+      "Lightning Strike",
+      "Magnetism +114"
+    ],
+    "itemKey": "item:thunderstorm_crescent_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Kookie Kutter (level 25)",
+    "link": "https://ddowiki.com/page/Item:Kookie_Kutter_(level_25)",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Bleeding 5",
+      "Gashing 12",
+      "Slashing 5",
+      "Armor-Piercing 18%",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Bleeding 5",
+      "Gashing 12",
+      "Slashing 5",
+      "Armor-Piercing 18%"
+    ],
+    "itemKey": "item:kookie_kutter_(level_25)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Steel Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Null, the Darkness Without",
+    "link": "https://ddowiki.com/page/Item:Null,_the_Darkness_Without",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 28,
+    "effectsRaw": [
+      "Nullification +145",
+      "Insightful Nullification +72",
+      "Void Lore +21%",
+      "Insightful Necromancy Focus +3",
+      "Devotion +145",
+      "Insightful Devotion +72",
+      "Healing Lore +21%",
+      "Efficient Metamagic - Empower Healing II",
+      "Spellcasting Implement +28",
+      "+15 Enhancement Bonus",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Nullification +145",
+      "Insightful Nullification +72",
+      "Void Lore +21%",
+      "Insightful Necromancy Focus +3",
+      "Devotion +145",
+      "Insightful Devotion +72",
+      "Healing Lore +21%",
+      "Efficient Metamagic - Empower Healing II",
+      "Spellcasting Implement +28",
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:null,_the_darkness_without",
+    "setMembership": []
+  },
+  {
+    "name": "Brilliant Crescent",
+    "link": "https://ddowiki.com/page/Item:Brilliant_Crescent",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Axiomatic 6",
+      "Keen",
+      "Limb Chopper",
+      "Adamantine",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "brilliant_crescents",
+        "setName": "Brilliant Crescents",
+        "source": "named_item_sets",
+        "sourceSection": "Killing Time sets",
+        "piecesRequired": 2,
+        "effect": "+20% Offhand Strike Chance",
+        "effectRaw": "+20% Offhand Strike Chance",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Axiomatic 6",
+      "Keen",
+      "Limb Chopper",
+      "Adamantine"
+    ],
+    "itemKey": "item:brilliant_crescent",
+    "setMembership": [
+      {
+        "setId": "brilliant_crescents",
+        "setName": "Brilliant Crescents",
+        "source": "named_item_sets",
+        "sourceSection": "Killing Time sets",
+        "minLevels": [
+          28
+        ],
+        "availablePieces": 1,
+        "bonusRaw": "2 Pieces Equipped: +20% Offhand Strike Chance",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "+20% Offhand Strike Chance",
+            "effectRaw": "+20% Offhand Strike Chance",
+            "tieredEffects": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Legendary Wild Flame",
+    "link": "https://ddowiki.com/page/Item:Legendary_Wild_Flame",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Combustion +142",
+      "Insightful Combustion +71",
+      "Fire Lore +21%",
+      "Evocation Focus +5",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Combustion +142",
+      "Insightful Combustion +71",
+      "Fire Lore +21%",
+      "Evocation Focus +5"
+    ],
+    "itemKey": "item:legendary_wild_flame",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Wild Frost",
+    "link": "https://ddowiki.com/page/Item:Legendary_Wild_Frost",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Glaciation +142",
+      "Insightful Glaciation +71",
+      "Ice Lore +21%",
+      "Conjuration Focus +5",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Glaciation +142",
+      "Insightful Glaciation +71",
+      "Ice Lore +21%",
+      "Conjuration Focus +5"
+    ],
+    "itemKey": "item:legendary_wild_frost",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flicker of the Crescent Moon",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flicker_of_the_Crescent_Moon",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Bleeding 6",
+      "Keen",
+      "Insightful Deception +5",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Bleeding 6",
+      "Keen",
+      "Insightful Deception +5"
+    ],
+    "itemKey": "item:legendary_flicker_of_the_crescent_moon",
+    "setMembership": []
+  },
+  {
+    "name": "The Legendary Hook",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Hook",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "The Dragging of the Depths 6",
+      "Bleeding 6",
+      "Limb Chopper",
+      "Weaken Undead",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "The Dragging of the Depths 6",
+      "Bleeding 6",
+      "Limb Chopper",
+      "Weaken Undead"
+    ],
+    "itemKey": "item:the_legendary_hook",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Sickle of Vile Attunement",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sickle_of_Vile_Attunement",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Void Lore +21%",
+      "Nullification +142",
+      "Conjuration Focus +5",
+      "Transmutation Focus +5",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Void Lore +21%",
+      "Nullification +142",
+      "Conjuration Focus +5",
+      "Transmutation Focus +5"
+    ],
+    "itemKey": "item:legendary_sickle_of_vile_attunement",
+    "setMembership": []
+  },
+  {
+    "name": "Morninglord's Sickle",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Nightmother's Sickle",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Syranian Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Shadowscythe",
+    "link": "https://ddowiki.com/page/Item:Shadowscythe",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Shadowblade",
+      "Illusion Focus +6",
+      "Sovereign Nightmares",
+      "Insightful Impulse +74",
+      "Quality Impulse +36",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Shadowblade",
+      "Illusion Focus +6",
+      "Sovereign Nightmares",
+      "Insightful Impulse +74",
+      "Quality Impulse +36"
+    ],
+    "itemKey": "item:shadowscythe",
+    "setMembership": []
+  },
+  {
+    "name": "The Legendary Hedge Trimmer",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Hedge_Trimmer",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Plant Bane 6",
+      "Piercing 6",
+      "Bleeding 6",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Plant Bane 6",
+      "Piercing 6",
+      "Bleeding 6",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:the_legendary_hedge_trimmer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Alchemical Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flamesalt Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Kookie Kutter (level 30)",
+    "link": "https://ddowiki.com/page/Item:Kookie_Kutter_(level_30)",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Bleeding 6",
+      "Gashing 14",
+      "Slashing 6",
+      "Armor-Piercing 21%",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+14 Enhancement Bonus",
+      "Bleeding 6",
+      "Gashing 14",
+      "Slashing 6",
+      "Armor-Piercing 21%"
+    ],
+    "itemKey": "item:kookie_kutter_(level_30)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shadow's Curve",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shadow%27s_Curve",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Unholy 6",
+      "Negative Blast 6",
+      "Human Bane 6",
+      "Doublestrike 15%",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Unholy 6",
+      "Negative Blast 6",
+      "Human Bane 6",
+      "Doublestrike 15%"
+    ],
+    "itemKey": "item:legendary_shadow's_curve",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Sickle",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Attuned Bone Sickle",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:attuned_bone_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shining Reliquary Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Defiled Reliquary Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Sickle of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sickle_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_sickle_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Sickle of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sickle_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_sickle_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Sickle of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Sickle_of_the_Undying_Age",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:sickle_of_the_undying_age",
+    "setMembership": []
+  },
+  {
+    "name": "Wither, the Venomous Voice",
+    "link": "https://ddowiki.com/page/Item:Wither,_the_Venomous_Voice",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 33,
+    "effectsRaw": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Grip of Venom",
+      "Void Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Grip of Venom",
+      "Void Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist"
+    ],
+    "itemKey": "item:wither,_the_venomous_voice",
+    "setMembership": []
+  },
+  {
+    "name": "Waste, the Weak's End",
+    "link": "https://ddowiki.com/page/Item:Waste,_the_Weak%27s_End",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Grip of Venom",
+      "Venomscale",
+      "Legendary Paralysis",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Paralysis"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Grip of Venom",
+      "Venomscale",
+      "Sealed in Mist"
+    ],
+    "itemKey": "item:waste,_the_weak's_end",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Calamitous Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_calamitous_sickle",
+    "setMembership": []
+  },
+  {
+    "name": "The Reaper of Lives",
+    "link": "https://ddowiki.com/page/Item:The_Reaper_of_Lives",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Murderous Edge",
+      "Revel in Blood (Slashing)",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Murderous Edge",
+      "Revel in Blood (Slashing)"
+    ],
+    "itemKey": "item:the_reaper_of_lives",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Sickle",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Sickle",
+    "slot": "weapon",
+    "itemSubtype": "sickle",
+    "handedness": "one_handed",
+    "category": "Sickles",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_sickle",
+    "setMembership": []
+  }
+]

@@ -1,0 +1,2482 @@
+[
+  {
+    "name": "Ethereal Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Sworn Silver Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Copper Dwarven War Axe",
+    "link": "https://ddowiki.com/page/Item:Copper_Dwarven_War_Axe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Doublestrike 4%",
+      "Righteous",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Doublestrike 4%",
+      "Righteous"
+    ],
+    "itemKey": "item:copper_dwarven_war_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Flamesalt Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Calamitous Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1"
+    ],
+    "itemKey": "item:calamitous_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Barovian's Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Macabre Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Macabre_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Claws of Phinorae",
+    "link": "https://ddowiki.com/page/Item:Claws_of_Phinorae",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Acidic 3",
+      "Corroding 7",
+      "Maiming 3",
+      "Dragon's Edge 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Acidic 3",
+      "Corroding 7",
+      "Maiming 3",
+      "Dragon's Edge 3"
+    ],
+    "itemKey": "item:claws_of_phinorae",
+    "setMembership": []
+  },
+  {
+    "name": "Green Steel Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "The Mountain's Fist (level 12)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus"
+    ],
+    "itemKey": "item:the_mountain's_fist_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "The Mountain's Fist (level 13)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_13)",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus"
+    ],
+    "itemKey": "item:the_mountain's_fist_(level_13)",
+    "setMembership": []
+  },
+  {
+    "name": "Dwarven Waraxe of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Dwarven_Waraxe_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:dwarven_waraxe_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Dwarven Waraxe of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Dwarven_Waraxe_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:dwarven_waraxe_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Sever",
+    "link": "https://ddowiki.com/page/Item:Sever",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Keen",
+      "Limb Chopper",
+      "Destruction",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Keen",
+      "Limb Chopper",
+      "Destruction"
+    ],
+    "itemKey": "item:sever",
+    "setMembership": []
+  },
+  {
+    "name": "Axe of Famine",
+    "link": "https://ddowiki.com/page/Item:Axe_of_Famine",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Life-Devouring",
+      "Strength Sapping",
+      "Weakening",
+      "Incite +15"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Life-Devouring",
+      "Strength Sapping",
+      "Weakening",
+      "Incite +15"
+    ],
+    "itemKey": "item:axe_of_famine",
+    "setMembership": []
+  },
+  {
+    "name": "The Mountain's Fist (level 14)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_14)",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus"
+    ],
+    "itemKey": "item:the_mountain's_fist_(level_14)",
+    "setMembership": []
+  },
+  {
+    "name": "Prison Break (level 14)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_14)",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "One of the following: Acid Burst Acid II Anarchic I Axiomatic I Flaming Burst Flaming II Frost II Icy Burst Poison II Seeker +4 Shocking Burst Shock II Shrieking I",
+      "Acid Burst",
+      "Acid II",
+      "Anarchic I",
+      "Axiomatic I",
+      "Flaming Burst",
+      "Flaming II",
+      "Frost II",
+      "Icy Burst",
+      "Poison II",
+      "Seeker +4",
+      "Shocking Burst",
+      "Shock II",
+      "Shrieking I",
+      "Sundering IV"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "One of the following: Acid Burst Acid II Anarchic I Axiomatic I Flaming Burst Flaming II Frost II Icy Burst Poison II Seeker +4 Shocking Burst Shock II Shrieking I",
+      "Acid Burst",
+      "Acid II",
+      "Anarchic I",
+      "Axiomatic I",
+      "Flaming Burst",
+      "Flaming II",
+      "Frost II",
+      "Icy Burst",
+      "Poison II",
+      "Seeker +4",
+      "Shocking Burst",
+      "Shock II",
+      "Shrieking I",
+      "Sundering IV"
+    ],
+    "itemKey": "item:prison_break_(level_14)",
+    "setMembership": []
+  },
+  {
+    "name": "Stormreach Guardian's Axe",
+    "link": "https://ddowiki.com/page/Item:Stormreach_Guardian%27s_Axe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Chilling 3",
+      "Armor-Piercing 11%",
+      "Bleeding 3",
+      "Destruction",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "renegade_champion",
+        "setName": "Renegade Champion",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 3,
+        "effect": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
+        "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
+        "tieredEffects": []
+      },
+      {
+        "setId": "renegade_champion",
+        "setName": "Renegade Champion",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 3,
+        "effect": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
+        "effectRaw": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2",
+            "effect": "Artifact Bonus to Rune Arm DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Rune Arm DCs"
+          }
+        ]
+      },
+      {
+        "setId": "renegade_champion",
+        "setName": "Renegade Champion",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 3,
+        "effect": "♦+10★+30 Artifact Bonus to Repair Amplification",
+        "effectRaw": "♦+10★+30 Artifact Bonus to Repair Amplification",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Repair Amplification"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact Bonus to Repair Amplification"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Chilling 3",
+      "Armor-Piercing 11%",
+      "Bleeding 3",
+      "Destruction"
+    ],
+    "itemKey": "item:stormreach_guardian's_axe",
+    "setMembership": [
+      {
+        "setId": "renegade_champion",
+        "setName": "Renegade Champion",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "minLevels": [
+          14,
+          29
+        ],
+        "availablePieces": 5,
+        "bonusRaw": "3 Pieces Equipped: +1 Artifact Bonus to Critical Multiplier on a 19-20 ♦+2★+3 Artifact Bonus to Rune Arm DCs ♦+10★+30 Artifact Bonus to Repair Amplification",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
+            "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
+            "effectRaw": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2",
+                "effect": "Artifact Bonus to Rune Arm DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Rune Arm DCs"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+10★+30 Artifact Bonus to Repair Amplification",
+            "effectRaw": "♦+10★+30 Artifact Bonus to Repair Amplification",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Repair Amplification"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact Bonus to Repair Amplification"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Prison Break (level 15)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_15)",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "One of the following: Acid Burst Acid II Anarchic I Axiomatic I Flaming Burst Flaming II Frost II Icy Burst Poison II Seeker +4 Shocking Burst Shock II Shrieking I",
+      "Acid Burst",
+      "Acid II",
+      "Anarchic I",
+      "Axiomatic I",
+      "Flaming Burst",
+      "Flaming II",
+      "Frost II",
+      "Icy Burst",
+      "Poison II",
+      "Seeker +4",
+      "Shocking Burst",
+      "Shock II",
+      "Shrieking I",
+      "Sundering IV"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "One of the following: Acid Burst Acid II Anarchic I Axiomatic I Flaming Burst Flaming II Frost II Icy Burst Poison II Seeker +4 Shocking Burst Shock II Shrieking I",
+      "Acid Burst",
+      "Acid II",
+      "Anarchic I",
+      "Axiomatic I",
+      "Flaming Burst",
+      "Flaming II",
+      "Frost II",
+      "Icy Burst",
+      "Poison II",
+      "Seeker +4",
+      "Shocking Burst",
+      "Shock II",
+      "Shrieking I",
+      "Sundering IV"
+    ],
+    "itemKey": "item:prison_break_(level_15)",
+    "setMembership": []
+  },
+  {
+    "name": "Drowhunter",
+    "link": "https://ddowiki.com/page/Item:Drowhunter",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Vorpal",
+      "Elf Bane 4",
+      "Axiomatic 4",
+      "Maiming 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Vorpal",
+      "Elf Bane 4",
+      "Axiomatic 4",
+      "Maiming 4"
+    ],
+    "itemKey": "item:drowhunter",
+    "setMembership": []
+  },
+  {
+    "name": "Syranian Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Syranian_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Templar's Justice",
+    "link": "https://ddowiki.com/page/Item:Templar%27s_Justice",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Cold Iron",
+      "Holy Burst 4",
+      "Good Blast 4",
+      "Coruscating 4",
+      "Godly Wrath"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Cold Iron",
+      "Holy Burst 4",
+      "Good Blast 4",
+      "Coruscating 4",
+      "Godly Wrath"
+    ],
+    "itemKey": "item:templar's_justice",
+    "setMembership": []
+  },
+  {
+    "name": "Prison Break (level 16)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "One of the following: Acid Burst Acid II Anarchic I Axiomatic I Flaming Burst Flaming II Frost II Icy Burst Poison II Seeker +4 Shocking Burst Shock II Shrieking I",
+      "Acid Burst",
+      "Acid II",
+      "Anarchic I",
+      "Axiomatic I",
+      "Flaming Burst",
+      "Flaming II",
+      "Frost II",
+      "Icy Burst",
+      "Poison II",
+      "Seeker +4",
+      "Shocking Burst",
+      "Shock II",
+      "Shrieking I",
+      "Sundering V"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "One of the following: Acid Burst Acid II Anarchic I Axiomatic I Flaming Burst Flaming II Frost II Icy Burst Poison II Seeker +4 Shocking Burst Shock II Shrieking I",
+      "Acid Burst",
+      "Acid II",
+      "Anarchic I",
+      "Axiomatic I",
+      "Flaming Burst",
+      "Flaming II",
+      "Frost II",
+      "Icy Burst",
+      "Poison II",
+      "Seeker +4",
+      "Shocking Burst",
+      "Shock II",
+      "Shrieking I",
+      "Sundering V"
+    ],
+    "itemKey": "item:prison_break_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Reliquary Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Reliquary Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Templar's Justice",
+    "link": "https://ddowiki.com/page/Item:Epic_Templar%27s_Justice",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Holy Burst 4",
+      "Good Blast 4",
+      "Coruscating 4",
+      "Godly Wrath",
+      "Cold Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Holy Burst 4",
+      "Good Blast 4",
+      "Coruscating 4",
+      "Godly Wrath",
+      "Cold Iron"
+    ],
+    "itemKey": "item:epic_templar's_justice",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sworn Silver Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ethereal Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Duergar Waraxe of the Weapon Master",
+    "link": "https://ddowiki.com/page/Item:Duergar_Waraxe_of_the_Weapon_Master",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 21,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "itemKey": "item:duergar_waraxe_of_the_weapon_master",
+    "setMembership": []
+  },
+  {
+    "name": "Thunder-Forged Alloy Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "The Mountain's Fist (level 23)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_23)",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 23,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus"
+    ],
+    "itemKey": "item:the_mountain's_fist_(level_23)",
+    "setMembership": []
+  },
+  {
+    "name": "The Mountain's Fist (level 24)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus"
+    ],
+    "itemKey": "item:the_mountain's_fist_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "The Mountain's Fist (level 25)",
+    "link": "https://ddowiki.com/page/Item:The_Mountain%27s_Fist_(level_25)",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus"
+    ],
+    "itemKey": "item:the_mountain's_fist_(level_25)",
+    "setMembership": []
+  },
+  {
+    "name": "Prison Break (level 25)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_25)",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "One of the following: Acid VI Anarchic V Axiomatic V Eldritch IV Flaming VI Frost VI Holy IV Improved Banishing Improved Vorpal Poison VI Shock VI Shrieking V Solar IV Nothing",
+      "Acid VI",
+      "Anarchic V",
+      "Axiomatic V",
+      "Eldritch IV",
+      "Flaming VI",
+      "Frost VI",
+      "Holy IV",
+      "Improved Banishing",
+      "Improved Vorpal",
+      "Poison VI",
+      "Shock VI",
+      "Shrieking V",
+      "Solar IV",
+      "Nothing",
+      "Sundering VII"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "One of the following: Acid VI Anarchic V Axiomatic V Eldritch IV Flaming VI Frost VI Holy IV Improved Banishing Improved Vorpal Poison VI Shock VI Shrieking V Solar IV Nothing",
+      "Acid VI",
+      "Anarchic V",
+      "Axiomatic V",
+      "Eldritch IV",
+      "Flaming VI",
+      "Frost VI",
+      "Holy IV",
+      "Improved Banishing",
+      "Improved Vorpal",
+      "Poison VI",
+      "Shock VI",
+      "Shrieking V",
+      "Solar IV",
+      "Nothing",
+      "Sundering VII"
+    ],
+    "itemKey": "item:prison_break_(level_25)",
+    "setMembership": []
+  },
+  {
+    "name": "Prison Break (level 26)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_26)",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "One of the following: Acid VI Anarchic V Axiomatic V Eldritch IV Flaming VI Frost VI Holy IV Improved Banishing Improved Vorpal Poison VI Shock VI Shrieking V Solar IV Nothing",
+      "Acid VI",
+      "Anarchic V",
+      "Axiomatic V",
+      "Eldritch IV",
+      "Flaming VI",
+      "Frost VI",
+      "Holy IV",
+      "Improved Banishing",
+      "Improved Vorpal",
+      "Poison VI",
+      "Shock VI",
+      "Shrieking V",
+      "Solar IV",
+      "Nothing",
+      "Sundering VIII"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "One of the following: Acid VI Anarchic V Axiomatic V Eldritch IV Flaming VI Frost VI Holy IV Improved Banishing Improved Vorpal Poison VI Shock VI Shrieking V Solar IV Nothing",
+      "Acid VI",
+      "Anarchic V",
+      "Axiomatic V",
+      "Eldritch IV",
+      "Flaming VI",
+      "Frost VI",
+      "Holy IV",
+      "Improved Banishing",
+      "Improved Vorpal",
+      "Poison VI",
+      "Shock VI",
+      "Shrieking V",
+      "Solar IV",
+      "Nothing",
+      "Sundering VIII"
+    ],
+    "itemKey": "item:prison_break_(level_26)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Steel Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Prison Break (level 27)",
+    "link": "https://ddowiki.com/page/Item:Prison_Break_(level_27)",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 27,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "One of the following: Acid VI Anarchic V Axiomatic V Eldritch IV Flaming VI Frost VI Holy IV Improved Banishing Improved Vorpal Poison VI Shock VI Shrieking V Solar IV Nothing",
+      "Acid VI",
+      "Anarchic V",
+      "Axiomatic V",
+      "Eldritch IV",
+      "Flaming VI",
+      "Frost VI",
+      "Holy IV",
+      "Improved Banishing",
+      "Improved Vorpal",
+      "Poison VI",
+      "Shock VI",
+      "Shrieking V",
+      "Solar IV",
+      "Nothing",
+      "Sundering VIII",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "One of the following: Acid VI Anarchic V Axiomatic V Eldritch IV Flaming VI Frost VI Holy IV Improved Banishing Improved Vorpal Poison VI Shock VI Shrieking V Solar IV Nothing",
+      "Acid VI",
+      "Anarchic V",
+      "Axiomatic V",
+      "Eldritch IV",
+      "Flaming VI",
+      "Frost VI",
+      "Holy IV",
+      "Improved Banishing",
+      "Improved Vorpal",
+      "Poison VI",
+      "Shock VI",
+      "Shrieking V",
+      "Solar IV",
+      "Nothing",
+      "Sundering VIII"
+    ],
+    "itemKey": "item:prison_break_(level_27)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Drowhunter",
+    "link": "https://ddowiki.com/page/Item:Legendary_Drowhunter",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+13 Enhancement Bonus",
+      "Elf Bane 6",
+      "Axiomatic 6",
+      "Sovereign Vorpal",
+      "Maiming 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+13 Enhancement Bonus",
+      "Elf Bane 6",
+      "Axiomatic 6",
+      "Sovereign Vorpal",
+      "Maiming 6"
+    ],
+    "itemKey": "item:legendary_drowhunter",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Stormreach Guardian's Axe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Stormreach_Guardian%27s_Axe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Armor-Piercing 20%",
+      "Bleeding 6",
+      "Improved Destruction",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Armor-Piercing 20%",
+      "Bleeding 6",
+      "Improved Destruction"
+    ],
+    "itemKey": "item:legendary_stormreach_guardian's_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Hoarfrost, Herald of the Bitter Ice",
+    "link": "https://ddowiki.com/page/Item:Hoarfrost,_Herald_of_the_Bitter_Ice",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon"
+    ],
+    "itemKey": "item:hoarfrost,_herald_of_the_bitter_ice",
+    "setMembership": []
+  },
+  {
+    "name": "The Obsidian Reaver",
+    "link": "https://ddowiki.com/page/Item:The_Obsidian_Reaver",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "Keen",
+      "Armor-Piercing 21%",
+      "Flamebitten",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "Keen",
+      "Armor-Piercing 21%",
+      "Flamebitten"
+    ],
+    "itemKey": "item:the_obsidian_reaver",
+    "setMembership": []
+  },
+  {
+    "name": "Morninglord's Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Nightmother's Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Syranian Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "The Hunter's Axe",
+    "link": "https://ddowiki.com/page/Item:The_Hunter%27s_Axe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Sovereign Vorpal",
+      "Force Blast 6",
+      "Fetters of Unreality",
+      "Insightful Impulse +74",
+      "Quality Impulse +36",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Sovereign Vorpal",
+      "Force Blast 6",
+      "Fetters of Unreality",
+      "Insightful Impulse +74",
+      "Quality Impulse +36"
+    ],
+    "itemKey": "item:the_hunter's_axe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flamesalt Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Alchemical Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Templar's Justice",
+    "link": "https://ddowiki.com/page/Item:Legendary_Templar%27s_Justice",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Holy Burst 6",
+      "Good Blast 6",
+      "Coruscating 6",
+      "Godly Wrath",
+      "Cold Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Holy Burst 6",
+      "Good Blast 6",
+      "Coruscating 6",
+      "Godly Wrath",
+      "Cold Iron"
+    ],
+    "itemKey": "item:legendary_templar's_justice",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Attuned Bone Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:attuned_bone_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shining Reliquary Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Demise, the Beginning of the Fall",
+    "link": "https://ddowiki.com/page/Item:Demise,_the_Beginning_of_the_Fall",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Fetters of Unreality",
+      "Keen",
+      "Legendary Slay Living",
+      "Identity Crisis",
+      "Planar Searing",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Slay Living",
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 3,
+        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Attack and Damage"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane Bonus to Attack and Damage"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane Bonus to Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to Spell DCs"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Fetters of Unreality",
+      "Keen",
+      "Identity Crisis",
+      "Planar Searing"
+    ],
+    "itemKey": "item:demise,_the_beginning_of_the_fall",
+    "setMembership": [
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 61,
+        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Attack and Damage"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane Bonus to Attack and Damage"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane Bonus to Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to Spell DCs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Dwarven Waraxe of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dwarven_Waraxe_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_dwarven_waraxe_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Dwarven Waraxe of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dwarven_Waraxe_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_dwarven_waraxe_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Dwarven Waraxe of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Dwarven_Waraxe_of_the_Undying_Age",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:dwarven_waraxe_of_the_undying_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Calamitous Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_calamitous_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Dwarven Waraxe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Dwarven_Waraxe",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_dwarven_waraxe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Claws of Phinorae",
+    "link": "https://ddowiki.com/page/Item:Legendary_Claws_of_Phinorae",
+    "slot": "weapon",
+    "itemSubtype": "dwarven_war_axe",
+    "handedness": "one_handed",
+    "category": "Dwarven War Axes",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Acidic 7",
+      "Corroding 16",
+      "Maiming 7",
+      "Dragon's Edge 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Acidic 7",
+      "Corroding 16",
+      "Maiming 7",
+      "Dragon's Edge 7"
+    ],
+    "itemKey": "item:legendary_claws_of_phinorae",
+    "setMembership": []
+  }
+]

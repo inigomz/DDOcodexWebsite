@@ -12,13 +12,12 @@
       "Acid Touch"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Acid Touch"
-    ],
-    "itemKey": "item:sword_of_pain",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nicked Shortsword",
@@ -35,15 +34,14 @@
       "Deadly +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Acidic 2",
       "Deception +2",
       "Deadly +3"
-    ],
-    "itemKey": "item:nicked_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Shortsword",
@@ -59,14 +57,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Shortsword",
@@ -84,13 +81,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Shortsword",
@@ -108,13 +104,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Willbreaker",
@@ -133,14 +128,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Shattermantle",
       "Bewildering 1"
-    ],
-    "itemKey": "item:the_willbreaker",
-    "setMembership": []
+    ]
   },
   {
     "name": "Garos' Malice",
@@ -160,15 +154,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Fiery 2",
       "Deception +2",
       "Doublestrike 4%"
-    ],
-    "itemKey": "item:garos'_malice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cutthroat's Smallblade (legacy) (level 4)",
@@ -189,6 +182,7 @@
       "Adds Bleed"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -199,9 +193,7 @@
       "+1 Enhancement Bonus → +2 Enhancement Bonus",
       "Upgradeable - Tier 3 Adds Bleed",
       "Adds Bleed"
-    ],
-    "itemKey": "item:cutthroat's_smallblade_(legacy)_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tiefling Assassin's Blade",
@@ -221,15 +213,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Keen",
       "Wounding",
       "Poison"
-    ],
-    "itemKey": "item:tiefling_assassin's_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Shortsword (level 4)",
@@ -245,14 +236,13 @@
       "Undead Bane 2"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Righteous",
       "Undead Bane 2"
-    ],
-    "itemKey": "item:mournlode_shortsword_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cutthroat's Smallblade (level 4)",
@@ -273,6 +263,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -280,9 +271,7 @@
       "Doublestrike 4%",
       "Hide +6",
       "Move Silently +6"
-    ],
-    "itemKey": "item:cutthroat's_smallblade_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Ice Dragon's Tooth",
@@ -303,6 +292,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -310,9 +300,7 @@
       "Minor Freezing Ice",
       "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Minor Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 5 seconds)",
       "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice."
-    ],
-    "itemKey": "item:the_ice_dragon's_tooth",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Shortsword",
@@ -333,6 +321,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -340,9 +329,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Shortsword",
@@ -363,6 +350,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -370,9 +358,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Gwylan's Blade",
@@ -392,15 +378,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Songblade",
       "Screaming",
       "Roaring"
-    ],
-    "itemKey": "item:gwylan's_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sun Blade",
@@ -420,15 +405,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Flametouched Iron",
       "+2 vs Evil",
       "Extra damage vs Undead"
-    ],
-    "itemKey": "item:sun_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Blade of the Clouds",
@@ -448,15 +432,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Favored Weapon",
       "Cloudburst",
       "Electrifying 2"
-    ],
-    "itemKey": "item:blade_of_the_clouds",
-    "setMembership": []
+    ]
   },
   {
     "name": "Luck Blade",
@@ -478,13 +461,12 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Good Luck +1"
-    ],
-    "itemKey": "item:luck_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cutthroat's Smallblade (legacy) (level 8)",
@@ -507,6 +489,7 @@
       "Adds Slicing"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -519,9 +502,7 @@
       "+2 Enhancement Bonus → +3 Enhancement Bonus",
       "Upgradeable - Tier 3 Adds Slicing",
       "Adds Slicing"
-    ],
-    "itemKey": "item:cutthroat's_smallblade_(legacy)_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Shortsword (level 8)",
@@ -535,12 +516,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_shortsword_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cutthroat's Smallblade (level 8)",
@@ -561,6 +541,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -568,9 +549,7 @@
       "Doublestrike 6%",
       "Hide +10",
       "Move Silently +10"
-    ],
-    "itemKey": "item:cutthroat's_smallblade_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Shortsword",
@@ -591,16 +570,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_shortsword",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Bravo's Sword",
@@ -615,13 +609,12 @@
       "Sneak Attack Bonus +5"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Sneak Attack Bonus +5"
-    ],
-    "itemKey": "item:bravo's_sword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sting",
@@ -642,247 +635,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
-        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Poison Resistance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact Bonus to Poison Resistance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Poison Resistance"
-          }
-        ]
-      },
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
-        "effectRaw": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact bonus to Sneak Attack Dice"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Artifact bonus to Sneak Attack Dice"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact bonus to Sneak Attack Dice"
-          }
-        ]
-      },
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
-        "effectRaw": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Saving Throws"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Artifact Bonus to Saving Throws"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Saving Throws"
-          }
-        ]
-      },
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-        "effectRaw": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Dexterity and Constitution"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Artifact Bonus to Dexterity and Constitution"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Dexterity and Constitution"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Large Scorpion Poison",
       "Wounding 2",
       "Critical Wounding 2",
       "Proof Against Poison +5"
-    ],
-    "itemKey": "item:sting",
-    "setMembership": [
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 13,
-        "bonusRaw": "2 Pieces Equipped: ♦+10●+20★+30 Artifact Bonus to Poison Resistance ♦+1●+2★+3 Artifact bonus to Sneak Attack Dice ♦+1●+2★+3 Artifact Bonus to Saving Throws ♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
-            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Poison Resistance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact Bonus to Poison Resistance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Poison Resistance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
-            "effectRaw": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact bonus to Sneak Attack Dice"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Artifact bonus to Sneak Attack Dice"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact bonus to Sneak Attack Dice"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
-            "effectRaw": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Saving Throws"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Artifact Bonus to Saving Throws"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Saving Throws"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-            "effectRaw": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Dexterity and Constitution"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Artifact Bonus to Dexterity and Constitution"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Dexterity and Constitution"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -904,193 +664,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact bonus to Electric Spellcrit Chance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+4%",
-            "effect": "Artifact bonus to Electric Spellcrit Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact bonus to Electric Spellcrit Chance"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Electric Spellpower"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Electric Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Electric Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Magical Resistance Rating"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Magical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Magical Resistance Rating"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Destruction",
       "Shocking Blast 3",
       "Dusk",
       "Doublestrike 6%"
-    ],
-    "itemKey": "item:zephyr",
-    "setMembership": [
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 11,
-        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Electric Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact bonus to Electric Spellcrit Chance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+4%",
-                "effect": "Artifact bonus to Electric Spellcrit Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact bonus to Electric Spellcrit Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Electric Spellpower"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Electric Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Electric Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Magical Resistance Rating"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Magical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Magical Resistance Rating"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1112,6 +693,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1119,9 +701,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Shortsword",
@@ -1142,6 +722,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1149,9 +730,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Shortsword",
@@ -1166,13 +745,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Vampiric Fury Shortsword",
@@ -1193,6 +771,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1200,9 +779,7 @@
       "Demon Fever",
       "Wounding 2",
       "Vampirism 1"
-    ],
-    "itemKey": "item:vampiric_fury_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Vengeful Fury Shortsword",
@@ -1223,6 +800,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1230,9 +808,7 @@
       "Demon Fever",
       "Wounding 2",
       "Vengeful"
-    ],
-    "itemKey": "item:vengeful_fury_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Maiming Fury Shortsword",
@@ -1253,6 +829,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1260,9 +837,7 @@
       "Demon Fever",
       "Wounding 2",
       "Maiming 3"
-    ],
-    "itemKey": "item:maiming_fury_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crippling Fury Shortsword",
@@ -1283,6 +858,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1290,9 +866,7 @@
       "Demon Fever",
       "Wounding 2",
       "Crippling"
-    ],
-    "itemKey": "item:crippling_fury_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Shortsword",
@@ -1307,13 +881,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cutthroat's Smallblade (legacy) (level 12)",
@@ -1337,6 +910,7 @@
       "Doublestrike 3% → Doublestrike 6%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -1350,9 +924,7 @@
       "+3 Enhancement Bonus → +4 Enhancement Bonus",
       "Upgradeable - Tier 3 Doublestrike 3% → Doublestrike 6%",
       "Doublestrike 3% → Doublestrike 6%"
-    ],
-    "itemKey": "item:cutthroat's_smallblade_(legacy)_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Shortsword (level 12)",
@@ -1366,12 +938,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_shortsword_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cutthroat's Smallblade (level 12)",
@@ -1392,6 +963,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -1399,9 +971,7 @@
       "Doublestrike 7%",
       "Hide +14",
       "Move Silently +14"
-    ],
-    "itemKey": "item:cutthroat's_smallblade_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shortsword of the Fallen Age",
@@ -1422,6 +992,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1429,9 +1000,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:shortsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shortsword of the Golden Age",
@@ -1452,6 +1021,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1459,9 +1029,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:shortsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Treason",
@@ -1480,6 +1048,7 @@
       "Upgradeable Item (Stormreaver)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1488,9 +1057,7 @@
       "Treason",
       "Armor-Piercing 10%",
       "Upgradeable Item (Stormreaver)"
-    ],
-    "itemKey": "item:treason",
-    "setMembership": []
+    ]
   },
   {
     "name": "Razorend",
@@ -1510,15 +1077,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Hemorrhaging",
       "Keen",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:razorend",
-    "setMembership": []
+    ]
   },
   {
     "name": "Moonwillow",
@@ -1539,6 +1105,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1546,9 +1113,7 @@
       "Vorpal",
       "Holy 4",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:moonwillow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Shortsword",
@@ -1569,6 +1134,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1576,9 +1142,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cutthroat's Smallblade (legacy) (level 16)",
@@ -1603,6 +1167,7 @@
       "Doublestrike 3% → Doublestrike 6%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -1617,9 +1182,7 @@
       "Upgradeable - Tier 3 Adds Corrosive Salt Doublestrike 3% → Doublestrike 6%",
       "Adds Corrosive Salt",
       "Doublestrike 3% → Doublestrike 6%"
-    ],
-    "itemKey": "item:cutthroat's_smallblade_(legacy)_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Envenomed Blade",
@@ -1637,6 +1200,7 @@
       "Deadly Spider Venom"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1644,9 +1208,7 @@
       "Paralyzing",
       "Armor-Piercing 12%",
       "Deadly Spider Venom"
-    ],
-    "itemKey": "item:envenomed_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Shortsword (level 16)",
@@ -1660,12 +1222,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_shortsword_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cutthroat's Smallblade (level 16)",
@@ -1686,6 +1247,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1693,9 +1255,7 @@
       "Doublestrike 9%",
       "Hide +16",
       "Move Silently +16"
-    ],
-    "itemKey": "item:cutthroat's_smallblade_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Fury (level 17)",
@@ -1713,6 +1273,7 @@
       "Frost II"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -1720,9 +1281,7 @@
       "Flaming II",
       "Shock II",
       "Frost II"
-    ],
-    "itemKey": "item:elemental_fury_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Fury (level 18)",
@@ -1740,6 +1299,7 @@
       "Frost II"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -1747,9 +1307,7 @@
       "Flaming III",
       "Shock II",
       "Frost II"
-    ],
-    "itemKey": "item:elemental_fury_(level_18)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Shortsword",
@@ -1770,6 +1328,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1777,9 +1336,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Shortsword",
@@ -1800,6 +1357,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1807,9 +1365,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Fury (level 19)",
@@ -1827,6 +1383,7 @@
       "Frost III"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -1834,9 +1391,7 @@
       "Flaming III",
       "Shock III",
       "Frost III"
-    ],
-    "itemKey": "item:elemental_fury_(level_19)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sting",
@@ -1857,6 +1412,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1864,9 +1420,7 @@
       "Wounding 2",
       "Critical Wounding 2",
       "Proof Against Poison +8"
-    ],
-    "itemKey": "item:epic_sting",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Garos' Malice",
@@ -1889,6 +1443,7 @@
       "Red",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1896,9 +1451,7 @@
       "Blinding Embers",
       "Improved Vorpal",
       "Greater Incineration"
-    ],
-    "itemKey": "item:epic_garos'_malice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Cutthroat's Smallblade (legacy) (level 20)",
@@ -1930,6 +1483,7 @@
       "Upgradeable - Tier 3 Adds Corrosive Salt Adds Red",
       "Adds Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
     ],
@@ -1945,9 +1499,7 @@
       "Doublestrike 3% → Doublestrike 6%",
       "Adds Corrosive Salt",
       "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons."
-    ],
-    "itemKey": "item:epic_cutthroat's_smallblade_(legacy)_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Zephyr",
@@ -1968,6 +1520,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1975,9 +1528,7 @@
       "Shocking Blast 4",
       "Blurry",
       "Doublestrike 11%"
-    ],
-    "itemKey": "item:epic_zephyr",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Mournlode Shortsword",
@@ -1991,12 +1542,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_mournlode_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Star of Day",
@@ -2019,6 +1569,7 @@
       "Holy Burst"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2031,9 +1582,7 @@
       "Flaming Burst",
       "Greater Good",
       "Holy Burst"
-    ],
-    "itemKey": "item:star_of_day",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Envenomed Blade",
@@ -2055,6 +1604,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2063,9 +1613,7 @@
       "Armor-Piercing 15%",
       "Deadly Spider Venom",
       "Enervation"
-    ],
-    "itemKey": "item:epic_envenomed_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Cutthroat's Smallblade (level 20)",
@@ -2086,6 +1634,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2093,9 +1642,7 @@
       "Doublestrike 11%",
       "Hide +17",
       "Move Silently +17"
-    ],
-    "itemKey": "item:epic_cutthroat's_smallblade_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Shortsword",
@@ -2116,6 +1663,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2123,9 +1671,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Shortsword",
@@ -2146,6 +1692,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2153,9 +1700,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drow Shortsword of the Weapon Master",
@@ -2176,6 +1721,7 @@
       "Tendon Slice 10%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2186,9 +1732,7 @@
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:drow_shortsword_of_the_weapon_master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Shortsword",
@@ -2206,13 +1750,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Celestia, Brightest Star of Day",
@@ -2231,6 +1774,7 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -2239,9 +1783,7 @@
       "Greater Sunburst",
       "Fiery Detonation",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:celestia,_brightest_star_of_day",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Cutthroat's Smallblade (legacy) (level 24)",
@@ -2273,6 +1815,7 @@
       "Upgradeable - Tier 3 Adds Corrosive Salt Adds Red",
       "Adds Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
     ],
@@ -2288,9 +1831,7 @@
       "Doublestrike 6% → Doublestrike 7%",
       "Adds Corrosive Salt",
       "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons."
-    ],
-    "itemKey": "item:epic_cutthroat's_smallblade_(legacy)_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Cutthroat's Smallblade (level 24)",
@@ -2311,6 +1852,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -2318,9 +1860,7 @@
       "Doublestrike 12%",
       "Hide +18",
       "Move Silently +18"
-    ],
-    "itemKey": "item:epic_cutthroat's_smallblade_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rebellion",
@@ -2342,6 +1882,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -2350,9 +1891,7 @@
       "Armor-Piercing 15%",
       "Improved Deception",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:rebellion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Fury (level 26)",
@@ -2370,6 +1909,7 @@
       "Frost IV"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2377,9 +1917,7 @@
       "Flaming IV",
       "Shock IV",
       "Frost IV"
-    ],
-    "itemKey": "item:elemental_fury_(level_26)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Shortsword",
@@ -2394,14 +1932,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Fury (level 27)",
@@ -2419,6 +1956,7 @@
       "Frost IV"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2426,9 +1964,7 @@
       "Flaming V",
       "Shock IV",
       "Frost IV"
-    ],
-    "itemKey": "item:elemental_fury_(level_27)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Blade of the Clouds",
@@ -2448,15 +1984,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Favored Weapon",
       "Cloudburst",
       "Electrifying 6"
-    ],
-    "itemKey": "item:legendary_blade_of_the_clouds",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Fury (level 28)",
@@ -2474,6 +2009,7 @@
       "Frost V"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2481,9 +2017,7 @@
       "Flaming V",
       "Shock V",
       "Frost V"
-    ],
-    "itemKey": "item:elemental_fury_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Echo of the Sunsword",
@@ -2506,6 +2040,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2513,9 +2048,7 @@
       "Blazing 14",
       "Undead Bane 6",
       "Brazen Brilliance"
-    ],
-    "itemKey": "item:echo_of_the_sunsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Cutthroat's Smallblade (level 28)",
@@ -2536,6 +2069,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -2543,9 +2077,7 @@
       "Doublestrike 14%",
       "Hide +19",
       "Move Silently +19"
-    ],
-    "itemKey": "item:epic_cutthroat's_smallblade_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Timeshard",
@@ -2568,6 +2100,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Paralysis"
     ],
@@ -2576,9 +2109,7 @@
       "Doublestrike 15%",
       "Identity Crisis",
       "Freedom of Movement"
-    ],
-    "itemKey": "item:timeshard",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sunsword",
@@ -2597,6 +2128,7 @@
       "Sunsword's Power"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2605,9 +2137,7 @@
       "Undead Bane 6",
       "Brazen Brilliance",
       "Sunsword's Power"
-    ],
-    "itemKey": "item:sunsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Broken Blade of Constellation",
@@ -2627,13 +2157,12 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon"
-    ],
-    "itemKey": "item:the_broken_blade_of_constellation",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Moonwillow",
@@ -2654,6 +2183,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2661,9 +2191,7 @@
       "Sovereign Vorpal",
       "Holy 6",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:legendary_moonwillow",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Legendary Willbreaker",
@@ -2684,6 +2212,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2691,9 +2220,7 @@
       "Keen",
       "Critical Bewildering 3",
       "Bewildering 3"
-    ],
-    "itemKey": "item:the_legendary_willbreaker",
-    "setMembership": []
+    ]
   },
   {
     "name": "Esper, the Shadowblade",
@@ -2718,6 +2245,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -2727,9 +2255,7 @@
       "Force Blast 6",
       "Sovereign Nightmares",
       "Constricting Nightmare"
-    ],
-    "itemKey": "item:esper,_the_shadowblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Shortsword",
@@ -2750,6 +2276,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2757,9 +2284,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Shortsword",
@@ -2780,6 +2305,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2787,9 +2313,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Shortsword",
@@ -2810,6 +2334,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2817,9 +2342,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Shortsword",
@@ -2840,6 +2363,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2847,9 +2371,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Shortsword",
@@ -2867,14 +2389,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Shortsword",
@@ -2895,6 +2416,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2902,9 +2424,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Envenomed Blade",
@@ -2926,6 +2446,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Paralysis",
       "Legendary Virulent Poison"
@@ -2935,9 +2456,7 @@
       "Poison Blast 6",
       "Armor-Piercing 21%",
       "Enervation"
-    ],
-    "itemKey": "item:legendary_envenomed_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Garos' Malice",
@@ -2960,6 +2479,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Blinding Embers"
     ],
@@ -2968,9 +2488,7 @@
       "Flaming Blast 6",
       "Sovereign Vorpal",
       "Overwhelming Incineration"
-    ],
-    "itemKey": "item:legendary_garos'_malice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Sting",
@@ -2993,6 +2511,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Virulent Poison"
     ],
@@ -3001,9 +2520,7 @@
       "Wounding 3",
       "Critical Wounding 3",
       "Proof Against Poison +11"
-    ],
-    "itemKey": "item:legendary_sting",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Zephyr",
@@ -3025,6 +2542,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "The Legendary Desert's Writhing Storm"
     ],
@@ -3034,9 +2552,7 @@
       "Shocking Blast 6",
       "Lesser Displacement",
       "Doublestrike 15%"
-    ],
-    "itemKey": "item:legendary_zephyr",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Shortsword",
@@ -3059,16 +2575,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_shortsword",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Shortsword",
@@ -3091,16 +2627,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_shortsword",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Crippling Fury Shortsword",
@@ -3123,6 +2679,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -3131,9 +2688,7 @@
       "Medusa Fury",
       "Wounding 3",
       "Crippling"
-    ],
-    "itemKey": "item:legendary_crippling_fury_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Maiming Fury Shortsword",
@@ -3156,6 +2711,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -3164,9 +2720,7 @@
       "Medusa Fury",
       "Wounding 3",
       "Maiming 6"
-    ],
-    "itemKey": "item:legendary_maiming_fury_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Vampiric Fury Shortsword",
@@ -3189,6 +2743,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -3197,9 +2752,7 @@
       "Medusa Fury",
       "Wounding 3",
       "Vampirism 3"
-    ],
-    "itemKey": "item:legendary_vampiric_fury_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Vengeful Fury Shortsword",
@@ -3222,6 +2775,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -3230,9 +2784,7 @@
       "Medusa Fury",
       "Wounding 3",
       "Vengeful"
-    ],
-    "itemKey": "item:legendary_vengeful_fury_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Cutthroat's Smallblade (level 32)",
@@ -3253,6 +2805,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3260,9 +2813,7 @@
       "Doublestrike 16%",
       "Hide +21",
       "Move Silently +21"
-    ],
-    "itemKey": "item:legendary_cutthroat's_smallblade_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Shortsword",
@@ -3285,6 +2836,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3292,9 +2844,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Shortsword",
@@ -3318,6 +2868,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -3327,9 +2878,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_shortsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shortsword of the Fallen Age",
@@ -3352,6 +2901,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3359,9 +2909,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_shortsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shortsword of the Golden Age",
@@ -3384,6 +2932,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3391,9 +2940,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_shortsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Finality, the Fall of the Sun",
@@ -3416,6 +2963,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Slay Living",
       "Legendary Negation"
@@ -3424,9 +2972,7 @@
       "+15 Enhancement Bonus",
       "Flamescale",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:finality,_the_fall_of_the_sun",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shortsword of the Undying Age",
@@ -3449,6 +2995,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3456,9 +3003,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:shortsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Shortsword",
@@ -3481,16 +3026,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_shortsword",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Shortsword",
@@ -3513,15 +3078,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_shortsword",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

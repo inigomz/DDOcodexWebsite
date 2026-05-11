@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Starter Module",
+    "link": "https://ddowiki.com/page/Item:Starter_Module",
+    "slot": "collar",
+    "itemSubtype": null,
+    "handedness": "one_handed",
+    "category": "Collars",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+1 Enhancement Bonus"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus"
+    ],
+    "itemKey": "item:starter_module",
+    "setMembership": []
+  },
+  {
+    "name": "Fangs of the Wild Hunt",
+    "link": "https://ddowiki.com/page/Item:Fangs_of_the_Wild_Hunt",
+    "slot": "collar",
+    "itemSubtype": null,
+    "handedness": "one_handed",
+    "category": "Collars",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Frostbite",
+      "Chilling 2",
+      "Speed +15%",
+      "Doublestrike 4%",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Frostbite",
+      "Chilling 2",
+      "Speed +15%",
+      "Doublestrike 4%"
+    ],
+    "itemKey": "item:fangs_of_the_wild_hunt",
+    "setMembership": []
+  },
+  {
+    "name": "Thrall of the Fire Temple",
+    "link": "https://ddowiki.com/page/Item:Thrall_of_the_Fire_Temple",
+    "slot": "collar",
+    "itemSubtype": null,
+    "handedness": "one_handed",
+    "category": "Collars",
+    "minLevel": 7,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Fire Vulnerability",
+      "Fire Guard II",
+      "Flaming II",
+      "Fire Resistance +10"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Fire Vulnerability",
+      "Fire Guard II",
+      "Flaming II",
+      "Fire Resistance +10"
+    ],
+    "itemKey": "item:thrall_of_the_fire_temple",
+    "setMembership": []
+  },
+  {
+    "name": "Hound of the Night",
+    "link": "https://ddowiki.com/page/Item:Hound_of_the_Night",
+    "slot": "collar",
+    "itemSubtype": null,
+    "handedness": "one_handed",
+    "category": "Collars",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Frostbite",
+      "Speed +20%",
+      "Deadly +5",
+      "Doublestrike 6%",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Frostbite",
+      "Speed +20%",
+      "Deadly +5",
+      "Doublestrike 6%"
+    ],
+    "itemKey": "item:hound_of_the_night",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Thrall of the Fire Temple",
+    "link": "https://ddowiki.com/page/Item:Epic_Thrall_of_the_Fire_Temple",
+    "slot": "collar",
+    "itemSubtype": null,
+    "handedness": "one_handed",
+    "category": "Collars",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Fire Vulnerability",
+      "Deadly IX",
+      "Flaming X",
+      "Speed XV",
+      "Greater Flaming Blast",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Fire Vulnerability",
+      "Deadly IX",
+      "Flaming X",
+      "Speed XV",
+      "Greater Flaming Blast"
+    ],
+    "itemKey": "item:epic_thrall_of_the_fire_temple",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Hound of the Night",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hound_of_the_Night",
+    "slot": "collar",
+    "itemSubtype": null,
+    "handedness": "one_handed",
+    "category": "Collars",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Frostbite",
+      "Speed +30%",
+      "Deadly +10",
+      "Doublestrike 15%",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Frostbite",
+      "Speed +30%",
+      "Deadly +10",
+      "Doublestrike 15%"
+    ],
+    "itemKey": "item:legendary_hound_of_the_night",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Fangs of the Wild Hunt",
+    "link": "https://ddowiki.com/page/Item:Legendary_Fangs_of_the_Wild_Hunt",
+    "slot": "collar",
+    "itemSubtype": null,
+    "handedness": "one_handed",
+    "category": "Collars",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Frostbite",
+      "Chilling 6",
+      "Speed +30%",
+      "Doublestrike 15%",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Frostbite",
+      "Chilling 6",
+      "Speed +30%",
+      "Doublestrike 15%"
+    ],
+    "itemKey": "item:legendary_fangs_of_the_wild_hunt",
+    "setMembership": []
+  }
+]

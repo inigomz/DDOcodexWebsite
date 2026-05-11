@@ -19,146 +19,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Attack and Damage"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane Bonus to Attack and Damage"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Universal Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane Bonus to Universal Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to Spell DCs"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Quality Magical Sheltering +5",
@@ -166,137 +28,6 @@
       "Feat: Elusive Target",
       "Insightful Diversion +6%",
       "Forbidden Knowledge"
-    ],
-    "itemKey": "item:azure_buckler",
-    "setMembership": [
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 61,
-        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Attack and Damage"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane Bonus to Attack and Damage"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Universal Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane Bonus to Universal Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to Spell DCs"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -319,6 +50,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -327,9 +59,7 @@
       "Corrosive Salt Guard",
       "Vulnerability Guard",
       "Sheltering +12"
-    ],
-    "itemKey": "item:barnacled_buckler",
-    "setMembership": []
+    ]
   },
   {
     "name": "Buckler of the Celestial Soldier",
@@ -352,6 +82,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+14 Enhancement Bonus",
@@ -359,9 +90,7 @@
       "Quality Magical Sheltering +8",
       "Quality Physical Sheltering +8",
       "Ghostly"
-    ],
-    "itemKey": "item:buckler_of_the_celestial_soldier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Buckler of the Demonic Soldier",
@@ -381,15 +110,14 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Dazing IV",
       "Impact",
       "Sheltering +3"
-    ],
-    "itemKey": "item:buckler_of_the_demonic_soldier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Buckler of the Fallen Age",
@@ -410,6 +138,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Conditioning +5%"
     ],
@@ -418,9 +147,7 @@
       "Shield Bashing +11%",
       "Shield Spikes",
       "Rough Hide +7"
-    ],
-    "itemKey": "item:buckler_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Buckler of the Golden Age",
@@ -441,6 +168,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Conditioning +5%"
     ],
@@ -449,9 +177,7 @@
       "Shield Bashing +11%",
       "Shield Spikes",
       "Guardbreaking"
-    ],
-    "itemKey": "item:buckler_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cataclysmic Buckler",
@@ -472,16 +198,36 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+5 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:cataclysmic_buckler",
-    "setMembership": []
+      "+5 Enhancement Bonus"
+    ]
   },
   {
     "name": "Crabshell Buckler",
@@ -502,6 +248,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -509,9 +256,7 @@
       "Natural Armor +5",
       "Immunity to Slippery Surfaces",
       "Guardbreaking"
-    ],
-    "itemKey": "item:crabshell_buckler",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Azure Buckler",
@@ -533,6 +278,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -541,9 +287,7 @@
       "Unholy 4",
       "Insightful Diversion +6%",
       "Forbidden Knowledge"
-    ],
-    "itemKey": "item:defiled_azure_buckler",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Buckler",
@@ -566,16 +310,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Armor",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Armor",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Scale Slot (Armor): Empty",
-      "Isle of Dread: Fang Slot (Armor): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_buckler",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Epic Buckler of the Demonic Soldier",
@@ -596,6 +360,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -603,9 +368,7 @@
       "Impact",
       "Quality Magical Sheltering +2",
       "Melee Power +6"
-    ],
-    "itemKey": "item:epic_buckler_of_the_demonic_soldier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Spectre Deflector (level 20)",
@@ -626,6 +389,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -633,9 +397,7 @@
       "Ghostbane 4",
       "Ghostly",
       "Lifesealed +27"
-    ],
-    "itemKey": "item:epic_spectre_deflector_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Spectre Deflector (level 24)",
@@ -656,6 +418,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -663,9 +426,7 @@
       "Ghostbane 5",
       "Ghostly",
       "Lifesealed +30"
-    ],
-    "itemKey": "item:epic_spectre_deflector_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Spectre Deflector (level 28)",
@@ -686,6 +447,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -693,9 +455,7 @@
       "Ghostbane 6",
       "Ghostly",
       "Lifesealed +33"
-    ],
-    "itemKey": "item:epic_spectre_deflector_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Swashbuckler (legacy) (level 20)",
@@ -725,6 +485,7 @@
       "Upgradeable - Tier 3 Adds Insightful Dexterity +2 Adds Blue",
       "Adds Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
     ],
@@ -740,9 +501,7 @@
       "Parrying IV becomes Parrying VIII",
       "Adds Insightful Dexterity +2",
       "Blue Augments: Standard augments provide bonuses to defensive stats, healing amplifications and Tactics DCs."
-    ],
-    "itemKey": "item:epic_swashbuckler_(legacy)_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Swashbuckler (legacy) (level 24)",
@@ -773,6 +532,7 @@
       "Upgradeable - Tier 3 Insightful Dexterity +1 → Insightful Dexterity +2 Adds Blue",
       "Adds Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
     ],
@@ -789,9 +549,7 @@
       "Adds Insightful Dexterity +1",
       "Insightful Dexterity +1 → Insightful Dexterity +2",
       "Blue Augments: Standard augments provide bonuses to defensive stats, healing amplifications and Tactics DCs."
-    ],
-    "itemKey": "item:epic_swashbuckler_(legacy)_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Swashbuckler (level 20)",
@@ -812,6 +570,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -819,9 +578,7 @@
       "Doublestrike 11%",
       "Guardbreaking",
       "Insightful Dexterity +4"
-    ],
-    "itemKey": "item:epic_swashbuckler_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Swashbuckler (level 24)",
@@ -842,6 +599,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -849,9 +607,7 @@
       "Doublestrike 12%",
       "Guardbreaking",
       "Insightful Dexterity +5"
-    ],
-    "itemKey": "item:epic_swashbuckler_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Swashbuckler (level 28)",
@@ -872,6 +628,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -879,9 +636,7 @@
       "Doublestrike 14%",
       "Guardbreaking",
       "Insightful Dexterity +5"
-    ],
-    "itemKey": "item:epic_swashbuckler_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Wind-Swept Buckler",
@@ -905,6 +660,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -915,9 +671,7 @@
       "Light Absorption +18%",
       "Exceptional Charisma +1",
       "Epic Saltmarsh Explorer"
-    ],
-    "itemKey": "item:epic_wind-swept_buckler",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fortified Fiddle",
@@ -933,14 +687,13 @@
       "Fortification +100%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Riposte IV",
       "Fortification +100%"
-    ],
-    "itemKey": "item:fortified_fiddle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Frostforged Buckler",
@@ -961,16 +714,26 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Guardbreaking",
-      "Insightful Physical Sheltering +5",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)"
-    ],
-    "itemKey": "item:frostforged_buckler",
-    "setMembership": []
+      "Insightful Physical Sheltering +5"
+    ]
   },
   {
     "name": "Hector's Bracer",
@@ -991,6 +754,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -998,9 +762,7 @@
       "Quality Dodge +2%",
       "Parrying +4",
       "Protection +8"
-    ],
-    "itemKey": "item:hector's_bracer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hexbreaker",
@@ -1025,68 +787,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "seasons_of_the_feywild",
-        "setName": "Seasons of the Feywild (Heroic)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "piecesRequired": 2,
-        "effect": "+10 Artifact bonus to your maximum hit points",
-        "effectRaw": "+10 Artifact bonus to your maximum hit points",
-        "tieredEffects": []
-      },
-      {
-        "setId": "seasons_of_the_feywild",
-        "setName": "Seasons of the Feywild (Heroic)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "piecesRequired": 3,
-        "effect": "+50 Artifact bonus to your maximum Spell Points",
-        "effectRaw": "+50 Artifact bonus to your maximum Spell Points",
-        "tieredEffects": []
-      },
-      {
-        "setId": "seasons_of_the_feywild",
-        "setName": "Seasons of the Feywild (Heroic)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "piecesRequired": 4,
-        "effect": "+1 Artifact bonus to all of your Ability Scores",
-        "effectRaw": "+1 Artifact bonus to all of your Ability Scores",
-        "tieredEffects": []
-      },
-      {
-        "setId": "seasons_of_the_feywild",
-        "setName": "Seasons of the Feywild (Heroic)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "piecesRequired": 5,
-        "effect": "+1% Artifact bonus to Dodge",
-        "effectRaw": "+1% Artifact bonus to Dodge",
-        "tieredEffects": []
-      },
-      {
-        "setId": "seasons_of_the_feywild",
-        "setName": "Seasons of the Feywild (Heroic)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "piecesRequired": 6,
-        "effect": "+1 Artifact bonus to all spell DCs",
-        "effectRaw": "+1 Artifact bonus to all spell DCs",
-        "tieredEffects": []
-      },
-      {
-        "setId": "seasons_of_the_feywild",
-        "setName": "Seasons of the Feywild (Heroic)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "piecesRequired": 7,
-        "effect": "+5 Artifact bonus to Physical and Magical Resistance Rating",
-        "effectRaw": "+5 Artifact bonus to Physical and Magical Resistance Rating",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Guardbreaking",
@@ -1097,58 +799,6 @@
       "5 Pieces Equipped: +1% Artifact bonus to Dodge",
       "6 Pieces Equipped: +1 Artifact bonus to all spell DCs",
       "7 Pieces Equipped: +5 Artifact bonus to Physical and Magical Resistance Rating"
-    ],
-    "itemKey": "item:hexbreaker",
-    "setMembership": [
-      {
-        "setId": "seasons_of_the_feywild",
-        "setName": "Seasons of the Feywild (Heroic)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "minLevels": [
-          5
-        ],
-        "availablePieces": 49,
-        "bonusRaw": "2 Pieces Equipped: +10 Artifact bonus to your maximum hit points 3 Pieces Equipped: +50 Artifact bonus to your maximum Spell Points 4 Pieces Equipped: +1 Artifact bonus to all of your Ability Scores 5 Pieces Equipped: +1% Artifact bonus to Dodge 6 Pieces Equipped: +1 Artifact bonus to all spell DCs 7 Pieces Equipped: +5 Artifact bonus to Physical and Magical Resistance Rating",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "+10 Artifact bonus to your maximum hit points",
-            "effectRaw": "+10 Artifact bonus to your maximum hit points",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "+50 Artifact bonus to your maximum Spell Points",
-            "effectRaw": "+50 Artifact bonus to your maximum Spell Points",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "+1 Artifact bonus to all of your Ability Scores",
-            "effectRaw": "+1 Artifact bonus to all of your Ability Scores",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "+1% Artifact bonus to Dodge",
-            "effectRaw": "+1% Artifact bonus to Dodge",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 6,
-            "effect": "+1 Artifact bonus to all spell DCs",
-            "effectRaw": "+1 Artifact bonus to all spell DCs",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 7,
-            "effect": "+5 Artifact bonus to Physical and Magical Resistance Rating",
-            "effectRaw": "+5 Artifact bonus to Physical and Magical Resistance Rating",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -1172,6 +822,7 @@
       "Green",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1179,9 +830,7 @@
       "Axeblock VII",
       "Hammerblock VII",
       "Guardbreaking"
-    ],
-    "itemKey": "item:kobold_admiral's_tiller",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Buckler",
@@ -1199,14 +848,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_buckler",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Azure Buckler",
@@ -1230,6 +878,7 @@
       "Purple",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Forbidden Knowledge"
     ],
@@ -1239,9 +888,7 @@
       "Shield Bashing +22%",
       "Feat: Elusive Target",
       "Insightful Diversion +10%"
-    ],
-    "itemKey": "item:legendary_azure_buckler",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Buckler of the Fallen Age",
@@ -1264,6 +911,7 @@
       "Purple",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Conditioning +5%"
     ],
@@ -1272,9 +920,7 @@
       "Shield Bashing +23%",
       "Shield Spikes",
       "Rough Hide +14"
-    ],
-    "itemKey": "item:legendary_buckler_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Buckler of the Golden Age",
@@ -1297,6 +943,7 @@
       "Purple",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Conditioning +5%"
     ],
@@ -1305,9 +952,7 @@
       "Shield Bashing +23%",
       "Shield Spikes",
       "Guardbreaking"
-    ],
-    "itemKey": "item:legendary_buckler_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Cataclysmic Buckler",
@@ -1330,16 +975,36 @@
       "Purple",
       "Orange"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_buckler",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Crabshell Buckler",
@@ -1360,6 +1025,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1367,9 +1033,7 @@
       "Natural Armor +13",
       "Freedom of Movement",
       "Guardbreaking"
-    ],
-    "itemKey": "item:legendary_crabshell_buckler",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Azure Buckler",
@@ -1394,6 +1058,7 @@
       "Purple",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Forbidden Knowledge"
     ],
@@ -1404,9 +1069,7 @@
       "Unholy 6",
       "Insightful Diversion +10%",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_azure_buckler",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Frostforged Buckler",
@@ -1429,16 +1092,26 @@
       "Purple",
       "Orange"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Guardbreaking",
-      "Insightful Physical Sheltering +18",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_frostforged_buckler",
-    "setMembership": []
+      "Insightful Physical Sheltering +18"
+    ]
   },
   {
     "name": "Legendary Hexbreaker",
@@ -1460,68 +1133,8 @@
     "augmentSlots": [
       "Purple"
     ],
-    "setBonuses": [
-      {
-        "setId": "eminence_of_spring_legendary",
-        "setName": "Eminence of Spring (Legendary)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "piecesRequired": 2,
-        "effect": "+10% Artifact bonus to Missile Deflection",
-        "effectRaw": "+10% Artifact bonus to Missile Deflection",
-        "tieredEffects": []
-      },
-      {
-        "setId": "eminence_of_spring_legendary",
-        "setName": "Eminence of Spring (Legendary)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "piecesRequired": 3,
-        "effect": "+15% Artifact bonus to damage versus the Helpless",
-        "effectRaw": "+15% Artifact bonus to damage versus the Helpless",
-        "tieredEffects": []
-      },
-      {
-        "setId": "eminence_of_spring_legendary",
-        "setName": "Eminence of Spring (Legendary)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "piecesRequired": 4,
-        "effect": "+3% Legendary bonus to Dodge Cap",
-        "effectRaw": "+3% Legendary bonus to Dodge Cap",
-        "tieredEffects": []
-      },
-      {
-        "setId": "eminence_of_spring_legendary",
-        "setName": "Eminence of Spring (Legendary)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "piecesRequired": 5,
-        "effect": "+3 Artifact bonus to Sneak Attack Dice",
-        "effectRaw": "+3 Artifact bonus to Sneak Attack Dice",
-        "tieredEffects": []
-      },
-      {
-        "setId": "eminence_of_spring_legendary",
-        "setName": "Eminence of Spring (Legendary)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "piecesRequired": 6,
-        "effect": "+15% Artifact bonus to Doublestrike and Doubleshot",
-        "effectRaw": "+15% Artifact bonus to Doublestrike and Doubleshot",
-        "tieredEffects": []
-      },
-      {
-        "setId": "eminence_of_spring_legendary",
-        "setName": "Eminence of Spring (Legendary)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "piecesRequired": 7,
-        "effect": "+15 Artifact bonus to Melee and Ranged Power",
-        "effectRaw": "+15 Artifact bonus to Melee and Ranged Power",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Guardbreaking",
@@ -1529,58 +1142,6 @@
       "Spell Save +10",
       "Spell Resistance +38",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_hexbreaker",
-    "setMembership": [
-      {
-        "setId": "eminence_of_spring_legendary",
-        "setName": "Eminence of Spring (Legendary)",
-        "source": "named_item_sets",
-        "sourceSection": "Fables of the Feywild sets",
-        "minLevels": [
-          29
-        ],
-        "availablePieces": 20,
-        "bonusRaw": "2 Pieces Equipped: +10% Artifact bonus to Missile Deflection 3 Pieces Equipped: +15% Artifact bonus to damage versus the Helpless 4 Pieces Equipped: +3% Legendary bonus to Dodge Cap 5 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice 6 Pieces Equipped: +15% Artifact bonus to Doublestrike and Doubleshot 7 Pieces Equipped: +15 Artifact bonus to Melee and Ranged Power",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "+10% Artifact bonus to Missile Deflection",
-            "effectRaw": "+10% Artifact bonus to Missile Deflection",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "+15% Artifact bonus to damage versus the Helpless",
-            "effectRaw": "+15% Artifact bonus to damage versus the Helpless",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "+3% Legendary bonus to Dodge Cap",
-            "effectRaw": "+3% Legendary bonus to Dodge Cap",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "+3 Artifact bonus to Sneak Attack Dice",
-            "effectRaw": "+3 Artifact bonus to Sneak Attack Dice",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 6,
-            "effect": "+15% Artifact bonus to Doublestrike and Doubleshot",
-            "effectRaw": "+15% Artifact bonus to Doublestrike and Doubleshot",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 7,
-            "effect": "+15 Artifact bonus to Melee and Ranged Power",
-            "effectRaw": "+15 Artifact bonus to Melee and Ranged Power",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -1602,6 +1163,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1609,9 +1171,7 @@
       "Coruscating 6",
       "Insightful Magical Sheltering +16",
       "Quality Magical Sheltering +8"
-    ],
-    "itemKey": "item:legendary_moonguard",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Swashbuckler (level 32)",
@@ -1632,6 +1192,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1639,9 +1200,7 @@
       "Doublestrike 16%",
       "Guardbreaking",
       "Insightful Dexterity +6"
-    ],
-    "itemKey": "item:legendary_swashbuckler_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Wind-Swept Buckler",
@@ -1665,6 +1224,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Saltmarsh Explorer"
     ],
@@ -1676,9 +1236,7 @@
       "Radiance +146",
       "Light Absorption +22%",
       "Exceptional Charisma +1"
-    ],
-    "itemKey": "item:legendary_wind-swept_buckler",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Wreckage of the Tabernack",
@@ -1699,6 +1257,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1706,9 +1265,7 @@
       "Armor-Piercing 21%",
       "Doublestrike 15%",
       "Quality Dexterity +3"
-    ],
-    "itemKey": "item:legendary_wreckage_of_the_tabernack",
-    "setMembership": []
+    ]
   },
   {
     "name": "Moonguard",
@@ -1729,6 +1286,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1736,9 +1294,7 @@
       "Coruscating 4",
       "Insightful Magical Sheltering +9",
       "Quality Magical Sheltering +4"
-    ],
-    "itemKey": "item:moonguard",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shield of the Hunter",
@@ -1765,38 +1321,8 @@
       "Red",
       "Purple"
     ],
-    "setBonuses": [
-      {
-        "setId": "huntmaster_s_favor",
-        "setName": "Huntmaster's Favor",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "piecesRequired": 2,
-        "effect": "2 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice",
-        "effectRaw": "2 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice",
-        "tieredEffects": []
-      },
-      {
-        "setId": "huntmaster_s_favor",
-        "setName": "Huntmaster's Favor",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "piecesRequired": 3,
-        "effect": "3 Pieces Equipped: +15% Artifact bonus to Doublestrike",
-        "effectRaw": "3 Pieces Equipped: +15% Artifact bonus to Doublestrike",
-        "tieredEffects": []
-      },
-      {
-        "setId": "huntmaster_s_favor",
-        "setName": "Huntmaster's Favor",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "piecesRequired": 4,
-        "effect": "4 Pieces Equipped: +15% Artifact bonus to damage vs the Helpless",
-        "effectRaw": "4 Pieces Equipped: +15% Artifact bonus to damage vs the Helpless",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Impact",
@@ -1807,40 +1333,6 @@
       "2 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice",
       "3 Pieces Equipped: +15% Artifact bonus to Doublestrike",
       "4 Pieces Equipped: +15% Artifact bonus to damage vs the Helpless"
-    ],
-    "itemKey": "item:shield_of_the_hunter",
-    "setMembership": [
-      {
-        "setId": "huntmaster_s_favor",
-        "setName": "Huntmaster's Favor",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "minLevels": [
-          29
-        ],
-        "availablePieces": 5,
-        "bonusRaw": "2 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice 3 Pieces Equipped: +15% Artifact bonus to Doublestrike 4 Pieces Equipped: +15% Artifact bonus to damage vs the Helpless",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "2 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice",
-            "effectRaw": "2 Pieces Equipped: +3 Artifact bonus to Sneak Attack Dice",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "3 Pieces Equipped: +15% Artifact bonus to Doublestrike",
-            "effectRaw": "3 Pieces Equipped: +15% Artifact bonus to Doublestrike",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "4 Pieces Equipped: +15% Artifact bonus to damage vs the Helpless",
-            "effectRaw": "4 Pieces Equipped: +15% Artifact bonus to damage vs the Helpless",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -1862,6 +1354,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -1869,9 +1362,7 @@
       "Ghostbane 3",
       "Ghostly",
       "Lifesealed +21"
-    ],
-    "itemKey": "item:spectre_deflector_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectre Deflector (level 16)",
@@ -1892,6 +1383,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1899,9 +1391,7 @@
       "Ghostbane 4",
       "Ghostly",
       "Lifesealed +24"
-    ],
-    "itemKey": "item:spectre_deflector_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectre Deflector (level 4)",
@@ -1921,15 +1411,14 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Protection from Evil",
       "Ghostbane 2",
       "Lifesealed +15"
-    ],
-    "itemKey": "item:spectre_deflector_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectre Deflector (level 8)",
@@ -1949,15 +1438,14 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Protection from Evil",
       "Ghostbane 2",
       "Lifesealed +18"
-    ],
-    "itemKey": "item:spectre_deflector_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swashbuckler (legacy) (level 12)",
@@ -1980,6 +1468,7 @@
       "Doublestrike 3% → Doublestrike 6%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1 +3 Enhancement Bonus Parrying I Doublestrike 3% Guardbreaking Riposte",
@@ -1992,9 +1481,7 @@
       "+3 Enhancement Bonus → +4 Enhancement Bonus",
       "Upgradeable - Tier 3 Doublestrike 3% → Doublestrike 6%",
       "Doublestrike 3% → Doublestrike 6%"
-    ],
-    "itemKey": "item:swashbuckler_(legacy)_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swashbuckler (legacy) (level 16)",
@@ -2017,6 +1504,7 @@
       "Parrying IV → Parrying VIII"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1 +4 Enhancement Bonus Parrying IV Doublestrike 6% Guardbreaking Riposte",
@@ -2029,9 +1517,7 @@
       "+4 Enhancement Bonus → +5 Enhancement Bonus",
       "Upgradeable - Tier 3 Parrying IV → Parrying VIII",
       "Parrying IV → Parrying VIII"
-    ],
-    "itemKey": "item:swashbuckler_(legacy)_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swashbuckler (legacy) (level 4)",
@@ -2052,6 +1538,7 @@
       "Adds Guardbreaking"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1 +1 Enhancement Bonus Parrying I Doublestrike 3%",
@@ -2062,9 +1549,7 @@
       "+1 Enhancement Bonus → +2 Enhancement Bonus",
       "Upgradeable - Tier 3 Adds Guardbreaking",
       "Adds Guardbreaking"
-    ],
-    "itemKey": "item:swashbuckler_(legacy)_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swashbuckler (legacy) (level 8)",
@@ -2086,6 +1571,7 @@
       "Adds Riposte"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1 +2 Enhancement Bonus Parrying I Doublestrike 3% Guardbreaking",
@@ -2097,9 +1583,7 @@
       "+2 Enhancement Bonus → +3 Enhancement Bonus",
       "Upgradeable - Tier 3 Adds Riposte",
       "Adds Riposte"
-    ],
-    "itemKey": "item:swashbuckler_(legacy)_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swashbuckler (level 12)",
@@ -2120,6 +1604,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -2127,9 +1612,7 @@
       "Doublestrike 7%",
       "Guardbreaking",
       "Dexterity +6"
-    ],
-    "itemKey": "item:swashbuckler_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swashbuckler (level 16)",
@@ -2150,6 +1633,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2157,9 +1641,7 @@
       "Doublestrike 9%",
       "Guardbreaking",
       "Insightful Dexterity +3"
-    ],
-    "itemKey": "item:swashbuckler_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swashbuckler (level 4)",
@@ -2180,6 +1662,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -2187,9 +1670,7 @@
       "Doublestrike 4%",
       "Guardbreaking",
       "Dexterity +3"
-    ],
-    "itemKey": "item:swashbuckler_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Swashbuckler (level 8)",
@@ -2210,6 +1691,7 @@
     "augmentSlots": [
       "Blue"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -2217,9 +1699,7 @@
       "Doublestrike 6%",
       "Guardbreaking",
       "Dexterity +5"
-    ],
-    "itemKey": "item:swashbuckler_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Falling Darkness",
@@ -2245,6 +1725,7 @@
       "Purple Augments: All Purple augments are named augments."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
     ],
@@ -2261,9 +1742,7 @@
       "Green Augments: All Green augments are named augments.",
       "Orange Augments: All Orange augments are named augments.",
       "Purple Augments: All Purple augments are named augments."
-    ],
-    "itemKey": "item:the_falling_darkness",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Rising Light",
@@ -2289,6 +1768,7 @@
       "Purple Augments: All Purple augments are named augments."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
     ],
@@ -2305,9 +1785,7 @@
       "Green Augments: All Green augments are named augments.",
       "Orange Augments: All Orange augments are named augments.",
       "Purple Augments: All Purple augments are named augments."
-    ],
-    "itemKey": "item:the_rising_light",
-    "setMembership": []
+    ]
   },
   {
     "name": "Van Richten's Cane",
@@ -2329,100 +1807,8 @@
     "augmentSlots": [
       "Orange"
     ],
-    "setBonuses": [
-      {
-        "setId": "adherent_of_the_mists",
-        "setName": "Adherent of the Mists",
-        "source": "named_item_sets",
-        "sourceSection": "Ravenloft sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+30 Profane Bonus to Physical Resistance Rating",
-        "effectRaw": "♦+5★+30 Profane Bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "adherent_of_the_mists",
-        "setName": "Adherent of the Mists",
-        "source": "named_item_sets",
-        "sourceSection": "Ravenloft sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification",
-        "effectRaw": "♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Positive, Negative, and Repair Healing Amplification"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane Bonus to Positive, Negative, and Repair Healing Amplification"
-          }
-        ]
-      },
-      {
-        "setId": "adherent_of_the_mists",
-        "setName": "Adherent of the Mists",
-        "source": "named_item_sets",
-        "sourceSection": "Ravenloft sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "adherent_of_the_mists",
-        "setName": "Adherent of the Mists",
-        "source": "named_item_sets",
-        "sourceSection": "Ravenloft sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
-        "effectRaw": "♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP."
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP."
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Stunning +6",
@@ -2430,99 +1816,6 @@
       "Shield Bashing +9",
       "Undead Bane 3",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:van_richten's_cane",
-    "setMembership": [
-      {
-        "setId": "adherent_of_the_mists",
-        "setName": "Adherent of the Mists",
-        "source": "named_item_sets",
-        "sourceSection": "Ravenloft sets",
-        "minLevels": [
-          10,
-          29
-        ],
-        "availablePieces": 42,
-        "bonusRaw": "5 Pieces Equipped: ♦+5★+30 Profane Bonus to Physical Resistance Rating ♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+30 Profane Bonus to Physical Resistance Rating",
-            "effectRaw": "♦+5★+30 Profane Bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification",
-            "effectRaw": "♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Positive, Negative, and Repair Healing Amplification"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane Bonus to Positive, Negative, and Repair Healing Amplification"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
-            "effectRaw": "♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP."
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP."
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -2545,6 +1838,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2553,9 +1847,7 @@
       "Shield Bashing +20",
       "Undead Bane 6",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:van_richten's_legendary_cane",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wind-Swept Buckler",
@@ -2577,112 +1869,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "saltmarsh_explorer",
-        "setName": "Saltmarsh Explorer",
-        "source": "named_item_sets",
-        "sourceSection": "Saltmarsh sets",
-        "piecesRequired": 5,
-        "effect": "♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating",
-        "effectRaw": "♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact bonus to Physical and Magical Resistance Rating"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Physical and Magical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Physical and Magical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "saltmarsh_explorer",
-        "setName": "Saltmarsh Explorer",
-        "source": "named_item_sets",
-        "sourceSection": "Saltmarsh sets",
-        "piecesRequired": 5,
-        "effect": "●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power",
-        "effectRaw": "●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Melee, Ranged, and Universal Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact bonus to Melee, Ranged, and Universal Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "saltmarsh_explorer",
-        "setName": "Saltmarsh Explorer",
-        "source": "named_item_sets",
-        "sourceSection": "Saltmarsh sets",
-        "piecesRequired": 5,
-        "effect": "♦+1●+2★+3 Artifact bonus to all Ability Scores",
-        "effectRaw": "♦+1●+2★+3 Artifact bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact bonus to all Ability Scores"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Artifact bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "saltmarsh_explorer",
-        "setName": "Saltmarsh Explorer",
-        "source": "named_item_sets",
-        "sourceSection": "Saltmarsh sets",
-        "piecesRequired": 5,
-        "effect": "●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
-        "effectRaw": "●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
-        "tieredEffects": [
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Positive, Negative, and Repair Amplification"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Positive, Negative, and Repair Amplification"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +3",
       "+2 Enhancement Bonus",
@@ -2690,112 +1878,6 @@
       "Radiance Lore +8%",
       "Radiance +53",
       "Saltmarsh Explorer"
-    ],
-    "itemKey": "item:wind-swept_buckler",
-    "setMembership": [
-      {
-        "setId": "saltmarsh_explorer",
-        "setName": "Saltmarsh Explorer",
-        "source": "named_item_sets",
-        "sourceSection": "Saltmarsh sets",
-        "minLevels": [
-          3,
-          20,
-          30
-        ],
-        "availablePieces": 38,
-        "bonusRaw": "5 Pieces Equipped: ♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating ●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power ♦+1●+2★+3 Artifact bonus to all Ability Scores ●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating",
-            "effectRaw": "♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact bonus to Physical and Magical Resistance Rating"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Physical and Magical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Physical and Magical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power",
-            "effectRaw": "●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Melee, Ranged, and Universal Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact bonus to Melee, Ranged, and Universal Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1●+2★+3 Artifact bonus to all Ability Scores",
-            "effectRaw": "♦+1●+2★+3 Artifact bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact bonus to all Ability Scores"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Artifact bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
-            "effectRaw": "●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
-            "tieredEffects": [
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Positive, Negative, and Repair Amplification"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Positive, Negative, and Repair Amplification"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -2817,271 +1899,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Universal Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane bonus to Universal Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to Spell DCs",
-        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to Spell DCs"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "★+4 Profane bonus to Hit and Damage",
-        "effectRaw": "★+4 Profane bonus to Hit and Damage",
-        "tieredEffects": [
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane bonus to Hit and Damage"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Impact",
       "Armor-Piercing 7%",
       "Doublestrike 5%",
       "Quality Dexterity +1"
-    ],
-    "itemKey": "item:wreckage_of_the_tabernack",
-    "setMembership": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "minLevels": [
-          7,
-          31
-        ],
-        "availablePieces": 70,
-        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Universal Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane bonus to Universal Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to Spell DCs",
-            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to Spell DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "★+4 Profane bonus to Hit and Damage",
-            "effectRaw": "★+4 Profane bonus to Hit and Damage",
-            "tieredEffects": [
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane bonus to Hit and Damage"
-              }
-            ]
-          }
-        ]
-      }
     ]
   }
 ]

@@ -1,0 +1,6460 @@
+[
+  {
+    "name": "+1 Starter Heavy Steel Shield",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Heavy_Steel_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Starter"
+    ],
+    "itemKey": "item:+1_starter_heavy_steel_shield",
+    "setMembership": []
+  },
+  {
+    "name": "+1 Starter Heavy Wooden Shield",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Heavy_Wooden_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Starter"
+    ],
+    "itemKey": "item:+1_starter_heavy_wooden_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Aegis of Flame",
+    "link": "https://ddowiki.com/page/Item:Aegis_of_Flame",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mithral",
+      "Silver Flame",
+      "Spikes",
+      "Holy",
+      "Purple Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mithral",
+      "Silver Flame",
+      "Spikes",
+      "Holy"
+    ],
+    "itemKey": "item:aegis_of_flame",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Heavy Shield",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Heavy_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_heavy_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Alveo",
+    "link": "https://ddowiki.com/page/Item:Alveo",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Unbalancing",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Unbalancing"
+    ],
+    "itemKey": "item:alveo",
+    "setMembership": []
+  },
+  {
+    "name": "Arrondi",
+    "link": "https://ddowiki.com/page/Item:Arrondi",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Feather Falling",
+      "Adamantine",
+      "Fortification +100%",
+      "Vitality +20",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Feather Falling",
+      "Adamantine",
+      "Fortification +100%",
+      "Vitality +20"
+    ],
+    "itemKey": "item:arrondi",
+    "setMembership": []
+  },
+  {
+    "name": "Artemist's Aegis (level 10)",
+    "link": "https://ddowiki.com/page/Item:Artemist%27s_Aegis_(level_10)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Fortification +77%",
+      "Fortitude Save +6",
+      "Insightful Fortitude Save +3",
+      "Quality Fortitude Save +2",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Fortification +77%",
+      "Fortitude Save +6",
+      "Insightful Fortitude Save +3",
+      "Quality Fortitude Save +2"
+    ],
+    "itemKey": "item:artemist's_aegis_(level_10)",
+    "setMembership": []
+  },
+  {
+    "name": "Artemist's Aegis (level 15)",
+    "link": "https://ddowiki.com/page/Item:Artemist%27s_Aegis_(level_15)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Fortification +94%",
+      "Fortitude Save +7",
+      "Insightful Fortitude Save +3",
+      "Quality Fortitude Save +2",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Fortification +94%",
+      "Fortitude Save +7",
+      "Insightful Fortitude Save +3",
+      "Quality Fortitude Save +2"
+    ],
+    "itemKey": "item:artemist's_aegis_(level_15)",
+    "setMembership": []
+  },
+  {
+    "name": "Artemist's Aegis (level 20)",
+    "link": "https://ddowiki.com/page/Item:Artemist%27s_Aegis_(level_20)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Fortification +111%",
+      "Fortitude Save +9",
+      "Insightful Fortitude Save +4",
+      "Quality Fortitude Save +2",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Fortification +111%",
+      "Fortitude Save +9",
+      "Insightful Fortitude Save +4",
+      "Quality Fortitude Save +2"
+    ],
+    "itemKey": "item:artemist's_aegis_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "Artemist's Aegis (level 25)",
+    "link": "https://ddowiki.com/page/Item:Artemist%27s_Aegis_(level_25)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Fortification +128%",
+      "Fortitude Save +10",
+      "Insightful Fortitude Save +5",
+      "Quality Fortitude Save +3",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Fortification +128%",
+      "Fortitude Save +10",
+      "Insightful Fortitude Save +5",
+      "Quality Fortitude Save +3"
+    ],
+    "itemKey": "item:artemist's_aegis_(level_25)",
+    "setMembership": []
+  },
+  {
+    "name": "Artemist's Aegis (level 30)",
+    "link": "https://ddowiki.com/page/Item:Artemist%27s_Aegis_(level_30)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Fortification +146%",
+      "Fortitude Save +12",
+      "Insightful Fortitude Save +6",
+      "Quality Fortitude Save +3",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+14 Enhancement Bonus",
+      "Fortification +146%",
+      "Fortitude Save +12",
+      "Insightful Fortitude Save +6",
+      "Quality Fortitude Save +3"
+    ],
+    "itemKey": "item:artemist's_aegis_(level_30)",
+    "setMembership": []
+  },
+  {
+    "name": "Artemist's Aegis (level 5)",
+    "link": "https://ddowiki.com/page/Item:Artemist%27s_Aegis_(level_5)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Fortification +59%",
+      "Fortitude Save +4",
+      "Insightful Fortitude Save +4",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Fortification +59%",
+      "Fortitude Save +4",
+      "Insightful Fortitude Save +4"
+    ],
+    "itemKey": "item:artemist's_aegis_(level_5)",
+    "setMembership": []
+  },
+  {
+    "name": "Azure Rotella",
+    "link": "https://ddowiki.com/page/Item:Azure_Rotella",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Quality Magical Sheltering +5",
+      "Shield Bashing +14%",
+      "Feat: Elusive Target",
+      "Insightful Incite +35",
+      "Forbidden Knowledge",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 3,
+        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Attack and Damage"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane Bonus to Attack and Damage"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane Bonus to Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to Spell DCs"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Quality Magical Sheltering +5",
+      "Shield Bashing +14%",
+      "Feat: Elusive Target",
+      "Insightful Incite +35",
+      "Forbidden Knowledge"
+    ],
+    "itemKey": "item:azure_rotella",
+    "setMembership": [
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 61,
+        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Attack and Damage"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane Bonus to Attack and Damage"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane Bonus to Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to Spell DCs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Battered Guardian Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Battered_Guardian_Shield_(angular)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Life Shield",
+      "Immunity to Fear",
+      "Resistance +2"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Life Shield",
+      "Immunity to Fear",
+      "Resistance +2"
+    ],
+    "itemKey": "item:battered_guardian_shield_(angular)",
+    "setMembership": []
+  },
+  {
+    "name": "Battered Guardian Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Battered_Guardian_Shield_(round)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Life Shield",
+      "Immunity to Fear",
+      "Resistance +2"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Life Shield",
+      "Immunity to Fear",
+      "Resistance +2"
+    ],
+    "itemKey": "item:battered_guardian_shield_(round)",
+    "setMembership": []
+  },
+  {
+    "name": "Battered Marketplace Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Battered_Marketplace_Shield_(angular)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Enhanced Haggle +3",
+      "Regeneration"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Enhanced Haggle +3",
+      "Regeneration"
+    ],
+    "itemKey": "item:battered_marketplace_shield_(angular)",
+    "setMembership": []
+  },
+  {
+    "name": "Battered Marketplace Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Battered_Marketplace_Shield_(round)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Enhanced Haggle +3",
+      "Regeneration"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Enhanced Haggle +3",
+      "Regeneration"
+    ],
+    "itemKey": "item:battered_marketplace_shield_(round)",
+    "setMembership": []
+  },
+  {
+    "name": "Battered Phiarlan Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Battered_Phiarlan_Shield_(angular)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Acid Guard +2",
+      "Acid Absorption +15%",
+      "Absorb Enchantment Spells - 5 Charges (Recharged/Day: 5)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Acid Guard +2",
+      "Acid Absorption +15%",
+      "Absorb Enchantment Spells - 5 Charges (Recharged/Day: 5)"
+    ],
+    "itemKey": "item:battered_phiarlan_shield_(angular)",
+    "setMembership": []
+  },
+  {
+    "name": "Battered Phiarlan Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Battered_Phiarlan_Shield_(round)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Acid Guard +2",
+      "Acid Absorption +15%",
+      "Absorb Enchantment Spells - 5 Charges (Recharged/Day: 5)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Acid Guard +2",
+      "Acid Absorption +15%",
+      "Absorb Enchantment Spells - 5 Charges (Recharged/Day: 5)"
+    ],
+    "itemKey": "item:battered_phiarlan_shield_(round)",
+    "setMembership": []
+  },
+  {
+    "name": "Battleworn Shield of Cyre",
+    "link": "https://ddowiki.com/page/Item:Battleworn_Shield_of_Cyre",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Darkwood",
+      "Twilight"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Darkwood",
+      "Twilight"
+    ],
+    "itemKey": "item:battleworn_shield_of_cyre",
+    "setMembership": []
+  },
+  {
+    "name": "Bijio",
+    "link": "https://ddowiki.com/page/Item:Bijio",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Proof Against Poison +6",
+      "Proof Against Disease +6",
+      "Fire Absorption +20%",
+      "Efficient Metamagic - Empower Healing I",
+      "Devotion +72",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Proof Against Poison +6",
+      "Proof Against Disease +6",
+      "Fire Absorption +20%",
+      "Efficient Metamagic - Empower Healing I",
+      "Devotion +72"
+    ],
+    "itemKey": "item:bijio",
+    "setMembership": []
+  },
+  {
+    "name": "Blockade",
+    "link": "https://ddowiki.com/page/Item:Blockade",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Bashing IV",
+      "Riposte IV"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Bashing IV",
+      "Riposte IV"
+    ],
+    "itemKey": "item:blockade",
+    "setMembership": []
+  },
+  {
+    "name": "Blood's Bellows",
+    "link": "https://ddowiki.com/page/Item:Blood%27s_Bellows",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 16,
+    "effectsRaw": [
+      "Greater Shout — 3 Charges (Recharged/Day:3)",
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Purple Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Greater Shout — 3 Charges (Recharged/Day:3)",
+      "+5 Enhancement Bonus",
+      "Adamantine"
+    ],
+    "itemKey": "item:blood's_bellows",
+    "setMembership": []
+  },
+  {
+    "name": "Breaker of Bodies",
+    "link": "https://ddowiki.com/page/Item:Breaker_of_Bodies",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Shield Bashing +8",
+      "Maiming 2",
+      "Bashing 2",
+      "Riposte +2",
+      "Against the Slave Lords Set Bonus",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Against the Slave Lords Set Bonus",
+      {
+        "setId": "slave_lord_s_might",
+        "setName": "Slave Lord's Might",
+        "source": "named_item_sets",
+        "sourceSection": "Slave Lords Crafting sets",
+        "piecesRequired": 3,
+        "effect": "♦+1★+2 artifact bonus to Melee Power/Ranged Power",
+        "effectRaw": "♦+1★+2 artifact bonus to Melee Power/Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "artifact bonus to Melee Power/Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "artifact bonus to Melee Power/Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "slave_lord_s_might",
+        "setName": "Slave Lord's Might",
+        "source": "named_item_sets",
+        "sourceSection": "Slave Lords Crafting sets",
+        "piecesRequired": 3,
+        "effect": "♦+1★+2 artifact bonus to Deadly",
+        "effectRaw": "♦+1★+2 artifact bonus to Deadly",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "artifact bonus to Deadly"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "artifact bonus to Deadly"
+          }
+        ]
+      },
+      {
+        "setId": "slave_lord_s_might",
+        "setName": "Slave Lord's Might",
+        "source": "named_item_sets",
+        "sourceSection": "Slave Lords Crafting sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 artifact bonus to Strength and Dexterity",
+        "effectRaw": "♦+1★+2 artifact bonus to Strength and Dexterity",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "artifact bonus to Strength and Dexterity"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "artifact bonus to Strength and Dexterity"
+          }
+        ]
+      },
+      {
+        "setId": "slave_lord_s_might",
+        "setName": "Slave Lord's Might",
+        "source": "named_item_sets",
+        "sourceSection": "Slave Lords Crafting sets",
+        "piecesRequired": 5,
+        "effect": "♦+2★+4 artifact bonus to Melee Power/Ranged Power",
+        "effectRaw": "♦+2★+4 artifact bonus to Melee Power/Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2",
+            "effect": "artifact bonus to Melee Power/Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "artifact bonus to Melee Power/Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "slave_lord_s_might",
+        "setName": "Slave Lord's Might",
+        "source": "named_item_sets",
+        "sourceSection": "Slave Lords Crafting sets",
+        "piecesRequired": 5,
+        "effect": "♦+2★+4 artifact bonus to Deadly",
+        "effectRaw": "♦+2★+4 artifact bonus to Deadly",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2",
+            "effect": "artifact bonus to Deadly"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "artifact bonus to Deadly"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Shield Bashing +8",
+      "Maiming 2",
+      "Bashing 2",
+      "Riposte +2"
+    ],
+    "itemKey": "item:breaker_of_bodies",
+    "setMembership": [
+      {
+        "setId": "slave_lord_s_might",
+        "setName": "Slave Lord's Might",
+        "source": "named_item_sets",
+        "sourceSection": "Slave Lords Crafting sets",
+        "minLevels": [
+          8,
+          28
+        ],
+        "availablePieces": 14,
+        "bonusRaw": "3 Pieces Equipped: ♦+1★+2 artifact bonus to Melee Power/Ranged Power ♦+1★+2 artifact bonus to Deadly 5 Pieces Equipped: ♦+1★+2 artifact bonus to Strength and Dexterity ♦+2★+4 artifact bonus to Melee Power/Ranged Power ♦+2★+4 artifact bonus to Deadly",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "♦+1★+2 artifact bonus to Melee Power/Ranged Power",
+            "effectRaw": "♦+1★+2 artifact bonus to Melee Power/Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "artifact bonus to Melee Power/Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "artifact bonus to Melee Power/Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+1★+2 artifact bonus to Deadly",
+            "effectRaw": "♦+1★+2 artifact bonus to Deadly",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "artifact bonus to Deadly"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "artifact bonus to Deadly"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 artifact bonus to Strength and Dexterity",
+            "effectRaw": "♦+1★+2 artifact bonus to Strength and Dexterity",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "artifact bonus to Strength and Dexterity"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "artifact bonus to Strength and Dexterity"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+2★+4 artifact bonus to Melee Power/Ranged Power",
+            "effectRaw": "♦+2★+4 artifact bonus to Melee Power/Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2",
+                "effect": "artifact bonus to Melee Power/Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "artifact bonus to Melee Power/Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+2★+4 artifact bonus to Deadly",
+            "effectRaw": "♦+2★+4 artifact bonus to Deadly",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2",
+                "effect": "artifact bonus to Deadly"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "artifact bonus to Deadly"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bulwark of the Storm's Fist (historic)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(historic)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Constitution +5"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Constitution +5"
+    ],
+    "itemKey": "item:bulwark_of_the_storm's_fist_(historic)",
+    "setMembership": []
+  },
+  {
+    "name": "Bulwark of the Storm's Fist (level 12)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(level_12)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Sheltering +3",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Sheltering +3"
+    ],
+    "itemKey": "item:bulwark_of_the_storm's_fist_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Bulwark of the Storm's Fist (level 13)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(level_13)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Sheltering +3",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Sheltering +3"
+    ],
+    "itemKey": "item:bulwark_of_the_storm's_fist_(level_13)",
+    "setMembership": []
+  },
+  {
+    "name": "Bulwark of the Storm's Fist (level 14)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(level_14)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Sheltering +6",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Sheltering +6"
+    ],
+    "itemKey": "item:bulwark_of_the_storm's_fist_(level_14)",
+    "setMembership": []
+  },
+  {
+    "name": "Bulwark of the Storm's Fist (level 23)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(level_23)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 23,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Sheltering +12",
+      "Insightful Constitution +2",
+      "Purple Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Sheltering +12",
+      "Insightful Constitution +2"
+    ],
+    "itemKey": "item:bulwark_of_the_storm's_fist_(level_23)",
+    "setMembership": []
+  },
+  {
+    "name": "Bulwark of the Storm's Fist (level 24)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(level_24)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Sheltering +12",
+      "Insightful Constitution +3",
+      "Purple Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Sheltering +12",
+      "Insightful Constitution +3"
+    ],
+    "itemKey": "item:bulwark_of_the_storm's_fist_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Bulwark of the Storm's Fist (level 25)",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_the_Storm%27s_Fist_(level_25)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Sheltering +15",
+      "Insightful Constitution +3",
+      "Purple Augment Slot",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Sheltering +15",
+      "Insightful Constitution +3"
+    ],
+    "itemKey": "item:bulwark_of_the_storm's_fist_(level_25)",
+    "setMembership": []
+  },
+  {
+    "name": "Carved Bone Shield",
+    "link": "https://ddowiki.com/page/Item:Carved_Bone_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Negative Energy Spike",
+      "Negative Energy Absorption +20%",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Negative Energy Spike",
+      "Negative Energy Absorption +20%"
+    ],
+    "itemKey": "item:carved_bone_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Cataclysmic Large Shield",
+    "link": "https://ddowiki.com/page/Item:Cataclysmic_Large_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus"
+    ],
+    "itemKey": "item:cataclysmic_large_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Champion of the Twins",
+    "link": "https://ddowiki.com/page/Item:Champion_of_the_Twins",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Healers Bounty",
+      "Parrying +6",
+      "Physical Sheltering +35",
+      "Quality Resistance +2",
+      "Mithral",
+      "Purple Augment Slot",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "legacy_of_levikk",
+        "setName": "Legacy of Levikk",
+        "source": "named_item_sets",
+        "sourceSection": "Legendary Vision of Destruction sets",
+        "piecesRequired": 2,
+        "effect": "+15% Artifact bonus to Armor Class",
+        "effectRaw": "+15% Artifact bonus to Armor Class",
+        "tieredEffects": []
+      },
+      {
+        "setId": "legacy_of_levikk",
+        "setName": "Legacy of Levikk",
+        "source": "named_item_sets",
+        "sourceSection": "Legendary Vision of Destruction sets",
+        "piecesRequired": 2,
+        "effect": "+30 Artifact bonus to Physical Resistance Rating",
+        "effectRaw": "+30 Artifact bonus to Physical Resistance Rating",
+        "tieredEffects": []
+      },
+      {
+        "setId": "legacy_of_levikk",
+        "setName": "Legacy of Levikk",
+        "source": "named_item_sets",
+        "sourceSection": "Legendary Vision of Destruction sets",
+        "piecesRequired": 2,
+        "effect": "+75% Artifact bonus to Melee Threat Generation",
+        "effectRaw": "+75% Artifact bonus to Melee Threat Generation",
+        "tieredEffects": []
+      },
+      {
+        "setId": "legacy_of_lorikk",
+        "setName": "Legacy of Lorikk",
+        "source": "named_item_sets",
+        "sourceSection": "Legendary Vision of Destruction sets",
+        "piecesRequired": 2,
+        "effect": "+30 Artifact bonus to Positive and Light/Alignment Spell Power",
+        "effectRaw": "+30 Artifact bonus to Positive and Light/Alignment Spell Power",
+        "tieredEffects": []
+      },
+      {
+        "setId": "legacy_of_lorikk",
+        "setName": "Legacy of Lorikk",
+        "source": "named_item_sets",
+        "sourceSection": "Legendary Vision of Destruction sets",
+        "piecesRequired": 2,
+        "effect": "+6% Artifact bonus to Positive and Light/Alignment Spell Crit Chance",
+        "effectRaw": "+6% Artifact bonus to Positive and Light/Alignment Spell Crit Chance",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Healers Bounty",
+      "Parrying +6",
+      "Physical Sheltering +35",
+      "Quality Resistance +2",
+      "Mithral"
+    ],
+    "itemKey": "item:champion_of_the_twins",
+    "setMembership": [
+      {
+        "setId": "legacy_of_levikk",
+        "setName": "Legacy of Levikk",
+        "source": "named_item_sets",
+        "sourceSection": "Legendary Vision of Destruction sets",
+        "minLevels": [
+          29
+        ],
+        "availablePieces": 2,
+        "bonusRaw": "2 Pieces Equipped: +15% Artifact bonus to Armor Class +30 Artifact bonus to Physical Resistance Rating +75% Artifact bonus to Melee Threat Generation",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "+15% Artifact bonus to Armor Class",
+            "effectRaw": "+15% Artifact bonus to Armor Class",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "+30 Artifact bonus to Physical Resistance Rating",
+            "effectRaw": "+30 Artifact bonus to Physical Resistance Rating",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "+75% Artifact bonus to Melee Threat Generation",
+            "effectRaw": "+75% Artifact bonus to Melee Threat Generation",
+            "tieredEffects": []
+          }
+        ]
+      },
+      {
+        "setId": "legacy_of_lorikk",
+        "setName": "Legacy of Lorikk",
+        "source": "named_item_sets",
+        "sourceSection": "Legendary Vision of Destruction sets",
+        "minLevels": [
+          29
+        ],
+        "availablePieces": 2,
+        "bonusRaw": "2 Pieces Equipped: +30 Artifact bonus to Positive and Light/Alignment Spell Power +6% Artifact bonus to Positive and Light/Alignment Spell Crit Chance",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "+30 Artifact bonus to Positive and Light/Alignment Spell Power",
+            "effectRaw": "+30 Artifact bonus to Positive and Light/Alignment Spell Power",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "+6% Artifact bonus to Positive and Light/Alignment Spell Crit Chance",
+            "effectRaw": "+6% Artifact bonus to Positive and Light/Alignment Spell Crit Chance",
+            "tieredEffects": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Colossus, the Breaking Wall",
+    "link": "https://ddowiki.com/page/Item:Colossus,_the_Breaking_Wall",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Guardbreaking",
+      "Impact",
+      "Bashing 7",
+      "Shield Bashing +23%",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 3,
+        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Attack and Damage"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane Bonus to Attack and Damage"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane Bonus to Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to Spell DCs"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Guardbreaking",
+      "Impact",
+      "Bashing 7",
+      "Shield Bashing +23%"
+    ],
+    "itemKey": "item:colossus,_the_breaking_wall",
+    "setMembership": [
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 61,
+        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Attack and Damage"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane Bonus to Attack and Damage"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane Bonus to Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to Spell DCs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Coronation Shield",
+    "link": "https://ddowiki.com/page/Item:Coronation_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "Blinding Flash — 3 Charges (Recharged/Day:3)",
+      "+5 Enhancement Bonus",
+      "Impact",
+      "Holy Blast 3",
+      "Blinding",
+      "Paragon Light Guard",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "oasis_of_morality",
+        "setName": "Oasis of Morality",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
+        "effectRaw": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2%",
+            "effect": "Artifact Bonus to Positive Spellcrit Chance"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+4%",
+            "effect": "Artifact Bonus to Positive Spellcrit Chance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+6%",
+            "effect": "Artifact Bonus to Positive Spellcrit Chance"
+          }
+        ]
+      },
+      {
+        "setId": "oasis_of_morality",
+        "setName": "Oasis of Morality",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
+        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Positive Spellpower"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact Bonus to Positive Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact Bonus to Positive Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "oasis_of_morality",
+        "setName": "Oasis of Morality",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+        "effectRaw": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5%",
+            "effect": "Artifact Bonus to Fortification Bypass"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+10%",
+            "effect": "Artifact Bonus to Fortification Bypass"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15%",
+            "effect": "Artifact Bonus to Fortification Bypass"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "Blinding Flash — 3 Charges (Recharged/Day:3)",
+      "+5 Enhancement Bonus",
+      "Impact",
+      "Holy Blast 3",
+      "Blinding",
+      "Paragon Light Guard"
+    ],
+    "itemKey": "item:coronation_shield",
+    "setMembership": [
+      {
+        "setId": "oasis_of_morality",
+        "setName": "Oasis of Morality",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 8,
+        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance ♦+10●+20★+30 Artifact Bonus to Positive Spellpower ♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
+            "effectRaw": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2%",
+                "effect": "Artifact Bonus to Positive Spellcrit Chance"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+4%",
+                "effect": "Artifact Bonus to Positive Spellcrit Chance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+6%",
+                "effect": "Artifact Bonus to Positive Spellcrit Chance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
+            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Positive Spellpower"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact Bonus to Positive Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact Bonus to Positive Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+            "effectRaw": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5%",
+                "effect": "Artifact Bonus to Fortification Bypass"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+10%",
+                "effect": "Artifact Bonus to Fortification Bypass"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15%",
+                "effect": "Artifact Bonus to Fortification Bypass"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crystalline Ward",
+    "link": "https://ddowiki.com/page/Item:Crystalline_Ward",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 15,
+    "effectsRaw": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Lesser Arcane Casting Dexterity",
+      "Potency +60",
+      "Insightful Magical Sheltering +9",
+      "Quality Magical Sheltering +4",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Lesser Arcane Casting Dexterity",
+      "Potency +60",
+      "Insightful Magical Sheltering +9",
+      "Quality Magical Sheltering +4"
+    ],
+    "itemKey": "item:crystalline_ward",
+    "setMembership": []
+  },
+  {
+    "name": "Dalorent's Seal",
+    "link": "https://ddowiki.com/page/Item:Dalorent%27s_Seal",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Sacred",
+      "Devotion +60",
+      "Radiance +60",
+      "Lesser Turning",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Sacred",
+      "Devotion +60",
+      "Radiance +60",
+      "Lesser Turning"
+    ],
+    "itemKey": "item:dalorent's_seal",
+    "setMembership": []
+  },
+  {
+    "name": "Death's Door",
+    "link": "https://ddowiki.com/page/Item:Death%27s_Door",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Deathblock",
+      "Negative Energy Spike",
+      "Negative Energy Absorption - 10 Charges (Recharged/Day: 10)",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Deathblock",
+      "Negative Energy Spike",
+      "Negative Energy Absorption - 10 Charges (Recharged/Day: 10)"
+    ],
+    "itemKey": "item:death's_door",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Azure Rotella",
+    "link": "https://ddowiki.com/page/Item:Defiled_Azure_Rotella",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Insightful Shield Bashing +6",
+      "Shield Bashing +14%",
+      "Unholy 4",
+      "Insightful Diversion +6%",
+      "Forbidden Knowledge",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Insightful Shield Bashing +6",
+      "Shield Bashing +14%",
+      "Unholy 4",
+      "Insightful Diversion +6%",
+      "Forbidden Knowledge"
+    ],
+    "itemKey": "item:defiled_azure_rotella",
+    "setMembership": []
+  },
+  {
+    "name": "Dethek Runestone",
+    "link": "https://ddowiki.com/page/Item:Dethek_Runestone",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 26,
+    "effectsRaw": [
+      "Spellcasting Implement +39",
+      "+13 Enhancement Bonus",
+      "Permanent Efficacy",
+      "Insightful Devotion +71",
+      "Natural Armor +13",
+      "Stone Paws",
+      "Runic Revitalization",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +39",
+      "+13 Enhancement Bonus",
+      "Permanent Efficacy",
+      "Insightful Devotion +71",
+      "Natural Armor +13",
+      "Stone Paws",
+      "Runic Revitalization"
+    ],
+    "itemKey": "item:dethek_runestone",
+    "setMembership": []
+  },
+  {
+    "name": "Devil's Defense",
+    "link": "https://ddowiki.com/page/Item:Devil%27s_Defense",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 27,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Quality Constitution +3",
+      "Magical Sheltering +33",
+      "Healers Bounty",
+      "Bashing 6",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+14 Enhancement Bonus",
+      "Quality Constitution +3",
+      "Magical Sheltering +33",
+      "Healers Bounty",
+      "Bashing 6"
+    ],
+    "itemKey": "item:devil's_defense",
+    "setMembership": []
+  },
+  {
+    "name": "Dhakaani Shield",
+    "link": "https://ddowiki.com/page/Item:Dhakaani_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus"
+    ],
+    "itemKey": "item:dhakaani_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Large Shield",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Large_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Scale Slot (Armor): Empty",
+      "Isle of Dread: Fang Slot (Armor): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Armor",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Armor",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_large_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Dirge's Bulwark",
+    "link": "https://ddowiki.com/page/Item:Dirge%27s_Bulwark",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Electric Resistance +30"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Electric Resistance +30"
+    ],
+    "itemKey": "item:dirge's_bulwark",
+    "setMembership": []
+  },
+  {
+    "name": "Enhanced Guardian of Stormreach Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Enhanced_Guardian_of_Stormreach_Shield_(angular)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Life Shield",
+      "Immunity to Fear",
+      "Resistance +2"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Life Shield",
+      "Immunity to Fear",
+      "Resistance +2"
+    ],
+    "itemKey": "item:enhanced_guardian_of_stormreach_shield_(angular)",
+    "setMembership": []
+  },
+  {
+    "name": "Enhanced Guardian of Stormreach Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Enhanced_Guardian_of_Stormreach_Shield_(round)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Life Shield",
+      "Immunity to Fear",
+      "Resistance +2"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Life Shield",
+      "Immunity to Fear",
+      "Resistance +2"
+    ],
+    "itemKey": "item:enhanced_guardian_of_stormreach_shield_(round)",
+    "setMembership": []
+  },
+  {
+    "name": "Enhanced Phiarlan Veil Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Enhanced_Phiarlan_Veil_Shield_(angular)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Acid Guard +2",
+      "Absorb Enchantment Spells - 5 Charges (Recharged/Day: 5)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Acid Guard +2",
+      "Absorb Enchantment Spells - 5 Charges (Recharged/Day: 5)"
+    ],
+    "itemKey": "item:enhanced_phiarlan_veil_shield_(angular)",
+    "setMembership": []
+  },
+  {
+    "name": "Enhanced Phiarlan Veil Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Enhanced_Phiarlan_Veil_Shield_(round)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Acid Guard +2",
+      "Absorb Enchantment Spells - 5 Charges (Recharged/Day: 5)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Acid Guard +2",
+      "Absorb Enchantment Spells - 5 Charges (Recharged/Day: 5)"
+    ],
+    "itemKey": "item:enhanced_phiarlan_veil_shield_(round)",
+    "setMembership": []
+  },
+  {
+    "name": "Enhanced Stormreach Marketplace Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Enhanced_Stormreach_Marketplace_Shield_(angular)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Enhanced Haggle +3",
+      "Regeneration"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Enhanced Haggle +3",
+      "Regeneration"
+    ],
+    "itemKey": "item:enhanced_stormreach_marketplace_shield_(angular)",
+    "setMembership": []
+  },
+  {
+    "name": "Enhanced Stormreach Marketplace Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Enhanced_Stormreach_Marketplace_Shield_(round)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Enhanced Haggle +3",
+      "Regeneration"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Enhanced Haggle +3",
+      "Regeneration"
+    ],
+    "itemKey": "item:enhanced_stormreach_marketplace_shield_(round)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Coronation Shield",
+    "link": "https://ddowiki.com/page/Item:Epic_Coronation_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impact",
+      "Holy Blast 4",
+      "Greater Sirocco",
+      "Epic Paragon Light Guard",
+      "Blue Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impact",
+      "Holy Blast 4",
+      "Greater Sirocco",
+      "Epic Paragon Light Guard"
+    ],
+    "itemKey": "item:epic_coronation_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Kundarak Warding Shield",
+    "link": "https://ddowiki.com/page/Item:Epic_Kundarak_Warding_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Resistance +8",
+      "Spell Resistance +28",
+      "Vitality +32",
+      "False Life +36",
+      "Blue Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Resistance +8",
+      "Spell Resistance +28",
+      "Vitality +32",
+      "False Life +36"
+    ],
+    "itemKey": "item:epic_kundarak_warding_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Saltiron Targe",
+    "link": "https://ddowiki.com/page/Item:Epic_Saltiron_Targe",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 20,
+    "effectsRaw": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Healing Lore +16%",
+      "Devotion +111",
+      "Greater Undead Guard",
+      "Competence Healing Amplification +38",
+      "Lesser Turning",
+      "Epic Saltmarsh Explorer",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Healing Lore +16%",
+      "Devotion +111",
+      "Greater Undead Guard",
+      "Competence Healing Amplification +38",
+      "Lesser Turning",
+      "Epic Saltmarsh Explorer"
+    ],
+    "itemKey": "item:epic_saltiron_targe",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sanctuary",
+    "link": "https://ddowiki.com/page/Item:Epic_Sanctuary",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 23,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Resistance +9",
+      "Insightful Sheltering +14",
+      "Quality Sheltering +7",
+      "Spell Save +9",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Resistance +9",
+      "Insightful Sheltering +14",
+      "Quality Sheltering +7",
+      "Spell Save +9"
+    ],
+    "itemKey": "item:epic_sanctuary",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Shield of Tireless Aid",
+    "link": "https://ddowiki.com/page/Item:Epic_Shield_of_Tireless_Aid",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 28,
+    "effectsRaw": [
+      "Spellcasting Implement +36",
+      "+12 Enhancement Bonus",
+      "Devotion +150",
+      "Equipment Healing Amplification +20",
+      "Healers Bounty",
+      "Improved Demonic Shield",
+      "Green Augment Slot"
+    ],
+    "augmentSlots": [
+      "Green"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +36",
+      "+12 Enhancement Bonus",
+      "Devotion +150",
+      "Equipment Healing Amplification +20",
+      "Healers Bounty",
+      "Improved Demonic Shield"
+    ],
+    "itemKey": "item:epic_shield_of_tireless_aid",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Shield of the Scorpion",
+    "link": "https://ddowiki.com/page/Item:Epic_Shield_of_the_Scorpion",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Profane Well Rounded +2",
+      "Profane Lifeforce +32",
+      "Insightful Spell Resistance +14",
+      "Quality Sheltering +6",
+      "Blue Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Profane Well Rounded +2",
+      "Profane Lifeforce +32",
+      "Insightful Spell Resistance +14",
+      "Quality Sheltering +6"
+    ],
+    "itemKey": "item:epic_shield_of_the_scorpion",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ward of Undeath",
+    "link": "https://ddowiki.com/page/Item:Epic_Ward_of_Undeath",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impact",
+      "Flaming Blast 4",
+      "Undead Bane 4",
+      "Superior Undead Guard",
+      "Flametouched Iron",
+      "Red Augment Slot",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impact",
+      "Flaming Blast 4",
+      "Undead Bane 4",
+      "Superior Undead Guard",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:epic_ward_of_undeath",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Wrath of Siberys",
+    "link": "https://ddowiki.com/page/Item:Epic_Wrath_of_Siberys",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 25,
+    "effectsRaw": [
+      "Blinding Flash — 3 Charges (Recharged/Day:3)",
+      "+8 Enhancement Bonus",
+      "Improved Heroism",
+      "Blinding",
+      "Reflex Save +10",
+      "Insightful Reflex Save +5",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Blinding Flash — 3 Charges (Recharged/Day:3)",
+      "+8 Enhancement Bonus",
+      "Improved Heroism",
+      "Blinding",
+      "Reflex Save +10",
+      "Insightful Reflex Save +5"
+    ],
+    "itemKey": "item:epic_wrath_of_siberys",
+    "setMembership": []
+  },
+  {
+    "name": "Fanion",
+    "link": "https://ddowiki.com/page/Item:Fanion",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Twilight",
+      "Mithral",
+      "Archmagi",
+      "Greater False Life",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Twilight",
+      "Mithral",
+      "Archmagi",
+      "Greater False Life"
+    ],
+    "itemKey": "item:fanion",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Shield",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Impact",
+      "Shield Bashing +6%",
+      "Entropic 2",
+      "Quality Magical Sheltering +2",
+      "Crystal",
+      "Red Augment Slot",
+      "5 Pieces Equipped: +1% Artifact bonus to Dodge",
+      "6 Pieces Equipped: +1 Artifact bonus to all spell DCs",
+      "7 Pieces Equipped: +5 Artifact bonus to Physical and Magical Resistance Rating"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 2,
+        "effect": "+10 Artifact bonus to your maximum hit points",
+        "effectRaw": "+10 Artifact bonus to your maximum hit points",
+        "tieredEffects": []
+      },
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 3,
+        "effect": "+50 Artifact bonus to your maximum Spell Points",
+        "effectRaw": "+50 Artifact bonus to your maximum Spell Points",
+        "tieredEffects": []
+      },
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 4,
+        "effect": "+1 Artifact bonus to all of your Ability Scores",
+        "effectRaw": "+1 Artifact bonus to all of your Ability Scores",
+        "tieredEffects": []
+      },
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 5,
+        "effect": "+1% Artifact bonus to Dodge",
+        "effectRaw": "+1% Artifact bonus to Dodge",
+        "tieredEffects": []
+      },
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 6,
+        "effect": "+1 Artifact bonus to all spell DCs",
+        "effectRaw": "+1 Artifact bonus to all spell DCs",
+        "tieredEffects": []
+      },
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 7,
+        "effect": "+5 Artifact bonus to Physical and Magical Resistance Rating",
+        "effectRaw": "+5 Artifact bonus to Physical and Magical Resistance Rating",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Impact",
+      "Shield Bashing +6%",
+      "Entropic 2",
+      "Quality Magical Sheltering +2",
+      "Crystal",
+      "5 Pieces Equipped: +1% Artifact bonus to Dodge",
+      "6 Pieces Equipped: +1 Artifact bonus to all spell DCs",
+      "7 Pieces Equipped: +5 Artifact bonus to Physical and Magical Resistance Rating"
+    ],
+    "itemKey": "item:ferrocrystal_shield",
+    "setMembership": [
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "minLevels": [
+          5
+        ],
+        "availablePieces": 49,
+        "bonusRaw": "2 Pieces Equipped: +10 Artifact bonus to your maximum hit points 3 Pieces Equipped: +50 Artifact bonus to your maximum Spell Points 4 Pieces Equipped: +1 Artifact bonus to all of your Ability Scores 5 Pieces Equipped: +1% Artifact bonus to Dodge 6 Pieces Equipped: +1 Artifact bonus to all spell DCs 7 Pieces Equipped: +5 Artifact bonus to Physical and Magical Resistance Rating",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "+10 Artifact bonus to your maximum hit points",
+            "effectRaw": "+10 Artifact bonus to your maximum hit points",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "+50 Artifact bonus to your maximum Spell Points",
+            "effectRaw": "+50 Artifact bonus to your maximum Spell Points",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "+1 Artifact bonus to all of your Ability Scores",
+            "effectRaw": "+1 Artifact bonus to all of your Ability Scores",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "+1% Artifact bonus to Dodge",
+            "effectRaw": "+1% Artifact bonus to Dodge",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 6,
+            "effect": "+1 Artifact bonus to all spell DCs",
+            "effectRaw": "+1 Artifact bonus to all spell DCs",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 7,
+            "effect": "+5 Artifact bonus to Physical and Magical Resistance Rating",
+            "effectRaw": "+5 Artifact bonus to Physical and Magical Resistance Rating",
+            "tieredEffects": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Focal Point",
+    "link": "https://ddowiki.com/page/Item:Focal_Point",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 21,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Incite +94",
+      "Insightful Incite +39",
+      "Parrying +4",
+      "Protection +8",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Incite +94",
+      "Insightful Incite +39",
+      "Parrying +4",
+      "Protection +8"
+    ],
+    "itemKey": "item:focal_point",
+    "setMembership": []
+  },
+  {
+    "name": "Frostforged Large Shield",
+    "link": "https://ddowiki.com/page/Item:Frostforged_Large_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Guardbreaking",
+      "Insightful Physical Sheltering +5",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Guardbreaking",
+      "Insightful Physical Sheltering +5"
+    ],
+    "itemKey": "item:frostforged_large_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Giant's Platter",
+    "link": "https://ddowiki.com/page/Item:Giant%27s_Platter",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Magical Sheltering +18",
+      "Natural Armor +7",
+      "Vitality +24",
+      "Protection +6",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "seasons_of_change",
+        "setName": "Seasons of Change",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 2,
+        "effect": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
+        "effectRaw": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Fire and Cold Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact Bonus to Fire and Cold Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "seasons_of_change",
+        "setName": "Seasons of Change",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 2,
+        "effect": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+        "effectRaw": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Evocation Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Evocation Spell DCs"
+          }
+        ]
+      },
+      {
+        "setId": "wayward_warrior",
+        "setName": "Wayward Warrior",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 2,
+        "effect": "♦+2★+5 Artifact Bonus to Natural Armor",
+        "effectRaw": "♦+2★+5 Artifact Bonus to Natural Armor",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2",
+            "effect": "Artifact Bonus to Natural Armor"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+5",
+            "effect": "Artifact Bonus to Natural Armor"
+          }
+        ]
+      },
+      {
+        "setId": "wayward_warrior",
+        "setName": "Wayward Warrior",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 2,
+        "effect": "♦+1★+3 Artifact Bonus to Constitution",
+        "effectRaw": "♦+1★+3 Artifact Bonus to Constitution",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Constitution"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Constitution"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Magical Sheltering +18",
+      "Natural Armor +7",
+      "Vitality +24",
+      "Protection +6"
+    ],
+    "itemKey": "item:giant's_platter",
+    "setMembership": [
+      {
+        "setId": "seasons_of_change",
+        "setName": "Seasons of Change",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "minLevels": [
+          14,
+          29
+        ],
+        "availablePieces": 3,
+        "bonusRaw": "2 Pieces Equipped: ♦+10★+30 Artifact Bonus to Fire and Cold Spell Power ♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
+            "effectRaw": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Fire and Cold Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact Bonus to Fire and Cold Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+            "effectRaw": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Evocation Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Evocation Spell DCs"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "setId": "wayward_warrior",
+        "setName": "Wayward Warrior",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "minLevels": [
+          14,
+          29
+        ],
+        "availablePieces": 4,
+        "bonusRaw": "2 Pieces Equipped: ♦+2★+5 Artifact Bonus to Natural Armor ♦+1★+3 Artifact Bonus to Constitution",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+2★+5 Artifact Bonus to Natural Armor",
+            "effectRaw": "♦+2★+5 Artifact Bonus to Natural Armor",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2",
+                "effect": "Artifact Bonus to Natural Armor"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+5",
+                "effect": "Artifact Bonus to Natural Armor"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1★+3 Artifact Bonus to Constitution",
+            "effectRaw": "♦+1★+3 Artifact Bonus to Constitution",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Constitution"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Constitution"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Glory's Guard",
+    "link": "https://ddowiki.com/page/Item:Glory%27s_Guard",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Hallowed +1",
+      "Sacred +1",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Hallowed +1",
+      "Sacred +1"
+    ],
+    "itemKey": "item:glory's_guard",
+    "setMembership": []
+  },
+  {
+    "name": "Guardian of Stormreach Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Guardian_of_Stormreach_Shield_(angular)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+3 Enhancement Bonus"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus"
+    ],
+    "itemKey": "item:guardian_of_stormreach_shield_(angular)",
+    "setMembership": []
+  },
+  {
+    "name": "Guardian of Stormreach Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Guardian_of_Stormreach_Shield_(round)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+3 Enhancement Bonus"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus"
+    ],
+    "itemKey": "item:guardian_of_stormreach_shield_(round)",
+    "setMembership": []
+  },
+  {
+    "name": "Interogator's Shield",
+    "link": "https://ddowiki.com/page/Item:Interogator%27s_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Intimidate +3",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Intimidate +3"
+    ],
+    "itemKey": "item:interogator's_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Kundarak Warding Shield",
+    "link": "https://ddowiki.com/page/Item:Kundarak_Warding_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Resistance +5",
+      "Spell Resistance +16",
+      "Vitality +19",
+      "False Life +21",
+      "Wards of House Kundarak"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "wards_of_house_kundarak",
+        "setName": "Wards of House Kundarak",
+        "source": "named_item_sets",
+        "sourceSection": "Vault of Night sets",
+        "piecesRequired": 2,
+        "effect": "♦+5%●+10%★+15% Artifact bonus to Armor Class",
+        "effectRaw": "♦+5%●+10%★+15% Artifact bonus to Armor Class",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5%",
+            "effect": "Artifact bonus to Armor Class"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+10%",
+            "effect": "Artifact bonus to Armor Class"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15%",
+            "effect": "Artifact bonus to Armor Class"
+          }
+        ]
+      },
+      {
+        "setId": "wards_of_house_kundarak",
+        "setName": "Wards of House Kundarak",
+        "source": "named_item_sets",
+        "sourceSection": "Vault of Night sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10●+20★+30 Artifact bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Physical Resistance Rating"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Resistance +5",
+      "Spell Resistance +16",
+      "Vitality +19",
+      "False Life +21",
+      "Wards of House Kundarak"
+    ],
+    "itemKey": "item:kundarak_warding_shield",
+    "setMembership": [
+      {
+        "setId": "wards_of_house_kundarak",
+        "setName": "Wards of House Kundarak",
+        "source": "named_item_sets",
+        "sourceSection": "Vault of Night sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 3,
+        "bonusRaw": "2 Pieces Equipped: ♦+5%●+10%★+15% Artifact bonus to Armor Class ♦+10●+20★+30 Artifact bonus to Physical Resistance Rating",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+5%●+10%★+15% Artifact bonus to Armor Class",
+            "effectRaw": "♦+5%●+10%★+15% Artifact bonus to Armor Class",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5%",
+                "effect": "Artifact bonus to Armor Class"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+10%",
+                "effect": "Artifact bonus to Armor Class"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15%",
+                "effect": "Artifact bonus to Armor Class"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10●+20★+30 Artifact bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Physical Resistance Rating"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Large Shield of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Large_Shield_of_the_Fallen_Age",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Shield Bashing +11%",
+      "Insightful Incite +27",
+      "Profane Lifeforce +23",
+      "Legendary Conditioning +15%",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Conditioning +15%"
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Shield Bashing +11%",
+      "Insightful Incite +27",
+      "Profane Lifeforce +23"
+    ],
+    "itemKey": "item:large_shield_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Large Shield of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Large_Shield_of_the_Golden_Age",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Shield Bashing +11%",
+      "Legendary Conditioning +15%",
+      "Shield Spikes",
+      "Guardbreaking",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Conditioning +15%"
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Shield Bashing +11%",
+      "Shield Spikes",
+      "Guardbreaking"
+    ],
+    "itemKey": "item:large_shield_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Alchemical Large Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Large_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_large_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Azure Rotella",
+    "link": "https://ddowiki.com/page/Item:Legendary_Azure_Rotella",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Quality Magical Sheltering +8",
+      "Shield Bashing +22%",
+      "Feat: Elusive Target",
+      "Insightful Incite +57",
+      "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Forbidden Knowledge"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Quality Magical Sheltering +8",
+      "Shield Bashing +22%",
+      "Feat: Elusive Target",
+      "Insightful Incite +57"
+    ],
+    "itemKey": "item:legendary_azure_rotella",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Breaker of Bodies",
+    "link": "https://ddowiki.com/page/Item:Legendary_Breaker_of_Bodies",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+12 Enhancement Bonus",
+      "Shield Bashing +20%",
+      "Maiming 6",
+      "Bashing 6",
+      "Riposte +6",
+      "Against the Slave Lords Set Bonus",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Against the Slave Lords Set Bonus"
+    ],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Shield Bashing +20%",
+      "Maiming 6",
+      "Bashing 6",
+      "Riposte +6"
+    ],
+    "itemKey": "item:legendary_breaker_of_bodies",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Large Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Large_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_large_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Coronation Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Coronation_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Impact",
+      "Holy Blast 6",
+      "Blinding Fear",
+      "Epic Paragon Light Guard",
+      "Legendary Brilliance Guard",
+      "Legendary Oasis of Morality",
+      "Blue Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Brilliance Guard",
+      "Legendary Oasis of Morality"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Impact",
+      "Holy Blast 6",
+      "Blinding Fear",
+      "Epic Paragon Light Guard"
+    ],
+    "itemKey": "item:legendary_coronation_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Crystalline Ward",
+    "link": "https://ddowiki.com/page/Item:Legendary_Crystalline_Ward",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Arcane Casting Dexterity",
+      "Potency +98",
+      "Insightful Magical Sheltering +16",
+      "Quality Magical Sheltering +8",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Arcane Casting Dexterity",
+      "Potency +98",
+      "Insightful Magical Sheltering +16",
+      "Quality Magical Sheltering +8"
+    ],
+    "itemKey": "item:legendary_crystalline_ward",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Defiled Azure Rotella",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Azure_Rotella",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Insightful Shield Bashing +10",
+      "Shield Bashing +22%",
+      "Unholy 6",
+      "Insightful Diversion +10%",
+      "Taint of Evil",
+      "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Forbidden Knowledge"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Insightful Shield Bashing +10",
+      "Shield Bashing +22%",
+      "Unholy 6",
+      "Insightful Diversion +10%",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_azure_rotella",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Impact",
+      "Shield Bashing +20%",
+      "Entropic 6",
+      "Quality Magical Sheltering +8",
+      "Crystal",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "eminence_of_summer_legendary",
+        "setName": "Eminence of Summer (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 2,
+        "effect": "+30 Artifact bonus to Magical Resistance Rating",
+        "effectRaw": "+30 Artifact bonus to Magical Resistance Rating",
+        "tieredEffects": []
+      },
+      {
+        "setId": "eminence_of_summer_legendary",
+        "setName": "Eminence of Summer (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 3,
+        "effect": "+30% Artifact bonus to Fortification Bypass",
+        "effectRaw": "+30% Artifact bonus to Fortification Bypass",
+        "tieredEffects": []
+      },
+      {
+        "setId": "eminence_of_summer_legendary",
+        "setName": "Eminence of Summer (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 4,
+        "effect": "+5 Artifact bonus to your Tactical Abilities",
+        "effectRaw": "+5 Artifact bonus to your Tactical Abilities",
+        "tieredEffects": []
+      },
+      {
+        "setId": "eminence_of_summer_legendary",
+        "setName": "Eminence of Summer (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 5,
+        "effect": "+15% Artifact bonus to damage versus the Helpless",
+        "effectRaw": "+15% Artifact bonus to damage versus the Helpless",
+        "tieredEffects": []
+      },
+      {
+        "setId": "eminence_of_summer_legendary",
+        "setName": "Eminence of Summer (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 6,
+        "effect": "+15% Artifact bonus to Doublestrike and Doubleshot",
+        "effectRaw": "+15% Artifact bonus to Doublestrike and Doubleshot",
+        "tieredEffects": []
+      },
+      {
+        "setId": "eminence_of_summer_legendary",
+        "setName": "Eminence of Summer (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 7,
+        "effect": "+15 Artifact bonus to Melee and Ranged Power",
+        "effectRaw": "+15 Artifact bonus to Melee and Ranged Power",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Impact",
+      "Shield Bashing +20%",
+      "Entropic 6",
+      "Quality Magical Sheltering +8",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_shield",
+    "setMembership": [
+      {
+        "setId": "eminence_of_summer_legendary",
+        "setName": "Eminence of Summer (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "minLevels": [
+          29
+        ],
+        "availablePieces": 20,
+        "bonusRaw": "2 Pieces Equipped: +30 Artifact bonus to Magical Resistance Rating 3 Pieces Equipped: +30% Artifact bonus to Fortification Bypass 4 Pieces Equipped: +5 Artifact bonus to your Tactical Abilities 5 Pieces Equipped: +15% Artifact bonus to damage versus the Helpless 6 Pieces Equipped: +15% Artifact bonus to Doublestrike and Doubleshot 7 Pieces Equipped: +15 Artifact bonus to Melee and Ranged Power",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "+30 Artifact bonus to Magical Resistance Rating",
+            "effectRaw": "+30 Artifact bonus to Magical Resistance Rating",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "+30% Artifact bonus to Fortification Bypass",
+            "effectRaw": "+30% Artifact bonus to Fortification Bypass",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "+5 Artifact bonus to your Tactical Abilities",
+            "effectRaw": "+5 Artifact bonus to your Tactical Abilities",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "+15% Artifact bonus to damage versus the Helpless",
+            "effectRaw": "+15% Artifact bonus to damage versus the Helpless",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 6,
+            "effect": "+15% Artifact bonus to Doublestrike and Doubleshot",
+            "effectRaw": "+15% Artifact bonus to Doublestrike and Doubleshot",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 7,
+            "effect": "+15 Artifact bonus to Melee and Ranged Power",
+            "effectRaw": "+15 Artifact bonus to Melee and Ranged Power",
+            "tieredEffects": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Legendary Frostforged Large Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frostforged_Large_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Guardbreaking",
+      "Insightful Physical Sheltering +18",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Guardbreaking",
+      "Insightful Physical Sheltering +18"
+    ],
+    "itemKey": "item:legendary_frostforged_large_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Giant's Platter",
+    "link": "https://ddowiki.com/page/Item:Legendary_Giant%27s_Platter",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Magical Sheltering +33",
+      "Natural Armor +13",
+      "Vitality +44",
+      "Protection +10",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Magical Sheltering +33",
+      "Natural Armor +13",
+      "Vitality +44",
+      "Protection +10"
+    ],
+    "itemKey": "item:legendary_giant's_platter",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Kundarak Warding Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Kundarak_Warding_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Resistance +11",
+      "Spell Resistance +41",
+      "Vitality +48",
+      "False Life +54",
+      "Blue Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Resistance +11",
+      "Spell Resistance +41",
+      "Vitality +48",
+      "False Life +54"
+    ],
+    "itemKey": "item:legendary_kundarak_warding_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Large Shield of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Large_Shield_of_the_Fallen_Age",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Shield Bashing +23%",
+      "Insightful Incite +59",
+      "Profane Lifeforce +49",
+      "Legendary Conditioning +15%",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Conditioning +15%"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Shield Bashing +23%",
+      "Insightful Incite +59",
+      "Profane Lifeforce +49"
+    ],
+    "itemKey": "item:legendary_large_shield_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Large Shield of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Large_Shield_of_the_Golden_Age",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Shield Bashing +23%",
+      "Legendary Conditioning +15%",
+      "Shield Spikes",
+      "Guardbreaking",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Conditioning +15%"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Shield Bashing +23%",
+      "Shield Spikes",
+      "Guardbreaking"
+    ],
+    "itemKey": "item:legendary_large_shield_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Saltiron Targe",
+    "link": "https://ddowiki.com/page/Item:Legendary_Saltiron_Targe",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 30,
+    "effectsRaw": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Healing Lore +21%",
+      "Devotion +146",
+      "Greater Undead Guard",
+      "Competence Healing Amplification +54",
+      "Greater Turning",
+      "Angelic Grace",
+      "Legendary Saltmarsh Explorer",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Saltmarsh Explorer"
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Healing Lore +21%",
+      "Devotion +146",
+      "Greater Undead Guard",
+      "Competence Healing Amplification +54",
+      "Greater Turning",
+      "Angelic Grace"
+    ],
+    "itemKey": "item:legendary_saltiron_targe",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shield of Reflecting",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shield_of_Reflecting",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Parrying +6",
+      "Insightful Physical Sheltering +17",
+      "Absorb Petrification - 5 Charges (Recharged/Day: 5)",
+      "Legendary Stone Guard",
+      "Blue Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Stone Guard"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Parrying +6",
+      "Insightful Physical Sheltering +17",
+      "Absorb Petrification - 5 Charges (Recharged/Day: 5)"
+    ],
+    "itemKey": "item:legendary_shield_of_reflecting",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shield of the Scorpion",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shield_of_the_Scorpion",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Profane Well Rounded +2",
+      "Profane Lifeforce +45",
+      "Insightful Spell Resistance +20",
+      "Quality Sheltering +9",
+      "Legendary Vulkoor's Chosen",
+      "Blue Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vulkoor's Chosen"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Profane Well Rounded +2",
+      "Profane Lifeforce +45",
+      "Insightful Spell Resistance +20",
+      "Quality Sheltering +9"
+    ],
+    "itemKey": "item:legendary_shield_of_the_scorpion",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ward of Undeath",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ward_of_Undeath",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Impact",
+      "Flaming Blast 6",
+      "Undead Bane 6",
+      "Superior Undead Guard",
+      "Shield Spikes",
+      "Flametouched Iron",
+      "Legendary Oasis of Morality",
+      "Red Augment Slot",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Oasis of Morality"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Impact",
+      "Flaming Blast 6",
+      "Undead Bane 6",
+      "Superior Undead Guard",
+      "Shield Spikes",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_ward_of_undeath",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Wreckage of the Beachcomber",
+    "link": "https://ddowiki.com/page/Item:Legendary_Wreckage_of_the_Beachcomber",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Shield Spikes",
+      "Bonesplitter",
+      "Bashing 6",
+      "Quality Strength +3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Shield Spikes",
+      "Bonesplitter",
+      "Bashing 6",
+      "Quality Strength +3"
+    ],
+    "itemKey": "item:legendary_wreckage_of_the_beachcomber",
+    "setMembership": []
+  },
+  {
+    "name": "Light and Darkness",
+    "link": "https://ddowiki.com/page/Item:Light_and_Darkness",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Superior Stability",
+      "Protection +4",
+      "Resistance +4",
+      "DR 3/-",
+      "Adamantine",
+      "Mithral",
+      "Suppressed Power"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Superior Stability",
+      "Protection +4",
+      "Resistance +4",
+      "DR 3/-",
+      "Adamantine",
+      "Mithral",
+      "Suppressed Power"
+    ],
+    "itemKey": "item:light_and_darkness",
+    "setMembership": []
+  },
+  {
+    "name": "Lorikk's Champion",
+    "link": "https://ddowiki.com/page/Item:Lorikk%27s_Champion",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Panacea — 2 Charges (Recharged/Day:2)",
+      "Eternal Faith",
+      "Lorikk's Champion"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "lorikk_s_champion",
+        "setName": "Lorikk's Champion",
+        "source": "named_item_sets",
+        "sourceSection": "Subterrane raid and Dragontouched sets",
+        "piecesRequired": 2,
+        "effect": "2 Pieces Equipped - Devotion +72",
+        "effectRaw": "2 Pieces Equipped - Devotion +72",
+        "tieredEffects": []
+      },
+      {
+        "setId": "lorikk_s_champion",
+        "setName": "Lorikk's Champion",
+        "source": "named_item_sets",
+        "sourceSection": "Subterrane raid and Dragontouched sets",
+        "piecesRequired": 2,
+        "effect": "3 Pieces Equipped - Devotion +78",
+        "effectRaw": "3 Pieces Equipped - Devotion +78",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Panacea — 2 Charges (Recharged/Day:2)",
+      "Eternal Faith",
+      "Lorikk's Champion"
+    ],
+    "itemKey": "item:lorikk's_champion",
+    "setMembership": [
+      {
+        "setId": "lorikk_s_champion",
+        "setName": "Lorikk's Champion",
+        "source": "named_item_sets",
+        "sourceSection": "Subterrane raid and Dragontouched sets",
+        "minLevels": [],
+        "availablePieces": 2,
+        "bonusRaw": "2 Pieces Equipped - Devotion +72 3 Pieces Equipped - Devotion +78",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "2 Pieces Equipped - Devotion +72",
+            "effectRaw": "2 Pieces Equipped - Devotion +72",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "3 Pieces Equipped - Devotion +78",
+            "effectRaw": "3 Pieces Equipped - Devotion +78",
+            "tieredEffects": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nightforge Aegis",
+    "link": "https://ddowiki.com/page/Item:Nightforge_Aegis",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Purple Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Adamantine"
+    ],
+    "itemKey": "item:nightforge_aegis",
+    "setMembership": []
+  },
+  {
+    "name": "Ooze Guard",
+    "link": "https://ddowiki.com/page/Item:Ooze_Guard",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 2,
+    "effectsRaw": [
+      "Blinding Flash — 3 Charges (Recharged/Day:3)",
+      "+2 Enhancement Bonus",
+      "Everbright",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Blinding Flash — 3 Charges (Recharged/Day:3)",
+      "+2 Enhancement Bonus",
+      "Everbright"
+    ],
+    "itemKey": "item:ooze_guard",
+    "setMembership": []
+  },
+  {
+    "name": "Palisade, the Ward of Karliath",
+    "link": "https://ddowiki.com/page/Item:Palisade,_the_Ward_of_Karliath",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Conditioning +15%",
+      "Feat: Mobility",
+      "Curse Absorption - 10 Charges (Recharged/Day: 10)",
+      "Sealed in Fire",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Conditioning +15%"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feat: Mobility",
+      "Curse Absorption - 10 Charges (Recharged/Day: 10)",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:palisade,_the_ward_of_karliath",
+    "setMembership": []
+  },
+  {
+    "name": "Phiarlan Veil Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Phiarlan_Veil_Shield_(angular)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+3 Enhancement Bonus"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus"
+    ],
+    "itemKey": "item:phiarlan_veil_shield_(angular)",
+    "setMembership": []
+  },
+  {
+    "name": "Phiarlan Veil Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Phiarlan_Veil_Shield_(round)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+3 Enhancement Bonus"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus"
+    ],
+    "itemKey": "item:phiarlan_veil_shield_(round)",
+    "setMembership": []
+  },
+  {
+    "name": "Saltiron Targe",
+    "link": "https://ddowiki.com/page/Item:Saltiron_Targe",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 3,
+    "effectsRaw": [
+      "Spellcasting Implement +3",
+      "+2 Enhancement Bonus",
+      "Healing Lore +8%",
+      "Devotion +53",
+      "Minor Turning",
+      "Saltmarsh Explorer",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "saltmarsh_explorer",
+        "setName": "Saltmarsh Explorer",
+        "source": "named_item_sets",
+        "sourceSection": "Saltmarsh sets",
+        "piecesRequired": 5,
+        "effect": "♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating",
+        "effectRaw": "♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Artifact bonus to Physical and Magical Resistance Rating"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Physical and Magical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Physical and Magical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "saltmarsh_explorer",
+        "setName": "Saltmarsh Explorer",
+        "source": "named_item_sets",
+        "sourceSection": "Saltmarsh sets",
+        "piecesRequired": 5,
+        "effect": "●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power",
+        "effectRaw": "●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Melee, Ranged, and Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Artifact bonus to Melee, Ranged, and Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "saltmarsh_explorer",
+        "setName": "Saltmarsh Explorer",
+        "source": "named_item_sets",
+        "sourceSection": "Saltmarsh sets",
+        "piecesRequired": 5,
+        "effect": "♦+1●+2★+3 Artifact bonus to all Ability Scores",
+        "effectRaw": "♦+1●+2★+3 Artifact bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact bonus to all Ability Scores"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Artifact bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "saltmarsh_explorer",
+        "setName": "Saltmarsh Explorer",
+        "source": "named_item_sets",
+        "sourceSection": "Saltmarsh sets",
+        "piecesRequired": 5,
+        "effect": "●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
+        "effectRaw": "●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
+        "tieredEffects": [
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Positive, Negative, and Repair Amplification"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Positive, Negative, and Repair Amplification"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +3",
+      "+2 Enhancement Bonus",
+      "Healing Lore +8%",
+      "Devotion +53",
+      "Minor Turning",
+      "Saltmarsh Explorer"
+    ],
+    "itemKey": "item:saltiron_targe",
+    "setMembership": [
+      {
+        "setId": "saltmarsh_explorer",
+        "setName": "Saltmarsh Explorer",
+        "source": "named_item_sets",
+        "sourceSection": "Saltmarsh sets",
+        "minLevels": [
+          3,
+          20,
+          30
+        ],
+        "availablePieces": 38,
+        "bonusRaw": "5 Pieces Equipped: ♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating ●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power ♦+1●+2★+3 Artifact bonus to all Ability Scores ●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating",
+            "effectRaw": "♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Artifact bonus to Physical and Magical Resistance Rating"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Physical and Magical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Physical and Magical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power",
+            "effectRaw": "●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Melee, Ranged, and Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Artifact bonus to Melee, Ranged, and Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1●+2★+3 Artifact bonus to all Ability Scores",
+            "effectRaw": "♦+1●+2★+3 Artifact bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact bonus to all Ability Scores"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Artifact bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
+            "effectRaw": "●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
+            "tieredEffects": [
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Positive, Negative, and Repair Amplification"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Positive, Negative, and Repair Amplification"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sanctuary",
+    "link": "https://ddowiki.com/page/Item:Sanctuary",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Resistance +2",
+      "Insightful Sheltering +2",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Resistance +2",
+      "Insightful Sheltering +2"
+    ],
+    "itemKey": "item:sanctuary",
+    "setMembership": []
+  },
+  {
+    "name": "Shield of Reflecting",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Reflecting",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Parrying +2",
+      "Insightful Physical Sheltering +6",
+      "Absorb Petrification - 5 Charges (Recharged/Day: 5)",
+      "Stone Prison Guard"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Parrying +2",
+      "Insightful Physical Sheltering +6",
+      "Absorb Petrification - 5 Charges (Recharged/Day: 5)",
+      "Stone Prison Guard"
+    ],
+    "itemKey": "item:shield_of_reflecting",
+    "setMembership": []
+  },
+  {
+    "name": "Shield of Tireless Aid",
+    "link": "https://ddowiki.com/page/Item:Shield_of_Tireless_Aid",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 13,
+    "effectsRaw": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Devotion +66",
+      "Exceptional Healing Amplification +20",
+      "Healers Bounty",
+      "Yellow Augment Slot"
+    ],
+    "augmentSlots": [
+      "Yellow"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Devotion +66",
+      "Exceptional Healing Amplification +20",
+      "Healers Bounty"
+    ],
+    "itemKey": "item:shield_of_tireless_aid",
+    "setMembership": []
+  },
+  {
+    "name": "Shield of the Scorpion",
+    "link": "https://ddowiki.com/page/Item:Shield_of_the_Scorpion",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Profane Well Rounded +1",
+      "Profane Lifeforce +19",
+      "Insightful Spell Resistance +8",
+      "Quality Sheltering +4",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
+        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Poison Resistance"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact Bonus to Poison Resistance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact Bonus to Poison Resistance"
+          }
+        ]
+      },
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
+        "effectRaw": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact bonus to Sneak Attack Dice"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Artifact bonus to Sneak Attack Dice"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact bonus to Sneak Attack Dice"
+          }
+        ]
+      },
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
+        "effectRaw": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Saving Throws"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Artifact Bonus to Saving Throws"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Saving Throws"
+          }
+        ]
+      },
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+        "effectRaw": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Dexterity and Constitution"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Artifact Bonus to Dexterity and Constitution"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Dexterity and Constitution"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Profane Well Rounded +1",
+      "Profane Lifeforce +19",
+      "Insightful Spell Resistance +8",
+      "Quality Sheltering +4"
+    ],
+    "itemKey": "item:shield_of_the_scorpion",
+    "setMembership": [
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 13,
+        "bonusRaw": "2 Pieces Equipped: ♦+10●+20★+30 Artifact Bonus to Poison Resistance ♦+1●+2★+3 Artifact bonus to Sneak Attack Dice ♦+1●+2★+3 Artifact Bonus to Saving Throws ♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
+            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Poison Resistance"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact Bonus to Poison Resistance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact Bonus to Poison Resistance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
+            "effectRaw": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact bonus to Sneak Attack Dice"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Artifact bonus to Sneak Attack Dice"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact bonus to Sneak Attack Dice"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
+            "effectRaw": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Saving Throws"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Artifact Bonus to Saving Throws"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Saving Throws"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+            "effectRaw": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Dexterity and Constitution"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Artifact Bonus to Dexterity and Constitution"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Dexterity and Constitution"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shining Wall",
+    "link": "https://ddowiki.com/page/Item:Shining_Wall",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Eternal Faith",
+      "Vitality +20"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Eternal Faith",
+      "Vitality +20"
+    ],
+    "itemKey": "item:shining_wall",
+    "setMembership": []
+  },
+  {
+    "name": "Skyvault Shield (historic)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(historic)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Mithral",
+      "Twilight"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Mithral",
+      "Twilight"
+    ],
+    "itemKey": "item:skyvault_shield_(historic)",
+    "setMembership": []
+  },
+  {
+    "name": "Sorrel",
+    "link": "https://ddowiki.com/page/Item:Sorrel",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Protection +5",
+      "Resistance +5",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Protection +5",
+      "Resistance +5"
+    ],
+    "itemKey": "item:sorrel",
+    "setMembership": []
+  },
+  {
+    "name": "Starter Heavy Wooden Shield",
+    "link": "https://ddowiki.com/page/Item:Starter_Heavy_Wooden_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Starter"
+    ],
+    "itemKey": "item:starter_heavy_wooden_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Stormreach Marketplace Shield (angular)",
+    "link": "https://ddowiki.com/page/Item:Stormreach_Marketplace_Shield_(angular)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+3 Enhancement Bonus"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus"
+    ],
+    "itemKey": "item:stormreach_marketplace_shield_(angular)",
+    "setMembership": []
+  },
+  {
+    "name": "Stormreach Marketplace Shield (round)",
+    "link": "https://ddowiki.com/page/Item:Stormreach_Marketplace_Shield_(round)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+3 Enhancement Bonus"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus"
+    ],
+    "itemKey": "item:stormreach_marketplace_shield_(round)",
+    "setMembership": []
+  },
+  {
+    "name": "Talon",
+    "link": "https://ddowiki.com/page/Item:Talon",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Maiming",
+      "Spikes",
+      "Shield Bashing +10%",
+      "Melee Alacrity 10%",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Maiming",
+      "Spikes",
+      "Shield Bashing +10%",
+      "Melee Alacrity 10%"
+    ],
+    "itemKey": "item:talon",
+    "setMembership": []
+  },
+  {
+    "name": "The Best Defense",
+    "link": "https://ddowiki.com/page/Item:The_Best_Defense",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Fiery 3",
+      "Shield Bashing +9",
+      "Impact",
+      "Vorpal",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "adherent_of_the_mists",
+        "setName": "Adherent of the Mists",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+30 Profane Bonus to Physical Resistance Rating",
+        "effectRaw": "♦+5★+30 Profane Bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "adherent_of_the_mists",
+        "setName": "Adherent of the Mists",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification",
+        "effectRaw": "♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Positive, Negative, and Repair Healing Amplification"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane Bonus to Positive, Negative, and Repair Healing Amplification"
+          }
+        ]
+      },
+      {
+        "setId": "adherent_of_the_mists",
+        "setName": "Adherent of the Mists",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "adherent_of_the_mists",
+        "setName": "Adherent of the Mists",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
+        "effectRaw": "♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP."
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP."
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Fiery 3",
+      "Shield Bashing +9",
+      "Impact",
+      "Vorpal"
+    ],
+    "itemKey": "item:the_best_defense",
+    "setMembership": [
+      {
+        "setId": "adherent_of_the_mists",
+        "setName": "Adherent of the Mists",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "minLevels": [
+          10,
+          29
+        ],
+        "availablePieces": 42,
+        "bonusRaw": "5 Pieces Equipped: ♦+5★+30 Profane Bonus to Physical Resistance Rating ♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+30 Profane Bonus to Physical Resistance Rating",
+            "effectRaw": "♦+5★+30 Profane Bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification",
+            "effectRaw": "♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Positive, Negative, and Repair Healing Amplification"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane Bonus to Positive, Negative, and Repair Healing Amplification"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
+            "effectRaw": "♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP."
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Legendary Best Defense",
+    "link": "https://ddowiki.com/page/Item:The_Legendary_Best_Defense",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Fiery 6",
+      "Shield Bashing +20",
+      "Impact",
+      "Sovereign Vorpal",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Fiery 6",
+      "Shield Bashing +20",
+      "Impact",
+      "Sovereign Vorpal"
+    ],
+    "itemKey": "item:the_legendary_best_defense",
+    "setMembership": []
+  },
+  {
+    "name": "The Vengeance Manifest",
+    "link": "https://ddowiki.com/page/Item:The_Vengeance_Manifest",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Murderous Spikes",
+      "Revel in Blood (Shield)",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Murderous Spikes",
+      "Revel in Blood (Shield)"
+    ],
+    "itemKey": "item:the_vengeance_manifest",
+    "setMembership": []
+  },
+  {
+    "name": "Turbine Shield",
+    "link": "https://ddowiki.com/page/Item:Turbine_Shield",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "Mithral"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Mithral"
+    ],
+    "itemKey": "item:turbine_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Vengeful Calamity",
+    "link": "https://ddowiki.com/page/Item:Vengeful_Calamity",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Holy 6",
+      "Shield Bashing +21",
+      "Quality Incite +27",
+      "Mithral",
+      "Purple Augment Slot",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Holy 6",
+      "Shield Bashing +21",
+      "Quality Incite +27",
+      "Mithral"
+    ],
+    "itemKey": "item:vengeful_calamity",
+    "setMembership": []
+  },
+  {
+    "name": "Vengeful Protector",
+    "link": "https://ddowiki.com/page/Item:Vengeful_Protector",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mithral",
+      "Incite +10",
+      "Exceptional Healing Amplification +20",
+      "Holy Burst",
+      "Shield Bashing +20%"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mithral",
+      "Incite +10",
+      "Exceptional Healing Amplification +20",
+      "Holy Burst",
+      "Shield Bashing +20%"
+    ],
+    "itemKey": "item:vengeful_protector",
+    "setMembership": []
+  },
+  {
+    "name": "Wall of Wood (level 15)",
+    "link": "https://ddowiki.com/page/Item:Wall_of_Wood_(level_15)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 15,
+    "effectsRaw": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Shield Bashing +10%",
+      "Natural Armor +5",
+      "Exceptional Healing Amplification +20",
+      "Devotion +78",
+      "DR 5/Slashing"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Shield Bashing +10%",
+      "Natural Armor +5",
+      "Exceptional Healing Amplification +20",
+      "Devotion +78",
+      "DR 5/Slashing"
+    ],
+    "itemKey": "item:wall_of_wood_(level_15)",
+    "setMembership": []
+  },
+  {
+    "name": "Wall of Wood (level 16)",
+    "link": "https://ddowiki.com/page/Item:Wall_of_Wood_(level_16)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 16,
+    "effectsRaw": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Shield Bashing +10%",
+      "Natural Armor +5",
+      "Exceptional Healing Amplification +20",
+      "Devotion +78",
+      "DR 5/Slashing"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Shield Bashing +10%",
+      "Natural Armor +5",
+      "Exceptional Healing Amplification +20",
+      "Devotion +78",
+      "DR 5/Slashing"
+    ],
+    "itemKey": "item:wall_of_wood_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Wall of Wood (level 17)",
+    "link": "https://ddowiki.com/page/Item:Wall_of_Wood_(level_17)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 17,
+    "effectsRaw": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Shield Bashing +10%",
+      "Natural Armor +5",
+      "Equipment Healing Amplification +40",
+      "Devotion +84",
+      "DR 10/Slashing"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Shield Bashing +10%",
+      "Natural Armor +5",
+      "Equipment Healing Amplification +40",
+      "Devotion +84",
+      "DR 10/Slashing"
+    ],
+    "itemKey": "item:wall_of_wood_(level_17)",
+    "setMembership": []
+  },
+  {
+    "name": "Wall of Wood (level 22)",
+    "link": "https://ddowiki.com/page/Item:Wall_of_Wood_(level_22)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 22,
+    "effectsRaw": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Shield Bashing +20%",
+      "Natural Armor +6",
+      "Equipment Healing Amplification +40",
+      "Devotion +102",
+      "DR 10/Slashing"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Shield Bashing +20%",
+      "Natural Armor +6",
+      "Equipment Healing Amplification +40",
+      "Devotion +102",
+      "DR 10/Slashing"
+    ],
+    "itemKey": "item:wall_of_wood_(level_22)",
+    "setMembership": []
+  },
+  {
+    "name": "Wall of Wood (level 23)",
+    "link": "https://ddowiki.com/page/Item:Wall_of_Wood_(level_23)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 23,
+    "effectsRaw": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Shield Bashing +20%",
+      "Natural Armor +6",
+      "Competence Healing Amplification +60",
+      "Devotion +108",
+      "DR 10/Slashing"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Shield Bashing +20%",
+      "Natural Armor +6",
+      "Competence Healing Amplification +60",
+      "Devotion +108",
+      "DR 10/Slashing"
+    ],
+    "itemKey": "item:wall_of_wood_(level_23)",
+    "setMembership": []
+  },
+  {
+    "name": "Wall of Wood (level 24)",
+    "link": "https://ddowiki.com/page/Item:Wall_of_Wood_(level_24)",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 24,
+    "effectsRaw": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Shield Bashing +20%",
+      "Natural Armor +6",
+      "Competence Healing Amplification +60",
+      "Devotion +114",
+      "DR 15/Slashing"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Shield Bashing +20%",
+      "Natural Armor +6",
+      "Competence Healing Amplification +60",
+      "Devotion +114",
+      "DR 15/Slashing"
+    ],
+    "itemKey": "item:wall_of_wood_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Ward of Undeath",
+    "link": "https://ddowiki.com/page/Item:Ward_of_Undeath",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Impact",
+      "Flaming Blast 3",
+      "Undead Bane 3",
+      "Undead Guard",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "oasis_of_morality",
+        "setName": "Oasis of Morality",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
+        "effectRaw": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2%",
+            "effect": "Artifact Bonus to Positive Spellcrit Chance"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+4%",
+            "effect": "Artifact Bonus to Positive Spellcrit Chance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+6%",
+            "effect": "Artifact Bonus to Positive Spellcrit Chance"
+          }
+        ]
+      },
+      {
+        "setId": "oasis_of_morality",
+        "setName": "Oasis of Morality",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
+        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Positive Spellpower"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact Bonus to Positive Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact Bonus to Positive Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "oasis_of_morality",
+        "setName": "Oasis of Morality",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+        "effectRaw": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5%",
+            "effect": "Artifact Bonus to Fortification Bypass"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+10%",
+            "effect": "Artifact Bonus to Fortification Bypass"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15%",
+            "effect": "Artifact Bonus to Fortification Bypass"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Impact",
+      "Flaming Blast 3",
+      "Undead Bane 3",
+      "Undead Guard",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:ward_of_undeath",
+    "setMembership": [
+      {
+        "setId": "oasis_of_morality",
+        "setName": "Oasis of Morality",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 8,
+        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance ♦+10●+20★+30 Artifact Bonus to Positive Spellpower ♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
+            "effectRaw": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2%",
+                "effect": "Artifact Bonus to Positive Spellcrit Chance"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+4%",
+                "effect": "Artifact Bonus to Positive Spellcrit Chance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+6%",
+                "effect": "Artifact Bonus to Positive Spellcrit Chance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
+            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Positive Spellpower"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact Bonus to Positive Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact Bonus to Positive Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+            "effectRaw": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5%",
+                "effect": "Artifact Bonus to Fortification Bypass"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+10%",
+                "effect": "Artifact Bonus to Fortification Bypass"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15%",
+                "effect": "Artifact Bonus to Fortification Bypass"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wharfrat's Plank",
+    "link": "https://ddowiki.com/page/Item:Wharfrat%27s_Plank",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Swim +11",
+      "Purple Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Swim +11"
+    ],
+    "itemKey": "item:wharfrat's_plank",
+    "setMembership": []
+  },
+  {
+    "name": "Wrath of Siberys",
+    "link": "https://ddowiki.com/page/Item:Wrath_of_Siberys",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 6,
+    "effectsRaw": [
+      "Blinding Flash — 3 Charges (Recharged/Day:3)",
+      "+3 Enhancement Bonus",
+      "Lesser Heroism",
+      "Blinding",
+      "Reflex Save +4",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Blinding Flash — 3 Charges (Recharged/Day:3)",
+      "+3 Enhancement Bonus",
+      "Lesser Heroism",
+      "Blinding",
+      "Reflex Save +4"
+    ],
+    "itemKey": "item:wrath_of_siberys",
+    "setMembership": []
+  },
+  {
+    "name": "Wreckage of the Beachcomber",
+    "link": "https://ddowiki.com/page/Item:Wreckage_of_the_Beachcomber",
+    "slot": "offhand",
+    "itemSubtype": "large_shield",
+    "handedness": "offhand_only",
+    "category": "Large shields",
+    "minLevel": 7,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Shield Spikes",
+      "Lesser Boneshatter",
+      "Bashing",
+      "Quality Strength +1",
+      "The Dread Isle's Curse",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Universal Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane bonus to Universal Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to Spell DCs",
+        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to Spell DCs"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "★+4 Profane bonus to Hit and Damage",
+        "effectRaw": "★+4 Profane bonus to Hit and Damage",
+        "tieredEffects": [
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane bonus to Hit and Damage"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Shield Spikes",
+      "Lesser Boneshatter",
+      "Bashing",
+      "Quality Strength +1",
+      "The Dread Isle's Curse"
+    ],
+    "itemKey": "item:wreckage_of_the_beachcomber",
+    "setMembership": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "minLevels": [
+          7,
+          31
+        ],
+        "availablePieces": 70,
+        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Universal Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane bonus to Universal Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to Spell DCs",
+            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to Spell DCs"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "★+4 Profane bonus to Hit and Damage",
+            "effectRaw": "★+4 Profane bonus to Hit and Damage",
+            "tieredEffects": [
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane bonus to Hit and Damage"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

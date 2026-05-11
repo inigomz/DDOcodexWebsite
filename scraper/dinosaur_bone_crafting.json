@@ -1,0 +1,1854 @@
+{
+  "recipes": [
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Weapons)",
+      "sectionName": "Scale (Weapons)",
+      "slotType": "Scale",
+      "itemGroup": "Weapons",
+      "name": "Flamescale",
+      "link": "https://ddowiki.com/page/Item:Flamescale",
+      "effectRaw": "Adds Adamantine material type. On hit: 15d6 Fire Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Weapons)",
+      "sectionName": "Scale (Weapons)",
+      "slotType": "Scale",
+      "itemGroup": "Weapons",
+      "name": "Icescale",
+      "link": "https://ddowiki.com/page/Item:Icescale",
+      "effectRaw": "Adds Cold Iron material type. On hit: 15d6 Cold Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Weapons)",
+      "sectionName": "Scale (Weapons)",
+      "slotType": "Scale",
+      "itemGroup": "Weapons",
+      "name": "Sparkscale",
+      "link": "https://ddowiki.com/page/Item:Sparkscale",
+      "effectRaw": "Adds Silver material type. On hit: 15d6 Electric Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Weapons)",
+      "sectionName": "Scale (Weapons)",
+      "slotType": "Scale",
+      "itemGroup": "Weapons",
+      "name": "Meltscale",
+      "link": "https://ddowiki.com/page/Item:Meltscale",
+      "effectRaw": "Adds Crystal and Byeshk material type. On hit: 15d6 Acid Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Weapons)",
+      "sectionName": "Scale (Weapons)",
+      "slotType": "Scale",
+      "itemGroup": "Weapons",
+      "name": "Brightscale",
+      "link": "https://ddowiki.com/page/Item:Brightscale",
+      "effectRaw": "+9 Enhancement bonus to Spell Penetration. (Bugged, provide Equipment bonus really) If this is slotted in a Quarterstaff, also grants a +2 Exceptional bonus to Spell DCs and makes the Quarterstaff an Implement.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Weapons)",
+      "sectionName": "Scale (Weapons)",
+      "slotType": "Scale",
+      "itemGroup": "Weapons",
+      "name": "Shadowscale",
+      "link": "https://ddowiki.com/page/Item:Shadowscale",
+      "effectRaw": "+10% Enhancement bonus to Spell Cost Reduction. If this is slotted in a Quarterstaff, also grants a +2 Exceptional bonus to Spell DCs and makes the Quarterstaff an Implement.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Weapons)",
+      "sectionName": "Scale (Weapons)",
+      "slotType": "Scale",
+      "itemGroup": "Weapons",
+      "name": "Iridiscent Scale",
+      "link": "https://ddowiki.com/page/Item:Iridiscent_Scale",
+      "effectRaw": "+102 Equipment bonus to all Spellpowers. If this is slotted in a Quarterstaff, also grants a +2 Exceptional bonus to Spell DCs and makes the Quarterstaff an Implement.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Weapons)",
+      "sectionName": "Fang (Weapons)",
+      "slotType": "Fang",
+      "itemGroup": "Weapons",
+      "name": "Flamefang",
+      "link": "https://ddowiki.com/page/Item:Flamefang",
+      "effectRaw": "Adds Good alignment bypass. Your attacks and spells have a small chance to deal a large amount of Fire damage. (undocumented) (Grants Alchemical Fire Attunement)",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Weapons)",
+      "sectionName": "Fang (Weapons)",
+      "slotType": "Fang",
+      "itemGroup": "Weapons",
+      "name": "Icefang",
+      "link": "https://ddowiki.com/page/Item:Icefang",
+      "effectRaw": "Adds Chaotic alignment bypass. Your attacks and spells have a chance to inflict ten stacks of Cold damage over time. (undocumented) (Grants Alchemical Water Attunement)",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Weapons)",
+      "sectionName": "Fang (Weapons)",
+      "slotType": "Fang",
+      "itemGroup": "Weapons",
+      "name": "Sparkfang",
+      "link": "https://ddowiki.com/page/Item:Sparkfang",
+      "effectRaw": "Adds Lawful alignment bypass. Your attacks and spells have a small chance to deal a massive amount of Electric damage. (undocumented) (Grants Alchemical Air Attunement)",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Weapons)",
+      "sectionName": "Fang (Weapons)",
+      "slotType": "Fang",
+      "itemGroup": "Weapons",
+      "name": "Meltfang",
+      "link": "https://ddowiki.com/page/Item:Meltfang",
+      "effectRaw": "Adds Evil alignment bypass. Your attacks and spells deal a large amount of stacking Acid damage over time. (undocumented) (Grants Alchemical Earth Attunement)",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Weapons)",
+      "sectionName": "Fang (Weapons)",
+      "slotType": "Fang",
+      "itemGroup": "Weapons",
+      "name": "Brightfang",
+      "link": "https://ddowiki.com/page/Item:Brightfang",
+      "effectRaw": "Your attacks and offensive spells have a chance to deal Untyped damage. (undocumented) (Grants Legendary Steam)",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Weapons)",
+      "sectionName": "Fang (Weapons)",
+      "slotType": "Fang",
+      "itemGroup": "Weapons",
+      "name": "Shadowfang",
+      "link": "https://ddowiki.com/page/Item:Shadowfang",
+      "effectRaw": "Your attacks and offensive spells have a chance to apply a Curse that deals significant Untyped damage over time. (undocumented) (Untyped damage DOT with 6d6+6 damage every 2 seconds for 12 sec, consecutive attacks extend duration to 1 min 25 sec)",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Weapons)",
+      "sectionName": "Fang (Weapons)",
+      "slotType": "Fang",
+      "itemGroup": "Weapons",
+      "name": "Iridiscent Fang",
+      "link": "https://ddowiki.com/page/Item:Iridiscent_Fang",
+      "effectRaw": "+5 Equipment bonus to all Spell DCs. If this is slotted in a Quarterstaff, also grants a +5% Exceptional bonus to Spell Critical Chance and makes the Quarterstaff an Implement.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Flameclaw",
+      "link": "https://ddowiki.com/page/Item:Flameclaw",
+      "effectRaw": "+2 Exceptional bonus to Strength.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Iceclaw",
+      "link": "https://ddowiki.com/page/Item:Iceclaw",
+      "effectRaw": "+2 Exceptional bonus to Wisdom.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Sparkclaw",
+      "link": "https://ddowiki.com/page/Item:Sparkclaw",
+      "effectRaw": "+2 Exceptional bonus to Charisma.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Meltclaw",
+      "link": "https://ddowiki.com/page/Item:Meltclaw",
+      "effectRaw": "+2 Exceptional bonus to Constitution.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Brightclaw",
+      "link": "https://ddowiki.com/page/Item:Brightclaw",
+      "effectRaw": "+2 Exceptional bonus to Intelligence.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Shadowclaw",
+      "link": "https://ddowiki.com/page/Item:Shadowclaw",
+      "effectRaw": "+2 Exceptional bonus to Dexterity.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Iridiscent Claw: Acid",
+      "link": "https://ddowiki.com/page/Item:Iridiscent_Claw:_Acid",
+      "effectRaw": "+149 Equipment bonus to Acid Spellpower.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Iridiscent Claw: Cold",
+      "link": "https://ddowiki.com/page/Item:Iridiscent_Claw:_Cold",
+      "effectRaw": "+149 Equipment bonus to Cold Spellpower.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Iridiscent Claw: Electric",
+      "link": "https://ddowiki.com/page/Item:Iridiscent_Claw:_Electric",
+      "effectRaw": "+149 Equipment bonus to Electric Spellpower.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Iridiscent Claw: Fire",
+      "link": "https://ddowiki.com/page/Item:Iridiscent_Claw:_Fire",
+      "effectRaw": "+149 Equipment bonus to Fire Spellpower.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Iridiscent Claw: Force",
+      "link": "https://ddowiki.com/page/Item:Iridiscent_Claw:_Force",
+      "effectRaw": "+149 Equipment bonus to Force and Physical Spellpower.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Iridiscent Claw: Light",
+      "link": "https://ddowiki.com/page/Item:Iridiscent_Claw:_Light",
+      "effectRaw": "+149 Equipment bonus to Light and Alignment Spellpower.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Iridiscent Claw: Negative",
+      "link": "https://ddowiki.com/page/Item:Iridiscent_Claw:_Negative",
+      "effectRaw": "+149 Equipment bonus to Negative and Poison Spellpower.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Iridiscent Claw: Positive",
+      "link": "https://ddowiki.com/page/Item:Iridiscent_Claw:_Positive",
+      "effectRaw": "+149 Equipment bonus to Positive Spellpower.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Iridiscent Claw: Repair",
+      "link": "https://ddowiki.com/page/Item:Iridiscent_Claw:_Repair",
+      "effectRaw": "+149 Equipment bonus to Repair Spellpower.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Weapons)",
+      "sectionName": "Claw (Weapons)",
+      "slotType": "Claw",
+      "itemGroup": "Weapons",
+      "name": "Iridiscent Claw: Sonic",
+      "link": "https://ddowiki.com/page/Item:Iridiscent_Claw:_Sonic",
+      "effectRaw": "+149 Equipment bonus to Sonic Spellpower.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Weapons)",
+      "sectionName": "Horn (Weapons)",
+      "slotType": "Horn",
+      "itemGroup": "Weapons",
+      "name": "Flamehorn",
+      "link": "https://ddowiki.com/page/Item:Flamehorn",
+      "effectRaw": "Your attacks and offensive spells have a chance to reduce enemy Magical Resistance Rating and Universal Spell Power. (undocumented) (Grants Legendary Ash)",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Weapons)",
+      "sectionName": "Horn (Weapons)",
+      "slotType": "Horn",
+      "itemGroup": "Weapons",
+      "name": "Icehorn",
+      "link": "https://ddowiki.com/page/Item:Icehorn",
+      "effectRaw": "Your attacks and offensive spells have a chance to freeze your target in a block of ice. (undocumented) (Grants Legendary Ice)",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Weapons)",
+      "sectionName": "Horn (Weapons)",
+      "slotType": "Horn",
+      "itemGroup": "Weapons",
+      "name": "Sparkhorn",
+      "link": "https://ddowiki.com/page/Item:Sparkhorn",
+      "effectRaw": "Your attacks and offensive spells have a chance to inflict multiple stacks of Vulnerability. (undocumented) (Grants Legendary Vacuum)",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Weapons)",
+      "sectionName": "Horn (Weapons)",
+      "slotType": "Horn",
+      "itemGroup": "Weapons",
+      "name": "Melthorn",
+      "link": "https://ddowiki.com/page/Item:Melthorn",
+      "effectRaw": "Your attacks and offensive spells have a chance to reduce enemy Physical Resistance Rating and Positive Healing Amplification. (undocumented) (Grants Legendary Dust)",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Weapons)",
+      "sectionName": "Horn (Weapons)",
+      "slotType": "Horn",
+      "itemGroup": "Weapons",
+      "name": "Brighthorn",
+      "link": "https://ddowiki.com/page/Item:Brighthorn",
+      "effectRaw": "Your attacks and offensive spells have a chance to grant you 1,000 Temporary HP. (undocumented) (Grants Legendary Affirmation)",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Weapons)",
+      "sectionName": "Horn (Weapons)",
+      "slotType": "Horn",
+      "itemGroup": "Weapons",
+      "name": "Shadowhorn",
+      "link": "https://ddowiki.com/page/Item:Shadowhorn",
+      "effectRaw": "Your attacks and offensive spells have a chance to reduce enemy Physical and Magical Resistance Rating. (undocumented) (Grants a version of Constricting Nightmare that works with spells)",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: False Life",
+      "link": "https://ddowiki.com/page/Item:Scale:_False_Life",
+      "effectRaw": "+53 Enhancement bonus to Maximum HP. (undocumented) If slotted into a Minor Artifact, this bonus is instead +58.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Charisma",
+      "link": "https://ddowiki.com/page/Item:Scale:_Charisma",
+      "effectRaw": "+14 Enhancement bonus to Charisma. (undocumented) If slotted into a Minor Artifact, this bonus is instead +15.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Constitution",
+      "link": "https://ddowiki.com/page/Item:Scale:_Constitution",
+      "effectRaw": "+14 Enhancement bonus to Constitution. (undocumented) If slotted into a Minor Artifact, this bonus is instead +15.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Dexterity",
+      "link": "https://ddowiki.com/page/Item:Scale:_Dexterity",
+      "effectRaw": "+14 Enhancement bonus to Dexterity. (undocumented) If slotted into a Minor Artifact, this bonus is instead +15.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Intelligence",
+      "link": "https://ddowiki.com/page/Item:Scale:_Intelligence",
+      "effectRaw": "+14 Enhancement bonus to Intelligence. (undocumented) If slotted into a Minor Artifact, this bonus is instead +15.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Strength",
+      "link": "https://ddowiki.com/page/Item:Scale:_Strength",
+      "effectRaw": "+14 Enhancement bonus to Strength. (undocumented) If slotted into a Minor Artifact, this bonus is instead +15.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Wisdom",
+      "link": "https://ddowiki.com/page/Item:Scale:_Wisdom",
+      "effectRaw": "+14 Enhancement bonus to Wisdom. (undocumented) If slotted into a Minor Artifact, this bonus is instead +15.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Acid Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Scale:_Acid_Spell_Crit_Damage",
+      "effectRaw": "+20% Enhancement bonus to Acid Spell Crit Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Cold Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Scale:_Cold_Spell_Crit_Damage",
+      "effectRaw": "+20% Enhancement bonus to Cold Spell Crit Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Electric Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Scale:_Electric_Spell_Crit_Damage",
+      "effectRaw": "+20% Enhancement bonus to Electric Spell Crit Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Fire Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Scale:_Fire_Spell_Crit_Damage",
+      "effectRaw": "+20% Enhancement bonus to Fire Spell Crit Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Force Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Scale:_Force_Spell_Crit_Damage",
+      "effectRaw": "+20% Enhancement bonus to Force and Physical Spell Crit Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Light Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Scale:_Light_Spell_Crit_Damage",
+      "effectRaw": "+20% Enhancement bonus to Light and Alignment Spell Crit Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Negative Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Scale:_Negative_Spell_Crit_Damage",
+      "effectRaw": "+20% Enhancement bonus to Negative and Poison Spell Crit Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Positive Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Scale:_Positive_Spell_Crit_Damage",
+      "effectRaw": "+20% Enhancement bonus to Positive Spell Crit Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Repair Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Scale:_Repair_Spell_Crit_Damage",
+      "effectRaw": "+20% Enhancement bonus to Repair Spell Crit Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Accessories)",
+      "sectionName": "Scale (Accessories)",
+      "slotType": "Scale",
+      "itemGroup": "Accessories",
+      "name": "Scale: Sonic Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Scale:_Sonic_Spell_Crit_Damage",
+      "effectRaw": "+20% Enhancement bonus to Sonic Spell Crit Damage.",
+      "costRaw": [
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Healing Amplification",
+      "link": "https://ddowiki.com/page/Item:Fang:_Healing_Amplification",
+      "effectRaw": "+56 Competence bonus to Positive Healing Amplification. (undocumented) If slotted into a Minor Artifact, this bonus is instead +61.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Negative Amplification",
+      "link": "https://ddowiki.com/page/Item:Fang:_Negative_Amplification",
+      "effectRaw": "+56 Profane bonus to Negative Healing Amplification. (undocumented) If slotted into a Minor Artifact, this bonus is instead +61.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Repair Amplification",
+      "link": "https://ddowiki.com/page/Item:Fang:_Repair_Amplification",
+      "effectRaw": "+56 Enhancement bonus to Repair Amplification. (undocumented) If slotted into a Minor Artifact, this bonus is instead +61.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Accuracy",
+      "link": "https://ddowiki.com/page/Item:Fang:_Accuracy",
+      "effectRaw": "+21 Competence bonus to Attack. (undocumented) If slotted into a Minor Artifact, this bonus is instead +23.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Damage",
+      "link": "https://ddowiki.com/page/Item:Fang:_Damage",
+      "effectRaw": "+11 Competence bonus to Damage. (undocumented) If slotted into a Minor Artifact, this bonus is instead +12.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Deception",
+      "link": "https://ddowiki.com/page/Item:Fang:_Deception",
+      "effectRaw": "+11 Enhancement bonus to Sneak Attacks, +17 Enhancement bonus to Sneak Attack Damage. (undocumented) If slotted into a Minor Artifact, this bonus is instead +12 and +18.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Seeker",
+      "link": "https://ddowiki.com/page/Item:Fang:_Seeker",
+      "effectRaw": "+14 Enhancement bonus to Critical Confirmation and Critical Damage. (undocumented) If slotted into a Minor Artifact, this bonus is instead +15.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Acid Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Fang:_Acid_Spell_Crit_Damage",
+      "effectRaw": "+10% Insight bonus to Acid Spell Crit Damage.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Cold Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Fang:_Cold_Spell_Crit_Damage",
+      "effectRaw": "+10% Insight bonus to Cold Spell Crit Damage.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Electric Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Fang:_Electric_Spell_Crit_Damage",
+      "effectRaw": "+10% Insight bonus to Electric Spell Crit Damage.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Fire Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Fang:_Fire_Spell_Crit_Damage",
+      "effectRaw": "+10% Insight bonus to Fire Spell Crit Damage.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Force Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Fang:_Force_Spell_Crit_Damage",
+      "effectRaw": "+10% Insight bonus to Force and Physical Spell Crit Damage.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Light Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Fang:_Light_Spell_Crit_Damage",
+      "effectRaw": "+10% Insight bonus to Light and Alignment Spell Crit Damage.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Negative Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Fang:_Negative_Spell_Crit_Damage",
+      "effectRaw": "+10% Insight bonus to Negative and Poison Spell Crit Damage.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Positive Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Fang:_Positive_Spell_Crit_Damage",
+      "effectRaw": "+10% Insight bonus to Positive Spell Crit Damage.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Repair Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Fang:_Repair_Spell_Crit_Damage",
+      "effectRaw": "+10% Insight bonus to Repair Spell Crit Damage.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Accessories)",
+      "sectionName": "Fang (Accessories)",
+      "slotType": "Fang",
+      "itemGroup": "Accessories",
+      "name": "Fang: Sonic Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Fang:_Sonic_Spell_Crit_Damage",
+      "effectRaw": "+10% Insight bonus to Sonic Spell Crit Damage.",
+      "costRaw": [
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Physical Resistance Rating",
+      "link": "https://ddowiki.com/page/Item:Claw:_Physical_Resistance_Rating",
+      "effectRaw": "+35 Enhancement bonus to Physical Resistance Rating. (undocumented) If slotted into a Minor Artifact, this bonus is instead +38.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Magical Resistance Rating",
+      "link": "https://ddowiki.com/page/Item:Claw:_Magical_Resistance_Rating",
+      "effectRaw": "+35 Enhancement bonus to Magical Resistance Rating. (undocumented) If slotted into a Minor Artifact, this bonus is instead +38.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Stunning",
+      "link": "https://ddowiki.com/page/Item:Claw:_Stunning",
+      "effectRaw": "+15 Enhancement bonus to Stunning DCs.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Trip",
+      "link": "https://ddowiki.com/page/Item:Claw:_Trip",
+      "effectRaw": "+15 Enhancement bonus to Trip DCs.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Sunder",
+      "link": "https://ddowiki.com/page/Item:Claw:_Sunder",
+      "effectRaw": "+15 Enhancement bonus to Sunder DCs.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Assassinate",
+      "link": "https://ddowiki.com/page/Item:Claw:_Assassinate",
+      "effectRaw": "+15 Enhancement bonus to Assassinate DCs. (undocumented) If slotted into a Minor Artifact, this bonus is intead +17.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Spell Penetration",
+      "link": "https://ddowiki.com/page/Item:Claw:_Spell_Penetration",
+      "effectRaw": "+9 Equipment bonus to Spell Penetration. (undocumented) If slotted into a Minor Artifact, this bonus is instead +10.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Acid Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Claw:_Acid_Spell_Crit_Damage",
+      "effectRaw": "+5% Quality bonus to Acid Spell Crit Damage.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Cold Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Claw:_Cold_Spell_Crit_Damage",
+      "effectRaw": "+5% Quality bonus to Cold Spell Crit Damage.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Electric Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Claw:_Electric_Spell_Crit_Damage",
+      "effectRaw": "+5% Quality bonus to Electric Spell Crit Damage.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Fire Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Claw:_Fire_Spell_Crit_Damage",
+      "effectRaw": "+5% Quality bonus to Fire Spell Crit Damage.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Force Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Claw:_Force_Spell_Crit_Damage",
+      "effectRaw": "+5% Quality bonus to Force and Physical Spell Crit Damage.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Light Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Claw:_Light_Spell_Crit_Damage",
+      "effectRaw": "+5% Quality bonus to Light and Alignment Spell Crit Damage.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Negative Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Claw:_Negative_Spell_Crit_Damage",
+      "effectRaw": "+5% Quality bonus to Negative and Poison Spell Crit Damage.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Positive Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Claw:_Positive_Spell_Crit_Damage",
+      "effectRaw": "+5% Quality bonus to Positive Spell Crit Damage.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Repair Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Claw:_Repair_Spell_Crit_Damage",
+      "effectRaw": "+5% Quality bonus to Repair Spell Crit Damage.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Claw_(Accessories)",
+      "sectionName": "Claw (Accessories)",
+      "slotType": "Claw",
+      "itemGroup": "Accessories",
+      "name": "Claw: Sonic Spell Crit Damage",
+      "link": "https://ddowiki.com/page/Item:Claw:_Sonic_Spell_Crit_Damage",
+      "effectRaw": "+5% Quality bonus to Sonic Spell Crit Damage.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Accessories)",
+      "sectionName": "Horn (Accessories)",
+      "slotType": "Horn",
+      "itemGroup": "Accessories",
+      "name": "Horn: Resistance",
+      "link": "https://ddowiki.com/page/Item:Horn:_Resistance",
+      "effectRaw": "+12 Resistance bonus to all Saving Throws. (undocumented) This bonus is instead +11.",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Accessories)",
+      "sectionName": "Horn (Accessories)",
+      "slotType": "Horn",
+      "itemGroup": "Accessories",
+      "name": "Horn: Enhanced Ghostly",
+      "link": "https://ddowiki.com/page/Item:Horn:_Enhanced_Ghostly",
+      "effectRaw": "Equipping this item causes you to become partially incorporeal. Your melee and missile attacks do not roll a miss chance for Incorporeal targets. Enemy attacks have a 15% chance to miss you due to your incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Accessories)",
+      "sectionName": "Horn (Accessories)",
+      "slotType": "Horn",
+      "itemGroup": "Accessories",
+      "name": "Horn: Relentless Fury",
+      "link": "https://ddowiki.com/page/Item:Horn:_Relentless_Fury",
+      "effectRaw": "While this item is equipped, any killing blows you strike against enemies may drive you into a furious rage, providing a 5% Enhancement damage bonus to your melee, ranged, and unarmed attacks for 30 seconds. Slaying weaker opponents has a reduced chance of producing this effect.",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Accessories)",
+      "sectionName": "Horn (Accessories)",
+      "slotType": "Horn",
+      "itemGroup": "Accessories",
+      "name": "Horn: Armor Piercing",
+      "link": "https://ddowiki.com/page/Item:Horn:_Armor_Piercing",
+      "effectRaw": "+22% Enhancement bonus to Fortification bypass. (undocumented) If slotted into a Minor Artifact, this bonus is instead +24%.",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Accessories)",
+      "sectionName": "Horn (Accessories)",
+      "slotType": "Horn",
+      "itemGroup": "Accessories",
+      "name": "Horn: Wizardry",
+      "link": "https://ddowiki.com/page/Item:Horn:_Wizardry",
+      "effectRaw": "+286 Enhancement bonus to Maximum SP.",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Accessories)",
+      "sectionName": "Horn (Accessories)",
+      "slotType": "Horn",
+      "itemGroup": "Accessories",
+      "name": "Horn: Profane DCs",
+      "link": "https://ddowiki.com/page/Item:Horn:_Profane_DCs",
+      "effectRaw": "You have a +2 Profane bonus to Spell DCs.",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Horn_(Accessories)",
+      "sectionName": "Horn (Accessories)",
+      "slotType": "Horn",
+      "itemGroup": "Accessories",
+      "name": "Horn: Sacred DCs",
+      "link": "https://ddowiki.com/page/Item:Horn:_Sacred_DCs",
+      "effectRaw": "You have a +2 Sacred bonus to Spell DCs.",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Armors)",
+      "sectionName": "Scale (Armors)",
+      "slotType": "Scale",
+      "itemGroup": "Armors",
+      "name": "Bronzescale",
+      "link": "https://ddowiki.com/page/Item:Bronzescale",
+      "effectRaw": "You have Deathblock and are Ghostly.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Armors)",
+      "sectionName": "Scale (Armors)",
+      "slotType": "Scale",
+      "itemGroup": "Armors",
+      "name": "Goldscale",
+      "link": "https://ddowiki.com/page/Item:Goldscale",
+      "effectRaw": "+150% Enhancement bonus to Fortification.",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Armors)",
+      "sectionName": "Scale (Armors)",
+      "slotType": "Scale",
+      "itemGroup": "Armors",
+      "name": "Silverscale",
+      "link": "https://ddowiki.com/page/Item:Silverscale",
+      "effectRaw": "+56 Competence bonus to Positive Healing Amplification +56 Enhancement bonus to Repair Healing Amplification +56 Profane bonus to Negative Healing Amplification",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Scale_(Armors)",
+      "sectionName": "Scale (Armors)",
+      "slotType": "Scale",
+      "itemGroup": "Armors",
+      "name": "Voidscale",
+      "link": "https://ddowiki.com/page/Item:Voidscale",
+      "effectRaw": "+5% Exceptional bonus to Universal Spell Lore",
+      "costRaw": [
+        "100 Tyrannosaurus Teeth",
+        "25 Fossilized Raptor Claws",
+        "25 Fossilized Triceratops Horns",
+        "25 Fossilized Pteranodon Vertebrae",
+        "25 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Armors)",
+      "sectionName": "Fang (Armors)",
+      "slotType": "Fang",
+      "itemGroup": "Armors",
+      "name": "Goldfang",
+      "link": "https://ddowiki.com/page/Item:Goldfang",
+      "effectRaw": "+2d6 Profane bonus to your Sneak Attack Dice.",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Armors)",
+      "sectionName": "Fang (Armors)",
+      "slotType": "Fang",
+      "itemGroup": "Armors",
+      "name": "Silverfang",
+      "link": "https://ddowiki.com/page/Item:Silverfang",
+      "effectRaw": "+2 Profane bonus to Spell DCs, Tactical DCs, and Assassinate.",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Fang_(Armors)",
+      "sectionName": "Fang (Armors)",
+      "slotType": "Fang",
+      "itemGroup": "Armors",
+      "name": "Voidfang",
+      "link": "https://ddowiki.com/page/Item:Voidfang",
+      "effectRaw": "+15 Exceptional bonus to Potency.",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Set_Bonus",
+      "sectionName": "Set Bonus",
+      "slotType": "Set Bonus",
+      "itemGroup": null,
+      "name": "Dread Stalker",
+      "link": null,
+      "effectRaw": "Counts as part of the Dread Stalker set",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Set_Bonus",
+      "sectionName": "Set Bonus",
+      "slotType": "Set Bonus",
+      "itemGroup": null,
+      "name": "Devotion of the Firemouth",
+      "link": null,
+      "effectRaw": "Counts as part of the Devotion of the Firemouth set",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Set_Bonus",
+      "sectionName": "Set Bonus",
+      "slotType": "Set Bonus",
+      "itemGroup": null,
+      "name": "Defender of Tanaroa",
+      "link": null,
+      "effectRaw": "Counts as part of the Defender of Tanaroa set",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Set_Bonus",
+      "sectionName": "Set Bonus",
+      "slotType": "Set Bonus",
+      "itemGroup": null,
+      "name": "Deacon of the Auricular Sacrarium",
+      "link": null,
+      "effectRaw": "Counts as part of the Deacon of the Auricular Sacrarium set",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Set_Bonus",
+      "sectionName": "Set Bonus",
+      "slotType": "Set Bonus",
+      "itemGroup": null,
+      "name": "Echoes of the Walking Ancestors",
+      "link": null,
+      "effectRaw": "Counts as part of the Echoes of the Walking Ancestors set",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Set_Bonus",
+      "sectionName": "Set Bonus",
+      "slotType": "Set Bonus",
+      "itemGroup": null,
+      "name": "The Legendary Dread Isle's Curse",
+      "link": null,
+      "effectRaw": "Counts as part of the The Legendary Dread Isle's Curse set",
+      "costRaw": [
+        "50 Black Pearls",
+        "50 Fossilized Raptor Claws",
+        "50 Fossilized Triceratops Horns",
+        "50 Fossilized Pteranodon Vertebrae",
+        "50 Fossilized Ankylosaur Ribs"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Raid_Augments",
+      "sectionName": "Raid Augments",
+      "slotType": "Raid Augments",
+      "itemGroup": null,
+      "name": "Aspect of Tar",
+      "link": "https://ddowiki.com/page/Item:Aspect_of_Tar",
+      "effectRaw": "Horn (Weapon)",
+      "costRaw": [
+        "Your attacks and offensive spells have a chance to reduce enemy PRR and MRR and summon Tar oozes to your aid. (Grants Legendary Ooze but summons a CR 52 Tar Bubble)"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Raid_Augments",
+      "sectionName": "Raid Augments",
+      "slotType": "Raid Augments",
+      "itemGroup": null,
+      "name": "Black Sands' Desire",
+      "link": "https://ddowiki.com/page/Item:Black_Sands%27_Desire",
+      "effectRaw": "Horn (Weapon)",
+      "costRaw": [
+        "Your attacks and offensive spells have a chance to significantly slow your enemies. (Grants limited version of Legendary Salt, provide 1 stack instead 8)"
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Raid_Augments",
+      "sectionName": "Raid Augments",
+      "slotType": "Raid Augments",
+      "itemGroup": null,
+      "name": "Fragment of Extraplanar Alignment",
+      "link": "https://ddowiki.com/page/Item:Fragment_of_Extraplanar_Alignment",
+      "effectRaw": "Scale (Armor)",
+      "costRaw": [
+        "+23% Enhancement bonus to Alignment absorption, which includes Law, Chaos, Good, and Evil damage."
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Raid_Augments",
+      "sectionName": "Raid Augments",
+      "slotType": "Raid Augments",
+      "itemGroup": null,
+      "name": "Fragment of Extraplanar Shadow",
+      "link": "https://ddowiki.com/page/Item:Fragment_of_Extraplanar_Shadow",
+      "effectRaw": "Scale (Armor)",
+      "costRaw": [
+        "+3% Profane Doublestrike and Doubleshot, +15% Enhancement bonus to Melee Alacrity, +20% Enhancement bonus to Ranged Alacrity."
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Raid_Augments",
+      "sectionName": "Raid Augments",
+      "slotType": "Raid Augments",
+      "itemGroup": null,
+      "name": "Dimensional Horn",
+      "link": "https://ddowiki.com/page/Item:Dimensional_Horn",
+      "effectRaw": "Horn (Accessory)",
+      "costRaw": [
+        "+5% Enhancement bonus to Dodge Bypass."
+      ]
+    },
+    {
+      "itemType": "dinosaur_bone_augment",
+      "sectionId": "Raid_Augments",
+      "sectionName": "Raid Augments",
+      "slotType": "Raid Augments",
+      "itemGroup": null,
+      "name": "Fossilized Amber",
+      "link": "https://ddowiki.com/page/Item:Fossilized_Amber",
+      "effectRaw": "Horn (Accessory)",
+      "costRaw": [
+        "+250 Unconsciousness Range. You heal 20 HP every minute from Positive Energy."
+      ]
+    }
+  ],
+  "missingSections": []
+}

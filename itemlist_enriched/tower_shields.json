@@ -1,0 +1,3322 @@
+[
+  {
+    "name": "Adherence",
+    "link": "https://ddowiki.com/page/Item:Adherence",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "DR 5/-",
+      "Enchantment Save +6",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "DR 5/-",
+      "Enchantment Save +6"
+    ],
+    "itemKey": "item:adherence",
+    "setMembership": []
+  },
+  {
+    "name": "Aegis of Aosu'riel",
+    "link": "https://ddowiki.com/page/Item:Aegis_of_Aosu%27riel",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Alignment Absorption +15%",
+      "Quality Constitution +1",
+      "Insightful Physical Sheltering +7",
+      "Resistance +5",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Alignment Absorption +15%",
+      "Quality Constitution +1",
+      "Insightful Physical Sheltering +7",
+      "Resistance +5"
+    ],
+    "itemKey": "item:aegis_of_aosu'riel",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Tower_Shield",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_tower_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Azure Tower",
+    "link": "https://ddowiki.com/page/Item:Azure_Tower",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Quality Magical Sheltering +5",
+      "Shield Bashing +14%",
+      "Feat: Elusive Target",
+      "Insightful Incite +35",
+      "Forbidden Knowledge",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 3,
+        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Attack and Damage"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane Bonus to Attack and Damage"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane Bonus to Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to Spell DCs"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Quality Magical Sheltering +5",
+      "Shield Bashing +14%",
+      "Feat: Elusive Target",
+      "Insightful Incite +35",
+      "Forbidden Knowledge"
+    ],
+    "itemKey": "item:azure_tower",
+    "setMembership": [
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 61,
+        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Attack and Damage"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane Bonus to Attack and Damage"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane Bonus to Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to Spell DCs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bastion (level 16)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_16)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +10%",
+      "DR 5/Piercing",
+      "Sheltering +3"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +10%",
+      "DR 5/Piercing",
+      "Sheltering +3"
+    ],
+    "itemKey": "item:bastion_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Bastion (level 17)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_17)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 17,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +10%",
+      "DR 5/Piercing",
+      "Sheltering +3"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +10%",
+      "DR 5/Piercing",
+      "Sheltering +3"
+    ],
+    "itemKey": "item:bastion_(level_17)",
+    "setMembership": []
+  },
+  {
+    "name": "Bastion (level 18)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_18)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +10%",
+      "DR 10/Piercing",
+      "Sheltering +6"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +10%",
+      "DR 10/Piercing",
+      "Sheltering +6"
+    ],
+    "itemKey": "item:bastion_(level_18)",
+    "setMembership": []
+  },
+  {
+    "name": "Bastion (level 23)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_23)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 23,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +10%",
+      "DR 10/Piercing",
+      "Sheltering +9"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +10%",
+      "DR 10/Piercing",
+      "Sheltering +9"
+    ],
+    "itemKey": "item:bastion_(level_23)",
+    "setMembership": []
+  },
+  {
+    "name": "Bastion (level 24)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_24)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +20%",
+      "DR 10/Piercing",
+      "Sheltering +9"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +20%",
+      "DR 10/Piercing",
+      "Sheltering +9"
+    ],
+    "itemKey": "item:bastion_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Bastion (level 25)",
+    "link": "https://ddowiki.com/page/Item:Bastion_(level_25)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +20%",
+      "DR 15/Piercing",
+      "Sheltering +12"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +20%",
+      "DR 15/Piercing",
+      "Sheltering +12"
+    ],
+    "itemKey": "item:bastion_(level_25)",
+    "setMembership": []
+  },
+  {
+    "name": "Bulwark of Snow",
+    "link": "https://ddowiki.com/page/Item:Bulwark_of_Snow",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Force Absorption +11%",
+      "Avalanche",
+      "Cold Resistance +14",
+      "Mithral",
+      "Red Augment Slot",
+      "5 Pieces Equipped: +1% Artifact bonus to Dodge",
+      "6 Pieces Equipped: +1 Artifact bonus to all spell DCs",
+      "7 Pieces Equipped: +5 Artifact bonus to Physical and Magical Resistance Rating"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 2,
+        "effect": "+10 Artifact bonus to your maximum hit points",
+        "effectRaw": "+10 Artifact bonus to your maximum hit points",
+        "tieredEffects": []
+      },
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 3,
+        "effect": "+50 Artifact bonus to your maximum Spell Points",
+        "effectRaw": "+50 Artifact bonus to your maximum Spell Points",
+        "tieredEffects": []
+      },
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 4,
+        "effect": "+1 Artifact bonus to all of your Ability Scores",
+        "effectRaw": "+1 Artifact bonus to all of your Ability Scores",
+        "tieredEffects": []
+      },
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 5,
+        "effect": "+1% Artifact bonus to Dodge",
+        "effectRaw": "+1% Artifact bonus to Dodge",
+        "tieredEffects": []
+      },
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 6,
+        "effect": "+1 Artifact bonus to all spell DCs",
+        "effectRaw": "+1 Artifact bonus to all spell DCs",
+        "tieredEffects": []
+      },
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 7,
+        "effect": "+5 Artifact bonus to Physical and Magical Resistance Rating",
+        "effectRaw": "+5 Artifact bonus to Physical and Magical Resistance Rating",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Force Absorption +11%",
+      "Avalanche",
+      "Cold Resistance +14",
+      "Mithral",
+      "5 Pieces Equipped: +1% Artifact bonus to Dodge",
+      "6 Pieces Equipped: +1 Artifact bonus to all spell DCs",
+      "7 Pieces Equipped: +5 Artifact bonus to Physical and Magical Resistance Rating"
+    ],
+    "itemKey": "item:bulwark_of_snow",
+    "setMembership": [
+      {
+        "setId": "seasons_of_the_feywild",
+        "setName": "Seasons of the Feywild (Heroic)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "minLevels": [
+          5
+        ],
+        "availablePieces": 49,
+        "bonusRaw": "2 Pieces Equipped: +10 Artifact bonus to your maximum hit points 3 Pieces Equipped: +50 Artifact bonus to your maximum Spell Points 4 Pieces Equipped: +1 Artifact bonus to all of your Ability Scores 5 Pieces Equipped: +1% Artifact bonus to Dodge 6 Pieces Equipped: +1 Artifact bonus to all spell DCs 7 Pieces Equipped: +5 Artifact bonus to Physical and Magical Resistance Rating",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "+10 Artifact bonus to your maximum hit points",
+            "effectRaw": "+10 Artifact bonus to your maximum hit points",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "+50 Artifact bonus to your maximum Spell Points",
+            "effectRaw": "+50 Artifact bonus to your maximum Spell Points",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "+1 Artifact bonus to all of your Ability Scores",
+            "effectRaw": "+1 Artifact bonus to all of your Ability Scores",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "+1% Artifact bonus to Dodge",
+            "effectRaw": "+1% Artifact bonus to Dodge",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 6,
+            "effect": "+1 Artifact bonus to all spell DCs",
+            "effectRaw": "+1 Artifact bonus to all spell DCs",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 7,
+            "effect": "+5 Artifact bonus to Physical and Magical Resistance Rating",
+            "effectRaw": "+5 Artifact bonus to Physical and Magical Resistance Rating",
+            "tieredEffects": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cataclysmic Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Cataclysmic_Tower_Shield",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus"
+    ],
+    "itemKey": "item:cataclysmic_tower_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Azure Tower",
+    "link": "https://ddowiki.com/page/Item:Defiled_Azure_Tower",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Insightful Shield Bashing +6",
+      "Shield Bashing +14%",
+      "Unholy 4",
+      "Insightful Diversion +6%",
+      "Forbidden Knowledge",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Insightful Shield Bashing +6",
+      "Shield Bashing +14%",
+      "Unholy 4",
+      "Insightful Diversion +6%",
+      "Forbidden Knowledge"
+    ],
+    "itemKey": "item:defiled_azure_tower",
+    "setMembership": []
+  },
+  {
+    "name": "Demonic Slab",
+    "link": "https://ddowiki.com/page/Item:Demonic_Slab",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Cold Resistance +30",
+      "Vitality +20",
+      "Armor-Piercing 15%",
+      "Impact",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Cold Resistance +30",
+      "Vitality +20",
+      "Armor-Piercing 15%",
+      "Impact"
+    ],
+    "itemKey": "item:demonic_slab",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Tower_Shield",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Scale Slot (Armor): Empty",
+      "Isle of Dread: Fang Slot (Armor): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Armor",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Armor",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_tower_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Demonic Slab",
+    "link": "https://ddowiki.com/page/Item:Epic_Demonic_Slab",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+12 Enhancement Bonus",
+      "Cold Resistance +50",
+      "Vitality +40",
+      "Armor-Piercing 20%",
+      "Impact",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Cold Resistance +50",
+      "Vitality +40",
+      "Armor-Piercing 20%",
+      "Impact"
+    ],
+    "itemKey": "item:epic_demonic_slab",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Skull of the Sea",
+    "link": "https://ddowiki.com/page/Item:Epic_Skull_of_the_Sea",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Shield Spikes",
+      "Greater Thorn Guard",
+      "Shield Bashing +15%",
+      "Greater Heroism",
+      "Epic Saltmarsh Explorer",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Shield Spikes",
+      "Greater Thorn Guard",
+      "Shield Bashing +15%",
+      "Greater Heroism",
+      "Epic Saltmarsh Explorer"
+    ],
+    "itemKey": "item:epic_skull_of_the_sea",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Stone Wall",
+    "link": "https://ddowiki.com/page/Item:Epic_Stone_Wall",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+10 Enhancement Bonus",
+      "Spearblock VII",
+      "Axeblock VII",
+      "Hardened Exterior 2",
+      "Orlassk's Prison",
+      "Hidden effect: Stone Paws",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+10 Enhancement Bonus",
+      "Spearblock VII",
+      "Axeblock VII",
+      "Hardened Exterior 2",
+      "Orlassk's Prison",
+      "Hidden effect: Stone Paws"
+    ],
+    "itemKey": "item:epic_stone_wall",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Templar's Bulwark",
+    "link": "https://ddowiki.com/page/Item:Epic_Templar%27s_Bulwark",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Fire Resistance +36",
+      "Cold Resistance +36",
+      "Electric Resistance +36",
+      "Acid Resistance +36",
+      "Mithral",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Fire Resistance +36",
+      "Cold Resistance +36",
+      "Electric Resistance +36",
+      "Acid Resistance +36",
+      "Mithral"
+    ],
+    "itemKey": "item:epic_templar's_bulwark",
+    "setMembership": []
+  },
+  {
+    "name": "Frostforged Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Frostforged_Tower_Shield",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Quality Incite +9",
+      "Insightful Physical Sheltering +5",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Quality Incite +9",
+      "Insightful Physical Sheltering +5"
+    ],
+    "itemKey": "item:frostforged_tower_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Guardian Mantle",
+    "link": "https://ddowiki.com/page/Item:Guardian_Mantle",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 6,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Spearblock III",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Spearblock III"
+    ],
+    "itemKey": "item:guardian_mantle",
+    "setMembership": []
+  },
+  {
+    "name": "Kundarak Trooper's Shield",
+    "link": "https://ddowiki.com/page/Item:Kundarak_Trooper%27s_Shield",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Heroism",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Heroism"
+    ],
+    "itemKey": "item:kundarak_trooper's_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Aegis of Aosu'riel",
+    "link": "https://ddowiki.com/page/Item:Legendary_Aegis_of_Aosu%27riel",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Alignment Absorption +22%",
+      "Quality Constitution +3",
+      "Insightful Physical Sheltering +16",
+      "Resistance +10",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Alignment Absorption +22%",
+      "Quality Constitution +3",
+      "Insightful Physical Sheltering +16",
+      "Resistance +10"
+    ],
+    "itemKey": "item:legendary_aegis_of_aosu'riel",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Alchemical Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Tower_Shield",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_tower_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Azure Tower",
+    "link": "https://ddowiki.com/page/Item:Legendary_Azure_Tower",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Quality Magical Sheltering +8",
+      "Shield Bashing +22%",
+      "Feat: Elusive Target",
+      "Insightful Incite +57",
+      "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Forbidden Knowledge"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Quality Magical Sheltering +8",
+      "Shield Bashing +22%",
+      "Feat: Elusive Target",
+      "Insightful Incite +57"
+    ],
+    "itemKey": "item:legendary_azure_tower",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Bulwark of Snow",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bulwark_of_Snow",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Absorption +16%",
+      "Legendary Avalanche",
+      "Shield of Snow",
+      "Cold Resistance +50",
+      "Mithral",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Avalanche",
+      {
+        "setId": "eminence_of_winter_legendary",
+        "setName": "Eminence of Winter (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 2,
+        "effect": "+30 Artifact bonus to Physical Resistance Rating",
+        "effectRaw": "+30 Artifact bonus to Physical Resistance Rating",
+        "tieredEffects": []
+      },
+      {
+        "setId": "eminence_of_winter_legendary",
+        "setName": "Eminence of Winter (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 3,
+        "effect": "+30 Artifact bonus to Healing, Repair, and Negative Amplification",
+        "effectRaw": "+30 Artifact bonus to Healing, Repair, and Negative Amplification",
+        "tieredEffects": []
+      },
+      {
+        "setId": "eminence_of_winter_legendary",
+        "setName": "Eminence of Winter (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 4,
+        "effect": "+10% Legendary bonus to maximum hitpoints",
+        "effectRaw": "+10% Legendary bonus to maximum hitpoints",
+        "tieredEffects": []
+      },
+      {
+        "setId": "eminence_of_winter_legendary",
+        "setName": "Eminence of Winter (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 5,
+        "effect": "+100% Artifact bonus to Threat Generation",
+        "effectRaw": "+100% Artifact bonus to Threat Generation",
+        "tieredEffects": []
+      },
+      {
+        "setId": "eminence_of_winter_legendary",
+        "setName": "Eminence of Winter (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 6,
+        "effect": "+3 Artifact bonus to Constitution",
+        "effectRaw": "+3 Artifact bonus to Constitution",
+        "tieredEffects": []
+      },
+      {
+        "setId": "eminence_of_winter_legendary",
+        "setName": "Eminence of Winter (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "piecesRequired": 7,
+        "effect": "+15% Artifact bonus to Armor Class",
+        "effectRaw": "+15% Artifact bonus to Armor Class",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Absorption +16%",
+      "Shield of Snow",
+      "Cold Resistance +50",
+      "Mithral"
+    ],
+    "itemKey": "item:legendary_bulwark_of_snow",
+    "setMembership": [
+      {
+        "setId": "eminence_of_winter_legendary",
+        "setName": "Eminence of Winter (Legendary)",
+        "source": "named_item_sets",
+        "sourceSection": "Fables of the Feywild sets",
+        "minLevels": [
+          29
+        ],
+        "availablePieces": 23,
+        "bonusRaw": "2 Pieces Equipped: +30 Artifact bonus to Physical Resistance Rating 3 Pieces Equipped: +30 Artifact bonus to Healing, Repair, and Negative Amplification 4 Pieces Equipped: +10% Legendary bonus to maximum hitpoints 5 Pieces Equipped: +100% Artifact bonus to Threat Generation 6 Pieces Equipped: +3 Artifact bonus to Constitution 7 Pieces Equipped: +15% Artifact bonus to Armor Class",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "+30 Artifact bonus to Physical Resistance Rating",
+            "effectRaw": "+30 Artifact bonus to Physical Resistance Rating",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "+30 Artifact bonus to Healing, Repair, and Negative Amplification",
+            "effectRaw": "+30 Artifact bonus to Healing, Repair, and Negative Amplification",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "+10% Legendary bonus to maximum hitpoints",
+            "effectRaw": "+10% Legendary bonus to maximum hitpoints",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "+100% Artifact bonus to Threat Generation",
+            "effectRaw": "+100% Artifact bonus to Threat Generation",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 6,
+            "effect": "+3 Artifact bonus to Constitution",
+            "effectRaw": "+3 Artifact bonus to Constitution",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 7,
+            "effect": "+15% Artifact bonus to Armor Class",
+            "effectRaw": "+15% Artifact bonus to Armor Class",
+            "tieredEffects": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Legendary Cataclysmic Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Tower_Shield",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_tower_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Defiled Azure Tower",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Azure_Tower",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Insightful Shield Bashing +10",
+      "Shield Bashing +22%",
+      "Unholy 6",
+      "Insightful Diversion +10%",
+      "Taint of Evil",
+      "Legendary Forbidden Knowledge",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Forbidden Knowledge"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Insightful Shield Bashing +10",
+      "Shield Bashing +22%",
+      "Unholy 6",
+      "Insightful Diversion +10%",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_azure_tower",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Frostforged Tower Shield",
+    "link": "https://ddowiki.com/page/Item:Legendary_Frostforged_Tower_Shield",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Quality Incite +30",
+      "Insightful Physical Sheltering +18",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Quality Incite +30",
+      "Insightful Physical Sheltering +18"
+    ],
+    "itemKey": "item:legendary_frostforged_tower_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Mirrorplate Tower",
+    "link": "https://ddowiki.com/page/Item:Legendary_Mirrorplate_Tower",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Spell Save +10",
+      "Quality Magical Sheltering +8",
+      "Block Elements",
+      "Mirror Shield",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Spell Save +10",
+      "Quality Magical Sheltering +8",
+      "Block Elements",
+      "Mirror Shield"
+    ],
+    "itemKey": "item:legendary_mirrorplate_tower",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Rising Sun",
+    "link": "https://ddowiki.com/page/Item:Legendary_Rising_Sun",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Light Absorption +22%",
+      "Coruscating 6",
+      "Insightful Magical Sheltering +16",
+      "Quality Magical Sheltering +8",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Light Absorption +22%",
+      "Coruscating 6",
+      "Insightful Magical Sheltering +16",
+      "Quality Magical Sheltering +8"
+    ],
+    "itemKey": "item:legendary_rising_sun",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Skull of the Sea",
+    "link": "https://ddowiki.com/page/Item:Legendary_Skull_of_the_Sea",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Shield Spikes",
+      "Spike Guard",
+      "Shield Bashing +21%",
+      "Greater Heroism",
+      "Legendary Saltmarsh Explorer",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Saltmarsh Explorer"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Shield Spikes",
+      "Spike Guard",
+      "Shield Bashing +21%",
+      "Greater Heroism"
+    ],
+    "itemKey": "item:legendary_skull_of_the_sea",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Templar's Bulwark",
+    "link": "https://ddowiki.com/page/Item:Legendary_Templar%27s_Bulwark",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Fire Resistance +51",
+      "Cold Resistance +51",
+      "Electric Resistance +51",
+      "Acid Resistance +51",
+      "Mithral",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Fire Resistance +51",
+      "Cold Resistance +51",
+      "Electric Resistance +51",
+      "Acid Resistance +51",
+      "Mithral"
+    ],
+    "itemKey": "item:legendary_templar's_bulwark",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Tower Shield of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Tower_Shield_of_the_Fallen_Age",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Insightful Incite +59",
+      "Rough Hide +14",
+      "Profane Lifeforce +49",
+      "Legendary Conditioning +20%",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Conditioning +20%"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Insightful Incite +59",
+      "Rough Hide +14",
+      "Profane Lifeforce +49"
+    ],
+    "itemKey": "item:legendary_tower_shield_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Tower Shield of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Tower_Shield_of_the_Golden_Age",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Conditioning +20%",
+      "Insightful Incite +59",
+      "Profane Lifeforce +49",
+      "Insightful Intimidate +10",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Conditioning +20%"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Insightful Incite +59",
+      "Profane Lifeforce +49",
+      "Insightful Intimidate +10"
+    ],
+    "itemKey": "item:legendary_tower_shield_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Wheel of the St. Marie",
+    "link": "https://ddowiki.com/page/Item:Legendary_Wheel_of_the_St._Marie",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Insightful Physical Sheltering +17",
+      "Spell Save +11",
+      "Ghostly",
+      "Quality Wisdom +3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Insightful Physical Sheltering +17",
+      "Spell Save +11",
+      "Ghostly",
+      "Quality Wisdom +3"
+    ],
+    "itemKey": "item:legendary_wheel_of_the_st._marie",
+    "setMembership": []
+  },
+  {
+    "name": "Levik's Defender",
+    "link": "https://ddowiki.com/page/Item:Levik%27s_Defender",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Healers Bounty",
+      "Sonic Guard",
+      "Mithral",
+      "Levik's Defender"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "levik_s_defender",
+        "setName": "Levik's Defender",
+        "source": "named_item_sets",
+        "sourceSection": "Subterrane raid and Dragontouched sets",
+        "piecesRequired": 2,
+        "effect": "2 Pieces Equipped - +3 insight AC, 20% Additional Melee Threat, Unlisted Insight Bonus to Fortitude and Will Save +1 (Stacks with most but not Parrying/Greater Parrying)",
+        "effectRaw": "2 Pieces Equipped - +3 insight AC, 20% Additional Melee Threat, Unlisted Insight Bonus to Fortitude and Will Save +1 (Stacks with most but not Parrying/Greater Parrying)",
+        "tieredEffects": []
+      },
+      {
+        "setId": "levik_s_defender",
+        "setName": "Levik's Defender",
+        "source": "named_item_sets",
+        "sourceSection": "Subterrane raid and Dragontouched sets",
+        "piecesRequired": 2,
+        "effect": "3 Pieces Equipped - +5 insight AC, 30% Additional Melee Threat (Threat stacks, but only with non-like amounts)",
+        "effectRaw": "3 Pieces Equipped - +5 insight AC, 30% Additional Melee Threat (Threat stacks, but only with non-like amounts)",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Healers Bounty",
+      "Sonic Guard",
+      "Mithral",
+      "Levik's Defender"
+    ],
+    "itemKey": "item:levik's_defender",
+    "setMembership": [
+      {
+        "setId": "levik_s_defender",
+        "setName": "Levik's Defender",
+        "source": "named_item_sets",
+        "sourceSection": "Subterrane raid and Dragontouched sets",
+        "minLevels": [],
+        "availablePieces": 2,
+        "bonusRaw": "2 Pieces Equipped - +3 insight AC, 20% Additional Melee Threat, Unlisted Insight Bonus to Fortitude and Will Save +1 (Stacks with most but not Parrying/Greater Parrying) 3 Pieces Equipped - +5 insight AC, 30% Additional Melee Threat (Threat stacks, but only with non-like amounts)",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "2 Pieces Equipped - +3 insight AC, 20% Additional Melee Threat, Unlisted Insight Bonus to Fortitude and Will Save +1 (Stacks with most but not Parrying/Greater Parrying)",
+            "effectRaw": "2 Pieces Equipped - +3 insight AC, 20% Additional Melee Threat, Unlisted Insight Bonus to Fortitude and Will Save +1 (Stacks with most but not Parrying/Greater Parrying)",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "3 Pieces Equipped - +5 insight AC, 30% Additional Melee Threat (Threat stacks, but only with non-like amounts)",
+            "effectRaw": "3 Pieces Equipped - +5 insight AC, 30% Additional Melee Threat (Threat stacks, but only with non-like amounts)",
+            "tieredEffects": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Madstone Aegis",
+    "link": "https://ddowiki.com/page/Item:Madstone_Aegis",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +20%",
+      "Shield Proficiency: Tower Shield",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Improved Bashing",
+      "Shield Bashing +20%",
+      "Shield Proficiency: Tower Shield",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "itemKey": "item:madstone_aegis",
+    "setMembership": []
+  },
+  {
+    "name": "Madstone Shield",
+    "link": "https://ddowiki.com/page/Item:Madstone_Shield",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Shield Proficiency: Tower Shield",
+      "Upgradeable Item (Stormreaver)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Shield Proficiency: Tower Shield",
+      "Upgradeable Item (Stormreaver)"
+    ],
+    "itemKey": "item:madstone_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Mirrorplate Tower",
+    "link": "https://ddowiki.com/page/Item:Mirrorplate_Tower",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Spell Save +5",
+      "Quality Magical Sheltering +3",
+      "Block Elements",
+      "Mirror Shield",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "adherent_of_the_mists",
+        "setName": "Adherent of the Mists",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+30 Profane Bonus to Physical Resistance Rating",
+        "effectRaw": "♦+5★+30 Profane Bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "adherent_of_the_mists",
+        "setName": "Adherent of the Mists",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification",
+        "effectRaw": "♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Positive, Negative, and Repair Healing Amplification"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane Bonus to Positive, Negative, and Repair Healing Amplification"
+          }
+        ]
+      },
+      {
+        "setId": "adherent_of_the_mists",
+        "setName": "Adherent of the Mists",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "adherent_of_the_mists",
+        "setName": "Adherent of the Mists",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
+        "effectRaw": "♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP."
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP."
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Spell Save +5",
+      "Quality Magical Sheltering +3",
+      "Block Elements",
+      "Mirror Shield"
+    ],
+    "itemKey": "item:mirrorplate_tower",
+    "setMembership": [
+      {
+        "setId": "adherent_of_the_mists",
+        "setName": "Adherent of the Mists",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "minLevels": [
+          10,
+          29
+        ],
+        "availablePieces": 42,
+        "bonusRaw": "5 Pieces Equipped: ♦+5★+30 Profane Bonus to Physical Resistance Rating ♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+30 Profane Bonus to Physical Resistance Rating",
+            "effectRaw": "♦+5★+30 Profane Bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification",
+            "effectRaw": "♦+10★+30 Profane Bonus to Positive, Negative, and Repair Healing Amplification",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Positive, Negative, and Repair Healing Amplification"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane Bonus to Positive, Negative, and Repair Healing Amplification"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
+            "effectRaw": "♦+10★+15 Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP.",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP."
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane Bonus to Universal Spell Power. Bug: Sets provide Potency, not USP."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Purple Dragon Shield",
+    "link": "https://ddowiki.com/page/Item:Purple_Dragon_Shield",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+8 Enhancement Bonus",
+      "Constitution +10",
+      "Charisma +10",
+      "Improved Bashing X",
+      "Sovereign Vorpal",
+      "Block Elements",
+      "Zhentarim Attuned"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+8 Enhancement Bonus",
+      "Constitution +10",
+      "Charisma +10",
+      "Improved Bashing X",
+      "Sovereign Vorpal",
+      "Block Elements",
+      "Zhentarim Attuned"
+    ],
+    "itemKey": "item:purple_dragon_shield",
+    "setMembership": []
+  },
+  {
+    "name": "Rising Sun",
+    "link": "https://ddowiki.com/page/Item:Rising_Sun",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Light Absorption +17%",
+      "Coruscating 4",
+      "Insightful Magical Sheltering +9",
+      "Quality Magical Sheltering +4",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Light Absorption +17%",
+      "Coruscating 4",
+      "Insightful Magical Sheltering +9",
+      "Quality Magical Sheltering +4"
+    ],
+    "itemKey": "item:rising_sun",
+    "setMembership": []
+  },
+  {
+    "name": "Shield of the Azure Valkyrie",
+    "link": "https://ddowiki.com/page/Item:Shield_of_the_Azure_Valkyrie",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 1,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Armor Mastery +2",
+      "Shield Proficiency: Tower Shield",
+      "Deathblock",
+      "Fortification +100%",
+      "Regeneration",
+      "True Seeing"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Armor Mastery +2",
+      "Shield Proficiency: Tower Shield",
+      "Deathblock",
+      "Fortification +100%",
+      "Regeneration",
+      "True Seeing"
+    ],
+    "itemKey": "item:shield_of_the_azure_valkyrie",
+    "setMembership": []
+  },
+  {
+    "name": "Skull of the Sea",
+    "link": "https://ddowiki.com/page/Item:Skull_of_the_Sea",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 3,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Thorn Guard",
+      "Heroism",
+      "Saltmarsh Explorer",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "saltmarsh_explorer",
+        "setName": "Saltmarsh Explorer",
+        "source": "named_item_sets",
+        "sourceSection": "Saltmarsh sets",
+        "piecesRequired": 5,
+        "effect": "♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating",
+        "effectRaw": "♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Artifact bonus to Physical and Magical Resistance Rating"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Physical and Magical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Physical and Magical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "saltmarsh_explorer",
+        "setName": "Saltmarsh Explorer",
+        "source": "named_item_sets",
+        "sourceSection": "Saltmarsh sets",
+        "piecesRequired": 5,
+        "effect": "●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power",
+        "effectRaw": "●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Melee, Ranged, and Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Artifact bonus to Melee, Ranged, and Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "saltmarsh_explorer",
+        "setName": "Saltmarsh Explorer",
+        "source": "named_item_sets",
+        "sourceSection": "Saltmarsh sets",
+        "piecesRequired": 5,
+        "effect": "♦+1●+2★+3 Artifact bonus to all Ability Scores",
+        "effectRaw": "♦+1●+2★+3 Artifact bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact bonus to all Ability Scores"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Artifact bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "saltmarsh_explorer",
+        "setName": "Saltmarsh Explorer",
+        "source": "named_item_sets",
+        "sourceSection": "Saltmarsh sets",
+        "piecesRequired": 5,
+        "effect": "●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
+        "effectRaw": "●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
+        "tieredEffects": [
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Positive, Negative, and Repair Amplification"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Positive, Negative, and Repair Amplification"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Thorn Guard",
+      "Heroism",
+      "Saltmarsh Explorer"
+    ],
+    "itemKey": "item:skull_of_the_sea",
+    "setMembership": [
+      {
+        "setId": "saltmarsh_explorer",
+        "setName": "Saltmarsh Explorer",
+        "source": "named_item_sets",
+        "sourceSection": "Saltmarsh sets",
+        "minLevels": [
+          3,
+          20,
+          30
+        ],
+        "availablePieces": 38,
+        "bonusRaw": "5 Pieces Equipped: ♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating ●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power ♦+1●+2★+3 Artifact bonus to all Ability Scores ●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating",
+            "effectRaw": "♦+5●+20★+30 Artifact bonus to Physical and Magical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Artifact bonus to Physical and Magical Resistance Rating"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Physical and Magical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Physical and Magical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power",
+            "effectRaw": "●+10★+15 Artifact bonus to Melee, Ranged, and Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Melee, Ranged, and Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Artifact bonus to Melee, Ranged, and Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1●+2★+3 Artifact bonus to all Ability Scores",
+            "effectRaw": "♦+1●+2★+3 Artifact bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact bonus to all Ability Scores"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Artifact bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
+            "effectRaw": "●+20★+30 Artifact bonus to Positive, Negative, and Repair Amplification",
+            "tieredEffects": [
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Positive, Negative, and Repair Amplification"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Positive, Negative, and Repair Amplification"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skyvault Shield (level 12)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_12)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus"
+    ],
+    "itemKey": "item:skyvault_shield_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Skyvault Shield (level 13)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_13)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus"
+    ],
+    "itemKey": "item:skyvault_shield_(level_13)",
+    "setMembership": []
+  },
+  {
+    "name": "Skyvault Shield (level 14)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_14)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus"
+    ],
+    "itemKey": "item:skyvault_shield_(level_14)",
+    "setMembership": []
+  },
+  {
+    "name": "Skyvault Shield (level 23)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_23)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 23,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Purple Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus"
+    ],
+    "itemKey": "item:skyvault_shield_(level_23)",
+    "setMembership": []
+  },
+  {
+    "name": "Skyvault Shield (level 24)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_24)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Purple Augment Slot",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus"
+    ],
+    "itemKey": "item:skyvault_shield_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Skyvault Shield (level 25)",
+    "link": "https://ddowiki.com/page/Item:Skyvault_Shield_(level_25)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Purple Augment Slot",
+      "Red Augment Slot",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red",
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus"
+    ],
+    "itemKey": "item:skyvault_shield_(level_25)",
+    "setMembership": []
+  },
+  {
+    "name": "Stone Wall",
+    "link": "https://ddowiki.com/page/Item:Stone_Wall",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Spearblock V",
+      "Axeblock V",
+      "Hardened Exterior 1",
+      "Orlassk's Prison",
+      "Hidden effect: Stone Paws",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Spearblock V",
+      "Axeblock V",
+      "Hardened Exterior 1",
+      "Orlassk's Prison",
+      "Hidden effect: Stone Paws"
+    ],
+    "itemKey": "item:stone_wall",
+    "setMembership": []
+  },
+  {
+    "name": "Sworn Aegis",
+    "link": "https://ddowiki.com/page/Item:Sworn_Aegis",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 21,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Physical Sheltering +25",
+      "Insightful Physical Sheltering +12",
+      "Parrying +4",
+      "Protection +8",
+      "Green Augment Slot"
+    ],
+    "augmentSlots": [
+      "Green"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Physical Sheltering +25",
+      "Insightful Physical Sheltering +12",
+      "Parrying +4",
+      "Protection +8"
+    ],
+    "itemKey": "item:sworn_aegis",
+    "setMembership": []
+  },
+  {
+    "name": "Templar's Bulwark",
+    "link": "https://ddowiki.com/page/Item:Templar%27s_Bulwark",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Fire Resistance +30",
+      "Cold Resistance +30",
+      "Electric Resistance +30",
+      "Acid Resistance +30",
+      "Mithral",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Fire Resistance +30",
+      "Cold Resistance +30",
+      "Electric Resistance +30",
+      "Acid Resistance +30",
+      "Mithral"
+    ],
+    "itemKey": "item:templar's_bulwark",
+    "setMembership": []
+  },
+  {
+    "name": "Terminus",
+    "link": "https://ddowiki.com/page/Item:Terminus",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 27,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Quality Constitution +3",
+      "Magical Sheltering +33",
+      "Healers Bounty",
+      "Bashing 6",
+      "Red Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+14 Enhancement Bonus",
+      "Quality Constitution +3",
+      "Magical Sheltering +33",
+      "Healers Bounty",
+      "Bashing 6"
+    ],
+    "itemKey": "item:terminus",
+    "setMembership": []
+  },
+  {
+    "name": "The Darkwood Skull",
+    "link": "https://ddowiki.com/page/Item:The_Darkwood_Skull",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Sheltering +8",
+      "Heroism",
+      "Darkwood",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Sheltering +8",
+      "Heroism",
+      "Darkwood"
+    ],
+    "itemKey": "item:the_darkwood_skull",
+    "setMembership": []
+  },
+  {
+    "name": "The Heart's Walls",
+    "link": "https://ddowiki.com/page/Item:The_Heart%27s_Walls",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Conditioning +20%",
+      "Bottled Heart",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [
+      "Legendary Conditioning +20%"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Bottled Heart"
+    ],
+    "itemKey": "item:the_heart's_walls",
+    "setMembership": []
+  },
+  {
+    "name": "The Lunar Eclipse",
+    "link": "https://ddowiki.com/page/Item:The_Lunar_Eclipse",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Alignment Absorption +22%",
+      "Quality Constitution +3",
+      "Insightful Physical Sheltering +17",
+      "Mirror Shield",
+      "Green Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Green",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Alignment Absorption +22%",
+      "Quality Constitution +3",
+      "Insightful Physical Sheltering +17",
+      "Mirror Shield"
+    ],
+    "itemKey": "item:the_lunar_eclipse",
+    "setMembership": []
+  },
+  {
+    "name": "The Mother Board (level 10)",
+    "link": "https://ddowiki.com/page/Item:The_Mother_Board_(level_10)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Bashing 3",
+      "Bludgeoning 3",
+      "Ghost Touch",
+      "Impact",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Bashing 3",
+      "Bludgeoning 3",
+      "Ghost Touch",
+      "Impact"
+    ],
+    "itemKey": "item:the_mother_board_(level_10)",
+    "setMembership": []
+  },
+  {
+    "name": "The Mother Board (level 15)",
+    "link": "https://ddowiki.com/page/Item:The_Mother_Board_(level_15)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Bashing 4",
+      "Bludgeoning 4",
+      "Ghost Touch",
+      "Impact",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Bashing 4",
+      "Bludgeoning 4",
+      "Ghost Touch",
+      "Impact"
+    ],
+    "itemKey": "item:the_mother_board_(level_15)",
+    "setMembership": []
+  },
+  {
+    "name": "The Mother Board (level 20)",
+    "link": "https://ddowiki.com/page/Item:The_Mother_Board_(level_20)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Bashing 4",
+      "Bludgeoning 4",
+      "Ghost Touch",
+      "Impact",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Bashing 4",
+      "Bludgeoning 4",
+      "Ghost Touch",
+      "Impact"
+    ],
+    "itemKey": "item:the_mother_board_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "The Mother Board (level 25)",
+    "link": "https://ddowiki.com/page/Item:The_Mother_Board_(level_25)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Bashing 5",
+      "Bludgeoning 5",
+      "Ghost Touch",
+      "Impact",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Bashing 5",
+      "Bludgeoning 5",
+      "Ghost Touch",
+      "Impact"
+    ],
+    "itemKey": "item:the_mother_board_(level_25)",
+    "setMembership": []
+  },
+  {
+    "name": "The Mother Board (level 30)",
+    "link": "https://ddowiki.com/page/Item:The_Mother_Board_(level_30)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Bashing 6",
+      "Bludgeoning 6",
+      "Ghost Touch",
+      "Impact",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+14 Enhancement Bonus",
+      "Bashing 6",
+      "Bludgeoning 6",
+      "Ghost Touch",
+      "Impact"
+    ],
+    "itemKey": "item:the_mother_board_(level_30)",
+    "setMembership": []
+  },
+  {
+    "name": "The Mother Board (level 5)",
+    "link": "https://ddowiki.com/page/Item:The_Mother_Board_(level_5)",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Bashing 2",
+      "Bludgeoning 2",
+      "Ghost Touch",
+      "Impact",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Bashing 2",
+      "Bludgeoning 2",
+      "Ghost Touch",
+      "Impact"
+    ],
+    "itemKey": "item:the_mother_board_(level_5)",
+    "setMembership": []
+  },
+  {
+    "name": "Tower Shield of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Tower_Shield_of_the_Fallen_Age",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Insightful Incite +27",
+      "Rough Hide +7",
+      "Profane Lifeforce +23",
+      "Legendary Conditioning +20%",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Conditioning +20%"
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Insightful Incite +27",
+      "Rough Hide +7",
+      "Profane Lifeforce +23"
+    ],
+    "itemKey": "item:tower_shield_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Tower Shield of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Tower_Shield_of_the_Golden_Age",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Legendary Conditioning +20%",
+      "Insightful Incite +27",
+      "Profane Lifeforce +23",
+      "Insightful Intimidate +7",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Conditioning +20%"
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Insightful Incite +27",
+      "Profane Lifeforce +23",
+      "Insightful Intimidate +7"
+    ],
+    "itemKey": "item:tower_shield_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Ultimatum",
+    "link": "https://ddowiki.com/page/Item:Ultimatum",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+13 Enhancement Bonus",
+      "Physical Sheltering +33",
+      "Improved Bashing X",
+      "Holy 6",
+      "Metalline",
+      "Petrification Immunity",
+      "Purple Augment Slot",
+      "Blue Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Blue"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+13 Enhancement Bonus",
+      "Physical Sheltering +33",
+      "Improved Bashing X",
+      "Holy 6",
+      "Metalline",
+      "Petrification Immunity"
+    ],
+    "itemKey": "item:ultimatum",
+    "setMembership": []
+  },
+  {
+    "name": "Wheel of the St. Marie",
+    "link": "https://ddowiki.com/page/Item:Wheel_of_the_St._Marie",
+    "slot": "offhand",
+    "itemSubtype": "tower_shield",
+    "handedness": "offhand_only",
+    "category": "Tower shields",
+    "minLevel": 7,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Insightful Physical Sheltering +5",
+      "Spell Save +4",
+      "Ghostly",
+      "Quality Wisdom +1",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Universal Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane bonus to Universal Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to Spell DCs",
+        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to Spell DCs"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "★+4 Profane bonus to Hit and Damage",
+        "effectRaw": "★+4 Profane bonus to Hit and Damage",
+        "tieredEffects": [
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane bonus to Hit and Damage"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Insightful Physical Sheltering +5",
+      "Spell Save +4",
+      "Ghostly",
+      "Quality Wisdom +1"
+    ],
+    "itemKey": "item:wheel_of_the_st._marie",
+    "setMembership": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "minLevels": [
+          7,
+          31
+        ],
+        "availablePieces": 70,
+        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Universal Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane bonus to Universal Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to Spell DCs",
+            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to Spell DCs"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "★+4 Profane bonus to Hit and Damage",
+            "effectRaw": "★+4 Profane bonus to Hit and Damage",
+            "tieredEffects": [
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane bonus to Hit and Damage"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

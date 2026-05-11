@@ -15,13 +15,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Khopesh",
@@ -39,13 +38,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Khopesh of Water (level 4)",
@@ -61,14 +59,13 @@
       "Fire Resistance +11"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Frost",
       "Fire Resistance +11"
-    ],
-    "itemKey": "item:elemental_khopesh_of_water_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Khopesh",
@@ -89,6 +86,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -96,9 +94,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Khopesh",
@@ -119,6 +115,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -126,9 +123,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Eviscerating Expenses",
@@ -149,6 +144,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -156,9 +152,7 @@
       "Bludgeoning 2",
       "Metalline",
       "Gashing 5"
-    ],
-    "itemKey": "item:eviscerating_expenses",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Khopesh of Water (level 8)",
@@ -172,12 +166,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:elemental_khopesh_of_water_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Khopesh",
@@ -198,16 +191,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_khopesh",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Dynastic Falcata",
@@ -231,66 +239,8 @@
       "Purple",
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "menechtarun_scavenger",
-        "setName": "Menechtarun Scavenger",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR",
-        "effectRaw": "♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
-          }
-        ]
-      },
-      {
-        "setId": "menechtarun_scavenger",
-        "setName": "Menechtarun Scavenger",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
-        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Axiomatic Blast 3",
@@ -298,73 +248,6 @@
       "Doublestrike 6%",
       "Favored Weapon",
       "Adamantine"
-    ],
-    "itemKey": "item:dynastic_falcata",
-    "setMembership": [
-      {
-        "setId": "menechtarun_scavenger",
-        "setName": "Menechtarun Scavenger",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 9,
-        "bonusRaw": "2 Pieces Equipped: ♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR ♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR",
-            "effectRaw": "♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
-            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -386,6 +269,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -393,9 +277,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Khopesh",
@@ -416,6 +298,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -423,9 +306,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wing of Tailara",
@@ -446,6 +327,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -453,9 +335,7 @@
       "Freezing 7",
       "Banishing",
       "Dragon's Edge 3"
-    ],
-    "itemKey": "item:wing_of_tailara",
-    "setMembership": []
+    ]
   },
   {
     "name": "Chaosblade",
@@ -474,66 +354,8 @@
       "Windlasher's Ferocity"
     ],
     "augmentSlots": [],
-    "setBonuses": [
-      {
-        "setId": "windlasher_s_ferocity",
-        "setName": "Windlasher's Ferocity",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
-        "effectRaw": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Artifact bonus to Doublestrike and Doubleshot"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+10%",
-            "effect": "Artifact bonus to Doublestrike and Doubleshot"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Artifact bonus to Doublestrike and Doubleshot"
-          }
-        ]
-      },
-      {
-        "setId": "windlasher_s_ferocity",
-        "setName": "Windlasher's Ferocity",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact bonus to Melee and Ranged Power"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Vorpal",
@@ -541,73 +363,6 @@
       "Vampirism 1",
       "Chaos Absorption +15%",
       "Windlasher's Ferocity"
-    ],
-    "itemKey": "item:chaosblade",
-    "setMembership": [
-      {
-        "setId": "windlasher_s_ferocity",
-        "setName": "Windlasher's Ferocity",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 9,
-        "bonusRaw": "2 Pieces Equipped: ♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot ♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
-            "effectRaw": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Artifact bonus to Doublestrike and Doubleshot"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+10%",
-                "effect": "Artifact bonus to Doublestrike and Doubleshot"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Artifact bonus to Doublestrike and Doubleshot"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact bonus to Melee and Ranged Power"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -626,6 +381,7 @@
       "Malleable"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -633,9 +389,7 @@
       "Maiming 3",
       "Human Bane 3",
       "Malleable"
-    ],
-    "itemKey": "item:hooked_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Khopesh",
@@ -650,13 +404,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Allegiance (historic)",
@@ -672,14 +425,13 @@
       "Proficiency: Khopesh"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Elf Bane",
       "Proficiency: Khopesh"
-    ],
-    "itemKey": "item:allegiance_(historic)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bloody Hooked Blade",
@@ -700,6 +452,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -707,9 +460,7 @@
       "Maiming 3",
       "Human Bane 3",
       "Bodyfeeder"
-    ],
-    "itemKey": "item:bloody_hooked_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Infectious Hooked Blade",
@@ -730,6 +481,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -737,9 +489,7 @@
       "Maiming 3",
       "Human Bane 3",
       "Demon Fever"
-    ],
-    "itemKey": "item:infectious_hooked_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Destructive Hooked Blade",
@@ -760,6 +510,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -767,9 +518,7 @@
       "Maiming 3",
       "Human Bane 3",
       "Destruction"
-    ],
-    "itemKey": "item:destructive_hooked_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Khopesh",
@@ -784,13 +533,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Petrifying Hooked Blade",
@@ -811,6 +559,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -818,9 +567,7 @@
       "Maiming 3",
       "Human Bane 3",
       "Stone Prison"
-    ],
-    "itemKey": "item:petrifying_hooked_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Allegiance (level 12)",
@@ -836,14 +583,13 @@
       "Proficiency: Khopesh"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Elf Bane",
       "Proficiency: Khopesh"
-    ],
-    "itemKey": "item:allegiance_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Khopesh of Water (level 12)",
@@ -857,12 +603,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:elemental_khopesh_of_water_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Allegiance (level 13)",
@@ -878,14 +623,13 @@
       "Proficiency: Khopesh"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Elf Bane",
       "Proficiency: Khopesh"
-    ],
-    "itemKey": "item:allegiance_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bleeding Edge",
@@ -907,15 +651,14 @@
       "Red",
       "Yellow"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Limb Chopper",
       "Bloodletter III",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:bleeding_edge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Khopesh of the Fallen Age",
@@ -936,6 +679,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -943,9 +687,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:khopesh_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Khopesh of the Golden Age",
@@ -966,6 +708,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -973,9 +716,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:khopesh_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Allegiance (level 14)",
@@ -994,14 +735,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Elf Bane",
       "Proficiency: Khopesh"
-    ],
-    "itemKey": "item:allegiance_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lunar Crescent",
@@ -1022,6 +762,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1029,9 +770,7 @@
       "Holy 4",
       "Aligned",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:lunar_crescent",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Khopesh",
@@ -1052,6 +791,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1059,9 +799,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Khopesh of Water (level 16)",
@@ -1075,12 +813,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:elemental_khopesh_of_water_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ironwood Khopesh (level 16)",
@@ -1096,14 +833,13 @@
       "Force Burst"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Stone Prison",
       "Force Burst"
-    ],
-    "itemKey": "item:ironwood_khopesh_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ironwood Khopesh (level 17)",
@@ -1119,14 +855,13 @@
       "Force Burst"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Stone Prison",
       "Force Burst"
-    ],
-    "itemKey": "item:ironwood_khopesh_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ironwood Khopesh (level 18)",
@@ -1142,14 +877,13 @@
       "Impellent"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Stone Prison",
       "Impellent"
-    ],
-    "itemKey": "item:ironwood_khopesh_(level_18)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Khopesh",
@@ -1170,6 +904,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1177,9 +912,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Khopesh",
@@ -1200,6 +933,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1207,9 +941,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Chaosblade",
@@ -1230,6 +962,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1237,9 +970,7 @@
       "Anarchic Blast 4",
       "Vampirism 2",
       "Chaos Absorption +18%"
-    ],
-    "itemKey": "item:epic_chaosblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Dynastic Falcata",
@@ -1261,6 +992,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1269,9 +1001,7 @@
       "Doublestrike 11%",
       "Favored Weapon",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_dynastic_falcata",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Elemental Khopesh of Water",
@@ -1285,12 +1015,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_elemental_khopesh_of_water",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Khopesh",
@@ -1311,6 +1040,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1318,9 +1048,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Khopesh",
@@ -1341,6 +1069,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1348,9 +1077,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drow Khopesh of the Weapon Master",
@@ -1371,6 +1098,7 @@
       "Tendon Slice 10%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1381,9 +1109,7 @@
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:drow_khopesh_of_the_weapon_master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Eviscerating Expenses",
@@ -1404,6 +1130,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1411,9 +1138,7 @@
       "Bludgeoning 5",
       "Metalline",
       "Gashing 11"
-    ],
-    "itemKey": "item:epic_eviscerating_expenses",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Khopesh",
@@ -1431,13 +1156,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ironwood Khopesh (level 23)",
@@ -1453,14 +1177,13 @@
       "Impellent"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Greater Stone Prison",
       "Impellent"
-    ],
-    "itemKey": "item:ironwood_khopesh_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Allegiance (level 23)",
@@ -1479,14 +1202,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Greater Elf Bane",
       "Proficiency: Khopesh"
-    ],
-    "itemKey": "item:allegiance_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ironwood Khopesh (level 24)",
@@ -1502,14 +1224,13 @@
       "Impellent"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Greater Stone Prison",
       "Impellent"
-    ],
-    "itemKey": "item:ironwood_khopesh_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Allegiance (level 24)",
@@ -1528,14 +1249,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Greater Elf Bane",
       "Proficiency: Khopesh"
-    ],
-    "itemKey": "item:allegiance_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Allegiance (level 25)",
@@ -1554,14 +1274,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Greater Elf Bane",
       "Proficiency: Khopesh"
-    ],
-    "itemKey": "item:allegiance_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ironwood Khopesh (level 25)",
@@ -1577,14 +1296,13 @@
       "Cosmic"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Greater Stone Prison",
       "Cosmic"
-    ],
-    "itemKey": "item:ironwood_khopesh_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Khopesh",
@@ -1599,14 +1317,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Bleeding Edge",
@@ -1629,6 +1346,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -1636,9 +1354,7 @@
       "Bloodletter VII",
       "Vampirism",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:epic_bleeding_edge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamity, a Brush with Death",
@@ -1661,6 +1377,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1668,9 +1385,7 @@
       "Crippling Flames",
       "Hemorrhaging",
       "Utter Disintegration"
-    ],
-    "itemKey": "item:calamity,_a_brush_with_death",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Lunar Crescent",
@@ -1691,6 +1406,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1698,9 +1414,7 @@
       "Holy 6",
       "Aligned",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:legendary_lunar_crescent",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Wicked Blade",
@@ -1723,6 +1437,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1730,9 +1445,7 @@
       "Keen",
       "Sovereign Vorpal",
       "Entropic 6"
-    ],
-    "itemKey": "item:the_wicked_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Khopesh",
@@ -1753,6 +1466,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1760,9 +1474,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Khopesh",
@@ -1783,6 +1495,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1790,9 +1503,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Khopesh",
@@ -1813,6 +1524,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1820,9 +1532,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Khopesh",
@@ -1843,6 +1553,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1850,9 +1561,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Khopesh",
@@ -1870,14 +1579,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Khopesh",
@@ -1898,6 +1606,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1905,9 +1614,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Chaosblade",
@@ -1929,6 +1636,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Windlasher's Ferocity"
     ],
@@ -1938,9 +1646,7 @@
       "Anarchic Blast 6",
       "Vampirism 3",
       "Chaos Absorption +23%"
-    ],
-    "itemKey": "item:legendary_chaosblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Dynastic Falcata",
@@ -1963,6 +1669,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Menechtarun Scavenger"
     ],
@@ -1973,9 +1680,7 @@
       "Doublestrike 15%",
       "Favored Weapon",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_dynastic_falcata",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Khopesh",
@@ -1998,16 +1703,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_khopesh",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Khopesh",
@@ -2030,16 +1755,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_khopesh",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Hooked Blade",
@@ -2062,6 +1807,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2069,9 +1815,7 @@
       "Maiming 6",
       "Human Bane 6",
       "Malleable"
-    ],
-    "itemKey": "item:legendary_hooked_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Bloody Hooked Blade",
@@ -2094,6 +1838,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2101,9 +1846,7 @@
       "Maiming 6",
       "Human Bane 6",
       "Feeding 30"
-    ],
-    "itemKey": "item:legendary_bloody_hooked_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Infectious Hooked Blade",
@@ -2126,6 +1869,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -2134,9 +1878,7 @@
       "Limb Chopper",
       "Maiming 6",
       "Human Bane 6"
-    ],
-    "itemKey": "item:legendary_infectious_hooked_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Destructive Hooked Blade",
@@ -2159,6 +1901,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2166,9 +1909,7 @@
       "Maiming 6",
       "Human Bane 6",
       "Improved Destruction"
-    ],
-    "itemKey": "item:legendary_destructive_hooked_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Petrifying Hooked Blade",
@@ -2191,6 +1932,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Stone Prison"
     ],
@@ -2199,9 +1941,7 @@
       "Limb Chopper",
       "Maiming 6",
       "Human Bane 6"
-    ],
-    "itemKey": "item:legendary_petrifying_hooked_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Khopesh",
@@ -2224,6 +1964,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2231,9 +1972,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Khopesh",
@@ -2257,6 +1996,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -2266,9 +2006,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_khopesh",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Khopesh of the Fallen Age",
@@ -2291,6 +2029,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2298,9 +2037,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_khopesh_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Khopesh of the Golden Age",
@@ -2323,6 +2060,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2330,9 +2068,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_khopesh_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Khopesh of the Undying Age",
@@ -2355,6 +2091,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2362,9 +2099,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:khopesh_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Khopesh",
@@ -2387,16 +2122,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_khopesh",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Khopesh",
@@ -2419,16 +2174,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_khopesh",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Wing of Tailara",
@@ -2451,6 +2226,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2458,8 +2234,6 @@
       "Freezing 16",
       "Sovereign Banishing",
       "Dragon's Edge 7"
-    ],
-    "itemKey": "item:legendary_wing_of_tailara",
-    "setMembership": []
+    ]
   }
 ]

@@ -10,14 +10,13 @@ function delay(ms) {
 }
 
 function cleanText(text) {
-  return text
+  return String(text || '')
     .replace(/\u00a0/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }
 
 function parseMinLevel(value) {
-
   const cleaned = cleanText(value);
 
   if (
@@ -35,66 +34,55 @@ function parseMinLevel(value) {
 }
 
 function cleanEnhancements(rawList) {
-
   const cleaned = [];
   let skipCount = 0;
 
   for (let i = 0; i < rawList.length; i++) {
-
     const entry = rawList[i];
 
-    // Red Augment Slot
     if (entry === 'Red Augment Slot') {
       cleaned.push(entry);
       skipCount = 6;
       continue;
     }
 
-    // Orange Augment Slot
     if (entry === 'Orange Augment Slot') {
       cleaned.push(entry);
       skipCount = 13;
       continue;
     }
 
-    // Purple Augment Slot
     if (entry === 'Purple Augment Slot') {
       cleaned.push(entry);
       skipCount = 17;
       continue;
     }
 
-    // Yellow Augment Slot
     if (entry === 'Yellow Augment Slot') {
       cleaned.push(entry);
       skipCount = 11;
       continue;
     }
 
-    // Green Augment Slot
     if (entry === 'Green Augment Slot') {
       cleaned.push(entry);
       skipCount = 22;
       continue;
     }
 
-    // Colorless Augment Slot
     if (entry === 'Colorless Augment Slot') {
       cleaned.push(entry);
       skipCount = 4;
       continue;
     }
 
-    // Blue Augment Slot
     if (entry === 'Blue Augment Slot') {
       cleaned.push(entry);
       skipCount = 15;
       continue;
     }
 
-    // Special edge case
     if (entry === 'Fountain of Necrotic Might') {
-
       cleaned.push(
         'Upgradeable - Primary Augment',
         'Upgradeable - Secondary Augment'
@@ -104,7 +92,6 @@ function cleanEnhancements(rawList) {
       continue;
     }
 
-    // Skip tooltip junk
     if (skipCount > 0) {
       skipCount--;
       continue;
@@ -117,23 +104,44 @@ function cleanEnhancements(rawList) {
 }
 
 function extractEffects(rawEffects) {
-
   const augmentSlots = [];
+  const craftingSlots = [];
   const setBonuses = [];
   const namedEffects = [];
 
   for (const effect of rawEffects) {
-
-    // Augment slots
+    // Normal augment slots:
+    // Red Augment Slot
+    // Orange Augment Slot
+    // Purple Augment Slot
     const augmentMatch =
       effect.match(/^(.+?) Augment Slot$/i);
 
     if (augmentMatch) {
-
       augmentSlots.push(
         cleanText(augmentMatch[1])
       );
+      continue;
+    }
 
+    // Special crafting slots:
+    // Isle of Dread: Scale Slot (Weapon): Empty
+    // Isle of Dread: Fang Slot (Accessory): Empty
+    // Lamordia: Melancholic Slot (Weapon)
+    // Lamordia: Dolorous Slot (Weapon)
+    const craftingSlotMatch = effect.match(
+      /^([^:]+):\s*([^:()]+?)\s+Slot\s+\((Weapon|Accessory|Armor)\)(?::\s*(.+))?$/i
+    );
+
+    if (craftingSlotMatch) {
+      craftingSlots.push({
+        system: cleanText(craftingSlotMatch[1]),
+        slotType: cleanText(craftingSlotMatch[2]),
+        itemGroup: cleanText(craftingSlotMatch[3]),
+        status: craftingSlotMatch[4]
+          ? cleanText(craftingSlotMatch[4])
+          : null
+      });
       continue;
     }
 
@@ -143,26 +151,24 @@ function extractEffects(rawEffects) {
       effect.includes('Legendary') ||
       effect.includes('Profane Experiment')
     ) {
-
       setBonuses.push(effect);
       continue;
     }
 
-    // Everything else
+    // Everything else is a normal named effect
     namedEffects.push(effect);
   }
 
   return {
     augmentSlots,
+    craftingSlots,
     setBonuses,
     namedEffects
   };
 }
 
 function categoryToSlot(categoryName) {
-
   const map = {
-
     // Accessories
     'Head items': 'head',
     'Hand items': 'hands',
@@ -187,9 +193,7 @@ function categoryToSlot(categoryName) {
     'Small shields': 'offhand',
     'Large shields': 'offhand',
     'Tower shields': 'offhand',
-
     'Orbs': 'offhand',
-
     'Rune Arms': 'offhand',
 
     // Weapons
@@ -242,9 +246,7 @@ function categoryToSlot(categoryName) {
 }
 
 function categoryToSubtype(categoryName) {
-
   const map = {
-
     // Shields
     'Bucklers': 'buckler',
     'Small shields': 'small_shield',
@@ -302,9 +304,7 @@ function categoryToSubtype(categoryName) {
 }
 
 function categoryToHandedness(categoryName) {
-
   const map = {
-
     // Two-handed weapons
     'Falchions': 'two_handed',
     'Great Axes': 'two_handed',
@@ -321,9 +321,7 @@ function categoryToHandedness(categoryName) {
     'Small shields': 'offhand_only',
     'Large shields': 'offhand_only',
     'Tower shields': 'offhand_only',
-
     'Orbs': 'offhand_only',
-
     'Rune Arms': 'offhand_only'
   };
 
@@ -331,7 +329,6 @@ function categoryToHandedness(categoryName) {
 }
 
 async function scrapeCategory(categoryName) {
-
   const url =
     `https://ddowiki.com/page/Category:${encodeURIComponent(categoryName)}`;
 
@@ -339,11 +336,9 @@ async function scrapeCategory(categoryName) {
     path.join(__dirname, '..', 'itemlist');
 
   try {
-
     const { data } = await axios.get(url, {
       headers: {
-        'User-Agent':
-          'DDO-Gear-Planner-Bot/1.0'
+        'User-Agent': 'DDO-Gear-Planner-Bot/1.0'
       }
     });
 
@@ -352,14 +347,12 @@ async function scrapeCategory(categoryName) {
     const items = [];
 
     $('table.wikitable tr').each((_, row) => {
-
       const cols = $(row).find('td');
 
       if (cols.length < 3) {
         return;
       }
 
-      // Item name + link
       const anchor =
         $(cols[0]).find('a[href]').first();
 
@@ -380,22 +373,18 @@ async function scrapeCategory(categoryName) {
       const link =
         BASE_URL + href;
 
-      // Skip category links
       if (link.includes('/Category:')) {
         return;
       }
 
-      // Minimum level
       const minLevel =
         parseMinLevel(
           $(cols[2]).text()
         );
 
-      // Extract enhancement text
       const rawEnhancements = [];
 
       $(cols[1]).find('li').each((_, li) => {
-
         const clone = $(li).clone();
 
         clone.find('.tooltip').remove();
@@ -425,12 +414,12 @@ async function scrapeCategory(categoryName) {
 
       const {
         augmentSlots,
+        craftingSlots,
         setBonuses,
         namedEffects
       } = extractEffects(effectsRaw);
 
       items.push({
-
         name,
 
         link,
@@ -453,13 +442,14 @@ async function scrapeCategory(categoryName) {
 
         augmentSlots,
 
+        craftingSlots,
+
         setBonuses,
 
         namedEffects
       });
     });
 
-    // Ensure output directory exists
     if (!fs.existsSync(outputDir)) {
       fs.mkdirSync(outputDir);
     }
@@ -481,7 +471,6 @@ async function scrapeCategory(categoryName) {
       `SUCCESS: Saved ${filename} with ${items.length} items`
     );
 
-    // Respectful delay between requests
     await delay(750);
 
     return {
@@ -490,7 +479,6 @@ async function scrapeCategory(categoryName) {
     };
 
   } catch (err) {
-
     throw new Error(
       `ERROR: Failed to scrape ${categoryName}: ${err.message}`
     );

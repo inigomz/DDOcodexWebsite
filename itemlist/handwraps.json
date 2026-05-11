@@ -12,13 +12,12 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Acid Touch",
       "Starter"
-    ],
-    "itemKey": "item:soren's_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Min's Handwraps",
@@ -32,12 +31,11 @@
       "Minor Flaming"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Minor Flaming"
-    ],
-    "itemKey": "item:min's_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Eternal Rest",
@@ -56,14 +54,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Ghostbane 1",
       "Silver Threaded"
-    ],
-    "itemKey": "item:eternal_rest",
-    "setMembership": []
+    ]
   },
   {
     "name": "Weeping Handwraps",
@@ -81,13 +78,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Screaming"
-    ],
-    "itemKey": "item:weeping_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Handwraps",
@@ -103,14 +99,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Handwraps",
@@ -128,13 +123,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Handwraps",
@@ -152,13 +146,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver Threaded"
-    ],
-    "itemKey": "item:sworn_silver_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crocodile Maw",
@@ -177,14 +170,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Animal Bane 2",
       "Vampirism 1"
-    ],
-    "itemKey": "item:crocodile_maw",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wraps of Endless Light (level 4)",
@@ -200,14 +192,13 @@
       "Incandescence"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Lesser Undead Bane",
       "Incandescence"
-    ],
-    "itemKey": "item:wraps_of_endless_light_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scorching Wraps",
@@ -224,15 +215,14 @@
       "Bleed"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Flaming Burst",
       "Spiked",
       "Bleed"
-    ],
-    "itemKey": "item:scorching_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Studded Handwraps (level 4)",
@@ -248,14 +238,13 @@
       "Tidal"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Dragon Bane 2",
       "Tidal"
-    ],
-    "itemKey": "item:calomel_studded_handwraps_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Handwraps",
@@ -276,6 +265,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -283,9 +273,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Handwraps",
@@ -306,6 +294,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -313,9 +302,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fanged Wraps",
@@ -334,14 +321,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Vicious",
       "Ribcracker III"
-    ],
-    "itemKey": "item:fanged_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Devotion (Handwraps)",
@@ -361,15 +347,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +6",
       "+3 Enhancement Bonus",
       "Holy 2",
       "Devotion +63"
-    ],
-    "itemKey": "item:devotion_(handwraps)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wraps of Endless Light (level 8)",
@@ -385,14 +370,13 @@
       "Incandescence"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Undead Bane",
       "Incandescence"
-    ],
-    "itemKey": "item:wraps_of_endless_light_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Skin of the Mockery",
@@ -412,13 +396,12 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Human Bane"
-    ],
-    "itemKey": "item:skin_of_the_mockery",
-    "setMembership": []
+    ]
   },
   {
     "name": "Devout Handwraps",
@@ -437,14 +420,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Metalline",
       "Pure Good"
-    ],
-    "itemKey": "item:devout_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fernian Wraps",
@@ -464,15 +446,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Flaming Burst",
       "Reflex Save +4",
       "Path of the Fire Dragon"
-    ],
-    "itemKey": "item:fernian_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Studded Handwraps (level 8)",
@@ -486,12 +467,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_studded_handwraps_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Handwraps",
@@ -512,16 +492,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_handwraps",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Stonedust Handwraps",
@@ -539,6 +534,7 @@
       "Fusible"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -546,9 +542,7 @@
       "Stunning +6",
       "Stone Prison",
       "Fusible"
-    ],
-    "itemKey": "item:stonedust_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Handwraps",
@@ -569,6 +563,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -576,9 +571,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian Handwraps",
@@ -599,6 +592,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -606,9 +600,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tailara's Wraps",
@@ -631,6 +623,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -640,9 +633,7 @@
       "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 9 seconds)",
       "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.",
       "Dragon's Edge 3"
-    ],
-    "itemKey": "item:tailara's_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wraps of Endless Light (level 12)",
@@ -659,15 +650,14 @@
       "Light Bringer"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Undead Bane",
       "Brilliance",
       "Light Bringer"
-    ],
-    "itemKey": "item:wraps_of_endless_light_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Vampiric Stonedust Wraps",
@@ -688,6 +678,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -695,9 +686,7 @@
       "Stunning +7",
       "Stone Prison",
       "Vampirism 1"
-    ],
-    "itemKey": "item:vampiric_stonedust_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Vengeful Stonedust Wraps",
@@ -718,6 +707,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -725,9 +715,7 @@
       "Stunning +7",
       "Stone Prison",
       "Vengeful"
-    ],
-    "itemKey": "item:vengeful_stonedust_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Handwraps",
@@ -742,13 +730,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crippling Stonedust Wraps",
@@ -769,6 +756,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -776,9 +764,7 @@
       "Stunning +7",
       "Stone Prison",
       "Crippling"
-    ],
-    "itemKey": "item:crippling_stonedust_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Maiming Stonedust Wraps",
@@ -799,6 +785,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -806,9 +793,7 @@
       "Stunning +7",
       "Stone Prison",
       "Maiming 3"
-    ],
-    "itemKey": "item:maiming_stonedust_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Adamantine Knuckles (level 12)",
@@ -828,13 +813,12 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Adamantine Lined",
       "+3 Enhancement Bonus"
-    ],
-    "itemKey": "item:adamantine_knuckles_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Studded Handwraps (level 12)",
@@ -848,12 +832,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_studded_handwraps_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Handwraps",
@@ -868,13 +851,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Adamantine Knuckles (level 13)",
@@ -894,13 +876,12 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Adamantine Lined",
       "+4 Enhancement Bonus"
-    ],
-    "itemKey": "item:adamantine_knuckles_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scraps of Enlightenment",
@@ -921,6 +902,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -928,9 +910,7 @@
       "Solar III",
       "Impact",
       "Reinforced Fists"
-    ],
-    "itemKey": "item:scraps_of_enlightenment",
-    "setMembership": []
+    ]
   },
   {
     "name": "Handwraps of the Fallen Age",
@@ -951,6 +931,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -958,9 +939,7 @@
       "Anarchic 3",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:handwraps_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Handwraps of the Golden Age",
@@ -981,6 +960,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -988,9 +968,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:handwraps_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Adamantine Knuckles (level 14)",
@@ -1010,13 +988,12 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Adamantine Lined",
       "+4 Enhancement Bonus"
-    ],
-    "itemKey": "item:adamantine_knuckles_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Locked and Loaded",
@@ -1038,6 +1015,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -1046,9 +1024,7 @@
       "Kinetic Lore V",
       "Sonic Lore V",
       "Insightful Potency +5"
-    ],
-    "itemKey": "item:locked_and_loaded",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ivy Wraps (level 15)",
@@ -1066,6 +1042,7 @@
       "Constitution Poison, Lesser"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spiked",
@@ -1073,9 +1050,7 @@
       "Bleed",
       "Lesser Vampirism",
       "Constitution Poison, Lesser"
-    ],
-    "itemKey": "item:ivy_wraps_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dwarven Brawler's Wraps",
@@ -1096,6 +1071,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1103,9 +1079,7 @@
       "Evil Outsider Bane 4",
       "Banishing",
       "Glass Jaw Strike"
-    ],
-    "itemKey": "item:dwarven_brawler's_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Platinum Knuckles",
@@ -1128,100 +1102,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "part_of_the_family",
-        "setName": "Part of the Family",
-        "source": "named_item_sets",
-        "sourceSection": "Masterminds of Sharn sets",
-        "piecesRequired": 3,
-        "effect": "♦+10%★+15% Artifact bonus to Doublestrike",
-        "effectRaw": "♦+10%★+15% Artifact bonus to Doublestrike",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10%",
-            "effect": "Artifact bonus to Doublestrike"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Artifact bonus to Doublestrike"
-          }
-        ]
-      },
-      {
-        "setId": "part_of_the_family",
-        "setName": "Part of the Family",
-        "source": "named_item_sets",
-        "sourceSection": "Masterminds of Sharn sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+15 Artifact bonus to Melee Power",
-        "effectRaw": "♦+10★+15 Artifact bonus to Melee Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Melee Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact bonus to Melee Power"
-          }
-        ]
-      },
-      {
-        "setId": "part_of_the_family",
-        "setName": "Part of the Family",
-        "source": "named_item_sets",
-        "sourceSection": "Masterminds of Sharn sets",
-        "piecesRequired": 3,
-        "effect": "♦+5%★+15% Artifact bonus to damage vs the Helpless",
-        "effectRaw": "♦+5%★+15% Artifact bonus to damage vs the Helpless",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Artifact bonus to damage vs the Helpless"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Artifact bonus to damage vs the Helpless"
-          }
-        ]
-      },
-      {
-        "setId": "part_of_the_family",
-        "setName": "Part of the Family",
-        "source": "named_item_sets",
-        "sourceSection": "Masterminds of Sharn sets",
-        "piecesRequired": 3,
-        "effect": "♦+5%★+30% Artifact bonus to Fortification Bypass",
-        "effectRaw": "♦+5%★+30% Artifact bonus to Fortification Bypass",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Artifact bonus to Fortification Bypass"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30%",
-            "effect": "Artifact bonus to Fortification Bypass"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Transmuted Platinum",
@@ -1230,99 +1112,6 @@
       "Seeker +8",
       "Doublestrike 9%",
       "Spiked"
-    ],
-    "itemKey": "item:platinum_knuckles",
-    "setMembership": [
-      {
-        "setId": "part_of_the_family",
-        "setName": "Part of the Family",
-        "source": "named_item_sets",
-        "sourceSection": "Masterminds of Sharn sets",
-        "minLevels": [
-          15,
-          29
-        ],
-        "availablePieces": 9,
-        "bonusRaw": "3 Pieces Equipped: ♦+10%★+15% Artifact bonus to Doublestrike ♦+10★+15 Artifact bonus to Melee Power ♦+5%★+15% Artifact bonus to damage vs the Helpless ♦+5%★+30% Artifact bonus to Fortification Bypass",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10%★+15% Artifact bonus to Doublestrike",
-            "effectRaw": "♦+10%★+15% Artifact bonus to Doublestrike",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10%",
-                "effect": "Artifact bonus to Doublestrike"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Artifact bonus to Doublestrike"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+15 Artifact bonus to Melee Power",
-            "effectRaw": "♦+10★+15 Artifact bonus to Melee Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Melee Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact bonus to Melee Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+5%★+15% Artifact bonus to damage vs the Helpless",
-            "effectRaw": "♦+5%★+15% Artifact bonus to damage vs the Helpless",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Artifact bonus to damage vs the Helpless"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Artifact bonus to damage vs the Helpless"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+5%★+30% Artifact bonus to Fortification Bypass",
-            "effectRaw": "♦+5%★+30% Artifact bonus to Fortification Bypass",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Artifact bonus to Fortification Bypass"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30%",
-                "effect": "Artifact bonus to Fortification Bypass"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1344,6 +1133,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1351,9 +1141,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hunter's Wraps",
@@ -1372,14 +1160,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Piercing 3",
       "Slashing 3"
-    ],
-    "itemKey": "item:hunter's_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Unstable Handwraps",
@@ -1398,6 +1185,7 @@
       "Mind Turbulence"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1406,9 +1194,7 @@
       "Lawful Outsider Bane",
       "Chaotic Outsider Bane",
       "Mind Turbulence"
-    ],
-    "itemKey": "item:unstable_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wraps of Endless Light (level 16)",
@@ -1425,15 +1211,14 @@
       "Light Bringer"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Greater Undead Bane",
       "Brilliance",
       "Light Bringer"
-    ],
-    "itemKey": "item:wraps_of_endless_light_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ivy Wraps (level 16)",
@@ -1451,6 +1236,7 @@
       "Constitution Poison, Lesser"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spiked",
@@ -1458,9 +1244,7 @@
       "Bleed",
       "Lesser Vampirism",
       "Constitution Poison, Lesser"
-    ],
-    "itemKey": "item:ivy_wraps_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Studded Handwraps (level 16)",
@@ -1474,12 +1258,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_studded_handwraps_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bladed Handwraps",
@@ -1500,6 +1283,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1507,9 +1291,7 @@
       "Maiming 4",
       "Armor-Piercing 12%",
       "Insightful Doublestrike 4%"
-    ],
-    "itemKey": "item:bladed_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ivy Wraps (level 17)",
@@ -1527,6 +1309,7 @@
       "Constitution Poison, Greater"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spiked",
@@ -1534,9 +1317,7 @@
       "Hemorrhaging",
       "Lesser Vampirism",
       "Constitution Poison, Greater"
-    ],
-    "itemKey": "item:ivy_wraps_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder and Lightning (level 17)",
@@ -1556,15 +1337,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Shock IV",
       "Shrieking IV",
       "Impact"
-    ],
-    "itemKey": "item:thunder_and_lightning_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tatterchain",
@@ -1585,6 +1365,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1592,9 +1373,7 @@
       "Aligned",
       "Lesser Boneshatter",
       "Weaken Undead"
-    ],
-    "itemKey": "item:tatterchain",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thaarak Wraps",
@@ -1614,6 +1393,7 @@
       "Inherent Acid Resistance - 10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1623,9 +1403,7 @@
       "Thaarak Corrosion",
       "Nightmares",
       "Inherent Acid Resistance - 10"
-    ],
-    "itemKey": "item:thaarak_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder and Lightning (level 18)",
@@ -1645,15 +1423,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Shock V",
       "Shrieking IV",
       "Impact"
-    ],
-    "itemKey": "item:thunder_and_lightning_(level_18)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Handwraps",
@@ -1674,6 +1451,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1681,9 +1459,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Handwraps",
@@ -1704,6 +1480,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1711,9 +1488,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder and Lightning (level 19)",
@@ -1733,15 +1508,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Shock V",
       "Shrieking V",
       "Impact"
-    ],
-    "itemKey": "item:thunder_and_lightning_(level_19)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wraps of Endless Light (level 20)",
@@ -1759,6 +1533,7 @@
       "Radiant Blast"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1766,9 +1541,7 @@
       "Brilliance",
       "Light Bringer",
       "Radiant Blast"
-    ],
-    "itemKey": "item:wraps_of_endless_light_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Calomel Studded Handwraps",
@@ -1782,12 +1555,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_calomel_studded_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Grave Wrappings",
@@ -1806,6 +1578,7 @@
       "Taint of Evil"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1814,9 +1587,7 @@
       "Improved Destruction",
       "Stunning +10",
       "Taint of Evil"
-    ],
-    "itemKey": "item:grave_wrappings",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Handwraps",
@@ -1837,6 +1608,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1844,9 +1616,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Handwraps",
@@ -1867,6 +1637,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1874,9 +1645,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Crocodile Maw",
@@ -1897,6 +1666,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1904,9 +1674,7 @@
       "Feeding 20",
       "Lifedrinker",
       "Vampirism 2"
-    ],
-    "itemKey": "item:epic_crocodile_maw",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ivy Wraps (level 22)",
@@ -1924,6 +1692,7 @@
       "Toxic"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spiked",
@@ -1931,9 +1700,7 @@
       "Hemorrhaging",
       "Lesser Vampirism",
       "Toxic"
-    ],
-    "itemKey": "item:ivy_wraps_(level_22)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Handwraps",
@@ -1951,13 +1718,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Antipode, Fist of the Horizon",
@@ -1976,6 +1742,7 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1984,9 +1751,7 @@
       "Reinforced Fists",
       "Stunning +10",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:antipode,_fist_of_the_horizon",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ivy Wraps (level 23)",
@@ -2004,6 +1769,7 @@
       "Toxic"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spiked",
@@ -2011,9 +1777,7 @@
       "Hemorrhaging",
       "Vampirism",
       "Toxic"
-    ],
-    "itemKey": "item:ivy_wraps_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Adamantine Knuckles (level 23)",
@@ -2035,13 +1799,12 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Adamantine Lined",
       "+6 Enhancement Bonus"
-    ],
-    "itemKey": "item:adamantine_knuckles_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Eternal Rest",
@@ -2062,6 +1825,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2069,9 +1833,7 @@
       "Unnatural Bane 5",
       "Ghostbane 5",
       "Silver Threaded"
-    ],
-    "itemKey": "item:epic_eternal_rest",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wraps of Endless Light (level 24)",
@@ -2089,6 +1851,7 @@
       "Greater Sunburst"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -2096,9 +1859,7 @@
       "Coruscating",
       "Light Bringer",
       "Greater Sunburst"
-    ],
-    "itemKey": "item:wraps_of_endless_light_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ivy Wraps (level 24)",
@@ -2116,6 +1877,7 @@
       "Toxic"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spiked",
@@ -2123,9 +1885,7 @@
       "Phlebotomizing",
       "Vampirism",
       "Toxic"
-    ],
-    "itemKey": "item:ivy_wraps_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Adamantine Knuckles (level 24)",
@@ -2147,13 +1907,12 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Adamantine Lined",
       "+7 Enhancement Bonus"
-    ],
-    "itemKey": "item:adamantine_knuckles_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Adamantine Knuckles (level 25)",
@@ -2175,13 +1934,12 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Adamantine Lined",
       "+7 Enhancement Bonus"
-    ],
-    "itemKey": "item:adamantine_knuckles_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Devotion",
@@ -2203,6 +1961,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +25",
@@ -2211,9 +1970,7 @@
       "Healing Lore +19%",
       "Devotion +128",
       "Competence Healing Amplification +46"
-    ],
-    "itemKey": "item:epic_devotion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder and Lightning (level 26)",
@@ -2233,15 +1990,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Shock VII",
       "Shrieking VII",
       "Impact"
-    ],
-    "itemKey": "item:thunder_and_lightning_(level_26)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Handwraps",
@@ -2256,14 +2012,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Storm's Harness",
@@ -2288,6 +2043,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+14 Enhancement Bonus",
@@ -2297,9 +2053,7 @@
       "Shocking Burst",
       "Shocking Blast",
       "Greater Reinforced Fists"
-    ],
-    "itemKey": "item:storm's_harness",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder and Lightning (level 27)",
@@ -2319,15 +2073,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Shock VIII",
       "Shrieking VII",
       "Impact"
-    ],
-    "itemKey": "item:thunder_and_lightning_(level_27)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wraps of Endless Light (level 28)",
@@ -2345,6 +2098,7 @@
       "Greater Sunburst"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -2352,9 +2106,7 @@
       "Coruscating",
       "Light Bringer",
       "Greater Sunburst"
-    ],
-    "itemKey": "item:wraps_of_endless_light_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder and Lightning (level 28)",
@@ -2374,15 +2126,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Shock VIII",
       "Shrieking VIII",
       "Impact"
-    ],
-    "itemKey": "item:thunder_and_lightning_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Scraps of Enlightenment",
@@ -2403,6 +2154,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -2410,9 +2162,7 @@
       "Solar VI",
       "Impact",
       "Greater Reinforced Fists"
-    ],
-    "itemKey": "item:epic_scraps_of_enlightenment",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Locked and Loaded",
@@ -2434,6 +2184,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +36",
@@ -2442,9 +2193,7 @@
       "Kinetic Lore VIII",
       "Sonic Lore VIII",
       "Insightful Potency +10"
-    ],
-    "itemKey": "item:epic_locked_and_loaded",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Dwarven Brawler's Wraps",
@@ -2465,6 +2214,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+13 Enhancement Bonus",
@@ -2472,9 +2222,7 @@
       "Evil Outsider Bane 6",
       "Sovereign Banishing",
       "Glass Jaw Strike"
-    ],
-    "itemKey": "item:legendary_dwarven_brawler's_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Duality, The Moral Compass",
@@ -2501,6 +2249,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2512,9 +2261,7 @@
       "Enhanced Ki +3 if character has 20 Monk levels",
       "Impact",
       "Vampirism 3"
-    ],
-    "itemKey": "item:duality,_the_moral_compass",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fetters of the Forgewraith",
@@ -2534,13 +2281,12 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon"
-    ],
-    "itemKey": "item:fetters_of_the_forgewraith",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Platinum Knuckles",
@@ -2563,6 +2309,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2572,9 +2319,7 @@
       "Seeker +13",
       "Doublestrike 15%",
       "Spiked"
-    ],
-    "itemKey": "item:legendary_platinum_knuckles",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Tatterchain",
@@ -2595,6 +2340,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2602,9 +2348,7 @@
       "Aligned",
       "Bonesplitter",
       "Weaken Undead"
-    ],
-    "itemKey": "item:legendary_tatterchain",
-    "setMembership": []
+    ]
   },
   {
     "name": "Handwraps of the Hound",
@@ -2627,46 +2371,15 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
-      "Legendary Acid Torrent",
-      {
-        "setId": "one_with_the_swarm",
-        "setName": "One with the Swarm",
-        "source": "named_item_sets",
-        "sourceSection": "Legendary Vision of Destruction sets",
-        "piecesRequired": 2,
-        "effect": "You are protected by a swarm of hostile bees that lash out when you are struck in melee range. On vorpal melee strikes, they will also swarm your enemies, dealing Piercing damage over time. (The piercing damage is a non-scaling 1d4 that lasts 6 seconds and ticks every 2 seconds while being able to stack up to 20 times.)",
-        "effectRaw": "You are protected by a swarm of hostile bees that lash out when you are struck in melee range. On vorpal melee strikes, they will also swarm your enemies, dealing Piercing damage over time. (The piercing damage is a non-scaling 1d4 that lasts 6 seconds and ticks every 2 seconds while being able to stack up to 20 times.)",
-        "tieredEffects": []
-      }
+      "Legendary Acid Torrent"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Sovereign Nightmares",
       "Acid Vulnerability",
       "Acid Blast 6"
-    ],
-    "itemKey": "item:handwraps_of_the_hound",
-    "setMembership": [
-      {
-        "setId": "one_with_the_swarm",
-        "setName": "One with the Swarm",
-        "source": "named_item_sets",
-        "sourceSection": "Legendary Vision of Destruction sets",
-        "minLevels": [
-          29
-        ],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: You are protected by a swarm of hostile bees that lash out when you are struck in melee range. On vorpal melee strikes, they will also swarm your enemies, dealing Piercing damage over time. (The piercing damage is a non-scaling 1d4 that lasts 6 seconds and ticks every 2 seconds while being able to stack up to 20 times.)",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "You are protected by a swarm of hostile bees that lash out when you are struck in melee range. On vorpal melee strikes, they will also swarm your enemies, dealing Piercing damage over time. (The piercing damage is a non-scaling 1d4 that lasts 6 seconds and ticks every 2 seconds while being able to stack up to 20 times.)",
-            "effectRaw": "You are protected by a swarm of hostile bees that lash out when you are struck in melee range. On vorpal melee strikes, they will also swarm your enemies, dealing Piercing damage over time. (The piercing damage is a non-scaling 1d4 that lasts 6 seconds and ticks every 2 seconds while being able to stack up to 20 times.)",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -2688,6 +2401,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2695,9 +2409,7 @@
       "Fiery 6",
       "Coruscating 6",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:morninglord's_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Handwraps",
@@ -2718,6 +2430,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2725,9 +2438,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Handwraps",
@@ -2748,6 +2459,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2755,9 +2467,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Handwraps",
@@ -2778,6 +2488,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2785,9 +2496,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Handwraps",
@@ -2808,6 +2517,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2815,9 +2525,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Crocodile Maw",
@@ -2838,6 +2546,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2845,9 +2554,7 @@
       "Feeding 30",
       "Lifedrinker",
       "Vampirism 3"
-    ],
-    "itemKey": "item:legendary_crocodile_maw",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Bladed Handwraps",
@@ -2870,6 +2577,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2877,9 +2585,7 @@
       "Maiming 6",
       "Armor-Piercing 21%",
       "Insightful Doublestrike 7%"
-    ],
-    "itemKey": "item:legendary_bladed_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Handwraps",
@@ -2902,16 +2608,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_handwraps",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Handwraps",
@@ -2934,16 +2660,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_handwraps",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Stonedust Handwraps",
@@ -2965,6 +2711,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Stone Prison"
     ],
@@ -2972,9 +2719,7 @@
       "+15 Enhancement Bonus",
       "Path of the Guarding Stone",
       "Stunning +15"
-    ],
-    "itemKey": "item:legendary_stonedust_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Vampiric Stonedust Wraps",
@@ -2997,6 +2742,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Stone Prison"
     ],
@@ -3005,9 +2751,7 @@
       "Path of the Guarding Stone",
       "Stunning +15",
       "Vampirism 3"
-    ],
-    "itemKey": "item:legendary_vampiric_stonedust_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Crippling Stonedust Wraps",
@@ -3030,6 +2774,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Stone Prison"
     ],
@@ -3038,9 +2783,7 @@
       "Path of the Guarding Stone",
       "Stunning +15",
       "Crippling"
-    ],
-    "itemKey": "item:legendary_crippling_stonedust_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Maiming Stonedust Wraps",
@@ -3063,6 +2806,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Stone Prison"
     ],
@@ -3071,9 +2815,7 @@
       "Path of the Guarding Stone",
       "Stunning +15",
       "Maiming 6"
-    ],
-    "itemKey": "item:legendary_maiming_stonedust_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Vengeful Stonedust Wraps",
@@ -3096,6 +2838,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Stone Prison"
     ],
@@ -3104,9 +2847,7 @@
       "Path of the Guarding Stone",
       "Stunning +15",
       "Vengeful"
-    ],
-    "itemKey": "item:legendary_vengeful_stonedust_wraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wraps of Endless Light (level 32)",
@@ -3124,6 +2865,7 @@
       "Greater Sunburst"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3131,9 +2873,7 @@
       "Coruscating",
       "Light Bringer",
       "Greater Sunburst"
-    ],
-    "itemKey": "item:wraps_of_endless_light_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Handwraps",
@@ -3156,6 +2896,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3163,9 +2904,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Claws of the Balor",
@@ -3189,146 +2928,9 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
-      "Legendary Electric Storm",
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Attack and Damage"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane Bonus to Attack and Damage"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Universal Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane Bonus to Universal Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to Spell DCs"
-          }
-        ]
-      }
+      "Legendary Electric Storm"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3336,137 +2938,6 @@
       "3rd Degree Burns",
       "Cursed Maelstrom",
       "Planar Searing"
-    ],
-    "itemKey": "item:the_claws_of_the_balor",
-    "setMembership": [
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 61,
-        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Attack and Damage"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane Bonus to Attack and Damage"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Universal Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane Bonus to Universal Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to Spell DCs"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -3491,6 +2962,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -3500,9 +2972,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_handwraps",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Handwraps of the Fallen Age",
@@ -3525,6 +2995,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3532,9 +3003,7 @@
       "Anarchic 7",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:legendary_handwraps_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Handwraps of the Golden Age",
@@ -3557,6 +3026,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3564,9 +3034,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_handwraps_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Handwraps of the Undying Age",
@@ -3589,6 +3057,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3596,9 +3065,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:handwraps_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Collision, the Unstoppable Arcana",
@@ -3623,6 +3090,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -3632,9 +3100,7 @@
       "Quality Spell Focus Mastery +2",
       "Sealed in Mist",
       "Exceptional Spell Focus Mastery +2"
-    ],
-    "itemKey": "item:collision,_the_unstoppable_arcana",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kinesis, the Hidden Force",
@@ -3657,6 +3123,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3664,9 +3131,7 @@
       "Blunt Trauma",
       "Guardbreaking",
       "Sealed in Mist"
-    ],
-    "itemKey": "item:kinesis,_the_hidden_force",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Handwraps",
@@ -3689,16 +3154,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_handwraps",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Handwraps",
@@ -3721,16 +3206,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_handwraps",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Tailara's Wraps",
@@ -3753,6 +3258,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Freezing Ice"
     ],
@@ -3761,8 +3267,6 @@
       "Chilling 7",
       "Freezing 16",
       "Dragon's Edge 7"
-    ],
-    "itemKey": "item:legendary_tailara's_wraps",
-    "setMembership": []
+    ]
   }
 ]

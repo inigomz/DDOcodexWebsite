@@ -13,14 +13,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Masterwork",
       "Fire Touch",
       "Starter"
-    ],
-    "itemKey": "item:ember_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Gnashtooth Sickle",
@@ -38,13 +37,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Stench"
-    ],
-    "itemKey": "item:gnashtooth_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Sickle",
@@ -62,13 +60,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Sickle",
@@ -86,13 +83,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sickle of Vile Attunement",
@@ -112,15 +108,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +3",
       "+3 Enhancement Bonus",
       "Void Lore +7%",
       "Nullification +47"
-    ],
-    "itemKey": "item:sickle_of_vile_attunement",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kookie Kutter (level 5)",
@@ -141,6 +136,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -148,9 +144,7 @@
       "Gashing 5",
       "Slashing 2",
       "Armor-Piercing 6%"
-    ],
-    "itemKey": "item:kookie_kutter_(level_5)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Sickle",
@@ -171,6 +165,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -178,9 +173,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Sickle",
@@ -201,6 +194,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -208,9 +202,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sickle of Sypheros",
@@ -228,13 +220,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Frost"
-    ],
-    "itemKey": "item:sickle_of_sypheros",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Vorpal Sickle of Haggling",
@@ -250,14 +241,13 @@
       "Vorpal"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Haggle +3",
       "Vorpal"
-    ],
-    "itemKey": "item:+1_vorpal_sickle_of_haggling",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Hedge Trimmer",
@@ -279,6 +269,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -287,9 +278,7 @@
       "Bleeding 2",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:the_hedge_trimmer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Sickle",
@@ -310,16 +299,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_sickle",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Shining Crescents",
@@ -336,15 +340,14 @@
       "Adamantine"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Vertigo +6",
       "Tendon Slice 6%",
       "Adamantine"
-    ],
-    "itemKey": "item:shining_crescents",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tharkuul's Bane",
@@ -361,12 +364,11 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus"
-    ],
-    "itemKey": "item:tharkuul's_bane",
-    "setMembership": []
+    ]
   },
   {
     "name": "Widowblight",
@@ -385,14 +387,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Paralyzing",
       "Bewildering"
-    ],
-    "itemKey": "item:widowblight",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kookie Kutter (level 10)",
@@ -413,6 +414,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -420,9 +422,7 @@
       "Gashing 7",
       "Slashing 3",
       "Armor-Piercing 9%"
-    ],
-    "itemKey": "item:kookie_kutter_(level_10)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Sickle",
@@ -443,6 +443,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -450,9 +451,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Sickle",
@@ -473,6 +472,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -480,9 +480,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Sickle",
@@ -497,13 +495,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Sickle",
@@ -518,13 +515,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sickle of the Fallen Age",
@@ -545,6 +541,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -552,9 +549,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:sickle_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sickle of the Golden Age",
@@ -575,6 +570,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -582,9 +578,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:sickle_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wild Flame",
@@ -606,54 +600,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "seasons_of_change",
-        "setName": "Seasons of Change",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 2,
-        "effect": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
-        "effectRaw": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Fire and Cold Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Fire and Cold Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "seasons_of_change",
-        "setName": "Seasons of Change",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 2,
-        "effect": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
-        "effectRaw": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Evocation Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Evocation Spell DCs"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +14",
       "+5 Enhancement Bonus",
@@ -661,61 +609,6 @@
       "Insightful Combustion +45",
       "Fire Lore +13%",
       "Evocation Focus +3"
-    ],
-    "itemKey": "item:wild_flame",
-    "setMembership": [
-      {
-        "setId": "seasons_of_change",
-        "setName": "Seasons of Change",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "minLevels": [
-          14,
-          29
-        ],
-        "availablePieces": 3,
-        "bonusRaw": "2 Pieces Equipped: ♦+10★+30 Artifact Bonus to Fire and Cold Spell Power ♦+1★+3 Artifact Bonus to Evocation Spell DCs",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
-            "effectRaw": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Fire and Cold Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Fire and Cold Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
-            "effectRaw": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Evocation Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Evocation Spell DCs"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -738,54 +631,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "seasons_of_change",
-        "setName": "Seasons of Change",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 2,
-        "effect": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
-        "effectRaw": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Fire and Cold Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Fire and Cold Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "seasons_of_change",
-        "setName": "Seasons of Change",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 2,
-        "effect": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
-        "effectRaw": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Evocation Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Evocation Spell DCs"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +14",
       "+5 Enhancement Bonus",
@@ -793,61 +640,6 @@
       "Insightful Glaciation +45",
       "Ice Lore +13%",
       "Conjuration Focus +3"
-    ],
-    "itemKey": "item:wild_frost",
-    "setMembership": [
-      {
-        "setId": "seasons_of_change",
-        "setName": "Seasons of Change",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "minLevels": [
-          14,
-          29
-        ],
-        "availablePieces": 3,
-        "bonusRaw": "2 Pieces Equipped: ♦+10★+30 Artifact Bonus to Fire and Cold Spell Power ♦+1★+3 Artifact Bonus to Evocation Spell DCs",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
-            "effectRaw": "♦+10★+30 Artifact Bonus to Fire and Cold Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Fire and Cold Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Fire and Cold Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
-            "effectRaw": "♦+1★+3 Artifact Bonus to Evocation Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Evocation Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Evocation Spell DCs"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -866,6 +658,7 @@
       "Magnetism +78"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -873,9 +666,7 @@
       "Shock",
       "Lightning Strike",
       "Magnetism +78"
-    ],
-    "itemKey": "item:thunderstorm_crescent_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kookie Kutter (level 15)",
@@ -896,6 +687,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -903,9 +695,7 @@
       "Gashing 9",
       "Slashing 4",
       "Armor-Piercing 12%"
-    ],
-    "itemKey": "item:kookie_kutter_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flicker of the Crescent Moon",
@@ -926,6 +716,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -933,9 +724,7 @@
       "Bleeding 4",
       "Keen",
       "Insightful Deception +3"
-    ],
-    "itemKey": "item:flicker_of_the_crescent_moon",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Sickle",
@@ -956,6 +745,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -963,9 +753,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mystic Force",
@@ -982,15 +770,14 @@
       "Insightful Enchantment Focus +2"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
       "+3 Enhancement Bonus",
       "Impulse +81",
       "Insightful Enchantment Focus +2"
-    ],
-    "itemKey": "item:mystic_force",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dark Powers' Demands",
@@ -1006,14 +793,13 @@
       "Insightful Evocation Focus +2"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Kinetic Lore +12%",
       "Insightful Evocation Focus +2"
-    ],
-    "itemKey": "item:dark_powers'_demands",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunderstorm Crescent (level 16)",
@@ -1031,6 +817,7 @@
       "Magnetism +78"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -1038,9 +825,7 @@
       "Shocking Burst",
       "Lightning Strike",
       "Magnetism +78"
-    ],
-    "itemKey": "item:thunderstorm_crescent_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shadow's Curve",
@@ -1061,6 +846,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1068,9 +854,7 @@
       "Negative Blast 4",
       "Human Bane 4",
       "Doublestrike 9%"
-    ],
-    "itemKey": "item:shadow's_curve",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunderstorm Crescent (level 17)",
@@ -1088,6 +872,7 @@
       "Magnetism +84"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -1095,9 +880,7 @@
       "Voltaic",
       "Lightning Strike",
       "Magnetism +84"
-    ],
-    "itemKey": "item:thunderstorm_crescent_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Hook",
@@ -1118,6 +901,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1125,9 +909,7 @@
       "Limb Chopper",
       "Bleeding 4",
       "Weaken Undead"
-    ],
-    "itemKey": "item:the_hook",
-    "setMembership": []
+    ]
   },
   {
     "name": "Death's Touch",
@@ -1148,6 +930,7 @@
       "Suppressed Power"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -1158,9 +941,7 @@
       "Void Lore IV",
       "Taint of Evil",
       "Suppressed Power"
-    ],
-    "itemKey": "item:death's_touch",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Sickle",
@@ -1181,6 +962,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1188,9 +970,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Sickle",
@@ -1211,6 +991,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1218,9 +999,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kookie Kutter (level 20)",
@@ -1241,6 +1020,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1248,9 +1028,7 @@
       "Gashing 10",
       "Slashing 4",
       "Armor-Piercing 15%"
-    ],
-    "itemKey": "item:kookie_kutter_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Sickle",
@@ -1271,6 +1049,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1278,9 +1057,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Sickle",
@@ -1301,6 +1078,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1308,9 +1086,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Icerazor",
@@ -1332,6 +1108,7 @@
       "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -1343,9 +1120,7 @@
       "Freezing Ice",
       "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 9 seconds)",
       "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice."
-    ],
-    "itemKey": "item:icerazor",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunderstorm Crescent (level 22)",
@@ -1363,6 +1138,7 @@
       "Magnetism +102"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -1370,9 +1146,7 @@
       "Voltaic",
       "Lightning Strike",
       "Magnetism +102"
-    ],
-    "itemKey": "item:thunderstorm_crescent_(level_22)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Sickle",
@@ -1390,13 +1164,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunderstorm Crescent (level 23)",
@@ -1414,6 +1187,7 @@
       "Magnetism +108"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -1421,9 +1195,7 @@
       "Electrifying",
       "Lightning Strike",
       "Magnetism +108"
-    ],
-    "itemKey": "item:thunderstorm_crescent_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Devourer's Reaping",
@@ -1445,15 +1217,14 @@
       "Red",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Greater Vorpal",
       "Doublestrike 14%",
       "Hemorrhaging"
-    ],
-    "itemKey": "item:devourer's_reaping",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunderstorm Crescent (level 24)",
@@ -1471,6 +1242,7 @@
       "Magnetism +114"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +21",
@@ -1478,9 +1250,7 @@
       "Electrifying",
       "Lightning Strike",
       "Magnetism +114"
-    ],
-    "itemKey": "item:thunderstorm_crescent_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kookie Kutter (level 25)",
@@ -1501,6 +1271,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1508,9 +1279,7 @@
       "Gashing 12",
       "Slashing 5",
       "Armor-Piercing 18%"
-    ],
-    "itemKey": "item:kookie_kutter_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Sickle",
@@ -1525,14 +1294,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Null, the Darkness Without",
@@ -1560,6 +1328,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Nullification +145",
@@ -1572,9 +1341,7 @@
       "Efficient Metamagic - Empower Healing II",
       "Spellcasting Implement +28",
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:null,_the_darkness_without",
-    "setMembership": []
+    ]
   },
   {
     "name": "Brilliant Crescent",
@@ -1597,46 +1364,14 @@
       "Red",
       "Orange"
     ],
-    "setBonuses": [
-      {
-        "setId": "brilliant_crescents",
-        "setName": "Brilliant Crescents",
-        "source": "named_item_sets",
-        "sourceSection": "Killing Time sets",
-        "piecesRequired": 2,
-        "effect": "+20% Offhand Strike Chance",
-        "effectRaw": "+20% Offhand Strike Chance",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Axiomatic 6",
       "Keen",
       "Limb Chopper",
       "Adamantine"
-    ],
-    "itemKey": "item:brilliant_crescent",
-    "setMembership": [
-      {
-        "setId": "brilliant_crescents",
-        "setName": "Brilliant Crescents",
-        "source": "named_item_sets",
-        "sourceSection": "Killing Time sets",
-        "minLevels": [
-          28
-        ],
-        "availablePieces": 1,
-        "bonusRaw": "2 Pieces Equipped: +20% Offhand Strike Chance",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "+20% Offhand Strike Chance",
-            "effectRaw": "+20% Offhand Strike Chance",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -1659,6 +1394,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -1667,9 +1403,7 @@
       "Insightful Combustion +71",
       "Fire Lore +21%",
       "Evocation Focus +5"
-    ],
-    "itemKey": "item:legendary_wild_flame",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Wild Frost",
@@ -1691,6 +1425,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -1699,9 +1434,7 @@
       "Insightful Glaciation +71",
       "Ice Lore +21%",
       "Conjuration Focus +5"
-    ],
-    "itemKey": "item:legendary_wild_frost",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flicker of the Crescent Moon",
@@ -1722,6 +1455,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1729,9 +1463,7 @@
       "Bleeding 6",
       "Keen",
       "Insightful Deception +5"
-    ],
-    "itemKey": "item:legendary_flicker_of_the_crescent_moon",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Legendary Hook",
@@ -1752,6 +1484,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1759,9 +1492,7 @@
       "Bleeding 6",
       "Limb Chopper",
       "Weaken Undead"
-    ],
-    "itemKey": "item:the_legendary_hook",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Sickle of Vile Attunement",
@@ -1783,6 +1514,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -1791,9 +1523,7 @@
       "Nullification +142",
       "Conjuration Focus +5",
       "Transmutation Focus +5"
-    ],
-    "itemKey": "item:legendary_sickle_of_vile_attunement",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Sickle",
@@ -1814,6 +1544,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1821,9 +1552,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Sickle",
@@ -1844,6 +1573,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1851,9 +1581,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Sickle",
@@ -1874,6 +1602,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1881,9 +1610,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Sickle",
@@ -1904,6 +1631,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1911,9 +1639,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shadowscythe",
@@ -1938,6 +1664,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -1947,9 +1674,7 @@
       "Sovereign Nightmares",
       "Insightful Impulse +74",
       "Quality Impulse +36"
-    ],
-    "itemKey": "item:shadowscythe",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Legendary Hedge Trimmer",
@@ -1971,6 +1696,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1979,9 +1705,7 @@
       "Bleeding 6",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:the_legendary_hedge_trimmer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Sickle",
@@ -1999,14 +1723,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Sickle",
@@ -2027,6 +1750,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2034,9 +1758,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kookie Kutter (level 30)",
@@ -2057,6 +1779,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+14 Enhancement Bonus",
@@ -2064,9 +1787,7 @@
       "Gashing 14",
       "Slashing 6",
       "Armor-Piercing 21%"
-    ],
-    "itemKey": "item:kookie_kutter_(level_30)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shadow's Curve",
@@ -2089,6 +1810,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2096,9 +1818,7 @@
       "Negative Blast 6",
       "Human Bane 6",
       "Doublestrike 15%"
-    ],
-    "itemKey": "item:legendary_shadow's_curve",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Sickle",
@@ -2121,16 +1841,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_sickle",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Sickle",
@@ -2153,16 +1893,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_sickle",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Sickle",
@@ -2185,6 +1945,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2192,9 +1953,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Sickle",
@@ -2218,6 +1977,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -2227,9 +1987,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_sickle",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Sickle of the Fallen Age",
@@ -2252,6 +2010,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2259,9 +2018,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_sickle_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Sickle of the Golden Age",
@@ -2284,6 +2041,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2291,9 +2049,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_sickle_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sickle of the Undying Age",
@@ -2316,6 +2072,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2323,9 +2080,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:sickle_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wither, the Venomous Voice",
@@ -2349,6 +2104,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -2357,9 +2113,7 @@
       "Void Lore +24%",
       "Quality Spell Focus Mastery +2",
       "Sealed in Mist"
-    ],
-    "itemKey": "item:wither,_the_venomous_voice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Waste, the Weak's End",
@@ -2382,6 +2136,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Paralysis"
     ],
@@ -2390,9 +2145,7 @@
       "Grip of Venom",
       "Venomscale",
       "Sealed in Mist"
-    ],
-    "itemKey": "item:waste,_the_weak's_end",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Sickle",
@@ -2415,16 +2168,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_sickle",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "The Reaper of Lives",
@@ -2449,18 +2222,38 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Murderous Edge",
-      "Revel in Blood (Slashing)",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:the_reaper_of_lives",
-    "setMembership": []
+      "Revel in Blood (Slashing)"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Sickle",
@@ -2483,15 +2276,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_sickle",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

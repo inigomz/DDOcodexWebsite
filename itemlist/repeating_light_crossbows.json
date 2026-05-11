@@ -13,14 +13,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Masterwork",
       "Fire Touch",
       "Starter"
-    ],
-    "itemKey": "item:ember_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nicked Repeating Light Crossbow",
@@ -37,15 +36,14 @@
       "Deadly +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Chilling 2",
       "Doubleshot 2%",
       "Deadly +3"
-    ],
-    "itemKey": "item:nicked_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Repeating Light Crossbow",
@@ -63,13 +61,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Repeating Light Crossbow",
@@ -87,13 +84,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hellfire Crossbow",
@@ -114,6 +110,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -121,9 +118,7 @@
       "Incineration",
       "Feat: Precise Shot",
       "Scorching Ray — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:hellfire_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Banded Light Repeater (level 4)",
@@ -139,14 +134,13 @@
       "Tidal"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Dragon Bane 2",
       "Tidal"
-    ],
-    "itemKey": "item:calomel_banded_light_repeater_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Repeating Light Crossbow",
@@ -167,6 +161,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -174,9 +169,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Repeating Light Crossbow",
@@ -197,6 +190,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -204,9 +198,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Banded Light Repeater (level 8)",
@@ -220,12 +212,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_banded_light_repeater_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Repeating Light Crossbow",
@@ -246,16 +237,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_repeating_light_crossbow",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Barovian's Repeating Light Crossbow",
@@ -276,6 +282,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -283,9 +290,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Repeating Light Crossbow",
@@ -306,6 +311,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -313,9 +319,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Repeating Light Crossbow",
@@ -330,13 +334,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Repeating Light Crossbow",
@@ -351,13 +354,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Repeating Light Crossbow of the Fallen Age",
@@ -378,6 +380,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -385,9 +388,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:repeating_light_crossbow_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Repeating Light Crossbow of the Golden Age",
@@ -408,6 +409,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -415,9 +417,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:repeating_light_crossbow_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Stormreach Guardian's Crossbow",
@@ -438,131 +438,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "renegade_champion",
-        "setName": "Renegade Champion",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 3,
-        "effect": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
-        "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
-        "tieredEffects": []
-      },
-      {
-        "setId": "renegade_champion",
-        "setName": "Renegade Champion",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 3,
-        "effect": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
-        "effectRaw": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2",
-            "effect": "Artifact Bonus to Rune Arm DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Rune Arm DCs"
-          }
-        ]
-      },
-      {
-        "setId": "renegade_champion",
-        "setName": "Renegade Champion",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+30 Artifact Bonus to Repair Amplification",
-        "effectRaw": "♦+10★+30 Artifact Bonus to Repair Amplification",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Repair Amplification"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Repair Amplification"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Armor-Piercing 11%",
       "Keen",
       "Impactful 3",
       "Crushing 8"
-    ],
-    "itemKey": "item:stormreach_guardian's_crossbow",
-    "setMembership": [
-      {
-        "setId": "renegade_champion",
-        "setName": "Renegade Champion",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "minLevels": [
-          14,
-          29
-        ],
-        "availablePieces": 5,
-        "bonusRaw": "3 Pieces Equipped: +1 Artifact Bonus to Critical Multiplier on a 19-20 ♦+2★+3 Artifact Bonus to Rune Arm DCs ♦+10★+30 Artifact Bonus to Repair Amplification",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
-            "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
-            "effectRaw": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2",
-                "effect": "Artifact Bonus to Rune Arm DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Rune Arm DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+30 Artifact Bonus to Repair Amplification",
-            "effectRaw": "♦+10★+30 Artifact Bonus to Repair Amplification",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Repair Amplification"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Repair Amplification"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -584,6 +467,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -591,9 +475,7 @@
       "Jolting 9",
       "Electrifying 4",
       "Insightful Distant Diversion +5%"
-    ],
-    "itemKey": "item:light_boltslinger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Repeating Light Crossbow",
@@ -614,6 +496,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -621,9 +504,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Doublecross Bow",
@@ -641,6 +522,7 @@
       "Nightshade Venom"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -648,9 +530,7 @@
       "Crippling",
       "Armor-Piercing 12%",
       "Nightshade Venom"
-    ],
-    "itemKey": "item:doublecross_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Repeating Light Crossbow",
@@ -671,6 +551,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -678,9 +559,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Repeating Light Crossbow",
@@ -701,6 +580,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -708,9 +588,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Doublecross Bow",
@@ -731,6 +609,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -738,9 +617,7 @@
       "Crippling",
       "Armor-Piercing 15%",
       "Nightshade Venom"
-    ],
-    "itemKey": "item:epic_doublecross_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Repeating Light Crossbow",
@@ -761,6 +638,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -768,9 +646,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Repeating Light Crossbow",
@@ -791,6 +667,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -798,9 +675,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Slaver's Hand Crossbow",
@@ -819,6 +694,7 @@
       "Insightful Sneak Attack Bonus +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -827,9 +703,7 @@
       "Bleed",
       "Constitution Poison, Virulent",
       "Insightful Sneak Attack Bonus +3"
-    ],
-    "itemKey": "item:slaver's_hand_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Repeating Light Crossbow",
@@ -847,13 +721,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Needle, Quill-slinger",
@@ -871,6 +744,7 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -878,9 +752,7 @@
       "Hemorrhaging",
       "Attack Bonus +4",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:needle,_quill-slinger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Repeating Light Crossbow",
@@ -895,14 +767,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Light Boltslinger",
@@ -923,6 +794,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+13 Enhancement Bonus",
@@ -930,9 +802,7 @@
       "Jolting 14",
       "Electrifying 6",
       "Insightful Distant Diversion +9%"
-    ],
-    "itemKey": "item:legendary_light_boltslinger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Stormreach Guardian's Crossbow",
@@ -953,6 +823,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -960,9 +831,7 @@
       "Keen",
       "Impactful 6",
       "Crushing 14"
-    ],
-    "itemKey": "item:legendary_stormreach_guardian's_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Repeating Light Crossbow",
@@ -983,6 +852,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -990,9 +860,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Repeating Light Crossbow",
@@ -1013,6 +881,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1020,9 +889,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Repeating Light Crossbow",
@@ -1043,6 +910,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1050,9 +918,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Repeating Light Crossbow",
@@ -1073,6 +939,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1080,9 +947,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Repeating Light Crossbow",
@@ -1103,6 +968,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1110,9 +976,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Doublecross Bow",
@@ -1133,6 +997,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1140,9 +1005,7 @@
       "Crippling",
       "Armor-Piercing 21%",
       "Twining Hemlock"
-    ],
-    "itemKey": "item:legendary_doublecross_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Repeating Light Crossbow",
@@ -1165,16 +1028,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_repeating_light_crossbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Repeating Light Crossbow",
@@ -1197,16 +1080,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_repeating_light_crossbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Repeating Light Crossbow",
@@ -1229,6 +1132,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1236,9 +1140,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Repeating Light Crossbow",
@@ -1262,6 +1164,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1271,9 +1174,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_repeating_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Repeating Light Crossbow of the Fallen Age",
@@ -1296,6 +1197,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1303,9 +1205,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_repeating_light_crossbow_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Repeating Light Crossbow of the Golden Age",
@@ -1328,6 +1228,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1335,9 +1236,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_repeating_light_crossbow_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Repeating Light Crossbow of the Undying Age",
@@ -1360,6 +1259,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1367,9 +1267,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:repeating_light_crossbow_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Repeating Light Crossbow",
@@ -1392,16 +1290,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_repeating_light_crossbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Repeating Light Crossbow",
@@ -1424,15 +1342,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_repeating_light_crossbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

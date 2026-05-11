@@ -1,0 +1,6099 @@
+[
+  {
+    "name": "Miasma's Fang",
+    "link": "https://ddowiki.com/page/Item:Miasma%27s_Fang",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Fortitude Save +1",
+      "Deception",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Fortitude Save +1",
+      "Deception"
+    ],
+    "itemKey": "item:miasma's_fang",
+    "setMembership": []
+  },
+  {
+    "name": "Dagger of Inquisition",
+    "link": "https://ddowiki.com/page/Item:Dagger_of_Inquisition",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 1",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 1",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:dagger_of_inquisition",
+    "setMembership": []
+  },
+  {
+    "name": "Bloodletter's Knife",
+    "link": "https://ddowiki.com/page/Item:Bloodletter%27s_Knife",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Slicing",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Slicing"
+    ],
+    "itemKey": "item:bloodletter's_knife",
+    "setMembership": []
+  },
+  {
+    "name": "Rhakmel's Dagger",
+    "link": "https://ddowiki.com/page/Item:Rhakmel%27s_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus"
+    ],
+    "itemKey": "item:rhakmel's_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Mutiny's Tooth",
+    "link": "https://ddowiki.com/page/Item:Mutiny%27s_Tooth",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Acid Touch",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Acid Touch"
+    ],
+    "itemKey": "item:mutiny's_tooth",
+    "setMembership": []
+  },
+  {
+    "name": "+1 Intimidating Dagger of Acid",
+    "link": "https://ddowiki.com/page/Item:%2B1_Intimidating_Dagger_of_Acid",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Intimidate +3",
+      "Acid"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Intimidate +3",
+      "Acid"
+    ],
+    "itemKey": "item:+1_intimidating_dagger_of_acid",
+    "setMembership": []
+  },
+  {
+    "name": "+1 Starter Dagger",
+    "link": "https://ddowiki.com/page/Item:%2B1_Starter_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Starter"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Starter"
+    ],
+    "itemKey": "item:+1_starter_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Sworn Silver Dagger",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Ethereal Dagger",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Dagger of the Liturgist",
+    "link": "https://ddowiki.com/page/Item:Dagger_of_the_Liturgist",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 3,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Vengeful",
+      "Manslayer",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Vengeful",
+      "Manslayer"
+    ],
+    "itemKey": "item:dagger_of_the_liturgist",
+    "setMembership": []
+  },
+  {
+    "name": "Goldcursed Dagger",
+    "link": "https://ddowiki.com/page/Item:Goldcursed_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 3,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Goldcurse",
+      "Entropic 2",
+      "Wounding 1",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Goldcurse",
+      "Entropic 2",
+      "Wounding 1"
+    ],
+    "itemKey": "item:goldcursed_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Sky Pirate's Dagger",
+    "link": "https://ddowiki.com/page/Item:Sky_Pirate%27s_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Keen"
+    ],
+    "itemKey": "item:sky_pirate's_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Phiarlan Spy Dagger",
+    "link": "https://ddowiki.com/page/Item:Phiarlan_Spy_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Acidic 2",
+      "Critical Weakening 1",
+      "Deception +2",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Acidic 2",
+      "Critical Weakening 1",
+      "Deception +2"
+    ],
+    "itemKey": "item:phiarlan_spy_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Flamedagger",
+    "link": "https://ddowiki.com/page/Item:Flamedagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Burning Hands — 3 Charges (Recharged/Day:1)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Flaming",
+      "Burning Hands — 3 Charges (Recharged/Day:1)"
+    ],
+    "itemKey": "item:flamedagger",
+    "setMembership": []
+  },
+  {
+    "name": "Ornamented Dagger (legacy) (level 4)",
+    "link": "https://ddowiki.com/page/Item:Ornamented_Dagger_(legacy)_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "Upgradeable - Tier 1",
+      "Spellcasting Implement +3",
+      "+1 Enhancement Bonus",
+      "Concentration +5",
+      "Combustion +36",
+      "Glaciation +36 Upgradeable - Tier 2 Glaciation +36 becomes Glaciation +48 Upgradeable - Tier 3 Combustion +36 becomes Combustion +48",
+      "Upgradeable - Tier 2 Glaciation +36 becomes Glaciation +48",
+      "Glaciation +36 becomes Glaciation +48",
+      "Upgradeable - Tier 3 Combustion +36 becomes Combustion +48",
+      "Combustion +36 becomes Combustion +48"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Upgradeable - Tier 1",
+      "Spellcasting Implement +3",
+      "+1 Enhancement Bonus",
+      "Concentration +5",
+      "Combustion +36",
+      "Glaciation +36 Upgradeable - Tier 2 Glaciation +36 becomes Glaciation +48 Upgradeable - Tier 3 Combustion +36 becomes Combustion +48",
+      "Upgradeable - Tier 2 Glaciation +36 becomes Glaciation +48",
+      "Glaciation +36 becomes Glaciation +48",
+      "Upgradeable - Tier 3 Combustion +36 becomes Combustion +48",
+      "Combustion +36 becomes Combustion +48"
+    ],
+    "itemKey": "item:ornamented_dagger_(legacy)_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Dagger (level 4)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Dagger_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Crushing 4"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Crushing 4"
+    ],
+    "itemKey": "item:spectral_dagger_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Flotsam (level 4)",
+    "link": "https://ddowiki.com/page/Item:Flotsam_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Disruption",
+      "Bludgeoning 2",
+      "Corrosive Salt",
+      "Undead Bane 2",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Disruption",
+      "Bludgeoning 2",
+      "Corrosive Salt",
+      "Undead Bane 2"
+    ],
+    "itemKey": "item:flotsam_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Ornamented Dagger (level 4)",
+    "link": "https://ddowiki.com/page/Item:Ornamented_Dagger_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "Spellcasting Implement +4",
+      "+2 Enhancement Bonus",
+      "Concentration +6",
+      "Combustion +55",
+      "Glaciation +55",
+      "Magnetism +55",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +4",
+      "+2 Enhancement Bonus",
+      "Concentration +6",
+      "Combustion +55",
+      "Glaciation +55",
+      "Magnetism +55"
+    ],
+    "itemKey": "item:ornamented_dagger_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Poniard of Pain",
+    "link": "https://ddowiki.com/page/Item:Poniard_of_Pain",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Metalline",
+      "Aligned",
+      "Maiming 2",
+      "Freezing 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Metalline",
+      "Aligned",
+      "Maiming 2",
+      "Freezing 4"
+    ],
+    "itemKey": "item:poniard_of_pain",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Dagger",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Flamesalt Dagger",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Whisperdoom's Fang",
+    "link": "https://ddowiki.com/page/Item:Whisperdoom%27s_Fang",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 6,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Enfeebling",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Enfeebling"
+    ],
+    "itemKey": "item:whisperdoom's_fang",
+    "setMembership": []
+  },
+  {
+    "name": "Grievous Blade",
+    "link": "https://ddowiki.com/page/Item:Grievous_Blade",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 6,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Puncturing",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Puncturing"
+    ],
+    "itemKey": "item:grievous_blade",
+    "setMembership": []
+  },
+  {
+    "name": "Onyxhorn",
+    "link": "https://ddowiki.com/page/Item:Onyxhorn",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 6,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus"
+    ],
+    "itemKey": "item:onyxhorn",
+    "setMembership": []
+  },
+  {
+    "name": "Obsidian Dagger",
+    "link": "https://ddowiki.com/page/Item:Obsidian_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 6,
+    "effectsRaw": [
+      "Spellcasting Implement +6",
+      "+3 Enhancement Bonus",
+      "Void Lore +9%",
+      "Nullification +63",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +6",
+      "+3 Enhancement Bonus",
+      "Void Lore +9%",
+      "Nullification +63"
+    ],
+    "itemKey": "item:obsidian_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Cursed Shard",
+    "link": "https://ddowiki.com/page/Item:Cursed_Shard",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 6,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Bleeding 2",
+      "Weakening 1",
+      "Polycurse",
+      "Cold Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Bleeding 2",
+      "Weakening 1",
+      "Polycurse",
+      "Cold Iron"
+    ],
+    "itemKey": "item:cursed_shard",
+    "setMembership": []
+  },
+  {
+    "name": "Dagger of the Deep Ones",
+    "link": "https://ddowiki.com/page/Item:Dagger_of_the_Deep_Ones",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 6,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Tidal 2",
+      "Corrosive Salt",
+      "Bleeding 2",
+      "Maiming 2",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Tidal 2",
+      "Corrosive Salt",
+      "Bleeding 2",
+      "Maiming 2"
+    ],
+    "itemKey": "item:dagger_of_the_deep_ones",
+    "setMembership": []
+  },
+  {
+    "name": "Assassin's Kiss",
+    "link": "https://ddowiki.com/page/Item:Assassin%27s_Kiss",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 7,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Lesser Incorporeal Bane",
+      "Deception",
+      "Greater Dispelling",
+      "Assassinate +2",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Lesser Incorporeal Bane",
+      "Deception",
+      "Greater Dispelling",
+      "Assassinate +2"
+    ],
+    "itemKey": "item:assassin's_kiss",
+    "setMembership": []
+  },
+  {
+    "name": "Greenstone Dagger",
+    "link": "https://ddowiki.com/page/Item:Greenstone_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 7,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Mortal Strike",
+      "Deadly +4",
+      "Seeker +5",
+      "Deception +3",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Mortal Strike",
+      "Deadly +4",
+      "Seeker +5",
+      "Deception +3",
+      "Crystal"
+    ],
+    "itemKey": "item:greenstone_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Bottle o' Rum",
+    "link": "https://ddowiki.com/page/Item:Bottle_o%27_Rum",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 7,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Vorpal",
+      "Bleeding 2",
+      "Tendon Slice +4",
+      "The Dread Isle's Curse",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Universal Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane bonus to Universal Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to Spell DCs",
+        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to Spell DCs"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "★+4 Profane bonus to Hit and Damage",
+        "effectRaw": "★+4 Profane bonus to Hit and Damage",
+        "tieredEffects": [
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane bonus to Hit and Damage"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Vorpal",
+      "Bleeding 2",
+      "Tendon Slice +4",
+      "The Dread Isle's Curse"
+    ],
+    "itemKey": "item:bottle_o'_rum",
+    "setMembership": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "minLevels": [
+          7,
+          31
+        ],
+        "availablePieces": 70,
+        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Universal Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane bonus to Universal Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to Spell DCs",
+            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to Spell DCs"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "★+4 Profane bonus to Hit and Damage",
+            "effectRaw": "★+4 Profane bonus to Hit and Damage",
+            "tieredEffects": [
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane bonus to Hit and Damage"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "+2 Intimidating Dagger of Paralyzing Acid",
+    "link": "https://ddowiki.com/page/Item:%2B2_Intimidating_Dagger_of_Paralyzing_Acid",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Paralyzing",
+      "Intimidate +3",
+      "Acid"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Paralyzing",
+      "Intimidate +3",
+      "Acid"
+    ],
+    "itemKey": "item:+2_intimidating_dagger_of_paralyzing_acid",
+    "setMembership": []
+  },
+  {
+    "name": "Threnalian War Dagger",
+    "link": "https://ddowiki.com/page/Item:Threnalian_War_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus"
+    ],
+    "itemKey": "item:threnalian_war_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Tenebrous Stiletto",
+    "link": "https://ddowiki.com/page/Item:Tenebrous_Stiletto",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Ghost Touch",
+      "Deception",
+      "Adamantine",
+      "Hide +11",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Ghost Touch",
+      "Deception",
+      "Adamantine",
+      "Hide +11"
+    ],
+    "itemKey": "item:tenebrous_stiletto",
+    "setMembership": []
+  },
+  {
+    "name": "Sheridan's Wrack",
+    "link": "https://ddowiki.com/page/Item:Sheridan%27s_Wrack",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Keen"
+    ],
+    "itemKey": "item:sheridan's_wrack",
+    "setMembership": []
+  },
+  {
+    "name": "Ornamented Dagger (legacy) (level 8)",
+    "link": "https://ddowiki.com/page/Item:Ornamented_Dagger_(legacy)_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "Upgradeable - Tier 1",
+      "Spellcasting Implement +6",
+      "+2 Enhancement Bonus",
+      "Concentration +7",
+      "Combustion +48",
+      "Glaciation +48",
+      "Magnetism +48",
+      "Corrosion +48 Upgradeable - Tier 2 Combustion +48, Glaciation +48, Magnetism +48, Corrosion +48 becomes Potency +32 Upgradeable - Tier 3 Potency +32 becomes Potency +36",
+      "Upgradeable - Tier 2 Combustion +48, Glaciation +48, Magnetism +48, Corrosion +48 becomes Potency +32",
+      "Combustion +48, Glaciation +48, Magnetism +48, Corrosion +48 becomes Potency +32",
+      "Upgradeable - Tier 3 Potency +32 becomes Potency +36",
+      "Potency +32 becomes Potency +36"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Upgradeable - Tier 1",
+      "Spellcasting Implement +6",
+      "+2 Enhancement Bonus",
+      "Concentration +7",
+      "Combustion +48",
+      "Glaciation +48",
+      "Magnetism +48",
+      "Corrosion +48 Upgradeable - Tier 2 Combustion +48, Glaciation +48, Magnetism +48, Corrosion +48 becomes Potency +32 Upgradeable - Tier 3 Potency +32 becomes Potency +36",
+      "Upgradeable - Tier 2 Combustion +48, Glaciation +48, Magnetism +48, Corrosion +48 becomes Potency +32",
+      "Combustion +48, Glaciation +48, Magnetism +48, Corrosion +48 becomes Potency +32",
+      "Upgradeable - Tier 3 Potency +32 becomes Potency +36",
+      "Potency +32 becomes Potency +36"
+    ],
+    "itemKey": "item:ornamented_dagger_(legacy)_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Dagger (level 8)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Dagger_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Vorpal",
+      "Crushing 6"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Vorpal",
+      "Crushing 6"
+    ],
+    "itemKey": "item:spectral_dagger_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Ornamented Dagger (level 8)",
+    "link": "https://ddowiki.com/page/Item:Ornamented_Dagger_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Concentration +10",
+      "Fire Lore +10%",
+      "Ice Lore +10%",
+      "Lightning Lore +10%",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Concentration +10",
+      "Fire Lore +10%",
+      "Ice Lore +10%",
+      "Lightning Lore +10%"
+    ],
+    "itemKey": "item:ornamented_dagger_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Flotsam (level 8)",
+    "link": "https://ddowiki.com/page/Item:Flotsam_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Disruption",
+      "Bludgeoning 2",
+      "Corrosive Salt",
+      "Undead Bane 2",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Disruption",
+      "Bludgeoning 2",
+      "Corrosive Salt",
+      "Undead Bane 2"
+    ],
+    "itemKey": "item:flotsam_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Nightforge Stiletto",
+    "link": "https://ddowiki.com/page/Item:Nightforge_Stiletto",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Adamantine"
+    ],
+    "itemKey": "item:nightforge_stiletto",
+    "setMembership": []
+  },
+  {
+    "name": "Calamitous Dagger",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1"
+    ],
+    "itemKey": "item:calamitous_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Flint",
+    "link": "https://ddowiki.com/page/Item:Flint",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "Spellcasting Implement +10",
+      "+5 Enhancement Bonus",
+      "Lightning Strike",
+      "Shocking Blast 3",
+      "Lightning Lore +11%",
+      "Magnetism +77",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "the_desert_s_writhing_storm",
+        "setName": "The Desert's Writhing Storm",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
+        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2%",
+            "effect": "Artifact bonus to Electric Spellcrit Chance"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+4%",
+            "effect": "Artifact bonus to Electric Spellcrit Chance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+6%",
+            "effect": "Artifact bonus to Electric Spellcrit Chance"
+          }
+        ]
+      },
+      {
+        "setId": "the_desert_s_writhing_storm",
+        "setName": "The Desert's Writhing Storm",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
+        "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Electric Spellpower"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Electric Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Electric Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_desert_s_writhing_storm",
+        "setName": "The Desert's Writhing Storm",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Magical Resistance Rating"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Magical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Magical Resistance Rating"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +10",
+      "+5 Enhancement Bonus",
+      "Lightning Strike",
+      "Shocking Blast 3",
+      "Lightning Lore +11%",
+      "Magnetism +77"
+    ],
+    "itemKey": "item:flint",
+    "setMembership": [
+      {
+        "setId": "the_desert_s_writhing_storm",
+        "setName": "The Desert's Writhing Storm",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 11,
+        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Electric Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
+            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2%",
+                "effect": "Artifact bonus to Electric Spellcrit Chance"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+4%",
+                "effect": "Artifact bonus to Electric Spellcrit Chance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+6%",
+                "effect": "Artifact bonus to Electric Spellcrit Chance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
+            "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Electric Spellpower"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Electric Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Electric Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Magical Resistance Rating"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Magical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Magical Resistance Rating"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ancient Vulkoorim Dagger",
+    "link": "https://ddowiki.com/page/Item:Ancient_Vulkoorim_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Poison Blast 3",
+      "Giant Slayer",
+      "Giant Bane 3",
+      "Wounding 2",
+      "Adamantine",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
+        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Poison Resistance"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact Bonus to Poison Resistance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact Bonus to Poison Resistance"
+          }
+        ]
+      },
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
+        "effectRaw": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact bonus to Sneak Attack Dice"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Artifact bonus to Sneak Attack Dice"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact bonus to Sneak Attack Dice"
+          }
+        ]
+      },
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
+        "effectRaw": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Saving Throws"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Artifact Bonus to Saving Throws"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Saving Throws"
+          }
+        ]
+      },
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+        "effectRaw": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Artifact Bonus to Dexterity and Constitution"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Artifact Bonus to Dexterity and Constitution"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Dexterity and Constitution"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Poison Blast 3",
+      "Giant Slayer",
+      "Giant Bane 3",
+      "Wounding 2",
+      "Adamantine"
+    ],
+    "itemKey": "item:ancient_vulkoorim_dagger",
+    "setMembership": [
+      {
+        "setId": "vulkoor_s_chosen",
+        "setName": "Vulkoor's Chosen",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 13,
+        "bonusRaw": "2 Pieces Equipped: ♦+10●+20★+30 Artifact Bonus to Poison Resistance ♦+1●+2★+3 Artifact bonus to Sneak Attack Dice ♦+1●+2★+3 Artifact Bonus to Saving Throws ♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
+            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Poison Resistance"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact Bonus to Poison Resistance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact Bonus to Poison Resistance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
+            "effectRaw": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact bonus to Sneak Attack Dice"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Artifact bonus to Sneak Attack Dice"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact bonus to Sneak Attack Dice"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
+            "effectRaw": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Saving Throws"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Artifact Bonus to Saving Throws"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Saving Throws"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+            "effectRaw": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Artifact Bonus to Dexterity and Constitution"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Artifact Bonus to Dexterity and Constitution"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Dexterity and Constitution"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bejeweled Letter Opener",
+    "link": "https://ddowiki.com/page/Item:Bejeweled_Letter_Opener",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "Spellcasting Implement +10",
+      "+5 Enhancement Bonus",
+      "Keen",
+      "Sonic Blast 3",
+      "Devotion +77",
+      "Resonance +77",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "oasis_of_morality",
+        "setName": "Oasis of Morality",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
+        "effectRaw": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2%",
+            "effect": "Artifact Bonus to Positive Spellcrit Chance"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+4%",
+            "effect": "Artifact Bonus to Positive Spellcrit Chance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+6%",
+            "effect": "Artifact Bonus to Positive Spellcrit Chance"
+          }
+        ]
+      },
+      {
+        "setId": "oasis_of_morality",
+        "setName": "Oasis of Morality",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
+        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Positive Spellpower"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact Bonus to Positive Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact Bonus to Positive Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "oasis_of_morality",
+        "setName": "Oasis of Morality",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+        "effectRaw": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5%",
+            "effect": "Artifact Bonus to Fortification Bypass"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+10%",
+            "effect": "Artifact Bonus to Fortification Bypass"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15%",
+            "effect": "Artifact Bonus to Fortification Bypass"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +10",
+      "+5 Enhancement Bonus",
+      "Keen",
+      "Sonic Blast 3",
+      "Devotion +77",
+      "Resonance +77"
+    ],
+    "itemKey": "item:bejeweled_letter_opener",
+    "setMembership": [
+      {
+        "setId": "oasis_of_morality",
+        "setName": "Oasis of Morality",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 8,
+        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance ♦+10●+20★+30 Artifact Bonus to Positive Spellpower ♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
+            "effectRaw": "♦+2%●+4%★+6% Artifact Bonus to Positive Spellcrit Chance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2%",
+                "effect": "Artifact Bonus to Positive Spellcrit Chance"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+4%",
+                "effect": "Artifact Bonus to Positive Spellcrit Chance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+6%",
+                "effect": "Artifact Bonus to Positive Spellcrit Chance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
+            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Positive Spellpower"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact Bonus to Positive Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact Bonus to Positive Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+            "effectRaw": "♦+5%●+10%★+15% Artifact Bonus to Fortification Bypass",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5%",
+                "effect": "Artifact Bonus to Fortification Bypass"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+10%",
+                "effect": "Artifact Bonus to Fortification Bypass"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15%",
+                "effect": "Artifact Bonus to Fortification Bypass"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Barovian's Dagger",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Macabre Dagger",
+    "link": "https://ddowiki.com/page/Item:Macabre_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "The Dragon Dagger",
+    "link": "https://ddowiki.com/page/Item:The_Dragon_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Reverberating 3",
+      "Screeching 7",
+      "Paralyzing",
+      "Dragon's Edge 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Reverberating 3",
+      "Screeching 7",
+      "Paralyzing",
+      "Dragon's Edge 3"
+    ],
+    "itemKey": "item:the_dragon_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Guardian of the Liturgy",
+    "link": "https://ddowiki.com/page/Item:Guardian_of_the_Liturgy",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Bleed",
+      "Heartseeker IV",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Bleed",
+      "Heartseeker IV"
+    ],
+    "itemKey": "item:guardian_of_the_liturgy",
+    "setMembership": []
+  },
+  {
+    "name": "Green Steel Dagger",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Ornamented Dagger (legacy) (level 12)",
+    "link": "https://ddowiki.com/page/Item:Ornamented_Dagger_(legacy)_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "Upgradeable - Tier 1",
+      "Spellcasting Implement +9",
+      "+3 Enhancement Bonus",
+      "Concentration +11",
+      "Potency +36 Upgradeable - Tier 2 Potency +36 becomes Potency +36 Upgradeable - Tier 3 Potency +36 becomes Potency +44",
+      "Upgradeable - Tier 2 Potency +36 becomes Potency +36",
+      "Potency +36 becomes Potency +36",
+      "Upgradeable - Tier 3 Potency +36 becomes Potency +44",
+      "Potency +36 becomes Potency +44"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Upgradeable - Tier 1",
+      "Spellcasting Implement +9",
+      "+3 Enhancement Bonus",
+      "Concentration +11",
+      "Potency +36 Upgradeable - Tier 2 Potency +36 becomes Potency +36 Upgradeable - Tier 3 Potency +36 becomes Potency +44",
+      "Upgradeable - Tier 2 Potency +36 becomes Potency +36",
+      "Potency +36 becomes Potency +36",
+      "Upgradeable - Tier 3 Potency +36 becomes Potency +44",
+      "Potency +36 becomes Potency +44"
+    ],
+    "itemKey": "item:ornamented_dagger_(legacy)_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Dagger",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Ornamented Dagger (level 12)",
+    "link": "https://ddowiki.com/page/Item:Ornamented_Dagger_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Concentration +14",
+      "Combustion +84",
+      "Glaciation +84",
+      "Magnetism +84",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Concentration +14",
+      "Combustion +84",
+      "Glaciation +84",
+      "Magnetism +84"
+    ],
+    "itemKey": "item:ornamented_dagger_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Dagger (level 12)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Dagger_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Ghostbane 3",
+      "Evil Outsider Bane 3",
+      "Vorpal",
+      "Crushing 7"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Ghostbane 3",
+      "Evil Outsider Bane 3",
+      "Vorpal",
+      "Crushing 7"
+    ],
+    "itemKey": "item:spectral_dagger_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Flotsam (level 12)",
+    "link": "https://ddowiki.com/page/Item:Flotsam_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Improved Disruption",
+      "Bludgeoning 3",
+      "Corrosive Salt",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Improved Disruption",
+      "Bludgeoning 3",
+      "Corrosive Salt",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:flotsam_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Dagger of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Dagger_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:dagger_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Dagger of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Dagger_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:dagger_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Skiver",
+    "link": "https://ddowiki.com/page/Item:Skiver",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Archmagi",
+      "Spell Lore VI",
+      "Efficient Metamagic - Extend I",
+      "Efficient Metamagic - Empower II",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Archmagi",
+      "Spell Lore VI",
+      "Efficient Metamagic - Extend I",
+      "Efficient Metamagic - Empower II"
+    ],
+    "itemKey": "item:skiver",
+    "setMembership": []
+  },
+  {
+    "name": "Polycurse Dagger",
+    "link": "https://ddowiki.com/page/Item:Polycurse_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Polycurse",
+      "Sneak Attack Bonus +3",
+      "Deception",
+      "Curse Vector",
+      "Corrosive Salt"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Polycurse",
+      "Sneak Attack Bonus +3",
+      "Deception",
+      "Curse Vector",
+      "Corrosive Salt"
+    ],
+    "itemKey": "item:polycurse_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Fell Shiv (level 14)",
+    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(level_14)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Improved Vorpal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Improved Vorpal"
+    ],
+    "itemKey": "item:fell_shiv_(level_14)",
+    "setMembership": []
+  },
+  {
+    "name": "Slice",
+    "link": "https://ddowiki.com/page/Item:Slice",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 14,
+    "effectsRaw": [
+      "Phlebotomizing",
+      "Heartseeker IV",
+      "Exceptional Seeker +3",
+      "Destruction",
+      "+5 Enhancement Bonus",
+      "Slice 'n Dice Set",
+      "The Devil's Handiwork",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Slice 'n Dice Set",
+      {
+        "setId": "slice_n_dice",
+        "setName": "Slice 'n Dice",
+        "source": "named_item_sets",
+        "sourceSection": "The Devil's Gambit sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2 Quality bonus bonus to Seeker",
+        "effectRaw": "♦+1●+2 Quality bonus bonus to Seeker",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Quality bonus bonus to Seeker"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Quality bonus bonus to Seeker"
+          }
+        ]
+      },
+      {
+        "setId": "slice_n_dice",
+        "setName": "Slice 'n Dice",
+        "source": "named_item_sets",
+        "sourceSection": "The Devil's Gambit sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2 Quality bonus bonus to Sneak Attack",
+        "effectRaw": "♦+1●+2 Quality bonus bonus to Sneak Attack",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Quality bonus bonus to Sneak Attack"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Quality bonus bonus to Sneak Attack"
+          }
+        ]
+      },
+      {
+        "setId": "the_devil_s_handiwork",
+        "setName": "The Devil's Handiwork",
+        "source": "named_item_sets",
+        "sourceSection": "The Devil's Gambit sets",
+        "piecesRequired": 5,
+        "effect": "♦+2●+3 Quality bonus bonus to Ability stats",
+        "effectRaw": "♦+2●+3 Quality bonus bonus to Ability stats",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2",
+            "effect": "Quality bonus bonus to Ability stats"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+3",
+            "effect": "Quality bonus bonus to Ability stats"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "Phlebotomizing",
+      "Heartseeker IV",
+      "Exceptional Seeker +3",
+      "Destruction",
+      "+5 Enhancement Bonus",
+      "The Devil's Handiwork"
+    ],
+    "itemKey": "item:slice",
+    "setMembership": [
+      {
+        "setId": "slice_n_dice",
+        "setName": "Slice 'n Dice",
+        "source": "named_item_sets",
+        "sourceSection": "The Devil's Gambit sets",
+        "minLevels": [
+          14,
+          28
+        ],
+        "availablePieces": 2,
+        "bonusRaw": "2 Pieces Equipped: ♦+1●+2 Quality bonus bonus to Seeker ♦+1●+2 Quality bonus bonus to Sneak Attack",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2 Quality bonus bonus to Seeker",
+            "effectRaw": "♦+1●+2 Quality bonus bonus to Seeker",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Quality bonus bonus to Seeker"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Quality bonus bonus to Seeker"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2 Quality bonus bonus to Sneak Attack",
+            "effectRaw": "♦+1●+2 Quality bonus bonus to Sneak Attack",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Quality bonus bonus to Sneak Attack"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Quality bonus bonus to Sneak Attack"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "setId": "the_devil_s_handiwork",
+        "setName": "The Devil's Handiwork",
+        "source": "named_item_sets",
+        "sourceSection": "The Devil's Gambit sets",
+        "minLevels": [
+          14,
+          28
+        ],
+        "availablePieces": 8,
+        "bonusRaw": "5 Pieces Equipped: ♦+2●+3 Quality bonus bonus to Ability stats",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+2●+3 Quality bonus bonus to Ability stats",
+            "effectRaw": "♦+2●+3 Quality bonus bonus to Ability stats",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2",
+                "effect": "Quality bonus bonus to Ability stats"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+3",
+                "effect": "Quality bonus bonus to Ability stats"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dice",
+    "link": "https://ddowiki.com/page/Item:Dice",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Maiming",
+      "Armor-Piercing 15%",
+      "Insightful Sneak Attack Bonus +2",
+      "Improved Vorpal",
+      "Slice 'n Dice Set",
+      "The Devil's Handiwork",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Slice 'n Dice Set",
+      {
+        "setId": "slice_n_dice",
+        "setName": "Slice 'n Dice",
+        "source": "named_item_sets",
+        "sourceSection": "The Devil's Gambit sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2 Quality bonus bonus to Seeker",
+        "effectRaw": "♦+1●+2 Quality bonus bonus to Seeker",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Quality bonus bonus to Seeker"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Quality bonus bonus to Seeker"
+          }
+        ]
+      },
+      {
+        "setId": "slice_n_dice",
+        "setName": "Slice 'n Dice",
+        "source": "named_item_sets",
+        "sourceSection": "The Devil's Gambit sets",
+        "piecesRequired": 2,
+        "effect": "♦+1●+2 Quality bonus bonus to Sneak Attack",
+        "effectRaw": "♦+1●+2 Quality bonus bonus to Sneak Attack",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Quality bonus bonus to Sneak Attack"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+2",
+            "effect": "Quality bonus bonus to Sneak Attack"
+          }
+        ]
+      },
+      {
+        "setId": "the_devil_s_handiwork",
+        "setName": "The Devil's Handiwork",
+        "source": "named_item_sets",
+        "sourceSection": "The Devil's Gambit sets",
+        "piecesRequired": 5,
+        "effect": "♦+2●+3 Quality bonus bonus to Ability stats",
+        "effectRaw": "♦+2●+3 Quality bonus bonus to Ability stats",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2",
+            "effect": "Quality bonus bonus to Ability stats"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+3",
+            "effect": "Quality bonus bonus to Ability stats"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Maiming",
+      "Armor-Piercing 15%",
+      "Insightful Sneak Attack Bonus +2",
+      "Improved Vorpal",
+      "The Devil's Handiwork"
+    ],
+    "itemKey": "item:dice",
+    "setMembership": [
+      {
+        "setId": "slice_n_dice",
+        "setName": "Slice 'n Dice",
+        "source": "named_item_sets",
+        "sourceSection": "The Devil's Gambit sets",
+        "minLevels": [
+          14,
+          28
+        ],
+        "availablePieces": 2,
+        "bonusRaw": "2 Pieces Equipped: ♦+1●+2 Quality bonus bonus to Seeker ♦+1●+2 Quality bonus bonus to Sneak Attack",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2 Quality bonus bonus to Seeker",
+            "effectRaw": "♦+1●+2 Quality bonus bonus to Seeker",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Quality bonus bonus to Seeker"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Quality bonus bonus to Seeker"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+1●+2 Quality bonus bonus to Sneak Attack",
+            "effectRaw": "♦+1●+2 Quality bonus bonus to Sneak Attack",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Quality bonus bonus to Sneak Attack"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+2",
+                "effect": "Quality bonus bonus to Sneak Attack"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "setId": "the_devil_s_handiwork",
+        "setName": "The Devil's Handiwork",
+        "source": "named_item_sets",
+        "sourceSection": "The Devil's Gambit sets",
+        "minLevels": [
+          14,
+          28
+        ],
+        "availablePieces": 8,
+        "bonusRaw": "5 Pieces Equipped: ♦+2●+3 Quality bonus bonus to Ability stats",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+2●+3 Quality bonus bonus to Ability stats",
+            "effectRaw": "♦+2●+3 Quality bonus bonus to Ability stats",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2",
+                "effect": "Quality bonus bonus to Ability stats"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+3",
+                "effect": "Quality bonus bonus to Ability stats"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Risk",
+    "link": "https://ddowiki.com/page/Item:Risk",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Vicious",
+      "Heartseeker III",
+      "Risk and Reward"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "risk_and_reward",
+        "setName": "Risk and Reward",
+        "source": "named_item_sets",
+        "sourceSection": "Iconic Level 15 Reward set",
+        "piecesRequired": 2,
+        "effect": "Additional +0.5[W] damage dice.",
+        "effectRaw": "Additional +0.5[W] damage dice.",
+        "tieredEffects": []
+      },
+      {
+        "setId": "risk_and_reward",
+        "setName": "Risk and Reward",
+        "source": "named_item_sets",
+        "sourceSection": "Iconic Level 15 Reward set",
+        "piecesRequired": 2,
+        "effect": "A 5% chance on hit to Bluff your target for 4 seconds.",
+        "effectRaw": "A 5% chance on hit to Bluff your target for 4 seconds.",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Vicious",
+      "Heartseeker III",
+      "Risk and Reward"
+    ],
+    "itemKey": "item:risk",
+    "setMembership": [
+      {
+        "setId": "risk_and_reward",
+        "setName": "Risk and Reward",
+        "source": "named_item_sets",
+        "sourceSection": "Iconic Level 15 Reward set",
+        "minLevels": [],
+        "availablePieces": 2,
+        "bonusRaw": "2 Pieces Equipped: Additional +0.5[W] damage dice. A 5% chance on hit to Bluff your target for 4 seconds.",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "Additional +0.5[W] damage dice.",
+            "effectRaw": "Additional +0.5[W] damage dice.",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "A 5% chance on hit to Bluff your target for 4 seconds.",
+            "effectRaw": "A 5% chance on hit to Bluff your target for 4 seconds.",
+            "tieredEffects": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reward",
+    "link": "https://ddowiki.com/page/Item:Reward",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Vampirism",
+      "Bloodletter III",
+      "Risk and Reward"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "risk_and_reward",
+        "setName": "Risk and Reward",
+        "source": "named_item_sets",
+        "sourceSection": "Iconic Level 15 Reward set",
+        "piecesRequired": 2,
+        "effect": "Additional +0.5[W] damage dice.",
+        "effectRaw": "Additional +0.5[W] damage dice.",
+        "tieredEffects": []
+      },
+      {
+        "setId": "risk_and_reward",
+        "setName": "Risk and Reward",
+        "source": "named_item_sets",
+        "sourceSection": "Iconic Level 15 Reward set",
+        "piecesRequired": 2,
+        "effect": "A 5% chance on hit to Bluff your target for 4 seconds.",
+        "effectRaw": "A 5% chance on hit to Bluff your target for 4 seconds.",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Vampirism",
+      "Bloodletter III",
+      "Risk and Reward"
+    ],
+    "itemKey": "item:reward",
+    "setMembership": [
+      {
+        "setId": "risk_and_reward",
+        "setName": "Risk and Reward",
+        "source": "named_item_sets",
+        "sourceSection": "Iconic Level 15 Reward set",
+        "minLevels": [],
+        "availablePieces": 2,
+        "bonusRaw": "2 Pieces Equipped: Additional +0.5[W] damage dice. A 5% chance on hit to Bluff your target for 4 seconds.",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "Additional +0.5[W] damage dice.",
+            "effectRaw": "Additional +0.5[W] damage dice.",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "A 5% chance on hit to Bluff your target for 4 seconds.",
+            "effectRaw": "A 5% chance on hit to Bluff your target for 4 seconds.",
+            "tieredEffects": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fell Shiv (level 15)",
+    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(level_15)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Improved Vorpal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Improved Vorpal"
+    ],
+    "itemKey": "item:fell_shiv_(level_15)",
+    "setMembership": []
+  },
+  {
+    "name": "Deep Demise",
+    "link": "https://ddowiki.com/page/Item:Deep_Demise",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Intelligence +8",
+      "Illusion Focus +3",
+      "Insightful Illusion Focus +2",
+      "Quality Spell Penetration +2",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Intelligence +8",
+      "Illusion Focus +3",
+      "Insightful Illusion Focus +2",
+      "Quality Spell Penetration +2"
+    ],
+    "itemKey": "item:deep_demise",
+    "setMembership": []
+  },
+  {
+    "name": "Moonslice",
+    "link": "https://ddowiki.com/page/Item:Moonslice",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Negativity 4",
+      "Chilling 4",
+      "Vorpal",
+      "Quality Deception +1",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Negativity 4",
+      "Chilling 4",
+      "Vorpal",
+      "Quality Deception +1"
+    ],
+    "itemKey": "item:moonslice",
+    "setMembership": []
+  },
+  {
+    "name": "Sunslice",
+    "link": "https://ddowiki.com/page/Item:Sunslice",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Coruscating 4",
+      "Fiery 4",
+      "Banishing",
+      "Insightful Deception +3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Coruscating 4",
+      "Fiery 4",
+      "Banishing",
+      "Insightful Deception +3"
+    ],
+    "itemKey": "item:sunslice",
+    "setMembership": []
+  },
+  {
+    "name": "Syranian Dagger",
+    "link": "https://ddowiki.com/page/Item:Syranian_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Ornamented Dagger (legacy) (level 16)",
+    "link": "https://ddowiki.com/page/Item:Ornamented_Dagger_(legacy)_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "Upgradeable - Tier 1",
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Concentration +13",
+      "Potency +48",
+      "Fire Lore V Upgradeable - Tier 2 Adds Ice Lore V Upgradeable - Tier 3 Adds Lightning Lore V",
+      "Upgradeable - Tier 2 Adds Ice Lore V",
+      "Adds Ice Lore V",
+      "Upgradeable - Tier 3 Adds Lightning Lore V",
+      "Adds Lightning Lore V"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Upgradeable - Tier 1",
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Concentration +13",
+      "Potency +48",
+      "Fire Lore V Upgradeable - Tier 2 Adds Ice Lore V Upgradeable - Tier 3 Adds Lightning Lore V",
+      "Upgradeable - Tier 2 Adds Ice Lore V",
+      "Adds Ice Lore V",
+      "Upgradeable - Tier 3 Adds Lightning Lore V",
+      "Adds Lightning Lore V"
+    ],
+    "itemKey": "item:ornamented_dagger_(legacy)_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Fell Shiv (level 16)",
+    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Improved Vorpal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Improved Vorpal"
+    ],
+    "itemKey": "item:fell_shiv_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Flotsam (level 16)",
+    "link": "https://ddowiki.com/page/Item:Flotsam_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Disruption",
+      "Bludgeoning 4",
+      "Corrosive Salt",
+      "Undead Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Disruption",
+      "Bludgeoning 4",
+      "Corrosive Salt",
+      "Undead Bane 4"
+    ],
+    "itemKey": "item:flotsam_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Ornamented Dagger (level 16)",
+    "link": "https://ddowiki.com/page/Item:Ornamented_Dagger_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Concentration +16",
+      "Fire Lore +14%",
+      "Ice Lore +14%",
+      "Lightning Lore +14%",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Concentration +16",
+      "Fire Lore +14%",
+      "Ice Lore +14%",
+      "Lightning Lore +14%"
+    ],
+    "itemKey": "item:ornamented_dagger_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Dagger (level 16)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Dagger_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 9"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 9"
+    ],
+    "itemKey": "item:spectral_dagger_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Lamannian Hunting Dagger",
+    "link": "https://ddowiki.com/page/Item:Lamannian_Hunting_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Animal Bane 4",
+      "Vermin Bane 4",
+      "Reptilian Bane 4",
+      "Humanoid Bane 4",
+      "Doublestrike 9%",
+      "Seeker +8",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Animal Bane 4",
+      "Vermin Bane 4",
+      "Reptilian Bane 4",
+      "Humanoid Bane 4",
+      "Doublestrike 9%",
+      "Seeker +8"
+    ],
+    "itemKey": "item:lamannian_hunting_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Reliquary Dagger",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Reliquary Dagger",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Flint",
+    "link": "https://ddowiki.com/page/Item:Epic_Flint",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Lightning Strike",
+      "Shocking Blast 4",
+      "Lightning Lore +16%",
+      "Magnetism +111",
+      "Lightning Storm Guard",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Lightning Strike",
+      "Shocking Blast 4",
+      "Lightning Lore +16%",
+      "Magnetism +111",
+      "Lightning Storm Guard"
+    ],
+    "itemKey": "item:epic_flint",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ancient Vulkoorim Dagger",
+    "link": "https://ddowiki.com/page/Item:Epic_Ancient_Vulkoorim_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Poison Blast 4",
+      "Giant Slayer",
+      "Giant Bane 4",
+      "Wounding 2",
+      "Adamantine",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Poison Blast 4",
+      "Giant Slayer",
+      "Giant Bane 4",
+      "Wounding 2",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ancient_vulkoorim_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Phiarlan Spy Dagger",
+    "link": "https://ddowiki.com/page/Item:Epic_Phiarlan_Spy_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Acid Blast 4",
+      "Improved Deception",
+      "Dusk",
+      "Critical Weakening 2",
+      "Improved Paralyzing",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Acid Blast 4",
+      "Improved Deception",
+      "Dusk",
+      "Critical Weakening 2",
+      "Improved Paralyzing"
+    ],
+    "itemKey": "item:epic_phiarlan_spy_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Bejeweled Letter Opener",
+    "link": "https://ddowiki.com/page/Item:Epic_Bejeweled_Letter_Opener",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Keen",
+      "Sonic Blast 4",
+      "Devotion +111",
+      "Resonance +111",
+      "Efficient Metamagic - Empower Healing II",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Keen",
+      "Sonic Blast 4",
+      "Devotion +111",
+      "Resonance +111",
+      "Efficient Metamagic - Empower Healing II"
+    ],
+    "itemKey": "item:epic_bejeweled_letter_opener",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ornamented Dagger (legacy) (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Ornamented_Dagger_(legacy)_(level_20)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "Upgradeable - Tier 1",
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Concentration +15",
+      "Potency +48",
+      "Efficient Metamagic - Maximize II",
+      "Lesser Maximize — 3 Charges (Recharged/Day:3) Upgradeable - Tier 2 Adds Spell Lore III Upgradeable - Tier 3 Adds Yellow Augment Slot Potency +48 becomes Potency +52",
+      "Upgradeable - Tier 2 Adds Spell Lore III",
+      "Adds Spell Lore III",
+      "Upgradeable - Tier 3 Adds Yellow Augment Slot Potency +48 becomes Potency +52",
+      "Adds Yellow Augment Slot",
+      "Yellow Augments: Standard augments provide bonuses to offensive stats, condition resistances and immunities, elemental resistances and DC spellcasting stats.",
+      "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless.",
+      "Potency +48 becomes Potency +52"
+    ],
+    "augmentSlots": [
+      "Adds Yellow"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
+    ],
+    "namedEffects": [
+      "Upgradeable - Tier 1",
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Concentration +15",
+      "Potency +48",
+      "Efficient Metamagic - Maximize II",
+      "Lesser Maximize — 3 Charges (Recharged/Day:3) Upgradeable - Tier 2 Adds Spell Lore III Upgradeable - Tier 3 Adds Yellow Augment Slot Potency +48 becomes Potency +52",
+      "Upgradeable - Tier 2 Adds Spell Lore III",
+      "Adds Spell Lore III",
+      "Upgradeable - Tier 3 Adds Yellow Augment Slot Potency +48 becomes Potency +52",
+      "Yellow Augments: Standard augments provide bonuses to offensive stats, condition resistances and immunities, elemental resistances and DC spellcasting stats.",
+      "Potency +48 becomes Potency +52"
+    ],
+    "itemKey": "item:epic_ornamented_dagger_(legacy)_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "Sacrificial Dagger",
+    "link": "https://ddowiki.com/page/Item:Sacrificial_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Poison Burst",
+      "One of the following: Constitution Poison, Virulent Dexterity Poison, Virulent Strength Poison, Virulent",
+      "Constitution Poison, Virulent",
+      "Dexterity Poison, Virulent",
+      "Strength Poison, Virulent",
+      "Negative Energy Spike",
+      "Life Stealing",
+      "Lesser Vampirism"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Poison Burst",
+      "One of the following: Constitution Poison, Virulent Dexterity Poison, Virulent Strength Poison, Virulent",
+      "Constitution Poison, Virulent",
+      "Dexterity Poison, Virulent",
+      "Strength Poison, Virulent",
+      "Negative Energy Spike",
+      "Life Stealing",
+      "Lesser Vampirism"
+    ],
+    "itemKey": "item:sacrificial_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Earthcarver Shard",
+    "link": "https://ddowiki.com/page/Item:Earthcarver_Shard",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Incandescence",
+      "Ooze Bane",
+      "Aberration Bane",
+      "Magical Beast Bane",
+      "Acidic Reaping"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Incandescence",
+      "Ooze Bane",
+      "Aberration Bane",
+      "Magical Beast Bane",
+      "Acidic Reaping"
+    ],
+    "itemKey": "item:earthcarver_shard",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Dagger (level 20)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Dagger_(level_20)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 10"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 10"
+    ],
+    "itemKey": "item:spectral_dagger_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Flotsam (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Flotsam_(level_20)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Greater Disruption",
+      "Bludgeoning 4",
+      "Corrosive Salt",
+      "Undead Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Greater Disruption",
+      "Bludgeoning 4",
+      "Corrosive Salt",
+      "Undead Bane 4"
+    ],
+    "itemKey": "item:epic_flotsam_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ornamented Dagger (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Ornamented_Dagger_(level_20)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Concentration +17",
+      "Potency +73",
+      "Spell Lore +8",
+      "Lesser Maximize — 3 Charges (Recharged/Day:3)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Concentration +17",
+      "Potency +73",
+      "Spell Lore +8",
+      "Lesser Maximize — 3 Charges (Recharged/Day:3)"
+    ],
+    "itemKey": "item:epic_ornamented_dagger_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sworn Silver Dagger",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ethereal Dagger",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Goldcursed Dagger",
+    "link": "https://ddowiki.com/page/Item:Epic_Goldcursed_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Epic Goldcurse",
+      "Entropic 4",
+      "Wounding 2",
+      "Destruction",
+      "Red Augment Slot",
+      "Colorless Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Colorless"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Epic Goldcurse",
+      "Entropic 4",
+      "Wounding 2",
+      "Destruction"
+    ],
+    "itemKey": "item:epic_goldcursed_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Blade of the High Priestess",
+    "link": "https://ddowiki.com/page/Item:Blade_of_the_High_Priestess",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 21,
+    "effectsRaw": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Potency +72",
+      "Improved Paralyzing",
+      "Bewildering",
+      "Wounding",
+      "Slay Living"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Potency +72",
+      "Improved Paralyzing",
+      "Bewildering",
+      "Wounding",
+      "Slay Living"
+    ],
+    "itemKey": "item:blade_of_the_high_priestess",
+    "setMembership": []
+  },
+  {
+    "name": "Drow Dagger of the Weapon Master",
+    "link": "https://ddowiki.com/page/Item:Drow_Dagger_of_the_Weapon_Master",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 21,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "itemKey": "item:drow_dagger_of_the_weapon_master",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Cursed Shard",
+    "link": "https://ddowiki.com/page/Item:Epic_Cursed_Shard",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 21,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Bleeding 5",
+      "Weakening 2",
+      "Polycurse",
+      "Cold Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Bleeding 5",
+      "Weakening 2",
+      "Polycurse",
+      "Cold Iron"
+    ],
+    "itemKey": "item:epic_cursed_shard",
+    "setMembership": []
+  },
+  {
+    "name": "Thunder-Forged Alloy Dagger",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Agony, the Knife in the Dark",
+    "link": "https://ddowiki.com/page/Item:Agony,_the_Knife_in_the_Dark",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 23,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Keen",
+      "Entropic",
+      "Hemorrhaging",
+      "Disintegration",
+      "Improved Deception",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Keen",
+      "Entropic",
+      "Hemorrhaging",
+      "Disintegration",
+      "Improved Deception",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "itemKey": "item:agony,_the_knife_in_the_dark",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Dagger of Inquisition",
+    "link": "https://ddowiki.com/page/Item:Epic_Dagger_of_Inquisition",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 23,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Holy 5",
+      "Unnatural Bane 5",
+      "Ghostbane 5",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Holy 5",
+      "Unnatural Bane 5",
+      "Ghostbane 5",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:epic_dagger_of_inquisition",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ornamented Dagger (legacy) (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Ornamented_Dagger_(legacy)_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 24,
+    "effectsRaw": [
+      "Upgradeable - Tier 1",
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Concentration +17",
+      "Potency +72",
+      "Efficient Metamagic - Maximize II",
+      "Spell Lore VII",
+      "Lesser Maximize — 3 Charges (Recharged/Day:3) Upgradeable - Tier 2 Spell Lore VII → Spell Lore VIII Upgradeable - Tier 3 Potency +72 → Potency +76 Adds Orange Augment Slot",
+      "Upgradeable - Tier 2 Spell Lore VII → Spell Lore VIII",
+      "Spell Lore VII → Spell Lore VIII",
+      "Upgradeable - Tier 3 Potency +72 → Potency +76 Adds Orange Augment Slot",
+      "Potency +72 → Potency +76",
+      "Adds Orange Augment Slot",
+      "Orange Augments: All Orange augments are named augments.",
+      "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons.",
+      "Yellow Augments: Standard augments provide bonuses to offensive stats, condition resistances and immunities, elemental resistances and DC spellcasting stats.",
+      "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
+    ],
+    "augmentSlots": [
+      "Lesser Maximize — 3 Charges (Recharged/Day:3) Upgradeable - Tier 2 Spell Lore VII → Spell Lore VIII Upgradeable - Tier 3 Potency +72 → Potency +76 Adds Orange",
+      "Upgradeable - Tier 3 Potency +72 → Potency +76 Adds Orange",
+      "Adds Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
+    ],
+    "namedEffects": [
+      "Upgradeable - Tier 1",
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Concentration +17",
+      "Potency +72",
+      "Efficient Metamagic - Maximize II",
+      "Spell Lore VII",
+      "Upgradeable - Tier 2 Spell Lore VII → Spell Lore VIII",
+      "Spell Lore VII → Spell Lore VIII",
+      "Potency +72 → Potency +76",
+      "Orange Augments: All Orange augments are named augments.",
+      "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons.",
+      "Yellow Augments: Standard augments provide bonuses to offensive stats, condition resistances and immunities, elemental resistances and DC spellcasting stats."
+    ],
+    "itemKey": "item:epic_ornamented_dagger_(legacy)_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Flotsam (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Flotsam_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Greater Disruption",
+      "Bludgeoning 5",
+      "Corrosive Salt",
+      "Undead Bane 5",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Greater Disruption",
+      "Bludgeoning 5",
+      "Corrosive Salt",
+      "Undead Bane 5"
+    ],
+    "itemKey": "item:epic_flotsam_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ornamented Dagger (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Ornamented_Dagger_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 24,
+    "effectsRaw": [
+      "Spellcasting Implement +24",
+      "+7 Enhancement Bonus",
+      "Concentration +18",
+      "Potency +84",
+      "Spell Lore +10",
+      "Lesser Maximize — 3 Charges (Recharged/Day:3)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +24",
+      "+7 Enhancement Bonus",
+      "Concentration +18",
+      "Potency +84",
+      "Spell Lore +10",
+      "Lesser Maximize — 3 Charges (Recharged/Day:3)"
+    ],
+    "itemKey": "item:epic_ornamented_dagger_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Dagger (level 24)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Dagger_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Ghostbane 5",
+      "Evil Outsider Bane 5",
+      "Greater Vorpal",
+      "Crushing 12"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Ghostbane 5",
+      "Evil Outsider Bane 5",
+      "Greater Vorpal",
+      "Crushing 12"
+    ],
+    "itemKey": "item:spectral_dagger_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Fell Shiv (level 25)",
+    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(level_25)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Greater Vorpal",
+      "One of the following: Dazing VI Deception VI Doublestrike 6% Draining VI Feeding VI Ghostbane VI Heartseeker VI Humanoid Bane VI Improved Disruption Improved Smiting Natural Bane VI Riposte VI Stumbling VI Sundering VI Debilitating: Weakening Enfeebling One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Dazing VI",
+      "Deception VI",
+      "Doublestrike 6%",
+      "Draining VI",
+      "Feeding VI",
+      "Ghostbane VI",
+      "Heartseeker VI",
+      "Humanoid Bane VI",
+      "Improved Disruption",
+      "Improved Smiting",
+      "Natural Bane VI",
+      "Riposte VI",
+      "Stumbling VI",
+      "Sundering VI",
+      "Debilitating: Weakening Enfeebling One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Weakening",
+      "Enfeebling",
+      "One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Stunning +10",
+      "Shatter +10",
+      "Tendon Slice 10%",
+      "Vertigo +10",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Greater Vorpal",
+      "One of the following: Dazing VI Deception VI Doublestrike 6% Draining VI Feeding VI Ghostbane VI Heartseeker VI Humanoid Bane VI Improved Disruption Improved Smiting Natural Bane VI Riposte VI Stumbling VI Sundering VI Debilitating: Weakening Enfeebling One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Dazing VI",
+      "Deception VI",
+      "Doublestrike 6%",
+      "Draining VI",
+      "Feeding VI",
+      "Ghostbane VI",
+      "Heartseeker VI",
+      "Humanoid Bane VI",
+      "Improved Disruption",
+      "Improved Smiting",
+      "Natural Bane VI",
+      "Riposte VI",
+      "Stumbling VI",
+      "Sundering VI",
+      "Debilitating: Weakening Enfeebling One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Weakening",
+      "Enfeebling",
+      "One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Stunning +10",
+      "Shatter +10",
+      "Tendon Slice 10%",
+      "Vertigo +10"
+    ],
+    "itemKey": "item:fell_shiv_(level_25)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Obsidian Dagger",
+    "link": "https://ddowiki.com/page/Item:Epic_Obsidian_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 25,
+    "effectsRaw": [
+      "Spellcasting Implement +25",
+      "+8 Enhancement Bonus",
+      "Void Lore +19%",
+      "Nullification +128",
+      "Profane Lifeforce +39",
+      "Quality Negative Amplification +12",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +25",
+      "+8 Enhancement Bonus",
+      "Void Lore +19%",
+      "Nullification +128",
+      "Profane Lifeforce +39",
+      "Quality Negative Amplification +12"
+    ],
+    "itemKey": "item:epic_obsidian_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Fell Shiv (level 26)",
+    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(level_26)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Greater Vorpal",
+      "One of the following: Dazing VI Deception VI Doublestrike 6% Draining VI Feeding VI Ghostbane VI Heartseeker VI Humanoid Bane VI Improved Disruption Improved Smiting Natural Bane VI Riposte VI Stumbling VI Sundering VI Debilitating: Weakening Enfeebling One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Dazing VI",
+      "Deception VI",
+      "Doublestrike 6%",
+      "Draining VI",
+      "Feeding VI",
+      "Ghostbane VI",
+      "Heartseeker VI",
+      "Humanoid Bane VI",
+      "Improved Disruption",
+      "Improved Smiting",
+      "Natural Bane VI",
+      "Riposte VI",
+      "Stumbling VI",
+      "Sundering VI",
+      "Debilitating: Weakening Enfeebling One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Weakening",
+      "Enfeebling",
+      "One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Stunning +10",
+      "Shatter +10",
+      "Tendon Slice 10%",
+      "Vertigo +10",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Greater Vorpal",
+      "One of the following: Dazing VI Deception VI Doublestrike 6% Draining VI Feeding VI Ghostbane VI Heartseeker VI Humanoid Bane VI Improved Disruption Improved Smiting Natural Bane VI Riposte VI Stumbling VI Sundering VI Debilitating: Weakening Enfeebling One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Dazing VI",
+      "Deception VI",
+      "Doublestrike 6%",
+      "Draining VI",
+      "Feeding VI",
+      "Ghostbane VI",
+      "Heartseeker VI",
+      "Humanoid Bane VI",
+      "Improved Disruption",
+      "Improved Smiting",
+      "Natural Bane VI",
+      "Riposte VI",
+      "Stumbling VI",
+      "Sundering VI",
+      "Debilitating: Weakening Enfeebling One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Weakening",
+      "Enfeebling",
+      "One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Stunning +10",
+      "Shatter +10",
+      "Tendon Slice 10%",
+      "Vertigo +10"
+    ],
+    "itemKey": "item:fell_shiv_(level_26)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Assassin's Kiss",
+    "link": "https://ddowiki.com/page/Item:Epic_Assassin%27s_Kiss",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Greater Incorporeal Bane",
+      "Improved Deception",
+      "Greater Dispelling",
+      "Assassinate +6",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Greater Incorporeal Bane",
+      "Improved Deception",
+      "Greater Dispelling",
+      "Assassinate +6"
+    ],
+    "itemKey": "item:epic_assassin's_kiss",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Steel Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Fell Shiv (level 27)",
+    "link": "https://ddowiki.com/page/Item:Fell_Shiv_(level_27)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 27,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Greater Vorpal",
+      "One of the following: Dazing VI Deception VI Doublestrike 6% Draining VI Feeding VI Ghostbane VI Heartseeker VI Humanoid Bane VI Improved Disruption Improved Smiting Natural Bane VI Riposte VI Stumbling VI Sundering VI Debilitating: Weakening Enfeebling One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Dazing VI",
+      "Deception VI",
+      "Doublestrike 6%",
+      "Draining VI",
+      "Feeding VI",
+      "Ghostbane VI",
+      "Heartseeker VI",
+      "Humanoid Bane VI",
+      "Improved Disruption",
+      "Improved Smiting",
+      "Natural Bane VI",
+      "Riposte VI",
+      "Stumbling VI",
+      "Sundering VI",
+      "Debilitating: Weakening Enfeebling One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Weakening",
+      "Enfeebling",
+      "One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Stunning +10",
+      "Shatter +10",
+      "Tendon Slice 10%",
+      "Vertigo +10",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Greater Vorpal",
+      "One of the following: Dazing VI Deception VI Doublestrike 6% Draining VI Feeding VI Ghostbane VI Heartseeker VI Humanoid Bane VI Improved Disruption Improved Smiting Natural Bane VI Riposte VI Stumbling VI Sundering VI Debilitating: Weakening Enfeebling One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Dazing VI",
+      "Deception VI",
+      "Doublestrike 6%",
+      "Draining VI",
+      "Feeding VI",
+      "Ghostbane VI",
+      "Heartseeker VI",
+      "Humanoid Bane VI",
+      "Improved Disruption",
+      "Improved Smiting",
+      "Natural Bane VI",
+      "Riposte VI",
+      "Stumbling VI",
+      "Sundering VI",
+      "Debilitating: Weakening Enfeebling One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Weakening",
+      "Enfeebling",
+      "One of the following: Stunning +10 Shatter +10 Tendon Slice 10% Vertigo +10",
+      "Stunning +10",
+      "Shatter +10",
+      "Tendon Slice 10%",
+      "Vertigo +10"
+    ],
+    "itemKey": "item:fell_shiv_(level_27)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Dagger of the Deep Ones",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dagger_of_the_Deep_Ones",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 27,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Tidal 6",
+      "Corrosive Salt",
+      "Bleeding 6",
+      "Maiming 6",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Tidal 6",
+      "Corrosive Salt",
+      "Bleeding 6",
+      "Maiming 6"
+    ],
+    "itemKey": "item:legendary_dagger_of_the_deep_ones",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Dice",
+    "link": "https://ddowiki.com/page/Item:Epic_Dice",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+12 Enhancement Bonus",
+      "Greater Maiming",
+      "Armor-Piercing 20%",
+      "Insightful Sneak Attack Bonus +6",
+      "Sovereign Vorpal",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Greater Maiming",
+      "Armor-Piercing 20%",
+      "Insightful Sneak Attack Bonus +6",
+      "Sovereign Vorpal"
+    ],
+    "itemKey": "item:epic_dice",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Slice",
+    "link": "https://ddowiki.com/page/Item:Epic_Slice",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "Greater Bleeding",
+      "Heartseeker VI",
+      "Insightful Seeker +6",
+      "Improved Destruction",
+      "+12 Enhancement Bonus",
+      "Epic Slice 'n Dice Set",
+      "Epic The Devil's Handiwork",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Epic Slice 'n Dice Set"
+    ],
+    "namedEffects": [
+      "Greater Bleeding",
+      "Heartseeker VI",
+      "Insightful Seeker +6",
+      "Improved Destruction",
+      "+12 Enhancement Bonus",
+      "Epic The Devil's Handiwork"
+    ],
+    "itemKey": "item:epic_slice",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Deep Demise",
+    "link": "https://ddowiki.com/page/Item:Legendary_Deep_Demise",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+13 Enhancement Bonus",
+      "Intelligence +13",
+      "Illusion Focus +5",
+      "Insightful Illusion Focus +3",
+      "Quality Spell Penetration +2",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+13 Enhancement Bonus",
+      "Intelligence +13",
+      "Illusion Focus +5",
+      "Insightful Illusion Focus +3",
+      "Quality Spell Penetration +2"
+    ],
+    "itemKey": "item:legendary_deep_demise",
+    "setMembership": []
+  },
+  {
+    "name": "Pain, the Half of Whole",
+    "link": "https://ddowiki.com/page/Item:Pain,_the_Half_of_Whole",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Fetters of Unreality",
+      "Improved Deception",
+      "Sovereign Vorpal",
+      "Deception +11",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "pain_and_suffering",
+        "setName": "Pain and Suffering",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "piecesRequired": 2,
+        "effect": "+0.5[W] to each of your Daggers",
+        "effectRaw": "+0.5[W] to each of your Daggers",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Fetters of Unreality",
+      "Improved Deception",
+      "Sovereign Vorpal",
+      "Deception +11"
+    ],
+    "itemKey": "item:pain,_the_half_of_whole",
+    "setMembership": [
+      {
+        "setId": "pain_and_suffering",
+        "setName": "Pain and Suffering",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "minLevels": [
+          28
+        ],
+        "availablePieces": 2,
+        "bonusRaw": "2 Pieces Equipped: +0.5[W] to each of your Daggers",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "+0.5[W] to each of your Daggers",
+            "effectRaw": "+0.5[W] to each of your Daggers",
+            "tieredEffects": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Suffering, the Half of Whole",
+    "link": "https://ddowiki.com/page/Item:Suffering,_the_Half_of_Whole",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Piercing 6",
+      "Constricting Nightmare",
+      "Wounding 3",
+      "Metalline",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "pain_and_suffering",
+        "setName": "Pain and Suffering",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "piecesRequired": 2,
+        "effect": "+0.5[W] to each of your Daggers",
+        "effectRaw": "+0.5[W] to each of your Daggers",
+        "tieredEffects": []
+      }
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Piercing 6",
+      "Constricting Nightmare",
+      "Wounding 3",
+      "Metalline"
+    ],
+    "itemKey": "item:suffering,_the_half_of_whole",
+    "setMembership": [
+      {
+        "setId": "pain_and_suffering",
+        "setName": "Pain and Suffering",
+        "source": "named_item_sets",
+        "sourceSection": "Ravenloft sets",
+        "minLevels": [
+          28
+        ],
+        "availablePieces": 2,
+        "bonusRaw": "2 Pieces Equipped: +0.5[W] to each of your Daggers",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "+0.5[W] to each of your Daggers",
+            "effectRaw": "+0.5[W] to each of your Daggers",
+            "tieredEffects": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Epic Flotsam (level 28)",
+    "link": "https://ddowiki.com/page/Item:Epic_Flotsam_(level_28)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+12 Enhancement Bonus",
+      "Superior Disruption",
+      "Bludgeoning 6",
+      "Corrosive Salt",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Superior Disruption",
+      "Bludgeoning 6",
+      "Corrosive Salt",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:epic_flotsam_(level_28)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ornamented Dagger (level 28)",
+    "link": "https://ddowiki.com/page/Item:Epic_Ornamented_Dagger_(level_28)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "Spellcasting Implement +28",
+      "+12 Enhancement Bonus",
+      "Concentration +19",
+      "Potency +95",
+      "Spell Lore +11",
+      "Lesser Maximize — 3 Charges (Recharged/Day:3)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +28",
+      "+12 Enhancement Bonus",
+      "Concentration +19",
+      "Potency +95",
+      "Spell Lore +11",
+      "Lesser Maximize — 3 Charges (Recharged/Day:3)"
+    ],
+    "itemKey": "item:epic_ornamented_dagger_(level_28)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Dagger (level 28)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Dagger_(level_28)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+12 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 13"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 13"
+    ],
+    "itemKey": "item:spectral_dagger_(level_28)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Moonslice",
+    "link": "https://ddowiki.com/page/Item:Legendary_Moonslice",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Negativity 6",
+      "Chilling 6",
+      "Sovereign Vorpal",
+      "Quality Deception +2",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Negativity 6",
+      "Chilling 6",
+      "Sovereign Vorpal",
+      "Quality Deception +2"
+    ],
+    "itemKey": "item:legendary_moonslice",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Sunslice",
+    "link": "https://ddowiki.com/page/Item:Legendary_Sunslice",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Coruscating 6",
+      "Fiery 6",
+      "Sovereign Banishing",
+      "Insightful Deception +5",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Coruscating 6",
+      "Fiery 6",
+      "Sovereign Banishing",
+      "Insightful Deception +5"
+    ],
+    "itemKey": "item:legendary_sunslice",
+    "setMembership": []
+  },
+  {
+    "name": "Dull Dagger",
+    "link": "https://ddowiki.com/page/Item:Dull_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Cold Iron",
+      "If equipped on a character with Follower of the Blood of Vol: Lesser Favor of the Lady Vol",
+      "Lesser Favor of the Lady Vol",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Cold Iron",
+      "If equipped on a character with Follower of the Blood of Vol: Lesser Favor of the Lady Vol",
+      "Lesser Favor of the Lady Vol"
+    ],
+    "itemKey": "item:dull_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Dagger of the Liturgist",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dagger_of_the_Liturgist",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Relentless Fury",
+      "Enhanced Bloodrage",
+      "Blood Rage",
+      "Sovereign Vorpal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Relentless Fury",
+      "Enhanced Bloodrage",
+      "Blood Rage",
+      "Sovereign Vorpal"
+    ],
+    "itemKey": "item:legendary_dagger_of_the_liturgist",
+    "setMembership": []
+  },
+  {
+    "name": "Nightmother's Dagger",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Keeper of the Crimson Covenant",
+    "link": "https://ddowiki.com/page/Item:Keeper_of_the_Crimson_Covenant",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "First Litany of the Crimson Covenant",
+      "Second Litany of the Crimson Covenant",
+      "Third Litany of the Crimson Covenant",
+      "Final Litany of the Crimson Covenant",
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Cold Iron",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "First Litany of the Crimson Covenant",
+      "Second Litany of the Crimson Covenant",
+      "Third Litany of the Crimson Covenant",
+      "Final Litany of the Crimson Covenant",
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Cold Iron"
+    ],
+    "itemKey": "item:keeper_of_the_crimson_covenant",
+    "setMembership": []
+  },
+  {
+    "name": "Raellia, the Frostblade",
+    "link": "https://ddowiki.com/page/Item:Raellia,_the_Frostblade",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Frostblade",
+      "Chilling 6",
+      "Icy Blast 6",
+      "Legendary Freezing Ice",
+      "Improved Destruction",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Freezing Ice"
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Frostblade",
+      "Chilling 6",
+      "Icy Blast 6",
+      "Improved Destruction"
+    ],
+    "itemKey": "item:raellia,_the_frostblade",
+    "setMembership": []
+  },
+  {
+    "name": "Morninglord's Dagger",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Syranian Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flamesalt Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Greenstone Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Greenstone_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Slay Living",
+      "Deadly +10",
+      "Seeker +13",
+      "Deception +10",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Slay Living"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Deadly +10",
+      "Seeker +13",
+      "Deception +10",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_greenstone_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Alchemical Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Phiarlan Spy Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Phiarlan_Spy_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Acid Blast 6",
+      "Improved Deception +20",
+      "Enhanced Ghostly",
+      "Critical Weakening 3",
+      "Legendary Paralysis",
+      "Purple Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Paralysis"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Acid Blast 6",
+      "Improved Deception +20",
+      "Enhanced Ghostly",
+      "Critical Weakening 3"
+    ],
+    "itemKey": "item:legendary_phiarlan_spy_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Goldcursed Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Goldcursed_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Goldcurse",
+      "Entropic 6",
+      "Wounding 3",
+      "Improved Destruction",
+      "The Golden Curse",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Goldcurse"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Entropic 6",
+      "Wounding 3",
+      "Improved Destruction",
+      "The Golden Curse"
+    ],
+    "itemKey": "item:legendary_goldcursed_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ancient Vulkoorim Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ancient_Vulkoorim_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Poison Blast 6",
+      "Giant Slayer",
+      "Giant Bane 6",
+      "Wounding 3",
+      "Adamantine",
+      "Legendary Vulkoor's Chosen",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vulkoor's Chosen"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Poison Blast 6",
+      "Giant Slayer",
+      "Giant Bane 6",
+      "Wounding 3",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_ancient_vulkoorim_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Bejeweled Letter Opener",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bejeweled_Letter_Opener",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 30,
+    "effectsRaw": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Sonic Blast 6",
+      "Devotion +146",
+      "Resonance +146",
+      "Efficient Metamagic - Empower Healing II",
+      "Legendary Oasis of Morality",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Oasis of Morality"
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Sonic Blast 6",
+      "Devotion +146",
+      "Resonance +146",
+      "Efficient Metamagic - Empower Healing II"
+    ],
+    "itemKey": "item:legendary_bejeweled_letter_opener",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flint",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flint",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 30,
+    "effectsRaw": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Sovereign Lightning Strike",
+      "Shocking Blast 6",
+      "Lightning Lore +21%",
+      "Magnetism +146",
+      "Legendary Lightningstorm Guard",
+      "The Legendary Desert's Writhing Storm",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Lightningstorm Guard",
+      "The Legendary Desert's Writhing Storm"
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Sovereign Lightning Strike",
+      "Shocking Blast 6",
+      "Lightning Lore +21%",
+      "Magnetism +146"
+    ],
+    "itemKey": "item:legendary_flint",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Bottle o' Rum",
+    "link": "https://ddowiki.com/page/Item:Legendary_Bottle_o%27_Rum",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Sovereign Vorpal",
+      "Bleeding 6",
+      "Tendon Slice +11",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Sovereign Vorpal",
+      "Bleeding 6",
+      "Tendon Slice +11"
+    ],
+    "itemKey": "item:legendary_bottle_o'_rum",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Dagger",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Lamannian Hunting Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Lamannian_Hunting_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Animal Bane 6",
+      "Vermin Bane 6",
+      "Reptilian Bane 6",
+      "Humanoid Bane 6",
+      "Doublestrike 15%",
+      "Seeker +14",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Animal Bane 6",
+      "Vermin Bane 6",
+      "Reptilian Bane 6",
+      "Humanoid Bane 6",
+      "Doublestrike 15%",
+      "Seeker +14"
+    ],
+    "itemKey": "item:legendary_lamannian_hunting_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Attuned Bone Dagger",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:attuned_bone_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flotsam (level 32)",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flotsam_(level_32)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Superior Disruption",
+      "Bludgeoning 6",
+      "Corrosive Salt",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Superior Disruption",
+      "Bludgeoning 6",
+      "Corrosive Salt",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:legendary_flotsam_(level_32)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ornamented Dagger (level 32)",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ornamented_Dagger_(level_32)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Concentration +21",
+      "Potency +106",
+      "Spell Lore +12",
+      "Lesser Maximize — 3 Charges (Recharged/Day:3)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +32",
+      "+15 Enhancement Bonus",
+      "Concentration +21",
+      "Potency +106",
+      "Spell Lore +12",
+      "Lesser Maximize — 3 Charges (Recharged/Day:3)"
+    ],
+    "itemKey": "item:legendary_ornamented_dagger_(level_32)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Dagger (level 32)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Dagger_(level_32)",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 15"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 15"
+    ],
+    "itemKey": "item:spectral_dagger_(level_32)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shining Reliquary Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Defiled Reliquary Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Dagger of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dagger_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_dagger_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Dagger of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Dagger_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_dagger_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Dagger of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Dagger_of_the_Undying_Age",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:dagger_of_the_undying_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Poniard of Pain",
+    "link": "https://ddowiki.com/page/Item:Legendary_Poniard_of_Pain",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Metalline",
+      "Aligned",
+      "Maiming 7",
+      "Legendary Freezing Ice",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Freezing Ice"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Metalline",
+      "Aligned",
+      "Maiming 7"
+    ],
+    "itemKey": "item:legendary_poniard_of_pain",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Calamitous Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_calamitous_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_dagger",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary The Dragon Dagger",
+    "link": "https://ddowiki.com/page/Item:Legendary_The_Dragon_Dagger",
+    "slot": "weapon",
+    "itemSubtype": "dagger",
+    "handedness": "one_handed",
+    "category": "Daggers",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Reverberating 7",
+      "Screeching 16",
+      "Legendary Paralysis",
+      "Dragon's Edge 7",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Paralysis"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Reverberating 7",
+      "Screeching 16",
+      "Dragon's Edge 7"
+    ],
+    "itemKey": "item:legendary_the_dragon_dagger",
+    "setMembership": []
+  }
+]

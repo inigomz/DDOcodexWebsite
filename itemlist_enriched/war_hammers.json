@@ -1,0 +1,3076 @@
+[
+  {
+    "name": "Ethereal Warhammer",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Sworn Silver Warhammer",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Mournlode Warhammer (level 4)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Warhammer_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Righteous",
+      "Undead Bane 2"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Righteous",
+      "Undead Bane 2"
+    ],
+    "itemKey": "item:mournlode_warhammer_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Warhammer (level 4)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Crushing 4"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Crushing 4"
+    ],
+    "itemKey": "item:spectral_warhammer_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Hull-Wrecker's Hammer (level 4)",
+    "link": "https://ddowiki.com/page/Item:Hull-Wrecker%27s_Hammer_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Bludgeoning 2",
+      "Construct Bane 2",
+      "Destruction",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Bludgeoning 2",
+      "Construct Bane 2",
+      "Destruction"
+    ],
+    "itemKey": "item:hull-wrecker's_hammer_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Squid Smasher",
+    "link": "https://ddowiki.com/page/Item:Squid_Smasher",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Doublestrike 4%",
+      "Righteous",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Doublestrike 4%",
+      "Righteous"
+    ],
+    "itemKey": "item:squid_smasher",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Warhammer",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Flamesalt Warhammer",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Ol' Reliable",
+    "link": "https://ddowiki.com/page/Item:Ol%27_Reliable",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 7,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Force Blast 2",
+      "Aligned",
+      "Melee Alacrity 5%",
+      "Human Bane 2",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane bonus to Melee And Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Universal Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane bonus to Universal Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to Spell DCs",
+        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to Spell DCs"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+2",
+            "effect": "Profane bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "piecesRequired": 5,
+        "effect": "★+4 Profane bonus to Hit and Damage",
+        "effectRaw": "★+4 Profane bonus to Hit and Damage",
+        "tieredEffects": [
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane bonus to Hit and Damage"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Force Blast 2",
+      "Aligned",
+      "Melee Alacrity 5%",
+      "Human Bane 2"
+    ],
+    "itemKey": "item:ol'_reliable",
+    "setMembership": [
+      {
+        "setId": "the_dread_isle_s_curse",
+        "setName": "The Dread Isle's Curse",
+        "source": "named_item_sets",
+        "sourceSection": "Isle of Dread sets",
+        "minLevels": [
+          7,
+          31
+        ],
+        "availablePieces": 70,
+        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
+        "bonuses": [
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane bonus to Melee And Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Universal Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane bonus to Universal Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to Spell DCs",
+            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to Spell DCs"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
+            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+2",
+                "effect": "Profane bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "★+4 Profane bonus to Hit and Damage",
+            "effectRaw": "★+4 Profane bonus to Hit and Damage",
+            "tieredEffects": [
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane bonus to Hit and Damage"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nightforge Hammer",
+    "link": "https://ddowiki.com/page/Item:Nightforge_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Adamantine"
+    ],
+    "itemKey": "item:nightforge_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Jeweled Hammer",
+    "link": "https://ddowiki.com/page/Item:Jeweled_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Command +2",
+      "Impact",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Command +2",
+      "Impact"
+    ],
+    "itemKey": "item:jeweled_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Mournlode Warhammer (level 8)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Warhammer_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:mournlode_warhammer_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Hull-Wrecker's Hammer (level 8)",
+    "link": "https://ddowiki.com/page/Item:Hull-Wrecker%27s_Hammer_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Bludgeoning 2",
+      "Construct Bane 2",
+      "Destruction",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Bludgeoning 2",
+      "Construct Bane 2",
+      "Destruction"
+    ],
+    "itemKey": "item:hull-wrecker's_hammer_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Warhammer (level 8)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Vorpal",
+      "Crushing 6"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Ghostbane 2",
+      "Evil Outsider Bane 2",
+      "Vorpal",
+      "Crushing 6"
+    ],
+    "itemKey": "item:spectral_warhammer_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Calamitous Warhammer",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1"
+    ],
+    "itemKey": "item:calamitous_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Echo of Whelm",
+    "link": "https://ddowiki.com/page/Item:Echo_of_Whelm",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 9,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Whelming Shockwave",
+      "Blunt Trauma",
+      "Lesser Boneshatter",
+      "Giant Bane 3",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Whelming Shockwave",
+      "Blunt Trauma",
+      "Lesser Boneshatter",
+      "Giant Bane 3"
+    ],
+    "itemKey": "item:echo_of_whelm",
+    "setMembership": []
+  },
+  {
+    "name": "Barovian's Warhammer",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Macabre Warhammer",
+    "link": "https://ddowiki.com/page/Item:Macabre_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Green Steel Warhammer",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (historic)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(historic)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Sonic Lore V",
+      "Thundering",
+      "Resonance +66",
+      "Stunning +8"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Sonic Lore V",
+      "Thundering",
+      "Resonance +66",
+      "Stunning +8"
+    ],
+    "itemKey": "item:hammer_of_the_leaden_clouds_(historic)",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Warhammer",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (level 12)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Sonic Lore V",
+      "Resonance +66",
+      "Thundering",
+      "Stunning +8"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +12",
+      "+4 Enhancement Bonus",
+      "Sonic Lore V",
+      "Resonance +66",
+      "Thundering",
+      "Stunning +8"
+    ],
+    "itemKey": "item:hammer_of_the_leaden_clouds_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Mournlode Warhammer (level 12)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Warhammer_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:mournlode_warhammer_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Warhammer (level 12)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Ghostbane 3",
+      "Evil Outsider Bane 3",
+      "Vorpal",
+      "Crushing 7"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Ghostbane 3",
+      "Evil Outsider Bane 3",
+      "Vorpal",
+      "Crushing 7"
+    ],
+    "itemKey": "item:spectral_warhammer_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Hull-Wrecker's Hammer (level 12)",
+    "link": "https://ddowiki.com/page/Item:Hull-Wrecker%27s_Hammer_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Bludgeoning 3",
+      "Construct Bane 3",
+      "Destruction",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Bludgeoning 3",
+      "Construct Bane 3",
+      "Destruction"
+    ],
+    "itemKey": "item:hull-wrecker's_hammer_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (level 13)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_13)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 13,
+    "effectsRaw": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Sonic Lore V",
+      "Resonance +66",
+      "Thundering",
+      "Stunning +10"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Sonic Lore V",
+      "Resonance +66",
+      "Thundering",
+      "Stunning +10"
+    ],
+    "itemKey": "item:hammer_of_the_leaden_clouds_(level_13)",
+    "setMembership": []
+  },
+  {
+    "name": "Warhammer of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Warhammer_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Impact",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Impact"
+    ],
+    "itemKey": "item:warhammer_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Warhammer of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Warhammer_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:warhammer_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (level 14)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_14)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 14,
+    "effectsRaw": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Sonic Lore V",
+      "Resonance +72",
+      "Shrieking",
+      "Stunning +10"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +15",
+      "+5 Enhancement Bonus",
+      "Sonic Lore V",
+      "Resonance +72",
+      "Shrieking",
+      "Stunning +10"
+    ],
+    "itemKey": "item:hammer_of_the_leaden_clouds_(level_14)",
+    "setMembership": []
+  },
+  {
+    "name": "Stormreach Guardian's Hammer",
+    "link": "https://ddowiki.com/page/Item:Stormreach_Guardian%27s_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Chilling 3",
+      "Crushing 8",
+      "Ghost Touch",
+      "Shockwave",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "renegade_champion",
+        "setName": "Renegade Champion",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 3,
+        "effect": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
+        "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
+        "tieredEffects": []
+      },
+      {
+        "setId": "renegade_champion",
+        "setName": "Renegade Champion",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 3,
+        "effect": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
+        "effectRaw": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2",
+            "effect": "Artifact Bonus to Rune Arm DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Artifact Bonus to Rune Arm DCs"
+          }
+        ]
+      },
+      {
+        "setId": "renegade_champion",
+        "setName": "Renegade Champion",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "piecesRequired": 3,
+        "effect": "♦+10★+30 Artifact Bonus to Repair Amplification",
+        "effectRaw": "♦+10★+30 Artifact Bonus to Repair Amplification",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact Bonus to Repair Amplification"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact Bonus to Repair Amplification"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Chilling 3",
+      "Crushing 8",
+      "Ghost Touch",
+      "Shockwave"
+    ],
+    "itemKey": "item:stormreach_guardian's_hammer",
+    "setMembership": [
+      {
+        "setId": "renegade_champion",
+        "setName": "Renegade Champion",
+        "source": "named_item_sets",
+        "sourceSection": "Disciples of Rage sets",
+        "minLevels": [
+          14,
+          29
+        ],
+        "availablePieces": 5,
+        "bonusRaw": "3 Pieces Equipped: +1 Artifact Bonus to Critical Multiplier on a 19-20 ♦+2★+3 Artifact Bonus to Rune Arm DCs ♦+10★+30 Artifact Bonus to Repair Amplification",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
+            "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
+            "tieredEffects": []
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
+            "effectRaw": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2",
+                "effect": "Artifact Bonus to Rune Arm DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Artifact Bonus to Rune Arm DCs"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 3,
+            "effect": "♦+10★+30 Artifact Bonus to Repair Amplification",
+            "effectRaw": "♦+10★+30 Artifact Bonus to Repair Amplification",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact Bonus to Repair Amplification"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact Bonus to Repair Amplification"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Banhammer",
+    "link": "https://ddowiki.com/page/Item:The_Banhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Vorpal",
+      "Improved Banishing",
+      "Improved Smiting",
+      "Improved Disruption",
+      "Anchoring",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Vorpal",
+      "Improved Banishing",
+      "Improved Smiting",
+      "Improved Disruption",
+      "Anchoring"
+    ],
+    "itemKey": "item:the_banhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Forge",
+    "link": "https://ddowiki.com/page/Item:Forge",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Fiery 4",
+      "Flaming 9",
+      "Jolting 9",
+      "Seeker +8",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Fiery 4",
+      "Flaming 9",
+      "Jolting 9",
+      "Seeker +8"
+    ],
+    "itemKey": "item:forge",
+    "setMembership": []
+  },
+  {
+    "name": "Syranian Warhammer",
+    "link": "https://ddowiki.com/page/Item:Syranian_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Earthshatter Warhammer",
+    "link": "https://ddowiki.com/page/Item:Earthshatter_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Greater Stone Prison",
+      "Rock Shattering",
+      "Maiming",
+      "Unwieldy"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Adamantine",
+      "Greater Stone Prison",
+      "Rock Shattering",
+      "Maiming",
+      "Unwieldy"
+    ],
+    "itemKey": "item:earthshatter_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Mournlode Warhammer (level 16)",
+    "link": "https://ddowiki.com/page/Item:Mournlode_Warhammer_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:mournlode_warhammer_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Warhammer (level 16)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 9"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 9"
+    ],
+    "itemKey": "item:spectral_warhammer_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Hull-Wrecker's Hammer (level 16)",
+    "link": "https://ddowiki.com/page/Item:Hull-Wrecker%27s_Hammer_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Bludgeoning 4",
+      "Construct Bane 4",
+      "Destruction",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Bludgeoning 4",
+      "Construct Bane 4",
+      "Destruction"
+    ],
+    "itemKey": "item:hull-wrecker's_hammer_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Reliquary Warhammer",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Reliquary Warhammer",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Mournlode Warhammer",
+    "link": "https://ddowiki.com/page/Item:Epic_Mournlode_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "See the item description page for details."
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "See the item description page for details."
+    ],
+    "itemKey": "item:epic_mournlode_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Warhammer (level 20)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_20)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 10"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Ghostbane 4",
+      "Evil Outsider Bane 4",
+      "Improved Vorpal",
+      "Crushing 10"
+    ],
+    "itemKey": "item:spectral_warhammer_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Hull-Wrecker's Hammer (level 20)",
+    "link": "https://ddowiki.com/page/Item:Epic_Hull-Wrecker%27s_Hammer_(level_20)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Bludgeoning 4",
+      "Construct Bane 4",
+      "Improved Destruction",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Bludgeoning 4",
+      "Construct Bane 4",
+      "Improved Destruction"
+    ],
+    "itemKey": "item:epic_hull-wrecker's_hammer_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sworn Silver Warhammer",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ethereal Warhammer",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Drow Warhammer of the Weapon Master",
+    "link": "https://ddowiki.com/page/Item:Drow_Warhammer_of_the_Weapon_Master",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 21,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Maiming",
+      "One of the following: Insightful Combat Mastery +5 Shatter +10 Stunning +10 Vertigo +10 Tendon Slice 10%",
+      "Insightful Combat Mastery +5",
+      "Shatter +10",
+      "Stunning +10",
+      "Vertigo +10",
+      "Tendon Slice 10%"
+    ],
+    "itemKey": "item:drow_warhammer_of_the_weapon_master",
+    "setMembership": []
+  },
+  {
+    "name": "Thunder-Forged Alloy Warhammer",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Mornh, Hammer of the Mountains",
+    "link": "https://ddowiki.com/page/Item:Mornh,_Hammer_of_the_Mountains",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 23,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Fracturing",
+      "Magma Surge",
+      "Stunning +10",
+      "Seeker +10",
+      "Adamantine",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Fracturing",
+      "Magma Surge",
+      "Stunning +10",
+      "Seeker +10",
+      "Adamantine",
+      "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
+    ],
+    "itemKey": "item:mornh,_hammer_of_the_mountains",
+    "setMembership": []
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (level 23)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_23)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 23,
+    "effectsRaw": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Sonic Lore VI",
+      "Resonance +108",
+      "Shrieking",
+      "Stunning +10"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +18",
+      "+6 Enhancement Bonus",
+      "Sonic Lore VI",
+      "Resonance +108",
+      "Shrieking",
+      "Stunning +10"
+    ],
+    "itemKey": "item:hammer_of_the_leaden_clouds_(level_23)",
+    "setMembership": []
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (level 24)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 24,
+    "effectsRaw": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Sonic Lore VI",
+      "Resonance +114",
+      "Shrieking",
+      "Stunning +10"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Sonic Lore VI",
+      "Resonance +114",
+      "Shrieking",
+      "Stunning +10"
+    ],
+    "itemKey": "item:hammer_of_the_leaden_clouds_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Warhammer (level 24)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Ghostbane 5",
+      "Evil Outsider Bane 5",
+      "Greater Vorpal",
+      "Crushing 12"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Ghostbane 5",
+      "Evil Outsider Bane 5",
+      "Greater Vorpal",
+      "Crushing 12"
+    ],
+    "itemKey": "item:spectral_warhammer_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Hull-Wrecker's Hammer (level 24)",
+    "link": "https://ddowiki.com/page/Item:Epic_Hull-Wrecker%27s_Hammer_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Bludgeoning 5",
+      "Construct Bane 5",
+      "Improved Destruction",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Bludgeoning 5",
+      "Construct Bane 5",
+      "Improved Destruction"
+    ],
+    "itemKey": "item:epic_hull-wrecker's_hammer_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Hammer of the Leaden Clouds (level 25)",
+    "link": "https://ddowiki.com/page/Item:Hammer_of_the_Leaden_Clouds_(level_25)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 25,
+    "effectsRaw": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Sonic Lore VI",
+      "Resonance +120",
+      "Wailing",
+      "Stunning +10"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +21",
+      "+7 Enhancement Bonus",
+      "Sonic Lore VI",
+      "Resonance +120",
+      "Wailing",
+      "Stunning +10"
+    ],
+    "itemKey": "item:hammer_of_the_leaden_clouds_(level_25)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Steel Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Forge",
+    "link": "https://ddowiki.com/page/Item:Legendary_Forge",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+13 Enhancement Bonus",
+      "Fiery 6",
+      "Flaming 14",
+      "Jolting 14",
+      "Seeker +13",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+13 Enhancement Bonus",
+      "Fiery 6",
+      "Flaming 14",
+      "Jolting 14",
+      "Seeker +13"
+    ],
+    "itemKey": "item:legendary_forge",
+    "setMembership": []
+  },
+  {
+    "name": "Reflection of Whelm",
+    "link": "https://ddowiki.com/page/Item:Reflection_of_Whelm",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Overwhelming Shockwave",
+      "Blunt Trauma",
+      "Bonesplitter",
+      "Giant Bane 6",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Overwhelming Shockwave",
+      "Blunt Trauma",
+      "Bonesplitter",
+      "Giant Bane 6"
+    ],
+    "itemKey": "item:reflection_of_whelm",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Hull-Wrecker's Hammer (level 28)",
+    "link": "https://ddowiki.com/page/Item:Epic_Hull-Wrecker%27s_Hammer_(level_28)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+12 Enhancement Bonus",
+      "Bludgeoning 6",
+      "Construct Bane 6",
+      "Improved Destruction",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Bludgeoning 6",
+      "Construct Bane 6",
+      "Improved Destruction"
+    ],
+    "itemKey": "item:epic_hull-wrecker's_hammer_(level_28)",
+    "setMembership": []
+  },
+  {
+    "name": "Spectral Warhammer (level 28)",
+    "link": "https://ddowiki.com/page/Item:Spectral_Warhammer_(level_28)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+12 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 13"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Ghostbane 6",
+      "Evil Outsider Bane 6",
+      "Superior Vorpal",
+      "Crushing 13"
+    ],
+    "itemKey": "item:spectral_warhammer_(level_28)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Stormreach Guardian's Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Stormreach_Guardian%27s_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Crushing 14",
+      "Ghost Touch",
+      "Shockwave",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Crushing 14",
+      "Ghost Touch",
+      "Shockwave"
+    ],
+    "itemKey": "item:legendary_stormreach_guardian's_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Echo of Whelm",
+    "link": "https://ddowiki.com/page/Item:Legendary_Echo_of_Whelm",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Whelming Shockwave",
+      "Blunt Trauma",
+      "Bonesplitter",
+      "Giant Bane 6",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Whelming Shockwave"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Blunt Trauma",
+      "Bonesplitter",
+      "Giant Bane 6"
+    ],
+    "itemKey": "item:legendary_echo_of_whelm",
+    "setMembership": []
+  },
+  {
+    "name": "Morninglord's Warhammer",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Nightmother's Warhammer",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Syranian Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Alchemical Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flamesalt Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ol' Reliable",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ol%27_Reliable",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 6",
+      "Aligned",
+      "Melee Alacrity 15%",
+      "Human Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 6",
+      "Aligned",
+      "Melee Alacrity 15%",
+      "Human Bane 6"
+    ],
+    "itemKey": "item:legendary_ol'_reliable",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Warhammer",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Attuned Bone Warhammer",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:attuned_bone_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Hull-Wrecker's Hammer (level 32)",
+    "link": "https://ddowiki.com/page/Item:Legendary_Hull-Wrecker%27s_Hammer_(level_32)",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Bludgeoning 6",
+      "Construct Bane 6",
+      "Improved Destruction",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Bludgeoning 6",
+      "Construct Bane 6",
+      "Improved Destruction"
+    ],
+    "itemKey": "item:legendary_hull-wrecker's_hammer_(level_32)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shining Reliquary Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Pestle, the Crucible of Bones",
+    "link": "https://ddowiki.com/page/Item:Pestle,_the_Crucible_of_Bones",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Felling the Oak",
+      "Cursed Maelstrom",
+      "Blunt Trauma",
+      "Improved Destruction",
+      "Planar Searing",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 3,
+        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Profane Bonus to Physical Resistance Rating"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to all Ability Scores"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to all Ability Scores"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 4,
+        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Attack and Damage"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+4",
+            "effect": "Profane Bonus to Attack and Damage"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+5",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+15",
+            "effect": "Profane Bonus to Melee and Ranged Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Profane Bonus to Universal Spell Power"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+25",
+            "effect": "Profane Bonus to Universal Spell Power"
+          }
+        ]
+      },
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "piecesRequired": 5,
+        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+1",
+            "effect": "Profane Bonus to Spell DCs"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+3",
+            "effect": "Profane Bonus to Spell DCs"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Felling the Oak",
+      "Cursed Maelstrom",
+      "Blunt Trauma",
+      "Improved Destruction",
+      "Planar Searing"
+    ],
+    "itemKey": "item:pestle,_the_crucible_of_bones",
+    "setMembership": [
+      {
+        "setId": "forbidden_knowledge",
+        "setName": "Forbidden Knowledge",
+        "source": "named_item_sets",
+        "sourceSection": "Vecna Unleashed sets",
+        "minLevels": [
+          18,
+          32
+        ],
+        "availablePieces": 61,
+        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
+        "bonuses": [
+          {
+            "piecesRequired": 3,
+            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Profane Bonus to Physical Resistance Rating"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to all Ability Scores"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to all Ability Scores"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 4,
+            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Attack and Damage"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+4",
+                "effect": "Profane Bonus to Attack and Damage"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+5",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+15",
+                "effect": "Profane Bonus to Melee and Ranged Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Profane Bonus to Universal Spell Power"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+25",
+                "effect": "Profane Bonus to Universal Spell Power"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 5,
+            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
+            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+1",
+                "effect": "Profane Bonus to Spell DCs"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+3",
+                "effect": "Profane Bonus to Spell DCs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Legendary Defiled Reliquary Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Warhammer of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Warhammer_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Impact",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Impact"
+    ],
+    "itemKey": "item:legendary_warhammer_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Warhammer of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Warhammer_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_warhammer_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Warhammer of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Warhammer_of_the_Undying_Age",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:warhammer_of_the_undying_age",
+    "setMembership": []
+  },
+  {
+    "name": "Audion, the Shattering Way",
+    "link": "https://ddowiki.com/page/Item:Audion,_the_Shattering_Way",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Rupturing Echo",
+      "Blunt Trauma",
+      "Felling the Oak",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Rupturing Echo",
+      "Blunt Trauma",
+      "Felling the Oak",
+      "Sealed in Mist"
+    ],
+    "itemKey": "item:audion,_the_shattering_way",
+    "setMembership": []
+  },
+  {
+    "name": "Soniar, the Echo of Pain",
+    "link": "https://ddowiki.com/page/Item:Soniar,_the_Echo_of_Pain",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Rupturing Echo",
+      "Sonic Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +33",
+      "+15 Enhancement Bonus",
+      "Rupturing Echo",
+      "Sonic Lore +24%",
+      "Quality Spell Focus Mastery +2",
+      "Sealed in Mist"
+    ],
+    "itemKey": "item:soniar,_the_echo_of_pain",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Calamitous Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_calamitous_warhammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Warhammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Warhammer",
+    "slot": "weapon",
+    "itemSubtype": "war_hammer",
+    "handedness": "one_handed",
+    "category": "War Hammers",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_warhammer",
+    "setMembership": []
+  }
+]

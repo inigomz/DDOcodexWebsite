@@ -14,15 +14,14 @@
       "Deadly +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Electrifying 2",
       "Shatter +4",
       "Deadly +3"
-    ],
-    "itemKey": "item:nicked_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Light Hammer",
@@ -40,13 +39,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Light Hammer",
@@ -64,13 +62,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "First Light (level 5)",
@@ -91,6 +88,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -98,9 +96,7 @@
       "Negative Resistance +14",
       "Blazing 5",
       "Coruscating 2"
-    ],
-    "itemKey": "item:first_light_(level_5)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Light Hammer",
@@ -121,6 +117,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -128,9 +125,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Light Hammer",
@@ -151,6 +146,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -158,9 +154,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Light Hammer",
@@ -181,16 +175,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_light_hammer",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "First Light (level 10)",
@@ -211,6 +220,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -218,9 +228,7 @@
       "Negative Resistance +21",
       "Blazing 7",
       "Coruscating 3"
-    ],
-    "itemKey": "item:first_light_(level_10)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Light Hammer",
@@ -241,6 +249,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -248,9 +257,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Light Hammer",
@@ -271,6 +278,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -278,9 +286,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Light Hammer",
@@ -295,13 +301,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Light Hammer",
@@ -316,13 +321,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Hammer of the Fallen Age",
@@ -343,6 +347,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -350,9 +355,7 @@
       "Anarchic 3",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:light_hammer_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Hammer of the Golden Age",
@@ -373,6 +376,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -380,9 +384,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:light_hammer_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Illusionist's Focus",
@@ -398,14 +400,13 @@
       "Insightful Illusion Focus +2"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Wizardry V",
       "Insightful Illusion Focus +2"
-    ],
-    "itemKey": "item:illusionist's_focus",
-    "setMembership": []
+    ]
   },
   {
     "name": "First Light (level 15)",
@@ -426,6 +427,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -433,9 +435,7 @@
       "Negative Resistance +29",
       "Blazing 9",
       "Coruscating 4"
-    ],
-    "itemKey": "item:first_light_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Stoneworker's Hammer",
@@ -451,14 +451,13 @@
       "Deadly IV"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Acid II",
       "Deadly IV"
-    ],
-    "itemKey": "item:stoneworker's_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Re-forged Hammer",
@@ -473,13 +472,12 @@
       "Shockwave"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Shockwave"
-    ],
-    "itemKey": "item:re-forged_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Implement of Stone Magic",
@@ -496,15 +494,14 @@
       "Acid Lore V"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +9",
       "+3 Enhancement Bonus",
       "Corrosion +78",
       "Acid Lore V"
-    ],
-    "itemKey": "item:implement_of_stone_magic",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Light Hammer",
@@ -525,6 +522,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -532,9 +530,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Belashyrra's Cleansed Scepter",
@@ -556,6 +552,7 @@
       "Efficient Metamagic - Empower II"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -567,9 +564,7 @@
       "Necromancy Focus +2, Void Lore V",
       "Single-Mindedness",
       "Efficient Metamagic - Empower II"
-    ],
-    "itemKey": "item:belashyrra's_cleansed_scepter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Light Hammer",
@@ -590,6 +585,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -597,9 +593,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Light Hammer",
@@ -620,6 +614,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -627,9 +622,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "First Light (level 20)",
@@ -650,6 +643,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -657,9 +651,7 @@
       "Negative Resistance +36",
       "Blazing 10",
       "Coruscating 4"
-    ],
-    "itemKey": "item:first_light_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Light Hammer",
@@ -680,6 +672,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -687,9 +680,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Light Hammer",
@@ -710,6 +701,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -717,9 +709,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Light Hammer",
@@ -737,13 +727,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "First Light (level 25)",
@@ -764,6 +753,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -771,9 +761,7 @@
       "Negative Resistance +44",
       "Blazing 12",
       "Coruscating 5"
-    ],
-    "itemKey": "item:first_light_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Brussel Sprout Beater",
@@ -795,6 +783,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -803,9 +792,7 @@
       "Smashing 12",
       "Everbright",
       "Blinding Flash — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:brussel_sprout_beater",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Light Hammer",
@@ -820,14 +807,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Savior, the Breaker of Chains",
@@ -850,6 +836,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -857,9 +844,7 @@
       "Bludgeoning 6",
       "Reverberating 6",
       "Memory of Chains Broken"
-    ],
-    "itemKey": "item:savior,_the_breaker_of_chains",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Light Hammer",
@@ -880,6 +865,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -887,9 +873,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Light Hammer",
@@ -910,6 +894,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -917,9 +902,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Light Hammer",
@@ -940,6 +923,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -947,9 +931,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Light Hammer",
@@ -970,6 +952,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -977,9 +960,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Light Hammer",
@@ -1000,6 +981,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1007,9 +989,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "First Light (level 30)",
@@ -1030,6 +1010,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+14 Enhancement Bonus",
@@ -1037,9 +1018,7 @@
       "Negative Resistance +51",
       "Blazing 14",
       "Coruscating 6"
-    ],
-    "itemKey": "item:first_light_(level_30)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Light Hammer",
@@ -1062,16 +1041,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_light_hammer",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Light Hammer",
@@ -1094,16 +1093,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_light_hammer",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Light Hammer",
@@ -1126,6 +1145,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1133,9 +1153,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Light Hammer",
@@ -1159,6 +1177,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1168,9 +1187,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_light_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Light Hammer of the Fallen Age",
@@ -1193,6 +1210,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1200,9 +1218,7 @@
       "Anarchic 7",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:legendary_light_hammer_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Light Hammer of the Golden Age",
@@ -1225,6 +1241,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1232,9 +1249,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_light_hammer_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Hammer of the Undying Age",
@@ -1257,6 +1272,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1264,9 +1280,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:light_hammer_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Light Hammer",
@@ -1289,16 +1303,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_light_hammer",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Light Hammer",
@@ -1321,15 +1355,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_light_hammer",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

@@ -13,14 +13,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Masterwork",
       "Fire Touch",
       "Starter"
-    ],
-    "itemKey": "item:ember_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thera's Rapier",
@@ -34,12 +33,11 @@
       "Lesser Monstrous Humanoid Bane"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Lesser Monstrous Humanoid Bane"
-    ],
-    "itemKey": "item:thera's_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rusty Rapier",
@@ -53,12 +51,11 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Starter"
-    ],
-    "itemKey": "item:rusty_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spider Spike",
@@ -76,13 +73,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Lesser Vermin Bane"
-    ],
-    "itemKey": "item:spider_spike",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Rapier",
@@ -98,14 +94,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Rapier",
@@ -123,13 +118,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Rapier",
@@ -147,13 +141,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Duelist's Epee",
@@ -173,15 +166,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Keen",
       "Humanoid Bane 2",
       "Deception"
-    ],
-    "itemKey": "item:duelist's_epee",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Rapier of Air (level 4)",
@@ -197,14 +189,13 @@
       "Electric Resistance +11"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Shock",
       "Electric Resistance +11"
-    ],
-    "itemKey": "item:elemental_rapier_of_air_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Rapier (level 4)",
@@ -220,14 +211,13 @@
       "Tidal"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Dragon Bane 2",
       "Tidal"
-    ],
-    "itemKey": "item:calomel_rapier_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Frozen Skull",
@@ -248,6 +238,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -255,9 +246,7 @@
       "Minor Freezing Ice",
       "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Minor Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 5 seconds)",
       "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice."
-    ],
-    "itemKey": "item:the_frozen_skull",
-    "setMembership": []
+    ]
   },
   {
     "name": "Corroded Rapier",
@@ -275,6 +264,7 @@
       "Unraveling Enchantments"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +3",
@@ -282,9 +272,7 @@
       "Devotion +36",
       "Silver , Alchemical",
       "Unraveling Enchantments"
-    ],
-    "itemKey": "item:corroded_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elyd Edge",
@@ -306,6 +294,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +5",
@@ -314,9 +303,7 @@
       "Devotion +59",
       "Anthem",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:elyd_edge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Rapier",
@@ -337,6 +324,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -344,9 +332,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Rapier",
@@ -367,6 +353,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -374,9 +361,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dueling Schlager",
@@ -393,12 +378,11 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus"
-    ],
-    "itemKey": "item:dueling_schlager",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nuushmaar's Adamantine Tooth",
@@ -416,13 +400,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Adamantine"
-    ],
-    "itemKey": "item:nuushmaar's_adamantine_tooth",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sheridan's Ruin",
@@ -440,13 +423,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Keen"
-    ],
-    "itemKey": "item:sheridan's_ruin",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Rapier of Air (level 8)",
@@ -460,12 +442,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:elemental_rapier_of_air_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Rapier (level 8)",
@@ -479,12 +460,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_rapier_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Rapier",
@@ -505,16 +485,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_rapier",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Tyrzza's Bane",
@@ -534,15 +529,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "True Law",
       "Cold Iron",
       "Pure Good"
-    ],
-    "itemKey": "item:tyrzza's_bane",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Rapier",
@@ -563,6 +557,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -570,9 +565,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Rapier",
@@ -593,6 +586,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -600,9 +594,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Savaran's Tooth",
@@ -623,6 +615,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -630,9 +623,7 @@
       "Jolting 7",
       "Heartseeker III",
       "Dragon's Edge 3"
-    ],
-    "itemKey": "item:savaran's_tooth",
-    "setMembership": []
+    ]
   },
   {
     "name": "Toothpick",
@@ -647,13 +638,12 @@
       "Masterwork"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Greater Giant Bane",
       "Masterwork"
-    ],
-    "itemKey": "item:toothpick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Rapier",
@@ -668,13 +658,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fell Rapier of Ice",
@@ -692,13 +681,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Boreal"
-    ],
-    "itemKey": "item:fell_rapier_of_ice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Rapier",
@@ -713,13 +701,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Rapier of Air (level 12)",
@@ -733,12 +720,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:elemental_rapier_of_air_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Rapier (level 12)",
@@ -752,12 +738,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_rapier_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rapier of the Fallen Age",
@@ -778,6 +763,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -785,9 +771,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:rapier_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rapier of the Golden Age",
@@ -808,6 +792,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -815,9 +800,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:rapier_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Turbulent Epee",
@@ -835,6 +818,7 @@
       "Aligned"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -842,9 +826,7 @@
       "Treason",
       "Metalline",
       "Aligned"
-    ],
-    "itemKey": "item:turbulent_epee",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunderstrike",
@@ -865,6 +847,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -872,9 +855,7 @@
       "Electrifying 4",
       "Jolting 9",
       "Quality Seeker +1"
-    ],
-    "itemKey": "item:thunderstrike",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fine Finesse",
@@ -890,14 +871,13 @@
       "Vorpal"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Fiery 3",
       "Vorpal"
-    ],
-    "itemKey": "item:fine_finesse",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Rapier",
@@ -918,6 +898,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -925,9 +906,7 @@
       "Construct Bane 4",
       "Adamantine",
       "Holy 4"
-    ],
-    "itemKey": "item:syranian_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bloody Bite",
@@ -944,15 +923,14 @@
       "Proficiency: Rapier"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Piercing 3",
       "Shockwave",
       "Proficiency: Rapier"
-    ],
-    "itemKey": "item:bloody_bite",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Rapier of Air (level 16)",
@@ -966,12 +944,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:elemental_rapier_of_air_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Rapier (level 16)",
@@ -985,12 +962,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_rapier_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Rapier",
@@ -1011,6 +987,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1018,9 +995,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Rapier",
@@ -1041,6 +1016,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1048,9 +1024,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Elyd Edge",
@@ -1076,6 +1050,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -1088,9 +1063,7 @@
       "Devotion +111",
       "Anthem",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:epic_elyd_edge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Calomel Rapier",
@@ -1104,12 +1077,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_calomel_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Elemental Rapier of Air",
@@ -1123,12 +1095,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_elemental_rapier_of_air",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Rapier",
@@ -1149,6 +1120,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1156,9 +1128,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Rapier",
@@ -1179,6 +1149,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1186,9 +1157,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Duelist's Epee",
@@ -1212,6 +1181,7 @@
       "Red",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1220,9 +1190,7 @@
       "Improved Deception +17",
       "Dodge +9%",
       "Mortal Strike"
-    ],
-    "itemKey": "item:epic_duelist's_epee",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drow Rapier of the Weapon Master",
@@ -1243,6 +1211,7 @@
       "Tendon Slice 10%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1253,9 +1222,7 @@
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:drow_rapier_of_the_weapon_master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Rapier",
@@ -1273,13 +1240,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Balizarde, Protector of the King",
@@ -1299,6 +1265,7 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1308,9 +1275,7 @@
       "Dodge +8%",
       "Good Luck +2",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:balizarde,_protector_of_the_king",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mutineer's Blade",
@@ -1332,6 +1297,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1340,9 +1306,7 @@
       "Brilliance",
       "Coruscating",
       "Improved Disruption"
-    ],
-    "itemKey": "item:mutineer's_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Rapier",
@@ -1357,14 +1321,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Thunderstrike",
@@ -1385,6 +1348,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+13 Enhancement Bonus",
@@ -1392,9 +1356,7 @@
       "Electrifying 6",
       "Jolting 14",
       "Quality Seeker +3"
-    ],
-    "itemKey": "item:legendary_thunderstrike",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flow, the Piercer of Hearts",
@@ -1417,6 +1379,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1424,9 +1387,7 @@
       "Bewildering 3",
       "Anarchic 6",
       "Guardbreaking"
-    ],
-    "itemKey": "item:flow,_the_piercer_of_hearts",
-    "setMembership": []
+    ]
   },
   {
     "name": "Vivace, the Dreamcarver",
@@ -1451,6 +1412,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -1460,9 +1422,7 @@
       "Sonic Lore +22%",
       "Resonance +148",
       "Crystal"
-    ],
-    "itemKey": "item:vivace,_the_dreamcarver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Rapier",
@@ -1483,6 +1443,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1490,9 +1451,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Rapier",
@@ -1513,6 +1472,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1520,9 +1480,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Rapier",
@@ -1543,6 +1501,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1550,9 +1509,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Rapier",
@@ -1573,6 +1530,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1580,9 +1538,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pomura's Impaler",
@@ -1607,6 +1563,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -1616,9 +1573,7 @@
       "Icy Blast 6",
       "Insightful Glaciation +74",
       "Quality Glaciation +36"
-    ],
-    "itemKey": "item:pomura's_impaler",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Rapier",
@@ -1636,14 +1591,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Rapier",
@@ -1664,6 +1618,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1671,9 +1626,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Duelist's Epee",
@@ -1697,6 +1650,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1705,9 +1659,7 @@
       "Improved Deception +20",
       "Dodge +13%",
       "Mortal Strike"
-    ],
-    "itemKey": "item:legendary_duelist's_epee",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Elyd Edge",
@@ -1735,6 +1687,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -1747,9 +1700,7 @@
       "Devotion +146",
       "Anthem",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:legendary_elyd_edge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Rapier",
@@ -1772,16 +1723,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_rapier",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Rapier",
@@ -1804,16 +1775,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_rapier",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Rapier",
@@ -1836,6 +1827,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1843,9 +1835,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Rapier",
@@ -1869,6 +1859,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1878,9 +1869,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_rapier",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Rapier of the Fallen Age",
@@ -1903,6 +1892,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1910,9 +1900,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_rapier_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Rapier of the Golden Age",
@@ -1935,6 +1923,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1942,9 +1931,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_rapier_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Folly, the Thorn of Cormanthyr",
@@ -1967,6 +1954,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1974,9 +1962,7 @@
       "Metalline",
       "3rd Degree Burns",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:folly,_the_thorn_of_cormanthyr",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rapier of the Undying Age",
@@ -1999,6 +1985,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2006,9 +1993,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:rapier_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Rapier",
@@ -2031,16 +2016,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_rapier",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Rapier",
@@ -2063,16 +2068,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_rapier",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Savaran's Tooth",
@@ -2095,6 +2120,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2102,8 +2128,6 @@
       "Jolting 16",
       "Heartseeker VI",
       "Dragon's Edge 7"
-    ],
-    "itemKey": "item:legendary_savaran's_tooth",
-    "setMembership": []
+    ]
   }
 ]

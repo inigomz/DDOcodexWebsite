@@ -25,7 +25,7 @@ const SECTIONS = [
 ];
 
 function cleanText(text) {
-  return text
+  return String(text || "")
     .replace(/\u00a0/g, " ")
     .replace(/\s+/g, " ")
     .trim();
@@ -74,12 +74,18 @@ function getListText($, cell) {
 
   cleanCell.find("li").each((_, li) => {
     const text = cleanText($(li).text());
-    if (text) results.push(text);
+
+    if (text) {
+      results.push(text);
+    }
   });
 
   if (results.length === 0) {
     const fallback = cleanText(cleanCell.text());
-    if (fallback) results.push(fallback);
+
+    if (fallback) {
+      results.push(fallback);
+    }
   }
 
   return results;
@@ -105,8 +111,14 @@ function parseSectionType(sectionId) {
   };
 }
 
+function findElementByExactId($, id) {
+  return $("[id]")
+    .filter((_, element) => $(element).attr("id") === id)
+    .first();
+}
+
 function getTableForSection($, sectionId) {
-  const heading = $(`#${sectionId}`);
+  const heading = findElementByExactId($, sectionId);
 
   if (!heading.length) {
     return null;
@@ -127,7 +139,7 @@ function parseRecipeTable($, table, sectionId) {
   table.find("tbody > tr").each((_, row) => {
     const cells = $(row).children("td, th");
 
-    // Skip header row
+    // Skip header rows
     if ($(row).find("th").length > 0) {
       return;
     }
@@ -137,21 +149,22 @@ function parseRecipeTable($, table, sectionId) {
     }
 
     const itemInfo = getItemInfo($, cells.eq(0));
-    const effect = getCellText($, cells.eq(1));
+    const effectRaw = getCellText($, cells.eq(1));
 
-    let cost = [];
+    let costRaw = sharedCost;
 
-    // Cost often appears once with rowspan
+    // Cost usually appears once with rowspan.
+    // Later rows inherit the previous sharedCost.
     if (cells.length >= 3) {
-      cost = getListText($, cells.eq(2));
-      if (cost.length > 0) {
-        sharedCost = cost;
+      const possibleCost = getListText($, cells.eq(2));
+
+      if (possibleCost.length > 0) {
+        sharedCost = possibleCost;
+        costRaw = possibleCost;
       }
-    } else {
-      cost = sharedCost;
     }
 
-    if (!itemInfo.name || !effect) {
+    if (!itemInfo.name || !effectRaw) {
       return;
     }
 
@@ -163,8 +176,8 @@ function parseRecipeTable($, table, sectionId) {
       itemGroup: sectionInfo.itemGroup,
       name: itemInfo.name,
       link: itemInfo.link,
-      effectRaw: effect,
-      costRaw: cost
+      effectRaw,
+      costRaw
     });
   });
 
@@ -209,7 +222,9 @@ async function scrapeDinosaurBoneCrafting(url, outputFile) {
   );
 
   console.log(`Saved ${parsed.recipes.length} dinosaur bone recipes.`);
-  console.log(`Missing sections: ${parsed.missingSections.join(", ") || "none"}`);
+  console.log(
+    `Missing sections: ${parsed.missingSections.join(", ") || "none"}`
+  );
 
   await delay(750);
 }

@@ -14,12 +14,11 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus"
-    ],
-    "itemKey": "item:brakhash's_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Battle Axe",
@@ -37,13 +36,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Battle Axe",
@@ -61,13 +59,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Battle Axe",
@@ -88,6 +85,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -95,9 +93,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Battle Axe",
@@ -118,6 +114,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -125,9 +122,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Iron Cleaver",
@@ -145,13 +140,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Acid Burst"
-    ],
-    "itemKey": "item:iron_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Battle Axe",
@@ -172,16 +166,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_battle_axe",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Unkor's Cleaver",
@@ -202,139 +211,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "windlasher_s_ferocity",
-        "setName": "Windlasher's Ferocity",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
-        "effectRaw": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Artifact bonus to Doublestrike and Doubleshot"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+10%",
-            "effect": "Artifact bonus to Doublestrike and Doubleshot"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Artifact bonus to Doublestrike and Doubleshot"
-          }
-        ]
-      },
-      {
-        "setId": "windlasher_s_ferocity",
-        "setName": "Windlasher's Ferocity",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact bonus to Melee and Ranged Power"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Keen",
       "Vorpal",
       "Bleeding 3",
       "Fracturing 3"
-    ],
-    "itemKey": "item:unkor's_cleaver",
-    "setMembership": [
-      {
-        "setId": "windlasher_s_ferocity",
-        "setName": "Windlasher's Ferocity",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 9,
-        "bonusRaw": "2 Pieces Equipped: ♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot ♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
-            "effectRaw": "♦+5%●+10%★+15% Artifact bonus to Doublestrike and Doubleshot",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Artifact bonus to Doublestrike and Doubleshot"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+10%",
-                "effect": "Artifact bonus to Doublestrike and Doubleshot"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Artifact bonus to Doublestrike and Doubleshot"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5●+10★+15 Artifact bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact bonus to Melee and Ranged Power"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -351,14 +235,13 @@
       "Keen"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Seeker +10",
       "Keen"
-    ],
-    "itemKey": "item:bereavement",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Battle Axe",
@@ -379,6 +262,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -386,9 +270,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Battle Axe",
@@ -409,6 +291,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -416,9 +299,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Battle Axe",
@@ -433,13 +314,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Battle Axe",
@@ -454,13 +334,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Axe of Adaxus (level 12)",
@@ -477,12 +356,11 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus"
-    ],
-    "itemKey": "item:axe_of_adaxus_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Axe of Adaxus (level 13)",
@@ -501,12 +379,11 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus"
-    ],
-    "itemKey": "item:axe_of_adaxus_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Battle Axe of the Fallen Age",
@@ -527,6 +404,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -534,9 +412,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:battle_axe_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Battle Axe of the Golden Age",
@@ -557,6 +433,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -564,9 +441,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:battle_axe_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Serrulae",
@@ -587,14 +462,13 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Vertigo +10",
       "Metalline"
-    ],
-    "itemKey": "item:serrulae",
-    "setMembership": []
+    ]
   },
   {
     "name": "Axe of Adaxus (level 14)",
@@ -613,12 +487,11 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus"
-    ],
-    "itemKey": "item:axe_of_adaxus_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Battle Axe",
@@ -639,6 +512,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -646,9 +520,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Battle Axe",
@@ -669,6 +541,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -676,9 +549,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Battle Axe",
@@ -699,6 +570,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -706,9 +578,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Unkor's Cleaver",
@@ -731,6 +601,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -740,9 +611,7 @@
       "Fracturing 4",
       "Limb Chopper",
       "Jerky — 1 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:epic_unkor's_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Battle Axe",
@@ -763,6 +632,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -770,9 +640,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Battle Axe",
@@ -793,6 +661,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -800,9 +669,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Battle Axe",
@@ -820,13 +687,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Axe of Adaxus (level 23)",
@@ -845,12 +711,11 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus"
-    ],
-    "itemKey": "item:axe_of_adaxus_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Axe of Adaxus (level 24)",
@@ -869,12 +734,11 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus"
-    ],
-    "itemKey": "item:axe_of_adaxus_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Axe of Adaxus (level 25)",
@@ -893,12 +757,11 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus"
-    ],
-    "itemKey": "item:axe_of_adaxus_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Battle Axe",
@@ -913,14 +776,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dusk, the Light Descends",
@@ -944,6 +806,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +28",
@@ -952,9 +815,7 @@
       "Radiance Lore +21%",
       "Evocation Focus +6",
       "Brazen Brilliance"
-    ],
-    "itemKey": "item:dusk,_the_light_descends",
-    "setMembership": []
+    ]
   },
   {
     "name": "Untold, Crack in the Sky",
@@ -974,13 +835,12 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Nearly FinishedPurple Augment Slot Armor-Piercing 21%Completed Weapon"
-    ],
-    "itemKey": "item:untold,_crack_in_the_sky",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Battle Axe",
@@ -1001,6 +861,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1008,9 +869,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Battle Axe",
@@ -1031,6 +890,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1038,9 +898,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Battle Axe",
@@ -1061,6 +919,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1068,9 +927,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Battle Axe",
@@ -1091,6 +948,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1098,9 +956,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Battle Axe",
@@ -1121,6 +977,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1128,9 +985,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Battleaxe",
@@ -1148,14 +1003,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_battleaxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Unkor's Cleaver",
@@ -1179,6 +1033,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Windlasher's Ferocity"
     ],
@@ -1190,9 +1045,7 @@
       "Bleeding 6",
       "Fracturing 6",
       "Limb Chopper"
-    ],
-    "itemKey": "item:legendary_unkor's_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Battle Axe",
@@ -1215,16 +1068,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_battle_axe",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Battle Axe",
@@ -1247,16 +1120,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_battle_axe",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Battle Axe",
@@ -1279,6 +1172,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1286,9 +1180,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Battle Axe",
@@ -1312,6 +1204,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1321,9 +1214,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_battle_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Battle Axe of the Fallen Age",
@@ -1346,6 +1237,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1353,9 +1245,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_battle_axe_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Battle Axe of the Golden Age",
@@ -1378,6 +1268,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1385,9 +1276,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_battle_axe_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Battle Axe of the Undying Age",
@@ -1410,6 +1299,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1417,9 +1307,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:battle_axe_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Clank, the Echo of Despair",
@@ -1443,6 +1331,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -1451,9 +1340,7 @@
       "Sonic Lore +24%",
       "Quality Spell Focus Mastery +2",
       "Sealed in Mist"
-    ],
-    "itemKey": "item:clank,_the_echo_of_despair",
-    "setMembership": []
+    ]
   },
   {
     "name": "Clatter, the Blunted Edge",
@@ -1476,6 +1363,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1483,9 +1371,7 @@
       "Blunt Trauma",
       "Guardbreaking",
       "Sealed in Mist"
-    ],
-    "itemKey": "item:clatter,_the_blunted_edge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Battle Axe",
@@ -1508,16 +1394,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_battle_axe",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Battle Axe",
@@ -1540,15 +1446,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_battle_axe",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

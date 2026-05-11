@@ -15,13 +15,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Throwing Hammer",
@@ -40,14 +39,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical",
       "Returning"
-    ],
-    "itemKey": "item:sworn_silver_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Throwing Hammer",
@@ -69,6 +67,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -77,9 +76,7 @@
       "Maiming 2",
       "Crystal",
       "Returning"
-    ],
-    "itemKey": "item:ferrocrystal_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Throwing Hammer",
@@ -101,6 +98,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -109,9 +107,7 @@
       "Weakening 1",
       "Flametouched Iron",
       "Returning"
-    ],
-    "itemKey": "item:flamesalt_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Throwing Hammer",
@@ -133,17 +129,32 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Returning",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_throwing_hammer",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Barovian's Throwing Hammer",
@@ -165,6 +176,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -173,9 +185,7 @@
       "Fiery 3",
       "Undead Bane 3",
       "Returning"
-    ],
-    "itemKey": "item:barovian's_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Throwing Hammer",
@@ -197,6 +207,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -205,9 +216,7 @@
       "Vampirism 1",
       "Chilling 3",
       "Returning"
-    ],
-    "itemKey": "item:macabre_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Throwing Hammer",
@@ -223,14 +232,13 @@
       "Returning"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel",
       "Returning"
-    ],
-    "itemKey": "item:green_steel_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Throwing Hammer",
@@ -246,14 +254,13 @@
       "Returning"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)",
       "Returning"
-    ],
-    "itemKey": "item:alchemical_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Throwing Hammer of the Fallen Age",
@@ -275,6 +282,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -283,9 +291,7 @@
       "Aligned",
       "Impact",
       "Returning"
-    ],
-    "itemKey": "item:throwing_hammer_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Throwing Hammer of the Golden Age",
@@ -307,6 +313,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -315,9 +322,7 @@
       "Vorpal",
       "Entropic 3",
       "Returning"
-    ],
-    "itemKey": "item:throwing_hammer_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Throwing Hammer",
@@ -339,6 +344,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -347,9 +353,7 @@
       "Construct Bane 4",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:syranian_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Throwing Hammer",
@@ -371,6 +375,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -379,9 +384,7 @@
       "Blazing 10",
       "Evil Outsider Bane 4",
       "Returning"
-    ],
-    "itemKey": "item:shining_reliquary_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Throwing Hammer",
@@ -403,6 +406,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -411,9 +415,7 @@
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
       "Returning"
-    ],
-    "itemKey": "item:defiled_reliquary_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Throwing Hammer",
@@ -435,6 +437,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -443,9 +446,7 @@
       "Destruction",
       "Righteous",
       "Returning"
-    ],
-    "itemKey": "item:epic_sworn_silver_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Throwing Hammer",
@@ -467,6 +468,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -475,9 +477,7 @@
       "Weaken Undead",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:epic_ethereal_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Throwing Hammer",
@@ -496,14 +496,13 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Returning",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Throwing Hammer",
@@ -519,15 +518,14 @@
       "Returning"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus",
       "Returning"
-    ],
-    "itemKey": "item:legendary_green_steel_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dagan's Mallet",
@@ -549,6 +547,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Returning",
@@ -557,9 +556,7 @@
       "Knee Cracker",
       "Thunderbane",
       "Forged Lightning"
-    ],
-    "itemKey": "item:dagan's_mallet",
-    "setMembership": []
+    ]
   },
   {
     "name": "Overwhelming Impact",
@@ -583,6 +580,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -591,9 +589,7 @@
       "Bonesplitter",
       "Giant Bane 6",
       "Returning"
-    ],
-    "itemKey": "item:overwhelming_impact",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Throwing Hammer",
@@ -615,6 +611,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -623,9 +620,7 @@
       "Fiery 6",
       "Undead Bane 6",
       "Returning"
-    ],
-    "itemKey": "item:morninglord's_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Throwing Hammer",
@@ -647,6 +642,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -655,9 +651,7 @@
       "Vampirism 2",
       "Chilling 6",
       "Returning"
-    ],
-    "itemKey": "item:nightmother's_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Throwing Hammer",
@@ -679,6 +673,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -687,9 +682,7 @@
       "Construct Bane 6",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:legendary_syranian_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Throwing Hammer",
@@ -711,6 +704,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -719,9 +713,7 @@
       "Maiming 6",
       "Crystal",
       "Returning"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Throwing Hammer",
@@ -743,6 +735,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -751,9 +744,7 @@
       "Weakening 3",
       "Flametouched Iron",
       "Returning"
-    ],
-    "itemKey": "item:legendary_flamesalt_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Throwing Hammer",
@@ -777,17 +768,37 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_throwing_hammer",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Attuned Bone Throwing Hammer",
@@ -811,17 +822,37 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_throwing_hammer",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Throwing Hammer",
@@ -845,6 +876,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -853,9 +885,7 @@
       "Blazing 15",
       "Evil Outsider Bane 6",
       "Returning"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Throwing Hammer",
@@ -880,6 +910,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -890,9 +921,7 @@
       "Evil Blast 6",
       "Taint of Evil",
       "Returning"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_throwing_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Throwing Hammer of the Fallen Age",
@@ -916,6 +945,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -924,9 +954,7 @@
       "Aligned",
       "Impact",
       "Returning"
-    ],
-    "itemKey": "item:legendary_throwing_hammer_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Throwing Hammer of the Golden Age",
@@ -950,6 +978,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -958,9 +987,7 @@
       "Sovereign Vorpal",
       "Entropic 7",
       "Returning"
-    ],
-    "itemKey": "item:legendary_throwing_hammer_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Throwing Hammer of the Undying Age",
@@ -984,6 +1011,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -992,9 +1020,7 @@
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Returning"
-    ],
-    "itemKey": "item:throwing_hammer_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Throwing Hammer",
@@ -1018,17 +1044,37 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_throwing_hammer",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Throwing Hammer",
@@ -1052,16 +1098,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_throwing_hammer",
-    "setMembership": []
+      "Returning"
+    ]
   }
 ]

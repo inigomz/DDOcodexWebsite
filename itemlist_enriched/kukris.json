@@ -1,0 +1,1675 @@
+[
+  {
+    "name": "Sworn Silver Kukri",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Ethereal Kukri",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Midnight Greetings",
+    "link": "https://ddowiki.com/page/Item:Midnight_Greetings",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Entropic 2",
+      "Deception +2",
+      "Deception",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Entropic 2",
+      "Deception +2",
+      "Deception"
+    ],
+    "itemKey": "item:midnight_greetings",
+    "setMembership": []
+  },
+  {
+    "name": "Filthy Kukri",
+    "link": "https://ddowiki.com/page/Item:Filthy_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Deception",
+      "Unraveling Enchantments"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Deception",
+      "Unraveling Enchantments"
+    ],
+    "itemKey": "item:filthy_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Kukri",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Flamesalt Kukri",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Giant Stalker's Knife",
+    "link": "https://ddowiki.com/page/Item:Giant_Stalker%27s_Knife",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 6,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Greater Giant Bane",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Greater Giant Bane"
+    ],
+    "itemKey": "item:giant_stalker's_knife",
+    "setMembership": []
+  },
+  {
+    "name": "Tchurvul's Kukri",
+    "link": "https://ddowiki.com/page/Item:Tchurvul%27s_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Curse of Repulsiveness",
+      "Melee Alacrity 10%",
+      "Tchurvul's Touch"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Curse of Repulsiveness",
+      "Melee Alacrity 10%",
+      "Tchurvul's Touch"
+    ],
+    "itemKey": "item:tchurvul's_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Blood Machete",
+    "link": "https://ddowiki.com/page/Item:Blood_Machete",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Slicing",
+      "Rage — 1 Charges (Recharged/Day:1)",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Slicing",
+      "Rage — 1 Charges (Recharged/Day:1)"
+    ],
+    "itemKey": "item:blood_machete",
+    "setMembership": []
+  },
+  {
+    "name": "Calamitous Kukri",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1"
+    ],
+    "itemKey": "item:calamitous_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Macabre Kukri",
+    "link": "https://ddowiki.com/page/Item:Macabre_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Barovian's Kukri",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Green Blade",
+    "link": "https://ddowiki.com/page/Item:Green_Blade",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 12,
+    "effectsRaw": [
+      "Spellcasting Implement +12",
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Kinetic Lore +12%",
+      "Impulse +84",
+      "Illusion Focus +3",
+      "The Desert's Biting Sands"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      {
+        "setId": "the_desert_s_biting_sands",
+        "setName": "The Desert's Biting Sands",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
+        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+2%",
+            "effect": "Artifact bonus to Force Spellcrit Chance"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+4%",
+            "effect": "Artifact bonus to Force Spellcrit Chance"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+6%",
+            "effect": "Artifact bonus to Force Spellcrit Chance"
+          }
+        ]
+      },
+      {
+        "setId": "the_desert_s_biting_sands",
+        "setName": "The Desert's Biting Sands",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
+        "effectRaw": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Force Spellpower"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Force Spellpower"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Force Spellpower"
+          }
+        ]
+      },
+      {
+        "setId": "the_desert_s_biting_sands",
+        "setName": "The Desert's Biting Sands",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "piecesRequired": 2,
+        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
+        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
+        "tieredEffects": [
+          {
+            "tier": "heroic",
+            "symbol": "♦",
+            "valueText": "+10",
+            "effect": "Artifact bonus to Magical Resistance Rating Cap"
+          },
+          {
+            "tier": "epic",
+            "symbol": "●",
+            "valueText": "+20",
+            "effect": "Artifact bonus to Magical Resistance Rating Cap"
+          },
+          {
+            "tier": "legendary",
+            "symbol": "★",
+            "valueText": "+30",
+            "effect": "Artifact bonus to Magical Resistance Rating Cap"
+          }
+        ]
+      }
+    ],
+    "namedEffects": [
+      "Spellcasting Implement +12",
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Kinetic Lore +12%",
+      "Impulse +84",
+      "Illusion Focus +3",
+      "The Desert's Biting Sands"
+    ],
+    "itemKey": "item:green_blade",
+    "setMembership": [
+      {
+        "setId": "the_desert_s_biting_sands",
+        "setName": "The Desert's Biting Sands",
+        "source": "named_item_sets",
+        "sourceSection": "Sands of Menechtarun sets",
+        "minLevels": [
+          20,
+          30
+        ],
+        "availablePieces": 8,
+        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Force Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
+        "bonuses": [
+          {
+            "piecesRequired": 2,
+            "effect": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
+            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+2%",
+                "effect": "Artifact bonus to Force Spellcrit Chance"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+4%",
+                "effect": "Artifact bonus to Force Spellcrit Chance"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+6%",
+                "effect": "Artifact bonus to Force Spellcrit Chance"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
+            "effectRaw": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Force Spellpower"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Force Spellpower"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Force Spellpower"
+              }
+            ]
+          },
+          {
+            "piecesRequired": 2,
+            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
+            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
+            "tieredEffects": [
+              {
+                "tier": "heroic",
+                "symbol": "♦",
+                "valueText": "+10",
+                "effect": "Artifact bonus to Magical Resistance Rating Cap"
+              },
+              {
+                "tier": "epic",
+                "symbol": "●",
+                "valueText": "+20",
+                "effect": "Artifact bonus to Magical Resistance Rating Cap"
+              },
+              {
+                "tier": "legendary",
+                "symbol": "★",
+                "valueText": "+30",
+                "effect": "Artifact bonus to Magical Resistance Rating Cap"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Green Steel Kukri",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Kukri",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Kukri of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Kukri_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:kukri_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Kukri of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Kukri_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:kukri_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Syranian Kukri",
+    "link": "https://ddowiki.com/page/Item:Syranian_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Reliquary Kukri",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Reliquary Kukri",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Green Blade",
+    "link": "https://ddowiki.com/page/Item:Epic_Green_Blade",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 20,
+    "effectsRaw": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Force Blast 4",
+      "Kinetic Lore +16%",
+      "Impulse +111",
+      "Illusion Focus +4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +20",
+      "+6 Enhancement Bonus",
+      "Force Blast 4",
+      "Kinetic Lore +16%",
+      "Impulse +111",
+      "Illusion Focus +4"
+    ],
+    "itemKey": "item:epic_green_blade",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Midnight Greetings",
+    "link": "https://ddowiki.com/page/Item:Epic_Midnight_Greetings",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Improved Deception +17",
+      "Disintegration",
+      "Improved Paralyzing",
+      "Assassinate +11",
+      "Finesse +9",
+      "Clever Strike",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Improved Deception +17",
+      "Disintegration",
+      "Improved Paralyzing",
+      "Assassinate +11",
+      "Finesse +9",
+      "Clever Strike"
+    ],
+    "itemKey": "item:epic_midnight_greetings",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sworn Silver Kukri",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ethereal Kukri",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Thunder-Forged Alloy Kukri",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Steel Kukri",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "The Labrythine Edge",
+    "link": "https://ddowiki.com/page/Item:The_Labrythine_Edge",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon",
+      "Purple Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon"
+    ],
+    "itemKey": "item:the_labrythine_edge",
+    "setMembership": []
+  },
+  {
+    "name": "Morninglord's Kukri",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:morninglord's_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Nightmother's Kukri",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Syranian Kukri",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Kukri",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "The Hunter's Darkblade",
+    "link": "https://ddowiki.com/page/Item:The_Hunter%27s_Darkblade",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 29,
+    "effectsRaw": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Unholy Burst 6",
+      "Fetters of Unreality",
+      "Insightful Nullification +74",
+      "Quality Nullification +36",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +29",
+      "+15 Enhancement Bonus",
+      "Keen",
+      "Unholy Burst 6",
+      "Fetters of Unreality",
+      "Insightful Nullification +74",
+      "Quality Nullification +36"
+    ],
+    "itemKey": "item:the_hunter's_darkblade",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Alchemical Kukri",
+    "link": "https://ddowiki.com/page/Item:Legendary_Alchemical_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Legendary Alchemical Crafting (Prototype)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Alchemical Crafting (Prototype)"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_alchemical_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flamesalt Kukri",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Midnight Greetings",
+    "link": "https://ddowiki.com/page/Item:Legendary_Midnight_Greetings",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Deception +20",
+      "Utter Disintegration",
+      "Legendary Paralysis",
+      "Assassinate +15",
+      "Finesse +13",
+      "Red Augment Slot",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red",
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Paralysis"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Deception +20",
+      "Utter Disintegration",
+      "Assassinate +15",
+      "Finesse +13"
+    ],
+    "itemKey": "item:legendary_midnight_greetings",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Blade",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Blade",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 30,
+    "effectsRaw": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Force Blast 6",
+      "Kinetic Lore +22%",
+      "Impulse +151",
+      "Illusion Focus +6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +30",
+      "+15 Enhancement Bonus",
+      "Force Blast 6",
+      "Kinetic Lore +22%",
+      "Impulse +151",
+      "Illusion Focus +6"
+    ],
+    "itemKey": "item:legendary_green_blade",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Kukri",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Attuned Bone Kukri",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:attuned_bone_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shining Reliquary Kukri",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Defiled Reliquary Kukri",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Kukri of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Kukri_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_kukri_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Kukri of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Kukri_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_kukri_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Maw, the Dracolich's Bite",
+    "link": "https://ddowiki.com/page/Item:Maw,_the_Dracolich%27s_Bite",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Guardbreaking",
+      "Legendary Paralysis",
+      "Legendary Armor-Piercing 5%",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Paralysis",
+      "Legendary Armor-Piercing 5%"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Guardbreaking",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:maw,_the_dracolich's_bite",
+    "setMembership": []
+  },
+  {
+    "name": "Kukri of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Kukri_of_the_Undying_Age",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:kukri_of_the_undying_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Calamitous Kukri",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_calamitous_kukri",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Kukri",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Kukri",
+    "slot": "weapon",
+    "itemSubtype": "kukri",
+    "handedness": "one_handed",
+    "category": "Kukris",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_kukri",
+    "setMembership": []
+  }
+]

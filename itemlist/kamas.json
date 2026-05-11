@@ -14,15 +14,14 @@
       "Deadly +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Electrifying 2",
       "Tendon Slice +3",
       "Deadly +3"
-    ],
-    "itemKey": "item:nicked_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Kama",
@@ -38,14 +37,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Kama",
@@ -63,13 +61,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Kama",
@@ -87,13 +84,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Kama",
@@ -114,6 +110,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -121,9 +118,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Kama",
@@ -144,6 +139,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -151,9 +147,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rahl's Wrath",
@@ -172,14 +166,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Absolute Law",
       "Cold Resistance +30"
-    ],
-    "itemKey": "item:rahl's_wrath",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Kama",
@@ -200,16 +193,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_kama",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Macabre Kama",
@@ -230,6 +238,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -237,9 +246,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Kama",
@@ -260,6 +267,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -267,9 +275,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Kama",
@@ -284,13 +290,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Redemption",
@@ -309,14 +314,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Holy",
       "Cold Resistance +30"
-    ],
-    "itemKey": "item:redemption",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Kama",
@@ -331,13 +335,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kama of the Fallen Age",
@@ -358,6 +361,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -365,9 +369,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:kama_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kama of the Golden Age",
@@ -388,6 +390,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -395,9 +398,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:kama_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forester's Brush Hook (level 15)",
@@ -414,15 +415,14 @@
       "Aligned"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Bleed",
       "Metalline",
       "Aligned"
-    ],
-    "itemKey": "item:forester's_brush_hook_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sunken Obscurity",
@@ -443,6 +443,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -450,9 +451,7 @@
       "Keen",
       "Improved Deception",
       "Cold Iron"
-    ],
-    "itemKey": "item:sunken_obscurity",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sunken Blasphemy",
@@ -473,6 +472,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -480,9 +480,7 @@
       "Keen",
       "Bleeding 4",
       "Adamantine"
-    ],
-    "itemKey": "item:sunken_blasphemy",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sunken Virtue",
@@ -503,6 +501,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -510,9 +509,7 @@
       "Keen",
       "Axiomatic 4",
       "Silver"
-    ],
-    "itemKey": "item:sunken_virtue",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sunken Radiance",
@@ -533,6 +530,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -540,9 +538,7 @@
       "Keen",
       "Banishing",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:sunken_radiance",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Kama",
@@ -563,6 +559,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -570,9 +567,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forester's Brush Hook (level 16)",
@@ -589,15 +584,14 @@
       "Aligned"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Bleed",
       "Metalline",
       "Aligned"
-    ],
-    "itemKey": "item:forester's_brush_hook_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forester's Brush Hook (level 17)",
@@ -614,15 +608,14 @@
       "Aligned"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Hemorrhaging",
       "Metalline",
       "Aligned"
-    ],
-    "itemKey": "item:forester's_brush_hook_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dream Edge",
@@ -683,6 +676,7 @@
       "Suppressed Power"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -733,9 +727,7 @@
       "Vicious",
       "Vorpal",
       "Suppressed Power"
-    ],
-    "itemKey": "item:dream_edge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Kama",
@@ -756,6 +748,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -763,9 +756,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Kama",
@@ -786,6 +777,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -793,9 +785,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Kama",
@@ -816,6 +806,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -823,9 +814,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Kama",
@@ -846,6 +835,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -853,9 +843,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forester's Brush Hook (level 22)",
@@ -872,15 +860,14 @@
       "Aligned"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Hemorrhaging",
       "Metalline",
       "Aligned"
-    ],
-    "itemKey": "item:forester's_brush_hook_(level_22)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Kama",
@@ -898,13 +885,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forester's Brush Hook (level 23)",
@@ -921,15 +907,14 @@
       "Aligned"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Phlebotomizing",
       "Metalline",
       "Aligned"
-    ],
-    "itemKey": "item:forester's_brush_hook_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forester's Brush Hook (level 24)",
@@ -946,15 +931,14 @@
       "Aligned"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Phlebotomizing",
       "Metalline",
       "Aligned"
-    ],
-    "itemKey": "item:forester's_brush_hook_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Kama",
@@ -969,14 +953,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Sunken Obscurity",
@@ -997,6 +980,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1004,9 +988,7 @@
       "Keen",
       "Improved Deception",
       "Cold Iron"
-    ],
-    "itemKey": "item:legendary_sunken_obscurity",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Sunken Blasphemy",
@@ -1027,6 +1009,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1034,9 +1017,7 @@
       "Keen",
       "Bleeding 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_sunken_blasphemy",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Sunken Radiance",
@@ -1057,6 +1038,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1064,9 +1046,7 @@
       "Keen",
       "Sovereign Banishing",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_sunken_radiance",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Sunken Virtue",
@@ -1087,6 +1067,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1094,9 +1075,7 @@
       "Keen",
       "Axiomatic 6",
       "Silver"
-    ],
-    "itemKey": "item:legendary_sunken_virtue",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Kama",
@@ -1117,6 +1096,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1124,9 +1104,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Kama",
@@ -1147,6 +1125,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1154,9 +1133,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Kama",
@@ -1177,6 +1154,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1184,9 +1162,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Kama",
@@ -1207,6 +1183,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1214,9 +1191,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Inferno's Demands",
@@ -1241,38 +1216,8 @@
       "Red",
       "Purple"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_labyrinthian_inferno",
-        "setName": "The Labyrinthian Inferno",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "piecesRequired": 2,
-        "effect": "+6 Artifact bonus to Fire Spellcrit Chance",
-        "effectRaw": "+6 Artifact bonus to Fire Spellcrit Chance",
-        "tieredEffects": []
-      },
-      {
-        "setId": "the_labyrinthian_inferno",
-        "setName": "The Labyrinthian Inferno",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "piecesRequired": 2,
-        "effect": "+30 Artifact bonus to Fire Spell Power",
-        "effectRaw": "+30 Artifact bonus to Fire Spell Power",
-        "tieredEffects": []
-      },
-      {
-        "setId": "the_labyrinthian_inferno",
-        "setName": "The Labyrinthian Inferno",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "piecesRequired": 2,
-        "effect": "+15% Artifact bonus to damage vs the Helpless",
-        "effectRaw": "+15% Artifact bonus to damage vs the Helpless",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
       "+15 Enhancement Bonus",
@@ -1281,40 +1226,6 @@
       "Insightful Combustion +74",
       "Insightful Evocation Focus +3",
       "The Labyrinthian Inferno"
-    ],
-    "itemKey": "item:the_inferno's_demands",
-    "setMembership": [
-      {
-        "setId": "the_labyrinthian_inferno",
-        "setName": "The Labyrinthian Inferno",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "minLevels": [
-          29
-        ],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: +6 Artifact bonus to Fire Spellcrit Chance +30 Artifact bonus to Fire Spell Power +15% Artifact bonus to damage vs the Helpless",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "+6 Artifact bonus to Fire Spellcrit Chance",
-            "effectRaw": "+6 Artifact bonus to Fire Spellcrit Chance",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "+30 Artifact bonus to Fire Spell Power",
-            "effectRaw": "+30 Artifact bonus to Fire Spell Power",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "+15% Artifact bonus to damage vs the Helpless",
-            "effectRaw": "+15% Artifact bonus to damage vs the Helpless",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -1340,38 +1251,8 @@
       "Red",
       "Orange"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_labyrinthian_inferno",
-        "setName": "The Labyrinthian Inferno",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "piecesRequired": 2,
-        "effect": "+6 Artifact bonus to Fire Spellcrit Chance",
-        "effectRaw": "+6 Artifact bonus to Fire Spellcrit Chance",
-        "tieredEffects": []
-      },
-      {
-        "setId": "the_labyrinthian_inferno",
-        "setName": "The Labyrinthian Inferno",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "piecesRequired": 2,
-        "effect": "+30 Artifact bonus to Fire Spell Power",
-        "effectRaw": "+30 Artifact bonus to Fire Spell Power",
-        "tieredEffects": []
-      },
-      {
-        "setId": "the_labyrinthian_inferno",
-        "setName": "The Labyrinthian Inferno",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "piecesRequired": 2,
-        "effect": "+15% Artifact bonus to damage vs the Helpless",
-        "effectRaw": "+15% Artifact bonus to damage vs the Helpless",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
       "+15 Enhancement Bonus",
@@ -1380,40 +1261,6 @@
       "Fire Lore +22%",
       "Combustion +148",
       "The Labyrinthian Inferno"
-    ],
-    "itemKey": "item:the_inferno's_desire",
-    "setMembership": [
-      {
-        "setId": "the_labyrinthian_inferno",
-        "setName": "The Labyrinthian Inferno",
-        "source": "named_item_sets",
-        "sourceSection": "Hunter and Hunted sets",
-        "minLevels": [
-          29
-        ],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: +6 Artifact bonus to Fire Spellcrit Chance +30 Artifact bonus to Fire Spell Power +15% Artifact bonus to damage vs the Helpless",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "+6 Artifact bonus to Fire Spellcrit Chance",
-            "effectRaw": "+6 Artifact bonus to Fire Spellcrit Chance",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "+30 Artifact bonus to Fire Spell Power",
-            "effectRaw": "+30 Artifact bonus to Fire Spell Power",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "+15% Artifact bonus to damage vs the Helpless",
-            "effectRaw": "+15% Artifact bonus to damage vs the Helpless",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -1432,14 +1279,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Kama",
@@ -1460,6 +1306,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1467,9 +1314,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Kama",
@@ -1492,16 +1337,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_kama",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Kama",
@@ -1524,16 +1389,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_kama",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Kama",
@@ -1556,6 +1441,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1563,9 +1449,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Kama",
@@ -1589,6 +1473,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1598,9 +1483,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_kama",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Kama of the Fallen Age",
@@ -1623,6 +1506,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1630,9 +1514,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_kama_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Kama of the Golden Age",
@@ -1655,6 +1537,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1662,9 +1545,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_kama_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spur, the Claw of Death",
@@ -1687,6 +1568,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Paralysis"
     ],
@@ -1695,9 +1577,7 @@
       "Life Stealing",
       "Overwhelming Incineration",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:spur,_the_claw_of_death",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kama of the Undying Age",
@@ -1720,6 +1600,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1727,9 +1608,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:kama_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Kama",
@@ -1752,16 +1631,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_kama",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "The Cleaving Claw",
@@ -1786,18 +1685,38 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Murderous Edge",
-      "Revel in Blood (Slashing)",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:the_cleaving_claw",
-    "setMembership": []
+      "Revel in Blood (Slashing)"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Kama",
@@ -1820,15 +1739,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_kama",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

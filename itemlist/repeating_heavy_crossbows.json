@@ -15,13 +15,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Cold Touch"
-    ],
-    "itemKey": "item:hobble's_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Repeating Heavy Crossbow",
@@ -39,13 +38,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Repeating Heavy Crossbow",
@@ -63,13 +61,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Moonlight Slinger",
@@ -90,6 +87,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -97,9 +95,7 @@
       "Icy Blast 2",
       "Freezing 4",
       "Crippling"
-    ],
-    "itemKey": "item:moonlight_slinger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Repeating Heavy Crossbow",
@@ -120,6 +116,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -127,9 +124,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Repeating Heavy Crossbow",
@@ -150,6 +145,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -157,9 +153,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scoundrel's Repeating Heavy Crossbow",
@@ -178,14 +172,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Acid",
       "Anarchic"
-    ],
-    "itemKey": "item:scoundrel's_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Repeating Heavy Crossbow",
@@ -206,16 +199,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_repeating_heavy_crossbow",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Barovian's Repeating Heavy Crossbow",
@@ -236,6 +244,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -243,9 +252,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Repeating Heavy Crossbow",
@@ -266,6 +273,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -273,9 +281,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Repeating Heavy Crossbow",
@@ -290,13 +296,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Repeating Heavy Crossbow",
@@ -311,13 +316,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Banded Heavy Repeater (level 12)",
@@ -331,12 +335,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_banded_heavy_repeater_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Repeating Heavy Crossbow of the Fallen Age",
@@ -357,6 +360,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -364,9 +368,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:repeating_heavy_crossbow_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Repeating Heavy Crossbow of the Golden Age",
@@ -387,6 +389,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -394,9 +397,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:repeating_heavy_crossbow_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Trapsmith's Crossbow (level 14)",
@@ -412,14 +413,13 @@
       "Keen"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Poison IV",
       "Doubleshot 5%",
       "Keen"
-    ],
-    "itemKey": "item:trapsmith's_crossbow_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Fatal Flaw",
@@ -440,6 +440,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Keen",
@@ -447,9 +448,7 @@
       "Shrieking II",
       "Improved Vorpal",
       "+5 Enhancement Bonus"
-    ],
-    "itemKey": "item:the_fatal_flaw",
-    "setMembership": []
+    ]
   },
   {
     "name": "Trapsmith's Crossbow (level 15)",
@@ -465,14 +464,13 @@
       "Keen"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Poison V",
       "Doubleshot 5%",
       "Keen"
-    ],
-    "itemKey": "item:trapsmith's_crossbow_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Heavy Boltslinger",
@@ -493,6 +491,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -500,9 +499,7 @@
       "Electrifying 4",
       "Jolting 9",
       "Insightful Distant Diversion +5%"
-    ],
-    "itemKey": "item:heavy_boltslinger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thundershot",
@@ -523,6 +520,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -530,9 +528,7 @@
       "Reverberating 4",
       "Jolting 9",
       "Blunted Ammunition"
-    ],
-    "itemKey": "item:thundershot",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Repeating Heavy Crossbow",
@@ -553,6 +549,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -560,9 +557,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Silver Slinger",
@@ -581,6 +576,7 @@
       "Silver , Alchemical"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -589,9 +585,7 @@
       "Weaken Undead",
       "Blunted Ammunition",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:silver_slinger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Trapsmith's Crossbow (level 16)",
@@ -607,14 +601,13 @@
       "Keen"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Poison V",
       "Doubleshot 6%",
       "Keen"
-    ],
-    "itemKey": "item:trapsmith's_crossbow_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Banded Heavy Repeater (level 16)",
@@ -628,12 +621,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_banded_heavy_repeater_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Repeating Heavy Crossbow",
@@ -654,6 +646,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -661,9 +654,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Repeating Heavy Crossbow",
@@ -684,6 +675,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -691,9 +683,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Renovator",
@@ -714,241 +704,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "remodeling_renegade",
-        "setName": "Remodeling Renegade",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+10%★+30% Artifact Bonus to Fortification Bypass",
-        "effectRaw": "♦+10%★+30% Artifact Bonus to Fortification Bypass",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10%",
-            "effect": "Artifact Bonus to Fortification Bypass"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30%",
-            "effect": "Artifact Bonus to Fortification Bypass"
-          }
-        ]
-      },
-      {
-        "setId": "remodeling_renegade",
-        "setName": "Remodeling Renegade",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+5%★+15% Artifact Bonus to Doublestrike and Doubleshot",
-        "effectRaw": "♦+5%★+15% Artifact Bonus to Doublestrike and Doubleshot",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Artifact Bonus to Doublestrike and Doubleshot"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Artifact Bonus to Doublestrike and Doubleshot"
-          }
-        ]
-      },
-      {
-        "setId": "remodeling_renegade",
-        "setName": "Remodeling Renegade",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+30 Artifact Bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Artifact Bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "remodeling_renegade",
-        "setName": "Remodeling Renegade",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 4,
-        "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "remodeling_renegade",
-        "setName": "Remodeling Renegade",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 4,
-        "effect": "♦+5%★+15% Artifact Bonus to Damage vs. Helpless opponents",
-        "effectRaw": "♦+5%★+15% Artifact Bonus to Damage vs. Helpless opponents",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Artifact Bonus to Damage vs. Helpless opponents"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Artifact Bonus to Damage vs. Helpless opponents"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Force Blast 4",
       "Keen",
       "Blunt Trauma",
       "Construct Bane 4"
-    ],
-    "itemKey": "item:the_renovator",
-    "setMembership": [
-      {
-        "setId": "remodeling_renegade",
-        "setName": "Remodeling Renegade",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 5,
-        "bonusRaw": "3 Pieces Equipped: ♦+10%★+30% Artifact Bonus to Fortification Bypass ♦+5%★+15% Artifact Bonus to Doublestrike and Doubleshot ♦+10★+30 Artifact Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+5★+15 Artifact Bonus to Melee and Ranged Power ♦+5%★+15% Artifact Bonus to Damage vs. Helpless opponents",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10%★+30% Artifact Bonus to Fortification Bypass",
-            "effectRaw": "♦+10%★+30% Artifact Bonus to Fortification Bypass",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10%",
-                "effect": "Artifact Bonus to Fortification Bypass"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30%",
-                "effect": "Artifact Bonus to Fortification Bypass"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+5%★+15% Artifact Bonus to Doublestrike and Doubleshot",
-            "effectRaw": "♦+5%★+15% Artifact Bonus to Doublestrike and Doubleshot",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Artifact Bonus to Doublestrike and Doubleshot"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Artifact Bonus to Doublestrike and Doubleshot"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+30 Artifact Bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Artifact Bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+5%★+15% Artifact Bonus to Damage vs. Helpless opponents",
-            "effectRaw": "♦+5%★+15% Artifact Bonus to Damage vs. Helpless opponents",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Artifact Bonus to Damage vs. Helpless opponents"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Artifact Bonus to Damage vs. Helpless opponents"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -973,6 +736,7 @@
       "Red",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -981,9 +745,7 @@
       "Incineration",
       "Feat: Precise Shot",
       "Scorching Ray — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:epic_hellfire_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Silver Slinger",
@@ -1005,6 +767,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1013,9 +776,7 @@
       "Weaken Undead",
       "Blunted Ammunition",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:epic_silver_slinger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Calomel Banded Heavy Repeater",
@@ -1029,12 +790,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_calomel_banded_heavy_repeater",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Repeating Heavy Crossbow",
@@ -1055,6 +815,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1062,9 +823,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Repeating Heavy Crossbow",
@@ -1085,6 +844,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1092,9 +852,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Repeating Heavy Crossbow",
@@ -1112,13 +870,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Trapsmith's Crossbow (level 25)",
@@ -1134,14 +891,13 @@
       "Keen"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Poison VII",
       "Doubleshot 8%",
       "Keen"
-    ],
-    "itemKey": "item:trapsmith's_crossbow_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Trapsmith's Crossbow (level 26)",
@@ -1157,14 +913,13 @@
       "Keen"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Poison VIII",
       "Doubleshot 8%",
       "Keen"
-    ],
-    "itemKey": "item:trapsmith's_crossbow_(level_26)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Repeating Heavy Crossbow",
@@ -1179,14 +934,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Trapsmith's Crossbow (level 27)",
@@ -1202,14 +956,13 @@
       "Keen"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Poison VIII",
       "Doubleshot 9%",
       "Keen"
-    ],
-    "itemKey": "item:trapsmith's_crossbow_(level_27)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Epic Fatal Flaw",
@@ -1230,6 +983,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Keen",
@@ -1237,9 +991,7 @@
       "Shrieking V",
       "Sovereign Vorpal",
       "+12 Enhancement Bonus"
-    ],
-    "itemKey": "item:the_epic_fatal_flaw",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Heavy Boltslinger",
@@ -1260,6 +1012,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+13 Enhancement Bonus",
@@ -1267,9 +1020,7 @@
       "Electrifying 6",
       "Jolting 14",
       "Insightful Distant Diversion +9%"
-    ],
-    "itemKey": "item:legendary_heavy_boltslinger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Thundershot",
@@ -1290,6 +1041,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1297,9 +1049,7 @@
       "Reverberating 6",
       "Jolting 14",
       "Blunted Ammunition"
-    ],
-    "itemKey": "item:legendary_thundershot",
-    "setMembership": []
+    ]
   },
   {
     "name": "Stickerclick, the Bitter Hail of Bolts",
@@ -1319,13 +1069,12 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon"
-    ],
-    "itemKey": "item:stickerclick,_the_bitter_hail_of_bolts",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Repeating Heavy Crossbow",
@@ -1346,6 +1095,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1353,9 +1103,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Repeating Heavy Crossbow",
@@ -1376,6 +1124,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1383,9 +1132,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Repeating Heavy Crossbow",
@@ -1406,6 +1153,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1413,9 +1161,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Repeating Heavy Crossbow",
@@ -1436,6 +1182,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1443,9 +1190,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Repeating Heavy Crossbow",
@@ -1466,6 +1211,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1473,9 +1219,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Silver Slinger",
@@ -1497,6 +1241,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1505,9 +1250,7 @@
       "Weaken Undead",
       "Blunted Ammunition",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:legendary_silver_slinger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Hellfire Crossbow",
@@ -1531,6 +1274,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1539,9 +1283,7 @@
       "Overwhelming Incineration",
       "Feat: Precise Shot",
       "Scorching Ray — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:legendary_hellfire_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Repeating Heavy Crossbow",
@@ -1564,16 +1306,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_repeating_heavy_crossbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Repeating Heavy Crossbow",
@@ -1596,16 +1358,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_repeating_heavy_crossbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Repeating Heavy Crossbow",
@@ -1628,6 +1410,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1635,9 +1418,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Anarchist's Crossbow",
@@ -1661,146 +1442,8 @@
       "Orange",
       "Purple"
     ],
-    "setBonuses": [
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Attack and Damage"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane Bonus to Attack and Damage"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Universal Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane Bonus to Universal Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to Spell DCs"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Thorny Crown of Madness 7",
@@ -1808,137 +1451,6 @@
       "Cursed Maelstrom",
       "Ranged Alacrity 20%",
       "Planar Searing"
-    ],
-    "itemKey": "item:the_anarchist's_crossbow",
-    "setMembership": [
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 61,
-        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Attack and Damage"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane Bonus to Attack and Damage"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Universal Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane Bonus to Universal Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to Spell DCs"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1963,6 +1475,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1972,9 +1485,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_repeating_heavy_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary The Renovator",
@@ -1997,6 +1508,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2004,9 +1516,7 @@
       "Keen",
       "Blunt Trauma",
       "Construct Bane 6"
-    ],
-    "itemKey": "item:legendary_the_renovator",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Repeating Heavy Crossbow of the Fallen Age",
@@ -2029,6 +1539,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2036,9 +1547,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_repeating_heavy_crossbow_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Repeating Heavy Crossbow of the Golden Age",
@@ -2061,6 +1570,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2068,9 +1578,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_repeating_heavy_crossbow_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Repeating Heavy Crossbow of the Undying Age",
@@ -2093,6 +1601,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2100,9 +1609,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:repeating_heavy_crossbow_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Moonlight Slinger",
@@ -2125,6 +1632,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2132,9 +1640,7 @@
       "Icy Blast 7",
       "Freezing 15",
       "Limb Chopper"
-    ],
-    "itemKey": "item:legendary_moonlight_slinger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Statica, the Concentrated Charge",
@@ -2159,6 +1665,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -2168,9 +1675,7 @@
       "Quality Spell Focus Mastery +2",
       "Sealed in Mist",
       "Exceptional Spell Focus Mastery +2"
-    ],
-    "itemKey": "item:statica,_the_concentrated_charge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lash, the Arbalest of Arcs",
@@ -2193,6 +1698,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Armor-Piercing 5%"
     ],
@@ -2201,9 +1707,7 @@
       "Lightning Lash",
       "Sparkscale",
       "Sealed in Mist"
-    ],
-    "itemKey": "item:lash,_the_arbalest_of_arcs",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Repeating Heavy Crossbow",
@@ -2226,16 +1730,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_repeating_heavy_crossbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Repeating Heavy Crossbow",
@@ -2258,15 +1782,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_repeating_heavy_crossbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

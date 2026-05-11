@@ -13,14 +13,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Masterwork",
       "Fire Touch",
       "Starter"
-    ],
-    "itemKey": "item:ember_great_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Molin's Great Axe",
@@ -34,12 +33,11 @@
       "Lesser Monstrous Humanoid Bane"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Lesser Monstrous Humanoid Bane"
-    ],
-    "itemKey": "item:molin's_great_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Oath of Droaam",
@@ -57,6 +55,7 @@
       "Adamantine"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -64,9 +63,7 @@
       "Keen",
       "Vorpal",
       "Adamantine"
-    ],
-    "itemKey": "item:oath_of_droaam",
-    "setMembership": []
+    ]
   },
   {
     "name": "Axe of the Scarlet Warrior",
@@ -83,15 +80,14 @@
       "Maiming"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Strength +6",
       "Vorpal",
       "Maiming"
-    ],
-    "itemKey": "item:axe_of_the_scarlet_warrior",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rusty Great Axe",
@@ -105,12 +101,11 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Starter"
-    ],
-    "itemKey": "item:rusty_great_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Great Axe",
@@ -126,14 +121,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_great_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Greataxe",
@@ -151,13 +145,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Greataxe",
@@ -175,13 +168,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Carnifex",
@@ -199,13 +191,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Keen"
-    ],
-    "itemKey": "item:carnifex",
-    "setMembership": []
+    ]
   },
   {
     "name": "Antique Greataxe",
@@ -226,6 +217,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -233,9 +225,7 @@
       "Evil Outsider Bane 2",
       "Melee Alacrity 5%",
       "Adamantine"
-    ],
-    "itemKey": "item:antique_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hellstroke Great Axe",
@@ -256,6 +246,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -263,9 +254,7 @@
       "Keen",
       "Cold Iron",
       "Maiming 2"
-    ],
-    "itemKey": "item:hellstroke_great_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "+2 Starter Great Axe",
@@ -281,14 +270,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Shock",
       "Starter"
-    ],
-    "itemKey": "item:+2_starter_great_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Greataxe of Fire (level 4)",
@@ -304,14 +292,13 @@
       "Cold Resistance +11"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Cold Resistance +11"
-    ],
-    "itemKey": "item:elemental_greataxe_of_fire_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Greataxe (level 4)",
@@ -327,14 +314,13 @@
       "Undead Bane 2"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Righteous",
       "Undead Bane 2"
-    ],
-    "itemKey": "item:mournlode_greataxe_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Great Axe (level 4)",
@@ -351,15 +337,14 @@
       "Crushing 4"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Ghostbane 2",
       "Evil Outsider Bane 2",
       "Crushing 4"
-    ],
-    "itemKey": "item:spectral_great_axe_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Greataxe",
@@ -380,6 +365,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -387,9 +373,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Greataxe",
@@ -410,6 +394,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -417,9 +402,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Twinchopper",
@@ -440,271 +423,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Universal Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane bonus to Universal Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to Spell DCs",
-        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to Spell DCs"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "★+4 Profane bonus to Hit and Damage",
-        "effectRaw": "★+4 Profane bonus to Hit and Damage",
-        "tieredEffects": [
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane bonus to Hit and Damage"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Vorpal",
       "Doublestrike 5%",
       "Insightful Doublestrike 2%",
       "The Dread Isle's Curse"
-    ],
-    "itemKey": "item:twinchopper",
-    "setMembership": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "minLevels": [
-          7,
-          31
-        ],
-        "availablePieces": 70,
-        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Universal Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane bonus to Universal Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to Spell DCs",
-            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to Spell DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "★+4 Profane bonus to Hit and Damage",
-            "effectRaw": "★+4 Profane bonus to Hit and Damage",
-            "tieredEffects": [
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane bonus to Hit and Damage"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -726,14 +452,13 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Frost",
       "Anarchic"
-    ],
-    "itemKey": "item:maelstrom",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Greataxe of Fire (level 8)",
@@ -747,12 +472,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:elemental_greataxe_of_fire_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Greataxe (level 8)",
@@ -766,12 +490,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_greataxe_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Great Axe (level 8)",
@@ -789,6 +512,7 @@
       "Crushing 6"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -796,9 +520,7 @@
       "Evil Outsider Bane 2",
       "Vorpal",
       "Crushing 6"
-    ],
-    "itemKey": "item:spectral_great_axe_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Greataxe",
@@ -819,16 +541,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_greataxe",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Garzuul's Bane",
@@ -845,12 +582,11 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus"
-    ],
-    "itemKey": "item:garzuul's_bane",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Greataxe",
@@ -871,6 +607,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -878,9 +615,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Greataxe",
@@ -901,6 +636,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -908,9 +644,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drysvayla's Axe",
@@ -931,6 +665,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -938,9 +673,7 @@
       "Toxic 7",
       "Limb Chopper",
       "Dragon's Edge 3"
-    ],
-    "itemKey": "item:drysvayla's_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Insurrection",
@@ -959,14 +692,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Construct Bane",
       "Shatter +10"
-    ],
-    "itemKey": "item:insurrection",
-    "setMembership": []
+    ]
   },
   {
     "name": "Great Axe of the Chained Soldier (historic)",
@@ -982,14 +714,13 @@
       "Immunity to Fear"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Break Enchantment — 1 Charges (Recharged/Day:1)",
       "Immunity to Fear"
-    ],
-    "itemKey": "item:great_axe_of_the_chained_soldier_(historic)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Petrifying War Axe",
@@ -1010,6 +741,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1017,9 +749,7 @@
       "Humanoid Bane 3",
       "Gashing 7",
       "Stone Prison"
-    ],
-    "itemKey": "item:petrifying_war_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ogrish War Axe",
@@ -1037,6 +767,7 @@
       "Malleable"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1044,9 +775,7 @@
       "Humanoid Bane 3",
       "Gashing 7",
       "Malleable"
-    ],
-    "itemKey": "item:ogrish_war_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Greataxe",
@@ -1061,13 +790,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Greataxe",
@@ -1082,13 +810,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bloody War Axe",
@@ -1109,6 +836,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1116,9 +844,7 @@
       "Humanoid Bane 3",
       "Gashing 7",
       "Bodyfeeder"
-    ],
-    "itemKey": "item:bloody_war_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Infectious War Axe",
@@ -1139,6 +865,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1146,9 +873,7 @@
       "Humanoid Bane 3",
       "Gashing 7",
       "Demon Fever"
-    ],
-    "itemKey": "item:infectious_war_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Great Axe of the Chained Soldier (level 12)",
@@ -1164,14 +889,13 @@
       "Immunity to Fear"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Hemorrhaging",
       "Immunity to Fear"
-    ],
-    "itemKey": "item:great_axe_of_the_chained_soldier_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Destructive War Axe",
@@ -1192,6 +916,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1199,9 +924,7 @@
       "Humanoid Bane 3",
       "Gashing 7",
       "Destruction"
-    ],
-    "itemKey": "item:destructive_war_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Greataxe of Fire (level 12)",
@@ -1215,12 +938,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:elemental_greataxe_of_fire_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Greataxe (level 12)",
@@ -1234,12 +956,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_greataxe_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Great Axe (level 12)",
@@ -1257,6 +978,7 @@
       "Crushing 7"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -1264,9 +986,7 @@
       "Evil Outsider Bane 3",
       "Vorpal",
       "Crushing 7"
-    ],
-    "itemKey": "item:spectral_great_axe_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Great Axe of the Chained Soldier (level 13)",
@@ -1285,14 +1005,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Hemorrhaging",
       "Immunity to Fear"
-    ],
-    "itemKey": "item:great_axe_of_the_chained_soldier_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Riftmaker",
@@ -1313,6 +1032,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1320,9 +1040,7 @@
       "Banishing",
       "Bloodletter III",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:riftmaker",
-    "setMembership": []
+    ]
   },
   {
     "name": "Greataxe of the Fallen Age",
@@ -1343,6 +1061,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1350,9 +1069,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:greataxe_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Greataxe of the Golden Age",
@@ -1373,6 +1090,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1380,9 +1098,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:greataxe_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Great Axe of the Chained Soldier (level 14)",
@@ -1401,14 +1117,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Hemorrhaging",
       "Immunity to Fear"
-    ],
-    "itemKey": "item:great_axe_of_the_chained_soldier_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Greataxe",
@@ -1429,6 +1144,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1436,9 +1152,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Greataxe (level 16)",
@@ -1452,12 +1166,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_greataxe_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Greataxe of Fire (level 16)",
@@ -1471,12 +1184,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:elemental_greataxe_of_fire_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Great Axe (level 16)",
@@ -1494,6 +1206,7 @@
       "Crushing 9"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1501,9 +1214,7 @@
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 9"
-    ],
-    "itemKey": "item:spectral_great_axe_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Greataxe",
@@ -1524,6 +1235,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1531,9 +1243,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Greataxe",
@@ -1554,6 +1264,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1561,9 +1272,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Antique Greataxe",
@@ -1587,6 +1296,7 @@
       "Red",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1595,9 +1305,7 @@
       "Righteous",
       "Anarchic 4",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_antique_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Hellstroke Great Axe",
@@ -1621,6 +1329,7 @@
       "Red",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1629,9 +1338,7 @@
       "Incite +91",
       "Keen",
       "Maiming 4"
-    ],
-    "itemKey": "item:epic_hellstroke_great_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Mournlode Greataxe",
@@ -1645,12 +1352,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_mournlode_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Elemental Greataxe of Fire",
@@ -1664,12 +1370,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_elemental_greataxe_of_fire",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Great Axe (level 20)",
@@ -1687,6 +1392,7 @@
       "Crushing 10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1694,9 +1400,7 @@
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 10"
-    ],
-    "itemKey": "item:spectral_great_axe_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Greataxe",
@@ -1717,6 +1421,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1724,9 +1429,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Greataxe",
@@ -1747,6 +1450,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1754,9 +1458,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drow Greataxe of the Weapon Master",
@@ -1777,6 +1479,7 @@
       "Tendon Slice 10%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1787,9 +1490,7 @@
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:drow_greataxe_of_the_weapon_master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Greataxe",
@@ -1807,13 +1508,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cleaver, Hewer of Suffering",
@@ -1832,6 +1532,7 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1840,9 +1541,7 @@
       "Improved Cursespewing",
       "Doublestrike 6%",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:cleaver,_hewer_of_suffering",
-    "setMembership": []
+    ]
   },
   {
     "name": "Great Axe of the Chained Soldier (level 23)",
@@ -1861,14 +1560,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Hemorrhaging",
       "Immunity to Fear"
-    ],
-    "itemKey": "item:great_axe_of_the_chained_soldier_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Great Axe of the Chained Soldier (level 24)",
@@ -1889,14 +1587,13 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+8 Enhancement Bonus",
       "Hemorrhaging",
       "Immunity to Fear"
-    ],
-    "itemKey": "item:great_axe_of_the_chained_soldier_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Great Axe (level 24)",
@@ -1914,6 +1611,7 @@
       "Crushing 12"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1921,9 +1619,7 @@
       "Evil Outsider Bane 5",
       "Greater Vorpal",
       "Crushing 12"
-    ],
-    "itemKey": "item:spectral_great_axe_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Great Axe of the Chained Soldier (level 25)",
@@ -1944,14 +1640,13 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+8 Enhancement Bonus",
       "Phlebotomizing",
       "Immunity to Fear"
-    ],
-    "itemKey": "item:great_axe_of_the_chained_soldier_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Carnifex",
@@ -1969,13 +1664,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+8 Enhancement Bonus",
       "Keen"
-    ],
-    "itemKey": "item:epic_carnifex",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Greataxe",
@@ -1990,14 +1684,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Riftmaker",
@@ -2019,6 +1712,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -2027,9 +1721,7 @@
       "Melee Power +6",
       "Superior Force Burst",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:epic_riftmaker",
-    "setMembership": []
+    ]
   },
   {
     "name": "Torn, That Which Renders Despair",
@@ -2052,6 +1744,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2059,9 +1752,7 @@
       "Improved Destruction",
       "Insightful Armor-Piercing 10%",
       "Metalline"
-    ],
-    "itemKey": "item:torn,_that_which_renders_despair",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Great Axe (level 28)",
@@ -2079,6 +1770,7 @@
       "Crushing 13"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -2086,9 +1778,7 @@
       "Evil Outsider Bane 6",
       "Superior Vorpal",
       "Crushing 13"
-    ],
-    "itemKey": "item:spectral_great_axe_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Baz'Morath, the Curator of Decay",
@@ -2108,13 +1798,12 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon"
-    ],
-    "itemKey": "item:baz'morath,_the_curator_of_decay",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Magmatic Cleaver",
@@ -2137,6 +1826,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2144,9 +1834,7 @@
       "Keen",
       "Armor-Piercing 21%",
       "Flamebitten"
-    ],
-    "itemKey": "item:the_magmatic_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Greataxe",
@@ -2167,6 +1855,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2174,9 +1863,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Greataxe",
@@ -2197,6 +1884,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2204,9 +1892,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Greataxe",
@@ -2227,6 +1913,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2234,9 +1921,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Greataxe",
@@ -2257,6 +1942,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2264,9 +1950,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Greataxe",
@@ -2287,6 +1971,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2294,9 +1979,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Antique Greataxe",
@@ -2320,6 +2003,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2328,9 +2012,7 @@
       "Righteous",
       "Holy Burst 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_antique_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Hellstroke Great Axe",
@@ -2354,6 +2036,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2362,9 +2045,7 @@
       "Maiming 6",
       "Incite +129",
       "Cold Iron"
-    ],
-    "itemKey": "item:legendary_hellstroke_great_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Twinchopper",
@@ -2385,16 +2066,21 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Sovereign Vorpal",
       "Doublestrike 15%",
-      "Insightful Doublestrike 7%",
-      "Isle of Dread: Scale Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:legendary_twinchopper",
-    "setMembership": []
+      "Insightful Doublestrike 7%"
+    ]
   },
   {
     "name": "Dinosaur Bone Greataxe",
@@ -2417,16 +2103,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_greataxe",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Greataxe",
@@ -2449,16 +2155,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_greataxe",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Ogrish War Axe",
@@ -2481,6 +2207,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2488,9 +2215,7 @@
       "Humanoid Bane 6",
       "Gashing 15",
       "Malleable"
-    ],
-    "itemKey": "item:legendary_ogrish_war_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Infectious War Axe",
@@ -2513,6 +2238,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -2521,9 +2247,7 @@
       "Vengeful",
       "Humanoid Bane 6",
       "Gashing 15"
-    ],
-    "itemKey": "item:legendary_infectious_war_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Bloody War Axe",
@@ -2546,6 +2270,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2553,9 +2278,7 @@
       "Humanoid Bane 6",
       "Gashing 15",
       "Feeding 30"
-    ],
-    "itemKey": "item:legendary_bloody_war_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Destructive War Axe",
@@ -2578,6 +2301,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2585,9 +2309,7 @@
       "Humanoid Bane 6",
       "Gashing 15",
       "Improved Destruction"
-    ],
-    "itemKey": "item:legendary_destructive_war_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Petrifying War Axe",
@@ -2610,6 +2332,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Stone Prison"
     ],
@@ -2618,9 +2341,7 @@
       "Vengeful",
       "Humanoid Bane 6",
       "Gashing 15"
-    ],
-    "itemKey": "item:legendary_petrifying_war_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Greataxe",
@@ -2643,6 +2364,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2650,9 +2372,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Greataxe",
@@ -2676,6 +2396,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -2685,9 +2406,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_greataxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Greataxe of the Fallen Age",
@@ -2710,6 +2429,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2717,9 +2437,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_greataxe_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Greataxe of the Golden Age",
@@ -2742,6 +2460,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2749,9 +2468,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_greataxe_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Greataxe of the Undying Age",
@@ -2774,6 +2491,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2781,9 +2499,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:greataxe_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Arctica, the Mystic Cold",
@@ -2808,6 +2524,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -2817,9 +2534,7 @@
       "Quality Spell Focus Mastery +2",
       "Sealed in Mist",
       "Exceptional Spell Focus Mastery +2"
-    ],
-    "itemKey": "item:arctica,_the_mystic_cold",
-    "setMembership": []
+    ]
   },
   {
     "name": "Iceshard, the Bitter Bite",
@@ -2842,6 +2557,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Freezing Ice"
     ],
@@ -2850,9 +2566,7 @@
       "Bitter Frostbite",
       "Icy Blast 7",
       "Sealed in Mist"
-    ],
-    "itemKey": "item:iceshard,_the_bitter_bite",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Greataxe",
@@ -2875,16 +2589,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_greataxe",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Greataxe",
@@ -2907,16 +2641,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_greataxe",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Drysvayla's Axe",
@@ -2939,6 +2693,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2946,8 +2701,6 @@
       "Toxic 16",
       "Limb Chopper",
       "Dragon's Edge 7"
-    ],
-    "itemKey": "item:legendary_drysvayla's_axe",
-    "setMembership": []
+    ]
   }
 ]

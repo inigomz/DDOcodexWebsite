@@ -12,13 +12,12 @@
       "Ghost Touch"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:battleworn_sword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nicked Greatsword",
@@ -35,15 +34,14 @@
       "Deadly +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Reverberating 2",
       "Shatter +4",
       "Deadly +3"
-    ],
-    "itemKey": "item:nicked_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sword of the Giant Slave-master",
@@ -61,13 +59,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Elf Bane"
-    ],
-    "itemKey": "item:sword_of_the_giant_slave-master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Guardian's Dagger",
@@ -85,13 +82,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Keen"
-    ],
-    "itemKey": "item:guardian's_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Greatsword",
@@ -107,14 +103,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Greatsword",
@@ -132,13 +127,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Greatsword",
@@ -156,13 +150,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Sword of Snow",
@@ -183,6 +176,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -190,9 +184,7 @@
       "Minor Freezing Ice",
       "On items: While you are wearing this item, your melee, ranged, and unarmed attacks gain the Minor Freezing Ice ability. (When the weapon is used, an icy power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice.) - (duration: 5 seconds)",
       "On weapons: This Weapon stores the pitiless immovable power of the ice deep within. When this weapon is used, this power occasionally comes to the surface, attempting to freeze an enemy solid and encase them in ice."
-    ],
-    "itemKey": "item:the_sword_of_snow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightbringer's Wake",
@@ -213,6 +205,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -220,9 +213,7 @@
       "Unholy 2",
       "Keen",
       "Vampirism 1"
-    ],
-    "itemKey": "item:nightbringer's_wake",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Greatsword",
@@ -243,6 +234,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -250,9 +242,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Greatsword",
@@ -273,6 +263,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -280,9 +271,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Yarkuch's Greatsword",
@@ -300,13 +289,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Elf Bane"
-    ],
-    "itemKey": "item:yarkuch's_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sword of the Thirty",
@@ -324,13 +312,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Keen"
-    ],
-    "itemKey": "item:sword_of_the_thirty",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scoundrel's Greatsword",
@@ -349,14 +336,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Flaming",
       "Anarchic"
-    ],
-    "itemKey": "item:scoundrel's_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Greenstone Greatsword",
@@ -378,6 +364,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -386,9 +373,7 @@
       "Seeker +5",
       "Deception +3",
       "Crystal"
-    ],
-    "itemKey": "item:greenstone_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Frostbrand",
@@ -407,14 +392,13 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Frost",
       "Fire Resistance +10"
-    ],
-    "itemKey": "item:frostbrand",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Greatsword",
@@ -435,16 +419,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_greatsword",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Echo of Blackrazor",
@@ -467,6 +466,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -474,9 +474,7 @@
       "Keen",
       "Entropic 3",
       "Psychic Ward"
-    ],
-    "itemKey": "item:echo_of_blackrazor",
-    "setMembership": []
+    ]
   },
   {
     "name": "Whirlwind",
@@ -497,193 +495,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact bonus to Electric Spellcrit Chance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+4%",
-            "effect": "Artifact bonus to Electric Spellcrit Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact bonus to Electric Spellcrit Chance"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Electric Spellpower"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Electric Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Electric Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Magical Resistance Rating"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Magical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Magical Resistance Rating"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Telekinetic",
       "Shocking Blast 3",
       "Dusk",
       "Doublestrike 6%"
-    ],
-    "itemKey": "item:whirlwind",
-    "setMembership": [
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 11,
-        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Electric Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact bonus to Electric Spellcrit Chance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+4%",
-                "effect": "Artifact bonus to Electric Spellcrit Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact bonus to Electric Spellcrit Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Electric Spellpower"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Electric Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Electric Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Magical Resistance Rating"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Magical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Magical Resistance Rating"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -699,13 +518,12 @@
       "Adamantine"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Adamantine"
-    ],
-    "itemKey": "item:sword_of_shadow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Blade of Fury",
@@ -723,6 +541,7 @@
       "Fusible"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -730,9 +549,7 @@
       "Demon Fever",
       "Wounding 2",
       "Fusible"
-    ],
-    "itemKey": "item:blade_of_fury",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Greatsword",
@@ -753,6 +570,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -760,9 +578,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Greatsword",
@@ -783,6 +599,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -790,9 +607,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Atonement",
@@ -811,14 +626,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Holy",
       "Intercession Ward"
-    ],
-    "itemKey": "item:atonement",
-    "setMembership": []
+    ]
   },
   {
     "name": "Vengeful Fury Blade",
@@ -839,6 +653,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -846,9 +661,7 @@
       "Demon Fever",
       "Wounding 2",
       "Vengeful"
-    ],
-    "itemKey": "item:vengeful_fury_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Vampiric Fury Blade",
@@ -869,6 +682,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -876,9 +690,7 @@
       "Demon Fever",
       "Wounding 2",
       "Vampirism 1"
-    ],
-    "itemKey": "item:vampiric_fury_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Greatsword",
@@ -893,13 +705,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Greatsword",
@@ -914,13 +725,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crippling Fury Blade",
@@ -941,6 +751,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -948,9 +759,7 @@
       "Demon Fever",
       "Wounding 2",
       "Crippling"
-    ],
-    "itemKey": "item:crippling_fury_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Maiming Fury Blade",
@@ -971,6 +780,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -978,9 +788,7 @@
       "Demon Fever",
       "Wounding 2",
       "Maiming 3"
-    ],
-    "itemKey": "item:maiming_fury_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Greatsword of the Fallen Age",
@@ -1001,6 +809,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1008,9 +817,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:greatsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Greatsword of the Golden Age",
@@ -1031,6 +838,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1038,9 +846,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:greatsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cloudburst",
@@ -1057,15 +863,14 @@
       "Upgradeable Item (Stormreaver)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Shocking Burst",
       "Cloudburst",
       "Upgradeable Item (Stormreaver)"
-    ],
-    "itemKey": "item:cloudburst",
-    "setMembership": []
+    ]
   },
   {
     "name": "Insanity",
@@ -1083,6 +888,7 @@
       "Unwieldy"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1090,9 +896,7 @@
       "Bewildering",
       "Unbalancing",
       "Unwieldy"
-    ],
-    "itemKey": "item:insanity",
-    "setMembership": []
+    ]
   },
   {
     "name": "Forgeblade",
@@ -1108,14 +912,13 @@
       "Bloodletter IV"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "True Law",
       "Bloodletter IV"
-    ],
-    "itemKey": "item:forgeblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wave of Sorrow",
@@ -1136,6 +939,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1143,9 +947,7 @@
       "Wounding 2",
       "Anarchic 4",
       "Slay Living"
-    ],
-    "itemKey": "item:wave_of_sorrow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Greatsword",
@@ -1166,6 +968,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1173,9 +976,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Terror",
@@ -1193,6 +994,7 @@
       "Suppressed Power"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1200,9 +1002,7 @@
       "Nightmares",
       "Phantasmal Killer — 3 Charges (Recharged/Day:3)",
       "Suppressed Power"
-    ],
-    "itemKey": "item:terror",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Greatsword",
@@ -1223,6 +1023,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1230,9 +1031,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Greatsword",
@@ -1253,6 +1052,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1260,9 +1060,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Whirlwind",
@@ -1286,6 +1084,7 @@
       "Colorless",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1294,9 +1093,7 @@
       "Blurry",
       "Doublestrike 11%",
       "Air Guard"
-    ],
-    "itemKey": "item:epic_whirlwind",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sword of Shadow",
@@ -1316,13 +1113,12 @@
       "Colorless",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+10 Enhancement Bonus",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_sword_of_shadow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Earthcarver",
@@ -1344,6 +1140,7 @@
       "Acid Absorption +20%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+10 Enhancement Bonus",
@@ -1355,9 +1152,7 @@
       "Greater Magical Beast Bane",
       "Acid Resistance +40",
       "Acid Absorption +20%"
-    ],
-    "itemKey": "item:earthcarver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Greatsword",
@@ -1378,6 +1173,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1385,9 +1181,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Greatsword",
@@ -1408,6 +1202,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1415,9 +1210,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Greatsword",
@@ -1435,13 +1228,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hunter's Slayer (level 24)",
@@ -1463,15 +1255,14 @@
       "Orange",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Silver , Alchemical",
       "+7 Enhancement Bonus",
       "Keen",
       "Bane of the Unnatural"
-    ],
-    "itemKey": "item:hunter's_slayer_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Skybreaker, Hand of the Stormreaver",
@@ -1488,15 +1279,14 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Skybreaker",
       "The Reaver's Resolve",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:skybreaker,_hand_of_the_stormreaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hunter's Slayer (level 25)",
@@ -1518,15 +1308,14 @@
       "Orange",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Silver , Alchemical",
       "+8 Enhancement Bonus",
       "Keen",
       "Greater Bane of the Unnatural"
-    ],
-    "itemKey": "item:hunter's_slayer_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hunter's Slayer (level 26)",
@@ -1548,15 +1337,14 @@
       "Orange",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Silver , Alchemical",
       "+8 Enhancement Bonus",
       "Keen",
       "Greater Bane of the Unnatural"
-    ],
-    "itemKey": "item:hunter's_slayer_(level_26)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Greatsword",
@@ -1571,14 +1359,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Wave of Sorrow",
@@ -1599,6 +1386,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+13 Enhancement Bonus",
@@ -1606,9 +1394,7 @@
       "Wounding 3",
       "Anarchic 6",
       "Slay Living"
-    ],
-    "itemKey": "item:legendary_wave_of_sorrow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Reflection of Blackrazor",
@@ -1632,6 +1418,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1640,9 +1427,7 @@
       "Entropic 6",
       "Vampirism 3",
       "Psychic Ward"
-    ],
-    "itemKey": "item:reflection_of_blackrazor",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sanctity, the Morninglord's Keep",
@@ -1667,6 +1452,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1676,9 +1462,7 @@
       "Ghostbane 6",
       "Coruscating 6 (if Paladin 20)",
       "Metalline (if Paladin 20)"
-    ],
-    "itemKey": "item:sanctity,_the_morninglord's_keep",
-    "setMembership": []
+    ]
   },
   {
     "name": "Reflection of Angdrelve",
@@ -1701,6 +1485,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Slay Living"
     ],
@@ -1709,9 +1494,7 @@
       "Thorny Crown of Madness 6",
       "Echoes of Angdrelve 6",
       "Wounding 3"
-    ],
-    "itemKey": "item:reflection_of_angdrelve",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Echo of Blackrazor",
@@ -1734,6 +1517,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Stealer of Souls"
     ],
@@ -1742,9 +1526,7 @@
       "Keen",
       "Entropic 6",
       "Psychic Ward"
-    ],
-    "itemKey": "item:legendary_echo_of_blackrazor",
-    "setMembership": []
+    ]
   },
   {
     "name": "Constellation, Cursed Blade",
@@ -1766,15 +1548,14 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Cursed Maelstrom",
       "Accursed Flame",
       "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon"
-    ],
-    "itemKey": "item:constellation,_cursed_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Greatsword",
@@ -1795,6 +1576,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1802,9 +1584,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Greatsword",
@@ -1825,6 +1605,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1832,9 +1613,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Eidolon of the Shadow",
@@ -1859,6 +1638,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement 29",
@@ -1868,9 +1648,7 @@
       "Force Blast 6",
       "Sovereign Nightmares",
       "Constricting Nightmare"
-    ],
-    "itemKey": "item:eidolon_of_the_shadow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Greatsword",
@@ -1891,6 +1669,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1898,9 +1677,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Greatsword",
@@ -1921,6 +1698,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1928,9 +1706,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Greenstone Greatsword",
@@ -1952,6 +1728,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Slay Living"
     ],
@@ -1961,9 +1738,7 @@
       "Seeker +13",
       "Deception +10",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_greenstone_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Greatsword",
@@ -1984,6 +1759,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1991,9 +1767,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Whirlwind",
@@ -2018,6 +1792,7 @@
       "Colorless",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Telekinetic",
       "Legendary Air Guard",
@@ -2028,9 +1803,7 @@
       "Shocking Blast 6",
       "Lesser Displacement",
       "Doublestrike 15%"
-    ],
-    "itemKey": "item:legendary_whirlwind",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Greatsword",
@@ -2053,16 +1826,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_greatsword",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Greatsword",
@@ -2085,16 +1878,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_greatsword",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Blade of Fury",
@@ -2112,6 +1925,7 @@
       "Fusible"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -2120,9 +1934,7 @@
       "Medusa Fury",
       "Wounding 3",
       "Fusible"
-    ],
-    "itemKey": "item:legendary_blade_of_fury",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Maiming Fury Blade",
@@ -2145,6 +1957,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -2153,9 +1966,7 @@
       "Medusa Fury",
       "Wounding 3",
       "Maiming 6"
-    ],
-    "itemKey": "item:legendary_maiming_fury_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Crippling Fury Blade",
@@ -2178,6 +1989,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -2186,9 +1998,7 @@
       "Medusa Fury",
       "Wounding 3",
       "Crippling"
-    ],
-    "itemKey": "item:legendary_crippling_fury_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Vampiric Fury Blade",
@@ -2211,6 +2021,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -2219,9 +2030,7 @@
       "Medusa Fury",
       "Wounding 3",
       "Vampirism 3"
-    ],
-    "itemKey": "item:legendary_vampiric_fury_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Vengeful Fury Blade",
@@ -2244,6 +2053,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -2252,9 +2062,7 @@
       "Medusa Fury",
       "Wounding 3",
       "Vengeful"
-    ],
-    "itemKey": "item:legendary_vengeful_fury_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Greatsword",
@@ -2277,6 +2085,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2284,9 +2093,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Outburst, the Electric End",
@@ -2310,284 +2117,16 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Electric Storm",
-      "Legendary Slicing Winds",
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Attack and Damage"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane Bonus to Attack and Damage"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Universal Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane Bonus to Universal Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to Spell DCs"
-          }
-        ]
-      }
+      "Legendary Slicing Winds"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Sovereign Lightning Strike",
       "Stormreaver's Thunderclap",
       "Planar Searing"
-    ],
-    "itemKey": "item:outburst,_the_electric_end",
-    "setMembership": [
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 61,
-        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Attack and Damage"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane Bonus to Attack and Damage"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Universal Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane Bonus to Universal Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to Spell DCs"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -2612,6 +2151,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -2621,9 +2161,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_greatsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Greatsword of the Fallen Age",
@@ -2646,6 +2184,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2653,9 +2192,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_greatsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Greatsword of the Golden Age",
@@ -2678,6 +2215,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2685,9 +2223,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_greatsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Greatsword of the Undying Age",
@@ -2710,6 +2246,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2717,9 +2254,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:greatsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Nightbringer's Wake",
@@ -2742,6 +2277,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2749,9 +2285,7 @@
       "Unholy 7",
       "Keen",
       "Vampirism 3"
-    ],
-    "itemKey": "item:legendary_nightbringer's_wake",
-    "setMembership": []
+    ]
   },
   {
     "name": "Erosion, the Crumbling Arcana",
@@ -2776,6 +2310,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -2785,9 +2320,7 @@
       "Quality Spell Focus Mastery +2",
       "Sealed in Mist",
       "Exceptional Spell Focus Mastery +2"
-    ],
-    "itemKey": "item:erosion,_the_crumbling_arcana",
-    "setMembership": []
+    ]
   },
   {
     "name": "Acera, the Dissolution of All",
@@ -2810,6 +2343,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Acid Torrent"
     ],
@@ -2818,9 +2352,7 @@
       "Lingering Acidic Burn",
       "Acid Blast 7",
       "Sealed in Mist"
-    ],
-    "itemKey": "item:acera,_the_dissolution_of_all",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Greatsword",
@@ -2843,16 +2375,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_greatsword",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Greatsword",
@@ -2875,15 +2427,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_greatsword",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

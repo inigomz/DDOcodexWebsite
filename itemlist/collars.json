@@ -11,12 +11,11 @@
       "+1 Enhancement Bonus"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus"
-    ],
-    "itemKey": "item:starter_module",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fangs of the Wild Hunt",
@@ -37,6 +36,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -44,9 +44,7 @@
       "Chilling 2",
       "Speed +15%",
       "Doublestrike 4%"
-    ],
-    "itemKey": "item:fangs_of_the_wild_hunt",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thrall of the Fire Temple",
@@ -64,6 +62,7 @@
       "Fire Resistance +10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -71,9 +70,7 @@
       "Fire Guard II",
       "Flaming II",
       "Fire Resistance +10"
-    ],
-    "itemKey": "item:thrall_of_the_fire_temple",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hound of the Night",
@@ -96,6 +93,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -103,9 +101,7 @@
       "Speed +20%",
       "Deadly +5",
       "Doublestrike 6%"
-    ],
-    "itemKey": "item:hound_of_the_night",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Thrall of the Fire Temple",
@@ -127,6 +123,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -135,9 +132,7 @@
       "Flaming X",
       "Speed XV",
       "Greater Flaming Blast"
-    ],
-    "itemKey": "item:epic_thrall_of_the_fire_temple",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Hound of the Night",
@@ -160,6 +155,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -167,9 +163,7 @@
       "Speed +30%",
       "Deadly +10",
       "Doublestrike 15%"
-    ],
-    "itemKey": "item:legendary_hound_of_the_night",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Fangs of the Wild Hunt",
@@ -190,6 +184,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -197,8 +192,6 @@
       "Chilling 6",
       "Speed +30%",
       "Doublestrike 15%"
-    ],
-    "itemKey": "item:legendary_fangs_of_the_wild_hunt",
-    "setMembership": []
+    ]
   }
 ]

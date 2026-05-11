@@ -15,13 +15,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Dwarven Waraxe",
@@ -39,13 +38,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Copper Dwarven War Axe",
@@ -66,14 +64,13 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Doublestrike 4%",
       "Righteous"
-    ],
-    "itemKey": "item:copper_dwarven_war_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Dwarven Waraxe",
@@ -94,6 +91,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -101,9 +99,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Dwarven Waraxe",
@@ -124,6 +120,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -131,9 +128,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Dwarven Waraxe",
@@ -154,16 +149,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_dwarven_waraxe",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Barovian's Dwarven Waraxe",
@@ -184,6 +194,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -191,9 +202,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Dwarven Waraxe",
@@ -214,6 +223,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -221,9 +231,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Claws of Phinorae",
@@ -244,6 +252,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -251,9 +260,7 @@
       "Corroding 7",
       "Maiming 3",
       "Dragon's Edge 3"
-    ],
-    "itemKey": "item:claws_of_phinorae",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Dwarven Waraxe",
@@ -268,13 +275,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Dwarven Waraxe",
@@ -289,13 +295,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Mountain's Fist (level 12)",
@@ -314,12 +319,11 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus"
-    ],
-    "itemKey": "item:the_mountain's_fist_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Mountain's Fist (level 13)",
@@ -338,12 +342,11 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus"
-    ],
-    "itemKey": "item:the_mountain's_fist_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dwarven Waraxe of the Fallen Age",
@@ -364,6 +367,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -371,9 +375,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:dwarven_waraxe_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dwarven Waraxe of the Golden Age",
@@ -394,6 +396,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -401,9 +404,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:dwarven_waraxe_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sever",
@@ -423,15 +424,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Keen",
       "Limb Chopper",
       "Destruction"
-    ],
-    "itemKey": "item:sever",
-    "setMembership": []
+    ]
   },
   {
     "name": "Axe of Famine",
@@ -449,6 +449,7 @@
       "Incite +15"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -456,9 +457,7 @@
       "Strength Sapping",
       "Weakening",
       "Incite +15"
-    ],
-    "itemKey": "item:axe_of_famine",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Mountain's Fist (level 14)",
@@ -477,12 +476,11 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus"
-    ],
-    "itemKey": "item:the_mountain's_fist_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Prison Break (level 14)",
@@ -511,6 +509,7 @@
       "Sundering IV"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -529,9 +528,7 @@
       "Shock II",
       "Shrieking I",
       "Sundering IV"
-    ],
-    "itemKey": "item:prison_break_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Stormreach Guardian's Axe",
@@ -552,131 +549,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "renegade_champion",
-        "setName": "Renegade Champion",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 3,
-        "effect": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
-        "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
-        "tieredEffects": []
-      },
-      {
-        "setId": "renegade_champion",
-        "setName": "Renegade Champion",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 3,
-        "effect": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
-        "effectRaw": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2",
-            "effect": "Artifact Bonus to Rune Arm DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Rune Arm DCs"
-          }
-        ]
-      },
-      {
-        "setId": "renegade_champion",
-        "setName": "Renegade Champion",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+30 Artifact Bonus to Repair Amplification",
-        "effectRaw": "♦+10★+30 Artifact Bonus to Repair Amplification",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Repair Amplification"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Repair Amplification"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Chilling 3",
       "Armor-Piercing 11%",
       "Bleeding 3",
       "Destruction"
-    ],
-    "itemKey": "item:stormreach_guardian's_axe",
-    "setMembership": [
-      {
-        "setId": "renegade_champion",
-        "setName": "Renegade Champion",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "minLevels": [
-          14,
-          29
-        ],
-        "availablePieces": 5,
-        "bonusRaw": "3 Pieces Equipped: +1 Artifact Bonus to Critical Multiplier on a 19-20 ♦+2★+3 Artifact Bonus to Rune Arm DCs ♦+10★+30 Artifact Bonus to Repair Amplification",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
-            "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a 19-20",
-            "tieredEffects": []
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
-            "effectRaw": "♦+2★+3 Artifact Bonus to Rune Arm DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2",
-                "effect": "Artifact Bonus to Rune Arm DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Rune Arm DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+30 Artifact Bonus to Repair Amplification",
-            "effectRaw": "♦+10★+30 Artifact Bonus to Repair Amplification",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Repair Amplification"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Repair Amplification"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -706,6 +586,7 @@
       "Sundering IV"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -724,9 +605,7 @@
       "Shock II",
       "Shrieking I",
       "Sundering IV"
-    ],
-    "itemKey": "item:prison_break_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drowhunter",
@@ -747,6 +626,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -754,9 +634,7 @@
       "Elf Bane 4",
       "Axiomatic 4",
       "Maiming 4"
-    ],
-    "itemKey": "item:drowhunter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Dwarven Waraxe",
@@ -777,6 +655,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -784,9 +663,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Templar's Justice",
@@ -805,6 +682,7 @@
       "Godly Wrath"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -813,9 +691,7 @@
       "Good Blast 4",
       "Coruscating 4",
       "Godly Wrath"
-    ],
-    "itemKey": "item:templar's_justice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Prison Break (level 16)",
@@ -844,6 +720,7 @@
       "Sundering V"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -862,9 +739,7 @@
       "Shock II",
       "Shrieking I",
       "Sundering V"
-    ],
-    "itemKey": "item:prison_break_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Dwarven Waraxe",
@@ -885,6 +760,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -892,9 +768,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Dwarven Waraxe",
@@ -915,6 +789,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -922,9 +797,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Templar's Justice",
@@ -946,6 +819,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -954,9 +828,7 @@
       "Coruscating 4",
       "Godly Wrath",
       "Cold Iron"
-    ],
-    "itemKey": "item:epic_templar's_justice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Dwarven Waraxe",
@@ -977,6 +849,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -984,9 +857,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Dwarven Waraxe",
@@ -1007,6 +878,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1014,9 +886,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Duergar Waraxe of the Weapon Master",
@@ -1037,6 +907,7 @@
       "Tendon Slice 10%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1047,9 +918,7 @@
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:duergar_waraxe_of_the_weapon_master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Dwarven Waraxe",
@@ -1067,13 +936,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Mountain's Fist (level 23)",
@@ -1094,12 +962,11 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus"
-    ],
-    "itemKey": "item:the_mountain's_fist_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Mountain's Fist (level 24)",
@@ -1120,12 +987,11 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus"
-    ],
-    "itemKey": "item:the_mountain's_fist_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Mountain's Fist (level 25)",
@@ -1146,12 +1012,11 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus"
-    ],
-    "itemKey": "item:the_mountain's_fist_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Prison Break (level 25)",
@@ -1181,6 +1046,7 @@
       "Sundering VII"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1200,9 +1066,7 @@
       "Solar IV",
       "Nothing",
       "Sundering VII"
-    ],
-    "itemKey": "item:prison_break_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Prison Break (level 26)",
@@ -1232,6 +1096,7 @@
       "Sundering VIII"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1251,9 +1116,7 @@
       "Solar IV",
       "Nothing",
       "Sundering VIII"
-    ],
-    "itemKey": "item:prison_break_(level_26)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Dwarven Waraxe",
@@ -1268,14 +1131,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Prison Break (level 27)",
@@ -1308,6 +1170,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1327,9 +1190,7 @@
       "Solar IV",
       "Nothing",
       "Sundering VIII"
-    ],
-    "itemKey": "item:prison_break_(level_27)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Drowhunter",
@@ -1350,6 +1211,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+13 Enhancement Bonus",
@@ -1357,9 +1219,7 @@
       "Axiomatic 6",
       "Sovereign Vorpal",
       "Maiming 6"
-    ],
-    "itemKey": "item:legendary_drowhunter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Stormreach Guardian's Axe",
@@ -1380,6 +1240,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1387,9 +1248,7 @@
       "Armor-Piercing 20%",
       "Bleeding 6",
       "Improved Destruction"
-    ],
-    "itemKey": "item:legendary_stormreach_guardian's_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hoarfrost, Herald of the Bitter Ice",
@@ -1409,13 +1268,12 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Nearly FinishedPurple Augment SlotFetters of UnrealityCompleted Weapon"
-    ],
-    "itemKey": "item:hoarfrost,_herald_of_the_bitter_ice",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Obsidian Reaver",
@@ -1438,6 +1296,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1445,9 +1304,7 @@
       "Keen",
       "Armor-Piercing 21%",
       "Flamebitten"
-    ],
-    "itemKey": "item:the_obsidian_reaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Dwarven Waraxe",
@@ -1468,6 +1325,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1475,9 +1333,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Dwarven Waraxe",
@@ -1498,6 +1354,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1505,9 +1362,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Dwarven Waraxe",
@@ -1528,6 +1383,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1535,9 +1391,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Dwarven Waraxe",
@@ -1558,6 +1412,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1565,9 +1420,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Hunter's Axe",
@@ -1592,6 +1445,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -1601,9 +1455,7 @@
       "Fetters of Unreality",
       "Insightful Impulse +74",
       "Quality Impulse +36"
-    ],
-    "itemKey": "item:the_hunter's_axe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Dwarven Waraxe",
@@ -1624,6 +1476,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1631,9 +1484,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Dwarven Waraxe",
@@ -1651,14 +1502,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Templar's Justice",
@@ -1680,6 +1530,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1688,9 +1539,7 @@
       "Coruscating 6",
       "Godly Wrath",
       "Cold Iron"
-    ],
-    "itemKey": "item:legendary_templar's_justice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Dwarven Waraxe",
@@ -1713,16 +1562,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_dwarven_waraxe",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Dwarven Waraxe",
@@ -1745,16 +1614,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_dwarven_waraxe",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Dwarven Waraxe",
@@ -1777,6 +1666,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1784,9 +1674,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Demise, the Beginning of the Fall",
@@ -1810,146 +1698,9 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
-      "Legendary Slay Living",
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Attack and Damage"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane Bonus to Attack and Damage"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Universal Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane Bonus to Universal Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to Spell DCs"
-          }
-        ]
-      }
+      "Legendary Slay Living"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1957,137 +1708,6 @@
       "Keen",
       "Identity Crisis",
       "Planar Searing"
-    ],
-    "itemKey": "item:demise,_the_beginning_of_the_fall",
-    "setMembership": [
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 61,
-        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Attack and Damage"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane Bonus to Attack and Damage"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Universal Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane Bonus to Universal Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to Spell DCs"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -2112,6 +1732,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -2121,9 +1742,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_dwarven_waraxe",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Dwarven Waraxe of the Fallen Age",
@@ -2146,6 +1765,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2153,9 +1773,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_dwarven_waraxe_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Dwarven Waraxe of the Golden Age",
@@ -2178,6 +1796,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2185,9 +1804,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_dwarven_waraxe_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dwarven Waraxe of the Undying Age",
@@ -2210,6 +1827,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2217,9 +1835,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:dwarven_waraxe_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Dwarven Waraxe",
@@ -2242,16 +1858,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_dwarven_waraxe",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Dwarven Waraxe",
@@ -2274,16 +1910,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_dwarven_waraxe",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Claws of Phinorae",
@@ -2306,6 +1962,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2313,8 +1970,6 @@
       "Corroding 16",
       "Maiming 7",
       "Dragon's Edge 7"
-    ],
-    "itemKey": "item:legendary_claws_of_phinorae",
-    "setMembership": []
+    ]
   }
 ]

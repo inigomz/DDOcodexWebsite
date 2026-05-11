@@ -15,13 +15,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Light Pick",
@@ -39,13 +38,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pick of Endless Light (level 4)",
@@ -61,14 +59,13 @@
       "Incandescence"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Lesser Undead Bane",
       "Incandescence"
-    ],
-    "itemKey": "item:pick_of_endless_light_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Light Pick",
@@ -89,6 +86,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -96,9 +94,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Light Pick",
@@ -119,6 +115,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -126,9 +123,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pick of Endless Light (level 8)",
@@ -144,14 +139,13 @@
       "Incandescence"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Undead Bane",
       "Incandescence"
-    ],
-    "itemKey": "item:pick_of_endless_light_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Light Pick",
@@ -172,16 +166,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_light_pick",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Barovian's Light Pick",
@@ -202,6 +211,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -209,9 +219,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Light Pick",
@@ -232,6 +240,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -239,9 +248,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Light Pick",
@@ -256,13 +263,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Light Pick",
@@ -277,13 +283,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pick of Endless Light (level 12)",
@@ -300,15 +305,14 @@
       "Light Bringer"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Undead Bane",
       "Brilliance",
       "Light Bringer"
-    ],
-    "itemKey": "item:pick_of_endless_light_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Pick of the Fallen Age",
@@ -329,6 +333,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -336,9 +341,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:light_pick_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Pick of the Golden Age",
@@ -359,6 +362,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -366,9 +370,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:light_pick_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Planar Spike",
@@ -390,6 +392,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -398,9 +401,7 @@
       "Heartseeker I",
       "Screeching 8",
       "Maiming 3"
-    ],
-    "itemKey": "item:planar_spike",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Light Pick",
@@ -421,6 +422,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -428,9 +430,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pick of Endless Light (level 16)",
@@ -447,15 +447,14 @@
       "Light Bringer"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Greater Undead Bane",
       "Brilliance",
       "Light Bringer"
-    ],
-    "itemKey": "item:pick_of_endless_light_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Light Pick",
@@ -476,6 +475,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -483,9 +483,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Light Pick",
@@ -506,6 +504,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -513,9 +512,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pick of Endless Light (level 20)",
@@ -533,6 +530,7 @@
       "Radiant Blast"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -540,9 +538,7 @@
       "Brilliance",
       "Light Bringer",
       "Radiant Blast"
-    ],
-    "itemKey": "item:pick_of_endless_light_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Light Pick",
@@ -563,6 +559,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -570,9 +567,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Light Pick",
@@ -593,6 +588,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -600,9 +596,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Light Pick",
@@ -620,13 +614,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pick of Endless Light (level 24)",
@@ -644,6 +637,7 @@
       "Greater Sunburst"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -651,9 +645,7 @@
       "Coruscating",
       "Light Bringer",
       "Greater Sunburst"
-    ],
-    "itemKey": "item:pick_of_endless_light_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Light Pick",
@@ -668,14 +660,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pick of Endless Light (level 28)",
@@ -693,6 +684,7 @@
       "Greater Sunburst"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -700,9 +692,7 @@
       "Coruscating",
       "Light Bringer",
       "Greater Sunburst"
-    ],
-    "itemKey": "item:pick_of_endless_light_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Planar Spike",
@@ -724,6 +714,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -732,9 +723,7 @@
       "Heartseeker VII",
       "Screeching 14",
       "Maiming 6"
-    ],
-    "itemKey": "item:legendary_planar_spike",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Light Pick",
@@ -755,6 +744,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -762,9 +752,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Light Pick",
@@ -785,6 +773,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -792,9 +781,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Light Pick",
@@ -815,6 +802,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -822,9 +810,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Light Pick",
@@ -845,6 +831,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -852,9 +839,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Light Pick",
@@ -875,6 +860,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -882,9 +868,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Light Pick",
@@ -907,16 +891,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_light_pick",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Light Pick",
@@ -939,16 +943,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_light_pick",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Pick of Endless Light (level 32)",
@@ -966,6 +990,7 @@
       "Greater Sunburst"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -973,9 +998,7 @@
       "Coruscating 6",
       "Light Bringer",
       "Greater Sunburst"
-    ],
-    "itemKey": "item:pick_of_endless_light_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Light Pick",
@@ -998,6 +1021,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1005,9 +1029,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Light Pick",
@@ -1031,6 +1053,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1040,9 +1063,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_light_pick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Light Pick of the Fallen Age",
@@ -1065,6 +1086,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1072,9 +1094,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_light_pick_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Light Pick of the Golden Age",
@@ -1097,6 +1117,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1104,9 +1125,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_light_pick_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Pick of the Undying Age",
@@ -1129,6 +1148,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1136,9 +1156,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:light_pick_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Light Pick",
@@ -1161,16 +1179,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_light_pick",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "The Piercing Pain",
@@ -1195,18 +1233,38 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Murderous Point",
-      "Revel in Blood (Piercing)",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:the_piercing_pain",
-    "setMembership": []
+      "Revel in Blood (Piercing)"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Light Pick",
@@ -1229,15 +1287,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_light_pick",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

@@ -15,13 +15,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Throwing Dagger",
@@ -40,14 +39,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical",
       "Returning"
-    ],
-    "itemKey": "item:sworn_silver_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Noxious Fang",
@@ -68,6 +66,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -75,9 +74,7 @@
       "Critical Befouling 1",
       "Fortitude Save +4",
       "Returning"
-    ],
-    "itemKey": "item:noxious_fang",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Throwing Dagger (level 4)",
@@ -95,6 +92,7 @@
       "Crushing 4"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -102,9 +100,7 @@
       "Ghostbane 2",
       "Evil Outsider Bane 2",
       "Crushing 4"
-    ],
-    "itemKey": "item:spectral_throwing_dagger_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lynnabel's Bug Killer (level 5)",
@@ -123,14 +119,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Vermin Bane 2",
       "Returning"
-    ],
-    "itemKey": "item:lynnabel's_bug_killer_(level_5)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Throwing Dagger",
@@ -152,6 +147,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -160,9 +156,7 @@
       "Maiming 2",
       "Crystal",
       "Returning"
-    ],
-    "itemKey": "item:ferrocrystal_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Throwing Dagger",
@@ -184,6 +178,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -192,9 +187,7 @@
       "Weakening 1",
       "Flametouched Iron",
       "Returning"
-    ],
-    "itemKey": "item:flamesalt_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Chill Shard",
@@ -213,14 +206,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Frost",
       "Returning"
-    ],
-    "itemKey": "item:chill_shard",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Throwing Dagger (level 8)",
@@ -239,6 +231,7 @@
       "Crushing 6"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -247,9 +240,7 @@
       "Evil Outsider Bane 2",
       "Vorpal",
       "Crushing 6"
-    ],
-    "itemKey": "item:spectral_throwing_dagger_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Throwing Dagger",
@@ -271,17 +262,32 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Returning",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_throwing_dagger",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Lynnabel's Bug Killer (level 10)",
@@ -300,14 +306,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Vermin Bane 3",
       "Returning"
-    ],
-    "itemKey": "item:lynnabel's_bug_killer_(level_10)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Throwing Dagger",
@@ -328,6 +333,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -335,9 +341,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Throwing Dagger",
@@ -359,6 +363,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -367,9 +372,7 @@
       "Vampirism 1",
       "Chilling 3",
       "Returning"
-    ],
-    "itemKey": "item:macabre_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Throwing Dagger",
@@ -385,14 +388,13 @@
       "Returning"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)",
       "Returning"
-    ],
-    "itemKey": "item:alchemical_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Throwing Dagger",
@@ -408,14 +410,13 @@
       "Returning"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel",
       "Returning"
-    ],
-    "itemKey": "item:green_steel_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Throwing Dagger (level 12)",
@@ -434,6 +435,7 @@
       "Crushing 7"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -442,9 +444,7 @@
       "Evil Outsider Bane 3",
       "Vorpal",
       "Crushing 7"
-    ],
-    "itemKey": "item:spectral_throwing_dagger_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Throwing Dagger of the Fallen Age",
@@ -466,6 +466,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -474,9 +475,7 @@
       "Aligned",
       "Keen",
       "Returning"
-    ],
-    "itemKey": "item:throwing_dagger_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Throwing Dagger of the Golden Age",
@@ -498,6 +497,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -506,9 +506,7 @@
       "Vorpal",
       "Entropic 3",
       "Returning"
-    ],
-    "itemKey": "item:throwing_dagger_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Return to Sender",
@@ -529,6 +527,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Returning",
@@ -536,9 +535,7 @@
       "Solar II",
       "Phlebotomizing",
       "Paralyzing"
-    ],
-    "itemKey": "item:return_to_sender",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lynnabel's Bug Killer (level 15)",
@@ -557,14 +554,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Vermin Bane 4",
       "Returning"
-    ],
-    "itemKey": "item:lynnabel's_bug_killer_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Throwing Dagger",
@@ -586,6 +582,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -594,9 +591,7 @@
       "Construct Bane 4",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:syranian_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Throwing Dagger (level 16)",
@@ -615,6 +610,7 @@
       "Crushing 9"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -623,9 +619,7 @@
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 9"
-    ],
-    "itemKey": "item:spectral_throwing_dagger_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Throwing Dagger",
@@ -647,6 +641,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -655,9 +650,7 @@
       "Blazing 10",
       "Evil Outsider Bane 4",
       "Returning"
-    ],
-    "itemKey": "item:shining_reliquary_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Throwing Dagger",
@@ -679,6 +672,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -687,9 +681,7 @@
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
       "Returning"
-    ],
-    "itemKey": "item:defiled_reliquary_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Noxious Fang",
@@ -713,6 +705,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
@@ -721,9 +714,7 @@
       "Fortitude Save +9",
       "Large Scorpion Poison",
       "Returning"
-    ],
-    "itemKey": "item:epic_noxious_fang",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lynnabel's Bug Killer (level 20)",
@@ -742,14 +733,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Vermin Bane 4",
       "Returning"
-    ],
-    "itemKey": "item:lynnabel's_bug_killer_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Throwing Dagger (level 20)",
@@ -768,6 +758,7 @@
       "Crushing 10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -776,9 +767,7 @@
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 10"
-    ],
-    "itemKey": "item:spectral_throwing_dagger_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Throwing Dagger",
@@ -800,6 +789,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -808,9 +798,7 @@
       "Destruction",
       "Righteous",
       "Returning"
-    ],
-    "itemKey": "item:epic_sworn_silver_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Throwing Dagger",
@@ -832,6 +820,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -840,9 +829,7 @@
       "Weaken Undead",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:epic_ethereal_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Throwing Dagger",
@@ -861,14 +848,13 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Returning",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Throwing Dagger (level 24)",
@@ -887,6 +873,7 @@
       "Crushing 12"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -895,9 +882,7 @@
       "Evil Outsider Bane 5",
       "Greater Vorpal",
       "Crushing 12"
-    ],
-    "itemKey": "item:spectral_throwing_dagger_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lynnabel's Bug Killer (level 25)",
@@ -916,14 +901,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Vermin Bane 5",
       "Returning"
-    ],
-    "itemKey": "item:lynnabel's_bug_killer_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Throwing Dagger",
@@ -939,15 +923,14 @@
       "Returning"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus",
       "Returning"
-    ],
-    "itemKey": "item:legendary_green_steel_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Return to Sender",
@@ -968,6 +951,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -975,9 +959,7 @@
       "Solar VI",
       "Greater Bleeding",
       "Improved Paralyzing"
-    ],
-    "itemKey": "item:epic_return_to_sender",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fate, the Knower of All",
@@ -1001,6 +983,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1009,9 +992,7 @@
       "Improved Deception",
       "Metalline",
       "Returning"
-    ],
-    "itemKey": "item:fate,_the_knower_of_all",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Throwing Dagger (level 28)",
@@ -1030,6 +1011,7 @@
       "Crushing 13"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -1038,9 +1020,7 @@
       "Evil Outsider Bane 6",
       "Superior Vorpal",
       "Crushing 13"
-    ],
-    "itemKey": "item:spectral_throwing_dagger_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Wide Open Sky",
@@ -1060,13 +1040,12 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Nearly FinishedPurple Augment SlotAlignedCompleted Weapon"
-    ],
-    "itemKey": "item:the_wide_open_sky",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Throwing Dagger",
@@ -1087,6 +1066,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1094,9 +1074,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Autumn's Veil",
@@ -1120,6 +1098,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Slicing Winds"
     ],
@@ -1129,9 +1108,7 @@
       "Keen",
       "Twining Hemlock",
       "Returning"
-    ],
-    "itemKey": "item:autumn's_veil",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Throwing Dagger",
@@ -1153,6 +1130,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1161,9 +1139,7 @@
       "Vampirism 2",
       "Chilling 6",
       "Returning"
-    ],
-    "itemKey": "item:nightmother's_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Throwing Dagger",
@@ -1185,6 +1161,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1193,9 +1170,7 @@
       "Construct Bane 6",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:legendary_syranian_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Throwing Dagger",
@@ -1216,6 +1191,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1223,9 +1199,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Throwing Dagger",
@@ -1247,6 +1221,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1255,9 +1230,7 @@
       "Weakening 3",
       "Flametouched Iron",
       "Returning"
-    ],
-    "itemKey": "item:legendary_flamesalt_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lynnabel's Bug Killer (level 30)",
@@ -1276,14 +1249,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+14 Enhancement Bonus",
       "Vermin Bane 6",
       "Returning"
-    ],
-    "itemKey": "item:lynnabel's_bug_killer_(level_30)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Noxious Fang",
@@ -1307,6 +1279,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Virulent Poison"
     ],
@@ -1316,9 +1289,7 @@
       "Utter Disintegration",
       "Fortitude Save +12",
       "Returning"
-    ],
-    "itemKey": "item:legendary_noxious_fang",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Throwing Dagger",
@@ -1342,17 +1313,37 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_throwing_dagger",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Attuned Bone Throwing Dagger",
@@ -1376,17 +1367,37 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_throwing_dagger",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Spectral Throwing Dagger (level 32)",
@@ -1405,6 +1416,7 @@
       "Crushing 15"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1413,9 +1425,7 @@
       "Evil Outsider Bane 6",
       "Superior Vorpal",
       "Crushing 15"
-    ],
-    "itemKey": "item:spectral_throwing_dagger_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Throwing Dagger",
@@ -1439,6 +1449,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1447,9 +1458,7 @@
       "Blazing 15",
       "Evil Outsider Bane 6",
       "Returning"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Throwing Dagger",
@@ -1474,6 +1483,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1484,9 +1494,7 @@
       "Evil Blast 6",
       "Taint of Evil",
       "Returning"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_throwing_dagger",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Throwing Dagger of the Fallen Age",
@@ -1510,6 +1518,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1518,9 +1527,7 @@
       "Aligned",
       "Keen",
       "Returning"
-    ],
-    "itemKey": "item:legendary_throwing_dagger_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Throwing Dagger of the Golden Age",
@@ -1544,6 +1551,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1552,9 +1560,7 @@
       "Sovereign Vorpal",
       "Entropic 7",
       "Returning"
-    ],
-    "itemKey": "item:legendary_throwing_dagger_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamefang, the Blazing Bite",
@@ -1578,6 +1584,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1586,9 +1593,7 @@
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Returning"
-    ],
-    "itemKey": "item:flamefang,_the_blazing_bite",
-    "setMembership": []
+    ]
   },
   {
     "name": "Throwing Dagger of the Undying Age",
@@ -1612,6 +1617,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1620,9 +1626,7 @@
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Returning"
-    ],
-    "itemKey": "item:throwing_dagger_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Throwing Dagger",
@@ -1646,17 +1650,37 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_throwing_dagger",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Throwing Dagger",
@@ -1680,16 +1704,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_throwing_dagger",
-    "setMembership": []
+      "Returning"
+    ]
   }
 ]

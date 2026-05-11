@@ -1,0 +1,1481 @@
+[
+  {
+    "name": "Nicked Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Nicked_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Electrifying 2",
+      "Shatter +4",
+      "Deadly +3"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Electrifying 2",
+      "Shatter +4",
+      "Deadly +3"
+    ],
+    "itemKey": "item:nicked_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Sworn Silver Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Ethereal Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "First Light (level 5)",
+    "link": "https://ddowiki.com/page/Item:First_Light_(level_5)",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Negative Energy Absorption +16%",
+      "Negative Resistance +14",
+      "Blazing 5",
+      "Coruscating 2",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Negative Energy Absorption +16%",
+      "Negative Resistance +14",
+      "Blazing 5",
+      "Coruscating 2"
+    ],
+    "itemKey": "item:first_light_(level_5)",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Flamesalt Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Calamitous Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1"
+    ],
+    "itemKey": "item:calamitous_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "First Light (level 10)",
+    "link": "https://ddowiki.com/page/Item:First_Light_(level_10)",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Negative Energy Absorption +20%",
+      "Negative Resistance +21",
+      "Blazing 7",
+      "Coruscating 3",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Negative Energy Absorption +20%",
+      "Negative Resistance +21",
+      "Blazing 7",
+      "Coruscating 3"
+    ],
+    "itemKey": "item:first_light_(level_10)",
+    "setMembership": []
+  },
+  {
+    "name": "Barovian's Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Macabre Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Macabre_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Green Steel Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Light Hammer of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Light_Hammer_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Impact",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Impact"
+    ],
+    "itemKey": "item:light_hammer_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Light Hammer of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Light_Hammer_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:light_hammer_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Illusionist's Focus",
+    "link": "https://ddowiki.com/page/Item:Illusionist%27s_Focus",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Wizardry V",
+      "Insightful Illusion Focus +2"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Wizardry V",
+      "Insightful Illusion Focus +2"
+    ],
+    "itemKey": "item:illusionist's_focus",
+    "setMembership": []
+  },
+  {
+    "name": "First Light (level 15)",
+    "link": "https://ddowiki.com/page/Item:First_Light_(level_15)",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Negative Energy Absorption +24%",
+      "Negative Resistance +29",
+      "Blazing 9",
+      "Coruscating 4",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Negative Energy Absorption +24%",
+      "Negative Resistance +29",
+      "Blazing 9",
+      "Coruscating 4"
+    ],
+    "itemKey": "item:first_light_(level_15)",
+    "setMembership": []
+  },
+  {
+    "name": "Stoneworker's Hammer",
+    "link": "https://ddowiki.com/page/Item:Stoneworker%27s_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Acid II",
+      "Deadly IV"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Acid II",
+      "Deadly IV"
+    ],
+    "itemKey": "item:stoneworker's_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Re-forged Hammer",
+    "link": "https://ddowiki.com/page/Item:Re-forged_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Shockwave"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Shockwave"
+    ],
+    "itemKey": "item:re-forged_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Implement of Stone Magic",
+    "link": "https://ddowiki.com/page/Item:Implement_of_Stone_Magic",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "Spellcasting Implement +9",
+      "+3 Enhancement Bonus",
+      "Corrosion +78",
+      "Acid Lore V"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "Spellcasting Implement +9",
+      "+3 Enhancement Bonus",
+      "Corrosion +78",
+      "Acid Lore V"
+    ],
+    "itemKey": "item:implement_of_stone_magic",
+    "setMembership": []
+  },
+  {
+    "name": "Syranian Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Syranian_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Belashyrra's Cleansed Scepter",
+    "link": "https://ddowiki.com/page/Item:Belashyrra%27s_Cleansed_Scepter",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "One of the following combinations: Spellcasting Implement +15, Radiance +84, Greater Regeneration Spellcasting Implement +15, Combustion +84, Fire Lore V Spellcasting Implement +15, Glaciation +84, Ice Lore V Evocation Focus +2, Kinetic Lore V Necromancy Focus +2, Void Lore V",
+      "Spellcasting Implement +15, Radiance +84, Greater Regeneration",
+      "Spellcasting Implement +15, Combustion +84, Fire Lore V",
+      "Spellcasting Implement +15, Glaciation +84, Ice Lore V",
+      "Evocation Focus +2, Kinetic Lore V",
+      "Necromancy Focus +2, Void Lore V",
+      "Single-Mindedness",
+      "Efficient Metamagic - Empower II"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "One of the following combinations: Spellcasting Implement +15, Radiance +84, Greater Regeneration Spellcasting Implement +15, Combustion +84, Fire Lore V Spellcasting Implement +15, Glaciation +84, Ice Lore V Evocation Focus +2, Kinetic Lore V Necromancy Focus +2, Void Lore V",
+      "Spellcasting Implement +15, Radiance +84, Greater Regeneration",
+      "Spellcasting Implement +15, Combustion +84, Fire Lore V",
+      "Spellcasting Implement +15, Glaciation +84, Ice Lore V",
+      "Evocation Focus +2, Kinetic Lore V",
+      "Necromancy Focus +2, Void Lore V",
+      "Single-Mindedness",
+      "Efficient Metamagic - Empower II"
+    ],
+    "itemKey": "item:belashyrra's_cleansed_scepter",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Reliquary Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Reliquary Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "First Light (level 20)",
+    "link": "https://ddowiki.com/page/Item:First_Light_(level_20)",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Negative Energy Absorption +27%",
+      "Negative Resistance +36",
+      "Blazing 10",
+      "Coruscating 4",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Negative Energy Absorption +27%",
+      "Negative Resistance +36",
+      "Blazing 10",
+      "Coruscating 4"
+    ],
+    "itemKey": "item:first_light_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sworn Silver Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ethereal Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Thunder-Forged Alloy Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "First Light (level 25)",
+    "link": "https://ddowiki.com/page/Item:First_Light_(level_25)",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Negative Energy Absorption +31%",
+      "Negative Resistance +44",
+      "Blazing 12",
+      "Coruscating 5",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Negative Energy Absorption +31%",
+      "Negative Resistance +44",
+      "Blazing 12",
+      "Coruscating 5"
+    ],
+    "itemKey": "item:first_light_(level_25)",
+    "setMembership": []
+  },
+  {
+    "name": "Brussel Sprout Beater",
+    "link": "https://ddowiki.com/page/Item:Brussel_Sprout_Beater",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 25,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Ooze Bane 5",
+      "Bludgeoning 5",
+      "Smashing 12",
+      "Everbright",
+      "Blinding Flash — 3 Charges (Recharged/Day:3)",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Ooze Bane 5",
+      "Bludgeoning 5",
+      "Smashing 12",
+      "Everbright",
+      "Blinding Flash — 3 Charges (Recharged/Day:3)"
+    ],
+    "itemKey": "item:brussel_sprout_beater",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Steel Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Savior, the Breaker of Chains",
+    "link": "https://ddowiki.com/page/Item:Savior,_the_Breaker_of_Chains",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Impactful 6",
+      "Bludgeoning 6",
+      "Reverberating 6",
+      "Memory of Chains Broken",
+      "Orange Augment Slot",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Impactful 6",
+      "Bludgeoning 6",
+      "Reverberating 6",
+      "Memory of Chains Broken"
+    ],
+    "itemKey": "item:savior,_the_breaker_of_chains",
+    "setMembership": []
+  },
+  {
+    "name": "Morninglord's Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Nightmother's Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Syranian Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flamesalt Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "First Light (level 30)",
+    "link": "https://ddowiki.com/page/Item:First_Light_(level_30)",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 30,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Negative Energy Absorption +35%",
+      "Negative Resistance +51",
+      "Blazing 14",
+      "Coruscating 6",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+14 Enhancement Bonus",
+      "Negative Energy Absorption +35%",
+      "Negative Resistance +51",
+      "Blazing 14",
+      "Coruscating 6"
+    ],
+    "itemKey": "item:first_light_(level_30)",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Attuned Bone Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:attuned_bone_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shining Reliquary Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Defiled Reliquary Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Light Hammer of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Light_Hammer_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Impact",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Impact"
+    ],
+    "itemKey": "item:legendary_light_hammer_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Light Hammer of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Light_Hammer_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_light_hammer_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Light Hammer of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Light_Hammer_of_the_Undying_Age",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:light_hammer_of_the_undying_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Calamitous Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_calamitous_light_hammer",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Light Hammer",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Light_Hammer",
+    "slot": "weapon",
+    "itemSubtype": "light_hammer",
+    "handedness": "one_handed",
+    "category": "Light Hammers",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_light_hammer",
+    "setMembership": []
+  }
+]

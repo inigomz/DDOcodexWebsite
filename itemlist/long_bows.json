@@ -18,6 +18,7 @@
       "Striding +25%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -28,9 +29,7 @@
       "Sneak Attack Bonus +5",
       "Deception",
       "Striding +25%"
-    ],
-    "itemKey": "item:bow_of_the_jade_elf",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ember Longbow",
@@ -46,14 +45,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Masterwork",
       "Fire Touch",
       "Starter"
-    ],
-    "itemKey": "item:ember_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Moldy Longbow",
@@ -67,12 +65,11 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Starter"
-    ],
-    "itemKey": "item:moldy_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cloven-jaw Longbow",
@@ -90,13 +87,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Force"
-    ],
-    "itemKey": "item:cloven-jaw_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Guardkiller Bow",
@@ -114,13 +110,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Lesser Human Bane"
-    ],
-    "itemKey": "item:guardkiller_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nicked Longbow",
@@ -137,15 +132,14 @@
       "Deadly +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Electrifying 2",
       "Seeker +3",
       "Deadly +3"
-    ],
-    "itemKey": "item:nicked_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Longbow",
@@ -161,14 +155,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Zaramang's Longbow",
@@ -187,14 +180,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Lesser Halfling Bane",
       "Lesser Dwarf Bane"
-    ],
-    "itemKey": "item:zaramang's_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Longbow",
@@ -212,13 +204,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Longbow",
@@ -236,13 +227,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lumric's Longbow",
@@ -260,13 +250,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:lumric's_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Longbow of Earth (level 4)",
@@ -282,14 +271,13 @@
       "Acid Resistance +11"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Acid",
       "Acid Resistance +11"
-    ],
-    "itemKey": "item:elemental_longbow_of_earth_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Greatbow of the Scrag",
@@ -307,13 +295,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Blunted Ammunition"
-    ],
-    "itemKey": "item:greatbow_of_the_scrag",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Strung Long Bow (level 4)",
@@ -329,14 +316,13 @@
       "Tidal"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Dragon Bane 2",
       "Tidal"
-    ],
-    "itemKey": "item:calomel_strung_long_bow_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Longbow (level 4)",
@@ -353,15 +339,14 @@
       "Crushing 4"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Ghostbane 2",
       "Evil Outsider Bane 2",
       "Crushing 4"
-    ],
-    "itemKey": "item:spectral_longbow_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ship-Siege Bow (level 4)",
@@ -382,6 +367,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -389,9 +375,7 @@
       "Construct Bane 2",
       "Destruction",
       "Keen"
-    ],
-    "itemKey": "item:ship-siege_bow_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cheap Shot (level 5)",
@@ -412,6 +396,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -419,9 +404,7 @@
       "Critical Befouling 1",
       "Doubleshot 3%",
       "Keen"
-    ],
-    "itemKey": "item:cheap_shot_(level_5)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Longbow",
@@ -442,6 +425,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -449,9 +433,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Longbow",
@@ -472,6 +454,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -479,9 +462,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Serpentbranch",
@@ -502,14 +483,13 @@
       "Purple",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Poisonous 2",
       "Proof Against Poison +6"
-    ],
-    "itemKey": "item:serpentbranch",
-    "setMembership": []
+    ]
   },
   {
     "name": "Giant's Roar",
@@ -528,14 +508,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Screaming",
       "Roaring"
-    ],
-    "itemKey": "item:giant's_roar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ghostbane Longbow",
@@ -554,14 +533,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Ghost Touch",
       "Undead Bane"
-    ],
-    "itemKey": "item:ghostbane_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shadowstrike",
@@ -582,6 +560,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -589,9 +568,7 @@
       "Distant Diversion +6%",
       "Disintegration",
       "Cold Iron"
-    ],
-    "itemKey": "item:shadowstrike",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shatterbow",
@@ -608,15 +585,14 @@
       "Armor-Piercing 7%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Reverberating 2",
       "Construct Bane 2",
       "Armor-Piercing 7%"
-    ],
-    "itemKey": "item:shatterbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dampened Shatterbow",
@@ -634,6 +610,7 @@
       "Move Silently -5"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Dampened",
@@ -641,9 +618,7 @@
       "Screaming",
       "Construct Bane",
       "Move Silently -5"
-    ],
-    "itemKey": "item:dampened_shatterbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sapphire Sting",
@@ -664,6 +639,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -671,9 +647,7 @@
       "Destruction",
       "Maiming",
       "Ranged Alacrity 10%"
-    ],
-    "itemKey": "item:sapphire_sting",
-    "setMembership": []
+    ]
   },
   {
     "name": "Silver Longbow",
@@ -691,13 +665,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Holy"
-    ],
-    "itemKey": "item:silver_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Longbow of Earth (level 8)",
@@ -711,12 +684,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:elemental_longbow_of_earth_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Strung Long Bow (level 8)",
@@ -730,12 +702,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_strung_long_bow_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Longbow (level 8)",
@@ -753,6 +724,7 @@
       "Crushing 6"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -760,9 +732,7 @@
       "Evil Outsider Bane 2",
       "Vorpal",
       "Crushing 6"
-    ],
-    "itemKey": "item:spectral_longbow_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ship-Siege Bow (level 8)",
@@ -783,6 +753,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -790,9 +761,7 @@
       "Construct Bane 2",
       "Destruction",
       "Keen"
-    ],
-    "itemKey": "item:ship-siege_bow_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Longbow",
@@ -813,16 +782,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_longbow",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Inferno Sniper",
@@ -843,6 +827,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -850,9 +835,7 @@
       "Fiery 3",
       "Fire Vulnerability",
       "Aligned"
-    ],
-    "itemKey": "item:inferno_sniper",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bow of the Elements (Air)",
@@ -874,95 +857,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact bonus to Electric Spellcrit Chance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+4%",
-            "effect": "Artifact bonus to Electric Spellcrit Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact bonus to Electric Spellcrit Chance"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Electric Spellpower"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Electric Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Electric Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Magical Resistance Rating"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Magical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Magical Resistance Rating"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
       "+5 Enhancement Bonus",
@@ -970,98 +866,6 @@
       "Shocking Blast 3",
       "Lightning Lore +11%",
       "Magnetism +77"
-    ],
-    "itemKey": "item:bow_of_the_elements_(air)",
-    "setMembership": [
-      {
-        "setId": "the_desert_s_writhing_storm",
-        "setName": "The Desert's Writhing Storm",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 11,
-        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Electric Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Electric Spellcrit Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact bonus to Electric Spellcrit Chance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+4%",
-                "effect": "Artifact bonus to Electric Spellcrit Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact bonus to Electric Spellcrit Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Electric Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Electric Spellpower"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Electric Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Electric Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Magical Resistance Rating"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Magical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Magical Resistance Rating"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1083,139 +887,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "menechtarun_scavenger",
-        "setName": "Menechtarun Scavenger",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR",
-        "effectRaw": "♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
-          }
-        ]
-      },
-      {
-        "setId": "menechtarun_scavenger",
-        "setName": "Menechtarun Scavenger",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
-        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Armor-Piercing 9%",
       "Piercing 3",
       "Insightful Doubleshot 2%",
       "Insightful Distant Diversion +4%"
-    ],
-    "itemKey": "item:thornlord",
-    "setMembership": [
-      {
-        "setId": "menechtarun_scavenger",
-        "setName": "Menechtarun Scavenger",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 9,
-        "bonusRaw": "2 Pieces Equipped: ♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR ♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR",
-            "effectRaw": "♦+5●+10★+15 Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact Bonus to Physical and Magical Resistance Rating Bug: Heroic tier currently gives +10 PRR"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
-            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Positive, Negative, and Repair Amplification"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1237,6 +916,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -1244,9 +924,7 @@
       "Critical Befouling 2",
       "Doubleshot 4%",
       "Keen"
-    ],
-    "itemKey": "item:cheap_shot_(level_10)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Longbow",
@@ -1267,6 +945,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1274,9 +953,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Longbow",
@@ -1297,6 +974,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1304,9 +982,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bloody War Bow",
@@ -1327,6 +1003,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1334,9 +1011,7 @@
       "Feat: Bow Strength",
       "Monstrous Humanoid Bane 3",
       "Life Shield (Weapon)"
-    ],
-    "itemKey": "item:bloody_war_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Gnollish War Bow",
@@ -1354,6 +1029,7 @@
       "Malleable"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1361,9 +1037,7 @@
       "Feat: Bow Strength",
       "Monstrous Humanoid Bane 3",
       "Malleable"
-    ],
-    "itemKey": "item:gnollish_war_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bow of the Elements (Ice)",
@@ -1382,14 +1056,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Icy Burst",
       "Feat: Precise Shot"
-    ],
-    "itemKey": "item:bow_of_the_elements_(ice)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Destructive War Bow",
@@ -1410,6 +1083,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1417,9 +1091,7 @@
       "Feat: Bow Strength",
       "Monstrous Humanoid Bane 3",
       "Destruction"
-    ],
-    "itemKey": "item:destructive_war_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tortured Livewood Bow (historic)",
@@ -1434,13 +1106,12 @@
       "Acid Arrow"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Acid Arrow"
-    ],
-    "itemKey": "item:tortured_livewood_bow_(historic)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Petrifying War Bow",
@@ -1461,6 +1132,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1468,9 +1140,7 @@
       "Feat: Bow Strength",
       "Monstrous Humanoid Bane 3",
       "Stone Prison"
-    ],
-    "itemKey": "item:petrifying_war_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Longbow",
@@ -1485,13 +1155,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Infectious War Bow",
@@ -1512,6 +1181,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1519,9 +1189,7 @@
       "Feat: Bow Strength",
       "Monstrous Humanoid Bane 3",
       "Demon Fever"
-    ],
-    "itemKey": "item:infectious_war_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Longbow",
@@ -1536,13 +1204,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Longbow of Earth (level 12)",
@@ -1556,12 +1223,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:elemental_longbow_of_earth_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tortured Livewood Bow (level 12)",
@@ -1576,13 +1242,12 @@
       "Acid Arrow"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Acid Arrow"
-    ],
-    "itemKey": "item:tortured_livewood_bow_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Strung Long Bow (level 12)",
@@ -1596,12 +1261,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_strung_long_bow_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ship-Siege Bow (level 12)",
@@ -1622,6 +1286,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -1629,9 +1294,7 @@
       "Construct Bane 3",
       "Destruction",
       "Keen"
-    ],
-    "itemKey": "item:ship-siege_bow_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Longbow (level 12)",
@@ -1649,6 +1312,7 @@
       "Crushing 7"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -1656,9 +1320,7 @@
       "Evil Outsider Bane 3",
       "Vorpal",
       "Crushing 7"
-    ],
-    "itemKey": "item:spectral_longbow_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tortured Livewood Bow (level 13)",
@@ -1673,13 +1335,12 @@
       "Acid Arrow"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Acid Arrow"
-    ],
-    "itemKey": "item:tortured_livewood_bow_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Longbow of the Fallen Age",
@@ -1700,6 +1361,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1707,9 +1369,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:longbow_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Longbow of the Golden Age",
@@ -1730,6 +1390,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1737,9 +1398,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:longbow_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Unwavering Ardency",
@@ -1757,6 +1416,7 @@
       "Upgradeable Item (Black Abbot)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -1764,9 +1424,7 @@
       "Flaming Burst",
       "Smoke Screen",
       "Upgradeable Item (Black Abbot)"
-    ],
-    "itemKey": "item:unwavering_ardency",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bow of Sinew",
@@ -1785,6 +1443,7 @@
       "Overfocus"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1793,9 +1452,7 @@
       "Seeker +8",
       "Aligned",
       "Overfocus"
-    ],
-    "itemKey": "item:bow_of_sinew",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tortured Livewood Bow (level 14)",
@@ -1813,13 +1470,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Improved Acid Arrow"
-    ],
-    "itemKey": "item:tortured_livewood_bow_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Twisted Willow",
@@ -1840,6 +1496,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1847,9 +1504,7 @@
       "Elasticity",
       "Poisonous 4",
       "Armor-Piercing 12%"
-    ],
-    "itemKey": "item:twisted_willow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cheap Shot (level 15)",
@@ -1870,6 +1525,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1877,9 +1533,7 @@
       "Critical Befouling 2",
       "Doubleshot 5%",
       "Keen"
-    ],
-    "itemKey": "item:cheap_shot_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Longbow",
@@ -1900,6 +1554,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1907,9 +1562,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bow of the Silver Flame",
@@ -1928,6 +1581,7 @@
       "Blunted Ammunition"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1936,9 +1590,7 @@
       "Undead Bane 4",
       "Weaken Undead",
       "Blunted Ammunition"
-    ],
-    "itemKey": "item:bow_of_the_silver_flame",
-    "setMembership": []
+    ]
   },
   {
     "name": "Elemental Longbow of Earth (level 16)",
@@ -1952,12 +1604,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:elemental_longbow_of_earth_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Roadwatch Bow (level 16)",
@@ -1974,15 +1625,14 @@
       "Heartseeker III"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Axiomatic",
       "Aligned",
       "Heartseeker III"
-    ],
-    "itemKey": "item:roadwatch_bow_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Strung Long Bow (level 16)",
@@ -1996,12 +1646,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_strung_long_bow_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Longbow (level 16)",
@@ -2019,6 +1668,7 @@
       "Crushing 9"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2026,9 +1676,7 @@
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 9"
-    ],
-    "itemKey": "item:spectral_longbow_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ship-Siege Bow (level 16)",
@@ -2049,6 +1697,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2056,9 +1705,7 @@
       "Construct Bane 4",
       "Destruction",
       "Keen"
-    ],
-    "itemKey": "item:ship-siege_bow_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Roadwatch Bow (level 17)",
@@ -2075,15 +1722,14 @@
       "Heartseeker III"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Axiomatic",
       "Aligned",
       "Heartseeker III"
-    ],
-    "itemKey": "item:roadwatch_bow_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Roadwatch Bow (level 18)",
@@ -2100,15 +1746,14 @@
       "Heartseeker IV"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Absolute Law",
       "Aligned",
       "Heartseeker IV"
-    ],
-    "itemKey": "item:roadwatch_bow_(level_18)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Longbow",
@@ -2129,6 +1774,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2136,9 +1782,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Longbow",
@@ -2159,6 +1803,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2166,9 +1811,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "First Course Finder",
@@ -2189,241 +1832,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-        "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+20",
-            "effect": "Artifact Bonus to Universal Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Artifact Bonus to Universal Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-        "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact Bonus to Spell Critical Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact Bonus to Spell Critical Chance"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
-        "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Imbue Dice"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Imbue Dice"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 4,
-        "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 4,
-        "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-        "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Legendary Bonus to Spell Critical Damage"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Legendary Bonus to Spell Critical Damage"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Elasticity",
       "Corrosive Salt",
       "Fiery 4",
       "Animal Bane 4"
-    ],
-    "itemKey": "item:first_course_finder",
-    "setMembership": [
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 8,
-        "bonusRaw": "3 Pieces Equipped: ♦+20★+25 Artifact Bonus to Universal Spell Power ♦+2%★+6% Artifact Bonus to Spell Critical Chance ♦+1★+3 Artifact Bonus to Imbue Dice 4 Pieces Equipped: ♦+5★+15 Artifact Bonus to Melee and Ranged Power ♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-            "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+20",
-                "effect": "Artifact Bonus to Universal Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Artifact Bonus to Universal Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-            "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact Bonus to Spell Critical Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact Bonus to Spell Critical Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
-            "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Imbue Dice"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Imbue Dice"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-            "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Legendary Bonus to Spell Critical Damage"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Legendary Bonus to Spell Critical Damage"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -2447,6 +1863,7 @@
       "Colorless",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2454,9 +1871,7 @@
       "Piercing 4",
       "Insightful Doubleshot 3%",
       "Insightful Distant Diversion +7%"
-    ],
-    "itemKey": "item:epic_thornlord",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Shatterbow",
@@ -2479,6 +1894,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2488,9 +1904,7 @@
       "Armor-Piercing 15%",
       "Adamantine",
       "Move Silently -10"
-    ],
-    "itemKey": "item:epic_shatterbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Bow of the Elements (Air)",
@@ -2515,6 +1929,7 @@
       "Colorless",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -2524,9 +1939,7 @@
       "Lightning Lore +16%",
       "Magnetism +111",
       "Whirlwind Absorption - 20 Charges (Recharged/Day: 5)"
-    ],
-    "itemKey": "item:epic_bow_of_the_elements_(air)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Elemental Longbow of Earth",
@@ -2540,12 +1953,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_elemental_longbow_of_earth",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Bow of the Silver Flame",
@@ -2567,6 +1979,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2575,9 +1988,7 @@
       "Weaken Undead",
       "Blunted Ammunition",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:epic_bow_of_the_silver_flame",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Calomel Long Bow",
@@ -2591,12 +2002,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_calomel_long_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cheap Shot (level 20)",
@@ -2617,6 +2027,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2624,9 +2035,7 @@
       "Critical Befouling 2",
       "Doubleshot 6%",
       "Keen"
-    ],
-    "itemKey": "item:cheap_shot_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Longbow (level 20)",
@@ -2644,6 +2053,7 @@
       "Crushing 10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2651,9 +2061,7 @@
       "Evil Outsider Bane 4",
       "Improved Vorpal",
       "Crushing 10"
-    ],
-    "itemKey": "item:spectral_longbow_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ship-Siege Bow (level 20)",
@@ -2674,6 +2082,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2681,9 +2090,7 @@
       "Construct Bane 4",
       "Improved Destruction",
       "Keen"
-    ],
-    "itemKey": "item:epic_ship-siege_bow_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Longbow",
@@ -2704,6 +2111,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2711,9 +2119,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Longbow",
@@ -2734,6 +2140,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2741,9 +2148,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Shadowstrike",
@@ -2764,6 +2169,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -2771,9 +2177,7 @@
       "Distant Diversion +15%",
       "Disintegration",
       "Cold Iron"
-    ],
-    "itemKey": "item:epic_shadowstrike",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Longbow",
@@ -2791,13 +2195,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pinion, Cloud-piercer",
@@ -2815,6 +2218,7 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -2822,9 +2226,7 @@
       "Shrieking",
       "Seeker +10",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:pinion,_cloud-piercer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Roadwatch Bow (level 23)",
@@ -2841,15 +2243,14 @@
       "Heartseeker V"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Absolute Law",
       "Aligned",
       "Heartseeker V"
-    ],
-    "itemKey": "item:roadwatch_bow_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tortured Livewood Bow (level 23)",
@@ -2867,13 +2268,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Greater Acid Arrow"
-    ],
-    "itemKey": "item:tortured_livewood_bow_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tortured Livewood Bow (level 24)",
@@ -2891,13 +2291,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Superior Acid Arrow"
-    ],
-    "itemKey": "item:tortured_livewood_bow_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Roadwatch Bow (level 24)",
@@ -2914,15 +2313,14 @@
       "Heartseeker V"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Supreme Law",
       "Aligned",
       "Heartseeker V"
-    ],
-    "itemKey": "item:roadwatch_bow_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Longbow (level 24)",
@@ -2940,6 +2338,7 @@
       "Crushing 12"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -2947,9 +2346,7 @@
       "Evil Outsider Bane 5",
       "Greater Vorpal",
       "Crushing 12"
-    ],
-    "itemKey": "item:spectral_longbow_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ship-Siege Bow (level 24)",
@@ -2970,6 +2367,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -2977,9 +2375,7 @@
       "Construct Bane 5",
       "Improved Destruction",
       "Keen"
-    ],
-    "itemKey": "item:epic_ship-siege_bow_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tortured Livewood Bow (level 25)",
@@ -2999,13 +2395,12 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Sovereign Acid Arrow"
-    ],
-    "itemKey": "item:tortured_livewood_bow_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Roadwatch Bow (level 25)",
@@ -3022,15 +2417,14 @@
       "Heartseeker VI"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Supreme Law",
       "Aligned",
       "Heartseeker VI"
-    ],
-    "itemKey": "item:roadwatch_bow_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cheap Shot (level 25)",
@@ -3051,6 +2445,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -3058,9 +2453,7 @@
       "Critical Befouling 3",
       "Doubleshot 7%",
       "Keen"
-    ],
-    "itemKey": "item:cheap_shot_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Serpentbranch",
@@ -3083,6 +2476,7 @@
       "Purple",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+8 Enhancement Bonus",
@@ -3090,9 +2484,7 @@
       "Toxic 12",
       "Poison Resistance +44",
       "Proof Against Poison +6"
-    ],
-    "itemKey": "item:epic_serpentbranch",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Longbow",
@@ -3107,14 +2499,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sapphire Sting",
@@ -3135,6 +2526,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -3142,9 +2534,7 @@
       "Improved Destruction",
       "Greater Maiming",
       "Ranged Alacrity 20%"
-    ],
-    "itemKey": "item:epic_sapphire_sting",
-    "setMembership": []
+    ]
   },
   {
     "name": "Void, the Endless Cold",
@@ -3167,6 +2557,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3174,9 +2565,7 @@
       "Chilling 6",
       "Cold Vulnerability",
       "Conjure Ice Arrow — 1 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:void,_the_endless_cold",
-    "setMembership": []
+    ]
   },
   {
     "name": "Chaosbow",
@@ -3199,6 +2588,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3206,9 +2596,7 @@
       "Fetters of Unreality",
       "Elasticity",
       "Ranged Alacrity 20%"
-    ],
-    "itemKey": "item:chaosbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectral Longbow (level 28)",
@@ -3226,6 +2614,7 @@
       "Crushing 13"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -3233,9 +2622,7 @@
       "Evil Outsider Bane 6",
       "Superior Vorpal",
       "Crushing 13"
-    ],
-    "itemKey": "item:spectral_longbow_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ship-Siege Bow (level 28)",
@@ -3256,6 +2643,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -3263,9 +2651,7 @@
       "Construct Bane 6",
       "Improved Destruction",
       "Keen"
-    ],
-    "itemKey": "item:epic_ship-siege_bow_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Inferno Sniper",
@@ -3286,6 +2672,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Blinding Embers"
     ],
@@ -3294,9 +2681,7 @@
       "Fiery 6",
       "Fire Vulnerability",
       "Aligned"
-    ],
-    "itemKey": "item:legendary_inferno_sniper",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Twisted Willow",
@@ -3317,6 +2702,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3324,9 +2710,7 @@
       "Elasticity",
       "Poisonous 6",
       "Armor-Piercing 20%"
-    ],
-    "itemKey": "item:legendary_twisted_willow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Aerania, the Boltbow",
@@ -3349,6 +2733,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3356,9 +2741,7 @@
       "Keen",
       "Elasticity",
       "Ranged Alacrity 20%"
-    ],
-    "itemKey": "item:aerania,_the_boltbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Longbow",
@@ -3379,6 +2762,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3386,9 +2770,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Longbow",
@@ -3409,6 +2791,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3416,9 +2799,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Longbow",
@@ -3439,6 +2820,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3446,9 +2828,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Longbow",
@@ -3469,6 +2849,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3476,9 +2857,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Longbow",
@@ -3499,6 +2878,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3506,9 +2886,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cheap Shot (level 30)",
@@ -3529,6 +2907,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+14 Enhancement Bonus",
@@ -3536,9 +2915,7 @@
       "Critical Befouling 3",
       "Doubleshot 8%",
       "Keen"
-    ],
-    "itemKey": "item:cheap_shot_(level_30)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Bow of the Silver Flame",
@@ -3560,6 +2937,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3568,9 +2946,7 @@
       "Weaken Undead",
       "Blunted Ammunition",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:legendary_bow_of_the_silver_flame",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shatterbow",
@@ -3595,6 +2971,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3604,9 +2981,7 @@
       "Armor-Piercing 21%",
       "Adamantine",
       "Move Silently -10"
-    ],
-    "itemKey": "item:legendary_shatterbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Bow of the Elements (Air)",
@@ -3632,6 +3007,7 @@
       "Colorless",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "The Legendary Desert's Writhing Storm"
     ],
@@ -3643,9 +3019,7 @@
       "Lightning Lore +21%",
       "Magnetism +146",
       "Whirlwind Absorption - 20 Charges (Recharged/Day: 5)"
-    ],
-    "itemKey": "item:legendary_bow_of_the_elements_(air)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Thornlord",
@@ -3669,6 +3043,7 @@
       "Colorless",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Menechtarun Scavenger"
     ],
@@ -3678,9 +3053,7 @@
       "Piercing 6",
       "Insightful Doubleshot 4%",
       "Insightful Distant Diversion +10%"
-    ],
-    "itemKey": "item:legendary_thornlord",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Longbow",
@@ -3703,16 +3076,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_longbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Longbow",
@@ -3735,16 +3128,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_longbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Gnollish War Bow",
@@ -3767,6 +3180,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3774,9 +3188,7 @@
       "Bonesplitter",
       "Monstrous Humanoid Bane 6",
       "Malleable"
-    ],
-    "itemKey": "item:legendary_gnollish_war_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Bloody War Bow",
@@ -3799,6 +3211,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3806,9 +3219,7 @@
       "Bonesplitter",
       "Monstrous Humanoid Bane 6",
       "Feeding 30"
-    ],
-    "itemKey": "item:legendary_bloody_war_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Destructive War Bow",
@@ -3831,6 +3242,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3838,9 +3250,7 @@
       "Bonesplitter",
       "Monstrous Humanoid Bane 6",
       "Improved Destruction"
-    ],
-    "itemKey": "item:legendary_destructive_war_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Infectious War Bow",
@@ -3863,6 +3273,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Demon Fever"
     ],
@@ -3871,9 +3282,7 @@
       "Crippling",
       "Bonesplitter",
       "Monstrous Humanoid Bane 6"
-    ],
-    "itemKey": "item:legendary_infectious_war_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Petrifying War Bow",
@@ -3896,6 +3305,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Stone Prison"
     ],
@@ -3904,9 +3314,7 @@
       "Crippling",
       "Bonesplitter",
       "Monstrous Humanoid Bane 6"
-    ],
-    "itemKey": "item:legendary_petrifying_war_bow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Eon, the Poisoned Reign",
@@ -3929,6 +3337,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Virulent Poison"
     ],
@@ -3937,9 +3346,7 @@
       "Keen",
       "Ranged Alacrity 20%",
       "Poisonous 7"
-    ],
-    "itemKey": "item:eon,_the_poisoned_reign",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ship-Siege Bow (level 32)",
@@ -3960,6 +3367,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3967,9 +3375,7 @@
       "Construct Bane 6",
       "Improved Destruction",
       "Keen"
-    ],
-    "itemKey": "item:legendary_ship-siege_bow_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Longbow",
@@ -3992,6 +3398,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -3999,9 +3406,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Longbow",
@@ -4025,6 +3430,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -4034,9 +3440,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_longbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary First Course Finder",
@@ -4059,6 +3463,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4066,9 +3471,7 @@
       "Concentrated Corrosive Salt",
       "Fiery 6",
       "Animal Bane 6"
-    ],
-    "itemKey": "item:legendary_first_course_finder",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Longbow of the Fallen Age",
@@ -4091,6 +3494,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4098,9 +3502,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_longbow_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Longbow of the Golden Age",
@@ -4123,6 +3525,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4130,9 +3533,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_longbow_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Aeon, the Blazing Reign",
@@ -4155,6 +3556,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4162,9 +3564,7 @@
       "Elasticity",
       "Dripping with Magma",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:aeon,_the_blazing_reign",
-    "setMembership": []
+    ]
   },
   {
     "name": "Longbow of the Undying Age",
@@ -4187,6 +3587,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4194,9 +3595,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:longbow_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Longbow",
@@ -4219,16 +3618,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_longbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Longbow",
@@ -4251,15 +3670,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_longbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

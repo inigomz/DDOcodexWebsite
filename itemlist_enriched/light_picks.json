@@ -1,0 +1,1407 @@
+[
+  {
+    "name": "Ethereal Light Pick",
+    "link": "https://ddowiki.com/page/Item:Ethereal_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Ghost Touch"
+    ],
+    "itemKey": "item:ethereal_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Sworn Silver Light Pick",
+    "link": "https://ddowiki.com/page/Item:Sworn_Silver_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 2,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Silver , Alchemical"
+    ],
+    "itemKey": "item:sworn_silver_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Pick of Endless Light (level 4)",
+    "link": "https://ddowiki.com/page/Item:Pick_of_Endless_Light_(level_4)",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 4,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Lesser Undead Bane",
+      "Incandescence"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Lesser Undead Bane",
+      "Incandescence"
+    ],
+    "itemKey": "item:pick_of_endless_light_(level_4)",
+    "setMembership": []
+  },
+  {
+    "name": "Ferrocrystal Light Pick",
+    "link": "https://ddowiki.com/page/Item:Ferrocrystal_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+2 Enhancement Bonus",
+      "Feybane 2",
+      "Destruction",
+      "Maiming 2",
+      "Crystal"
+    ],
+    "itemKey": "item:ferrocrystal_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Flamesalt Light Pick",
+    "link": "https://ddowiki.com/page/Item:Flamesalt_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 5,
+    "effectsRaw": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+1 Enhancement Bonus",
+      "Chilling 2",
+      "Monstrous Humanoid Bane 2",
+      "Weakening 1",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:flamesalt_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Pick of Endless Light (level 8)",
+    "link": "https://ddowiki.com/page/Item:Pick_of_Endless_Light_(level_8)",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+3 Enhancement Bonus",
+      "Undead Bane",
+      "Incandescence"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+3 Enhancement Bonus",
+      "Undead Bane",
+      "Incandescence"
+    ],
+    "itemKey": "item:pick_of_endless_light_(level_8)",
+    "setMembership": []
+  },
+  {
+    "name": "Calamitous Light Pick",
+    "link": "https://ddowiki.com/page/Item:Calamitous_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 8,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Vampirism 1"
+    ],
+    "itemKey": "item:calamitous_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Barovian's Light Pick",
+    "link": "https://ddowiki.com/page/Item:Barovian%27s_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 3",
+      "Fiery 3",
+      "Undead Bane 3"
+    ],
+    "itemKey": "item:barovian's_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Macabre Light Pick",
+    "link": "https://ddowiki.com/page/Item:Macabre_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 10,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 3",
+      "Vampirism 1",
+      "Chilling 3"
+    ],
+    "itemKey": "item:macabre_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Alchemical Light Pick",
+    "link": "https://ddowiki.com/page/Item:Alchemical_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Alchemical (Prototype)"
+    ],
+    "itemKey": "item:alchemical_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Green Steel Light Pick",
+    "link": "https://ddowiki.com/page/Item:Green_Steel_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Green Steel"
+    ],
+    "itemKey": "item:green_steel_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Pick of Endless Light (level 12)",
+    "link": "https://ddowiki.com/page/Item:Pick_of_Endless_Light_(level_12)",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 12,
+    "effectsRaw": [
+      "+4 Enhancement Bonus",
+      "Undead Bane",
+      "Brilliance",
+      "Light Bringer"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+4 Enhancement Bonus",
+      "Undead Bane",
+      "Brilliance",
+      "Light Bringer"
+    ],
+    "itemKey": "item:pick_of_endless_light_(level_12)",
+    "setMembership": []
+  },
+  {
+    "name": "Light Pick of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Light_Pick_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Anarchic Blast 3",
+      "Anarchic 3",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:light_pick_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Light Pick of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Light_Pick_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 13,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Force Blast 3",
+      "Impactful 3",
+      "Vorpal",
+      "Entropic 3"
+    ],
+    "itemKey": "item:light_pick_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Planar Spike",
+    "link": "https://ddowiki.com/page/Item:Planar_Spike",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 14,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Trace of Madness",
+      "Piercing 3",
+      "Heartseeker I",
+      "Screeching 8",
+      "Maiming 3",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Trace of Madness",
+      "Piercing 3",
+      "Heartseeker I",
+      "Screeching 8",
+      "Maiming 3"
+    ],
+    "itemKey": "item:planar_spike",
+    "setMembership": []
+  },
+  {
+    "name": "Syranian Light Pick",
+    "link": "https://ddowiki.com/page/Item:Syranian_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 15,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Electrifying 4",
+      "Holy 4",
+      "Construct Bane 4",
+      "Adamantine"
+    ],
+    "itemKey": "item:syranian_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Pick of Endless Light (level 16)",
+    "link": "https://ddowiki.com/page/Item:Pick_of_Endless_Light_(level_16)",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 16,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Greater Undead Bane",
+      "Brilliance",
+      "Light Bringer"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Greater Undead Bane",
+      "Brilliance",
+      "Light Bringer"
+    ],
+    "itemKey": "item:pick_of_endless_light_(level_16)",
+    "setMembership": []
+  },
+  {
+    "name": "Shining Reliquary Light Pick",
+    "link": "https://ddowiki.com/page/Item:Shining_Reliquary_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 4",
+      "Blazing 10",
+      "Evil Outsider Bane 4"
+    ],
+    "itemKey": "item:shining_reliquary_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Defiled Reliquary Light Pick",
+    "link": "https://ddowiki.com/page/Item:Defiled_Reliquary_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 18,
+    "effectsRaw": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+5 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 4",
+      "Evil Blast 4",
+      "Vile Grip of the Hidden Hand"
+    ],
+    "itemKey": "item:defiled_reliquary_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Pick of Endless Light (level 20)",
+    "link": "https://ddowiki.com/page/Item:Pick_of_Endless_Light_(level_20)",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Greater Undead Bane",
+      "Brilliance",
+      "Light Bringer",
+      "Radiant Blast"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Greater Undead Bane",
+      "Brilliance",
+      "Light Bringer",
+      "Radiant Blast"
+    ],
+    "itemKey": "item:pick_of_endless_light_(level_20)",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Sworn Silver Light Pick",
+    "link": "https://ddowiki.com/page/Item:Epic_Sworn_Silver_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Unnatural Bane 4",
+      "Destruction",
+      "Righteous"
+    ],
+    "itemKey": "item:epic_sworn_silver_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Epic Ethereal Light Pick",
+    "link": "https://ddowiki.com/page/Item:Epic_Ethereal_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 20,
+    "effectsRaw": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+6 Enhancement Bonus",
+      "Impactful 4",
+      "Ghostbane 4",
+      "Weaken Undead",
+      "Adamantine"
+    ],
+    "itemKey": "item:epic_ethereal_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Thunder-Forged Alloy Light Pick",
+    "link": "https://ddowiki.com/page/Item:Thunder-Forged_Alloy_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 22,
+    "effectsRaw": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+9 Enhancement Bonus",
+      "Thunder-Forged (Tier 0)"
+    ],
+    "itemKey": "item:thunder-forged_alloy_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Pick of Endless Light (level 24)",
+    "link": "https://ddowiki.com/page/Item:Pick_of_Endless_Light_(level_24)",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 24,
+    "effectsRaw": [
+      "+7 Enhancement Bonus",
+      "Greater Undead Bane",
+      "Coruscating",
+      "Light Bringer",
+      "Greater Sunburst"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+7 Enhancement Bonus",
+      "Greater Undead Bane",
+      "Coruscating",
+      "Light Bringer",
+      "Greater Sunburst"
+    ],
+    "itemKey": "item:pick_of_endless_light_(level_24)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Green Steel Light Pick",
+    "link": "https://ddowiki.com/page/Item:Legendary_Green_Steel_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 26,
+    "effectsRaw": [
+      "+14 Enhancement Bonus",
+      "Legendary Green Steel"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Green Steel"
+    ],
+    "namedEffects": [
+      "+14 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_green_steel_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Pick of Endless Light (level 28)",
+    "link": "https://ddowiki.com/page/Item:Pick_of_Endless_Light_(level_28)",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 28,
+    "effectsRaw": [
+      "+12 Enhancement Bonus",
+      "Greater Undead Bane",
+      "Coruscating",
+      "Light Bringer",
+      "Greater Sunburst"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+12 Enhancement Bonus",
+      "Greater Undead Bane",
+      "Coruscating",
+      "Light Bringer",
+      "Greater Sunburst"
+    ],
+    "itemKey": "item:pick_of_endless_light_(level_28)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Planar Spike",
+    "link": "https://ddowiki.com/page/Item:Legendary_Planar_Spike",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Trace of Madness",
+      "Piercing 6",
+      "Heartseeker VII",
+      "Screeching 14",
+      "Maiming 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Trace of Madness",
+      "Piercing 6",
+      "Heartseeker VII",
+      "Screeching 14",
+      "Maiming 6"
+    ],
+    "itemKey": "item:legendary_planar_spike",
+    "setMembership": []
+  },
+  {
+    "name": "Morninglord's Light Pick",
+    "link": "https://ddowiki.com/page/Item:Morninglord%27s_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Silver , Alchemical",
+      "Holy 6",
+      "Fiery 6",
+      "Undead Bane 6"
+    ],
+    "itemKey": "item:morninglord's_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Nightmother's Light Pick",
+    "link": "https://ddowiki.com/page/Item:Nightmother%27s_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6",
+      "Orange Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Mother Night's Embrace",
+      "Human Bane 6",
+      "Vampirism 2",
+      "Chilling 6"
+    ],
+    "itemKey": "item:nightmother's_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Syranian Light Pick",
+    "link": "https://ddowiki.com/page/Item:Legendary_Syranian_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Electrifying 6",
+      "Holy 6",
+      "Construct Bane 6",
+      "Adamantine"
+    ],
+    "itemKey": "item:legendary_syranian_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Ferrocrystal Light Pick",
+    "link": "https://ddowiki.com/page/Item:Legendary_Ferrocrystal_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Feybane 6",
+      "Improved Destruction",
+      "Maiming 6",
+      "Crystal"
+    ],
+    "itemKey": "item:legendary_ferrocrystal_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Flamesalt Light Pick",
+    "link": "https://ddowiki.com/page/Item:Legendary_Flamesalt_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 29,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron",
+      "Red Augment Slot"
+    ],
+    "augmentSlots": [
+      "Red"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Chilling 6",
+      "Monstrous Humanoid Bane 6",
+      "Weakening 3",
+      "Flametouched Iron"
+    ],
+    "itemKey": "item:legendary_flamesalt_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Dinosaur Bone Light Pick",
+    "link": "https://ddowiki.com/page/Item:Dinosaur_Bone_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:dinosaur_bone_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Attuned Bone Light Pick",
+    "link": "https://ddowiki.com/page/Item:Attuned_Bone_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 31,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Isle of Dread: Scale Slot (Weapon): Empty",
+      "Isle of Dread: Fang Slot (Weapon): Empty",
+      "Isle of Dread: Claw Slot (Weapon): Empty",
+      "Isle of Dread: Horn Slot (Weapon): Empty",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:attuned_bone_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Pick of Endless Light (level 32)",
+    "link": "https://ddowiki.com/page/Item:Pick_of_Endless_Light_(level_32)",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Undead Bane 6",
+      "Coruscating 6",
+      "Light Bringer",
+      "Greater Sunburst"
+    ],
+    "augmentSlots": [],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Undead Bane 6",
+      "Coruscating 6",
+      "Light Bringer",
+      "Greater Sunburst"
+    ],
+    "itemKey": "item:pick_of_endless_light_(level_32)",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Shining Reliquary Light Pick",
+    "link": "https://ddowiki.com/page/Item:Legendary_Shining_Reliquary_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Coruscating 6",
+      "Blazing 15",
+      "Evil Outsider Bane 6"
+    ],
+    "itemKey": "item:legendary_shining_reliquary_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Defiled Reliquary Light Pick",
+    "link": "https://ddowiki.com/page/Item:Legendary_Defiled_Reliquary_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 32,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Legendary Vile Grip of the Hidden Hand",
+      "Taint of Evil",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [
+      "Legendary Vile Grip of the Hidden Hand"
+    ],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Improved Destruction",
+      "Unholy 6",
+      "Evil Blast 6",
+      "Taint of Evil"
+    ],
+    "itemKey": "item:legendary_defiled_reliquary_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Light Pick of the Fallen Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Light_Pick_of_the_Fallen_Age",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Anarchic Blast 7",
+      "Anarchic 7",
+      "Aligned",
+      "Keen"
+    ],
+    "itemKey": "item:legendary_light_pick_of_the_fallen_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Light Pick of the Golden Age",
+    "link": "https://ddowiki.com/page/Item:Legendary_Light_Pick_of_the_Golden_Age",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Force Blast 7",
+      "Impactful 7",
+      "Sovereign Vorpal",
+      "Entropic 7"
+    ],
+    "itemKey": "item:legendary_light_pick_of_the_golden_age",
+    "setMembership": []
+  },
+  {
+    "name": "Light Pick of the Undying Age",
+    "link": "https://ddowiki.com/page/Item:Light_Pick_of_the_Undying_Age",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 33,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Dripping with Magma",
+      "3rd Degree Burns",
+      "Sovereign Vorpal",
+      "Sealed in Fire"
+    ],
+    "itemKey": "item:light_pick_of_the_undying_age",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Calamitous Light Pick",
+    "link": "https://ddowiki.com/page/Item:Legendary_Calamitous_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_calamitous_light_pick",
+    "setMembership": []
+  },
+  {
+    "name": "The Piercing Pain",
+    "link": "https://ddowiki.com/page/Item:The_Piercing_Pain",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Murderous Point",
+      "Revel in Blood (Piercing)",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus",
+      "Murderous Point",
+      "Revel in Blood (Piercing)"
+    ],
+    "itemKey": "item:the_piercing_pain",
+    "setMembership": []
+  },
+  {
+    "name": "Legendary Cataclysmic Light Pick",
+    "link": "https://ddowiki.com/page/Item:Legendary_Cataclysmic_Light_Pick",
+    "slot": "weapon",
+    "itemSubtype": "light_pick",
+    "handedness": "one_handed",
+    "category": "Light Picks",
+    "minLevel": 34,
+    "effectsRaw": [
+      "+15 Enhancement Bonus",
+      "Lamordia: Melancholic Slot (Weapon)",
+      "Lamordia: Dolorous Slot (Weapon)",
+      "Lamordia: Miserable Slot (Weapon)",
+      "Lamordia: Woeful Slot (Weapon)",
+      "Orange Augment Slot",
+      "Purple Augment Slot"
+    ],
+    "augmentSlots": [
+      "Orange",
+      "Purple"
+    ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
+    "setBonuses": [],
+    "namedEffects": [
+      "+15 Enhancement Bonus"
+    ],
+    "itemKey": "item:legendary_cataclysmic_light_pick",
+    "setMembership": []
+  }
+]

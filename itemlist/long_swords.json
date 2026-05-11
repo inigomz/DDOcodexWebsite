@@ -11,12 +11,11 @@
       "Lesser Monstrous Humanoid Bane"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Lesser Monstrous Humanoid Bane"
-    ],
-    "itemKey": "item:lhorne's_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ember Longsword",
@@ -32,14 +31,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Masterwork",
       "Fire Touch",
       "Starter"
-    ],
-    "itemKey": "item:ember_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rusty Longsword",
@@ -53,12 +51,11 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Starter"
-    ],
-    "itemKey": "item:rusty_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Blade of Inquisition",
@@ -77,14 +74,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Ghostbane 1",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:blade_of_inquisition",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nicked Longsword",
@@ -101,15 +97,14 @@
       "Deadly +3"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Chilling 2",
       "Parrying +1",
       "Deadly +3"
-    ],
-    "itemKey": "item:nicked_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Longsword",
@@ -125,14 +120,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Flaming",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Longsword",
@@ -150,13 +144,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Longsword",
@@ -174,13 +167,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Silver Blade of the Flame",
@@ -199,14 +191,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Favored Weapon",
       "Silver"
-    ],
-    "itemKey": "item:silver_blade_of_the_flame",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flametongue",
@@ -226,13 +217,12 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Flaming Burst"
-    ],
-    "itemKey": "item:flametongue",
-    "setMembership": []
+    ]
   },
   {
     "name": "Timeblade",
@@ -253,6 +243,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -260,9 +251,7 @@
       "Doublestrike 4%",
       "Slowburst",
       "Feather Falling"
-    ],
-    "itemKey": "item:timeblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Longsword (level 4)",
@@ -278,14 +267,13 @@
       "Undead Bane 2"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Righteous",
       "Undead Bane 2"
-    ],
-    "itemKey": "item:mournlode_longsword_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Longsword",
@@ -306,6 +294,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -313,9 +302,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Longsword",
@@ -336,6 +323,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -343,9 +331,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Xoriat Forged Blade",
@@ -364,14 +350,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Flaming",
       "Anarchic"
-    ],
-    "itemKey": "item:xoriat_forged_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scoundrel's Longsword",
@@ -390,14 +375,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Shock",
       "Anarchic"
-    ],
-    "itemKey": "item:scoundrel's_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fimbric, Lost Longsword",
@@ -420,140 +404,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Universal Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane bonus to Universal Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to Spell DCs",
-        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to Spell DCs"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "★+4 Profane bonus to Hit and Damage",
-        "effectRaw": "★+4 Profane bonus to Hit and Damage",
-        "tieredEffects": [
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane bonus to Hit and Damage"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Feather Fall — 3 Charges (Recharged/Day:3)",
       "+3 Enhancement Bonus",
@@ -562,131 +414,6 @@
       "Ghost Touch",
       "Silver , Alchemical",
       "The Dread Isle's Curse"
-    ],
-    "itemKey": "item:fimbric,_lost_longsword",
-    "setMembership": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "minLevels": [
-          7,
-          31
-        ],
-        "availablePieces": 70,
-        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Universal Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane bonus to Universal Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to Spell DCs",
-            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to Spell DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "★+4 Profane bonus to Hit and Damage",
-            "effectRaw": "★+4 Profane bonus to Hit and Damage",
-            "tieredEffects": [
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane bonus to Hit and Damage"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -706,12 +433,11 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus"
-    ],
-    "itemKey": "item:threnalian_war_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Retribution",
@@ -731,15 +457,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Holy",
       "True Law",
       "Pure Good"
-    ],
-    "itemKey": "item:retribution",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightforge Avenger Blade",
@@ -757,13 +482,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Adamantine"
-    ],
-    "itemKey": "item:nightforge_avenger_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Longsword (level 8)",
@@ -777,12 +501,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_longsword_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Longsword",
@@ -803,16 +526,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_longsword",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Sirocco",
@@ -833,193 +571,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact bonus to Force Spellcrit Chance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+4%",
-            "effect": "Artifact bonus to Force Spellcrit Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact bonus to Force Spellcrit Chance"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Force Spellpower"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Force Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Force Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Magical Resistance Rating Cap"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Magical Resistance Rating Cap"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Magical Resistance Rating Cap"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Telekinetic",
       "Force Blast 3",
       "Sirocco",
       "Smoke Screen"
-    ],
-    "itemKey": "item:sirocco",
-    "setMembership": [
-      {
-        "setId": "the_desert_s_biting_sands",
-        "setName": "The Desert's Biting Sands",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 8,
-        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Force Spellpower ♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Force Spellcrit Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact bonus to Force Spellcrit Chance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+4%",
-                "effect": "Artifact bonus to Force Spellcrit Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact bonus to Force Spellcrit Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Force Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Force Spellpower"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Force Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Force Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Magical Resistance Rating Cap",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Magical Resistance Rating Cap"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Magical Resistance Rating Cap"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Magical Resistance Rating Cap"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1037,15 +596,14 @@
       "Pure Good"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Cold Iron",
       "Vorpal",
       "Pure Good"
-    ],
-    "itemKey": "item:tesyus",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Longsword",
@@ -1066,6 +624,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1073,9 +632,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Longsword",
@@ -1096,6 +653,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1103,9 +661,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Burning Blade of Estelar",
@@ -1126,6 +682,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1133,9 +690,7 @@
       "Flaming 6",
       "Vorpal",
       "Dragon's Edge 2"
-    ],
-    "itemKey": "item:burning_blade_of_estelar",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drysvayla's Razor",
@@ -1156,6 +711,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1163,9 +719,7 @@
       "Toxic 6",
       "Vorpal",
       "Dragon's Edge 2"
-    ],
-    "itemKey": "item:drysvayla's_razor",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Longsword",
@@ -1180,13 +734,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Longsword",
@@ -1201,13 +754,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Longsword (level 12)",
@@ -1221,12 +773,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_longsword_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Echo of the Artblade",
@@ -1249,6 +800,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1258,9 +810,7 @@
       "Greater Arcane Casting Dexterity",
       "Quality Potency +14",
       "Sacred Spell Focus Mastery +1"
-    ],
-    "itemKey": "item:echo_of_the_artblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Echo of the Warblade",
@@ -1282,6 +832,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Accuracy +2"
     ],
@@ -1291,9 +842,7 @@
       "Gashing 8",
       "Fiery 4",
       "Blade Barrier — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:echo_of_the_warblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Echo of the Crownblade",
@@ -1316,6 +865,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1325,9 +875,7 @@
       "Electrifying 4",
       "Blazing 8",
       "Cure Moderate Wounds — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:echo_of_the_crownblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Longsword of the Fallen Age",
@@ -1348,6 +896,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1355,9 +904,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Blessed Longsword of the Fallen Age",
@@ -1380,6 +927,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1389,9 +937,7 @@
       "Healing Lore +13%",
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3"
-    ],
-    "itemKey": "item:blessed_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Booming Longsword of the Fallen Age",
@@ -1414,6 +960,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1423,9 +970,7 @@
       "Sonic Lore +13%",
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3"
-    ],
-    "itemKey": "item:booming_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Burning Longsword of the Fallen Age",
@@ -1448,6 +993,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1457,9 +1003,7 @@
       "Fire Lore +13%",
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3"
-    ],
-    "itemKey": "item:burning_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Caustic Longsword of the Fallen Age",
@@ -1482,6 +1026,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1491,9 +1036,7 @@
       "Acid Lore +13%",
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3"
-    ],
-    "itemKey": "item:caustic_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Deathly Longsword of the Fallen Age",
@@ -1516,6 +1059,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1525,9 +1069,7 @@
       "Void Lore +13%",
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3"
-    ],
-    "itemKey": "item:deathly_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Freezing Longsword of the Fallen Age",
@@ -1550,6 +1092,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1559,9 +1102,7 @@
       "Ice Lore +13%",
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3"
-    ],
-    "itemKey": "item:freezing_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Gleaming Longsword of the Fallen Age",
@@ -1584,6 +1125,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1593,9 +1135,7 @@
       "Radiance Lore +13%",
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3"
-    ],
-    "itemKey": "item:gleaming_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shocking Longsword of the Fallen Age",
@@ -1618,6 +1158,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1627,9 +1168,7 @@
       "Lightning Lore +13%",
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3"
-    ],
-    "itemKey": "item:shocking_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mending Longsword of the Fallen Age",
@@ -1652,6 +1191,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1661,9 +1201,7 @@
       "Repair Lore +13%",
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3"
-    ],
-    "itemKey": "item:mending_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kinetic Longsword of the Fallen Age",
@@ -1686,6 +1224,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1695,9 +1234,7 @@
       "Kinetic Lore +13%",
       "Quality Spell Focus Mastery +1",
       "Insightful Spell Penetration +3"
-    ],
-    "itemKey": "item:kinetic_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Blessed Longsword of the Golden Age",
@@ -1720,6 +1257,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1729,9 +1267,7 @@
       "Insightful Spell Lore II",
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2"
-    ],
-    "itemKey": "item:blessed_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Booming Longsword of the Golden Age",
@@ -1754,6 +1290,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1763,9 +1300,7 @@
       "Insightful Spell Lore II",
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2"
-    ],
-    "itemKey": "item:booming_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Burning Longsword of the Golden Age",
@@ -1788,6 +1323,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1797,9 +1333,7 @@
       "Insightful Spell Lore II",
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2"
-    ],
-    "itemKey": "item:burning_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Gleaming Longsword of the Golden Age",
@@ -1822,6 +1356,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1831,9 +1366,7 @@
       "Insightful Spell Lore II",
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2"
-    ],
-    "itemKey": "item:gleaming_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Caustic Longsword of the Golden Age",
@@ -1856,6 +1389,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1865,9 +1399,7 @@
       "Insightful Spell Lore II",
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2"
-    ],
-    "itemKey": "item:caustic_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Deathly Longsword of the Golden Age",
@@ -1890,6 +1422,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1899,9 +1432,7 @@
       "Insightful Spell Lore II",
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2"
-    ],
-    "itemKey": "item:deathly_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Freezing Longsword of the Golden Age",
@@ -1924,6 +1455,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1933,9 +1465,7 @@
       "Insightful Spell Lore II",
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2"
-    ],
-    "itemKey": "item:freezing_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kinetic Longsword of the Golden Age",
@@ -1958,6 +1488,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -1967,9 +1498,7 @@
       "Insightful Spell Lore II",
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2"
-    ],
-    "itemKey": "item:kinetic_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mending Longsword of the Golden Age",
@@ -1992,6 +1521,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -2001,9 +1531,7 @@
       "Insightful Spell Lore II",
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2"
-    ],
-    "itemKey": "item:mending_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shocking Longsword of the Golden Age",
@@ -2026,6 +1554,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +13",
@@ -2035,9 +1564,7 @@
       "Insightful Spell Lore II",
       "Profane Spell Focus Mastery +1",
       "Quality Spell Penetration +2"
-    ],
-    "itemKey": "item:shocking_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Longsword of the Golden Age",
@@ -2058,6 +1585,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2065,9 +1593,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Enduring Conviction",
@@ -2085,6 +1611,7 @@
       "Upgradeable Item (Black Abbot)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2092,9 +1619,7 @@
       "Absolute Law",
       "Evil Outsider Bane",
       "Upgradeable Item (Black Abbot)"
-    ],
-    "itemKey": "item:enduring_conviction",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dragon Sword of Acid",
@@ -2113,14 +1638,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Acid Burst",
       "Dragon Bane"
-    ],
-    "itemKey": "item:dragon_sword_of_acid",
-    "setMembership": []
+    ]
   },
   {
     "name": "Knight's Blade",
@@ -2136,14 +1660,13 @@
       "Vorpal"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Flaming II",
       "Vorpal"
-    ],
-    "itemKey": "item:knight's_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Longsword",
@@ -2164,6 +1687,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2171,9 +1695,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Entropic Edge",
@@ -2191,6 +1713,7 @@
       "Proficiency: Longsword"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -2198,9 +1721,7 @@
       "Radiance +81",
       "Insightful Evocation Focus +2",
       "Proficiency: Longsword"
-    ],
-    "itemKey": "item:entropic_edge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wild Blade",
@@ -2217,15 +1738,14 @@
       "Proficiency: Longsword"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Radiance Lore +12%",
       "Insightful Conjuration Focus +2",
       "Proficiency: Longsword"
-    ],
-    "itemKey": "item:wild_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Watcher's Blade",
@@ -2243,6 +1763,7 @@
       "Hidden Effect: On critical hits, this weapon saps the target."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2250,9 +1771,7 @@
       "Improved Cursespewing",
       "Exceptional Wisdom +1",
       "Hidden Effect: On critical hits, this weapon saps the target."
-    ],
-    "itemKey": "item:watcher's_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Longsword (level 16)",
@@ -2266,12 +1785,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_longsword_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Master's Riposte (level 17)",
@@ -2306,6 +1824,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -2327,9 +1846,7 @@
       "Shrieking III",
       "Solar II",
       "Vorpal"
-    ],
-    "itemKey": "item:master's_riposte_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Divine Vengeance",
@@ -2355,6 +1872,7 @@
       "Spell Resistance +30 → Spell Resistance +35"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2370,9 +1888,7 @@
       "Adds Greater Dispelling",
       "Adds Radiance",
       "Spell Resistance +30 → Spell Resistance +35"
-    ],
-    "itemKey": "item:divine_vengeance",
-    "setMembership": []
+    ]
   },
   {
     "name": "Master's Riposte (level 18)",
@@ -2407,6 +1923,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -2428,9 +1945,7 @@
       "Shrieking III",
       "Solar II",
       "Vorpal"
-    ],
-    "itemKey": "item:master's_riposte_(level_18)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Longsword",
@@ -2451,6 +1966,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2458,9 +1974,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Longsword",
@@ -2481,6 +1995,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2488,9 +2003,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fried Sword Fish",
@@ -2511,313 +2024,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-        "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+20",
-            "effect": "Artifact Bonus to Universal Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Artifact Bonus to Universal Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-        "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact Bonus to Spell Critical Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact Bonus to Spell Critical Chance"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
-        "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Imbue Dice"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Imbue Dice"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 4,
-        "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 4,
-        "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-        "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Legendary Bonus to Spell Critical Damage"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Legendary Bonus to Spell Critical Damage"
-          }
-        ]
-      },
-      {
-        "setId": "fried_frozen_frenzy",
-        "setName": "Fried & Frozen Frenzy",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 2,
-        "effect": "♦+1★+3 Artifact Bonus to all Ability Scores",
-        "effectRaw": "♦+1★+3 Artifact Bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "fried_frozen_frenzy",
-        "setName": "Fried & Frozen Frenzy",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 2,
-        "effect": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-        "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Armor-Piercing 14%",
       "Corrosive Salt",
       "Fiery 4",
       "Flaming 10"
-    ],
-    "itemKey": "item:fried_sword_fish",
-    "setMembership": [
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 8,
-        "bonusRaw": "3 Pieces Equipped: ♦+20★+25 Artifact Bonus to Universal Spell Power ♦+2%★+6% Artifact Bonus to Spell Critical Chance ♦+1★+3 Artifact Bonus to Imbue Dice 4 Pieces Equipped: ♦+5★+15 Artifact Bonus to Melee and Ranged Power ♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-            "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+20",
-                "effect": "Artifact Bonus to Universal Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Artifact Bonus to Universal Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-            "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact Bonus to Spell Critical Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact Bonus to Spell Critical Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
-            "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Imbue Dice"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Imbue Dice"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-            "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Legendary Bonus to Spell Critical Damage"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Legendary Bonus to Spell Critical Damage"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "setId": "fried_frozen_frenzy",
-        "setName": "Fried & Frozen Frenzy",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: ♦+1★+3 Artifact Bonus to all Ability Scores +1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1★+3 Artifact Bonus to all Ability Scores",
-            "effectRaw": "♦+1★+3 Artifact Bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-            "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -2839,313 +2053,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-        "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+20",
-            "effect": "Artifact Bonus to Universal Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Artifact Bonus to Universal Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-        "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact Bonus to Spell Critical Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact Bonus to Spell Critical Chance"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
-        "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Imbue Dice"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Imbue Dice"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 4,
-        "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 4,
-        "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-        "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Legendary Bonus to Spell Critical Damage"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Legendary Bonus to Spell Critical Damage"
-          }
-        ]
-      },
-      {
-        "setId": "fried_frozen_frenzy",
-        "setName": "Fried & Frozen Frenzy",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 2,
-        "effect": "♦+1★+3 Artifact Bonus to all Ability Scores",
-        "effectRaw": "♦+1★+3 Artifact Bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "fried_frozen_frenzy",
-        "setName": "Fried & Frozen Frenzy",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 2,
-        "effect": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-        "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-        "tieredEffects": []
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Armor-Piercing 14%",
       "Corrosive Salt",
       "Chilling 4",
       "Freezing 10"
-    ],
-    "itemKey": "item:frozen_sword_fish",
-    "setMembership": [
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 8,
-        "bonusRaw": "3 Pieces Equipped: ♦+20★+25 Artifact Bonus to Universal Spell Power ♦+2%★+6% Artifact Bonus to Spell Critical Chance ♦+1★+3 Artifact Bonus to Imbue Dice 4 Pieces Equipped: ♦+5★+15 Artifact Bonus to Melee and Ranged Power ♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-            "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+20",
-                "effect": "Artifact Bonus to Universal Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Artifact Bonus to Universal Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-            "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact Bonus to Spell Critical Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact Bonus to Spell Critical Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
-            "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Imbue Dice"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Imbue Dice"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-            "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Legendary Bonus to Spell Critical Damage"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Legendary Bonus to Spell Critical Damage"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "setId": "fried_frozen_frenzy",
-        "setName": "Fried & Frozen Frenzy",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 2,
-        "bonusRaw": "2 Pieces Equipped: ♦+1★+3 Artifact Bonus to all Ability Scores +1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1★+3 Artifact Bonus to all Ability Scores",
-            "effectRaw": "♦+1★+3 Artifact Bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-            "effectRaw": "+1 Artifact Bonus to Critical Multiplier on a roll of 19-20",
-            "tieredEffects": []
-          }
-        ]
-      }
     ]
   },
   {
@@ -3167,241 +2082,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-        "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+20",
-            "effect": "Artifact Bonus to Universal Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Artifact Bonus to Universal Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-        "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact Bonus to Spell Critical Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact Bonus to Spell Critical Chance"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
-        "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Imbue Dice"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Imbue Dice"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 4,
-        "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 4,
-        "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-        "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Legendary Bonus to Spell Critical Damage"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Legendary Bonus to Spell Critical Damage"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Armor-Piercing 14%",
       "Corrosive Salt",
       "Slashing 4",
       "Gashing 10"
-    ],
-    "itemKey": "item:sword_fish",
-    "setMembership": [
-      {
-        "setId": "cooking_by_the_book",
-        "setName": "Cooking by the Book",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 8,
-        "bonusRaw": "3 Pieces Equipped: ♦+20★+25 Artifact Bonus to Universal Spell Power ♦+2%★+6% Artifact Bonus to Spell Critical Chance ♦+1★+3 Artifact Bonus to Imbue Dice 4 Pieces Equipped: ♦+5★+15 Artifact Bonus to Melee and Ranged Power ♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-            "effectRaw": "♦+20★+25 Artifact Bonus to Universal Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+20",
-                "effect": "Artifact Bonus to Universal Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Artifact Bonus to Universal Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-            "effectRaw": "♦+2%★+6% Artifact Bonus to Spell Critical Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact Bonus to Spell Critical Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact Bonus to Spell Critical Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+1★+3 Artifact Bonus to Imbue Dice",
-            "effectRaw": "♦+1★+3 Artifact Bonus to Imbue Dice",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Imbue Dice"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Imbue Dice"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-            "effectRaw": "♦+5%★+15% Legendary Bonus to Spell Critical Damage",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Legendary Bonus to Spell Critical Damage"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Legendary Bonus to Spell Critical Damage"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -3437,6 +2125,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -3458,9 +2147,7 @@
       "Shrieking III",
       "Solar II",
       "Vorpal"
-    ],
-    "itemKey": "item:master's_riposte_(level_19)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sirocco",
@@ -3482,6 +2169,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3490,9 +2178,7 @@
       "Greater Sirocco",
       "Smoke Screen",
       "Air Guard"
-    ],
-    "itemKey": "item:epic_sirocco",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Timeblade",
@@ -3516,6 +2202,7 @@
       "Red",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3524,9 +2211,7 @@
       "Improved Slowburst",
       "Freedom of Movement",
       "Feather Falling"
-    ],
-    "itemKey": "item:epic_timeblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Mournlode Longsword",
@@ -3540,12 +2225,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_mournlode_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Oathblade",
@@ -3565,6 +2249,7 @@
       "Bleed"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3574,9 +2259,7 @@
       "Keen",
       "Maiming",
       "Bleed"
-    ],
-    "itemKey": "item:oathblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Longsword",
@@ -3597,6 +2280,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3604,9 +2288,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Longsword",
@@ -3627,6 +2309,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3634,9 +2317,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drow Longsword of the Weapon Master",
@@ -3657,6 +2338,7 @@
       "Tendon Slice 10%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3667,9 +2349,7 @@
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:drow_longsword_of_the_weapon_master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Longsword",
@@ -3687,13 +2367,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tinah, Sword of the Sea",
@@ -3715,6 +2394,7 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -3726,9 +2406,7 @@
       "Greater Dragon Bane",
       "Underwater Action",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:tinah,_sword_of_the_sea",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Blade of Inquisition",
@@ -3749,6 +2427,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -3756,9 +2435,7 @@
       "Unnatural Bane 5",
       "Ghostbane 5",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:epic_blade_of_inquisition",
-    "setMembership": []
+    ]
   },
   {
     "name": "Master's Riposte (level 26)",
@@ -3791,6 +2468,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -3810,9 +2488,7 @@
       "Shrieking VII",
       "Solar VI",
       "Nothing"
-    ],
-    "itemKey": "item:master's_riposte_(level_26)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Longsword",
@@ -3827,14 +2503,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fellblade (longsword)",
@@ -3859,6 +2534,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+13 Enhancement Bonus",
@@ -3868,9 +2544,7 @@
       "Armor-Piercing 20%",
       "Doublestrike 15%",
       "Cold Iron"
-    ],
-    "itemKey": "item:fellblade_(longsword)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Master's Riposte (level 27)",
@@ -3903,6 +2577,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -3922,9 +2597,7 @@
       "Shrieking VII",
       "Solar VI",
       "Nothing"
-    ],
-    "itemKey": "item:master's_riposte_(level_27)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Master's Riposte (level 28)",
@@ -3957,6 +2630,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -3976,9 +2650,7 @@
       "Shrieking VII",
       "Solar VI",
       "Nothing"
-    ],
-    "itemKey": "item:master's_riposte_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Soulrazor",
@@ -4002,6 +2674,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4010,9 +2683,7 @@
       "Entropic 6",
       "Vampirism 3",
       "Psychic Ward"
-    ],
-    "itemKey": "item:soulrazor",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Silver Blade of the Flame",
@@ -4033,6 +2704,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4040,9 +2712,7 @@
       "Coruscating 6",
       "Evil Outsider Bane 6",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:legendary_silver_blade_of_the_flame",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Bitter Edge",
@@ -4065,6 +2735,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4072,9 +2743,7 @@
       "Frostbite",
       "Keen",
       "Icy Blast 6"
-    ],
-    "itemKey": "item:the_bitter_edge",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rauven of the Frost",
@@ -4099,6 +2768,7 @@
       "Red",
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Freezing Ice"
     ],
@@ -4109,9 +2779,7 @@
       "Chilling 6",
       "Icy Blast 6",
       "Improved Destruction"
-    ],
-    "itemKey": "item:rauven_of_the_frost",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Longsword",
@@ -4132,6 +2800,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4139,9 +2808,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Longsword",
@@ -4162,6 +2829,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4169,9 +2837,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Longsword",
@@ -4192,6 +2858,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4199,9 +2866,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Longsword",
@@ -4222,6 +2887,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4229,9 +2895,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Alchemical Longsword",
@@ -4249,14 +2913,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Alchemical Crafting (Prototype)"
     ],
     "namedEffects": [
       "+15 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_alchemical_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Longsword",
@@ -4277,6 +2940,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4284,9 +2948,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Timeblade",
@@ -4310,6 +2972,7 @@
       "Red",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Paralysis",
       "Legendary Slowburst"
@@ -4319,9 +2982,7 @@
       "Doublestrike 16%",
       "Freedom of Movement",
       "Feather Falling"
-    ],
-    "itemKey": "item:legendary_timeblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Sirocco",
@@ -4346,6 +3007,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Telekinetic",
       "Legendary Sirocco",
@@ -4356,9 +3018,7 @@
       "+15 Enhancement Bonus",
       "Force Blast 6",
       "Smoke Screen"
-    ],
-    "itemKey": "item:legendary_sirocco",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Fimbric, Lost Longsword",
@@ -4381,6 +3041,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4388,11 +3056,8 @@
       "Holy 6",
       "Ghost Touch",
       "Silver , Alchemical",
-      "Feather Fall — 3 Charges (Recharged/Day:3)",
-      "Isle of Dread: Scale Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:legendary_fimbric,_lost_longsword",
-    "setMembership": []
+      "Feather Fall — 3 Charges (Recharged/Day:3)"
+    ]
   },
   {
     "name": "Dinosaur Bone Longsword",
@@ -4415,16 +3080,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_longsword",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Longsword",
@@ -4447,16 +3132,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_longsword",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Longsword",
@@ -4479,6 +3184,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4486,9 +3192,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Longsword",
@@ -4512,6 +3216,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -4521,9 +3226,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_longsword",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Fried Sword Fish",
@@ -4546,6 +3249,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4553,9 +3257,7 @@
       "Concentrated Corrosive Salt",
       "Fiery 6",
       "Flaming 15"
-    ],
-    "itemKey": "item:legendary_fried_sword_fish",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Frozen Sword Fish",
@@ -4578,6 +3280,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4585,9 +3288,7 @@
       "Concentrated Corrosive Salt",
       "Chilling 6",
       "Freezing 15"
-    ],
-    "itemKey": "item:legendary_frozen_sword_fish",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Sword Fish",
@@ -4610,6 +3311,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4617,9 +3319,7 @@
       "Concentrated Corrosive Salt",
       "Slashing 6",
       "Gashing 15"
-    ],
-    "itemKey": "item:legendary_sword_fish",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Echo of the Artblade",
@@ -4644,6 +3344,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -4653,9 +3354,7 @@
       "Greater Arcane Casting Dexterity",
       "Quality Potency +27",
       "Sacred Spell Focus Mastery +3"
-    ],
-    "itemKey": "item:legendary_echo_of_the_artblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Echo of the Warblade",
@@ -4679,6 +3378,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Accuracy +5"
     ],
@@ -4688,9 +3388,7 @@
       "Gashing 16",
       "Dripping with Magma",
       "Blade Barrier — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:legendary_echo_of_the_warblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Echo of the Crownblade",
@@ -4715,6 +3413,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4724,9 +3423,7 @@
       "Electrifying 7",
       "Blazing 16",
       "Heal — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:legendary_echo_of_the_crownblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Longsword of the Fallen Age",
@@ -4749,6 +3446,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4756,9 +3454,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Mending Longsword of the Fallen Age",
@@ -4783,6 +3479,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -4792,9 +3489,7 @@
       "Repair Lore +23%",
       "Quality Spell Focus Mastery +2",
       "Insightful Spell Penetration +5"
-    ],
-    "itemKey": "item:legendary_mending_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Kinetic Longsword of the Fallen Age",
@@ -4819,6 +3514,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -4828,9 +3524,7 @@
       "Kinetic Lore +23%",
       "Quality Spell Focus Mastery +2",
       "Insightful Spell Penetration +5"
-    ],
-    "itemKey": "item:legendary_kinetic_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Gleaming Longsword of the Fallen Age",
@@ -4855,6 +3549,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -4864,9 +3559,7 @@
       "Radiance Lore +23%",
       "Quality Spell Focus Mastery +2",
       "Insightful Spell Penetration +5"
-    ],
-    "itemKey": "item:legendary_gleaming_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Freezing Longsword of the Fallen Age",
@@ -4891,6 +3584,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -4900,9 +3594,7 @@
       "Ice Lore +23%",
       "Quality Spell Focus Mastery +2",
       "Insightful Spell Penetration +5"
-    ],
-    "itemKey": "item:legendary_freezing_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Deathly Longsword of the Fallen Age",
@@ -4927,6 +3619,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -4936,9 +3629,7 @@
       "Void Lore +23%",
       "Quality Spell Focus Mastery +2",
       "Insightful Spell Penetration +5"
-    ],
-    "itemKey": "item:legendary_deathly_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Caustic Longsword of the Fallen Age",
@@ -4963,6 +3654,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -4972,9 +3664,7 @@
       "Acid Lore +23%",
       "Quality Spell Focus Mastery +2",
       "Insightful Spell Penetration +5"
-    ],
-    "itemKey": "item:legendary_caustic_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Burning Longsword of the Fallen Age",
@@ -4999,6 +3689,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5008,9 +3699,7 @@
       "Fire Lore +23%",
       "Quality Spell Focus Mastery +2",
       "Insightful Spell Penetration +5"
-    ],
-    "itemKey": "item:legendary_burning_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Blessed Longsword of the Fallen Age",
@@ -5035,6 +3724,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5044,9 +3734,7 @@
       "Healing Lore +23%",
       "Quality Spell Focus Mastery +2",
       "Insightful Spell Penetration +5"
-    ],
-    "itemKey": "item:legendary_blessed_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Booming Longsword of the Fallen Age",
@@ -5071,6 +3759,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5080,9 +3769,7 @@
       "Sonic Lore +23%",
       "Quality Spell Focus Mastery +2",
       "Insightful Spell Penetration +5"
-    ],
-    "itemKey": "item:legendary_booming_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shocking Longsword of the Fallen Age",
@@ -5107,6 +3794,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5116,9 +3804,7 @@
       "Lightning Lore +23%",
       "Quality Spell Focus Mastery +2",
       "Insightful Spell Penetration +5"
-    ],
-    "itemKey": "item:legendary_shocking_longsword_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Gleaming Longsword of the Golden Age",
@@ -5143,6 +3829,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5152,9 +3839,7 @@
       "Insightful Spell Lore V",
       "Profane Spell Focus Mastery +2",
       "Quality Spell Penetration +3"
-    ],
-    "itemKey": "item:legendary_gleaming_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Blessed Longsword of the Golden Age",
@@ -5179,6 +3864,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5188,9 +3874,7 @@
       "Insightful Spell Lore V",
       "Profane Spell Focus Mastery +2",
       "Quality Spell Penetration +3"
-    ],
-    "itemKey": "item:legendary_blessed_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Booming Longsword of the Golden Age",
@@ -5215,6 +3899,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5224,9 +3909,7 @@
       "Insightful Spell Lore V",
       "Profane Spell Focus Mastery +2",
       "Quality Spell Penetration +3"
-    ],
-    "itemKey": "item:legendary_booming_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Burning Longsword of the Golden Age",
@@ -5251,6 +3934,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5260,9 +3944,7 @@
       "Insightful Spell Lore V",
       "Profane Spell Focus Mastery +2",
       "Quality Spell Penetration +3"
-    ],
-    "itemKey": "item:legendary_burning_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Caustic Longsword of the Golden Age",
@@ -5287,6 +3969,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5296,9 +3979,7 @@
       "Insightful Spell Lore V",
       "Profane Spell Focus Mastery +2",
       "Quality Spell Penetration +3"
-    ],
-    "itemKey": "item:legendary_caustic_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Deathly Longsword of the Golden Age",
@@ -5323,6 +4004,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5332,9 +4014,7 @@
       "Insightful Spell Lore V",
       "Profane Spell Focus Mastery +2",
       "Quality Spell Penetration +3"
-    ],
-    "itemKey": "item:legendary_deathly_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Freezing Longsword of the Golden Age",
@@ -5359,6 +4039,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5368,9 +4049,7 @@
       "Insightful Spell Lore V",
       "Profane Spell Focus Mastery +2",
       "Quality Spell Penetration +3"
-    ],
-    "itemKey": "item:legendary_freezing_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Kinetic Longsword of the Golden Age",
@@ -5395,6 +4074,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5404,9 +4084,7 @@
       "Insightful Spell Lore V",
       "Profane Spell Focus Mastery +2",
       "Quality Spell Penetration +3"
-    ],
-    "itemKey": "item:legendary_kinetic_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Mending Longsword of the Golden Age",
@@ -5431,6 +4109,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5440,9 +4119,7 @@
       "Insightful Spell Lore V",
       "Profane Spell Focus Mastery +2",
       "Quality Spell Penetration +3"
-    ],
-    "itemKey": "item:legendary_mending_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shocking Longsword of the Golden Age",
@@ -5467,6 +4144,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5476,9 +4154,7 @@
       "Insightful Spell Lore V",
       "Profane Spell Focus Mastery +2",
       "Quality Spell Penetration +3"
-    ],
-    "itemKey": "item:legendary_shocking_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Longsword of the Golden Age",
@@ -5501,6 +4177,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5508,9 +4185,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_longsword_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Blessed Longsword of the Undying Age",
@@ -5535,6 +4210,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5544,9 +4220,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Sealed in Fire",
       "Spell Lore +13"
-    ],
-    "itemKey": "item:blessed_longsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Booming Longsword of the Undying Age",
@@ -5571,6 +4245,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5580,9 +4255,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Sealed in Fire",
       "Spell Lore +13"
-    ],
-    "itemKey": "item:booming_longsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Burning Longsword of the Undying Age",
@@ -5607,6 +4280,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5616,9 +4290,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Sealed in Fire",
       "Spell Lore +13"
-    ],
-    "itemKey": "item:burning_longsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Caustic Longsword of the Undying Age",
@@ -5643,6 +4315,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5652,9 +4325,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Sealed in Fire",
       "Spell Lore +13"
-    ],
-    "itemKey": "item:caustic_longsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Deathly Longsword of the Undying Age",
@@ -5679,6 +4350,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5688,9 +4360,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Sealed in Fire",
       "Spell Lore +13"
-    ],
-    "itemKey": "item:deathly_longsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Freezing Longsword of the Undying Age",
@@ -5715,6 +4385,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5724,9 +4395,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Sealed in Fire",
       "Spell Lore +13"
-    ],
-    "itemKey": "item:freezing_longsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Gleaming Longsword of the Undying Age",
@@ -5751,6 +4420,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5760,9 +4430,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Sealed in Fire",
       "Spell Lore +13"
-    ],
-    "itemKey": "item:gleaming_longsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Kinetic Longsword of the Undying Age",
@@ -5787,6 +4455,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5796,9 +4465,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Sealed in Fire",
       "Spell Lore +13"
-    ],
-    "itemKey": "item:kinetic_longsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mending Longsword of the Undying Age",
@@ -5823,6 +4490,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5832,9 +4500,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Sealed in Fire",
       "Spell Lore +13"
-    ],
-    "itemKey": "item:mending_longsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shocking Longsword of the Undying Age",
@@ -5859,6 +4525,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -5868,9 +4535,7 @@
       "Exceptional Universal Spell Lore +5%",
       "Sealed in Fire",
       "Spell Lore +13"
-    ],
-    "itemKey": "item:shocking_longsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Reflection of the Crownblade",
@@ -5895,6 +4560,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Radiance"
     ],
@@ -5905,9 +4571,7 @@
       "Quality Devotion +40",
       "Sealed in Fire",
       "The Crownblade's Blessing — 1 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:reflection_of_the_crownblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Reflection of the Warblade",
@@ -5931,6 +4595,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Mineral",
       "Legendary Electric Storm"
@@ -5940,9 +4605,7 @@
       "The Warblade's Wrath",
       "Dripping with Magma",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:reflection_of_the_warblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Reflection of the Artblade",
@@ -5966,6 +4629,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5974,9 +4638,7 @@
       "The Artblade's Gift",
       "Curse Absorption - 10 Charges (Recharged/Day: 10)",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:reflection_of_the_artblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Longsword of the Undying Age",
@@ -5999,6 +4661,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -6006,9 +4669,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:longsword_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Longsword",
@@ -6031,16 +4692,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_longsword",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Longsword",
@@ -6063,16 +4744,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_longsword",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Drysvayla's Razor",
@@ -6095,6 +4796,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -6102,9 +4804,7 @@
       "Toxic 16",
       "Sovereign Vorpal",
       "Dragon's Edge 7"
-    ],
-    "itemKey": "item:legendary_drysvayla's_razor",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Burning Blade of Estelar",
@@ -6127,6 +4827,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -6134,8 +4835,6 @@
       "Flaming 16",
       "Sovereign Vorpal",
       "Dragon's Edge 7"
-    ],
-    "itemKey": "item:legendary_burning_blade_of_estelar",
-    "setMembership": []
+    ]
   }
 ]

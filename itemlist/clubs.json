@@ -12,13 +12,12 @@
       "Dispel Madstone Effects — 50 Charges"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Dispel Madstone Effects — 50 Charges"
-    ],
-    "itemKey": "item:madstone_rod",
-    "setMembership": []
+    ]
   },
   {
     "name": "Wayfinder's Scepter",
@@ -32,12 +31,11 @@
       "Search +1"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Search +1"
-    ],
-    "itemKey": "item:wayfinder's_scepter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bouquet of Flowers",
@@ -51,12 +49,11 @@
       "Good Hope — 20 Charges"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Good Hope — 20 Charges"
-    ],
-    "itemKey": "item:bouquet_of_flowers",
-    "setMembership": []
+    ]
   },
   {
     "name": "Smoldering Cudgel",
@@ -73,15 +70,14 @@
       "Perform +1"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Fire Touch",
       "Spot -5",
       "Command +2",
       "Perform +1"
-    ],
-    "itemKey": "item:smoldering_cudgel",
-    "setMembership": []
+    ]
   },
   {
     "name": "Club of the Holy Flame",
@@ -95,12 +91,11 @@
       "-1 Enhancement Bonus"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "-1 Enhancement Bonus"
-    ],
-    "itemKey": "item:club_of_the_holy_flame",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scepter of Siberys",
@@ -114,12 +109,11 @@
       "Use Magic Device +1"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Use Magic Device +1"
-    ],
-    "itemKey": "item:scepter_of_siberys",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rod of Teleport",
@@ -134,13 +128,12 @@
       "Teleport — 50 Charges (Recharged/Day:None)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Teleport — 50 Charges (Recharged/Day:None)"
-    ],
-    "itemKey": "item:rod_of_teleport",
-    "setMembership": []
+    ]
   },
   {
     "name": "Romag's Club of Earthen Dominion",
@@ -154,12 +147,11 @@
       "Mastery over Earth Elementals"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Mastery over Earth Elementals"
-    ],
-    "itemKey": "item:romag's_club_of_earthen_dominion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Short Broom of Mystery",
@@ -173,12 +165,11 @@
       "Purple Faerie Fire — 3 Charges (Recharged/Day:1)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Purple Faerie Fire — 3 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:short_broom_of_mystery",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rod of Greater Teleport",
@@ -193,13 +184,12 @@
       "Greater Teleport — 50 Charges"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Greater Teleport — 50 Charges"
-    ],
-    "itemKey": "item:rod_of_greater_teleport",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rod of Heal Light Wounds",
@@ -214,13 +204,12 @@
       "Heal Light Wounds — 50 Charges"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Heal Light Wounds — 50 Charges"
-    ],
-    "itemKey": "item:rod_of_heal_light_wounds",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Balance Bat",
@@ -236,10 +225,9 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
-    "namedEffects": [],
-    "itemKey": "item:the_balance_bat",
-    "setMembership": []
+    "namedEffects": []
   },
   {
     "name": "Muckbane",
@@ -257,13 +245,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Lesser Ooze Bane"
-    ],
-    "itemKey": "item:muckbane",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sceptre of Corrosion",
@@ -283,15 +270,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +2",
       "+1 Enhancement Bonus",
       "Acid Lore +6%",
       "Corrosion +43"
-    ],
-    "itemKey": "item:sceptre_of_corrosion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sceptre of Impulse",
@@ -311,15 +297,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +2",
       "+1 Enhancement Bonus",
       "Kinetic Lore +6%",
       "Impulse +43"
-    ],
-    "itemKey": "item:sceptre_of_impulse",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sceptre of Nullification",
@@ -339,15 +324,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +2",
       "+1 Enhancement Bonus",
       "Void Lore +6%",
       "Nullification +43"
-    ],
-    "itemKey": "item:sceptre_of_nullification",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sceptre of Devotion",
@@ -367,15 +351,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +2",
       "+1 Enhancement Bonus",
       "Healing Lore +6%",
       "Devotion +43"
-    ],
-    "itemKey": "item:sceptre_of_devotion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sceptre of Combustion",
@@ -395,15 +378,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +2",
       "+1 Enhancement Bonus",
       "Fire Lore +6%",
       "Combustion +43"
-    ],
-    "itemKey": "item:sceptre_of_combustion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Club",
@@ -421,13 +403,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sceptre of Magnetism",
@@ -447,15 +428,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +2",
       "+1 Enhancement Bonus",
       "Lightning Lore +6%",
       "Magnetism +43"
-    ],
-    "itemKey": "item:sceptre_of_magnetism",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sceptre of Resonation",
@@ -475,15 +455,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +2",
       "+1 Enhancement Bonus",
       "Sonic Lore +6%",
       "Resonance +43"
-    ],
-    "itemKey": "item:sceptre_of_resonation",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sceptre of Radiance",
@@ -503,15 +482,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +2",
       "+1 Enhancement Bonus",
       "Radiance Lore +6%",
       "Radiance +43"
-    ],
-    "itemKey": "item:sceptre_of_radiance",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sceptre of Glaciation",
@@ -531,15 +509,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +2",
       "+1 Enhancement Bonus",
       "Ice Lore +6%",
       "Glaciation +43"
-    ],
-    "itemKey": "item:sceptre_of_glaciation",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Club",
@@ -557,13 +534,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sceptre of Reconstruction",
@@ -583,15 +559,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +2",
       "+1 Enhancement Bonus",
       "Repair Lore +6%",
       "Reconstruction +43"
-    ],
-    "itemKey": "item:sceptre_of_reconstruction",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rod of Heal Moderate Wounds",
@@ -606,13 +581,12 @@
       "Heal Moderate Wounds — 50 Charges"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Heal Moderate Wounds — 50 Charges"
-    ],
-    "itemKey": "item:rod_of_heal_moderate_wounds",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fish Stick",
@@ -634,6 +608,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +3",
@@ -642,9 +617,7 @@
       "Kinetic Lore +8%",
       "Mystic Diversion +5%",
       "Insightful Mystic Diversion +2%"
-    ],
-    "itemKey": "item:fish_stick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fried Fish Stick",
@@ -666,6 +639,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +3",
@@ -674,9 +648,7 @@
       "Fire Lore +8%",
       "Quality Impulse +12",
       "Insightful Evocation Focus +1"
-    ],
-    "itemKey": "item:fried_fish_stick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Frozen Fish Stick",
@@ -698,6 +670,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +3",
@@ -706,9 +679,7 @@
       "Ice Lore +8%",
       "Insightful Impulse +26",
       "Evocation Focus +2"
-    ],
-    "itemKey": "item:frozen_fish_stick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lesser Oblivion",
@@ -730,6 +701,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +4",
@@ -738,9 +710,7 @@
       "Nullification +56",
       "Void Lore +8%",
       "Heal +7"
-    ],
-    "itemKey": "item:lesser_oblivion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Necrotic Forum Post (level 5)",
@@ -762,6 +732,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +5",
@@ -770,9 +741,7 @@
       "Void Lore +9%",
       "Insightful Necromancy Focus +1",
       "Wizardry +71"
-    ],
-    "itemKey": "item:necrotic_forum_post_(level_5)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flaming Forum Post (level 5)",
@@ -794,6 +763,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +5",
@@ -802,9 +772,7 @@
       "Fire Lore +9%",
       "Insightful Evocation Focus +1",
       "Wizardry +71"
-    ],
-    "itemKey": "item:flaming_forum_post_(level_5)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Caustic Forum Post (level 5)",
@@ -826,6 +794,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +5",
@@ -834,9 +803,7 @@
       "Acid Lore +9%",
       "Insightful Evocation Focus +1",
       "Wizardry +71"
-    ],
-    "itemKey": "item:caustic_forum_post_(level_5)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Icy Forum Post (level 5)",
@@ -858,6 +825,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +5",
@@ -866,9 +834,7 @@
       "Ice Lore +9%",
       "Insightful Evocation Focus +1",
       "Wizardry +71"
-    ],
-    "itemKey": "item:icy_forum_post_(level_5)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Clamorous Forum Post (level 5)",
@@ -890,6 +856,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +5",
@@ -898,9 +865,7 @@
       "Sonic Lore +9%",
       "Insightful Evocation Focus +1",
       "Wizardry +71"
-    ],
-    "itemKey": "item:clamorous_forum_post_(level_5)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shocking Forum Post (level 5)",
@@ -922,6 +887,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +5",
@@ -930,9 +896,7 @@
       "Lightning Lore +9%",
       "Insightful Evocation Focus +1",
       "Wizardry +71"
-    ],
-    "itemKey": "item:shocking_forum_post_(level_5)",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Queen's Sceptre",
@@ -954,6 +918,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +5",
@@ -962,9 +927,7 @@
       "Insightful Potency +16",
       "Spellcraft +7",
       "Insightful Spellcraft +3"
-    ],
-    "itemKey": "item:the_queen's_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Prince's Sceptre",
@@ -985,6 +948,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -992,9 +956,7 @@
       "Insightful Spell Focus Mastery +1",
       "Spell Penetration +3",
       "Insightful Spell Penetration +2"
-    ],
-    "itemKey": "item:the_prince's_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Club",
@@ -1015,6 +977,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -1022,9 +985,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Club",
@@ -1045,6 +1006,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -1052,9 +1014,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rod of Heal Serious Wounds",
@@ -1069,13 +1029,12 @@
       "Heal Serious Wounds — 50 Charges"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Heal Serious Wounds — 50 Charges"
-    ],
-    "itemKey": "item:rod_of_heal_serious_wounds",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fist of Daarguul",
@@ -1094,14 +1053,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Lesser Goblinoid Bane",
       "Intimidate +7"
-    ],
-    "itemKey": "item:fist_of_daarguul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Boneshard Flute",
@@ -1119,13 +1077,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Perform +8"
-    ],
-    "itemKey": "item:boneshard_flute",
-    "setMembership": []
+    ]
   },
   {
     "name": "Muck's Doom",
@@ -1143,13 +1100,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Ooze Bane"
-    ],
-    "itemKey": "item:muck's_doom",
-    "setMembership": []
+    ]
   },
   {
     "name": "Cranium Cracker",
@@ -1170,6 +1126,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -1177,9 +1134,7 @@
       "Vampirism",
       "Hardened Spikes",
       "Destruction"
-    ],
-    "itemKey": "item:cranium_cracker",
-    "setMembership": []
+    ]
   },
   {
     "name": "Captain's Spyglass",
@@ -1202,6 +1157,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +7",
@@ -1211,9 +1167,7 @@
       "Spot +9",
       "Good Luck +1",
       "The Dread Isle's Curse"
-    ],
-    "itemKey": "item:captain's_spyglass",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rod of Heal Critical Wounds",
@@ -1228,13 +1182,12 @@
       "Heal Critical Wounds — 50 Charges"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Heal Critical Wounds — 50 Charges"
-    ],
-    "itemKey": "item:rod_of_heal_critical_wounds",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Club",
@@ -1255,16 +1208,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_club",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Calamitous Sceptre",
@@ -1285,16 +1253,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Quality Mystic Diversion +1%",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_sceptre",
-    "setMembership": []
+      "Quality Mystic Diversion +1%"
+    ]
   },
   {
     "name": "Cruel Baton",
@@ -1315,6 +1298,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -1322,9 +1306,7 @@
       "Manslayer",
       "Lesser Boneshatter",
       "Bludgeoning 2"
-    ],
-    "itemKey": "item:cruel_baton",
-    "setMembership": []
+    ]
   },
   {
     "name": "Celestial Beacon",
@@ -1346,6 +1328,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +9",
@@ -1354,9 +1337,7 @@
       "Radiance Lore +11%",
       "Hallowed +5",
       "Magical Efficiency 5%"
-    ],
-    "itemKey": "item:celestial_beacon",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scepter of the Fleshweaver",
@@ -1376,6 +1357,7 @@
       "Stone to Flesh — 3 Charges (Recharged/Day:3)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +10",
@@ -1385,9 +1367,7 @@
       "Devotion +77",
       "Fragmented",
       "Stone to Flesh — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:scepter_of_the_fleshweaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Club of the Holy Flame (starter)",
@@ -1404,15 +1384,14 @@
       "Potency +44"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "-1 Enhancement Bonus",
       "Starter",
       "Greater Good",
       "Potency +44"
-    ],
-    "itemKey": "item:club_of_the_holy_flame_(starter)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Necrotic Forum Post (level 10)",
@@ -1434,6 +1413,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +10",
@@ -1442,9 +1422,7 @@
       "Void Lore +11%",
       "Insightful Necromancy Focus +2",
       "Wizardry +112"
-    ],
-    "itemKey": "item:necrotic_forum_post_(level_10)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shocking Forum Post (level 10)",
@@ -1466,6 +1444,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +10",
@@ -1474,9 +1453,7 @@
       "Lightning Lore +11%",
       "Insightful Evocation Focus +2",
       "Wizardry +112"
-    ],
-    "itemKey": "item:shocking_forum_post_(level_10)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Sceptre",
@@ -1498,6 +1475,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +10",
@@ -1506,9 +1484,7 @@
       "Insightful Potency +23",
       "Spellcraft +12",
       "Insightful Spellcraft +6"
-    ],
-    "itemKey": "item:barovian's_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Caustic Forum Post (level 10)",
@@ -1530,6 +1506,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +10",
@@ -1538,9 +1515,7 @@
       "Acid Lore +11%",
       "Insightful Evocation Focus +2",
       "Wizardry +112"
-    ],
-    "itemKey": "item:caustic_forum_post_(level_10)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Icy Forum Post (level 10)",
@@ -1562,6 +1537,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +10",
@@ -1570,9 +1546,7 @@
       "Ice Lore +11%",
       "Insightful Evocation Focus +2",
       "Wizardry +112"
-    ],
-    "itemKey": "item:icy_forum_post_(level_10)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Clamorous Forum Post (level 10)",
@@ -1594,6 +1568,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +10",
@@ -1602,9 +1577,7 @@
       "Sonic Lore +11%",
       "Insightful Evocation Focus +2",
       "Wizardry +112"
-    ],
-    "itemKey": "item:clamorous_forum_post_(level_10)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flaming Forum Post (level 10)",
@@ -1626,6 +1599,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +10",
@@ -1634,9 +1608,7 @@
       "Fire Lore +11%",
       "Insightful Evocation Focus +2",
       "Wizardry +112"
-    ],
-    "itemKey": "item:flaming_forum_post_(level_10)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Sceptre",
@@ -1657,6 +1629,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1664,9 +1637,7 @@
       "Insightful Spell Focus Mastery +1",
       "Spell Penetration +4",
       "Insightful Spell Penetration +2"
-    ],
-    "itemKey": "item:macabre_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rod of Enhanced Heal Critical Wounds",
@@ -1681,13 +1652,12 @@
       "Enhanced Heal Critical Wounds — 50 Charges"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Enhanced Heal Critical Wounds — 50 Charges"
-    ],
-    "itemKey": "item:rod_of_enhanced_heal_critical_wounds",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crystalline Scepter (level 12)",
@@ -1705,6 +1675,7 @@
       "Evocation Focus I"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -1712,9 +1683,7 @@
       "Combustion +66",
       "Fire Lore III",
       "Evocation Focus I"
-    ],
-    "itemKey": "item:crystalline_scepter_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Runed Ogre Femur",
@@ -1732,13 +1701,12 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Anti-Magic Runes"
-    ],
-    "itemKey": "item:runed_ogre_femur",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scepter of the Ogre Magi",
@@ -1761,6 +1729,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -1770,9 +1739,7 @@
       "Healing Lore +12%",
       "Fragmented",
       "Cone of Cold — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:scepter_of_the_ogre_magi",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Sceptre",
@@ -1787,13 +1754,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Sceptre",
@@ -1808,13 +1774,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fusible Sceptre of Corrosion",
@@ -1837,6 +1802,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -1846,9 +1812,7 @@
       "Insightful Corrosion +42",
       "Conjuration Focus +3",
       "Fusible"
-    ],
-    "itemKey": "item:fusible_sceptre_of_corrosion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Malleable Sceptre of Devotion",
@@ -1871,6 +1835,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -1880,9 +1845,7 @@
       "Insightful Devotion +42",
       "Physical Sheltering +16",
       "Malleable"
-    ],
-    "itemKey": "item:malleable_sceptre_of_devotion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Malleable Sceptre of Reconstruction",
@@ -1905,6 +1868,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -1914,9 +1878,7 @@
       "Insightful Reconstruction +42",
       "False Life +24",
       "Malleable"
-    ],
-    "itemKey": "item:malleable_sceptre_of_reconstruction",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fusible Sceptre of Glaciation",
@@ -1939,6 +1901,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -1948,9 +1911,7 @@
       "Insightful Glaciation +42",
       "Evocation Focus +3",
       "Fusible"
-    ],
-    "itemKey": "item:fusible_sceptre_of_glaciation",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fusible Sceptre of Magnetism",
@@ -1973,6 +1934,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -1982,9 +1944,7 @@
       "Insightful Magnetism +42",
       "Evocation Focus +3",
       "Fusible"
-    ],
-    "itemKey": "item:fusible_sceptre_of_magnetism",
-    "setMembership": []
+    ]
   },
   {
     "name": "Malleable Sceptre of Resonation",
@@ -2007,6 +1967,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2016,9 +1977,7 @@
       "Insightful Resonance +42",
       "Magical Sheltering +16",
       "Malleable"
-    ],
-    "itemKey": "item:malleable_sceptre_of_resonation",
-    "setMembership": []
+    ]
   },
   {
     "name": "Malleable Sceptre of Nullification",
@@ -2041,6 +2000,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2050,9 +2010,7 @@
       "Insightful Nullification +42",
       "Necromancy Focus +3",
       "Malleable"
-    ],
-    "itemKey": "item:malleable_sceptre_of_nullification",
-    "setMembership": []
+    ]
   },
   {
     "name": "Malleable Sceptre of Radiance",
@@ -2075,6 +2033,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2084,9 +2043,7 @@
       "Insightful Radiance +42",
       "Insightful Wizardry +64",
       "Malleable"
-    ],
-    "itemKey": "item:malleable_sceptre_of_radiance",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fusible Sceptre of Combustion",
@@ -2109,6 +2066,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2118,9 +2076,7 @@
       "Insightful Combustion +42",
       "Evocation Focus +3",
       "Fusible"
-    ],
-    "itemKey": "item:fusible_sceptre_of_combustion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fusible Sceptre of Impulse",
@@ -2143,6 +2099,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2152,9 +2109,7 @@
       "Insightful Impulse +42",
       "Evocation Focus +3",
       "Fusible"
-    ],
-    "itemKey": "item:fusible_sceptre_of_impulse",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crystalline Scepter (level 13)",
@@ -2172,6 +2127,7 @@
       "Evocation Focus I"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +12",
@@ -2179,9 +2135,7 @@
       "Combustion +72",
       "Fire Lore III",
       "Evocation Focus I"
-    ],
-    "itemKey": "item:crystalline_scepter_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rod of Mythant",
@@ -2204,6 +2158,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -2213,9 +2168,7 @@
       "Impulse +66",
       "Wizardry III",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:rod_of_mythant",
-    "setMembership": []
+    ]
   },
   {
     "name": "Club of the Fallen Age",
@@ -2236,6 +2189,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2243,9 +2197,7 @@
       "Anarchic 3",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:club_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Club of the Golden Age",
@@ -2266,6 +2218,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2273,9 +2226,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:club_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Radiant Arc",
@@ -2295,6 +2246,7 @@
       "Blinding Flash — 3 Charges (Recharged/Day:3)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -2304,9 +2256,7 @@
       "Potency +56",
       "Metalline",
       "Blinding Flash — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:radiant_arc",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scepter of Mad Trickery",
@@ -2324,6 +2274,7 @@
       "Mind Turbulence"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2331,9 +2282,7 @@
       "Enchantment Focus II",
       "Spell Penetration II",
       "Mind Turbulence"
-    ],
-    "itemKey": "item:scepter_of_mad_trickery",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crystalline Scepter (level 14)",
@@ -2351,6 +2300,7 @@
       "Evocation Focus I"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -2358,9 +2308,7 @@
       "Combustion +72",
       "Fire Lore IV",
       "Evocation Focus I"
-    ],
-    "itemKey": "item:crystalline_scepter_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Lilting Song",
@@ -2383,6 +2331,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +14",
@@ -2392,9 +2341,7 @@
       "Sonic Lore +13%",
       "Evocation Focus +3",
       "Enchantment Focus +3"
-    ],
-    "itemKey": "item:lilting_song",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shocking Forum Post (level 15)",
@@ -2416,6 +2363,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -2424,9 +2372,7 @@
       "Lightning Lore +14%",
       "Insightful Evocation Focus +2",
       "Wizardry +154"
-    ],
-    "itemKey": "item:shocking_forum_post_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Necrotic Forum Post (level 15)",
@@ -2448,6 +2394,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -2456,9 +2403,7 @@
       "Void Lore +14%",
       "Insightful Necromancy Focus +2",
       "Wizardry +154"
-    ],
-    "itemKey": "item:necrotic_forum_post_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Caustic Forum Post (level 15)",
@@ -2480,6 +2425,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -2488,9 +2434,7 @@
       "Acid Lore +14%",
       "Insightful Evocation Focus +2",
       "Wizardry +154"
-    ],
-    "itemKey": "item:caustic_forum_post_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Icy Forum Post (level 15)",
@@ -2512,6 +2456,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -2520,9 +2465,7 @@
       "Ice Lore +14%",
       "Insightful Evocation Focus +2",
       "Wizardry +154"
-    ],
-    "itemKey": "item:icy_forum_post_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Clamorous Forum Post (level 15)",
@@ -2544,6 +2487,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -2552,9 +2496,7 @@
       "Sonic Lore +14%",
       "Insightful Evocation Focus +2",
       "Wizardry +154"
-    ],
-    "itemKey": "item:clamorous_forum_post_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flaming Forum Post (level 15)",
@@ -2576,6 +2518,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +15",
@@ -2584,9 +2527,7 @@
       "Fire Lore +14%",
       "Insightful Evocation Focus +2",
       "Wizardry +154"
-    ],
-    "itemKey": "item:flaming_forum_post_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Club",
@@ -2607,6 +2548,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2614,9 +2556,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flameward",
@@ -2636,6 +2576,7 @@
       "Exceptional Charisma +1"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2645,9 +2586,7 @@
       "Fire Absorption +24%",
       "Fire Resistance +30",
       "Exceptional Charisma +1"
-    ],
-    "itemKey": "item:flameward",
-    "setMembership": []
+    ]
   },
   {
     "name": "Rod of Superior Healing",
@@ -2662,13 +2601,12 @@
       "Superior Healing — 50 Charges"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Superior Healing — 50 Charges"
-    ],
-    "itemKey": "item:rod_of_superior_healing",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Blessed Sceptre",
@@ -2690,6 +2628,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -2698,9 +2637,7 @@
       "Healing Lore +15%",
       "Mystic Diversion +14%",
       "Quality Wizardry +44"
-    ],
-    "itemKey": "item:shining_reliquary_blessed_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Booming Sceptre",
@@ -2722,6 +2659,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -2730,9 +2668,7 @@
       "Sonic Lore +15%",
       "Mystic Diversion +14%",
       "Quality Wizardry +44"
-    ],
-    "itemKey": "item:shining_reliquary_booming_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Burning Sceptre",
@@ -2754,6 +2690,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -2762,9 +2699,7 @@
       "Fire Lore +15%",
       "Mystic Diversion +14%",
       "Quality Wizardry +44"
-    ],
-    "itemKey": "item:shining_reliquary_burning_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Caustic Sceptre",
@@ -2786,6 +2721,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -2794,9 +2730,7 @@
       "Acid Lore +15%",
       "Mystic Diversion +14%",
       "Quality Wizardry +44"
-    ],
-    "itemKey": "item:shining_reliquary_caustic_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Club",
@@ -2817,6 +2751,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -2824,9 +2759,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Deathly Sceptre",
@@ -2848,6 +2781,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -2856,9 +2790,7 @@
       "Void Lore +15%",
       "Mystic Diversion +14%",
       "Quality Wizardry +44"
-    ],
-    "itemKey": "item:shining_reliquary_deathly_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Freezing Sceptre",
@@ -2880,6 +2812,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -2888,9 +2821,7 @@
       "Ice Lore +15%",
       "Mystic Diversion +14%",
       "Quality Wizardry +44"
-    ],
-    "itemKey": "item:shining_reliquary_freezing_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Gleaming Sceptre",
@@ -2912,6 +2843,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -2920,9 +2852,7 @@
       "Radiance Lore +15%",
       "Mystic Diversion +14%",
       "Quality Wizardry +44"
-    ],
-    "itemKey": "item:shining_reliquary_gleaming_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Kinetic Sceptre",
@@ -2944,6 +2874,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -2952,9 +2883,7 @@
       "Kinetic Lore +15%",
       "Mystic Diversion +14%",
       "Quality Wizardry +44"
-    ],
-    "itemKey": "item:shining_reliquary_kinetic_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Mending Sceptre",
@@ -2976,6 +2905,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -2984,9 +2914,7 @@
       "Repair Lore +15%",
       "Mystic Diversion +14%",
       "Quality Wizardry +44"
-    ],
-    "itemKey": "item:shining_reliquary_mending_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Shocking Sceptre",
@@ -3008,6 +2936,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3016,9 +2945,7 @@
       "Lightning Lore +15%",
       "Mystic Diversion +14%",
       "Quality Wizardry +44"
-    ],
-    "itemKey": "item:shining_reliquary_shocking_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Blessed Sceptre",
@@ -3040,6 +2967,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3048,9 +2976,7 @@
       "Healing Lore +15%",
       "Efficient Metamagic - Maximize I",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_blessed_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Booming Sceptre",
@@ -3072,6 +2998,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3080,9 +3007,7 @@
       "Sonic Lore +15%",
       "Efficient Metamagic - Maximize I",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_booming_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Burning Sceptre",
@@ -3104,6 +3029,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3112,9 +3038,7 @@
       "Fire Lore +15%",
       "Efficient Metamagic - Maximize I",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_burning_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Caustic Sceptre",
@@ -3136,6 +3060,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3144,9 +3069,7 @@
       "Acid Lore +15%",
       "Efficient Metamagic - Maximize I",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_caustic_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Club",
@@ -3167,6 +3090,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3174,9 +3098,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Deathly Sceptre",
@@ -3198,6 +3120,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3206,9 +3129,7 @@
       "Void Lore +15%",
       "Efficient Metamagic - Maximize I",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_deathly_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Freezing Sceptre",
@@ -3230,6 +3151,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3238,9 +3160,7 @@
       "Ice Lore +15%",
       "Efficient Metamagic - Maximize I",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_freezing_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Gleaming Sceptre",
@@ -3262,6 +3182,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3270,9 +3191,7 @@
       "Radiance Lore +15%",
       "Efficient Metamagic - Maximize I",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_gleaming_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Kinetic Sceptre",
@@ -3294,6 +3213,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3302,9 +3222,7 @@
       "Kinetic Lore +15%",
       "Efficient Metamagic - Maximize I",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_kinetic_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Mending Sceptre",
@@ -3326,6 +3244,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3334,9 +3253,7 @@
       "Repair Lore +15%",
       "Efficient Metamagic - Maximize I",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_mending_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Shocking Sceptre",
@@ -3358,6 +3275,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3366,9 +3284,7 @@
       "Lightning Lore +15%",
       "Efficient Metamagic - Maximize I",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_shocking_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Date Night Bouquet",
@@ -3390,6 +3306,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3398,9 +3315,7 @@
       "Insightful Resonance +52",
       "Sonic Lore +15%",
       "Exceptional Universal Spell Lore +3%"
-    ],
-    "itemKey": "item:date_night_bouquet",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pale Rod",
@@ -3418,6 +3333,7 @@
       "Light Resistance +20"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
@@ -3425,9 +3341,7 @@
       "Nullification +90",
       "Void Lore VI",
       "Light Resistance +20"
-    ],
-    "itemKey": "item:pale_rod",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Flameward",
@@ -3450,6 +3364,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -3459,9 +3374,7 @@
       "Fire Absorption +27%",
       "Fire Resistance +36",
       "Exceptional Charisma +1"
-    ],
-    "itemKey": "item:epic_flameward",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shocking Forum Post (level 20)",
@@ -3483,6 +3396,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3491,9 +3405,7 @@
       "Lightning Lore +16%",
       "Insightful Evocation Focus +2",
       "Wizardry +195"
-    ],
-    "itemKey": "item:shocking_forum_post_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Necrotic Forum Post (level 20)",
@@ -3515,6 +3427,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3523,9 +3436,7 @@
       "Void Lore +16%",
       "Insightful Necromancy Focus +2",
       "Wizardry +195"
-    ],
-    "itemKey": "item:necrotic_forum_post_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Icy Forum Post (level 20)",
@@ -3547,6 +3458,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3555,9 +3467,7 @@
       "Ice Lore +16%",
       "Insightful Evocation Focus +2",
       "Wizardry +195"
-    ],
-    "itemKey": "item:icy_forum_post_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flaming Forum Post (level 20)",
@@ -3579,6 +3489,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3587,9 +3498,7 @@
       "Fire Lore +16%",
       "Insightful Evocation Focus +2",
       "Wizardry +195"
-    ],
-    "itemKey": "item:flaming_forum_post_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Caustic Forum Post (level 20)",
@@ -3611,6 +3520,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3619,9 +3529,7 @@
       "Acid Lore +16%",
       "Insightful Evocation Focus +2",
       "Wizardry +195"
-    ],
-    "itemKey": "item:caustic_forum_post_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Clamorous Forum Post (level 20)",
@@ -3643,6 +3551,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3651,9 +3560,7 @@
       "Sonic Lore +16%",
       "Insightful Evocation Focus +2",
       "Wizardry +195"
-    ],
-    "itemKey": "item:clamorous_forum_post_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sceptre of Magnetism",
@@ -3675,6 +3582,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3683,9 +3591,7 @@
       "Magnetism +111",
       "Insightful Magnetism +55",
       "Insightful Wizardry +97"
-    ],
-    "itemKey": "item:epic_sceptre_of_magnetism",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sceptre of Combustion",
@@ -3707,6 +3613,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3715,9 +3622,7 @@
       "Combustion +111",
       "Insightful Combustion +55",
       "Insightful Wizardry +97"
-    ],
-    "itemKey": "item:epic_sceptre_of_combustion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sceptre of Glaciation",
@@ -3739,6 +3644,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3747,9 +3653,7 @@
       "Glaciation +111",
       "Insightful Glaciation +55",
       "Insightful Wizardry +97"
-    ],
-    "itemKey": "item:epic_sceptre_of_glaciation",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sceptre of Corrosion",
@@ -3771,6 +3675,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3779,9 +3684,7 @@
       "Corrosion +111",
       "Insightful Corrosion +55",
       "Insightful Wizardry +97"
-    ],
-    "itemKey": "item:epic_sceptre_of_corrosion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sceptre of Nullification",
@@ -3803,6 +3706,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3811,9 +3715,7 @@
       "Nullification +111",
       "Insightful Nullification +55",
       "Insightful Wizardry +97"
-    ],
-    "itemKey": "item:epic_sceptre_of_nullification",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sceptre of Radiance",
@@ -3835,6 +3737,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3843,9 +3746,7 @@
       "Radiance +111",
       "Insightful Radiance +55",
       "Insightful Wizardry +97"
-    ],
-    "itemKey": "item:epic_sceptre_of_radiance",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sceptre of Resonation",
@@ -3867,6 +3768,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3875,9 +3777,7 @@
       "Resonance +111",
       "Insightful Resonance +55",
       "Insightful Wizardry +97"
-    ],
-    "itemKey": "item:epic_sceptre_of_resonation",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sceptre of Impulse",
@@ -3899,6 +3799,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3907,9 +3808,7 @@
       "Impulse +111",
       "Insightful Impulse +55",
       "Insightful Wizardry +97"
-    ],
-    "itemKey": "item:epic_sceptre_of_impulse",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sceptre of Devotion",
@@ -3931,6 +3830,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3939,9 +3839,7 @@
       "Devotion +111",
       "Insightful Devotion +55",
       "Insightful Wizardry +97"
-    ],
-    "itemKey": "item:epic_sceptre_of_devotion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sceptre of Reconstruction",
@@ -3963,6 +3861,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -3971,9 +3870,7 @@
       "Reconstruction +111",
       "Insightful Reconstruction +55",
       "Insightful Wizardry +97"
-    ],
-    "itemKey": "item:epic_sceptre_of_reconstruction",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Club",
@@ -3994,6 +3891,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -4001,9 +3899,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Club",
@@ -4024,6 +3920,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -4031,9 +3928,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Scepter",
@@ -4051,13 +3946,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_scepter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Club",
@@ -4075,13 +3969,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crystalline Scepter (level 23)",
@@ -4101,15 +3994,14 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +18",
       "+6 Enhancement Bonus",
       "Combustion +108",
       "Fire Lore VI"
-    ],
-    "itemKey": "item:crystalline_scepter_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Arcanum Stave",
@@ -4131,6 +4023,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +23",
@@ -4139,9 +4032,7 @@
       "Impulse +122",
       "Wizardry +220",
       "Potency +82"
-    ],
-    "itemKey": "item:epic_arcanum_stave",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Holistic Stave",
@@ -4163,6 +4054,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +23",
@@ -4171,9 +4063,7 @@
       "Devotion +122",
       "Competence Healing Amplification +43",
       "Equipment Healing Amplification +22"
-    ],
-    "itemKey": "item:epic_holistic_stave",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drowned Priest's Torch",
@@ -4195,15 +4085,14 @@
       "Yellow",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +21",
       "+7 Enhancement Bonus",
       "Combustion +114",
       "Insightful Faith"
-    ],
-    "itemKey": "item:drowned_priest's_torch",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crystalline Scepter (level 24)",
@@ -4223,15 +4112,14 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +21",
       "+7 Enhancement Bonus",
       "Combustion +114",
       "Fire Lore VI"
-    ],
-    "itemKey": "item:crystalline_scepter_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crystalline Scepter (level 25)",
@@ -4252,6 +4140,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +21",
@@ -4259,9 +4148,7 @@
       "Combustion +120",
       "Fire Lore VI",
       "Evocation Focus III"
-    ],
-    "itemKey": "item:crystalline_scepter_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Broccoli Bashers",
@@ -4283,6 +4170,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -4291,9 +4179,7 @@
       "Smashing 12",
       "Everbright",
       "Blinding Flash — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:broccoli_bashers",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shocking Forum Post (level 25)",
@@ -4315,6 +4201,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +25",
@@ -4323,9 +4210,7 @@
       "Lightning Lore +19%",
       "Insightful Evocation Focus +3",
       "Wizardry +236"
-    ],
-    "itemKey": "item:shocking_forum_post_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Clamorous Forum Post (level 25)",
@@ -4347,6 +4232,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +25",
@@ -4355,9 +4241,7 @@
       "Sonic Lore +19%",
       "Insightful Evocation Focus +3",
       "Wizardry +236"
-    ],
-    "itemKey": "item:clamorous_forum_post_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Icy Forum Post (level 25)",
@@ -4379,6 +4263,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +25",
@@ -4387,9 +4272,7 @@
       "Ice Lore +19%",
       "Insightful Evocation Focus +3",
       "Wizardry +236"
-    ],
-    "itemKey": "item:icy_forum_post_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Boneshard Flute",
@@ -4411,6 +4294,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +25",
@@ -4419,9 +4303,7 @@
       "Sonic Lore +19%",
       "Resonance +128",
       "Control Undead — 3 Charges (Recharged/Day:3)"
-    ],
-    "itemKey": "item:epic_boneshard_flute",
-    "setMembership": []
+    ]
   },
   {
     "name": "Necrotic Forum Post (level 25)",
@@ -4443,6 +4325,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +25",
@@ -4451,9 +4334,7 @@
       "Void Lore +19%",
       "Insightful Necromancy Focus +3",
       "Wizardry +236"
-    ],
-    "itemKey": "item:necrotic_forum_post_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flaming Forum Post (level 25)",
@@ -4475,6 +4356,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +25",
@@ -4483,9 +4365,7 @@
       "Fire Lore +19%",
       "Insightful Evocation Focus +3",
       "Wizardry +236"
-    ],
-    "itemKey": "item:flaming_forum_post_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Caustic Forum Post (level 25)",
@@ -4507,6 +4387,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +25",
@@ -4515,9 +4396,7 @@
       "Acid Lore +19%",
       "Insightful Evocation Focus +3",
       "Wizardry +236"
-    ],
-    "itemKey": "item:caustic_forum_post_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Cranium Cracker",
@@ -4538,6 +4417,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -4545,9 +4425,7 @@
       "Vampirism",
       "Hardened Spikes",
       "Improved Destruction"
-    ],
-    "itemKey": "item:epic_cranium_cracker",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Sceptre",
@@ -4562,14 +4440,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Rod of Mythant",
@@ -4592,6 +4469,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +36",
@@ -4601,9 +4479,7 @@
       "Impulse +150",
       "Wizardry XI",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:epic_rod_of_mythant",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spiral, the Voice of the Elements",
@@ -4628,6 +4504,7 @@
       "Orange",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +28",
@@ -4637,9 +4514,7 @@
       "Glaciation +145",
       "Magnetism +145",
       "Corrosion +145"
-    ],
-    "itemKey": "item:spiral,_the_voice_of_the_elements",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Sceptre",
@@ -4660,6 +4535,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4667,9 +4543,7 @@
       "Insightful Spell Focus Mastery +2",
       "Spell Penetration +8",
       "Insightful Spell Penetration +4"
-    ],
-    "itemKey": "item:nightmother's_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Celestial Beacon",
@@ -4691,6 +4565,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -4699,9 +4574,7 @@
       "Radiance Lore +21%",
       "Hallowed +13",
       "Magical Efficiency 10%"
-    ],
-    "itemKey": "item:legendary_celestial_beacon",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Lilting Song",
@@ -4724,6 +4597,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -4733,9 +4607,7 @@
       "Sonic Lore +21%",
       "Evocation Focus +5",
       "Enchantment Focus +5"
-    ],
-    "itemKey": "item:legendary_lilting_song",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Sceptre",
@@ -4757,6 +4629,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -4765,9 +4638,7 @@
       "Insightful Potency +49",
       "Spellcraft +20",
       "Insightful Spellcraft +10"
-    ],
-    "itemKey": "item:morninglord's_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Club",
@@ -4788,6 +4659,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4795,9 +4667,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Legendary Prince's Sceptre",
@@ -4818,6 +4688,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -4825,9 +4696,7 @@
       "Insightful Spell Focus Mastery +2",
       "Spell Penetration +8",
       "Insightful Spell Penetration +4"
-    ],
-    "itemKey": "item:the_legendary_prince's_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Legendary Queen's Sceptre",
@@ -4849,6 +4718,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -4857,9 +4727,7 @@
       "Insightful Potency +49",
       "Spellcraft +20",
       "Insightful Spellcraft +10"
-    ],
-    "itemKey": "item:the_legendary_queen's_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Fusible Sceptre of Corrosion",
@@ -4882,6 +4750,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -4891,9 +4760,7 @@
       "Insightful Corrosion +71",
       "Conjuration Focus +5",
       "Fusible"
-    ],
-    "itemKey": "item:legendary_fusible_sceptre_of_corrosion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Malleable Sceptre of Devotion",
@@ -4916,6 +4783,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -4925,9 +4793,7 @@
       "Insightful Devotion +71",
       "Physical Sheltering +33",
       "Malleable"
-    ],
-    "itemKey": "item:legendary_malleable_sceptre_of_devotion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Malleable Sceptre of Reconstruction",
@@ -4950,6 +4816,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -4959,9 +4826,7 @@
       "Insightful Reconstruction +71",
       "False Life +50",
       "Malleable"
-    ],
-    "itemKey": "item:legendary_malleable_sceptre_of_reconstruction",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Fusible Sceptre of Glaciation",
@@ -4984,6 +4849,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -4993,9 +4859,7 @@
       "Insightful Glaciation +71",
       "Evocation Focus +5",
       "Fusible"
-    ],
-    "itemKey": "item:legendary_fusible_sceptre_of_glaciation",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Fusible Sceptre of Magnetism",
@@ -5018,6 +4882,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -5027,9 +4892,7 @@
       "Insightful Magnetism +71",
       "Evocation Focus +5",
       "Fusible"
-    ],
-    "itemKey": "item:legendary_fusible_sceptre_of_magnetism",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Malleable Sceptre of Resonation",
@@ -5052,6 +4915,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -5061,9 +4925,7 @@
       "Insightful Resonance +71",
       "Magical Sheltering +33",
       "Malleable"
-    ],
-    "itemKey": "item:legendary_malleable_sceptre_of_resonation",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Malleable Sceptre of Nullification",
@@ -5086,6 +4948,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -5095,9 +4958,7 @@
       "Insightful Nullification +71",
       "Necromancy Focus +5",
       "Malleable"
-    ],
-    "itemKey": "item:legendary_malleable_sceptre_of_nullification",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Malleable Sceptre of Radiance",
@@ -5120,6 +4981,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -5129,9 +4991,7 @@
       "Insightful Radiance +71",
       "Insightful Wizardry +134",
       "Malleable"
-    ],
-    "itemKey": "item:legendary_malleable_sceptre_of_radiance",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Fusible Sceptre of Combustion",
@@ -5154,6 +5014,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -5163,9 +5024,7 @@
       "Insightful Combustion +71",
       "Evocation Focus +5",
       "Fusible"
-    ],
-    "itemKey": "item:legendary_fusible_sceptre_of_combustion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Fusible Sceptre of Impulse",
@@ -5188,6 +5047,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +29",
@@ -5197,9 +5057,7 @@
       "Insightful Impulse +71",
       "Evocation Focus +5",
       "Fusible"
-    ],
-    "itemKey": "item:legendary_fusible_sceptre_of_impulse",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Club",
@@ -5220,6 +5078,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5227,9 +5086,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Club",
@@ -5250,6 +5107,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5257,9 +5115,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shocking Forum Post (level 30)",
@@ -5281,6 +5137,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -5289,9 +5146,7 @@
       "Lightning Lore +21%",
       "Insightful Evocation Focus +3",
       "Wizardry +277"
-    ],
-    "itemKey": "item:shocking_forum_post_(level_30)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Necrotic Forum Post (level 30)",
@@ -5313,6 +5168,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -5321,9 +5177,7 @@
       "Void Lore +21%",
       "Insightful Necromancy Focus +3",
       "Wizardry +277"
-    ],
-    "itemKey": "item:necrotic_forum_post_(level_30)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flaming Forum Post (level 30)",
@@ -5345,6 +5199,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -5353,9 +5208,7 @@
       "Fire Lore +21%",
       "Insightful Evocation Focus +3",
       "Wizardry +277"
-    ],
-    "itemKey": "item:flaming_forum_post_(level_30)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Caustic Forum Post (level 30)",
@@ -5377,6 +5230,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -5385,9 +5239,7 @@
       "Acid Lore +21%",
       "Insightful Evocation Focus +3",
       "Wizardry +277"
-    ],
-    "itemKey": "item:caustic_forum_post_(level_30)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Clamorous Forum Post (level 30)",
@@ -5409,6 +5261,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -5417,9 +5270,7 @@
       "Sonic Lore +21%",
       "Insightful Evocation Focus +3",
       "Wizardry +277"
-    ],
-    "itemKey": "item:clamorous_forum_post_(level_30)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Icy Forum Post (level 30)",
@@ -5441,6 +5292,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +30",
@@ -5449,9 +5301,7 @@
       "Ice Lore +21%",
       "Insightful Evocation Focus +3",
       "Wizardry +277"
-    ],
-    "itemKey": "item:icy_forum_post_(level_30)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flameward",
@@ -5474,6 +5324,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5483,9 +5334,7 @@
       "Fire Absorption +35%",
       "Fire Resistance +51",
       "Exceptional Charisma +1"
-    ],
-    "itemKey": "item:legendary_flameward",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Captain's Spyglass",
@@ -5508,6 +5357,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +31",
@@ -5515,11 +5372,8 @@
       "Spell Focus Mastery +5",
       "Potency +103",
       "Spot +21",
-      "Good Luck +4",
-      "Isle of Dread: Scale Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:legendary_captain's_spyglass",
-    "setMembership": []
+      "Good Luck +4"
+    ]
   },
   {
     "name": "Dinosaur Bone Club",
@@ -5542,16 +5396,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_club",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Club",
@@ -5574,16 +5448,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_club",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Scepter of the Fleshweaver",
@@ -5608,6 +5502,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Stone to Flesh — 5 Charges (Recharged/Day:5)",
@@ -5617,9 +5512,7 @@
       "Transmutation Focus +6",
       "Devotion +149",
       "Fragmented"
-    ],
-    "itemKey": "item:legendary_scepter_of_the_fleshweaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Scepter of the Ogre Magi",
@@ -5644,6 +5537,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Cone of Cold — 3 Charges (Recharged/Day:3)",
@@ -5653,9 +5547,7 @@
       "Concentration +21",
       "Healing Lore +22%",
       "Fragmented"
-    ],
-    "itemKey": "item:legendary_scepter_of_the_ogre_magi",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Blessed Sceptre",
@@ -5679,6 +5571,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -5687,9 +5580,7 @@
       "Healing Lore +22%",
       "Mystic Diversion +22%",
       "Quality Wizardry +73"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_blessed_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Booming Sceptre",
@@ -5713,6 +5604,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -5721,9 +5613,7 @@
       "Sonic Lore +22%",
       "Mystic Diversion +22%",
       "Quality Wizardry +73"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_booming_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Burning Sceptre",
@@ -5747,6 +5637,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -5755,9 +5646,7 @@
       "Fire Lore +22%",
       "Mystic Diversion +22%",
       "Quality Wizardry +73"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_burning_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Caustic Sceptre",
@@ -5781,6 +5670,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -5789,9 +5679,7 @@
       "Acid Lore +22%",
       "Mystic Diversion +22%",
       "Quality Wizardry +73"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_caustic_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Club",
@@ -5814,6 +5702,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -5821,9 +5710,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Deathly Sceptre",
@@ -5847,6 +5734,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -5855,9 +5743,7 @@
       "Void Lore +22%",
       "Mystic Diversion +22%",
       "Quality Wizardry +73"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_deathly_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Freezing Sceptre",
@@ -5881,6 +5767,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -5889,9 +5776,7 @@
       "Ice Lore +22%",
       "Mystic Diversion +22%",
       "Quality Wizardry +73"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_freezing_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Gleaming Sceptre",
@@ -5915,6 +5800,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -5923,9 +5809,7 @@
       "Radiance Lore +22%",
       "Mystic Diversion +22%",
       "Quality Wizardry +73"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_gleaming_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Kinetic Sceptre",
@@ -5949,6 +5833,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -5957,9 +5842,7 @@
       "Kinetic Lore +22%",
       "Mystic Diversion +22%",
       "Quality Wizardry +73"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_kinetic_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Mending Sceptre",
@@ -5983,6 +5866,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -5991,9 +5875,7 @@
       "Repair Lore +22%",
       "Mystic Diversion +22%",
       "Quality Wizardry +73"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_mending_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Shocking Sceptre",
@@ -6017,6 +5899,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -6025,9 +5908,7 @@
       "Lightning Lore +22%",
       "Mystic Diversion +22%",
       "Quality Wizardry +73"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_shocking_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Marro, the Bone of Demons",
@@ -6052,146 +5933,8 @@
       "Orange",
       "Purple"
     ],
-    "setBonuses": [
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane Bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 4,
-        "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Attack and Damage"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane Bonus to Attack and Damage"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane Bonus to Universal Spell Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane Bonus to Universal Spell Power"
-          }
-        ]
-      },
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-        "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane Bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Profane Bonus to Spell DCs"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
       "+15 Enhancement Bonus",
@@ -6200,137 +5943,6 @@
       "Efficient Metamagic - Intensify II",
       "Greater Elemental Spell Power",
       "Planar Searing"
-    ],
-    "itemKey": "item:marro,_the_bone_of_demons",
-    "setMembership": [
-      {
-        "setId": "forbidden_knowledge",
-        "setName": "Forbidden Knowledge",
-        "source": "named_item_sets",
-        "sourceSection": "Vecna Unleashed sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 61,
-        "bonusRaw": "3 Pieces Equipped: ♦+10★+30 Profane Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+1★+3 Profane Bonus to all Ability Scores ♦+1★+4 Profane Bonus to Attack and Damage 5 Pieces Equipped: ♦+5★+15 Profane Bonus to Melee and Ranged Power ♦+10★+25 Profane Bonus to Universal Spell Power ♦+1★+3 Profane Bonus to Spell DCs",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane Bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane Bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "effectRaw": "♦+1★+3 Profane Bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "effectRaw": "♦+1★+4 Profane Bonus to Attack and Damage",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Attack and Damage"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane Bonus to Attack and Damage"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Profane Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "effectRaw": "♦+10★+25 Profane Bonus to Universal Spell Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane Bonus to Universal Spell Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane Bonus to Universal Spell Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+3 Profane Bonus to Spell DCs",
-            "effectRaw": "♦+1★+3 Profane Bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane Bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Profane Bonus to Spell DCs"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -6356,6 +5968,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -6366,9 +5979,7 @@
       "Healing Lore +22%",
       "Efficient Metamagic - Maximize II",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_blessed_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Booming Sceptre",
@@ -6393,6 +6004,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -6403,9 +6015,7 @@
       "Sonic Lore +22%",
       "Efficient Metamagic - Maximize II",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_booming_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Burning Sceptre",
@@ -6430,6 +6040,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -6440,9 +6051,7 @@
       "Fire Lore +22%",
       "Efficient Metamagic - Maximize II",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_burning_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Caustic Sceptre",
@@ -6467,6 +6076,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -6477,9 +6087,7 @@
       "Acid Lore +22%",
       "Efficient Metamagic - Maximize II",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_caustic_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Club",
@@ -6503,6 +6111,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -6512,9 +6121,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_club",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Deathly Sceptre",
@@ -6539,6 +6146,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -6549,9 +6157,7 @@
       "Void Lore +22%",
       "Efficient Metamagic - Maximize II",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_deathly_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Freezing Sceptre",
@@ -6576,6 +6182,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -6586,9 +6193,7 @@
       "Ice Lore +22%",
       "Efficient Metamagic - Maximize II",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_freezing_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Gleaming Sceptre",
@@ -6613,6 +6218,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -6623,9 +6229,7 @@
       "Radiance Lore +22%",
       "Efficient Metamagic - Maximize II",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_gleaming_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Kinetic Sceptre",
@@ -6650,6 +6254,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -6660,9 +6265,7 @@
       "Kinetic Lore +22%",
       "Efficient Metamagic - Maximize II",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_kinetic_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Mending Sceptre",
@@ -6687,6 +6290,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -6697,9 +6301,7 @@
       "Repair Lore +22%",
       "Efficient Metamagic - Maximize II",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_mending_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Shocking Sceptre",
@@ -6724,6 +6326,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -6734,9 +6337,7 @@
       "Lightning Lore +22%",
       "Efficient Metamagic - Maximize II",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_shocking_sceptre",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Date Night Bouquet",
@@ -6760,6 +6361,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +32",
@@ -6768,9 +6370,7 @@
       "Insightful Resonance +76",
       "Sonic Lore +22%",
       "Exceptional Universal Spell Lore +5%"
-    ],
-    "itemKey": "item:legendary_date_night_bouquet",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Club of the Fallen Age",
@@ -6793,6 +6393,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -6800,9 +6401,7 @@
       "Anarchic 7",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:legendary_club_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Club of the Golden Age",
@@ -6825,6 +6424,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -6832,9 +6432,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_club_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Club of the Undying Age",
@@ -6857,6 +6455,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -6864,9 +6463,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:club_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Lesser Oblivion",
@@ -6890,6 +6487,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -6898,9 +6496,7 @@
       "Nullification +156",
       "Void Lore +23%",
       "Heal +21"
-    ],
-    "itemKey": "item:legendary_lesser_oblivion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Fish Stick",
@@ -6924,6 +6520,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -6932,9 +6529,7 @@
       "Kinetic Lore +23%",
       "Mystic Diversion +23%",
       "Insightful Mystic Diversion +11%"
-    ],
-    "itemKey": "item:legendary_fish_stick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Fried Fish Stick",
@@ -6958,6 +6553,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -6966,9 +6562,7 @@
       "Fire Lore +23%",
       "Quality Impulse +38",
       "Insightful Evocation Focus +3"
-    ],
-    "itemKey": "item:legendary_fried_fish_stick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Frozen Fish Stick",
@@ -6992,6 +6586,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +33",
@@ -7000,9 +6595,7 @@
       "Ice Lore +23%",
       "Insightful Impulse +78",
       "Evocation Focus +6"
-    ],
-    "itemKey": "item:legendary_frozen_fish_stick",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Club",
@@ -7025,16 +6618,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_club",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Calamitous Sceptre",
@@ -7057,16 +6670,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_sceptre",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Club",
@@ -7089,16 +6722,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_club",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "The Slayer of the Living",
@@ -7124,19 +6777,39 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +34",
       "+15 Enhancement Bonus",
       "Potency +116",
-      "Revel in Blood (Magic)",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:the_slayer_of_the_living",
-    "setMembership": []
+      "Revel in Blood (Magic)"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Burning Sceptre",
@@ -7159,16 +6832,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_burning_sceptre",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cruel Baton",
@@ -7191,6 +6884,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Paralysis",
       "Legendary Manslayer"
@@ -7199,8 +6893,6 @@
       "+15 Enhancement Bonus",
       "Bonesplitter",
       "Bludgeoning 7"
-    ],
-    "itemKey": "item:legendary_cruel_baton",
-    "setMembership": []
+    ]
   }
 ]

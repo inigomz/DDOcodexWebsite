@@ -13,14 +13,13 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Masterwork",
       "Fire Touch",
       "Starter"
-    ],
-    "itemKey": "item:ember_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "+1 Starter Shortbow",
@@ -35,13 +34,12 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Starter"
-    ],
-    "itemKey": "item:+1_starter_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Shortbow",
@@ -59,13 +57,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Shortbow",
@@ -83,13 +80,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Scorpion Tail Shortbow",
@@ -107,13 +103,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Poison"
-    ],
-    "itemKey": "item:scorpion_tail_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Shortbow",
@@ -134,6 +129,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -141,9 +137,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Shortbow",
@@ -164,6 +158,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -171,9 +166,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Shortbow",
@@ -194,16 +187,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_shortbow",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Collapsible Shortbow",
@@ -226,247 +234,14 @@
       "Purple",
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
-        "effectRaw": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Poison Resistance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact Bonus to Poison Resistance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Poison Resistance"
-          }
-        ]
-      },
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
-        "effectRaw": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact bonus to Sneak Attack Dice"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Artifact bonus to Sneak Attack Dice"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact bonus to Sneak Attack Dice"
-          }
-        ]
-      },
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
-        "effectRaw": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Saving Throws"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Artifact Bonus to Saving Throws"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Saving Throws"
-          }
-        ]
-      },
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-        "effectRaw": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Dexterity and Constitution"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+2",
-            "effect": "Artifact Bonus to Dexterity and Constitution"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Dexterity and Constitution"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Improved Deception +12",
       "Jump +12",
       "Swim +12",
       "Tumble +12"
-    ],
-    "itemKey": "item:collapsible_shortbow",
-    "setMembership": [
-      {
-        "setId": "vulkoor_s_chosen",
-        "setName": "Vulkoor's Chosen",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 13,
-        "bonusRaw": "2 Pieces Equipped: ♦+10●+20★+30 Artifact Bonus to Poison Resistance ♦+1●+2★+3 Artifact bonus to Sneak Attack Dice ♦+1●+2★+3 Artifact Bonus to Saving Throws ♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
-            "effectRaw": "♦+10●+20★+30 Artifact Bonus to Poison Resistance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Poison Resistance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact Bonus to Poison Resistance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Poison Resistance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
-            "effectRaw": "♦+1●+2★+3 Artifact bonus to Sneak Attack Dice",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact bonus to Sneak Attack Dice"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Artifact bonus to Sneak Attack Dice"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact bonus to Sneak Attack Dice"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
-            "effectRaw": "♦+1●+2★+3 Artifact Bonus to Saving Throws",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Saving Throws"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Artifact Bonus to Saving Throws"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Saving Throws"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-            "effectRaw": "♦+1●+2★+3 Artifact Bonus to Dexterity and Constitution",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Dexterity and Constitution"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+2",
-                "effect": "Artifact Bonus to Dexterity and Constitution"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Dexterity and Constitution"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -488,6 +263,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -495,9 +271,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Shortbow",
@@ -518,6 +292,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -525,9 +300,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Shortbow",
@@ -542,13 +315,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Shortbow",
@@ -563,13 +335,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shortbow of the Fallen Age",
@@ -590,6 +361,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -597,9 +369,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:shortbow_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shortbow of the Golden Age",
@@ -620,6 +390,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -627,9 +398,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:shortbow_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Hunter of Wilds",
@@ -651,6 +420,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -659,9 +429,7 @@
       "Anarchic 3",
       "Heartseeker I",
       "Keen"
-    ],
-    "itemKey": "item:hunter_of_wilds",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Shortbow",
@@ -682,6 +450,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -689,9 +458,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Shortbow",
@@ -712,6 +479,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -719,9 +487,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Shortbow",
@@ -742,6 +508,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -749,9 +516,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Collapsible Shortbow",
@@ -775,6 +540,7 @@
       "Colorless",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -783,9 +549,7 @@
       "Jump +17",
       "Tumble +17",
       "Swim +17"
-    ],
-    "itemKey": "item:epic_collapsible_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Shortbow",
@@ -806,6 +570,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -813,9 +578,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Shortbow",
@@ -836,6 +599,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -843,9 +607,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Shortbow",
@@ -863,13 +625,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Shortbow",
@@ -884,14 +645,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Hunter of Wilds",
@@ -913,6 +673,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -921,9 +682,7 @@
       "Anarchic 6",
       "Heartseeker VII",
       "Keen"
-    ],
-    "itemKey": "item:legendary_hunter_of_wilds",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Shortbow",
@@ -944,6 +703,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -951,9 +711,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Shortbow",
@@ -974,6 +732,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -981,9 +740,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Shortbow",
@@ -1004,6 +761,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1011,9 +769,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Shortbow",
@@ -1034,6 +790,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1041,9 +798,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Shortbow",
@@ -1064,6 +819,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1071,9 +827,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Collapsible Shortbow",
@@ -1098,6 +852,7 @@
       "Colorless",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vulkoor's Chosen"
     ],
@@ -1108,9 +863,7 @@
       "Jump +20",
       "Tumble +20",
       "Swim +20"
-    ],
-    "itemKey": "item:legendary_collapsible_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Shortbow",
@@ -1133,16 +886,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_shortbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Shortbow",
@@ -1165,16 +938,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_shortbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Shortbow",
@@ -1197,6 +990,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1204,9 +998,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Shortbow",
@@ -1230,6 +1022,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1239,9 +1032,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_shortbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shortbow of the Fallen Age",
@@ -1264,6 +1055,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1271,9 +1063,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_shortbow_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shortbow of the Golden Age",
@@ -1296,6 +1086,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1303,9 +1094,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_shortbow_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shortbow of the Undying Age",
@@ -1328,6 +1117,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1335,9 +1125,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:shortbow_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Shortbow",
@@ -1360,16 +1148,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_shortbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Shortbow",
@@ -1392,15 +1200,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_shortbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

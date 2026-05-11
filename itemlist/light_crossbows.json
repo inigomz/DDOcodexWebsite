@@ -11,12 +11,11 @@
       "Starter"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Starter"
-    ],
-    "itemKey": "item:moldy_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Guidance",
@@ -35,14 +34,13 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Ghostbane 1",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:guidance",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Light Crossbow",
@@ -60,13 +58,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Light Crossbow",
@@ -84,13 +81,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Poison-Tipped Crossbow",
@@ -108,13 +104,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Poison"
-    ],
-    "itemKey": "item:poison-tipped_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Diplomancer (level 5)",
@@ -135,6 +130,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -142,9 +138,7 @@
       "Impactful 2",
       "Distant Diversion +6%",
       "Diplomacy +7"
-    ],
-    "itemKey": "item:the_diplomancer_(level_5)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Light Crossbow",
@@ -165,6 +159,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -172,9 +167,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Light Crossbow",
@@ -195,6 +188,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -202,9 +196,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ratcatcher",
@@ -222,13 +214,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Vermin Bane"
-    ],
-    "itemKey": "item:ratcatcher",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Light Crossbow",
@@ -249,16 +240,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_light_crossbow",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "The Diplomancer (level 10)",
@@ -279,6 +285,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -286,9 +293,7 @@
       "Impactful 3",
       "Distant Diversion +9%",
       "Diplomacy +12"
-    ],
-    "itemKey": "item:the_diplomancer_(level_10)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Light Crossbow",
@@ -309,6 +314,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -316,9 +322,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Light Crossbow",
@@ -339,6 +343,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -346,9 +351,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Light Crossbow",
@@ -363,13 +366,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Light Crossbow",
@@ -384,13 +386,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Crossbow of the Fallen Age",
@@ -411,6 +412,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -418,9 +420,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:light_crossbow_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Crossbow of the Golden Age",
@@ -441,6 +441,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -448,9 +449,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:light_crossbow_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sureshot",
@@ -466,14 +465,13 @@
       "Vorpal"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Anarchic 3",
       "Vorpal"
-    ],
-    "itemKey": "item:sureshot",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightshade Shooter",
@@ -494,6 +492,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -501,9 +500,7 @@
       "Poisonous 4",
       "Nightshade Venom",
       "Wounding 2"
-    ],
-    "itemKey": "item:nightshade_shooter",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Diplomancer (level 15)",
@@ -524,6 +521,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -531,9 +529,7 @@
       "Impactful 4",
       "Distant Diversion +12%",
       "Diplomacy +16"
-    ],
-    "itemKey": "item:the_diplomancer_(level_15)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Light Crossbow",
@@ -554,6 +550,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -561,9 +558,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Screamshatter",
@@ -584,6 +579,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -591,9 +587,7 @@
       "Screeching 9",
       "Improved Destruction",
       "Lightning Strike"
-    ],
-    "itemKey": "item:screamshatter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Light Crossbow",
@@ -614,6 +608,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -621,9 +616,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Light Crossbow",
@@ -644,6 +637,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -651,9 +645,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Diplomancer (level 20)",
@@ -674,6 +666,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -681,9 +674,7 @@
       "Impactful 4",
       "Distant Diversion +15%",
       "Diplomacy +17"
-    ],
-    "itemKey": "item:the_diplomancer_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Light Crossbow",
@@ -704,6 +695,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -711,9 +703,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Light Crossbow",
@@ -734,6 +724,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -741,9 +732,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Light Crossbow",
@@ -761,13 +750,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Guidance",
@@ -788,6 +776,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -795,9 +784,7 @@
       "Unnatural Bane 5",
       "Ghostbane 5",
       "Silver , alchemical"
-    ],
-    "itemKey": "item:epic_guidance",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Diplomancer (level 25)",
@@ -818,6 +805,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -825,9 +813,7 @@
       "Impactful 5",
       "Distant Diversion +18%",
       "Diplomacy +19"
-    ],
-    "itemKey": "item:the_diplomancer_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Light Crossbow",
@@ -842,14 +828,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Screamshatter",
@@ -870,6 +855,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -877,9 +863,7 @@
       "Screeching 14",
       "Improved Destruction",
       "Lightning Strike"
-    ],
-    "itemKey": "item:legendary_screamshatter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Nightshade Shooter",
@@ -900,6 +884,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -907,9 +892,7 @@
       "Poisonous 6",
       "Twining Hemlock",
       "Wounding 3"
-    ],
-    "itemKey": "item:legendary_nightshade_shooter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Light Crossbow",
@@ -930,6 +913,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -937,9 +921,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Light Crossbow",
@@ -960,6 +942,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -967,9 +950,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Light Crossbow",
@@ -990,6 +971,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -997,9 +979,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Light Crossbow",
@@ -1020,6 +1000,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1027,9 +1008,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Light Crossbow",
@@ -1050,6 +1029,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1057,9 +1037,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Diplomancer (level 30)",
@@ -1080,6 +1058,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+14 Enhancement Bonus",
@@ -1087,9 +1066,7 @@
       "Impactful 6",
       "Distant Diversion +21%",
       "Diplomacy +20"
-    ],
-    "itemKey": "item:the_diplomancer_(level_30)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Light Crossbow",
@@ -1112,16 +1089,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_light_crossbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Light Crossbow",
@@ -1144,16 +1141,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_light_crossbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Light Crossbow",
@@ -1176,6 +1193,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1183,9 +1201,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Light Crossbow",
@@ -1209,6 +1225,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -1218,9 +1235,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_light_crossbow",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Light Crossbow of the Fallen Age",
@@ -1243,6 +1258,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1250,9 +1266,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_light_crossbow_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Light Crossbow of the Golden Age",
@@ -1275,6 +1289,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1282,9 +1297,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_light_crossbow_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Light Crossbow of the Undying Age",
@@ -1307,6 +1320,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1314,9 +1328,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:light_crossbow_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Light Crossbow",
@@ -1339,16 +1351,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_light_crossbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "The Slaughtering Shot",
@@ -1373,18 +1405,38 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Murderous Point",
-      "Revel in Blood (Piercing)",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:the_slaughtering_shot",
-    "setMembership": []
+      "Revel in Blood (Piercing)"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Light Crossbow",
@@ -1407,15 +1459,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_light_crossbow",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

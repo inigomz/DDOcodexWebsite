@@ -15,13 +15,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Falchion",
@@ -39,13 +38,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Falchion (level 4)",
@@ -61,14 +59,13 @@
       "Tidal"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Dragon Bane 2",
       "Tidal"
-    ],
-    "itemKey": "item:calomel_falchion_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Captain's Cutter (level 4)",
@@ -88,15 +85,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Impactful 2",
       "Ghostbane 2",
       "Crippling"
-    ],
-    "itemKey": "item:captain's_cutter_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Falchion",
@@ -117,6 +113,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -124,9 +121,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Falchion",
@@ -147,6 +142,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -154,9 +150,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fellblade (falchion)",
@@ -174,13 +168,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Vertigo +8"
-    ],
-    "itemKey": "item:fellblade_(falchion)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightblade",
@@ -201,14 +194,13 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Keen",
       "Byeshk"
-    ],
-    "itemKey": "item:nightblade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Falchion (level 8)",
@@ -222,12 +214,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_falchion_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Captain's Cutter (level 8)",
@@ -247,15 +238,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Impactful 2",
       "Ghostbane 2",
       "Crippling"
-    ],
-    "itemKey": "item:captain's_cutter_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Falchion",
@@ -276,16 +266,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_falchion",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Xuum",
@@ -307,95 +312,8 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_desert_s_burning_sun",
-        "setName": "The Desert's Burning Sun",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+2%●+4%★+6% Artifact bonus to Fire Spellcrit Chance",
-        "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Fire Spellcrit Chance",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2%",
-            "effect": "Artifact bonus to Fire Spellcrit Chance"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+4%",
-            "effect": "Artifact bonus to Fire Spellcrit Chance"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+6%",
-            "effect": "Artifact bonus to Fire Spellcrit Chance"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_burning_sun",
-        "setName": "The Desert's Burning Sun",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+20★+30 Artifact bonus to Fire Spellpower",
-        "effectRaw": "♦+10●+20★+30 Artifact bonus to Fire Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Fire Spellpower"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+20",
-            "effect": "Artifact bonus to Fire Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Fire Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_desert_s_burning_sun",
-        "setName": "The Desert's Burning Sun",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "piecesRequired": 2,
-        "effect": "♦+10●+10★+30 Artifact bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10●+10★+30 Artifact bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "epic",
-            "symbol": "●",
-            "valueText": "+10",
-            "effect": "Artifact bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact bonus to Physical Resistance Rating"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +10",
       "+5 Enhancement Bonus",
@@ -403,98 +321,6 @@
       "Flaming Blast 3",
       "Fire Lore +11%",
       "Combustion +77"
-    ],
-    "itemKey": "item:xuum",
-    "setMembership": [
-      {
-        "setId": "the_desert_s_burning_sun",
-        "setName": "The Desert's Burning Sun",
-        "source": "named_item_sets",
-        "sourceSection": "Sands of Menechtarun sets",
-        "minLevels": [
-          20,
-          30
-        ],
-        "availablePieces": 9,
-        "bonusRaw": "2 Pieces Equipped: ♦+2%●+4%★+6% Artifact bonus to Fire Spellcrit Chance ♦+10●+20★+30 Artifact bonus to Fire Spellpower ♦+10●+10★+30 Artifact bonus to Physical Resistance Rating",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2%●+4%★+6% Artifact bonus to Fire Spellcrit Chance",
-            "effectRaw": "♦+2%●+4%★+6% Artifact bonus to Fire Spellcrit Chance",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2%",
-                "effect": "Artifact bonus to Fire Spellcrit Chance"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+4%",
-                "effect": "Artifact bonus to Fire Spellcrit Chance"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+6%",
-                "effect": "Artifact bonus to Fire Spellcrit Chance"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+20★+30 Artifact bonus to Fire Spellpower",
-            "effectRaw": "♦+10●+20★+30 Artifact bonus to Fire Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Fire Spellpower"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+20",
-                "effect": "Artifact bonus to Fire Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Fire Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+10●+10★+30 Artifact bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10●+10★+30 Artifact bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "epic",
-                "symbol": "●",
-                "valueText": "+10",
-                "effect": "Artifact bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact bonus to Physical Resistance Rating"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -513,6 +339,7 @@
       "Fusible"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -520,9 +347,7 @@
       "Humanoid Bane 3",
       "Bodyfeeder",
       "Fusible"
-    ],
-    "itemKey": "item:bloody_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Falchion",
@@ -543,6 +368,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -550,9 +376,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Falchion",
@@ -573,6 +397,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -580,9 +405,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Crippling Cleaver",
@@ -603,6 +426,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -610,9 +434,7 @@
       "Humanoid Bane 3",
       "Bodyfeeder",
       "Crippling"
-    ],
-    "itemKey": "item:crippling_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Vampiric Cleaver",
@@ -633,6 +455,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -640,9 +463,7 @@
       "Humanoid Bane 3",
       "Bodyfeeder",
       "Vampirism 1"
-    ],
-    "itemKey": "item:vampiric_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Maiming Cleaver",
@@ -663,6 +484,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -670,9 +492,7 @@
       "Humanoid Bane 3",
       "Bodyfeeder",
       "Maiming 3"
-    ],
-    "itemKey": "item:maiming_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Falchion",
@@ -687,13 +507,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Falchion",
@@ -708,13 +527,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Vengeful Cleaver",
@@ -735,6 +553,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -742,9 +561,7 @@
       "Humanoid Bane 3",
       "Bodyfeeder",
       "Vengeful"
-    ],
-    "itemKey": "item:vengeful_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Windlasher (level 12)",
@@ -763,14 +580,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Screaming",
       "Weapon Focus: Falchion"
-    ],
-    "itemKey": "item:windlasher_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Falchion (level 12)",
@@ -784,12 +600,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_falchion_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Captain's Cutter (level 12)",
@@ -809,15 +624,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Impactful 3",
       "Ghostbane 3",
       "Crippling"
-    ],
-    "itemKey": "item:captain's_cutter_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Windlasher (level 13)",
@@ -836,14 +650,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Screaming",
       "Weapon Focus: Falchion"
-    ],
-    "itemKey": "item:windlasher_(level_13)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Falchion of the Fallen Age",
@@ -864,6 +677,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -871,9 +685,7 @@
       "Anarchic 3",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:falchion_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Falchion of the Golden Age",
@@ -894,6 +706,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -901,9 +714,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:falchion_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Windlasher (level 14)",
@@ -922,14 +733,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Shrieking",
       "Weapon Focus: Falchion"
-    ],
-    "itemKey": "item:windlasher_(level_14)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tail of the Scorpion",
@@ -950,115 +760,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "wayward_warrior",
-        "setName": "Wayward Warrior",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 2,
-        "effect": "♦+2★+5 Artifact Bonus to Natural Armor",
-        "effectRaw": "♦+2★+5 Artifact Bonus to Natural Armor",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+2",
-            "effect": "Artifact Bonus to Natural Armor"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+5",
-            "effect": "Artifact Bonus to Natural Armor"
-          }
-        ]
-      },
-      {
-        "setId": "wayward_warrior",
-        "setName": "Wayward Warrior",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "piecesRequired": 2,
-        "effect": "♦+1★+3 Artifact Bonus to Constitution",
-        "effectRaw": "♦+1★+3 Artifact Bonus to Constitution",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Artifact Bonus to Constitution"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+3",
-            "effect": "Artifact Bonus to Constitution"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Poisonous 3",
       "Metalline",
       "Keen",
       "Vorpal"
-    ],
-    "itemKey": "item:tail_of_the_scorpion",
-    "setMembership": [
-      {
-        "setId": "wayward_warrior",
-        "setName": "Wayward Warrior",
-        "source": "named_item_sets",
-        "sourceSection": "Disciples of Rage sets",
-        "minLevels": [
-          14,
-          29
-        ],
-        "availablePieces": 4,
-        "bonusRaw": "2 Pieces Equipped: ♦+2★+5 Artifact Bonus to Natural Armor ♦+1★+3 Artifact Bonus to Constitution",
-        "bonuses": [
-          {
-            "piecesRequired": 2,
-            "effect": "♦+2★+5 Artifact Bonus to Natural Armor",
-            "effectRaw": "♦+2★+5 Artifact Bonus to Natural Armor",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+2",
-                "effect": "Artifact Bonus to Natural Armor"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+5",
-                "effect": "Artifact Bonus to Natural Armor"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 2,
-            "effect": "♦+1★+3 Artifact Bonus to Constitution",
-            "effectRaw": "♦+1★+3 Artifact Bonus to Constitution",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Artifact Bonus to Constitution"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+3",
-                "effect": "Artifact Bonus to Constitution"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1080,6 +789,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1087,9 +797,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calomel Falchion (level 16)",
@@ -1103,12 +811,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:calomel_falchion_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Captain's Cutter (level 16)",
@@ -1128,15 +835,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Impactful 4",
       "Ghostbane 4",
       "Crippling"
-    ],
-    "itemKey": "item:captain's_cutter_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Falchion",
@@ -1157,6 +863,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1164,9 +871,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Falchion",
@@ -1187,6 +892,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1194,9 +900,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Xuum",
@@ -1222,6 +926,7 @@
       "Colorless",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Spellcasting Implement +20",
@@ -1232,9 +937,7 @@
       "Combustion +111",
       "Incineration Guard",
       "Greater Incineration"
-    ],
-    "itemKey": "item:epic_xuum",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Calomel Falchion",
@@ -1248,12 +951,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_calomel_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Captain's Cutter (level 20)",
@@ -1273,15 +975,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Impactful 4",
       "Ghostbane 4",
       "Crippling"
-    ],
-    "itemKey": "item:epic_captain's_cutter_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Falchion",
@@ -1302,6 +1003,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1309,9 +1011,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Falchion",
@@ -1332,6 +1032,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1339,9 +1040,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Falchion",
@@ -1359,13 +1058,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Breach, The Dividing Blade",
@@ -1384,6 +1082,7 @@
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1392,9 +1091,7 @@
       "Shatter +10",
       "Doublestrike 6%",
       "Attuned to Heroism (Special bonus effect! Please see item's specific page for details.)"
-    ],
-    "itemKey": "item:breach,_the_dividing_blade",
-    "setMembership": []
+    ]
   },
   {
     "name": "Windlasher (level 23)",
@@ -1414,15 +1111,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
       "Shrieking",
       "Cacophony",
       "Weapon Focus: Falchion"
-    ],
-    "itemKey": "item:windlasher_(level_23)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Windlasher (level 24)",
@@ -1442,15 +1138,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Shrieking",
       "Cacophony",
       "Weapon Focus: Falchion"
-    ],
-    "itemKey": "item:windlasher_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Captain's Cutter (level 24)",
@@ -1470,15 +1165,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Impactful 5",
       "Ghostbane 5",
       "Crippling"
-    ],
-    "itemKey": "item:epic_captain's_cutter_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Windlasher (level 25)",
@@ -1498,15 +1192,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
       "Wailing",
       "Cacophony",
       "Weapon Focus: Falchion"
-    ],
-    "itemKey": "item:windlasher_(level_25)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Falchion",
@@ -1521,14 +1214,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Captain's Cutter (level 28)",
@@ -1548,15 +1240,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
       "Impactful 6",
       "Ghostbane 6",
       "Crippling"
-    ],
-    "itemKey": "item:epic_captain's_cutter_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Tail of the Scorpion",
@@ -1577,6 +1268,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1584,9 +1276,7 @@
       "Metalline",
       "Keen",
       "Sovereign Vorpal"
-    ],
-    "itemKey": "item:legendary_tail_of_the_scorpion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tail of Suulomades",
@@ -1609,6 +1299,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1616,9 +1307,7 @@
       "Keen",
       "Sovereign Vorpal",
       "Aligned"
-    ],
-    "itemKey": "item:tail_of_suulomades",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mirana of the Flame",
@@ -1643,6 +1332,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Blinding Embers"
     ],
@@ -1653,9 +1343,7 @@
       "Fiery 6",
       "Flaming Blast 6",
       "Overwhelming Incineration"
-    ],
-    "itemKey": "item:mirana_of_the_flame",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Falchion",
@@ -1676,6 +1364,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1683,9 +1372,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Falchion",
@@ -1706,6 +1393,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1713,9 +1401,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Falchion",
@@ -1736,6 +1422,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1743,9 +1430,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Falchion",
@@ -1766,6 +1451,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1773,9 +1459,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Falchion",
@@ -1796,6 +1480,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1803,9 +1488,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Xuum",
@@ -1832,6 +1515,7 @@
       "Colorless",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Magma Surge",
       "Legendary Magma Surge Guard",
@@ -1844,9 +1528,7 @@
       "Fire Lore +21%",
       "Combustion +146",
       "Overwhelming Incineration"
-    ],
-    "itemKey": "item:legendary_xuum",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Falchion",
@@ -1869,16 +1551,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_falchion",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Falchion",
@@ -1901,16 +1603,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_falchion",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Bloody Cleaver",
@@ -1932,15 +1654,14 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Bleeding 6",
       "Humanoid Bane 6",
       "Feeding 30"
-    ],
-    "itemKey": "item:legendary_bloody_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Vampiric Cleaver",
@@ -1963,6 +1684,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1970,9 +1692,7 @@
       "Humanoid Bane 6",
       "Feeding 30",
       "Vampirism 3"
-    ],
-    "itemKey": "item:legendary_vampiric_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Vengeful Cleaver",
@@ -1995,6 +1715,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2002,9 +1723,7 @@
       "Humanoid Bane 6",
       "Feeding 30",
       "Vengeful"
-    ],
-    "itemKey": "item:legendary_vengeful_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Maiming Cleaver",
@@ -2027,6 +1746,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2034,9 +1754,7 @@
       "Humanoid Bane 6",
       "Feeding 30",
       "Maiming 6"
-    ],
-    "itemKey": "item:legendary_maiming_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Crippling Cleaver",
@@ -2059,6 +1777,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2066,9 +1785,7 @@
       "Humanoid Bane 6",
       "Feeding 30",
       "Crippling"
-    ],
-    "itemKey": "item:legendary_crippling_cleaver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Captain's Cutter (level 32)",
@@ -2088,15 +1805,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Impactful 6",
       "Ghostbane 6",
       "Crippling"
-    ],
-    "itemKey": "item:legendary_captain's_cutter_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Falchion",
@@ -2119,6 +1835,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2126,9 +1843,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Falchion",
@@ -2152,6 +1867,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -2161,9 +1877,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_falchion",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Falchion of the Fallen Age",
@@ -2186,6 +1900,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2193,9 +1908,7 @@
       "Anarchic 7",
       "Aligned",
       "Keen"
-    ],
-    "itemKey": "item:legendary_falchion_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Falchion of the Golden Age",
@@ -2218,6 +1931,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2225,9 +1939,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_falchion_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Omen, Herald of the Fall",
@@ -2251,6 +1963,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2259,9 +1972,7 @@
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Favored Weapon"
-    ],
-    "itemKey": "item:omen,_herald_of_the_fall",
-    "setMembership": []
+    ]
   },
   {
     "name": "Falchion of the Undying Age",
@@ -2284,6 +1995,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2291,9 +2003,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:falchion_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Falchion",
@@ -2316,16 +2026,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_falchion",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Falchion",
@@ -2348,15 +2078,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_falchion",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

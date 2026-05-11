@@ -12,13 +12,12 @@
       "Adamantine"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Adamantine"
-    ],
-    "itemKey": "item:maul_of_vengeance",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bloodknuckles's Smasher",
@@ -35,12 +34,11 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus"
-    ],
-    "itemKey": "item:bloodknuckles's_smasher",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Maul",
@@ -58,13 +56,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch"
-    ],
-    "itemKey": "item:ethereal_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Maul",
@@ -82,13 +79,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical"
-    ],
-    "itemKey": "item:sworn_silver_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Maul of Might",
@@ -106,13 +102,12 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Force"
-    ],
-    "itemKey": "item:maul_of_might",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ratkiller (legacy) (level 4)",
@@ -133,6 +128,7 @@
       "Stunning +2 → Stunning +4"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -143,9 +139,7 @@
       "+1 Enhancement Bonus → +2 Enhancement Bonus",
       "Upgradeable - Tier 3 Stunning +2 → Stunning +4",
       "Stunning +2 → Stunning +4"
-    ],
-    "itemKey": "item:ratkiller_(legacy)_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Maul (level 4)",
@@ -161,14 +155,13 @@
       "Undead Bane 2"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Righteous",
       "Undead Bane 2"
-    ],
-    "itemKey": "item:mournlode_maul_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ratkiller (level 4)",
@@ -189,6 +182,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -196,9 +190,7 @@
       "Staggering Blow",
       "Earthgrab",
       "Animal Bane 2"
-    ],
-    "itemKey": "item:ratkiller_(level_4)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ferrocrystal Maul",
@@ -219,6 +211,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -226,9 +219,7 @@
       "Destruction",
       "Maiming 2",
       "Crystal"
-    ],
-    "itemKey": "item:ferrocrystal_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Maul",
@@ -249,6 +240,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -256,9 +248,7 @@
       "Monstrous Humanoid Bane 2",
       "Weakening 1",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:flamesalt_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Skeleton Hunter",
@@ -280,6 +270,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -288,9 +279,7 @@
       "Ghostbane 2",
       "Undead Bane 2",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:skeleton_hunter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shipbreaker",
@@ -311,271 +300,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Profane bonus to Melee And Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Universal Spellpower"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+25",
-            "effect": "Profane bonus to Universal Spellpower"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Profane bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to Spell DCs",
-        "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to Spell DCs"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to Spell DCs"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-        "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+1",
-            "effect": "Profane bonus to all Ability Scores"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+2",
-            "effect": "Profane bonus to all Ability Scores"
-          }
-        ]
-      },
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "piecesRequired": 5,
-        "effect": "★+4 Profane bonus to Hit and Damage",
-        "effectRaw": "★+4 Profane bonus to Hit and Damage",
-        "tieredEffects": [
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+4",
-            "effect": "Profane bonus to Hit and Damage"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Construct Bane 2",
       "Fiery 2",
       "Acidic 2",
       "The Dread Isle's Curse"
-    ],
-    "itemKey": "item:shipbreaker",
-    "setMembership": [
-      {
-        "setId": "the_dread_isle_s_curse",
-        "setName": "The Dread Isle's Curse",
-        "source": "named_item_sets",
-        "sourceSection": "Isle of Dread sets",
-        "minLevels": [
-          7,
-          31
-        ],
-        "availablePieces": 70,
-        "bonusRaw": "5 Pieces Equipped: ♦+5★+15 Profane bonus to Melee And Ranged Power ♦+10★+25 Profane bonus to Universal Spellpower ♦+10★+30 Profane bonus to Physical Resistance Rating ♦+1★+2 Profane bonus to Spell DCs ♦+1★+2 Profane bonus to all Ability Scores ★+4 Profane bonus to Hit and Damage",
-        "bonuses": [
-          {
-            "piecesRequired": 5,
-            "effect": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "effectRaw": "♦+5★+15 Profane bonus to Melee And Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Profane bonus to Melee And Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "effectRaw": "♦+10★+25 Profane bonus to Universal Spellpower",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Universal Spellpower"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+25",
-                "effect": "Profane bonus to Universal Spellpower"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Profane bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Profane bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to Spell DCs",
-            "effectRaw": "♦+1★+2 Profane bonus to Spell DCs",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to Spell DCs"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to Spell DCs"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "♦+1★+2 Profane bonus to all Ability Scores",
-            "effectRaw": "♦+1★+2 Profane bonus to all Ability Scores",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+1",
-                "effect": "Profane bonus to all Ability Scores"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+2",
-                "effect": "Profane bonus to all Ability Scores"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 5,
-            "effect": "★+4 Profane bonus to Hit and Damage",
-            "effectRaw": "★+4 Profane bonus to Hit and Damage",
-            "tieredEffects": [
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+4",
-                "effect": "Profane bonus to Hit and Damage"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -596,15 +328,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Greater Incorporeal Bane",
       "Ghost Touch",
       "Adamantine"
-    ],
-    "itemKey": "item:phase_hammer",
-    "setMembership": []
+    ]
   },
   {
     "name": "Piledriver",
@@ -624,15 +355,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Strength +2",
       "Curse of Clumsiness",
       "Balance -5"
-    ],
-    "itemKey": "item:piledriver",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ratkiller (legacy) (level 8)",
@@ -653,6 +383,7 @@
       "Stunning +4 → Stunning +6"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -663,9 +394,7 @@
       "+2 Enhancement Bonus → +3 Enhancement Bonus",
       "Upgradeable - Tier 3 Stunning +4 → Stunning +6",
       "Stunning +4 → Stunning +6"
-    ],
-    "itemKey": "item:ratkiller_(legacy)_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Maul (level 8)",
@@ -679,12 +408,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_maul_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ratkiller (level 8)",
@@ -705,6 +433,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
@@ -712,9 +441,7 @@
       "Staggering Blow",
       "Earthgrab",
       "Animal Bane 2"
-    ],
-    "itemKey": "item:ratkiller_(level_8)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Maul",
@@ -735,16 +462,31 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
-      "Vampirism 1",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_maul",
-    "setMembership": []
+      "Vampirism 1"
+    ]
   },
   {
     "name": "Hammer of Life",
@@ -763,6 +505,7 @@
       "Restoration — 1 Charges (Recharged/Day:1)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -771,9 +514,7 @@
       "Heal +12",
       "Repair +12",
       "Restoration — 1 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:hammer_of_life",
-    "setMembership": []
+    ]
   },
   {
     "name": "Barovian's Maul",
@@ -794,6 +535,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -801,9 +543,7 @@
       "Holy 3",
       "Fiery 3",
       "Undead Bane 3"
-    ],
-    "itemKey": "item:barovian's_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Maul",
@@ -824,6 +564,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -831,9 +572,7 @@
       "Human Bane 3",
       "Vampirism 1",
       "Chilling 3"
-    ],
-    "itemKey": "item:macabre_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Maul of Malice",
@@ -852,14 +591,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Incite +20",
       "Intimidate +11"
-    ],
-    "itemKey": "item:maul_of_malice",
-    "setMembership": []
+    ]
   },
   {
     "name": "Green Steel Maul",
@@ -874,13 +612,12 @@
       "Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Green Steel"
-    ],
-    "itemKey": "item:green_steel_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ratkiller (legacy) (level 12)",
@@ -902,6 +639,7 @@
       "Adds Staggering Blow"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -913,9 +651,7 @@
       "+3 Enhancement Bonus → +4 Enhancement Bonus",
       "Upgradeable - Tier 3 Adds Staggering Blow",
       "Adds Staggering Blow"
-    ],
-    "itemKey": "item:ratkiller_(legacy)_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Maul",
@@ -930,13 +666,12 @@
       "Alchemical (Prototype)"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)"
-    ],
-    "itemKey": "item:alchemical_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Maul (level 12)",
@@ -950,12 +685,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_maul_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ratkiller (level 12)",
@@ -976,6 +710,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
@@ -983,9 +718,7 @@
       "Staggering Blow",
       "Earthgrab",
       "Animal Bane 3"
-    ],
-    "itemKey": "item:ratkiller_(level_12)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Maul of the Fallen Age",
@@ -1006,6 +739,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1013,9 +747,7 @@
       "Anarchic 3",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:maul_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Maul of the Golden Age",
@@ -1036,6 +768,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1043,9 +776,7 @@
       "Impactful 3",
       "Vorpal",
       "Entropic 3"
-    ],
-    "itemKey": "item:maul_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Maul",
@@ -1066,6 +797,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1073,9 +805,7 @@
       "Holy 4",
       "Construct Bane 4",
       "Adamantine"
-    ],
-    "itemKey": "item:syranian_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ratkiller (legacy) (level 16)",
@@ -1098,6 +828,7 @@
       "Adds Earthgrab"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Upgradeable - Tier 1",
@@ -1110,9 +841,7 @@
       "+4 Enhancement Bonus → +5 Enhancement Bonus",
       "Upgradeable - Tier 3 Adds Earthgrab",
       "Adds Earthgrab"
-    ],
-    "itemKey": "item:ratkiller_(legacy)_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Fury of the Flame",
@@ -1131,6 +860,7 @@
       "Impact"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1139,9 +869,7 @@
       "Coruscating 4",
       "Fracturing 4",
       "Impact"
-    ],
-    "itemKey": "item:fury_of_the_flame",
-    "setMembership": []
+    ]
   },
   {
     "name": "Mournlode Maul (level 16)",
@@ -1155,12 +883,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:mournlode_maul_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ratkiller (level 16)",
@@ -1181,6 +908,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1188,9 +916,7 @@
       "Staggering Blow",
       "Earthgrab",
       "Animal Bane 4"
-    ],
-    "itemKey": "item:ratkiller_(level_16)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Giant's Fist (level 17)",
@@ -1210,15 +936,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Dazing V",
       "Sundering V",
       "Impact"
-    ],
-    "itemKey": "item:giant's_fist_(level_17)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Absolute Judgement",
@@ -1239,6 +964,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1246,9 +972,7 @@
       "Axiomatic 4",
       "Evil Outsider Bane 4",
       "Command +5"
-    ],
-    "itemKey": "item:absolute_judgement",
-    "setMembership": []
+    ]
   },
   {
     "name": "Giant's Fist (level 18)",
@@ -1268,15 +992,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Dazing V",
       "Sundering V",
       "Impact"
-    ],
-    "itemKey": "item:giant's_fist_(level_18)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Maul",
@@ -1297,6 +1020,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1304,9 +1028,7 @@
       "Coruscating 4",
       "Blazing 10",
       "Evil Outsider Bane 4"
-    ],
-    "itemKey": "item:shining_reliquary_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Maul",
@@ -1327,6 +1049,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -1334,9 +1057,7 @@
       "Unholy 4",
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand"
-    ],
-    "itemKey": "item:defiled_reliquary_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Demolition Maul",
@@ -1357,241 +1078,14 @@
     "augmentSlots": [
       "Red"
     ],
-    "setBonuses": [
-      {
-        "setId": "remodeling_renegade",
-        "setName": "Remodeling Renegade",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+10%★+30% Artifact Bonus to Fortification Bypass",
-        "effectRaw": "♦+10%★+30% Artifact Bonus to Fortification Bypass",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10%",
-            "effect": "Artifact Bonus to Fortification Bypass"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30%",
-            "effect": "Artifact Bonus to Fortification Bypass"
-          }
-        ]
-      },
-      {
-        "setId": "remodeling_renegade",
-        "setName": "Remodeling Renegade",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+5%★+15% Artifact Bonus to Doublestrike and Doubleshot",
-        "effectRaw": "♦+5%★+15% Artifact Bonus to Doublestrike and Doubleshot",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Artifact Bonus to Doublestrike and Doubleshot"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Artifact Bonus to Doublestrike and Doubleshot"
-          }
-        ]
-      },
-      {
-        "setId": "remodeling_renegade",
-        "setName": "Remodeling Renegade",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 3,
-        "effect": "♦+10★+30 Artifact Bonus to Physical Resistance Rating",
-        "effectRaw": "♦+10★+30 Artifact Bonus to Physical Resistance Rating",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+10",
-            "effect": "Artifact Bonus to Physical Resistance Rating"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+30",
-            "effect": "Artifact Bonus to Physical Resistance Rating"
-          }
-        ]
-      },
-      {
-        "setId": "remodeling_renegade",
-        "setName": "Remodeling Renegade",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 4,
-        "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-        "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5",
-            "effect": "Artifact Bonus to Melee and Ranged Power"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15",
-            "effect": "Artifact Bonus to Melee and Ranged Power"
-          }
-        ]
-      },
-      {
-        "setId": "remodeling_renegade",
-        "setName": "Remodeling Renegade",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "piecesRequired": 4,
-        "effect": "♦+5%★+15% Artifact Bonus to Damage vs. Helpless opponents",
-        "effectRaw": "♦+5%★+15% Artifact Bonus to Damage vs. Helpless opponents",
-        "tieredEffects": [
-          {
-            "tier": "heroic",
-            "symbol": "♦",
-            "valueText": "+5%",
-            "effect": "Artifact Bonus to Damage vs. Helpless opponents"
-          },
-          {
-            "tier": "legendary",
-            "symbol": "★",
-            "valueText": "+15%",
-            "effect": "Artifact Bonus to Damage vs. Helpless opponents"
-          }
-        ]
-      }
-    ],
+    "craftingSlots": [],
+    "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Force Blast 4",
       "Impact",
       "Blunt Trauma",
       "Construct Bane 4"
-    ],
-    "itemKey": "item:demolition_maul",
-    "setMembership": [
-      {
-        "setId": "remodeling_renegade",
-        "setName": "Remodeling Renegade",
-        "source": "named_item_sets",
-        "sourceSection": "Slice of Life sets",
-        "minLevels": [
-          18,
-          32
-        ],
-        "availablePieces": 5,
-        "bonusRaw": "3 Pieces Equipped: ♦+10%★+30% Artifact Bonus to Fortification Bypass ♦+5%★+15% Artifact Bonus to Doublestrike and Doubleshot ♦+10★+30 Artifact Bonus to Physical Resistance Rating 4 Pieces Equipped: ♦+5★+15 Artifact Bonus to Melee and Ranged Power ♦+5%★+15% Artifact Bonus to Damage vs. Helpless opponents",
-        "bonuses": [
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10%★+30% Artifact Bonus to Fortification Bypass",
-            "effectRaw": "♦+10%★+30% Artifact Bonus to Fortification Bypass",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10%",
-                "effect": "Artifact Bonus to Fortification Bypass"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30%",
-                "effect": "Artifact Bonus to Fortification Bypass"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+5%★+15% Artifact Bonus to Doublestrike and Doubleshot",
-            "effectRaw": "♦+5%★+15% Artifact Bonus to Doublestrike and Doubleshot",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Artifact Bonus to Doublestrike and Doubleshot"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Artifact Bonus to Doublestrike and Doubleshot"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 3,
-            "effect": "♦+10★+30 Artifact Bonus to Physical Resistance Rating",
-            "effectRaw": "♦+10★+30 Artifact Bonus to Physical Resistance Rating",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+10",
-                "effect": "Artifact Bonus to Physical Resistance Rating"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+30",
-                "effect": "Artifact Bonus to Physical Resistance Rating"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-            "effectRaw": "♦+5★+15 Artifact Bonus to Melee and Ranged Power",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5",
-                "effect": "Artifact Bonus to Melee and Ranged Power"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15",
-                "effect": "Artifact Bonus to Melee and Ranged Power"
-              }
-            ]
-          },
-          {
-            "piecesRequired": 4,
-            "effect": "♦+5%★+15% Artifact Bonus to Damage vs. Helpless opponents",
-            "effectRaw": "♦+5%★+15% Artifact Bonus to Damage vs. Helpless opponents",
-            "tieredEffects": [
-              {
-                "tier": "heroic",
-                "symbol": "♦",
-                "valueText": "+5%",
-                "effect": "Artifact Bonus to Damage vs. Helpless opponents"
-              },
-              {
-                "tier": "legendary",
-                "symbol": "★",
-                "valueText": "+15%",
-                "effect": "Artifact Bonus to Damage vs. Helpless opponents"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   {
@@ -1612,15 +1106,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Dazing VI",
       "Sundering VI",
       "Impact"
-    ],
-    "itemKey": "item:giant's_fist_(level_19)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Hammer of Life",
@@ -1642,6 +1135,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1650,9 +1144,7 @@
       "Heal +17",
       "Repair +17",
       "Heal, Mass — 3 Charges (Recharged/Day:1)"
-    ],
-    "itemKey": "item:epic_hammer_of_life",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Fury of the Flame",
@@ -1674,6 +1166,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1682,9 +1175,7 @@
       "Coruscating 4",
       "Fracturing 4",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_fury_of_the_flame",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ratkiller (legacy) (level 20)",
@@ -1715,6 +1206,7 @@
       "Upgradeable - Tier 3 Adds Earthgrab Adds Red",
       "Adds Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
     ],
@@ -1729,9 +1221,7 @@
       "Stunning +8 → Stunning +10",
       "Adds Earthgrab",
       "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons."
-    ],
-    "itemKey": "item:epic_ratkiller_(legacy)_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Mournlode Maul",
@@ -1745,12 +1235,11 @@
       "See the item description page for details."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "See the item description page for details."
-    ],
-    "itemKey": "item:epic_mournlode_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ratkiller (level 20)",
@@ -1771,6 +1260,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1778,9 +1268,7 @@
       "Staggering Blow",
       "Earthgrab",
       "Animal Bane 4"
-    ],
-    "itemKey": "item:epic_ratkiller_(level_20)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Maul",
@@ -1801,6 +1289,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1808,9 +1297,7 @@
       "Unnatural Bane 4",
       "Destruction",
       "Righteous"
-    ],
-    "itemKey": "item:epic_sworn_silver_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Maul",
@@ -1831,6 +1318,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1838,9 +1326,7 @@
       "Ghostbane 4",
       "Weaken Undead",
       "Adamantine"
-    ],
-    "itemKey": "item:epic_ethereal_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Drow Maul of the Weapon Master",
@@ -1861,6 +1347,7 @@
       "Tendon Slice 10%"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -1871,9 +1358,7 @@
       "Stunning +10",
       "Vertigo +10",
       "Tendon Slice 10%"
-    ],
-    "itemKey": "item:drow_maul_of_the_weapon_master",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Maul",
@@ -1891,13 +1376,12 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ratkiller (legacy) (level 24)",
@@ -1927,6 +1411,7 @@
       "Upgradeable - Tier 3 Adds Earthgrab Adds Red",
       "Adds Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Colorless Augments: Standard augments provide bonuses to ability scores and skills. Set augments are also colorless."
     ],
@@ -1940,9 +1425,7 @@
       "+6 Enhancement Bonus → +7 Enhancement Bonus",
       "Adds Earthgrab",
       "Red Augments: Standard augments provide bonuses to spell power, and grant elemental damage on hit and DR bypass to weapons."
-    ],
-    "itemKey": "item:epic_ratkiller_(legacy)_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ratkiller (level 24)",
@@ -1963,6 +1446,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -1970,9 +1454,7 @@
       "Staggering Blow",
       "Earthgrab",
       "Animal Bane 5"
-    ],
-    "itemKey": "item:epic_ratkiller_(level_24)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Giant's Fist (level 26)",
@@ -1992,15 +1474,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Dazing VII",
       "Sundering VII",
       "Impact"
-    ],
-    "itemKey": "item:giant's_fist_(level_26)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Maul",
@@ -2015,14 +1496,13 @@
       "Legendary Green Steel"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus"
-    ],
-    "itemKey": "item:legendary_green_steel_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Giant's Fist (level 27)",
@@ -2042,15 +1522,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Dazing VIII",
       "Sundering VIII",
       "Impact"
-    ],
-    "itemKey": "item:giant's_fist_(level_27)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Giant's Fist (level 28)",
@@ -2070,15 +1549,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Dazing IX",
       "Sundering IX",
       "Impact"
-    ],
-    "itemKey": "item:giant's_fist_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Tremor, the Breaker of Bones",
@@ -2101,6 +1579,7 @@
       "Purple",
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2108,9 +1587,7 @@
       "Chilling 6",
       "Weaken Undead",
       "Crushing Wave"
-    ],
-    "itemKey": "item:tremor,_the_breaker_of_bones",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ratkiller (level 28)",
@@ -2131,6 +1608,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+12 Enhancement Bonus",
@@ -2138,9 +1616,7 @@
       "Staggering Blow",
       "Earthgrab",
       "Animal Bane 6"
-    ],
-    "itemKey": "item:epic_ratkiller_(level_28)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Absolute Judgement",
@@ -2161,6 +1637,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2168,9 +1645,7 @@
       "Axiomatic 6",
       "Evil Outsider Bane 6",
       "Command +7"
-    ],
-    "itemKey": "item:legendary_absolute_judgement",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Maul",
@@ -2191,6 +1666,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2198,9 +1674,7 @@
       "Holy 6",
       "Fiery 6",
       "Undead Bane 6"
-    ],
-    "itemKey": "item:morninglord's_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Maul",
@@ -2221,6 +1695,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2228,9 +1703,7 @@
       "Human Bane 6",
       "Vampirism 2",
       "Chilling 6"
-    ],
-    "itemKey": "item:nightmother's_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Maul",
@@ -2251,6 +1724,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2258,9 +1732,7 @@
       "Holy 6",
       "Construct Bane 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_syranian_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Skeleton Hunter",
@@ -2282,6 +1754,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2290,9 +1763,7 @@
       "Ghostbane 6",
       "Undead Bane 6",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_skeleton_hunter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Maul",
@@ -2313,6 +1784,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2320,9 +1792,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Maul",
@@ -2343,6 +1813,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2350,9 +1821,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Fury of the Flame",
@@ -2374,6 +1843,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2382,9 +1852,7 @@
       "Coruscating 6",
       "Fracturing 6",
       "Adamantine"
-    ],
-    "itemKey": "item:legendary_fury_of_the_flame",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Hammer of Life",
@@ -2406,6 +1874,7 @@
     "augmentSlots": [
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Heal, Mass — 3 Charges (Recharged/Day:1)",
@@ -2414,9 +1883,7 @@
       "Greater Disruption Guard",
       "Heal +21",
       "Repair +21"
-    ],
-    "itemKey": "item:legendary_hammer_of_life",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shipbreaker",
@@ -2437,16 +1904,21 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Construct Bane 6",
       "Fiery 6",
-      "Acidic 6",
-      "Isle of Dread: Scale Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:legendary_shipbreaker",
-    "setMembership": []
+      "Acidic 6"
+    ]
   },
   {
     "name": "Dinosaur Bone Maul",
@@ -2469,16 +1941,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_maul",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Attuned Bone Maul",
@@ -2501,16 +1993,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_maul",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "Legendary Ratkiller (level 32)",
@@ -2531,6 +2043,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2538,9 +2051,7 @@
       "Staggering Blow",
       "Earthgrab",
       "Animal Bane 6"
-    ],
-    "itemKey": "item:legendary_ratkiller_(level_32)",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Maul",
@@ -2563,6 +2074,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2570,9 +2082,7 @@
       "Coruscating 6",
       "Blazing 15",
       "Evil Outsider Bane 6"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Maul",
@@ -2596,6 +2106,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Vile Grip of the Hidden Hand"
     ],
@@ -2605,9 +2116,7 @@
       "Unholy 6",
       "Evil Blast 6",
       "Taint of Evil"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Demolition Maul",
@@ -2630,6 +2139,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2637,9 +2147,7 @@
       "Impact",
       "Blunt Trauma",
       "Construct Bane 6"
-    ],
-    "itemKey": "item:legendary_demolition_maul",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Maul of the Fallen Age",
@@ -2662,6 +2170,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2669,9 +2178,7 @@
       "Anarchic 7",
       "Aligned",
       "Impact"
-    ],
-    "itemKey": "item:legendary_maul_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Maul of the Golden Age",
@@ -2694,6 +2201,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2701,9 +2209,7 @@
       "Impactful 7",
       "Sovereign Vorpal",
       "Entropic 7"
-    ],
-    "itemKey": "item:legendary_maul_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Maul of the Undying Age",
@@ -2726,6 +2232,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -2733,9 +2240,7 @@
       "3rd Degree Burns",
       "Sovereign Vorpal",
       "Sealed in Fire"
-    ],
-    "itemKey": "item:maul_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Maul",
@@ -2758,16 +2263,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_maul",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   },
   {
     "name": "The Shattering Death",
@@ -2792,18 +2317,38 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
       "Murderous Swing",
-      "Revel in Blood (Bludgeoning)",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:the_shattering_death",
-    "setMembership": []
+      "Revel in Blood (Bludgeoning)"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Maul",
@@ -2826,15 +2371,35 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
-      "+15 Enhancement Bonus",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_maul",
-    "setMembership": []
+      "+15 Enhancement Bonus"
+    ]
   }
 ]

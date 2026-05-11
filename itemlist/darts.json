@@ -9,10 +9,9 @@
     "minLevel": 1,
     "effectsRaw": [],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
-    "namedEffects": [],
-    "itemKey": "item:lump_of_coal",
-    "setMembership": []
+    "namedEffects": []
   },
   {
     "name": "Snowball",
@@ -26,12 +25,11 @@
       "Icy Burst"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Icy Burst"
-    ],
-    "itemKey": "item:snowball",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sphere of Silver Flame Essence",
@@ -45,12 +43,11 @@
       "Holy"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Holy"
-    ],
-    "itemKey": "item:sphere_of_silver_flame_essence",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sun Flask",
@@ -64,12 +61,11 @@
       "Ghost Touch"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Ghost Touch"
-    ],
-    "itemKey": "item:sun_flask",
-    "setMembership": []
+    ]
   },
   {
     "name": "Sworn Silver Dart",
@@ -88,14 +84,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Silver , Alchemical",
       "Returning"
-    ],
-    "itemKey": "item:sworn_silver_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ethereal Dart",
@@ -114,14 +109,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
       "Ghost Touch",
       "Returning"
-    ],
-    "itemKey": "item:ethereal_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Spectre Striker",
@@ -141,15 +135,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+3 Enhancement Bonus",
       "Deception",
       "Ghost Touch",
       "Returning"
-    ],
-    "itemKey": "item:spectre_striker",
-    "setMembership": []
+    ]
   },
   {
     "name": "Splintermast",
@@ -169,15 +162,14 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
       "Bleeding 2",
       "Tidal 2",
       "Returning"
-    ],
-    "itemKey": "item:splintermast",
-    "setMembership": []
+    ]
   },
   {
     "name": "Ball o' Yarn",
@@ -199,6 +191,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -207,9 +200,7 @@
       "Impactful 2",
       "Bludgeoning 2",
       "Returning"
-    ],
-    "itemKey": "item:ball_o'_yarn",
-    "setMembership": []
+    ]
   },
   {
     "name": "Pumpkin Head",
@@ -221,10 +212,9 @@
     "minLevel": 5,
     "effectsRaw": [],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
-    "namedEffects": [],
-    "itemKey": "item:pumpkin_head",
-    "setMembership": []
+    "namedEffects": []
   },
   {
     "name": "Lesser Vial of Seafog",
@@ -238,12 +228,11 @@
       "Special: Casts Obscuring Mist at caster level 10."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Special: Casts Obscuring Mist at caster level 10."
-    ],
-    "itemKey": "item:lesser_vial_of_seafog",
-    "setMembership": []
+    ]
   },
   {
     "name": "Greater Vial of Seafog",
@@ -257,12 +246,11 @@
       "Special: Casts Solid Fog at caster level 10."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Special: Casts Solid Fog at caster level 10."
-    ],
-    "itemKey": "item:greater_vial_of_seafog",
-    "setMembership": []
+    ]
   },
   {
     "name": "Bottled Fear",
@@ -276,12 +264,11 @@
       "AoE Phantasmal Killer CL10"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "AoE Phantasmal Killer CL10"
-    ],
-    "itemKey": "item:bottled_fear",
-    "setMembership": []
+    ]
   },
   {
     "name": "Vial of Seafog",
@@ -295,12 +282,11 @@
       "Special: Casts Fog Cloud at caster level 10."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Special: Casts Fog Cloud at caster level 10."
-    ],
-    "itemKey": "item:vial_of_seafog",
-    "setMembership": []
+    ]
   },
   {
     "name": "Jolly Roger Bomb",
@@ -314,12 +300,11 @@
       "Special: Casts Slay Living at caster level 10."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Special: Casts Slay Living at caster level 10."
-    ],
-    "itemKey": "item:jolly_roger_bomb",
-    "setMembership": []
+    ]
   },
   {
     "name": "Skull Head",
@@ -331,10 +316,9 @@
     "minLevel": 5,
     "effectsRaw": [],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
-    "namedEffects": [],
-    "itemKey": "item:skull_head",
-    "setMembership": []
+    "namedEffects": []
   },
   {
     "name": "Ferrocrystal Dart",
@@ -356,6 +340,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+2 Enhancement Bonus",
@@ -364,9 +349,7 @@
       "Maiming 2",
       "Crystal",
       "Returning"
-    ],
-    "itemKey": "item:ferrocrystal_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Flamesalt Dart",
@@ -388,6 +371,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+1 Enhancement Bonus",
@@ -396,9 +380,7 @@
       "Weakening 1",
       "Flametouched Iron",
       "Returning"
-    ],
-    "itemKey": "item:flamesalt_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightforge Spike",
@@ -417,14 +399,13 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:nightforge_spike",
-    "setMembership": []
+    ]
   },
   {
     "name": "Calamitous Dart",
@@ -446,17 +427,32 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+4 Enhancement Bonus",
       "Vampirism 1",
-      "Returning",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)"
-    ],
-    "itemKey": "item:calamitous_dart",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Barovian's Dart",
@@ -478,6 +474,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -486,9 +483,7 @@
       "Fiery 3",
       "Undead Bane 3",
       "Returning"
-    ],
-    "itemKey": "item:barovian's_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Macabre Dart",
@@ -510,6 +505,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -518,9 +514,7 @@
       "Vampirism 1",
       "Chilling 3",
       "Returning"
-    ],
-    "itemKey": "item:macabre_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Alchemical Dart",
@@ -536,14 +530,13 @@
       "Returning"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
       "Alchemical (Prototype)",
       "Returning"
-    ],
-    "itemKey": "item:alchemical_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dart of the Fallen Age",
@@ -565,6 +558,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -573,9 +567,7 @@
       "Aligned",
       "Keen",
       "Returning"
-    ],
-    "itemKey": "item:dart_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dart of the Golden Age",
@@ -597,6 +589,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -605,9 +598,7 @@
       "Vorpal",
       "Entropic 3",
       "Returning"
-    ],
-    "itemKey": "item:dart_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Returning Snowball",
@@ -629,6 +620,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -637,9 +629,7 @@
       "Freezing 8",
       "Chilling 3",
       "Returning"
-    ],
-    "itemKey": "item:returning_snowball",
-    "setMembership": []
+    ]
   },
   {
     "name": "Syranian Dart",
@@ -661,6 +651,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -669,9 +660,7 @@
       "Construct Bane 4",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:syranian_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Twisted Missile",
@@ -693,6 +682,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -701,9 +691,7 @@
       "Maiming 4",
       "Weaken Undead",
       "Returning"
-    ],
-    "itemKey": "item:twisted_missile",
-    "setMembership": []
+    ]
   },
   {
     "name": "Shining Reliquary Dart",
@@ -725,6 +713,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -733,9 +722,7 @@
       "Blazing 10",
       "Evil Outsider Bane 4",
       "Returning"
-    ],
-    "itemKey": "item:shining_reliquary_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Defiled Reliquary Dart",
@@ -757,6 +744,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -765,9 +753,7 @@
       "Evil Blast 4",
       "Vile Grip of the Hidden Hand",
       "Returning"
-    ],
-    "itemKey": "item:defiled_reliquary_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "+5 Heirloom Spelltouched Dart",
@@ -785,6 +771,7 @@
       "Strength Sapping"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+5 Enhancement Bonus",
@@ -792,9 +779,7 @@
       "Flaming",
       "Steam",
       "Strength Sapping"
-    ],
-    "itemKey": "item:+5_heirloom_spelltouched_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Sworn Silver Dart",
@@ -816,6 +801,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -824,9 +810,7 @@
       "Destruction",
       "Righteous",
       "Returning"
-    ],
-    "itemKey": "item:epic_sworn_silver_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Ethereal Dart",
@@ -848,6 +832,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -856,9 +841,7 @@
       "Weaken Undead",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:epic_ethereal_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Splintermast",
@@ -883,6 +866,7 @@
       "Red",
       "Colorless"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+6 Enhancement Bonus",
@@ -892,9 +876,7 @@
       "Ghostbane 4",
       "Corrosive Salt",
       "Returning"
-    ],
-    "itemKey": "item:epic_splintermast",
-    "setMembership": []
+    ]
   },
   {
     "name": "Thunder-Forged Alloy Dart",
@@ -913,14 +895,13 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+9 Enhancement Bonus",
       "Returning",
       "Thunder-Forged (Tier 0)"
-    ],
-    "itemKey": "item:thunder-forged_alloy_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Coffin Nail",
@@ -943,6 +924,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+7 Enhancement Bonus",
@@ -952,9 +934,7 @@
       "Improved Paralyzing",
       "Improved Slowburst",
       "Improved Vorpal"
-    ],
-    "itemKey": "item:coffin_nail",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Green Steel Dart",
@@ -970,15 +950,14 @@
       "Returning"
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Green Steel"
     ],
     "namedEffects": [
       "+14 Enhancement Bonus",
       "Returning"
-    ],
-    "itemKey": "item:legendary_green_steel_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Epic Returning Snowball",
@@ -1000,6 +979,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+13 Enhancement Bonus",
@@ -1008,9 +988,7 @@
       "Freezing 13",
       "Chilling 6",
       "Returning"
-    ],
-    "itemKey": "item:epic_returning_snowball",
-    "setMembership": []
+    ]
   },
   {
     "name": "Gloaming Philter",
@@ -1025,13 +1003,12 @@
       "Special: Deals 10 to 60 Negative Energy Damage to nearby enemies, and possibly inflicting a negative level."
     ],
     "augmentSlots": [],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "Returning",
       "Special: Deals 10 to 60 Negative Energy Damage to nearby enemies, and possibly inflicting a negative level."
-    ],
-    "itemKey": "item:gloaming_philter",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Spectre Striker",
@@ -1053,6 +1030,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1061,9 +1039,7 @@
       "Piercing 6",
       "Ghost Touch",
       "Returning"
-    ],
-    "itemKey": "item:legendary_spectre_striker",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Twisted Missile",
@@ -1085,6 +1061,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1093,9 +1070,7 @@
       "Maiming 6",
       "Weaken Undead",
       "Returning"
-    ],
-    "itemKey": "item:legendary_twisted_missile",
-    "setMembership": []
+    ]
   },
   {
     "name": "Morninglord's Dart",
@@ -1117,6 +1092,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1125,9 +1101,7 @@
       "Fiery 6",
       "Undead Bane 6",
       "Returning"
-    ],
-    "itemKey": "item:morninglord's_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Nightmother's Dart",
@@ -1149,6 +1123,7 @@
     "augmentSlots": [
       "Orange"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1157,9 +1132,7 @@
       "Vampirism 2",
       "Chilling 6",
       "Returning"
-    ],
-    "itemKey": "item:nightmother's_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Syranian Dart",
@@ -1181,6 +1154,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1189,9 +1163,7 @@
       "Construct Bane 6",
       "Adamantine",
       "Returning"
-    ],
-    "itemKey": "item:legendary_syranian_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ferrocrystal Dart",
@@ -1212,6 +1184,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1219,9 +1192,7 @@
       "Improved Destruction",
       "Maiming 6",
       "Crystal"
-    ],
-    "itemKey": "item:legendary_ferrocrystal_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Flamesalt Dart",
@@ -1242,6 +1213,7 @@
     "augmentSlots": [
       "Red"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1249,9 +1221,7 @@
       "Monstrous Humanoid Bane 6",
       "Weakening 3",
       "Flametouched Iron"
-    ],
-    "itemKey": "item:legendary_flamesalt_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Splintermast",
@@ -1276,6 +1246,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1285,9 +1256,7 @@
       "Ghostbane 6",
       "Concentrated Corrosive Salt",
       "Returning"
-    ],
-    "itemKey": "item:legendary_splintermast",
-    "setMembership": []
+    ]
   },
   {
     "name": "The Immortal Sun Flask",
@@ -1311,6 +1280,7 @@
       "Red",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1319,9 +1289,7 @@
       "Flaming Blast 6",
       "Good Blast 6",
       "Returning"
-    ],
-    "itemKey": "item:the_immortal_sun_flask",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dinosaur Bone Dart",
@@ -1345,17 +1313,37 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:dinosaur_bone_dart",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Attuned Bone Dart",
@@ -1379,17 +1367,37 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Isle of Dread",
+        "slotType": "Scale",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Fang",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Claw",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      },
+      {
+        "system": "Isle of Dread",
+        "slotType": "Horn",
+        "itemGroup": "Weapon",
+        "status": "Empty"
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Isle of Dread: Scale Slot (Weapon): Empty",
-      "Isle of Dread: Fang Slot (Weapon): Empty",
-      "Isle of Dread: Claw Slot (Weapon): Empty",
-      "Isle of Dread: Horn Slot (Weapon): Empty"
-    ],
-    "itemKey": "item:attuned_bone_dart",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Legendary Shining Reliquary Dart",
@@ -1413,6 +1421,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1421,9 +1430,7 @@
       "Blazing 15",
       "Evil Outsider Bane 6",
       "Returning"
-    ],
-    "itemKey": "item:legendary_shining_reliquary_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Defiled Reliquary Dart",
@@ -1448,6 +1455,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1457,9 +1465,7 @@
       "Humanoid Bane 6",
       "Taint of Evil",
       "Returning"
-    ],
-    "itemKey": "item:legendary_defiled_reliquary_dart",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Ball o' Yarn",
@@ -1483,6 +1489,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [
       "Legendary Slowburst",
       "Legendary Entangling Yarn"
@@ -1492,9 +1499,7 @@
       "Impactful 6",
       "Bludgeoning 6",
       "Returning"
-    ],
-    "itemKey": "item:legendary_ball_o'_yarn",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Dart of the Fallen Age",
@@ -1518,6 +1523,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1526,9 +1532,7 @@
       "Aligned",
       "Keen",
       "Returning"
-    ],
-    "itemKey": "item:legendary_dart_of_the_fallen_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Dart of the Golden Age",
@@ -1552,6 +1556,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1560,9 +1565,7 @@
       "Sovereign Vorpal",
       "Entropic 7",
       "Returning"
-    ],
-    "itemKey": "item:legendary_dart_of_the_golden_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Dart of the Undying Age",
@@ -1586,6 +1589,7 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
@@ -1594,9 +1598,7 @@
       "Sovereign Vorpal",
       "Sealed in Fire",
       "Returning"
-    ],
-    "itemKey": "item:dart_of_the_undying_age",
-    "setMembership": []
+    ]
   },
   {
     "name": "Legendary Calamitous Dart",
@@ -1620,17 +1622,37 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_calamitous_dart",
-    "setMembership": []
+      "Returning"
+    ]
   },
   {
     "name": "Legendary Cataclysmic Dart",
@@ -1654,16 +1676,36 @@
       "Orange",
       "Purple"
     ],
+    "craftingSlots": [
+      {
+        "system": "Lamordia",
+        "slotType": "Melancholic",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Dolorous",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Miserable",
+        "itemGroup": "Weapon",
+        "status": null
+      },
+      {
+        "system": "Lamordia",
+        "slotType": "Woeful",
+        "itemGroup": "Weapon",
+        "status": null
+      }
+    ],
     "setBonuses": [],
     "namedEffects": [
       "+15 Enhancement Bonus",
-      "Returning",
-      "Lamordia: Melancholic Slot (Weapon)",
-      "Lamordia: Dolorous Slot (Weapon)",
-      "Lamordia: Miserable Slot (Weapon)",
-      "Lamordia: Woeful Slot (Weapon)"
-    ],
-    "itemKey": "item:legendary_cataclysmic_dart",
-    "setMembership": []
+      "Returning"
+    ]
   }
 ]
