@@ -1,0 +1,57 @@
+Gearset Summary
+===============
+Goal: Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.
+
+Counts:
+- Met targets: 23
+- Open gaps: 23
+- Normal augment assignments: 7
+- Crafting augment assignments: 4
+- Stacking conflicts: 9
+- Relevant conflicts: 8
+
+Selected Gear:
+- eyes: Legendary Eternal Flameguard's Lenses
+- neck: Legendary Black Dynamo
+- trinket: Legendary Breaker's Bauble
+- finger: Radiant Ring of Taer Valaestas
+- hands: Legendary Wondrous Magegloves
+- armor: Firefly Garb
+- feet: Death's Deferral
+- waist: Epic Belt of the Red Abishai
+- wrists: Perfected Jidz-Tet'ka
+- back: Legendary Gravekeeper's Stoic Cloak
+- head: Legendary Lamordian Top Hat
+- weapon: Storm's Harness
+
+Normal Augments:
+- Sapphire of Stunning +16 into Radiant Ring of Taer Valaestas: Stunning +16
+- A Treatise on Battle into Storm's Harness: Combat Mastery +11
+- Diamond of Constitution +14 into Legendary Black Dynamo: Constitution +14
+- Sapphire of Resistance +11 into Firefly Garb: Resistance +11
+- Diamond of Festive Wisdom +2 into Legendary Breaker's Bauble: Festive Wisdom +2
+- Diamond of Festive Constitution +2 into Epic Belt of the Red Abishai: Festive Constitution +2
+- Sapphire of Dodge +14% into Perfected Jidz-Tet'ka: Dodge +14%
+
+Crafting Augments:
+- Dolorous Quality Combat Mastery (Heroic) on Legendary Black Dynamo: +3 Quality bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.
+- Dolorous Healing Amplification (Heroic) on Legendary Gravekeeper's Stoic Cloak: +61 Competence bonus to Positive Healing Amplification.
+- Melancholic False Life (Heroic) on Legendary Black Dynamo: +57 Enhancement bonus to Maximum HP.
+- Melancholic Wisdom (Heroic) on Legendary Gravekeeper's Stoic Cloak: +15 Enhancement bonus to Wisdom.
+
+Top Remaining Gaps:
+- Stunning: current 16, minimum 16, target 17, status below_target
+- Combat Mastery: current 11, minimum 10, target 12, status below_target
+- Insightful Stunning: current 0, minimum 6, target 6, status missing
+- PRR: current 33, minimum 33, target 38, status below_target
+- MRR: current 35, minimum 33, target 38, status below_target
+- Deadly: current 11, minimum 11, target 12, status below_target
+- Physical Sheltering: current 33, minimum 33, target 38, status below_target
+- Enhanced Ki: current 0, minimum 4, target 5, status missing
+- Constitution: current 14, minimum 14, target 15, status below_target
+- Magical Sheltering: current 35, minimum 33, target 38, status below_target
+
+Optimizer Swaps:
+- Pass 1: Finger: Legendary Lionheart Ring -> Radiant Ring of Taer Valaestas
+- Pass 2: Eyes: Visions of Precision -> Legendary Eternal Flameguard's Lenses
+- Pass 3: Waist: Belt of Blind Devotion -> Epic Belt of the Red Abishai

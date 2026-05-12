@@ -1,0 +1,796 @@
+{
+  "valid": true,
+  "errorCount": 0,
+  "warningCount": 9,
+  "stackingConflictCount": 9,
+  "relevantConflictCount": 8,
+  "errors": [],
+  "warnings": [
+    {
+      "type": "stacking_conflict",
+      "message": "Deadly +11 suppresses Deadly +10 for Default:Deadly.",
+      "stackKey": "Default:Deadly",
+      "winningBonus": {
+        "raw": "Deadly +11",
+        "parsed": true,
+        "parser": "simple_numeric_bonus",
+        "bonusType": "Default",
+        "bonusTypeInferred": true,
+        "stat": "Deadly",
+        "value": 11,
+        "valueText": "+11",
+        "isPercent": false,
+        "family": "Deadly",
+        "stackKey": "Default:Deadly",
+        "source": {
+          "type": "item",
+          "name": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "slot": "eyes"
+        },
+        "sourceLabel": "Legendary Eternal Flameguard's Lenses"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Deadly +10",
+          "parsed": true,
+          "parser": "simple_numeric_bonus",
+          "bonusType": "Default",
+          "bonusTypeInferred": true,
+          "stat": "Deadly",
+          "value": 10,
+          "valueText": "+10",
+          "isPercent": false,
+          "family": "Deadly",
+          "stackKey": "Default:Deadly",
+          "source": {
+            "type": "item",
+            "name": "Storm's Harness",
+            "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+            "slot": "weapon"
+          },
+          "sourceLabel": "Storm's Harness"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "Quality Deadly +3 suppresses Quality Deadly +3, Quality Deadly +3 for Quality:Deadly.",
+      "stackKey": "Quality:Deadly",
+      "winningBonus": {
+        "raw": "Quality Deadly +3",
+        "parsed": true,
+        "parser": "prefix_bonus_type",
+        "bonusType": "Quality",
+        "bonusTypeInferred": false,
+        "stat": "Deadly",
+        "value": 3,
+        "valueText": "+3",
+        "isPercent": false,
+        "family": "Deadly",
+        "stackKey": "Quality:Deadly",
+        "source": {
+          "type": "item",
+          "name": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "slot": "eyes"
+        },
+        "sourceLabel": "Legendary Eternal Flameguard's Lenses"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Quality Deadly +3",
+          "parsed": true,
+          "parser": "prefix_bonus_type",
+          "bonusType": "Quality",
+          "bonusTypeInferred": false,
+          "stat": "Deadly",
+          "value": 3,
+          "valueText": "+3",
+          "isPercent": false,
+          "family": "Deadly",
+          "stackKey": "Quality:Deadly",
+          "source": {
+            "type": "item",
+            "name": "Radiant Ring of Taer Valaestas",
+            "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+            "slot": "finger"
+          },
+          "sourceLabel": "Radiant Ring of Taer Valaestas"
+        },
+        {
+          "raw": "Quality Deadly +3",
+          "parsed": true,
+          "parser": "prefix_bonus_type",
+          "bonusType": "Quality",
+          "bonusTypeInferred": false,
+          "stat": "Deadly",
+          "value": 3,
+          "valueText": "+3",
+          "isPercent": false,
+          "family": "Deadly",
+          "stackKey": "Quality:Deadly",
+          "source": {
+            "type": "item",
+            "name": "Death's Deferral",
+            "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+            "slot": "feet"
+          },
+          "sourceLabel": "Death's Deferral"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "Doublestrike 16% suppresses Doublestrike 16% for Default:Doublestrike.",
+      "stackKey": "Default:Doublestrike",
+      "winningBonus": {
+        "raw": "Doublestrike 16%",
+        "parsed": true,
+        "parser": "simple_numeric_bonus",
+        "bonusType": "Default",
+        "bonusTypeInferred": true,
+        "stat": "Doublestrike",
+        "value": 16,
+        "valueText": "16%",
+        "isPercent": true,
+        "family": "Doublestrike",
+        "stackKey": "Default:Doublestrike",
+        "source": {
+          "type": "item",
+          "name": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "slot": "eyes"
+        },
+        "sourceLabel": "Legendary Eternal Flameguard's Lenses"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Doublestrike 16%",
+          "parsed": true,
+          "parser": "simple_numeric_bonus",
+          "bonusType": "Default",
+          "bonusTypeInferred": true,
+          "stat": "Doublestrike",
+          "value": 16,
+          "valueText": "16%",
+          "isPercent": true,
+          "family": "Doublestrike",
+          "stackKey": "Default:Doublestrike",
+          "source": {
+            "type": "item",
+            "name": "Legendary Breaker's Bauble",
+            "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+            "slot": "trinket"
+          },
+          "sourceLabel": "Legendary Breaker's Bauble"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "Wisdom +14 suppresses Wisdom +14 for Default:Wisdom.",
+      "stackKey": "Default:Wisdom",
+      "winningBonus": {
+        "raw": "Wisdom +14",
+        "parsed": true,
+        "parser": "simple_numeric_bonus",
+        "bonusType": "Default",
+        "bonusTypeInferred": true,
+        "stat": "Wisdom",
+        "value": 14,
+        "valueText": "+14",
+        "isPercent": false,
+        "family": "Wisdom",
+        "stackKey": "Default:Wisdom",
+        "source": {
+          "type": "item",
+          "name": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "slot": "finger"
+        },
+        "sourceLabel": "Radiant Ring of Taer Valaestas"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Wisdom +14",
+          "parsed": true,
+          "parser": "simple_numeric_bonus",
+          "bonusType": "Default",
+          "bonusTypeInferred": true,
+          "stat": "Wisdom",
+          "value": 14,
+          "valueText": "+14",
+          "isPercent": false,
+          "family": "Wisdom",
+          "stackKey": "Default:Wisdom",
+          "source": {
+            "type": "item",
+            "name": "Perfected Jidz-Tet'ka",
+            "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+            "slot": "wrists"
+          },
+          "sourceLabel": "Perfected Jidz-Tet'ka"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "+15 Enhancement Bonus suppresses +14 Enhancement Bonus for Enhancement:Weapon Enhancement.",
+      "stackKey": "Enhancement:Weapon Enhancement",
+      "winningBonus": {
+        "raw": "+15 Enhancement Bonus",
+        "parsed": true,
+        "parser": "enhancement_bonus",
+        "bonusType": "Enhancement",
+        "bonusTypeInferred": false,
+        "stat": "Weapon Enhancement",
+        "value": 15,
+        "valueText": "+15",
+        "isPercent": false,
+        "family": "Weapon Enhancement",
+        "stackKey": "Enhancement:Weapon Enhancement",
+        "source": {
+          "type": "item",
+          "name": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "slot": "armor"
+        },
+        "sourceLabel": "Firefly Garb"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "+14 Enhancement Bonus",
+          "parsed": true,
+          "parser": "enhancement_bonus",
+          "bonusType": "Enhancement",
+          "bonusTypeInferred": false,
+          "stat": "Weapon Enhancement",
+          "value": 14,
+          "valueText": "+14",
+          "isPercent": false,
+          "family": "Weapon Enhancement",
+          "stackKey": "Enhancement:Weapon Enhancement",
+          "source": {
+            "type": "item",
+            "name": "Storm's Harness",
+            "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+            "slot": "weapon"
+          },
+          "sourceLabel": "Storm's Harness"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "+61 Competence bonus to Positive Healing Amplification suppresses Competence Healing Amplification +53 for Competence:Healing Amplification.",
+      "stackKey": "Competence:Healing Amplification",
+      "winningBonus": {
+        "raw": "+61 Competence bonus to Positive Healing Amplification",
+        "parsed": true,
+        "parser": "explicit_bonus_to",
+        "bonusType": "Competence",
+        "bonusTypeInferred": false,
+        "stat": "Healing Amplification",
+        "value": 61,
+        "valueText": "+61",
+        "isPercent": false,
+        "family": "Healing Amplification",
+        "stackKey": "Competence:Healing Amplification",
+        "source": {
+          "type": "crafting_augment",
+          "name": "Dolorous Healing Amplification (Heroic)",
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "craftingSlotKey": "Lamordia:Dolorous:Accessory",
+          "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak::Lamordia:Dolorous:Accessory"
+        },
+        "sourceLabel": "Dolorous Healing Amplification (Heroic) planned for Legendary Gravekeeper's Stoic Cloak"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Competence Healing Amplification +53",
+          "parsed": true,
+          "parser": "prefix_bonus_type",
+          "bonusType": "Competence",
+          "bonusTypeInferred": false,
+          "stat": "Healing Amplification",
+          "value": 53,
+          "valueText": "+53",
+          "isPercent": false,
+          "family": "Healing Amplification",
+          "stackKey": "Competence:Healing Amplification",
+          "source": {
+            "type": "item",
+            "name": "Firefly Garb",
+            "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+            "slot": "armor"
+          },
+          "sourceLabel": "Firefly Garb"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "False Life +50 suppresses False Life +36 for Default:False Life.",
+      "stackKey": "Default:False Life",
+      "winningBonus": {
+        "raw": "False Life +50",
+        "parsed": true,
+        "parser": "simple_numeric_bonus",
+        "bonusType": "Default",
+        "bonusTypeInferred": true,
+        "stat": "False Life",
+        "value": 50,
+        "valueText": "+50",
+        "isPercent": false,
+        "family": "False Life",
+        "stackKey": "Default:False Life",
+        "source": {
+          "type": "item",
+          "name": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "slot": "armor"
+        },
+        "sourceLabel": "Firefly Garb"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "False Life +36",
+          "parsed": true,
+          "parser": "simple_numeric_bonus",
+          "bonusType": "Default",
+          "bonusTypeInferred": true,
+          "stat": "False Life",
+          "value": 36,
+          "valueText": "+36",
+          "isPercent": false,
+          "family": "False Life",
+          "stackKey": "Default:False Life",
+          "source": {
+            "type": "item",
+            "name": "Epic Belt of the Red Abishai",
+            "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+            "slot": "waist"
+          },
+          "sourceLabel": "Epic Belt of the Red Abishai"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "Insightful Wisdom +7 suppresses Insightful Wisdom +4 for Insightful:Wisdom.",
+      "stackKey": "Insightful:Wisdom",
+      "winningBonus": {
+        "raw": "Insightful Wisdom +7",
+        "parsed": true,
+        "parser": "prefix_bonus_type",
+        "bonusType": "Insightful",
+        "bonusTypeInferred": false,
+        "stat": "Wisdom",
+        "value": 7,
+        "valueText": "+7",
+        "isPercent": false,
+        "family": "Wisdom",
+        "stackKey": "Insightful:Wisdom",
+        "source": {
+          "type": "item",
+          "name": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "slot": "head"
+        },
+        "sourceLabel": "Legendary Lamordian Top Hat"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Insightful Wisdom +4",
+          "parsed": true,
+          "parser": "prefix_bonus_type",
+          "bonusType": "Insightful",
+          "bonusTypeInferred": false,
+          "stat": "Wisdom",
+          "value": 4,
+          "valueText": "+4",
+          "isPercent": false,
+          "family": "Wisdom",
+          "stackKey": "Insightful:Wisdom",
+          "source": {
+            "type": "item",
+            "name": "Epic Belt of the Red Abishai",
+            "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+            "slot": "waist"
+          },
+          "sourceLabel": "Epic Belt of the Red Abishai"
+        }
+      ]
+    },
+    {
+      "type": "stacking_conflict",
+      "message": "Dodge +14% suppresses Dodge +9% for Default:Dodge.",
+      "stackKey": "Default:Dodge",
+      "winningBonus": {
+        "raw": "Dodge +14%",
+        "parsed": true,
+        "parser": "simple_numeric_bonus",
+        "bonusType": "Default",
+        "bonusTypeInferred": true,
+        "stat": "Dodge",
+        "value": 14,
+        "valueText": "+14%",
+        "isPercent": true,
+        "family": "Dodge",
+        "stackKey": "Default:Dodge",
+        "source": {
+          "type": "augment",
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "slotColor": "blue",
+          "name": "Sapphire of Dodge +14%",
+          "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B14%25"
+        },
+        "sourceLabel": "Sapphire of Dodge +14% slotted into Perfected Jidz-Tet'ka"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Dodge +9%",
+          "parsed": true,
+          "parser": "simple_numeric_bonus",
+          "bonusType": "Default",
+          "bonusTypeInferred": true,
+          "stat": "Dodge",
+          "value": 9,
+          "valueText": "+9%",
+          "isPercent": true,
+          "family": "Dodge",
+          "stackKey": "Default:Dodge",
+          "source": {
+            "type": "item",
+            "name": "Epic Belt of the Red Abishai",
+            "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+            "slot": "waist"
+          },
+          "sourceLabel": "Epic Belt of the Red Abishai"
+        }
+      ]
+    }
+  ],
+  "activeSetBonuses": [],
+  "setProgress": [],
+  "craftingAssignments": [
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Black Dynamo",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+      "craftingSlotKey": "Lamordia:Dolorous:Accessory",
+      "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo::Lamordia:Dolorous:Accessory",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "augmentName": "Dolorous Quality Combat Mastery (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+3 Quality bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "stackKey": "Quality:Combat Mastery",
+      "value": 3,
+      "targetId": "quality_combat_mastery",
+      "targetLabel": "Quality Combat Mastery",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "score": 196
+    },
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+      "craftingSlotKey": "Lamordia:Dolorous:Accessory",
+      "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak::Lamordia:Dolorous:Accessory",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "augmentName": "Dolorous Healing Amplification (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+61 Competence bonus to Positive Healing Amplification.",
+      "stackKey": "Competence:Healing Amplification",
+      "value": 61,
+      "targetId": "default_or_enhancement_healing_amplification",
+      "targetLabel": "Healing Amplification",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "score": 168
+    },
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Black Dynamo",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+      "craftingSlotKey": "Lamordia:Melancholic:Accessory",
+      "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo::Lamordia:Melancholic:Accessory",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "augmentName": "Melancholic False Life (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+57 Enhancement bonus to Maximum HP.",
+      "stackKey": "Enhancement:False Life",
+      "value": 57,
+      "targetId": "default_or_enhancement_false_life",
+      "targetLabel": "False Life",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "score": 166
+    },
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+      "craftingSlotKey": "Lamordia:Melancholic:Accessory",
+      "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak::Lamordia:Melancholic:Accessory",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "augmentName": "Melancholic Wisdom (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+15 Enhancement bonus to Wisdom.",
+      "stackKey": "Enhancement:Wisdom",
+      "value": 15,
+      "targetId": "default_or_enhancement_wisdom",
+      "targetLabel": "Wisdom",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "score": 157
+    }
+  ],
+  "stackingConflicts": [
+    {
+      "stackKey": "Default:Deadly",
+      "bonusType": "Default",
+      "stat": "Deadly",
+      "winningBonus": {
+        "raw": "Deadly +11",
+        "value": 11,
+        "source": {
+          "type": "item",
+          "name": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "slot": "eyes"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Deadly +10",
+          "value": 10,
+          "source": {
+            "type": "item",
+            "name": "Storm's Harness",
+            "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+            "slot": "weapon"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Quality:Deadly",
+      "bonusType": "Quality",
+      "stat": "Deadly",
+      "winningBonus": {
+        "raw": "Quality Deadly +3",
+        "value": 3,
+        "source": {
+          "type": "item",
+          "name": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "slot": "eyes"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Quality Deadly +3",
+          "value": 3,
+          "source": {
+            "type": "item",
+            "name": "Radiant Ring of Taer Valaestas",
+            "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+            "slot": "finger"
+          }
+        },
+        {
+          "raw": "Quality Deadly +3",
+          "value": 3,
+          "source": {
+            "type": "item",
+            "name": "Death's Deferral",
+            "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+            "slot": "feet"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:Doublestrike",
+      "bonusType": "Default",
+      "stat": "Doublestrike",
+      "winningBonus": {
+        "raw": "Doublestrike 16%",
+        "value": 16,
+        "source": {
+          "type": "item",
+          "name": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "slot": "eyes"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Doublestrike 16%",
+          "value": 16,
+          "source": {
+            "type": "item",
+            "name": "Legendary Breaker's Bauble",
+            "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+            "slot": "trinket"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:Wisdom",
+      "bonusType": "Default",
+      "stat": "Wisdom",
+      "winningBonus": {
+        "raw": "Wisdom +14",
+        "value": 14,
+        "source": {
+          "type": "item",
+          "name": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "slot": "finger"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Wisdom +14",
+          "value": 14,
+          "source": {
+            "type": "item",
+            "name": "Perfected Jidz-Tet'ka",
+            "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+            "slot": "wrists"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Enhancement:Weapon Enhancement",
+      "bonusType": "Enhancement",
+      "stat": "Weapon Enhancement",
+      "winningBonus": {
+        "raw": "+15 Enhancement Bonus",
+        "value": 15,
+        "source": {
+          "type": "item",
+          "name": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "slot": "armor"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "+14 Enhancement Bonus",
+          "value": 14,
+          "source": {
+            "type": "item",
+            "name": "Storm's Harness",
+            "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+            "slot": "weapon"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Competence:Healing Amplification",
+      "bonusType": "Competence",
+      "stat": "Healing Amplification",
+      "winningBonus": {
+        "raw": "+61 Competence bonus to Positive Healing Amplification",
+        "value": 61,
+        "source": {
+          "type": "crafting_augment",
+          "name": "Dolorous Healing Amplification (Heroic)",
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "craftingSlotKey": "Lamordia:Dolorous:Accessory",
+          "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak::Lamordia:Dolorous:Accessory"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Competence Healing Amplification +53",
+          "value": 53,
+          "source": {
+            "type": "item",
+            "name": "Firefly Garb",
+            "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+            "slot": "armor"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:False Life",
+      "bonusType": "Default",
+      "stat": "False Life",
+      "winningBonus": {
+        "raw": "False Life +50",
+        "value": 50,
+        "source": {
+          "type": "item",
+          "name": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "slot": "armor"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "False Life +36",
+          "value": 36,
+          "source": {
+            "type": "item",
+            "name": "Epic Belt of the Red Abishai",
+            "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+            "slot": "waist"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Insightful:Wisdom",
+      "bonusType": "Insightful",
+      "stat": "Wisdom",
+      "winningBonus": {
+        "raw": "Insightful Wisdom +7",
+        "value": 7,
+        "source": {
+          "type": "item",
+          "name": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "slot": "head"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Insightful Wisdom +4",
+          "value": 4,
+          "source": {
+            "type": "item",
+            "name": "Epic Belt of the Red Abishai",
+            "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+            "slot": "waist"
+          }
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:Dodge",
+      "bonusType": "Default",
+      "stat": "Dodge",
+      "winningBonus": {
+        "raw": "Dodge +14%",
+        "value": 14,
+        "source": {
+          "type": "augment",
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "slotColor": "blue",
+          "name": "Sapphire of Dodge +14%",
+          "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B14%25"
+        }
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Dodge +9%",
+          "value": 9,
+          "source": {
+            "type": "item",
+            "name": "Epic Belt of the Red Abishai",
+            "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+            "slot": "waist"
+          }
+        }
+      ]
+    }
+  ]
+}

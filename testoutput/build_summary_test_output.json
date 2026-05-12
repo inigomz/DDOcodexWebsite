@@ -1,0 +1,1608 @@
+{
+  "goal": "Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.",
+  "buildProfile": {
+    "maxLevel": 34,
+    "buildTypes": [
+      "melee",
+      "tactical",
+      "defensive",
+      "monk"
+    ],
+    "primaryStats": [
+      "Wisdom"
+    ],
+    "preferredWeaponSubtypes": [
+      "handwraps"
+    ],
+    "armorPreference": {
+      "enforceArmorType": true,
+      "allowedArmorTypes": [
+        "cloth"
+      ],
+      "preferredArmorTypes": [
+        "cloth"
+      ],
+      "avoidArmorTypes": [
+        "light",
+        "medium",
+        "heavy"
+      ],
+      "notes": [
+        "Detected cloth / robe / outfit armor requirement."
+      ]
+    }
+  },
+  "counts": {
+    "targetCount": 46,
+    "metTargetCount": 23,
+    "openGapCount": 23,
+    "underfilledTargetCount": 12,
+    "missingTargetCount": 11,
+    "openNormalSlotCount": 17,
+    "normalAssignmentCount": 7,
+    "craftingAssignmentCount": 4,
+    "remainingOpenNormalSlotCount": 17,
+    "validationErrorCount": 0,
+    "validationWarningCount": 9,
+    "stackingConflictCount": 9,
+    "relevantConflictCount": 8
+  },
+  "selectedGear": [
+    {
+      "slot": "eyes",
+      "name": "Legendary Eternal Flameguard's Lenses",
+      "effects": [
+        "Deadly +11",
+        "Quality Deadly +3",
+        "Doublestrike 16%",
+        "Quality Doublestrike 4%",
+        "Legendary Temple's Inferno",
+        "Yellow Augment Slot"
+      ],
+      "augmentSlots": [
+        "Yellow"
+      ],
+      "craftingSlots": []
+    },
+    {
+      "slot": "neck",
+      "name": "Legendary Black Dynamo",
+      "effects": [
+        "Insightful Constitution +7",
+        "Insightful Armor-Piercing 11%",
+        "Lamordia: Melancholic Slot (Accessory)",
+        "Lamordia: Dolorous Slot (Accessory)",
+        "Green Augment Slot",
+        "Colorless Augment Slot"
+      ],
+      "augmentSlots": [
+        "Green",
+        "Colorless"
+      ],
+      "craftingSlots": [
+        {
+          "system": "Lamordia",
+          "slotType": "Melancholic",
+          "itemGroup": "Accessory",
+          "status": null
+        },
+        {
+          "system": "Lamordia",
+          "slotType": "Dolorous",
+          "itemGroup": "Accessory",
+          "status": null
+        }
+      ]
+    },
+    {
+      "slot": "trinket",
+      "name": "Legendary Breaker's Bauble",
+      "effects": [
+        "Doublestrike 16%",
+        "Insightful Doublestrike 7%",
+        "Accuracy +23",
+        "Armor-Piercing 23%",
+        "Green Augment Slot",
+        "Colorless Augment Slot"
+      ],
+      "augmentSlots": [
+        "Green",
+        "Colorless"
+      ],
+      "craftingSlots": []
+    },
+    {
+      "slot": "finger",
+      "name": "Radiant Ring of Taer Valaestas",
+      "effects": [
+        "Wisdom +14",
+        "Quality Accuracy +5",
+        "Quality Deadly +3",
+        "Law Absorption +23%",
+        "Yellow Augment Slot",
+        "Blue Augment Slot",
+        "Green Augment Slot"
+      ],
+      "augmentSlots": [
+        "Yellow",
+        "Blue",
+        "Green"
+      ],
+      "craftingSlots": []
+    },
+    {
+      "slot": "hands",
+      "name": "Legendary Wondrous Magegloves",
+      "effects": [
+        "Quality Wisdom +3",
+        "Magical Sheltering +35",
+        "Deathblock",
+        "Quality Spell Resistance +10",
+        "Yellow Augment Slot"
+      ],
+      "augmentSlots": [
+        "Yellow"
+      ],
+      "craftingSlots": []
+    },
+    {
+      "slot": "armor",
+      "name": "Firefly Garb",
+      "effects": [
+        "+15 Enhancement Bonus",
+        "Fortification +142%",
+        "Physical Sheltering +33",
+        "Competence Healing Amplification +53",
+        "False Life +50",
+        "Blue Augment Slot",
+        "Green Augment Slot"
+      ],
+      "augmentSlots": [
+        "Blue",
+        "Green"
+      ],
+      "craftingSlots": []
+    },
+    {
+      "slot": "feet",
+      "name": "Death's Deferral",
+      "effects": [
+        "Insightful Accuracy +11",
+        "Quality Deadly +3",
+        "Undying +285",
+        "Sealed in Undeath",
+        "Green Augment Slot",
+        "Yellow Augment Slot"
+      ],
+      "augmentSlots": [
+        "Green",
+        "Yellow"
+      ],
+      "craftingSlots": []
+    },
+    {
+      "slot": "waist",
+      "name": "Epic Belt of the Red Abishai",
+      "effects": [
+        "Insightful Wisdom +4",
+        "Dodge +9%",
+        "False Life +36",
+        "Profane Lifeforce +32",
+        "Green Augment Slot",
+        "Colorless Augment Slot"
+      ],
+      "augmentSlots": [
+        "Green",
+        "Colorless"
+      ],
+      "craftingSlots": []
+    },
+    {
+      "slot": "wrists",
+      "name": "Perfected Jidz-Tet'ka",
+      "effects": [
+        "Armor Bonus +14",
+        "Wisdom +14",
+        "Insightful Resistance +5",
+        "Insightful Sheltering +19",
+        "Exceptional Wisdom +2",
+        "Legendary Tet-zik, The Enlightened Change Kos-zik, The Air-Change Riik-zik, The Fire-Change Thok-zik, The Earth-Change Sed-zik, The Water-Change",
+        "Kos-zik, The Air-Change",
+        "Riik-zik, The Fire-Change",
+        "Thok-zik, The Earth-Change",
+        "Sed-zik, The Water-Change",
+        "Yellow Augment Slot",
+        "Green Augment Slot",
+        "Blue Augment Slot"
+      ],
+      "augmentSlots": [
+        "Yellow",
+        "Green",
+        "Blue"
+      ],
+      "craftingSlots": []
+    },
+    {
+      "slot": "back",
+      "name": "Legendary Gravekeeper's Stoic Cloak",
+      "effects": [
+        "Insightful Combat Mastery +6",
+        "Insightful Magical Sheltering +18",
+        "Lamordia: Melancholic Slot (Accessory)",
+        "Lamordia: Dolorous Slot (Accessory)",
+        "Green Augment Slot",
+        "Colorless Augment Slot"
+      ],
+      "augmentSlots": [
+        "Green",
+        "Colorless"
+      ],
+      "craftingSlots": [
+        {
+          "system": "Lamordia",
+          "slotType": "Melancholic",
+          "itemGroup": "Accessory",
+          "status": null
+        },
+        {
+          "system": "Lamordia",
+          "slotType": "Dolorous",
+          "itemGroup": "Accessory",
+          "status": null
+        }
+      ]
+    },
+    {
+      "slot": "head",
+      "name": "Legendary Lamordian Top Hat",
+      "effects": [
+        "Insightful Wisdom +7",
+        "Insightful Physical Sheltering +18",
+        "Lamordia: Melancholic Slot (Accessory)",
+        "Lamordia: Dolorous Slot (Accessory)",
+        "Green Augment Slot",
+        "Colorless Augment Slot"
+      ],
+      "augmentSlots": [
+        "Green",
+        "Colorless"
+      ],
+      "craftingSlots": [
+        {
+          "system": "Lamordia",
+          "slotType": "Melancholic",
+          "itemGroup": "Accessory",
+          "status": null
+        },
+        {
+          "system": "Lamordia",
+          "slotType": "Dolorous",
+          "itemGroup": "Accessory",
+          "status": null
+        }
+      ]
+    },
+    {
+      "slot": "weapon",
+      "name": "Storm's Harness",
+      "effects": [
+        "+14 Enhancement Bonus",
+        "Deadly +10",
+        "Quality Stunning +3",
+        "Shocking",
+        "Shocking Burst",
+        "Shocking Blast",
+        "Greater Reinforced Fists",
+        "Red Augment Slot",
+        "Orange Augment Slot"
+      ],
+      "augmentSlots": [
+        "Red",
+        "Orange"
+      ],
+      "craftingSlots": []
+    }
+  ],
+  "normalAugments": [
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Radiant Ring of Taer Valaestas",
+      "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+      "slotColor": "blue",
+      "augmentName": "Sapphire of Stunning +16",
+      "augmentLink": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B16",
+      "effect": "Stunning +16",
+      "stackKey": "Default:Stunning",
+      "value": 16,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
+      "currentValue": 0,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "score": 214.64705882352942
+    },
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Storm's Harness",
+      "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+      "slotColor": "orange",
+      "augmentName": "A Treatise on Battle",
+      "augmentLink": "https://ddowiki.com/page/Item:A_Treatise_on_Battle",
+      "effect": "Combat Mastery +11",
+      "stackKey": "Default:Combat Mastery",
+      "value": 11,
+      "targetId": "default_or_enhancement_combat_mastery",
+      "targetLabel": "Combat Mastery",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 12,
+      "score": 201.66666666666666
+    },
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Legendary Black Dynamo",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+      "slotColor": "colorless",
+      "augmentName": "Diamond of Constitution +14",
+      "augmentLink": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B14",
+      "effect": "Constitution +14",
+      "stackKey": "Default:Constitution",
+      "value": 14,
+      "targetId": "default_or_enhancement_constitution",
+      "targetLabel": "Constitution",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "score": 186.33333333333334
+    },
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Firefly Garb",
+      "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+      "slotColor": "blue",
+      "augmentName": "Sapphire of Resistance +11",
+      "augmentLink": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B11",
+      "effect": "Resistance +11",
+      "stackKey": "Default:Resistance",
+      "value": 11,
+      "targetId": "default_or_enhancement_resistance",
+      "targetLabel": "Resistance",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 11,
+      "score": 180
+    },
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Legendary Breaker's Bauble",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+      "slotColor": "colorless",
+      "augmentName": "Diamond of Festive Wisdom +2",
+      "augmentLink": "https://ddowiki.com/page/Item:Diamond_of_Festive_Wisdom_%2B2",
+      "effect": "Festive Wisdom +2",
+      "stackKey": "Festive:Wisdom",
+      "value": 2,
+      "targetId": "festive_wisdom",
+      "targetLabel": "Festive Wisdom",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "score": 169
+    },
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Epic Belt of the Red Abishai",
+      "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+      "slotColor": "colorless",
+      "augmentName": "Diamond of Festive Constitution +2",
+      "augmentLink": "https://ddowiki.com/page/Item:Diamond_of_Festive_Constitution_%2B2",
+      "effect": "Festive Constitution +2",
+      "stackKey": "Festive:Constitution",
+      "value": 2,
+      "targetId": "festive_constitution",
+      "targetLabel": "Festive Constitution",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "score": 145
+    },
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Perfected Jidz-Tet'ka",
+      "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+      "slotColor": "blue",
+      "augmentName": "Sapphire of Dodge +14%",
+      "augmentLink": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B14%25",
+      "effect": "Dodge +14%",
+      "stackKey": "Default:Dodge",
+      "value": 14,
+      "targetId": "default_or_enhancement_dodge",
+      "targetLabel": "Dodge",
+      "currentValue": 9,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "score": 138.33333333333334
+    }
+  ],
+  "craftingAugments": [
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Black Dynamo",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+      "craftingSlotKey": "Lamordia:Dolorous:Accessory",
+      "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo::Lamordia:Dolorous:Accessory",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "augmentName": "Dolorous Quality Combat Mastery (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+3 Quality bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "stackKey": "Quality:Combat Mastery",
+      "value": 3,
+      "targetId": "quality_combat_mastery",
+      "targetLabel": "Quality Combat Mastery",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "score": 196
+    },
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+      "craftingSlotKey": "Lamordia:Dolorous:Accessory",
+      "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak::Lamordia:Dolorous:Accessory",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "augmentName": "Dolorous Healing Amplification (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+61 Competence bonus to Positive Healing Amplification.",
+      "stackKey": "Competence:Healing Amplification",
+      "value": 61,
+      "targetId": "default_or_enhancement_healing_amplification",
+      "targetLabel": "Healing Amplification",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "score": 168
+    },
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Black Dynamo",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+      "craftingSlotKey": "Lamordia:Melancholic:Accessory",
+      "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo::Lamordia:Melancholic:Accessory",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "augmentName": "Melancholic False Life (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+57 Enhancement bonus to Maximum HP.",
+      "stackKey": "Enhancement:False Life",
+      "value": 57,
+      "targetId": "default_or_enhancement_false_life",
+      "targetLabel": "False Life",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "score": 166
+    },
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+      "craftingSlotKey": "Lamordia:Melancholic:Accessory",
+      "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak::Lamordia:Melancholic:Accessory",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "augmentName": "Melancholic Wisdom (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+15 Enhancement bonus to Wisdom.",
+      "stackKey": "Enhancement:Wisdom",
+      "value": 15,
+      "targetId": "default_or_enhancement_wisdom",
+      "targetLabel": "Wisdom",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "score": 157
+    }
+  ],
+  "remainingGaps": [
+    {
+      "targetId": "default_or_enhancement_stunning",
+      "label": "Stunning",
+      "category": "tactical_dc",
+      "priority": 100,
+      "status": "below_target",
+      "currentValue": 16,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Stunning +16",
+        "stackKey": "Default:Stunning",
+        "value": 16,
+        "sourceLabel": "Sapphire of Stunning +16 slotted into Radiant Ring of Taer Valaestas"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_combat_mastery",
+      "label": "Combat Mastery",
+      "category": "tactical_dc",
+      "priority": 98,
+      "status": "below_target",
+      "currentValue": 11,
+      "minimumValue": 10,
+      "targetValue": 12,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Combat Mastery +11",
+        "stackKey": "Default:Combat Mastery",
+        "value": 11,
+        "sourceLabel": "A Treatise on Battle slotted into Storm's Harness"
+      }
+    },
+    {
+      "targetId": "insightful_stunning",
+      "label": "Insightful Stunning",
+      "category": "tactical_dc",
+      "priority": 85,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 6,
+      "targetValue": 6,
+      "missingToMinimum": 6,
+      "missingToTarget": 6,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_prr",
+      "label": "PRR",
+      "category": "survivability",
+      "priority": 84,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_mrr",
+      "label": "MRR",
+      "category": "survivability",
+      "priority": 82,
+      "status": "below_target",
+      "currentValue": 35,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 3,
+      "bestBonus": {
+        "raw": "Magical Sheltering +35",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 35,
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_deadly",
+      "label": "Deadly",
+      "category": "melee_damage",
+      "priority": 78,
+      "status": "below_target",
+      "currentValue": 11,
+      "minimumValue": 11,
+      "targetValue": 12,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Deadly +11",
+        "stackKey": "Default:Deadly",
+        "value": 11,
+        "sourceLabel": "Legendary Eternal Flameguard's Lenses"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_physical_sheltering",
+      "label": "Physical Sheltering",
+      "category": "survivability",
+      "priority": 78,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_enhanced_ki",
+      "label": "Enhanced Ki",
+      "category": "monk",
+      "priority": 78,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 4,
+      "targetValue": 5,
+      "missingToMinimum": 4,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_constitution",
+      "label": "Constitution",
+      "category": "primary_stat",
+      "priority": 76,
+      "status": "below_target",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Constitution +14",
+        "stackKey": "Default:Constitution",
+        "value": 14,
+        "sourceLabel": "Diamond of Constitution +14 slotted into Legendary Black Dynamo"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_magical_sheltering",
+      "label": "Magical Sheltering",
+      "category": "survivability",
+      "priority": 76,
+      "status": "below_target",
+      "currentValue": 35,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 3,
+      "bestBonus": {
+        "raw": "Magical Sheltering +35",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 35,
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_armor_piercing",
+      "label": "Armor-Piercing",
+      "category": "melee_damage",
+      "priority": 74,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 21,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Armor-Piercing 23%",
+        "stackKey": "Default:Armor-Piercing",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_accuracy",
+      "label": "Accuracy",
+      "category": "melee_accuracy",
+      "priority": 72,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 22,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Accuracy +23",
+        "stackKey": "Default:Accuracy",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "artifact_tactical_dc",
+      "label": "Artifact Tactical DC",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 5,
+      "targetValue": 5,
+      "missingToMinimum": 5,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_doublestrike",
+      "label": "Artifact Doublestrike",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 15,
+      "targetValue": 15,
+      "missingToMinimum": 15,
+      "missingToTarget": 15,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_armor_piercing",
+      "label": "Artifact Armor-Piercing",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 30,
+      "targetValue": 30,
+      "missingToMinimum": 30,
+      "missingToTarget": 30,
+      "bestBonus": null
+    }
+  ],
+  "remainingStackingConflicts": [
+    {
+      "stackKey": "Default:Deadly",
+      "bonusType": "Default",
+      "stat": "Deadly",
+      "winningBonus": {
+        "raw": "Deadly +11",
+        "stackKey": "Default:Deadly",
+        "value": 11,
+        "sourceType": "item",
+        "sourceLabel": "Legendary Eternal Flameguard's Lenses"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Deadly +10",
+          "stackKey": "Default:Deadly",
+          "value": 10,
+          "sourceType": "item",
+          "sourceLabel": "Storm's Harness"
+        }
+      ]
+    },
+    {
+      "stackKey": "Quality:Deadly",
+      "bonusType": "Quality",
+      "stat": "Deadly",
+      "winningBonus": {
+        "raw": "Quality Deadly +3",
+        "stackKey": "Quality:Deadly",
+        "value": 3,
+        "sourceType": "item",
+        "sourceLabel": "Legendary Eternal Flameguard's Lenses"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Quality Deadly +3",
+          "stackKey": "Quality:Deadly",
+          "value": 3,
+          "sourceType": "item",
+          "sourceLabel": "Radiant Ring of Taer Valaestas"
+        },
+        {
+          "raw": "Quality Deadly +3",
+          "stackKey": "Quality:Deadly",
+          "value": 3,
+          "sourceType": "item",
+          "sourceLabel": "Death's Deferral"
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:Doublestrike",
+      "bonusType": "Default",
+      "stat": "Doublestrike",
+      "winningBonus": {
+        "raw": "Doublestrike 16%",
+        "stackKey": "Default:Doublestrike",
+        "value": 16,
+        "sourceType": "item",
+        "sourceLabel": "Legendary Eternal Flameguard's Lenses"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Doublestrike 16%",
+          "stackKey": "Default:Doublestrike",
+          "value": 16,
+          "sourceType": "item",
+          "sourceLabel": "Legendary Breaker's Bauble"
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:Wisdom",
+      "bonusType": "Default",
+      "stat": "Wisdom",
+      "winningBonus": {
+        "raw": "Wisdom +14",
+        "stackKey": "Default:Wisdom",
+        "value": 14,
+        "sourceType": "item",
+        "sourceLabel": "Radiant Ring of Taer Valaestas"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Wisdom +14",
+          "stackKey": "Default:Wisdom",
+          "value": 14,
+          "sourceType": "item",
+          "sourceLabel": "Perfected Jidz-Tet'ka"
+        }
+      ]
+    },
+    {
+      "stackKey": "Enhancement:Weapon Enhancement",
+      "bonusType": "Enhancement",
+      "stat": "Weapon Enhancement",
+      "winningBonus": {
+        "raw": "+15 Enhancement Bonus",
+        "stackKey": "Enhancement:Weapon Enhancement",
+        "value": 15,
+        "sourceType": "item",
+        "sourceLabel": "Firefly Garb"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "+14 Enhancement Bonus",
+          "stackKey": "Enhancement:Weapon Enhancement",
+          "value": 14,
+          "sourceType": "item",
+          "sourceLabel": "Storm's Harness"
+        }
+      ]
+    },
+    {
+      "stackKey": "Competence:Healing Amplification",
+      "bonusType": "Competence",
+      "stat": "Healing Amplification",
+      "winningBonus": {
+        "raw": "+61 Competence bonus to Positive Healing Amplification",
+        "stackKey": "Competence:Healing Amplification",
+        "value": 61,
+        "sourceType": "crafting_augment",
+        "sourceLabel": "Dolorous Healing Amplification (Heroic) planned for Legendary Gravekeeper's Stoic Cloak"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Competence Healing Amplification +53",
+          "stackKey": "Competence:Healing Amplification",
+          "value": 53,
+          "sourceType": "item",
+          "sourceLabel": "Firefly Garb"
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:False Life",
+      "bonusType": "Default",
+      "stat": "False Life",
+      "winningBonus": {
+        "raw": "False Life +50",
+        "stackKey": "Default:False Life",
+        "value": 50,
+        "sourceType": "item",
+        "sourceLabel": "Firefly Garb"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "False Life +36",
+          "stackKey": "Default:False Life",
+          "value": 36,
+          "sourceType": "item",
+          "sourceLabel": "Epic Belt of the Red Abishai"
+        }
+      ]
+    },
+    {
+      "stackKey": "Insightful:Wisdom",
+      "bonusType": "Insightful",
+      "stat": "Wisdom",
+      "winningBonus": {
+        "raw": "Insightful Wisdom +7",
+        "stackKey": "Insightful:Wisdom",
+        "value": 7,
+        "sourceType": "item",
+        "sourceLabel": "Legendary Lamordian Top Hat"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Insightful Wisdom +4",
+          "stackKey": "Insightful:Wisdom",
+          "value": 4,
+          "sourceType": "item",
+          "sourceLabel": "Epic Belt of the Red Abishai"
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:Dodge",
+      "bonusType": "Default",
+      "stat": "Dodge",
+      "winningBonus": {
+        "raw": "Dodge +14%",
+        "stackKey": "Default:Dodge",
+        "value": 14,
+        "sourceType": "augment",
+        "sourceLabel": "Sapphire of Dodge +14% slotted into Perfected Jidz-Tet'ka"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Dodge +9%",
+          "stackKey": "Default:Dodge",
+          "value": 9,
+          "sourceType": "item",
+          "sourceLabel": "Epic Belt of the Red Abishai"
+        }
+      ]
+    }
+  ],
+  "swapLog": [
+    {
+      "pass": 1,
+      "slotLabel": "Finger",
+      "oldItemName": "Legendary Lionheart Ring",
+      "newItemName": "Radiant Ring of Taer Valaestas",
+      "oldScore": -3768.832950000001,
+      "newScore": -3433.505275000002,
+      "improvement": 335.3276749999991,
+      "oldCounts": {
+        "metTargetCount": 21,
+        "openGapCount": 25,
+        "underfilledTargetCount": 13,
+        "missingTargetCount": 12,
+        "normalAssignmentCount": 8,
+        "craftingAssignmentCount": 4,
+        "stackingConflictCount": 11,
+        "relevantConflictCount": 9,
+        "errorCount": 0,
+        "warningCount": 11,
+        "openNormalSlotCount": 14
+      },
+      "newCounts": {
+        "metTargetCount": 22,
+        "openGapCount": 24,
+        "underfilledTargetCount": 13,
+        "missingTargetCount": 11,
+        "normalAssignmentCount": 7,
+        "craftingAssignmentCount": 4,
+        "stackingConflictCount": 8,
+        "relevantConflictCount": 9,
+        "errorCount": 0,
+        "warningCount": 8,
+        "openNormalSlotCount": 17
+      },
+      "topImprovedGapPenalties": [
+        {
+          "targetId": "artifact_armor_piercing",
+          "label": "Artifact Armor-Piercing",
+          "category": "set_bonus",
+          "status": "missing",
+          "priority": 70,
+          "currentValue": 0,
+          "minimumValue": 30,
+          "targetValue": 30,
+          "missingToMinimum": 30,
+          "missingToTarget": 30,
+          "penalty": 1075.8825000000002
+        },
+        {
+          "targetId": "exceptional_healing_amplification",
+          "label": "Exceptional Healing Amplification",
+          "category": "survivability",
+          "status": "missing",
+          "priority": 56,
+          "currentValue": 0,
+          "minimumValue": 15,
+          "targetValue": 15,
+          "missingToMinimum": 15,
+          "missingToTarget": 15,
+          "penalty": 839.4435
+        },
+        {
+          "targetId": "insightful_stunning",
+          "label": "Insightful Stunning",
+          "category": "tactical_dc",
+          "status": "missing",
+          "priority": 85,
+          "currentValue": 0,
+          "minimumValue": 6,
+          "targetValue": 6,
+          "missingToMinimum": 6,
+          "missingToTarget": 6,
+          "penalty": 748.7437500000001
+        },
+        {
+          "targetId": "artifact_doublestrike",
+          "label": "Artifact Doublestrike",
+          "category": "set_bonus",
+          "status": "missing",
+          "priority": 70,
+          "currentValue": 0,
+          "minimumValue": 15,
+          "targetValue": 15,
+          "missingToMinimum": 15,
+          "missingToTarget": 15,
+          "penalty": 549.6356250000001
+        },
+        {
+          "targetId": "quality_physical_sheltering",
+          "label": "Quality Physical Sheltering",
+          "category": "survivability",
+          "status": "missing",
+          "priority": 60,
+          "currentValue": 0,
+          "minimumValue": 8,
+          "targetValue": 9,
+          "missingToMinimum": 8,
+          "missingToTarget": 9,
+          "penalty": 520.5060000000001
+        }
+      ]
+    },
+    {
+      "pass": 2,
+      "slotLabel": "Eyes",
+      "oldItemName": "Visions of Precision",
+      "newItemName": "Legendary Eternal Flameguard's Lenses",
+      "oldScore": -3433.505275000002,
+      "newScore": -3258.0970250000014,
+      "improvement": 175.4082500000004,
+      "oldCounts": {
+        "metTargetCount": 22,
+        "openGapCount": 24,
+        "underfilledTargetCount": 13,
+        "missingTargetCount": 11,
+        "normalAssignmentCount": 7,
+        "craftingAssignmentCount": 4,
+        "stackingConflictCount": 8,
+        "relevantConflictCount": 9,
+        "errorCount": 0,
+        "warningCount": 8,
+        "openNormalSlotCount": 17
+      },
+      "newCounts": {
+        "metTargetCount": 23,
+        "openGapCount": 23,
+        "underfilledTargetCount": 12,
+        "missingTargetCount": 11,
+        "normalAssignmentCount": 7,
+        "craftingAssignmentCount": 4,
+        "stackingConflictCount": 10,
+        "relevantConflictCount": 10,
+        "errorCount": 0,
+        "warningCount": 10,
+        "openNormalSlotCount": 16
+      },
+      "topImprovedGapPenalties": [
+        {
+          "targetId": "artifact_armor_piercing",
+          "label": "Artifact Armor-Piercing",
+          "category": "set_bonus",
+          "status": "missing",
+          "priority": 70,
+          "currentValue": 0,
+          "minimumValue": 30,
+          "targetValue": 30,
+          "missingToMinimum": 30,
+          "missingToTarget": 30,
+          "penalty": 1075.8825000000002
+        },
+        {
+          "targetId": "exceptional_healing_amplification",
+          "label": "Exceptional Healing Amplification",
+          "category": "survivability",
+          "status": "missing",
+          "priority": 56,
+          "currentValue": 0,
+          "minimumValue": 15,
+          "targetValue": 15,
+          "missingToMinimum": 15,
+          "missingToTarget": 15,
+          "penalty": 839.4435
+        },
+        {
+          "targetId": "insightful_stunning",
+          "label": "Insightful Stunning",
+          "category": "tactical_dc",
+          "status": "missing",
+          "priority": 85,
+          "currentValue": 0,
+          "minimumValue": 6,
+          "targetValue": 6,
+          "missingToMinimum": 6,
+          "missingToTarget": 6,
+          "penalty": 748.7437500000001
+        },
+        {
+          "targetId": "artifact_doublestrike",
+          "label": "Artifact Doublestrike",
+          "category": "set_bonus",
+          "status": "missing",
+          "priority": 70,
+          "currentValue": 0,
+          "minimumValue": 15,
+          "targetValue": 15,
+          "missingToMinimum": 15,
+          "missingToTarget": 15,
+          "penalty": 549.6356250000001
+        },
+        {
+          "targetId": "quality_physical_sheltering",
+          "label": "Quality Physical Sheltering",
+          "category": "survivability",
+          "status": "missing",
+          "priority": 60,
+          "currentValue": 0,
+          "minimumValue": 8,
+          "targetValue": 9,
+          "missingToMinimum": 8,
+          "missingToTarget": 9,
+          "penalty": 520.5060000000001
+        }
+      ]
+    },
+    {
+      "pass": 3,
+      "slotLabel": "Waist",
+      "oldItemName": "Belt of Blind Devotion",
+      "newItemName": "Epic Belt of the Red Abishai",
+      "oldScore": -3258.0970250000014,
+      "newScore": -3189.1370250000014,
+      "improvement": 68.96000000000004,
+      "oldCounts": {
+        "metTargetCount": 23,
+        "openGapCount": 23,
+        "underfilledTargetCount": 12,
+        "missingTargetCount": 11,
+        "normalAssignmentCount": 7,
+        "craftingAssignmentCount": 4,
+        "stackingConflictCount": 10,
+        "relevantConflictCount": 10,
+        "errorCount": 0,
+        "warningCount": 10,
+        "openNormalSlotCount": 16
+      },
+      "newCounts": {
+        "metTargetCount": 23,
+        "openGapCount": 23,
+        "underfilledTargetCount": 12,
+        "missingTargetCount": 11,
+        "normalAssignmentCount": 7,
+        "craftingAssignmentCount": 4,
+        "stackingConflictCount": 9,
+        "relevantConflictCount": 8,
+        "errorCount": 0,
+        "warningCount": 9,
+        "openNormalSlotCount": 17
+      },
+      "topImprovedGapPenalties": [
+        {
+          "targetId": "artifact_armor_piercing",
+          "label": "Artifact Armor-Piercing",
+          "category": "set_bonus",
+          "status": "missing",
+          "priority": 70,
+          "currentValue": 0,
+          "minimumValue": 30,
+          "targetValue": 30,
+          "missingToMinimum": 30,
+          "missingToTarget": 30,
+          "penalty": 1075.8825000000002
+        },
+        {
+          "targetId": "exceptional_healing_amplification",
+          "label": "Exceptional Healing Amplification",
+          "category": "survivability",
+          "status": "missing",
+          "priority": 56,
+          "currentValue": 0,
+          "minimumValue": 15,
+          "targetValue": 15,
+          "missingToMinimum": 15,
+          "missingToTarget": 15,
+          "penalty": 839.4435
+        },
+        {
+          "targetId": "insightful_stunning",
+          "label": "Insightful Stunning",
+          "category": "tactical_dc",
+          "status": "missing",
+          "priority": 85,
+          "currentValue": 0,
+          "minimumValue": 6,
+          "targetValue": 6,
+          "missingToMinimum": 6,
+          "missingToTarget": 6,
+          "penalty": 748.7437500000001
+        },
+        {
+          "targetId": "artifact_doublestrike",
+          "label": "Artifact Doublestrike",
+          "category": "set_bonus",
+          "status": "missing",
+          "priority": 70,
+          "currentValue": 0,
+          "minimumValue": 15,
+          "targetValue": 15,
+          "missingToMinimum": 15,
+          "missingToTarget": 15,
+          "penalty": 549.6356250000001
+        },
+        {
+          "targetId": "quality_physical_sheltering",
+          "label": "Quality Physical Sheltering",
+          "category": "survivability",
+          "status": "missing",
+          "priority": 60,
+          "currentValue": 0,
+          "minimumValue": 8,
+          "targetValue": 9,
+          "missingToMinimum": 8,
+          "missingToTarget": 9,
+          "penalty": 520.5060000000001
+        }
+      ]
+    }
+  ],
+  "advisorNotes": [
+    "The build is structurally valid.",
+    "The build uses 4 planned crafting augment assignment(s).",
+    "The highest-priority remaining gap is Stunning.",
+    "There are 8 relevant stacking conflict(s) remaining."
+  ],
+  "scoreBreakdown": {
+    "score": -3189.1370250000014,
+    "counts": {
+      "metTargetCount": 23,
+      "openGapCount": 23,
+      "underfilledTargetCount": 12,
+      "missingTargetCount": 11,
+      "normalAssignmentCount": 7,
+      "craftingAssignmentCount": 4,
+      "stackingConflictCount": 9,
+      "relevantConflictCount": 8,
+      "errorCount": 0,
+      "warningCount": 9,
+      "openNormalSlotCount": 17
+    },
+    "topGapPenalties": [
+      {
+        "targetId": "artifact_armor_piercing",
+        "label": "Artifact Armor-Piercing",
+        "category": "set_bonus",
+        "status": "missing",
+        "priority": 70,
+        "currentValue": 0,
+        "minimumValue": 30,
+        "targetValue": 30,
+        "missingToMinimum": 30,
+        "missingToTarget": 30,
+        "penalty": 1075.8825000000002
+      },
+      {
+        "targetId": "exceptional_healing_amplification",
+        "label": "Exceptional Healing Amplification",
+        "category": "survivability",
+        "status": "missing",
+        "priority": 56,
+        "currentValue": 0,
+        "minimumValue": 15,
+        "targetValue": 15,
+        "missingToMinimum": 15,
+        "missingToTarget": 15,
+        "penalty": 839.4435
+      },
+      {
+        "targetId": "insightful_stunning",
+        "label": "Insightful Stunning",
+        "category": "tactical_dc",
+        "status": "missing",
+        "priority": 85,
+        "currentValue": 0,
+        "minimumValue": 6,
+        "targetValue": 6,
+        "missingToMinimum": 6,
+        "missingToTarget": 6,
+        "penalty": 748.7437500000001
+      },
+      {
+        "targetId": "artifact_doublestrike",
+        "label": "Artifact Doublestrike",
+        "category": "set_bonus",
+        "status": "missing",
+        "priority": 70,
+        "currentValue": 0,
+        "minimumValue": 15,
+        "targetValue": 15,
+        "missingToMinimum": 15,
+        "missingToTarget": 15,
+        "penalty": 549.6356250000001
+      },
+      {
+        "targetId": "quality_physical_sheltering",
+        "label": "Quality Physical Sheltering",
+        "category": "survivability",
+        "status": "missing",
+        "priority": 60,
+        "currentValue": 0,
+        "minimumValue": 8,
+        "targetValue": 9,
+        "missingToMinimum": 8,
+        "missingToTarget": 9,
+        "penalty": 520.5060000000001
+      },
+      {
+        "targetId": "default_or_enhancement_enhanced_ki",
+        "label": "Enhanced Ki",
+        "category": "monk",
+        "status": "missing",
+        "priority": 78,
+        "currentValue": 0,
+        "minimumValue": 4,
+        "targetValue": 5,
+        "missingToMinimum": 4,
+        "missingToTarget": 5,
+        "penalty": 414.14489999999995
+      },
+      {
+        "targetId": "insightful_deadly",
+        "label": "Insightful Deadly",
+        "category": "melee_damage",
+        "status": "missing",
+        "priority": 64,
+        "currentValue": 0,
+        "minimumValue": 5,
+        "targetValue": 5,
+        "missingToMinimum": 5,
+        "missingToTarget": 5,
+        "penalty": 313.956
+      },
+      {
+        "targetId": "quality_constitution",
+        "label": "Quality Constitution",
+        "category": "primary_stat",
+        "status": "missing",
+        "priority": 66,
+        "currentValue": 0,
+        "minimumValue": 3,
+        "targetValue": 3,
+        "missingToMinimum": 3,
+        "missingToTarget": 3,
+        "penalty": 297.705375
+      }
+    ],
+    "topConflictPenalties": [
+      {
+        "stackKey": "Default:Wisdom",
+        "stat": "Wisdom",
+        "bonusType": "Default",
+        "priority": 100,
+        "suppressedCount": 1,
+        "winningBonus": {
+          "raw": "Wisdom +14",
+          "value": 14,
+          "source": {
+            "type": "item",
+            "name": "Radiant Ring of Taer Valaestas",
+            "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+            "slot": "finger"
+          }
+        },
+        "suppressedBonuses": [
+          {
+            "raw": "Wisdom +14",
+            "value": 14,
+            "source": {
+              "type": "item",
+              "name": "Perfected Jidz-Tet'ka",
+              "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+              "slot": "wrists"
+            }
+          }
+        ],
+        "penalty": 38
+      },
+      {
+        "stackKey": "Insightful:Wisdom",
+        "stat": "Wisdom",
+        "bonusType": "Insightful",
+        "priority": 95,
+        "suppressedCount": 1,
+        "winningBonus": {
+          "raw": "Insightful Wisdom +7",
+          "value": 7,
+          "source": {
+            "type": "item",
+            "name": "Legendary Lamordian Top Hat",
+            "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+            "slot": "head"
+          }
+        },
+        "suppressedBonuses": [
+          {
+            "raw": "Insightful Wisdom +4",
+            "value": 4,
+            "source": {
+              "type": "item",
+              "name": "Epic Belt of the Red Abishai",
+              "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+              "slot": "waist"
+            }
+          }
+        ],
+        "penalty": 36.9
+      },
+      {
+        "stackKey": "Quality:Deadly",
+        "stat": "Deadly",
+        "bonusType": "Quality",
+        "priority": 64,
+        "suppressedCount": 2,
+        "winningBonus": {
+          "raw": "Quality Deadly +3",
+          "value": 3,
+          "source": {
+            "type": "item",
+            "name": "Legendary Eternal Flameguard's Lenses",
+            "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+            "slot": "eyes"
+          }
+        },
+        "suppressedBonuses": [
+          {
+            "raw": "Quality Deadly +3",
+            "value": 3,
+            "source": {
+              "type": "item",
+              "name": "Radiant Ring of Taer Valaestas",
+              "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+              "slot": "finger"
+            }
+          },
+          {
+            "raw": "Quality Deadly +3",
+            "value": 3,
+            "source": {
+              "type": "item",
+              "name": "Death's Deferral",
+              "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+              "slot": "feet"
+            }
+          }
+        ],
+        "penalty": 36.08
+      },
+      {
+        "stackKey": "Default:Doublestrike",
+        "stat": "Doublestrike",
+        "bonusType": "Default",
+        "priority": 86,
+        "suppressedCount": 1,
+        "winningBonus": {
+          "raw": "Doublestrike 16%",
+          "value": 16,
+          "source": {
+            "type": "item",
+            "name": "Legendary Eternal Flameguard's Lenses",
+            "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+            "slot": "eyes"
+          }
+        },
+        "suppressedBonuses": [
+          {
+            "raw": "Doublestrike 16%",
+            "value": 16,
+            "source": {
+              "type": "item",
+              "name": "Legendary Breaker's Bauble",
+              "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+              "slot": "trinket"
+            }
+          }
+        ],
+        "penalty": 34.92
+      },
+      {
+        "stackKey": "Default:Deadly",
+        "stat": "Deadly",
+        "bonusType": "Default",
+        "priority": 78,
+        "suppressedCount": 1,
+        "winningBonus": {
+          "raw": "Deadly +11",
+          "value": 11,
+          "source": {
+            "type": "item",
+            "name": "Legendary Eternal Flameguard's Lenses",
+            "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+            "slot": "eyes"
+          }
+        },
+        "suppressedBonuses": [
+          {
+            "raw": "Deadly +10",
+            "value": 10,
+            "source": {
+              "type": "item",
+              "name": "Storm's Harness",
+              "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+              "slot": "weapon"
+            }
+          }
+        ],
+        "penalty": 33.16
+      },
+      {
+        "stackKey": "Default:False Life",
+        "stat": "False Life",
+        "bonusType": "Default",
+        "priority": 72,
+        "suppressedCount": 1,
+        "winningBonus": {
+          "raw": "False Life +50",
+          "value": 50,
+          "source": {
+            "type": "item",
+            "name": "Firefly Garb",
+            "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+            "slot": "armor"
+          }
+        },
+        "suppressedBonuses": [
+          {
+            "raw": "False Life +36",
+            "value": 36,
+            "source": {
+              "type": "item",
+              "name": "Epic Belt of the Red Abishai",
+              "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+              "slot": "waist"
+            }
+          }
+        ],
+        "penalty": 31.84
+      },
+      {
+        "stackKey": "Enhancement:Weapon Enhancement",
+        "stat": "Weapon Enhancement",
+        "bonusType": "Enhancement",
+        "priority": 50,
+        "suppressedCount": 1,
+        "winningBonus": {
+          "raw": "+15 Enhancement Bonus",
+          "value": 15,
+          "source": {
+            "type": "item",
+            "name": "Firefly Garb",
+            "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+            "slot": "armor"
+          }
+        },
+        "suppressedBonuses": [
+          {
+            "raw": "+14 Enhancement Bonus",
+            "value": 14,
+            "source": {
+              "type": "item",
+              "name": "Storm's Harness",
+              "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
+              "slot": "weapon"
+            }
+          }
+        ],
+        "penalty": 27
+      }
+    ]
+  }
+}

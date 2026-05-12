@@ -1,11 +1,29 @@
 {
   "counts": {
-    "normalAssignmentCount": 8,
+    "normalAssignmentCount": 7,
     "craftingAssignmentCount": 4,
-    "remainingOpenNormalSlotCount": 14,
-    "skippedRecommendationCount": 25
+    "remainingOpenNormalSlotCount": 17,
+    "skippedRecommendationCount": 26
   },
   "normalAssignments": [
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Radiant Ring of Taer Valaestas",
+      "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+      "slotColor": "blue",
+      "craftingSlotKey": null,
+      "craftingSlotInstanceKey": null,
+      "craftingSlotLabel": null,
+      "augmentName": "Sapphire of Stunning +16",
+      "effect": "Stunning +16",
+      "targetLabel": "Stunning",
+      "currentValue": 0,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "stackKey": "Default:Stunning",
+      "value": 16,
+      "score": 214.64705882352942
+    },
     {
       "sourceType": "normal_augment",
       "itemName": "Storm's Harness",
@@ -41,24 +59,6 @@
       "stackKey": "Default:Constitution",
       "value": 14,
       "score": 186.33333333333334
-    },
-    {
-      "sourceType": "normal_augment",
-      "itemName": "Visions of Precision",
-      "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-      "slotColor": "blue",
-      "craftingSlotKey": null,
-      "craftingSlotInstanceKey": null,
-      "craftingSlotLabel": null,
-      "augmentName": "Sapphire of Dodge +14%",
-      "effect": "Dodge +14%",
-      "targetLabel": "Dodge",
-      "currentValue": 0,
-      "minimumValue": 11,
-      "targetValue": 15,
-      "stackKey": "Default:Dodge",
-      "value": 14,
-      "score": 180.33333333333334
     },
     {
       "sourceType": "normal_augment",
@@ -98,26 +98,8 @@
     },
     {
       "sourceType": "normal_augment",
-      "itemName": "Belt of Blind Devotion",
-      "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-      "slotColor": "blue",
-      "craftingSlotKey": null,
-      "craftingSlotInstanceKey": null,
-      "craftingSlotLabel": null,
-      "augmentName": "Sapphire of Stunning +16",
-      "effect": "Stunning +16",
-      "targetLabel": "Stunning",
-      "currentValue": 15,
-      "minimumValue": 16,
-      "targetValue": 17,
-      "stackKey": "Default:Stunning",
-      "value": 16,
-      "score": 147
-    },
-    {
-      "sourceType": "normal_augment",
-      "itemName": "Legendary Gravekeeper's Stoic Cloak",
-      "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+      "itemName": "Epic Belt of the Red Abishai",
+      "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
       "slotColor": "colorless",
       "craftingSlotKey": null,
       "craftingSlotInstanceKey": null,
@@ -134,21 +116,21 @@
     },
     {
       "sourceType": "normal_augment",
-      "itemName": "Legendary Wondrous Magegloves",
-      "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
-      "slotColor": "yellow",
+      "itemName": "Perfected Jidz-Tet'ka",
+      "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+      "slotColor": "blue",
       "craftingSlotKey": null,
       "craftingSlotInstanceKey": null,
       "craftingSlotLabel": null,
-      "augmentName": "Topaz of Damage +11",
-      "effect": "Deadly +11",
-      "targetLabel": "Deadly",
-      "currentValue": 10,
+      "augmentName": "Sapphire of Dodge +14%",
+      "effect": "Dodge +14%",
+      "targetLabel": "Dodge",
+      "currentValue": 9,
       "minimumValue": 11,
-      "targetValue": 12,
-      "stackKey": "Default:Deadly",
-      "value": 11,
-      "score": 125
+      "targetValue": 15,
+      "stackKey": "Default:Dodge",
+      "value": 14,
+      "score": 138.33333333333334
     }
   ],
   "craftingAssignments": [
@@ -227,9 +209,9 @@
   ],
   "remainingOpenNormalSlots": [
     {
-      "itemName": "Visions of Precision",
-      "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-      "color": "green"
+      "itemName": "Legendary Eternal Flameguard's Lenses",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+      "color": "yellow"
     },
     {
       "itemName": "Legendary Black Dynamo",
@@ -242,9 +224,19 @@
       "color": "green"
     },
     {
-      "itemName": "Legendary Lionheart Ring",
-      "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+      "itemName": "Radiant Ring of Taer Valaestas",
+      "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+      "color": "yellow"
+    },
+    {
+      "itemName": "Radiant Ring of Taer Valaestas",
+      "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
       "color": "green"
+    },
+    {
+      "itemName": "Legendary Wondrous Magegloves",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
+      "color": "yellow"
     },
     {
       "itemName": "Firefly Garb",
@@ -262,6 +254,11 @@
       "color": "yellow"
     },
     {
+      "itemName": "Epic Belt of the Red Abishai",
+      "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+      "color": "green"
+    },
+    {
       "itemName": "Perfected Jidz-Tet'ka",
       "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
       "color": "yellow"
@@ -272,14 +269,14 @@
       "color": "green"
     },
     {
-      "itemName": "Perfected Jidz-Tet'ka",
-      "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
-      "color": "blue"
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+      "color": "green"
     },
     {
       "itemName": "Legendary Gravekeeper's Stoic Cloak",
       "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
-      "color": "green"
+      "color": "colorless"
     },
     {
       "itemName": "Legendary Lamordian Top Hat",
@@ -298,32 +295,30 @@
     }
   ],
   "filledTargetIds": [
+    "default_or_enhancement_stunning",
     "default_or_enhancement_combat_mastery",
     "quality_combat_mastery",
     "default_or_enhancement_constitution",
-    "default_or_enhancement_dodge",
     "default_or_enhancement_resistance",
     "festive_wisdom",
     "default_or_enhancement_healing_amplification",
     "default_or_enhancement_false_life",
     "default_or_enhancement_wisdom",
-    "default_or_enhancement_stunning",
     "festive_constitution",
-    "default_or_enhancement_deadly"
+    "default_or_enhancement_dodge"
   ],
   "filledStackKeys": [
+    "Default:Stunning",
     "Default:Combat Mastery",
     "Quality:Combat Mastery",
     "Default:Constitution",
-    "Default:Dodge",
     "Default:Resistance",
     "Festive:Wisdom",
     "Competence:Healing Amplification",
     "Enhancement:False Life",
     "Enhancement:Wisdom",
-    "Default:Stunning",
     "Festive:Constitution",
-    "Default:Deadly"
+    "Default:Dodge"
   ],
   "usedCraftingSlotKeys": [
     "https://ddowiki.com/page/Item:Legendary_Black_Dynamo::Lamordia:Dolorous:Accessory",

@@ -1,11 +1,11 @@
 {
   "counts": {
     "targetCount": 46,
-    "metTargetCount": 14,
-    "underfilledTargetCount": 13,
-    "missingTargetCount": 19,
-    "openGapCount": 32,
-    "openNormalSlotCount": 22,
+    "metTargetCount": 16,
+    "underfilledTargetCount": 12,
+    "missingTargetCount": 18,
+    "openGapCount": 30,
+    "openNormalSlotCount": 24,
     "normalAugmentRecommendationCount": 25,
     "craftingAugmentRecommendationCount": 12
   },
@@ -25,7 +25,7 @@
         "raw": "Wisdom +14",
         "stackKey": "Default:Wisdom",
         "value": 14,
-        "sourceLabel": "Perfected Jidz-Tet'ka"
+        "sourceLabel": "Radiant Ring of Taer Valaestas"
       }
     },
     {
@@ -33,18 +33,13 @@
       "label": "Stunning",
       "category": "tactical_dc",
       "priority": 100,
-      "status": "below_minimum",
-      "currentValue": 15,
+      "status": "missing",
+      "currentValue": 0,
       "minimumValue": 16,
       "targetValue": 17,
-      "missingToMinimum": 1,
-      "missingToTarget": 2,
-      "bestBonus": {
-        "raw": "Stunning +15",
-        "stackKey": "Default:Stunning",
-        "value": 15,
-        "sourceLabel": "Legendary Lionheart Ring"
-      }
+      "missingToMinimum": 16,
+      "missingToTarget": 17,
+      "bestBonus": null
     },
     {
       "targetId": "default_or_enhancement_combat_mastery",
@@ -126,17 +121,17 @@
       "label": "Deadly",
       "category": "melee_damage",
       "priority": 78,
-      "status": "below_minimum",
-      "currentValue": 10,
+      "status": "below_target",
+      "currentValue": 11,
       "minimumValue": 11,
       "targetValue": 12,
-      "missingToMinimum": 1,
-      "missingToTarget": 2,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
       "bestBonus": {
-        "raw": "Deadly +10",
+        "raw": "Deadly +11",
         "stackKey": "Default:Deadly",
-        "value": 10,
-        "sourceLabel": "Storm's Harness"
+        "value": 11,
+        "sourceLabel": "Legendary Eternal Flameguard's Lenses"
       }
     },
     {
@@ -162,18 +157,13 @@
       "label": "Enhanced Ki",
       "category": "monk",
       "priority": 78,
-      "status": "below_minimum",
-      "currentValue": 3,
+      "status": "missing",
+      "currentValue": 0,
       "minimumValue": 4,
       "targetValue": 5,
-      "missingToMinimum": 1,
-      "missingToTarget": 2,
-      "bestBonus": {
-        "raw": "Enhanced Ki +3",
-        "stackKey": "Default:Enhanced Ki",
-        "value": 3,
-        "sourceLabel": "Visions of Precision"
-      }
+      "missingToMinimum": 4,
+      "missingToTarget": 5,
+      "bestBonus": null
     },
     {
       "targetId": "default_or_enhancement_constitution",
@@ -187,276 +177,6 @@
       "missingToMinimum": 14,
       "missingToTarget": 15,
       "bestBonus": null
-    },
-    {
-      "targetId": "default_or_enhancement_magical_sheltering",
-      "label": "Magical Sheltering",
-      "category": "survivability",
-      "priority": 76,
-      "status": "below_target",
-      "currentValue": 35,
-      "minimumValue": 33,
-      "targetValue": 38,
-      "missingToMinimum": 0,
-      "missingToTarget": 3,
-      "bestBonus": {
-        "raw": "Magical Sheltering +35",
-        "stackKey": "Default:Magical Sheltering",
-        "value": 35,
-        "sourceLabel": "Legendary Wondrous Magegloves"
-      }
-    },
-    {
-      "targetId": "default_or_enhancement_armor_piercing",
-      "label": "Armor-Piercing",
-      "category": "melee_damage",
-      "priority": 74,
-      "status": "below_target",
-      "currentValue": 23,
-      "minimumValue": 21,
-      "targetValue": 24,
-      "missingToMinimum": 0,
-      "missingToTarget": 1,
-      "bestBonus": {
-        "raw": "Armor-Piercing 23%",
-        "stackKey": "Default:Armor-Piercing",
-        "value": 23,
-        "sourceLabel": "Legendary Breaker's Bauble"
-      }
-    },
-    {
-      "targetId": "quality_doublestrike",
-      "label": "Quality Doublestrike",
-      "category": "melee_damage",
-      "priority": 72,
-      "status": "missing",
-      "currentValue": 0,
-      "minimumValue": 4,
-      "targetValue": 4,
-      "missingToMinimum": 4,
-      "missingToTarget": 4,
-      "bestBonus": null
-    },
-    {
-      "targetId": "default_or_enhancement_accuracy",
-      "label": "Accuracy",
-      "category": "melee_accuracy",
-      "priority": 72,
-      "status": "below_target",
-      "currentValue": 23,
-      "minimumValue": 22,
-      "targetValue": 24,
-      "missingToMinimum": 0,
-      "missingToTarget": 1,
-      "bestBonus": {
-        "raw": "Accuracy +23",
-        "stackKey": "Default:Accuracy",
-        "value": 23,
-        "sourceLabel": "Legendary Breaker's Bauble"
-      }
-    },
-    {
-      "targetId": "default_or_enhancement_false_life",
-      "label": "False Life",
-      "category": "survivability",
-      "priority": 72,
-      "status": "below_minimum",
-      "currentValue": 50,
-      "minimumValue": 54,
-      "targetValue": 57,
-      "missingToMinimum": 4,
-      "missingToTarget": 7,
-      "bestBonus": {
-        "raw": "False Life +50",
-        "stackKey": "Default:False Life",
-        "value": 50,
-        "sourceLabel": "Firefly Garb"
-      }
-    },
-    {
-      "targetId": "default_or_enhancement_healing_amplification",
-      "label": "Healing Amplification",
-      "category": "survivability",
-      "priority": 72,
-      "status": "below_minimum",
-      "currentValue": 53,
-      "minimumValue": 57,
-      "targetValue": 61,
-      "missingToMinimum": 4,
-      "missingToTarget": 8,
-      "bestBonus": {
-        "raw": "Competence Healing Amplification +53",
-        "stackKey": "Competence:Healing Amplification",
-        "value": 53,
-        "sourceLabel": "Firefly Garb"
-      }
-    },
-    {
-      "targetId": "artifact_tactical_dc",
-      "label": "Artifact Tactical DC",
-      "category": "set_bonus",
-      "priority": 70,
-      "status": "missing",
-      "currentValue": 0,
-      "minimumValue": 5,
-      "targetValue": 5,
-      "missingToMinimum": 5,
-      "missingToTarget": 5,
-      "bestBonus": null
-    },
-    {
-      "targetId": "artifact_doublestrike",
-      "label": "Artifact Doublestrike",
-      "category": "set_bonus",
-      "priority": 70,
-      "status": "missing",
-      "currentValue": 0,
-      "minimumValue": 15,
-      "targetValue": 15,
-      "missingToMinimum": 15,
-      "missingToTarget": 15,
-      "bestBonus": null
-    },
-    {
-      "targetId": "artifact_armor_piercing",
-      "label": "Artifact Armor-Piercing",
-      "category": "set_bonus",
-      "priority": 70,
-      "status": "missing",
-      "currentValue": 0,
-      "minimumValue": 30,
-      "targetValue": 30,
-      "missingToMinimum": 30,
-      "missingToTarget": 30,
-      "bestBonus": null
-    }
-  ],
-  "underfilledTargets": [
-    {
-      "targetId": "default_or_enhancement_wisdom",
-      "label": "Wisdom",
-      "category": "primary_stat",
-      "priority": 100,
-      "status": "below_target",
-      "currentValue": 14,
-      "minimumValue": 14,
-      "targetValue": 15,
-      "missingToMinimum": 0,
-      "missingToTarget": 1,
-      "bestBonus": {
-        "raw": "Wisdom +14",
-        "stackKey": "Default:Wisdom",
-        "value": 14,
-        "sourceLabel": "Perfected Jidz-Tet'ka"
-      }
-    },
-    {
-      "targetId": "default_or_enhancement_stunning",
-      "label": "Stunning",
-      "category": "tactical_dc",
-      "priority": 100,
-      "status": "below_minimum",
-      "currentValue": 15,
-      "minimumValue": 16,
-      "targetValue": 17,
-      "missingToMinimum": 1,
-      "missingToTarget": 2,
-      "bestBonus": {
-        "raw": "Stunning +15",
-        "stackKey": "Default:Stunning",
-        "value": 15,
-        "sourceLabel": "Legendary Lionheart Ring"
-      }
-    },
-    {
-      "targetId": "default_or_enhancement_prr",
-      "label": "PRR",
-      "category": "survivability",
-      "priority": 84,
-      "status": "below_target",
-      "currentValue": 33,
-      "minimumValue": 33,
-      "targetValue": 38,
-      "missingToMinimum": 0,
-      "missingToTarget": 5,
-      "bestBonus": {
-        "raw": "Physical Sheltering +33",
-        "stackKey": "Default:Physical Sheltering",
-        "value": 33,
-        "sourceLabel": "Firefly Garb"
-      }
-    },
-    {
-      "targetId": "default_or_enhancement_mrr",
-      "label": "MRR",
-      "category": "survivability",
-      "priority": 82,
-      "status": "below_target",
-      "currentValue": 35,
-      "minimumValue": 33,
-      "targetValue": 38,
-      "missingToMinimum": 0,
-      "missingToTarget": 3,
-      "bestBonus": {
-        "raw": "Magical Sheltering +35",
-        "stackKey": "Default:Magical Sheltering",
-        "value": 35,
-        "sourceLabel": "Legendary Wondrous Magegloves"
-      }
-    },
-    {
-      "targetId": "default_or_enhancement_deadly",
-      "label": "Deadly",
-      "category": "melee_damage",
-      "priority": 78,
-      "status": "below_minimum",
-      "currentValue": 10,
-      "minimumValue": 11,
-      "targetValue": 12,
-      "missingToMinimum": 1,
-      "missingToTarget": 2,
-      "bestBonus": {
-        "raw": "Deadly +10",
-        "stackKey": "Default:Deadly",
-        "value": 10,
-        "sourceLabel": "Storm's Harness"
-      }
-    },
-    {
-      "targetId": "default_or_enhancement_physical_sheltering",
-      "label": "Physical Sheltering",
-      "category": "survivability",
-      "priority": 78,
-      "status": "below_target",
-      "currentValue": 33,
-      "minimumValue": 33,
-      "targetValue": 38,
-      "missingToMinimum": 0,
-      "missingToTarget": 5,
-      "bestBonus": {
-        "raw": "Physical Sheltering +33",
-        "stackKey": "Default:Physical Sheltering",
-        "value": 33,
-        "sourceLabel": "Firefly Garb"
-      }
-    },
-    {
-      "targetId": "default_or_enhancement_enhanced_ki",
-      "label": "Enhanced Ki",
-      "category": "monk",
-      "priority": 78,
-      "status": "below_minimum",
-      "currentValue": 3,
-      "minimumValue": 4,
-      "targetValue": 5,
-      "missingToMinimum": 1,
-      "missingToTarget": 2,
-      "bestBonus": {
-        "raw": "Enhanced Ki +3",
-        "stackKey": "Default:Enhanced Ki",
-        "value": 3,
-        "sourceLabel": "Visions of Precision"
-      }
     },
     {
       "targetId": "default_or_enhancement_magical_sheltering",
@@ -547,91 +267,6 @@
         "value": 53,
         "sourceLabel": "Firefly Garb"
       }
-    },
-    {
-      "targetId": "default_or_enhancement_fortification",
-      "label": "Fortification",
-      "category": "survivability",
-      "priority": 66,
-      "status": "below_target",
-      "currentValue": 142,
-      "minimumValue": 142,
-      "targetValue": 156,
-      "missingToMinimum": 0,
-      "missingToTarget": 14,
-      "bestBonus": {
-        "raw": "Fortification +142%",
-        "stackKey": "Default:Fortification",
-        "value": 142,
-        "sourceLabel": "Firefly Garb"
-      }
-    }
-  ],
-  "missingTargets": [
-    {
-      "targetId": "default_or_enhancement_combat_mastery",
-      "label": "Combat Mastery",
-      "category": "tactical_dc",
-      "priority": 98,
-      "status": "missing",
-      "currentValue": 0,
-      "minimumValue": 10,
-      "targetValue": 12,
-      "missingToMinimum": 10,
-      "missingToTarget": 12,
-      "bestBonus": null
-    },
-    {
-      "targetId": "quality_combat_mastery",
-      "label": "Quality Combat Mastery",
-      "category": "tactical_dc",
-      "priority": 90,
-      "status": "missing",
-      "currentValue": 0,
-      "minimumValue": 3,
-      "targetValue": 3,
-      "missingToMinimum": 3,
-      "missingToTarget": 3,
-      "bestBonus": null
-    },
-    {
-      "targetId": "insightful_stunning",
-      "label": "Insightful Stunning",
-      "category": "tactical_dc",
-      "priority": 85,
-      "status": "missing",
-      "currentValue": 0,
-      "minimumValue": 6,
-      "targetValue": 6,
-      "missingToMinimum": 6,
-      "missingToTarget": 6,
-      "bestBonus": null
-    },
-    {
-      "targetId": "default_or_enhancement_constitution",
-      "label": "Constitution",
-      "category": "primary_stat",
-      "priority": 76,
-      "status": "missing",
-      "currentValue": 0,
-      "minimumValue": 14,
-      "targetValue": 15,
-      "missingToMinimum": 14,
-      "missingToTarget": 15,
-      "bestBonus": null
-    },
-    {
-      "targetId": "quality_doublestrike",
-      "label": "Quality Doublestrike",
-      "category": "melee_damage",
-      "priority": 72,
-      "status": "missing",
-      "currentValue": 0,
-      "minimumValue": 4,
-      "targetValue": 4,
-      "missingToMinimum": 4,
-      "missingToTarget": 4,
-      "bestBonus": null
     },
     {
       "targetId": "artifact_tactical_dc",
@@ -677,12 +312,354 @@
       "label": "Dodge",
       "category": "survivability",
       "priority": 70,
-      "status": "missing",
-      "currentValue": 0,
+      "status": "below_minimum",
+      "currentValue": 9,
       "minimumValue": 11,
       "targetValue": 15,
-      "missingToMinimum": 11,
+      "missingToMinimum": 2,
+      "missingToTarget": 6,
+      "bestBonus": {
+        "raw": "Dodge +9%",
+        "stackKey": "Default:Dodge",
+        "value": 9,
+        "sourceLabel": "Epic Belt of the Red Abishai"
+      }
+    }
+  ],
+  "underfilledTargets": [
+    {
+      "targetId": "default_or_enhancement_wisdom",
+      "label": "Wisdom",
+      "category": "primary_stat",
+      "priority": 100,
+      "status": "below_target",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Wisdom +14",
+        "stackKey": "Default:Wisdom",
+        "value": 14,
+        "sourceLabel": "Radiant Ring of Taer Valaestas"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_prr",
+      "label": "PRR",
+      "category": "survivability",
+      "priority": 84,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_mrr",
+      "label": "MRR",
+      "category": "survivability",
+      "priority": 82,
+      "status": "below_target",
+      "currentValue": 35,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 3,
+      "bestBonus": {
+        "raw": "Magical Sheltering +35",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 35,
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_deadly",
+      "label": "Deadly",
+      "category": "melee_damage",
+      "priority": 78,
+      "status": "below_target",
+      "currentValue": 11,
+      "minimumValue": 11,
+      "targetValue": 12,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Deadly +11",
+        "stackKey": "Default:Deadly",
+        "value": 11,
+        "sourceLabel": "Legendary Eternal Flameguard's Lenses"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_physical_sheltering",
+      "label": "Physical Sheltering",
+      "category": "survivability",
+      "priority": 78,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_magical_sheltering",
+      "label": "Magical Sheltering",
+      "category": "survivability",
+      "priority": 76,
+      "status": "below_target",
+      "currentValue": 35,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 3,
+      "bestBonus": {
+        "raw": "Magical Sheltering +35",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 35,
+        "sourceLabel": "Legendary Wondrous Magegloves"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_armor_piercing",
+      "label": "Armor-Piercing",
+      "category": "melee_damage",
+      "priority": 74,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 21,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Armor-Piercing 23%",
+        "stackKey": "Default:Armor-Piercing",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_accuracy",
+      "label": "Accuracy",
+      "category": "melee_accuracy",
+      "priority": 72,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 22,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Accuracy +23",
+        "stackKey": "Default:Accuracy",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_false_life",
+      "label": "False Life",
+      "category": "survivability",
+      "priority": 72,
+      "status": "below_minimum",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "missingToMinimum": 4,
+      "missingToTarget": 7,
+      "bestBonus": {
+        "raw": "False Life +50",
+        "stackKey": "Default:False Life",
+        "value": 50,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_healing_amplification",
+      "label": "Healing Amplification",
+      "category": "survivability",
+      "priority": 72,
+      "status": "below_minimum",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "missingToMinimum": 4,
+      "missingToTarget": 8,
+      "bestBonus": {
+        "raw": "Competence Healing Amplification +53",
+        "stackKey": "Competence:Healing Amplification",
+        "value": 53,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_dodge",
+      "label": "Dodge",
+      "category": "survivability",
+      "priority": 70,
+      "status": "below_minimum",
+      "currentValue": 9,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "missingToMinimum": 2,
+      "missingToTarget": 6,
+      "bestBonus": {
+        "raw": "Dodge +9%",
+        "stackKey": "Default:Dodge",
+        "value": 9,
+        "sourceLabel": "Epic Belt of the Red Abishai"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_fortification",
+      "label": "Fortification",
+      "category": "survivability",
+      "priority": 66,
+      "status": "below_target",
+      "currentValue": 142,
+      "minimumValue": 142,
+      "targetValue": 156,
+      "missingToMinimum": 0,
+      "missingToTarget": 14,
+      "bestBonus": {
+        "raw": "Fortification +142%",
+        "stackKey": "Default:Fortification",
+        "value": 142,
+        "sourceLabel": "Firefly Garb"
+      }
+    }
+  ],
+  "missingTargets": [
+    {
+      "targetId": "default_or_enhancement_stunning",
+      "label": "Stunning",
+      "category": "tactical_dc",
+      "priority": 100,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "missingToMinimum": 16,
+      "missingToTarget": 17,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_combat_mastery",
+      "label": "Combat Mastery",
+      "category": "tactical_dc",
+      "priority": 98,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 12,
+      "missingToMinimum": 10,
+      "missingToTarget": 12,
+      "bestBonus": null
+    },
+    {
+      "targetId": "quality_combat_mastery",
+      "label": "Quality Combat Mastery",
+      "category": "tactical_dc",
+      "priority": 90,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "missingToMinimum": 3,
+      "missingToTarget": 3,
+      "bestBonus": null
+    },
+    {
+      "targetId": "insightful_stunning",
+      "label": "Insightful Stunning",
+      "category": "tactical_dc",
+      "priority": 85,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 6,
+      "targetValue": 6,
+      "missingToMinimum": 6,
+      "missingToTarget": 6,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_enhanced_ki",
+      "label": "Enhanced Ki",
+      "category": "monk",
+      "priority": 78,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 4,
+      "targetValue": 5,
+      "missingToMinimum": 4,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_constitution",
+      "label": "Constitution",
+      "category": "primary_stat",
+      "priority": 76,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "missingToMinimum": 14,
       "missingToTarget": 15,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_tactical_dc",
+      "label": "Artifact Tactical DC",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 5,
+      "targetValue": 5,
+      "missingToMinimum": 5,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_doublestrike",
+      "label": "Artifact Doublestrike",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 15,
+      "targetValue": 15,
+      "missingToMinimum": 15,
+      "missingToTarget": 15,
+      "bestBonus": null
+    },
+    {
+      "targetId": "artifact_armor_piercing",
+      "label": "Artifact Armor-Piercing",
+      "category": "set_bonus",
+      "priority": 70,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 30,
+      "targetValue": 30,
+      "missingToMinimum": 30,
+      "missingToTarget": 30,
       "bestBonus": null
     },
     {
@@ -721,19 +698,6 @@
       "minimumValue": 5,
       "targetValue": 5,
       "missingToMinimum": 5,
-      "missingToTarget": 5,
-      "bestBonus": null
-    },
-    {
-      "targetId": "quality_accuracy",
-      "label": "Quality Accuracy",
-      "category": "melee_accuracy",
-      "priority": 62,
-      "status": "missing",
-      "currentValue": 0,
-      "minimumValue": 4,
-      "targetValue": 5,
-      "missingToMinimum": 4,
       "missingToTarget": 5,
       "bestBonus": null
     },
@@ -818,44 +782,50 @@
   ],
   "openNormalSlots": [
     {
-      "itemName": "Visions of Precision",
-      "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+      "itemName": "Legendary Eternal Flameguard's Lenses",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+      "color": "yellow",
+      "raw": "Yellow"
+    },
+    {
+      "itemName": "Legendary Black Dynamo",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+      "color": "green",
+      "raw": "Green"
+    },
+    {
+      "itemName": "Legendary Black Dynamo",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+      "color": "colorless",
+      "raw": "Colorless"
+    },
+    {
+      "itemName": "Legendary Breaker's Bauble",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+      "color": "green",
+      "raw": "Green"
+    },
+    {
+      "itemName": "Legendary Breaker's Bauble",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+      "color": "colorless",
+      "raw": "Colorless"
+    },
+    {
+      "itemName": "Radiant Ring of Taer Valaestas",
+      "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+      "color": "yellow",
+      "raw": "Yellow"
+    },
+    {
+      "itemName": "Radiant Ring of Taer Valaestas",
+      "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
       "color": "blue",
       "raw": "Blue"
     },
     {
-      "itemName": "Visions of Precision",
-      "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-      "color": "green",
-      "raw": "Green"
-    },
-    {
-      "itemName": "Legendary Black Dynamo",
-      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-      "color": "green",
-      "raw": "Green"
-    },
-    {
-      "itemName": "Legendary Black Dynamo",
-      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-      "color": "colorless",
-      "raw": "Colorless"
-    },
-    {
-      "itemName": "Legendary Breaker's Bauble",
-      "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-      "color": "green",
-      "raw": "Green"
-    },
-    {
-      "itemName": "Legendary Breaker's Bauble",
-      "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-      "color": "colorless",
-      "raw": "Colorless"
-    },
-    {
-      "itemName": "Legendary Lionheart Ring",
-      "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+      "itemName": "Radiant Ring of Taer Valaestas",
+      "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
       "color": "green",
       "raw": "Green"
     },
@@ -890,10 +860,16 @@
       "raw": "Yellow"
     },
     {
-      "itemName": "Belt of Blind Devotion",
-      "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-      "color": "blue",
-      "raw": "Blue"
+      "itemName": "Epic Belt of the Red Abishai",
+      "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+      "color": "green",
+      "raw": "Green"
+    },
+    {
+      "itemName": "Epic Belt of the Red Abishai",
+      "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+      "color": "colorless",
+      "raw": "Colorless"
     },
     {
       "itemName": "Perfected Jidz-Tet'ka",
@@ -953,6 +929,84 @@
   "bestRecommendations": [
     {
       "sourceType": "normal_augment",
+      "name": "Sapphire of Stunning +16",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B16",
+      "effect": "Stunning +16",
+      "stackKey": "Default:Stunning",
+      "value": 16,
+      "score": 214.64705882352942,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
+      "currentValue": 0,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
       "name": "A Treatise on Battle",
       "link": "https://ddowiki.com/page/Item:A_Treatise_on_Battle",
       "effect": "Combat Mastery +11",
@@ -1042,38 +1096,43 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "itemName": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "blue"
         },
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -1102,9 +1161,14 @@
           "color": "yellow"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "colorless"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -1155,30 +1219,20 @@
     },
     {
       "sourceType": "normal_augment",
-      "name": "Sapphire of Dodge +14%",
-      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B14%25",
-      "effect": "Dodge +14%",
-      "stackKey": "Default:Dodge",
+      "name": "Sapphire of Stunning +14",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B14",
+      "effect": "Stunning +14",
+      "stackKey": "Default:Stunning",
       "value": 14,
-      "score": 180.33333333333334,
-      "targetId": "default_or_enhancement_dodge",
-      "targetLabel": "Dodge",
+      "score": 180.94117647058823,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
       "currentValue": 0,
-      "minimumValue": 11,
-      "targetValue": 15,
+      "minimumValue": 16,
+      "targetValue": 17,
       "itemName": null,
       "craftingSlotLabel": null,
       "compatibleSlots": [
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
         {
           "itemName": "Legendary Black Dynamo",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
@@ -1190,8 +1244,13 @@
           "color": "green"
         },
         {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -1210,9 +1269,9 @@
           "color": "green"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -1253,16 +1312,6 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
           "itemName": "Legendary Black Dynamo",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
           "color": "green"
@@ -1273,8 +1322,13 @@
           "color": "green"
         },
         {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -1293,9 +1347,9 @@
           "color": "green"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -1321,30 +1375,20 @@
     },
     {
       "sourceType": "normal_augment",
-      "name": "Sapphire of Dodge +12%",
-      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B12%25",
-      "effect": "Dodge +12%",
-      "stackKey": "Default:Dodge",
+      "name": "Sapphire of Stunning +12",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B12",
+      "effect": "Stunning +12",
+      "stackKey": "Default:Stunning",
       "value": 12,
-      "score": 171,
-      "targetId": "default_or_enhancement_dodge",
-      "targetLabel": "Dodge",
+      "score": 172.23529411764707,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
       "currentValue": 0,
-      "minimumValue": 11,
-      "targetValue": 15,
+      "minimumValue": 16,
+      "targetValue": 17,
       "itemName": null,
       "craftingSlotLabel": null,
       "compatibleSlots": [
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
         {
           "itemName": "Legendary Black Dynamo",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
@@ -1356,8 +1400,13 @@
           "color": "green"
         },
         {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -1376,9 +1425,9 @@
           "color": "green"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -1419,38 +1468,43 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "itemName": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "blue"
         },
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -1479,9 +1533,14 @@
           "color": "yellow"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "colorless"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -1583,30 +1642,20 @@
     },
     {
       "sourceType": "normal_augment",
-      "name": "Sapphire of Dodge +11%",
-      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B11%25",
-      "effect": "Dodge +11%",
-      "stackKey": "Default:Dodge",
+      "name": "Sapphire of Stunning +11",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B11",
+      "effect": "Stunning +11",
+      "stackKey": "Default:Stunning",
       "value": 11,
-      "score": 166.33333333333331,
-      "targetId": "default_or_enhancement_dodge",
-      "targetLabel": "Dodge",
+      "score": 167.88235294117646,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
       "currentValue": 0,
-      "minimumValue": 11,
-      "targetValue": 15,
+      "minimumValue": 16,
+      "targetValue": 17,
       "itemName": null,
       "craftingSlotLabel": null,
       "compatibleSlots": [
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
         {
           "itemName": "Legendary Black Dynamo",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
@@ -1618,8 +1667,13 @@
           "color": "green"
         },
         {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -1638,9 +1692,9 @@
           "color": "green"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -1732,16 +1786,6 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
           "itemName": "Legendary Black Dynamo",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
           "color": "green"
@@ -1752,8 +1796,13 @@
           "color": "green"
         },
         {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -1772,9 +1821,87 @@
           "color": "green"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
           "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Stunning +9",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B9",
+      "effect": "Stunning +9",
+      "stackKey": "Default:Stunning",
+      "value": 9,
+      "score": 159.1764705882353,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
+      "currentValue": 0,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -1812,40 +1939,6 @@
       "minimumValue": 14,
       "targetValue": 15,
       "itemName": "Legendary Black Dynamo",
-      "craftingSlotLabel": "Lamordia Melancholic Accessory",
-      "compatibleSlots": []
-    },
-    {
-      "sourceType": "crafting_augment",
-      "name": "Melancholic Wisdom (Heroic)",
-      "link": null,
-      "effect": "+15 Enhancement bonus to Wisdom.",
-      "stackKey": "Enhancement:Wisdom",
-      "value": 15,
-      "score": 157,
-      "targetId": "default_or_enhancement_wisdom",
-      "targetLabel": "Wisdom",
-      "currentValue": 14,
-      "minimumValue": 14,
-      "targetValue": 15,
-      "itemName": "Legendary Gravekeeper's Stoic Cloak",
-      "craftingSlotLabel": "Lamordia Melancholic Accessory",
-      "compatibleSlots": []
-    },
-    {
-      "sourceType": "crafting_augment",
-      "name": "Melancholic Wisdom (Heroic)",
-      "link": null,
-      "effect": "+15 Enhancement bonus to Wisdom.",
-      "stackKey": "Enhancement:Wisdom",
-      "value": 15,
-      "score": 157,
-      "targetId": "default_or_enhancement_wisdom",
-      "targetLabel": "Wisdom",
-      "currentValue": 14,
-      "minimumValue": 14,
-      "targetValue": 15,
-      "itemName": "Legendary Lamordian Top Hat",
       "craftingSlotLabel": "Lamordia Melancholic Accessory",
       "compatibleSlots": []
     }
@@ -1853,6 +1946,84 @@
   "normalAugmentRecommendations": [
     {
       "sourceType": "normal_augment",
+      "name": "Sapphire of Stunning +16",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B16",
+      "effect": "Stunning +16",
+      "stackKey": "Default:Stunning",
+      "value": 16,
+      "score": 214.64705882352942,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
+      "currentValue": 0,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
       "name": "A Treatise on Battle",
       "link": "https://ddowiki.com/page/Item:A_Treatise_on_Battle",
       "effect": "Combat Mastery +11",
@@ -1891,38 +2062,43 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "itemName": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "blue"
         },
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -1951,9 +2127,14 @@
           "color": "yellow"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "colorless"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -2004,30 +2185,20 @@
     },
     {
       "sourceType": "normal_augment",
-      "name": "Sapphire of Dodge +14%",
-      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B14%25",
-      "effect": "Dodge +14%",
-      "stackKey": "Default:Dodge",
+      "name": "Sapphire of Stunning +14",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B14",
+      "effect": "Stunning +14",
+      "stackKey": "Default:Stunning",
       "value": 14,
-      "score": 180.33333333333334,
-      "targetId": "default_or_enhancement_dodge",
-      "targetLabel": "Dodge",
+      "score": 180.94117647058823,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
       "currentValue": 0,
-      "minimumValue": 11,
-      "targetValue": 15,
+      "minimumValue": 16,
+      "targetValue": 17,
       "itemName": null,
       "craftingSlotLabel": null,
       "compatibleSlots": [
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
         {
           "itemName": "Legendary Black Dynamo",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
@@ -2039,8 +2210,13 @@
           "color": "green"
         },
         {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -2059,9 +2235,9 @@
           "color": "green"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -2102,16 +2278,6 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
           "itemName": "Legendary Black Dynamo",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
           "color": "green"
@@ -2122,8 +2288,13 @@
           "color": "green"
         },
         {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -2142,9 +2313,9 @@
           "color": "green"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -2170,30 +2341,20 @@
     },
     {
       "sourceType": "normal_augment",
-      "name": "Sapphire of Dodge +12%",
-      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B12%25",
-      "effect": "Dodge +12%",
-      "stackKey": "Default:Dodge",
+      "name": "Sapphire of Stunning +12",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B12",
+      "effect": "Stunning +12",
+      "stackKey": "Default:Stunning",
       "value": 12,
-      "score": 171,
-      "targetId": "default_or_enhancement_dodge",
-      "targetLabel": "Dodge",
+      "score": 172.23529411764707,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
       "currentValue": 0,
-      "minimumValue": 11,
-      "targetValue": 15,
+      "minimumValue": 16,
+      "targetValue": 17,
       "itemName": null,
       "craftingSlotLabel": null,
       "compatibleSlots": [
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
         {
           "itemName": "Legendary Black Dynamo",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
@@ -2205,8 +2366,13 @@
           "color": "green"
         },
         {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -2225,9 +2391,9 @@
           "color": "green"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -2268,38 +2434,43 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "itemName": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "blue"
         },
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -2328,9 +2499,14 @@
           "color": "yellow"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "colorless"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -2381,30 +2557,20 @@
     },
     {
       "sourceType": "normal_augment",
-      "name": "Sapphire of Dodge +11%",
-      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B11%25",
-      "effect": "Dodge +11%",
-      "stackKey": "Default:Dodge",
+      "name": "Sapphire of Stunning +11",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B11",
+      "effect": "Stunning +11",
+      "stackKey": "Default:Stunning",
       "value": 11,
-      "score": 166.33333333333331,
-      "targetId": "default_or_enhancement_dodge",
-      "targetLabel": "Dodge",
+      "score": 167.88235294117646,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
       "currentValue": 0,
-      "minimumValue": 11,
-      "targetValue": 15,
+      "minimumValue": 16,
+      "targetValue": 17,
       "itemName": null,
       "craftingSlotLabel": null,
       "compatibleSlots": [
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
         {
           "itemName": "Legendary Black Dynamo",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
@@ -2416,8 +2582,13 @@
           "color": "green"
         },
         {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -2436,9 +2607,9 @@
           "color": "green"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -2479,16 +2650,6 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
           "itemName": "Legendary Black Dynamo",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
           "color": "green"
@@ -2499,8 +2660,13 @@
           "color": "green"
         },
         {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -2519,9 +2685,87 @@
           "color": "green"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
           "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Stunning +9",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B9",
+      "effect": "Stunning +9",
+      "stackKey": "Default:Stunning",
+      "value": 9,
+      "score": 159.1764705882353,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
+      "currentValue": 0,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -2562,38 +2806,43 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "itemName": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "blue"
         },
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -2622,9 +2871,14 @@
           "color": "yellow"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "colorless"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -2670,6 +2924,84 @@
           "itemName": "Storm's Harness",
           "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
           "color": "orange"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Stunning +7",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B7",
+      "effect": "Stunning +7",
+      "stackKey": "Default:Stunning",
+      "value": 7,
+      "score": 150.47058823529412,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
+      "currentValue": 0,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
         }
       ]
     },
@@ -2690,38 +3022,43 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "itemName": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "blue"
         },
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -2750,9 +3087,14 @@
           "color": "yellow"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "colorless"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -2803,30 +3145,20 @@
     },
     {
       "sourceType": "normal_augment",
-      "name": "Sapphire of Stunning +16",
-      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B16",
-      "effect": "Stunning +16",
+      "name": "Sapphire of Stunning +6",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B6",
+      "effect": "Stunning +6",
       "stackKey": "Default:Stunning",
-      "value": 16,
-      "score": 147,
+      "value": 6,
+      "score": 146.11764705882354,
       "targetId": "default_or_enhancement_stunning",
       "targetLabel": "Stunning",
-      "currentValue": 15,
+      "currentValue": 0,
       "minimumValue": 16,
       "targetValue": 17,
       "itemName": null,
       "craftingSlotLabel": null,
       "compatibleSlots": [
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
         {
           "itemName": "Legendary Black Dynamo",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
@@ -2838,8 +3170,13 @@
           "color": "green"
         },
         {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -2858,9 +3195,9 @@
           "color": "green"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -2901,38 +3238,43 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "itemName": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "blue"
         },
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -2961,9 +3303,14 @@
           "color": "yellow"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "colorless"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -3009,6 +3356,84 @@
           "itemName": "Storm's Harness",
           "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
           "color": "orange"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Dodge +14%",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B14%25",
+      "effect": "Dodge +14%",
+      "stackKey": "Default:Dodge",
+      "value": 14,
+      "score": 138.33333333333334,
+      "targetId": "default_or_enhancement_dodge",
+      "targetLabel": "Dodge",
+      "currentValue": 9,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
         }
       ]
     },
@@ -3029,38 +3454,43 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "itemName": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "blue"
         },
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -3089,9 +3519,14 @@
           "color": "yellow"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "colorless"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -3137,6 +3572,84 @@
           "itemName": "Storm's Harness",
           "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
           "color": "orange"
+        }
+      ]
+    },
+    {
+      "sourceType": "normal_augment",
+      "name": "Sapphire of Stunning +4",
+      "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B4",
+      "effect": "Stunning +4",
+      "stackKey": "Default:Stunning",
+      "value": 4,
+      "score": 137.41176470588235,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
+      "currentValue": 0,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "itemName": null,
+      "craftingSlotLabel": null,
+      "compatibleSlots": [
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "green"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "blue"
+        },
+        {
+          "itemName": "Firefly Garb",
+          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
+          "color": "green"
+        },
+        {
+          "itemName": "Death's Deferral",
+          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "green"
+        },
+        {
+          "itemName": "Perfected Jidz-Tet'ka",
+          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "color": "blue"
+        },
+        {
+          "itemName": "Legendary Gravekeeper's Stoic Cloak",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Lamordian Top Hat",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+          "color": "green"
         }
       ]
     },
@@ -3157,38 +3670,43 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
+          "itemName": "Legendary Eternal Flameguard's Lenses",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Eternal_Flameguard%27s_Lenses",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Black Dynamo",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "green"
+        },
+        {
+          "itemName": "Legendary Breaker's Bauble",
+          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+          "color": "colorless"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "yellow"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "blue"
         },
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "colorless"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -3217,9 +3735,14 @@
           "color": "yellow"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
+        },
+        {
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "colorless"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -3270,89 +3793,6 @@
     },
     {
       "sourceType": "normal_augment",
-      "name": "Sapphire of Dodge +9%",
-      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B9%25",
-      "effect": "Dodge +9%",
-      "stackKey": "Default:Dodge",
-      "value": 9,
-      "score": 132,
-      "targetId": "default_or_enhancement_dodge",
-      "targetLabel": "Dodge",
-      "currentValue": 0,
-      "minimumValue": 11,
-      "targetValue": 15,
-      "itemName": null,
-      "craftingSlotLabel": null,
-      "compatibleSlots": [
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
-          "color": "green"
-        },
-        {
-          "itemName": "Firefly Garb",
-          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
-          "color": "blue"
-        },
-        {
-          "itemName": "Firefly Garb",
-          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
-          "color": "green"
-        },
-        {
-          "itemName": "Death's Deferral",
-          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
-          "color": "green"
-        },
-        {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
-        },
-        {
-          "itemName": "Perfected Jidz-Tet'ka",
-          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
-          "color": "green"
-        },
-        {
-          "itemName": "Perfected Jidz-Tet'ka",
-          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
-          "color": "blue"
-        },
-        {
-          "itemName": "Legendary Gravekeeper's Stoic Cloak",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Lamordian Top Hat",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
-          "color": "green"
-        }
-      ]
-    },
-    {
-      "sourceType": "normal_augment",
       "name": "Sapphire of Resistance +9",
       "link": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B9",
       "effect": "Resistance +9",
@@ -3368,16 +3808,6 @@
       "craftingSlotLabel": null,
       "compatibleSlots": [
         {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
           "itemName": "Legendary Black Dynamo",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
           "color": "green"
@@ -3388,8 +3818,13 @@
           "color": "green"
         },
         {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
+          "color": "blue"
+        },
+        {
+          "itemName": "Radiant Ring of Taer Valaestas",
+          "itemKey": "https://ddowiki.com/page/Item:Radiant_Ring_of_Taer_Valaestas",
           "color": "green"
         },
         {
@@ -3408,9 +3843,9 @@
           "color": "green"
         },
         {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
+          "itemName": "Epic Belt of the Red Abishai",
+          "itemKey": "https://ddowiki.com/page/Item:Epic_Belt_of_the_Red_Abishai",
+          "color": "green"
         },
         {
           "itemName": "Perfected Jidz-Tet'ka",
@@ -3431,338 +3866,6 @@
           "itemName": "Legendary Lamordian Top Hat",
           "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
           "color": "green"
-        }
-      ]
-    },
-    {
-      "sourceType": "normal_augment",
-      "name": "Sapphire of False Life +54",
-      "link": "https://ddowiki.com/page/Item:Sapphire_of_False_Life_%2B54",
-      "effect": "False Life +54",
-      "stackKey": "Default:False Life",
-      "value": 54,
-      "score": 127.85714285714286,
-      "targetId": "default_or_enhancement_false_life",
-      "targetLabel": "False Life",
-      "currentValue": 50,
-      "minimumValue": 54,
-      "targetValue": 57,
-      "itemName": null,
-      "craftingSlotLabel": null,
-      "compatibleSlots": [
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
-          "color": "green"
-        },
-        {
-          "itemName": "Firefly Garb",
-          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
-          "color": "blue"
-        },
-        {
-          "itemName": "Firefly Garb",
-          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
-          "color": "green"
-        },
-        {
-          "itemName": "Death's Deferral",
-          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
-          "color": "green"
-        },
-        {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
-        },
-        {
-          "itemName": "Perfected Jidz-Tet'ka",
-          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
-          "color": "green"
-        },
-        {
-          "itemName": "Perfected Jidz-Tet'ka",
-          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
-          "color": "blue"
-        },
-        {
-          "itemName": "Legendary Gravekeeper's Stoic Cloak",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Lamordian Top Hat",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
-          "color": "green"
-        }
-      ]
-    },
-    {
-      "sourceType": "normal_augment",
-      "name": "Sapphire of Dodge +8%",
-      "link": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B8%25",
-      "effect": "Dodge +8%",
-      "stackKey": "Default:Dodge",
-      "value": 8,
-      "score": 127.33333333333333,
-      "targetId": "default_or_enhancement_dodge",
-      "targetLabel": "Dodge",
-      "currentValue": 0,
-      "minimumValue": 11,
-      "targetValue": 15,
-      "itemName": null,
-      "craftingSlotLabel": null,
-      "compatibleSlots": [
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
-          "color": "green"
-        },
-        {
-          "itemName": "Firefly Garb",
-          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
-          "color": "blue"
-        },
-        {
-          "itemName": "Firefly Garb",
-          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
-          "color": "green"
-        },
-        {
-          "itemName": "Death's Deferral",
-          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
-          "color": "green"
-        },
-        {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
-        },
-        {
-          "itemName": "Perfected Jidz-Tet'ka",
-          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
-          "color": "green"
-        },
-        {
-          "itemName": "Perfected Jidz-Tet'ka",
-          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
-          "color": "blue"
-        },
-        {
-          "itemName": "Legendary Gravekeeper's Stoic Cloak",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Lamordian Top Hat",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
-          "color": "green"
-        }
-      ]
-    },
-    {
-      "sourceType": "normal_augment",
-      "name": "Sapphire of Healing Amplification +57",
-      "link": "https://ddowiki.com/page/Item:Sapphire_of_Healing_Amplification_%2B57",
-      "effect": "Competence Healing Amplification +57",
-      "stackKey": "Competence:Healing Amplification",
-      "value": 57,
-      "score": 125,
-      "targetId": "default_or_enhancement_healing_amplification",
-      "targetLabel": "Healing Amplification",
-      "currentValue": 53,
-      "minimumValue": 57,
-      "targetValue": 61,
-      "itemName": null,
-      "craftingSlotLabel": null,
-      "compatibleSlots": [
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "blue"
-        },
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
-          "color": "green"
-        },
-        {
-          "itemName": "Firefly Garb",
-          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
-          "color": "blue"
-        },
-        {
-          "itemName": "Firefly Garb",
-          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
-          "color": "green"
-        },
-        {
-          "itemName": "Death's Deferral",
-          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
-          "color": "green"
-        },
-        {
-          "itemName": "Belt of Blind Devotion",
-          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
-          "color": "blue"
-        },
-        {
-          "itemName": "Perfected Jidz-Tet'ka",
-          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
-          "color": "green"
-        },
-        {
-          "itemName": "Perfected Jidz-Tet'ka",
-          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
-          "color": "blue"
-        },
-        {
-          "itemName": "Legendary Gravekeeper's Stoic Cloak",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Lamordian Top Hat",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
-          "color": "green"
-        }
-      ]
-    },
-    {
-      "sourceType": "normal_augment",
-      "name": "Topaz of Damage +11",
-      "link": "https://ddowiki.com/page/Item:Topaz_of_Damage_%2B11",
-      "effect": "Deadly +11",
-      "stackKey": "Default:Deadly",
-      "value": 11,
-      "score": 125,
-      "targetId": "default_or_enhancement_deadly",
-      "targetLabel": "Deadly",
-      "currentValue": 10,
-      "minimumValue": 11,
-      "targetValue": 12,
-      "itemName": null,
-      "craftingSlotLabel": null,
-      "compatibleSlots": [
-        {
-          "itemName": "Visions of Precision",
-          "itemKey": "https://ddowiki.com/page/Item:Visions_of_Precision",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Black Dynamo",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Breaker's Bauble",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Lionheart Ring",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lionheart_Ring",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Wondrous Magegloves",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Wondrous_Magegloves",
-          "color": "yellow"
-        },
-        {
-          "itemName": "Firefly Garb",
-          "itemKey": "https://ddowiki.com/page/Item:Firefly_Garb",
-          "color": "green"
-        },
-        {
-          "itemName": "Death's Deferral",
-          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
-          "color": "green"
-        },
-        {
-          "itemName": "Death's Deferral",
-          "itemKey": "https://ddowiki.com/page/Item:Death%27s_Deferral",
-          "color": "yellow"
-        },
-        {
-          "itemName": "Perfected Jidz-Tet'ka",
-          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
-          "color": "yellow"
-        },
-        {
-          "itemName": "Perfected Jidz-Tet'ka",
-          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Gravekeeper's Stoic Cloak",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
-          "color": "green"
-        },
-        {
-          "itemName": "Legendary Lamordian Top Hat",
-          "itemKey": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
-          "color": "green"
-        },
-        {
-          "itemName": "Storm's Harness",
-          "itemKey": "https://ddowiki.com/page/Item:Storm%27s_Harness",
-          "color": "orange"
         }
       ]
     }

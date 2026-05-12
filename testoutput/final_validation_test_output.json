@@ -3,6 +3,7 @@
   "errorCount": 0,
   "warningCount": 11,
   "stackingConflictCount": 11,
+  "relevantConflictCount": 9,
   "errors": [],
   "warnings": [
     {
@@ -231,13 +232,13 @@
         "stackKey": "Default:Stunning",
         "source": {
           "type": "augment",
-          "itemName": "Perfected Jidz-Tet'ka",
-          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
           "slotColor": "blue",
           "name": "Sapphire of Stunning +16",
           "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B16"
         },
-        "sourceLabel": "Sapphire of Stunning +16 slotted into Perfected Jidz-Tet'ka"
+        "sourceLabel": "Sapphire of Stunning +16 slotted into Belt of Blind Devotion"
       },
       "suppressedBonuses": [
         {
@@ -551,6 +552,84 @@
   ],
   "activeSetBonuses": [],
   "setProgress": [],
+  "craftingAssignments": [
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Black Dynamo",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+      "craftingSlotKey": "Lamordia:Dolorous:Accessory",
+      "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo::Lamordia:Dolorous:Accessory",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "augmentName": "Dolorous Quality Combat Mastery (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+3 Quality bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "stackKey": "Quality:Combat Mastery",
+      "value": 3,
+      "targetId": "quality_combat_mastery",
+      "targetLabel": "Quality Combat Mastery",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "score": 196
+    },
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+      "craftingSlotKey": "Lamordia:Dolorous:Accessory",
+      "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak::Lamordia:Dolorous:Accessory",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "augmentName": "Dolorous Healing Amplification (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+61 Competence bonus to Positive Healing Amplification.",
+      "stackKey": "Competence:Healing Amplification",
+      "value": 61,
+      "targetId": "default_or_enhancement_healing_amplification",
+      "targetLabel": "Healing Amplification",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "score": 168
+    },
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Black Dynamo",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo",
+      "craftingSlotKey": "Lamordia:Melancholic:Accessory",
+      "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Black_Dynamo::Lamordia:Melancholic:Accessory",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "augmentName": "Melancholic False Life (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+57 Enhancement bonus to Maximum HP.",
+      "stackKey": "Enhancement:False Life",
+      "value": 57,
+      "targetId": "default_or_enhancement_false_life",
+      "targetLabel": "False Life",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "score": 166
+    },
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Gravekeeper's Stoic Cloak",
+      "itemKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak",
+      "craftingSlotKey": "Lamordia:Melancholic:Accessory",
+      "craftingSlotInstanceKey": "https://ddowiki.com/page/Item:Legendary_Gravekeeper%27s_Stoic_Cloak::Lamordia:Melancholic:Accessory",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "augmentName": "Melancholic Wisdom (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+15 Enhancement bonus to Wisdom.",
+      "stackKey": "Enhancement:Wisdom",
+      "value": 15,
+      "targetId": "default_or_enhancement_wisdom",
+      "targetLabel": "Wisdom",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "score": 157
+    }
+  ],
   "stackingConflicts": [
     {
       "stackKey": "Default:Wisdom",
@@ -679,8 +758,8 @@
         "value": 16,
         "source": {
           "type": "augment",
-          "itemName": "Perfected Jidz-Tet'ka",
-          "itemKey": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+          "itemName": "Belt of Blind Devotion",
+          "itemKey": "https://ddowiki.com/page/Item:Belt_of_Blind_Devotion",
           "slotColor": "blue",
           "name": "Sapphire of Stunning +16",
           "link": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B16"

@@ -13,8 +13,7 @@ const {
 } = require('../tools/gearsearch');
 
 const {
-  loadAllAugments,
-  getAugmentCandidatesForItems
+  loadAllAugments
 } = require('../tools/augmentSearch');
 
 const {
@@ -30,10 +29,6 @@ const {
 } = require('../tools/gearSetBuilder');
 
 const {
-  selectAugmentsForItems
-} = require('../tools/augmentSelection');
-
-const {
   validateGearset
 } = require('../tools/gearsetValidator');
 
@@ -46,6 +41,17 @@ const {
   buildAugmentSlotPlan,
   compactAugmentSlotPlanForAI
 } = require('../tools/augmentSlotPlanner');
+
+const {
+  runSwapOptimizer,
+  scoreGearset,
+  countRelevantConflicts
+} = require('../tools/swapOptimizer');
+
+const {
+  buildSummary: buildSummaryTool,
+  compactSummaryForAI
+} = require('../tools/buildSummary');
 
 const goal =
   'Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.';
@@ -163,12 +169,15 @@ function compactValidationResult(validationResult) {
     warningCount: (validationResult.warnings || []).length,
     stackingConflictCount:
       (validationResult.stackingConflicts || []).length,
+    relevantConflictCount:
+      countRelevantConflicts(validationResult.stackingConflicts || []),
 
     errors: validationResult.errors || [],
     warnings: validationResult.warnings || [],
 
     activeSetBonuses: validationResult.activeSetBonuses || [],
     setProgress: validationResult.setProgress || [],
+    craftingAssignments: validationResult.craftingAssignments || [],
 
     stackingConflicts:
       (validationResult.stackingConflicts || []).map(conflict => ({
@@ -192,11 +201,131 @@ function compactValidationResult(validationResult) {
   };
 }
 
+function compactSelectedItems(equippedItems = []) {
+  return equippedItems.map(item => ({
+    slot: item.slot,
+    name: item.name,
+    link: item.link,
+    minLevel: item.minLevel,
+    stackAwareScore: item.stackAwareScore,
+    dynamicScore: item.dynamicScore,
+    craftingSlots: item.craftingSlots || [],
+    augmentSlots: item.augmentSlots || [],
+    effectsRaw: item.effectsRaw || item.namedEffects || []
+  }));
+}
+
+function buildCompletedPipeline(equippedItems) {
+  const initialGapPlan = buildAugmentGapPlan({
+    equippedItems,
+    selectedAugments: [],
+    craftingAssignments: [],
+    normalAugments,
+    craftingAugmentPlan,
+    buildProfile
+  });
+
+  const slotPlan = buildAugmentSlotPlan({
+    augmentGapPlan: initialGapPlan,
+    selectedAugments: [],
+    equippedItems
+  });
+
+  const validationResult = validateGearset({
+    equippedItems,
+    selectedAugments: slotPlan.selectedAugmentsForValidation,
+    craftingAssignments: slotPlan.craftingAssignments,
+    buildProfile
+  });
+
+  const finalGapPlan = buildAugmentGapPlan({
+    equippedItems,
+    selectedAugments: slotPlan.selectedAugmentsForValidation,
+    craftingAssignments: slotPlan.craftingAssignments,
+    normalAugments,
+    craftingAugmentPlan,
+    buildProfile
+  });
+
+  return {
+    equippedItems,
+    initialGapPlan,
+    slotPlan,
+    validationResult,
+    finalGapPlan
+  };
+}
+
+function compactPipelineForOutput(pipeline) {
+  const compactInitialGapPlan =
+    compactAugmentGapPlanForAI(pipeline.initialGapPlan);
+
+  const compactSlotPlan =
+    compactAugmentSlotPlanForAI(pipeline.slotPlan);
+
+  const compactValidation =
+    compactValidationResult(pipeline.validationResult);
+
+  const compactFinalGapPlan =
+    compactAugmentGapPlanForAI(pipeline.finalGapPlan);
+
+  return {
+    score: scoreGearset({
+      finalGapPlan: pipeline.finalGapPlan,
+      validationResult: pipeline.validationResult,
+      slotPlan: pipeline.slotPlan
+    }),
+
+    selectedItems: compactSelectedItems(pipeline.equippedItems),
+
+    initialGapPlan: compactInitialGapPlan,
+    slotPlan: compactSlotPlan,
+    validation: compactValidation,
+    finalGapPlan: compactFinalGapPlan
+  };
+}
+
+function compactSwapOptimizerResult(optimizerResult) {
+  return {
+    swapCount: optimizerResult.swapCount,
+    swapLog: optimizerResult.swapLog,
+    finalScoreBreakdown: optimizerResult.finalScoreBreakdown || null,
+
+    optimizedSelectedItems:
+      compactSelectedItems(
+        optimizerResult.optimizedGearset.selectedItems
+      ),
+
+    finalScore: scoreGearset(optimizerResult.finalEvaluation),
+
+    finalCounts: {
+      metTargetCount:
+        optimizerResult.finalEvaluation.finalGapPlan.counts.metTargetCount,
+      openGapCount:
+        optimizerResult.finalEvaluation.finalGapPlan.counts.openGapCount,
+      normalAssignmentCount:
+        optimizerResult.finalEvaluation.slotPlan.counts.normalAssignmentCount,
+      craftingAssignmentCount:
+        optimizerResult.finalEvaluation.slotPlan.counts.craftingAssignmentCount,
+      stackingConflictCount:
+        optimizerResult.finalEvaluation.validationResult.stackingConflicts.length,
+      relevantConflictCount:
+        countRelevantConflicts(
+          optimizerResult.finalEvaluation.validationResult.stackingConflicts
+        ),
+      errorCount:
+        optimizerResult.finalEvaluation.validationResult.errors.length,
+      warningCount:
+        optimizerResult.finalEvaluation.validationResult.warnings.length
+    }
+  };
+}
+
 function printGapSummary(title, compactGapPlan, gapPlanOutputFile) {
   console.log('');
   console.log(title);
   console.log('Gap counts:', compactGapPlan.counts);
-  console.log(`Saved full gap plan to: ${gapPlanOutputFile}`);
+  console.log(`Saved gap plan to: ${gapPlanOutputFile}`);
 
   console.log('\nTop open gaps:');
   for (const gap of compactGapPlan.highestPriorityOpenGaps.slice(0, 12)) {
@@ -204,42 +333,25 @@ function printGapSummary(title, compactGapPlan, gapPlanOutputFile) {
       `- ${gap.label}: current ${gap.currentValue}, minimum ${gap.minimumValue}, target ${gap.targetValue}, status ${gap.status}`
     );
   }
-
-  console.log('\nBest recommendations:');
-  for (const rec of compactGapPlan.bestRecommendations.slice(0, 15)) {
-    const location = rec.itemName
-      ? ` on ${rec.itemName}`
-      : '';
-
-    console.log(
-      `- ${rec.name}${location}: ${rec.effect} -> ${rec.targetLabel} (score ${rec.score.toFixed(2)})`
-    );
-  }
 }
 
-function printSlotPlanSummary(compactSlotPlan, slotPlanOutputFile) {
+function printSlotPlanSummary(title, compactSlotPlan, slotPlanOutputFile) {
   console.log('');
+  console.log(title);
   console.log('Slot plan counts:', compactSlotPlan.counts);
-  console.log(`Saved full slot plan to: ${slotPlanOutputFile}`);
+  console.log(`Saved slot plan to: ${slotPlanOutputFile}`);
 
   console.log('\nNormal augment assignments:');
-  for (const assignment of compactSlotPlan.normalAssignments.slice(0, 15)) {
+  for (const assignment of compactSlotPlan.normalAssignments.slice(0, 12)) {
     console.log(
       `- ${assignment.augmentName} into ${assignment.itemName} (${assignment.slotColor}): ${assignment.effect} -> ${assignment.targetLabel}`
     );
   }
 
   console.log('\nCrafting augment assignments:');
-  for (const assignment of compactSlotPlan.craftingAssignments.slice(0, 15)) {
+  for (const assignment of compactSlotPlan.craftingAssignments.slice(0, 12)) {
     console.log(
       `- ${assignment.augmentName} on ${assignment.itemName}: ${assignment.effect} -> ${assignment.targetLabel}`
-    );
-  }
-
-  console.log('\nRemaining open normal slots:');
-  for (const slot of compactSlotPlan.remainingOpenNormalSlots.slice(0, 15)) {
-    console.log(
-      `- ${slot.itemName}: ${slot.color}`
     );
   }
 }
@@ -253,6 +365,9 @@ function printValidationSummary(title, compactValidation, outputFile) {
   console.log(`- Warnings: ${compactValidation.warningCount}`);
   console.log(
     `- Stacking conflicts: ${compactValidation.stackingConflictCount}`
+  );
+  console.log(
+    `- Relevant conflicts: ${compactValidation.relevantConflictCount}`
   );
 
   if (compactValidation.errors.length > 0) {
@@ -276,7 +391,96 @@ function printValidationSummary(title, compactValidation, outputFile) {
   }
 }
 
+function printSelectedItems(title, equippedItems = []) {
+  console.log('');
+  console.log(title);
+
+  for (const item of equippedItems) {
+    console.log(`- ${item.slot}: ${item.name}`);
+  }
+}
+
+function printComparison({
+  baselinePipeline,
+  optimizedResult
+}) {
+  const baselineScore = scoreGearset({
+    finalGapPlan: baselinePipeline.finalGapPlan,
+    validationResult: baselinePipeline.validationResult,
+    slotPlan: baselinePipeline.slotPlan
+  });
+
+  const optimizedScore = scoreGearset(
+    optimizedResult.finalEvaluation
+  );
+
+  const baselineValidation =
+    baselinePipeline.validationResult;
+
+  const optimizedValidation =
+    optimizedResult.finalEvaluation.validationResult;
+
+  const baselineFinalGap =
+    baselinePipeline.finalGapPlan;
+
+  const optimizedFinalGap =
+    optimizedResult.finalEvaluation.finalGapPlan;
+
+  const baselineSlotPlan =
+    baselinePipeline.slotPlan;
+
+  const optimizedSlotPlan =
+    optimizedResult.finalEvaluation.slotPlan;
+
+  console.log('');
+  console.log('=== Baseline vs Optimized Comparison ===');
+
+  console.log(`Score: ${baselineScore} -> ${optimizedScore}`);
+  console.log(
+    `Met targets: ${baselineFinalGap.counts.metTargetCount} -> ${optimizedFinalGap.counts.metTargetCount}`
+  );
+  console.log(
+    `Open gaps: ${baselineFinalGap.counts.openGapCount} -> ${optimizedFinalGap.counts.openGapCount}`
+  );
+  console.log(
+    `Normal assignments: ${baselineSlotPlan.counts.normalAssignmentCount} -> ${optimizedSlotPlan.counts.normalAssignmentCount}`
+  );
+  console.log(
+    `Crafting assignments: ${baselineSlotPlan.counts.craftingAssignmentCount} -> ${optimizedSlotPlan.counts.craftingAssignmentCount}`
+  );
+  console.log(
+    `Stacking conflicts: ${baselineValidation.stackingConflicts.length} -> ${optimizedValidation.stackingConflicts.length}`
+  );
+  console.log(
+    `Relevant conflicts: ${countRelevantConflicts(baselineValidation.stackingConflicts)} -> ${countRelevantConflicts(optimizedValidation.stackingConflicts)}`
+  );
+  console.log(
+    `Errors: ${baselineValidation.errors.length} -> ${optimizedValidation.errors.length}`
+  );
+  console.log(`Swaps made: ${optimizedResult.swapCount}`);
+
+  if (optimizedResult.swapLog.length > 0) {
+    console.log('\nSwap log:');
+
+    for (const swap of optimizedResult.swapLog) {
+      console.log(
+        `- Pass ${swap.pass}: ${swap.slotLabel}: ${swap.oldItemName} -> ${swap.newItemName} (${swap.oldScore} -> ${swap.newScore})`
+      );
+    }
+  }
+}
+
 function main() {
+  const outputDir = path.join(__dirname, '..', 'testoutput');
+
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
+
+  console.log(`Loaded ${items.length} items.`);
+  console.log(`Loaded ${normalAugments.length} normal augments.`);
+  console.log(`Loaded ${craftingAugments.length} crafting augments.`);
+
   const gearGroups = buildGearGroups();
 
   const stackAwareResult = buildStackAwareGearset({
@@ -285,137 +489,227 @@ function main() {
     craftingAugmentPlan
   });
 
-  const equippedItems = stackAwareResult.selectedItems;
+  const baselinePipeline =
+    buildCompletedPipeline(stackAwareResult.selectedItems);
 
-  const itemsWithNormalAugmentSlots = equippedItems.filter(item =>
-    Array.isArray(item.augmentSlots) &&
-    item.augmentSlots.length > 0
-  );
-
-  const augmentCandidateGroups = getAugmentCandidatesForItems(
-    itemsWithNormalAugmentSlots,
-    normalAugments,
-    {
-      goal,
-      maxLevel: buildProfile.maxLevel || 34,
-      limitPerSlot: 5
-    }
-  );
-
-  const initiallySelectedAugments = selectAugmentsForItems({
-    items: itemsWithNormalAugmentSlots,
-    augmentCandidateGroups,
-    buildProfile,
-    allowRedundant: false
-  });
-
-  const initialGapPlan = buildAugmentGapPlan({
-    equippedItems,
-    selectedAugments: initiallySelectedAugments,
+  const optimizedResult = runSwapOptimizer({
+    initialGearset: stackAwareResult,
     normalAugments,
     craftingAugmentPlan,
-    buildProfile
+    buildProfile,
+    options: {
+      maxPasses: 3
+    }
   });
 
-  const compactInitialGapPlan =
-    compactAugmentGapPlanForAI(initialGapPlan);
+  const buildSummary = buildSummaryTool({
+    goal,
+    buildProfile,
+    baselinePipeline,
+    optimizedResult,
+    options: {
+      gapLimit: 15,
+      conflictLimit: 10
+    }
+  });
 
-  const slotPlan = buildAugmentSlotPlan({
-  augmentGapPlan: initialGapPlan,
-  selectedAugments: initiallySelectedAugments,
-  equippedItems
-});
+  const compactBuildSummary =
+    compactSummaryForAI(buildSummary);
 
-  const compactSlotPlan = compactAugmentSlotPlanForAI(slotPlan);
+  const baselineOutput =
+    compactPipelineForOutput(baselinePipeline);
 
-  const finalSelectedAugments =
-    slotPlan.selectedAugmentsForValidation;
+  const optimizedPipeline = {
+    equippedItems: optimizedResult.optimizedGearset.selectedItems,
+    initialGapPlan: optimizedResult.finalEvaluation.gapPlan,
+    slotPlan: optimizedResult.finalEvaluation.slotPlan,
+    validationResult: optimizedResult.finalEvaluation.validationResult,
+    finalGapPlan: optimizedResult.finalEvaluation.finalGapPlan
+  };
 
-  const finalValidation = validateGearset({
-  equippedItems,
-  selectedAugments: finalSelectedAugments,
-  craftingAssignments: slotPlan.craftingAssignments,
-  buildProfile
-});
+  const optimizedOutput =
+    compactPipelineForOutput(optimizedPipeline);
 
-  const compactFinalValidation =
-    compactValidationResult(finalValidation);
+  const swapOptimizerOutput =
+    compactSwapOptimizerResult(optimizedResult);
 
-  const finalGapPlanAfterNormalAugments = buildAugmentGapPlan({
-  equippedItems,
-  selectedAugments: finalSelectedAugments,
-  craftingAssignments: slotPlan.craftingAssignments,
-  normalAugments,
-  craftingAugmentPlan,
-  buildProfile
-});
-
-  const compactFinalGapPlanAfterNormalAugments =
-    compactAugmentGapPlanForAI(finalGapPlanAfterNormalAugments);
-
-  const outputDir = path.join(__dirname, '..', 'testoutput');
-
-  if (!fs.existsSync(outputDir)) {
-    fs.mkdirSync(outputDir);
-  }
-
-  const initialGapPlanOutputFile = path.join(
+  const baselineInitialGapPlanOutputFile = path.join(
     outputDir,
     'augment_gap_plan_test_output.json'
   );
 
-  const slotPlanOutputFile = path.join(
+  const baselineSlotPlanOutputFile = path.join(
     outputDir,
     'augment_slot_plan_test_output.json'
   );
 
-  const finalValidationOutputFile = path.join(
+  const baselineValidationOutputFile = path.join(
     outputDir,
     'final_validation_test_output.json'
   );
 
-  const finalGapPlanOutputFile = path.join(
+  const baselineFinalGapPlanOutputFile = path.join(
     outputDir,
     'final_augment_gap_plan_test_output.json'
   );
 
-  writeJsonFile(initialGapPlanOutputFile, compactInitialGapPlan);
-  writeJsonFile(slotPlanOutputFile, compactSlotPlan);
-  writeJsonFile(finalValidationOutputFile, compactFinalValidation);
-  writeJsonFile(
-    finalGapPlanOutputFile,
-    compactFinalGapPlanAfterNormalAugments
+  const optimizedInitialGapPlanOutputFile = path.join(
+    outputDir,
+    'optimized_augment_gap_plan_test_output.json'
   );
 
-  console.log(`Loaded ${items.length} items.`);
-  console.log(`Loaded ${normalAugments.length} normal augments.`);
-  console.log(`Loaded ${craftingAugments.length} crafting augments.`);
+  const optimizedSlotPlanOutputFile = path.join(
+    outputDir,
+    'optimized_augment_slot_plan_test_output.json'
+  );
+
+  const optimizedValidationOutputFile = path.join(
+    outputDir,
+    'optimized_final_validation_test_output.json'
+  );
+
+  const optimizedFinalGapPlanOutputFile = path.join(
+    outputDir,
+    'optimized_final_augment_gap_plan_test_output.json'
+  );
+
+  const swapOptimizerOutputFile = path.join(
+    outputDir,
+    'swap_optimizer_test_output.json'
+  );
+
+  const buildSummaryOutputFile = path.join(
+    outputDir,
+    'build_summary_test_output.json'
+  );
+
+  const buildSummaryTextOutputFile = path.join(
+    outputDir,
+    'build_summary_test_output.txt'
+  );
+
+  writeJsonFile(
+    baselineInitialGapPlanOutputFile,
+    baselineOutput.initialGapPlan
+  );
+
+  writeJsonFile(
+    baselineSlotPlanOutputFile,
+    baselineOutput.slotPlan
+  );
+
+  writeJsonFile(
+    baselineValidationOutputFile,
+    baselineOutput.validation
+  );
+
+  writeJsonFile(
+    baselineFinalGapPlanOutputFile,
+    baselineOutput.finalGapPlan
+  );
+
+  writeJsonFile(
+    optimizedInitialGapPlanOutputFile,
+    optimizedOutput.initialGapPlan
+  );
+
+  writeJsonFile(
+    optimizedSlotPlanOutputFile,
+    optimizedOutput.slotPlan
+  );
+
+  writeJsonFile(
+    optimizedValidationOutputFile,
+    optimizedOutput.validation
+  );
+
+  writeJsonFile(
+    optimizedFinalGapPlanOutputFile,
+    optimizedOutput.finalGapPlan
+  );
+
+  writeJsonFile(
+    swapOptimizerOutputFile,
+    swapOptimizerOutput
+  );
+
+  writeJsonFile(
+    buildSummaryOutputFile,
+    compactBuildSummary
+  );
+
+  fs.writeFileSync(
+    buildSummaryTextOutputFile,
+    buildSummary.textSummary
+  );
+
+  printSelectedItems(
+    'Baseline selected items',
+    baselinePipeline.equippedItems
+  );
 
   printGapSummary(
-    'Initial gap plan',
-    compactInitialGapPlan,
-    initialGapPlanOutputFile
+    'Baseline initial gap plan',
+    baselineOutput.initialGapPlan,
+    baselineInitialGapPlanOutputFile
   );
 
   printSlotPlanSummary(
-    compactSlotPlan,
-    slotPlanOutputFile
+    'Baseline slot plan',
+    baselineOutput.slotPlan,
+    baselineSlotPlanOutputFile
   );
 
   printValidationSummary(
-    'Final validation after normal augment assignments',
-    compactFinalValidation,
-    finalValidationOutputFile
+    'Baseline final validation',
+    baselineOutput.validation,
+    baselineValidationOutputFile
   );
 
   printGapSummary(
-    'Final gap plan after normal augment assignments',
-    compactFinalGapPlanAfterNormalAugments,
-    finalGapPlanOutputFile
+    'Baseline final gap plan',
+    baselineOutput.finalGapPlan,
+    baselineFinalGapPlanOutputFile
   );
 
+  printSelectedItems(
+    'Optimized selected items',
+    optimizedResult.optimizedGearset.selectedItems
+  );
+
+  printGapSummary(
+    'Optimized initial gap plan',
+    optimizedOutput.initialGapPlan,
+    optimizedInitialGapPlanOutputFile
+  );
+
+  printSlotPlanSummary(
+    'Optimized slot plan',
+    optimizedOutput.slotPlan,
+    optimizedSlotPlanOutputFile
+  );
+
+  printValidationSummary(
+    'Optimized final validation',
+    optimizedOutput.validation,
+    optimizedValidationOutputFile
+  );
+
+  printGapSummary(
+    'Optimized final gap plan',
+    optimizedOutput.finalGapPlan,
+    optimizedFinalGapPlanOutputFile
+  );
+
+  printComparison({
+    baselinePipeline,
+    optimizedResult
+  });
+
   console.log('');
-  console.log('Note: crafting assignments are saved in the slot plan, but they are not yet applied to final validation/gap coverage. The next code update should connect craftingAssignments into augmentGapPlanner/gearsetValidator as planned crafting effects.');
+  console.log(`Saved swap optimizer summary to: ${swapOptimizerOutputFile}`);
+  console.log(`Saved build summary to: ${buildSummaryOutputFile}`);
+  console.log(`Saved text build summary to: ${buildSummaryTextOutputFile}`);
 }
 
 main();
