@@ -66,10 +66,10 @@ npm run dev
 ```
 
 This runs `netlify dev`, which starts two things at once:
-- The **React frontend** (Vite) on port 5173
+- The **React frontend** (Vite) on port 5173 (may be different)
 - The **Netlify Functions emulator** on port 8888
 
-Open **http://localhost:8888** in your browser.
+Open **http://localhost:5173 (or whatever port you have selected for the react frontend)** in your browser.
 
 > If you don't have `netlify-cli` installed globally, it runs from the local `node_modules`. No separate install needed.
 
