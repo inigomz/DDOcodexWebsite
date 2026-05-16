@@ -30,7 +30,7 @@ const DEFAULT_OUTPUT_PATH = path.join(
 );
 
 const DEFAULT_MODEL =
-  process.env.OPENAI_MODEL || 'gpt-4.0-mini';
+  process.env.OPENAI_MODEL || 'gpt-4o-mini';
 
 function cleanText(value) {
   return String(value || '')
@@ -204,12 +204,44 @@ function compactSummaryForPrompt(summary = {}) {
   };
 }
 
-function buildAdvisorInstructions() {
+function buildAdvisorInstructions(buildProfile) {
+  // If a buildProfile is provided, generate dynamic instructions.
+  // Otherwise fall back to generic instructions so existing callers
+  // that pass no argument continue to work.
+  if (buildProfile && (
+    (buildProfile.buildTypes && buildProfile.buildTypes.length > 0) ||
+    (buildProfile.primaryStats && buildProfile.primaryStats.length > 0)
+  )) {
+    const buildTypes =
+      (buildProfile.buildTypes || []).join(', ') || 'unknown';
+    const primaryStats =
+      (buildProfile.primaryStats || []).join(', ') || 'unknown';
+    const preferredWeapons =
+      (buildProfile.preferredWeaponSubtypes || []).join(', ') || 'any';
+    const armorPref = buildProfile.armorPreference || {};
+    const armorTypes =
+      (armorPref.preferredArmorTypes || []).join(', ') || 'any';
+    const maxLevel = buildProfile.maxLevel || 34;
+
+    return [
+      'You are a DDO (Dungeons & Dragons Online) gear advisor.',
+      'You are reviewing a final optimized gearset summary produced by an automated gear planner.',
+      'Do not invent gear, augments, set bonuses, or effects that are not present in the summary.',
+      `Prioritize advice based on the provided buildProfile: level ${maxLevel}, build types: ${buildTypes}, primary stats: ${primaryStats}, preferred weapons: ${preferredWeapons}, preferred armor: ${armorTypes}.`,
+      'Explain whether the build is structurally valid.',
+      'Explain the normal augment assignments and crafting augment assignments.',
+      'Explain the most important remaining gaps.',
+      'Explain the remaining stacking conflicts without exaggerating them.',
+      'Distinguish between serious problems and acceptable leftovers.',
+      'Keep the advice actionable and easy to read.'
+    ].join('\n');
+  }
+
   return [
     'You are a DDO gear advisor.',
     'You are reviewing a final optimized gearset summary produced by a gear planner.',
     'Do not invent gear, augments, set bonuses, or effects that are not present in the summary.',
-    'Prioritize practical build advice for a level 34 Wisdom-based Monk using handwraps and cloth armor.',
+    'Prioritize practical build advice based only on the provided buildProfile, goal, selected gear, augment assignments, crafting assignments, remaining gaps, and stacking conflicts.',
     'Explain whether the build is structurally valid.',
     'Explain the normal augment assignments and crafting augment assignments.',
     'Explain the most important remaining gaps.',
@@ -299,7 +331,7 @@ async function generateGearAdvice({
 
   const response = await openaiClient.responses.create({
     model,
-    instructions: buildAdvisorInstructions(),
+    instructions: buildAdvisorInstructions(summary.buildProfile),
     input: buildAdvisorPrompt(summary)
   });
 

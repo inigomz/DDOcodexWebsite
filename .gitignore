@@ -3,3 +3,9 @@
 node_modules/
 
 .kiro/
+
+# Vite build output
+dist/
+
+# Netlify local dev cache
+.netlify/
