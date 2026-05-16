@@ -503,6 +503,7 @@ module.exports = {
 
   loadBuildSummary,
   normalizeBuildSummary,
+  validateBuildSummary,
   compactSummaryForPrompt,
 
   extractOutputText,
