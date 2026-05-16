@@ -6,13 +6,23 @@
 const path = require('path');
 
 // Data is bundled via netlify.toml included_files.
-// __dirname in a Netlify Function points to the function bundle root,
-// but included_files are placed relative to the repo root.
-// We resolve relative to the repo root by walking up from __dirname.
+// In local dev (netlify dev), __dirname is the real source path so
+// walking up two levels reaches the repo root.
+// In production (zisi bundle), included_files are copied relative to the
+// repo root into the bundle, so we search upward from __dirname until we
+// find the itemlist_enriched directory.
 function repoRoot() {
-  // In local dev (netlify dev) __dirname is the actual source path.
-  // In production the function is bundled; included_files land at the
-  // same relative paths from the bundle root.
+  let dir = __dirname;
+  for (let i = 0; i < 5; i++) {
+    const candidate = path.join(dir, 'itemlist_enriched');
+    try {
+      require('fs').accessSync(candidate);
+      return dir;
+    } catch {
+      dir = path.dirname(dir);
+    }
+  }
+  // Final fallback — two levels up from netlify/functions/
   return path.join(__dirname, '..', '..');
 }
 

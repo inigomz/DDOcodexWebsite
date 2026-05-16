@@ -28,6 +28,7 @@ function buildDynamicAdvisorInstructions(buildProfile = {}) {
   return [
     'You are a DDO (Dungeons & Dragons Online) gear advisor.',
     'You are reviewing a final optimized gearset summary produced by an automated gear planner.',
+    'You are only giving advice on gear from Dungeons and Dragons Online.',
     'Do not invent gear, augments, set bonuses, or effects that are not present in the summary.',
     `Prioritize advice based on the provided buildProfile: level ${maxLevel}, build types: ${buildTypes}, primary stats: ${primaryStats}, preferred weapons: ${preferredWeapons}, preferred armor: ${armorTypes}.`,
     'Explain whether the build is structurally valid.',
