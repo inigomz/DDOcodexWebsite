@@ -1,5 +1,7 @@
 # DDO Codex — Gear Planner
 
+https://cevangelddocodex.netlify.app/
+
 An AI-powered gear planner for *Dungeons & Dragons Online (DDO)*. Describe your build in plain English and get a full optimized gear loadout — items, augments, crafting assignments, gap analysis, and an AI advisor report.
 
 ---
@@ -12,6 +14,7 @@ An AI-powered gear planner for *Dungeons & Dragons Online (DDO)*. Describe your 
 - Plans normal augments and Lamordia crafting augments to fill stat gaps
 - Validates slot rules, augment rules, and stacking conflicts
 - Optionally sends the full result to OpenAI (gpt-4o-mini) for a written advisor report
+- Includes a **floating DDO-only chatbot** powered by OpenAI for general DDO questions (builds, quests, mechanics, items, set bonuses, etc.) — animated with [anime.js](https://animejs.com) v4
 
 ---
 
@@ -19,7 +22,7 @@ An AI-powered gear planner for *Dungeons & Dragons Online (DDO)*. Describe your 
 
 - **Node.js** v18 or higher
 - **npm** v8 or higher
-- An **OpenAI API key** (only needed for the AI advisor feature)
+- An **OpenAI API key** (needed for the AI advisor feature **and the chatbot**)
 - A **Netlify account** (only needed for deployment)
 
 ---
@@ -87,6 +90,20 @@ The planner reads the following from your description automatically:
 - Primary stat (Strength, Dexterity, Wisdom, etc.)
 - Preferred weapon subtype (handwraps, great axe, falchion, etc.)
 - Armor preference (cloth, light, medium, heavy)
+
+---
+
+## DDO chatbot
+
+A floating chat button (bottom-right of every page) opens a DDO-only assistant powered by OpenAI. Use it for general questions that aren't tied to a specific gear plan — class mechanics, quest details, set bonuses, reincarnation rules, enhancement trees, and so on.
+
+- **Animation**: anime.js v4 drives an idle pulse, hover spring, click bounce, and panel slide-in
+- **Strict scope**: the system prompt refuses anything not related to *Dungeons & Dragons Online*
+- **Conversation memory**: the last 10 turns are sent back as context on each request
+- **Endpoint**: `POST /.netlify/functions/ddoChat` with `{ message, history }`, returns `{ reply }`
+- **Model**: `gpt-4o-mini` by default (override with the `OPENAI_MODEL` env var)
+
+The chatbot needs `OPENAI_API_KEY` set — locally in `.env`, in production via Netlify environment variables.
 
 ---
 
@@ -171,13 +188,15 @@ DDOcodexWebsite/
 │   ├── components/
 │   │   ├── PlannerForm.jsx     # Build goal input form
 │   │   ├── GearResults.jsx     # Gear, augments, gaps, conflicts display
-│   │   └── AdvisorReport.jsx   # AI advisor markdown output
+│   │   ├── AdvisorReport.jsx   # AI advisor markdown output
+│   │   └── DDOChatbot.jsx      # Floating DDO-only chatbot (anime.js animations)
 │   ├── App.jsx                 # Root component, API calls
 │   └── main.jsx                # React entry point
 ├── netlify/
 │   └── functions/
 │       ├── planGear.js         # Full planner pipeline (no OpenAI)
-│       └── advisor.js          # OpenAI advisor endpoint
+│       ├── advisor.js          # OpenAI advisor endpoint
+│       └── ddoChat.js          # DDO-only chatbot endpoint (OpenAI)
 ├── tools/                      # Core planner logic (Node.js modules)
 ├── scraper/                    # Data collection scripts
 ├── tests/                      # Manual smoke-test scripts

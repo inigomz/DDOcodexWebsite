@@ -2,6 +2,7 @@ import React, { useState, useCallback } from 'react';
 import PlannerForm from './components/PlannerForm.jsx';
 import GearResults from './components/GearResults.jsx';
 import AdvisorReport from './components/AdvisorReport.jsx';
+import DDOChatbot from './components/DDOChatbot.jsx';
 import styles from './App.module.css';
 
 const PLAN_GEAR_URL = '/.netlify/functions/planGear';
@@ -136,6 +137,8 @@ export default function App() {
           . Not affiliated with Standing Stone Games.
         </p>
       </footer>
+
+      <DDOChatbot />
     </div>
   );
 }
