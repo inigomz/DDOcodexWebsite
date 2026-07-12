@@ -18,9 +18,7 @@ function unique(values) {
 function includesAny(text, terms = []) {
   const normalized = normalizeText(text);
 
-  return terms.some(term =>
-    normalized.includes(normalizeText(term))
-  );
+  return terms.some((term) => normalized.includes(normalizeText(term)));
 }
 
 function makeTarget({
@@ -35,7 +33,7 @@ function makeTarget({
   priority = 50,
   category = 'general',
   sourceHints = [],
-  notes = []
+  notes = [],
 }) {
   const mainStackKey = stackKey || `${bonusType}:${stat}`;
 
@@ -51,7 +49,7 @@ function makeTarget({
     // while crafting "+15 Enhancement bonus to Wisdom" parses as Enhancement:Wisdom.
     acceptableStackKeys: unique([
       mainStackKey,
-      ...acceptableStackKeys
+      ...acceptableStackKeys,
     ]),
 
     targetValue,
@@ -63,7 +61,7 @@ function makeTarget({
     priority,
     category,
     sourceHints,
-    notes
+    notes,
   };
 }
 
@@ -76,7 +74,7 @@ function makeTypedTarget({
   category,
   sourceHints = [],
   notes = [],
-  aliases = []
+  aliases = [],
 }) {
   const id = `${normalizeText(bonusType)}_${normalizeText(stat)}`
     .replace(/[^a-z0-9]+/g, '_')
@@ -94,7 +92,7 @@ function makeTypedTarget({
     priority,
     category,
     sourceHints,
-    notes
+    notes,
   });
 }
 
@@ -106,7 +104,7 @@ function makeDefaultOrEnhancementTarget({
   category,
   sourceHints = [],
   notes = [],
-  aliases = []
+  aliases = [],
 }) {
   const id = `default_or_enhancement_${normalizeText(stat)}`
     .replace(/[^a-z0-9]+/g, '_')
@@ -122,7 +120,7 @@ function makeDefaultOrEnhancementTarget({
       `Enhancement:${stat}`,
       `Equipment:${stat}`,
       `Competence:${stat}`,
-      ...aliases
+      ...aliases,
     ],
     targetValue,
     minimumValue,
@@ -131,8 +129,8 @@ function makeDefaultOrEnhancementTarget({
     sourceHints,
     notes: [
       'Default and Enhancement are treated as compatible until raw item parsing is fully normalized.',
-      ...notes
-    ]
+      ...notes,
+    ],
   });
 }
 
@@ -144,7 +142,7 @@ function getAbilityTargets(stat, priorityBase = 90) {
       minimumValue: 14,
       priority: priorityBase,
       category: 'primary_stat',
-      sourceHints: ['gear', 'normal_augment', 'crafting_augment', 'sun_moon']
+      sourceHints: ['gear', 'normal_augment', 'crafting_augment', 'sun_moon'],
     }),
 
     makeTypedTarget({
@@ -154,7 +152,7 @@ function getAbilityTargets(stat, priorityBase = 90) {
       minimumValue: 6,
       priority: priorityBase - 5,
       category: 'primary_stat',
-      sourceHints: ['gear', 'normal_augment', 'crafting_augment', 'sun_moon']
+      sourceHints: ['gear', 'normal_augment', 'crafting_augment', 'sun_moon'],
     }),
 
     makeTypedTarget({
@@ -164,7 +162,7 @@ function getAbilityTargets(stat, priorityBase = 90) {
       minimumValue: 3,
       priority: priorityBase - 10,
       category: 'primary_stat',
-      sourceHints: ['gear', 'normal_augment', 'crafting_augment', 'sun_moon']
+      sourceHints: ['gear', 'normal_augment', 'crafting_augment', 'sun_moon'],
     }),
 
     makeTypedTarget({
@@ -174,7 +172,7 @@ function getAbilityTargets(stat, priorityBase = 90) {
       minimumValue: 2,
       priority: priorityBase - 25,
       category: 'primary_stat',
-      sourceHints: ['gear', 'sun_moon', 'legacy_item']
+      sourceHints: ['gear', 'sun_moon', 'legacy_item'],
     }),
 
     makeTypedTarget({
@@ -184,8 +182,8 @@ function getAbilityTargets(stat, priorityBase = 90) {
       minimumValue: 2,
       priority: priorityBase - 35,
       category: 'primary_stat',
-      sourceHints: ['augment']
-    })
+      sourceHints: ['augment'],
+    }),
   ];
 }
 
@@ -199,7 +197,7 @@ function getWisdomMonkTargets() {
       minimumValue: 16,
       priority: 100,
       category: 'tactical_dc',
-      sourceHints: ['gear', 'normal_augment', 'crafting_augment']
+      sourceHints: ['gear', 'normal_augment', 'crafting_augment'],
     }),
 
     makeTypedTarget({
@@ -209,7 +207,7 @@ function getWisdomMonkTargets() {
       minimumValue: 6,
       priority: 85,
       category: 'tactical_dc',
-      sourceHints: ['gear', 'sun_moon', 'crafting_augment']
+      sourceHints: ['gear', 'sun_moon', 'crafting_augment'],
     }),
 
     makeTypedTarget({
@@ -219,7 +217,7 @@ function getWisdomMonkTargets() {
       minimumValue: 3,
       priority: 80,
       category: 'tactical_dc',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -228,7 +226,7 @@ function getWisdomMonkTargets() {
       minimumValue: 10,
       priority: 98,
       category: 'tactical_dc',
-      sourceHints: ['gear', 'normal_augment', 'crafting_augment']
+      sourceHints: ['gear', 'normal_augment', 'crafting_augment'],
     }),
 
     makeTypedTarget({
@@ -238,7 +236,7 @@ function getWisdomMonkTargets() {
       minimumValue: 6,
       priority: 92,
       category: 'tactical_dc',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeTypedTarget({
@@ -248,7 +246,7 @@ function getWisdomMonkTargets() {
       minimumValue: 3,
       priority: 90,
       category: 'tactical_dc',
-      sourceHints: ['gear', 'crafting_augment']
+      sourceHints: ['gear', 'crafting_augment'],
     }),
 
     makeTypedTarget({
@@ -258,7 +256,7 @@ function getWisdomMonkTargets() {
       minimumValue: 5,
       priority: 70,
       category: 'set_bonus',
-      sourceHints: ['set_bonus']
+      sourceHints: ['set_bonus'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -267,7 +265,7 @@ function getWisdomMonkTargets() {
       minimumValue: 15,
       priority: 86,
       category: 'melee_damage',
-      sourceHints: ['gear', 'normal_augment', 'crafting_augment']
+      sourceHints: ['gear', 'normal_augment', 'crafting_augment'],
     }),
 
     makeTypedTarget({
@@ -277,7 +275,7 @@ function getWisdomMonkTargets() {
       minimumValue: 6,
       priority: 78,
       category: 'melee_damage',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeTypedTarget({
@@ -287,7 +285,7 @@ function getWisdomMonkTargets() {
       minimumValue: 4,
       priority: 72,
       category: 'melee_damage',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeTypedTarget({
@@ -297,7 +295,7 @@ function getWisdomMonkTargets() {
       minimumValue: 15,
       priority: 70,
       category: 'set_bonus',
-      sourceHints: ['set_bonus']
+      sourceHints: ['set_bonus'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -306,7 +304,7 @@ function getWisdomMonkTargets() {
       minimumValue: 11,
       priority: 78,
       category: 'melee_damage',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeTypedTarget({
@@ -316,7 +314,7 @@ function getWisdomMonkTargets() {
       minimumValue: 5,
       priority: 64,
       category: 'melee_damage',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeTypedTarget({
@@ -326,7 +324,7 @@ function getWisdomMonkTargets() {
       minimumValue: 3,
       priority: 64,
       category: 'melee_damage',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -335,7 +333,7 @@ function getWisdomMonkTargets() {
       minimumValue: 22,
       priority: 72,
       category: 'melee_accuracy',
-      sourceHints: ['gear', 'crafting_augment']
+      sourceHints: ['gear', 'crafting_augment'],
     }),
 
     makeTypedTarget({
@@ -345,7 +343,7 @@ function getWisdomMonkTargets() {
       minimumValue: 10,
       priority: 62,
       category: 'melee_accuracy',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeTypedTarget({
@@ -355,7 +353,7 @@ function getWisdomMonkTargets() {
       minimumValue: 4,
       priority: 62,
       category: 'melee_accuracy',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -364,7 +362,7 @@ function getWisdomMonkTargets() {
       minimumValue: 21,
       priority: 74,
       category: 'melee_damage',
-      sourceHints: ['gear', 'crafting_augment']
+      sourceHints: ['gear', 'crafting_augment'],
     }),
 
     makeTypedTarget({
@@ -374,7 +372,7 @@ function getWisdomMonkTargets() {
       minimumValue: 10,
       priority: 66,
       category: 'melee_damage',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeTypedTarget({
@@ -384,7 +382,7 @@ function getWisdomMonkTargets() {
       minimumValue: 30,
       priority: 70,
       category: 'set_bonus',
-      sourceHints: ['set_bonus']
+      sourceHints: ['set_bonus'],
     }),
 
     ...getAbilityTargets('Constitution', 76),
@@ -400,8 +398,8 @@ function getWisdomMonkTargets() {
         'Default:Physical Sheltering',
         'Enhancement:Physical Sheltering',
         'Equipment:Physical Sheltering',
-        'Competence:Physical Sheltering'
-      ]
+        'Competence:Physical Sheltering',
+      ],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -415,8 +413,8 @@ function getWisdomMonkTargets() {
         'Default:Magical Sheltering',
         'Enhancement:Magical Sheltering',
         'Equipment:Magical Sheltering',
-        'Competence:Magical Sheltering'
-      ]
+        'Competence:Magical Sheltering',
+      ],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -425,7 +423,7 @@ function getWisdomMonkTargets() {
       minimumValue: 33,
       priority: 78,
       category: 'survivability',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeTypedTarget({
@@ -435,7 +433,7 @@ function getWisdomMonkTargets() {
       minimumValue: 17,
       priority: 70,
       category: 'survivability',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeTypedTarget({
@@ -445,7 +443,7 @@ function getWisdomMonkTargets() {
       minimumValue: 8,
       priority: 60,
       category: 'survivability',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -454,7 +452,7 @@ function getWisdomMonkTargets() {
       minimumValue: 33,
       priority: 76,
       category: 'survivability',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeTypedTarget({
@@ -464,7 +462,7 @@ function getWisdomMonkTargets() {
       minimumValue: 16,
       priority: 66,
       category: 'survivability',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -473,7 +471,7 @@ function getWisdomMonkTargets() {
       minimumValue: 54,
       priority: 72,
       category: 'survivability',
-      sourceHints: ['gear', 'normal_augment', 'crafting_augment']
+      sourceHints: ['gear', 'normal_augment', 'crafting_augment'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -482,7 +480,7 @@ function getWisdomMonkTargets() {
       minimumValue: 57,
       priority: 72,
       category: 'survivability',
-      sourceHints: ['gear', 'normal_augment', 'crafting_augment']
+      sourceHints: ['gear', 'normal_augment', 'crafting_augment'],
     }),
 
     makeTypedTarget({
@@ -492,7 +490,7 @@ function getWisdomMonkTargets() {
       minimumValue: 15,
       priority: 56,
       category: 'survivability',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -501,7 +499,7 @@ function getWisdomMonkTargets() {
       minimumValue: 11,
       priority: 70,
       category: 'survivability',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeTypedTarget({
@@ -511,7 +509,7 @@ function getWisdomMonkTargets() {
       minimumValue: 3,
       priority: 60,
       category: 'survivability',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -520,7 +518,7 @@ function getWisdomMonkTargets() {
       minimumValue: 142,
       priority: 66,
       category: 'survivability',
-      sourceHints: ['gear', 'crafting_augment']
+      sourceHints: ['gear', 'crafting_augment'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -529,7 +527,7 @@ function getWisdomMonkTargets() {
       minimumValue: 10,
       priority: 58,
       category: 'survivability',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeTypedTarget({
@@ -539,7 +537,7 @@ function getWisdomMonkTargets() {
       minimumValue: 5,
       priority: 52,
       category: 'survivability',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -548,8 +546,8 @@ function getWisdomMonkTargets() {
       minimumValue: 4,
       priority: 78,
       category: 'monk',
-      sourceHints: ['gear']
-    })
+      sourceHints: ['gear'],
+    }),
   ];
 }
 
@@ -561,7 +559,7 @@ function getGenericMeleeTargets(buildProfile = {}) {
       minimumValue: 11,
       priority: 70,
       category: 'melee_damage',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -570,7 +568,7 @@ function getGenericMeleeTargets(buildProfile = {}) {
       minimumValue: 22,
       priority: 68,
       category: 'melee_accuracy',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -579,7 +577,7 @@ function getGenericMeleeTargets(buildProfile = {}) {
       minimumValue: 15,
       priority: 68,
       category: 'melee_damage',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -588,8 +586,8 @@ function getGenericMeleeTargets(buildProfile = {}) {
       minimumValue: 21,
       priority: 66,
       category: 'melee_damage',
-      sourceHints: ['gear']
-    })
+      sourceHints: ['gear'],
+    }),
   ];
 
   for (const stat of buildProfile.primaryStats || []) {
@@ -607,7 +605,7 @@ function getGenericDefensiveTargets() {
       minimumValue: 14,
       priority: 70,
       category: 'survivability',
-      sourceHints: ['gear', 'normal_augment', 'crafting_augment']
+      sourceHints: ['gear', 'normal_augment', 'crafting_augment'],
     }),
 
     makeTypedTarget({
@@ -617,7 +615,7 @@ function getGenericDefensiveTargets() {
       minimumValue: 6,
       priority: 62,
       category: 'survivability',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -626,7 +624,7 @@ function getGenericDefensiveTargets() {
       minimumValue: 142,
       priority: 64,
       category: 'survivability',
-      sourceHints: ['gear']
+      sourceHints: ['gear'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -635,7 +633,7 @@ function getGenericDefensiveTargets() {
       minimumValue: 54,
       priority: 64,
       category: 'survivability',
-      sourceHints: ['gear', 'normal_augment']
+      sourceHints: ['gear', 'normal_augment'],
     }),
 
     makeDefaultOrEnhancementTarget({
@@ -644,8 +642,8 @@ function getGenericDefensiveTargets() {
       minimumValue: 57,
       priority: 62,
       category: 'survivability',
-      sourceHints: ['gear', 'normal_augment']
-    })
+      sourceHints: ['gear', 'normal_augment'],
+    }),
   ];
 }
 
@@ -669,28 +667,28 @@ function mergeTargets(targets) {
       ...target,
       targetValue: Math.max(
         Number(existing.targetValue || 0),
-        Number(target.targetValue || 0)
+        Number(target.targetValue || 0),
       ),
       minimumValue: Math.max(
         Number(existing.minimumValue || 0),
-        Number(target.minimumValue || 0)
+        Number(target.minimumValue || 0),
       ),
       priority: Math.max(
         Number(existing.priority || 0),
-        Number(target.priority || 0)
+        Number(target.priority || 0),
       ),
       acceptableStackKeys: unique([
         ...(existing.acceptableStackKeys || []),
-        ...(target.acceptableStackKeys || [])
+        ...(target.acceptableStackKeys || []),
       ]),
       sourceHints: unique([
         ...(existing.sourceHints || []),
-        ...(target.sourceHints || [])
+        ...(target.sourceHints || []),
       ]),
       notes: unique([
         ...(existing.notes || []),
-        ...(target.notes || [])
-      ])
+        ...(target.notes || []),
+      ]),
     });
   }
 
@@ -703,8 +701,8 @@ function isWisdomMonkProfile(buildProfile = {}) {
   const primaryStats = buildProfile.primaryStats || [];
 
   return (
-    buildTypes.includes('monk') &&
-    primaryStats.includes('Wisdom')
+    buildTypes.includes('monk')
+    && primaryStats.includes('Wisdom')
   );
 }
 
@@ -719,9 +717,9 @@ function buildBonusTargets(buildProfile = {}) {
     }
 
     if (
-      (buildProfile.buildTypes || []).includes('defensive') ||
-      (buildProfile.buildTypes || []).includes('tank') ||
-      (buildProfile.buildTypes || []).includes('monk')
+      (buildProfile.buildTypes || []).includes('defensive')
+      || (buildProfile.buildTypes || []).includes('tank')
+      || (buildProfile.buildTypes || []).includes('monk')
     ) {
       targets.push(...getGenericDefensiveTargets());
     }
@@ -788,7 +786,7 @@ function evaluateBonusAgainstTarget(bonus, target) {
     meetsMinimum: value >= minimumValue,
     meetsTarget: value >= targetValue,
     missingToMinimum: Math.max(0, minimumValue - value),
-    missingToTarget: Math.max(0, targetValue - value)
+    missingToTarget: Math.max(0, targetValue - value),
   };
 }
 
@@ -804,7 +802,7 @@ function compactBonusTargetForAI(target) {
     minimumValue: target.minimumValue,
     priority: target.priority,
     category: target.category,
-    sourceHints: target.sourceHints
+    sourceHints: target.sourceHints,
   };
 }
 
@@ -832,5 +830,5 @@ module.exports = {
   getGenericDefensiveTargets,
 
   cleanText,
-  normalizeText
+  normalizeText,
 };

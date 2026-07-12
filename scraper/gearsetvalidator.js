@@ -1,7 +1,7 @@
 // gearsetValidator.js
 
 const {
-  getAllowedAugmentColorsForSlot
+  getAllowedAugmentColorsForSlot,
 } = require('./augmentSearch');
 
 const SLOT_LIMITS = {
@@ -19,7 +19,7 @@ const SLOT_LIMITS = {
   offhand: 1,
 
   // DDO has two ring slots.
-  finger: 2
+  finger: 2,
 };
 
 const TWO_HANDED_SUBTYPES = [
@@ -30,7 +30,7 @@ const TWO_HANDED_SUBTYPES = [
   'maul',
   'quarterstaff',
   'long_bow',
-  'short_bow'
+  'short_bow',
 ];
 
 function normalizeText(value) {
@@ -110,7 +110,7 @@ function validateSlotRules(equippedItems) {
       errors.push({
         type: 'duplicate_item',
         message: `Duplicate item equipped: ${item.name}`,
-        item
+        item,
       });
     }
 
@@ -125,7 +125,7 @@ function validateSlotRules(equippedItems) {
     slotUsage[slot].push({
       itemKey,
       name: item.name,
-      slot
+      slot,
     });
   }
 
@@ -137,7 +137,7 @@ function validateSlotRules(equippedItems) {
         type: 'slot_limit_exceeded',
         message: `${slot} has ${items.length} items equipped, but only ${limit} allowed.`,
         slot,
-        items
+        items,
       });
     }
   }
@@ -146,14 +146,14 @@ function validateSlotRules(equippedItems) {
     warnings.push({
       type: 'unknown_slot',
       message: 'One or more items have an unknown slot.',
-      items: slotUsage.unknown
+      items: slotUsage.unknown,
     });
   }
 
   return {
     errors,
     warnings,
-    slotUsage
+    slotUsage,
   };
 }
 
@@ -161,20 +161,19 @@ function validateOffhandRules(equippedItems, buildProfile = {}) {
   const errors = [];
   const warnings = [];
 
-  const weapon = equippedItems.find(item => item.slot === 'weapon');
-  const offhand = equippedItems.find(item => item.slot === 'offhand');
+  const weapon = equippedItems.find((item) => item.slot === 'weapon');
+  const offhand = equippedItems.find((item) => item.slot === 'offhand');
 
-  const preferredWeaponSubtypes =
-    buildProfile.preferredWeaponSubtypes || [];
+  const preferredWeaponSubtypes = buildProfile.preferredWeaponSubtypes || [];
 
   if (
-    preferredWeaponSubtypes.includes('handwraps') &&
-    offhand
+    preferredWeaponSubtypes.includes('handwraps')
+    && offhand
   ) {
     errors.push({
       type: 'invalid_offhand_for_handwraps_build',
       message: `Offhand item "${offhand.name}" is not allowed for a handwraps build.`,
-      offhand
+      offhand,
     });
   }
 
@@ -183,7 +182,7 @@ function validateOffhandRules(equippedItems, buildProfile = {}) {
       type: 'invalid_offhand_blocked_by_weapon',
       message: `Weapon "${weapon.name}" blocks the offhand slot, but "${offhand.name}" is equipped.`,
       weapon,
-      offhand
+      offhand,
     });
   }
 
@@ -191,20 +190,20 @@ function validateOffhandRules(equippedItems, buildProfile = {}) {
     warnings.push({
       type: 'offhand_without_weapon',
       message: `Offhand item "${offhand.name}" is equipped without a main weapon.`,
-      offhand
+      offhand,
     });
   }
 
   return {
     errors,
-    warnings
+    warnings,
   };
 }
 
 function getPiecesRequired(bonus, membership) {
   if (
-    bonus.piecesRequired !== null &&
-    bonus.piecesRequired !== undefined
+    bonus.piecesRequired !== null
+    && bonus.piecesRequired !== undefined
   ) {
     return bonus.piecesRequired;
   }
@@ -214,8 +213,8 @@ function getPiecesRequired(bonus, membership) {
 
 function isPiecesRequiredInferred(bonus) {
   return (
-    bonus.piecesRequired === null ||
-    bonus.piecesRequired === undefined
+    bonus.piecesRequired === null
+    || bonus.piecesRequired === undefined
   );
 }
 
@@ -225,7 +224,7 @@ function getTieredEffectForTier(bonus, tier) {
   }
 
   const tieredEffect = bonus.tieredEffects.find(
-    effect => effect.tier === tier
+    (effect) => effect.tier === tier,
   );
 
   if (!tieredEffect) {
@@ -238,7 +237,7 @@ function getTieredEffectForTier(bonus, tier) {
     valueText: tieredEffect.valueText || '',
     effectText: tieredEffect.effect || '',
     fullEffect:
-      `${tieredEffect.valueText || ''} ${tieredEffect.effect || ''}`.trim()
+      `${tieredEffect.valueText || ''} ${tieredEffect.effect || ''}`.trim(),
   };
 }
 
@@ -250,8 +249,7 @@ function buildSetGroups(equippedItems) {
     const itemKey = getItemKey(item);
 
     for (const membership of item.setMembership || []) {
-      const setId =
-        membership.setId || normalizeSetId(membership.setName);
+      const setId = membership.setId || normalizeSetId(membership.setName);
 
       if (!setId) {
         continue;
@@ -266,14 +264,14 @@ function buildSetGroups(equippedItems) {
           tier,
           sourceSection: membership.sourceSection || null,
           membership,
-          equippedPieces: []
+          equippedPieces: [],
         });
       }
 
       const group = setGroups.get(groupKey);
 
       const alreadyCounted = group.equippedPieces.some(
-        piece => piece.itemKey === itemKey
+        (piece) => piece.itemKey === itemKey,
       );
 
       if (!alreadyCounted) {
@@ -282,7 +280,7 @@ function buildSetGroups(equippedItems) {
           name: item.name,
           slot: item.slot,
           minLevel: item.minLevel,
-          tier
+          tier,
         });
       }
     }
@@ -299,7 +297,7 @@ function calculateSetBonuses(equippedItems) {
   const activeSetBonuses = [];
 
   for (const group of setGroups.values()) {
-    const membership = group.membership;
+    const { membership } = group;
     const bonuses = membership.bonuses || [];
     const piecesEquipped = group.equippedPieces.length;
 
@@ -308,7 +306,7 @@ function calculateSetBonuses(equippedItems) {
         type: 'set_bonus_data_missing',
         message: `Set "${group.setName}" has equipped pieces, but no bonus data was available. Use full enriched item data, not compact item data.`,
         setId: group.setId,
-        setName: group.setName
+        setName: group.setName,
       });
     }
 
@@ -320,7 +318,7 @@ function calculateSetBonuses(equippedItems) {
       equippedPieces: group.equippedPieces,
       sourceSection: group.sourceSection,
       activeBonuses: [],
-      inactiveBonuses: []
+      inactiveBonuses: [],
     };
 
     for (const bonus of bonuses) {
@@ -334,14 +332,14 @@ function calculateSetBonuses(equippedItems) {
         piecesRequired,
         piecesRequiredInferred: isPiecesRequiredInferred(bonus),
         equippedPieces: group.equippedPieces,
-        sourceSection: group.sourceSection
+        sourceSection: group.sourceSection,
       };
 
       let effect = bonus.effect || bonus.effectRaw || '';
 
       if (
-        Array.isArray(bonus.tieredEffects) &&
-        bonus.tieredEffects.length > 0
+        Array.isArray(bonus.tieredEffects)
+        && bonus.tieredEffects.length > 0
       ) {
         const tieredEffect = getTieredEffectForTier(bonus, group.tier);
 
@@ -355,7 +353,7 @@ function calculateSetBonuses(equippedItems) {
       const bonusInfo = {
         ...baseBonusInfo,
         effect,
-        effectRaw: bonus.effectRaw || bonus.effect || effect
+        effectRaw: bonus.effectRaw || bonus.effect || effect,
       };
 
       if (piecesEquipped >= piecesRequired) {
@@ -372,7 +370,7 @@ function calculateSetBonuses(equippedItems) {
   return {
     activeSetBonuses,
     setProgress,
-    warnings
+    warnings,
   };
 }
 
@@ -403,8 +401,7 @@ function validateAugmentRules(equippedItems, selectedAugments, buildProfile = {}
   const usedAugmentKeys = new Set();
   const usedAugmentEffects = new Set();
 
-  const selectedAugmentMap =
-    buildSelectedAugmentMap(selectedAugments);
+  const selectedAugmentMap = buildSelectedAugmentMap(selectedAugments);
 
   for (const result of selectedAugments || []) {
     const item = itemMap.get(result.itemKey);
@@ -413,7 +410,7 @@ function validateAugmentRules(equippedItems, selectedAugments, buildProfile = {}
       warnings.push({
         type: 'augment_for_unequipped_item',
         message: `Augments were selected for "${result.itemName}", but that item is not equipped.`,
-        augmentSelection: result
+        augmentSelection: result,
       });
 
       continue;
@@ -422,8 +419,8 @@ function validateAugmentRules(equippedItems, selectedAugments, buildProfile = {}
     const usedSlotColorsForItem = new Set();
 
     for (const selected of result.selectedAugments || []) {
-      const slotColor = selected.slotColor;
-      const augment = selected.augment;
+      const { slotColor } = selected;
+      const { augment } = selected;
 
       if (!augment) {
         continue;
@@ -435,7 +432,7 @@ function validateAugmentRules(equippedItems, selectedAugments, buildProfile = {}
         errors.push({
           type: 'duplicate_augment',
           message: `Duplicate augment selected: ${augment.name}`,
-          augment
+          augment,
         });
       }
 
@@ -446,7 +443,7 @@ function validateAugmentRules(equippedItems, selectedAugments, buildProfile = {}
           type: 'multiple_augments_same_slot',
           message: `Multiple augments selected for ${item.name}'s ${slotColor} slot.`,
           item,
-          slotColor
+          slotColor,
         });
       }
 
@@ -458,12 +455,11 @@ function validateAugmentRules(equippedItems, selectedAugments, buildProfile = {}
           message: `${item.name} does not have a ${slotColor} augment slot.`,
           item,
           slotColor,
-          augment
+          augment,
         });
       }
 
-      const allowedColors =
-        getAllowedAugmentColorsForSlot(slotColor);
+      const allowedColors = getAllowedAugmentColorsForSlot(slotColor);
 
       if (!allowedColors.includes(augment.augmentColor)) {
         errors.push({
@@ -472,22 +468,22 @@ function validateAugmentRules(equippedItems, selectedAugments, buildProfile = {}
           item,
           slotColor,
           augment,
-          allowedColors
+          allowedColors,
         });
       }
 
       const maxLevel = buildProfile.maxLevel || 34;
 
       if (
-        augment.minLevel !== null &&
-        augment.minLevel !== undefined &&
-        augment.minLevel > maxLevel
+        augment.minLevel !== null
+        && augment.minLevel !== undefined
+        && augment.minLevel > maxLevel
       ) {
         errors.push({
           type: 'augment_level_too_high',
           message: `${augment.name} requires level ${augment.minLevel}, above build max level ${maxLevel}.`,
           augment,
-          maxLevel
+          maxLevel,
         });
       }
 
@@ -497,7 +493,7 @@ function validateAugmentRules(equippedItems, selectedAugments, buildProfile = {}
         warnings.push({
           type: 'duplicate_augment_effect',
           message: `Duplicate augment effect selected: ${effect}`,
-          augment
+          augment,
         });
       }
 
@@ -511,27 +507,27 @@ function validateAugmentRules(equippedItems, selectedAugments, buildProfile = {}
     const itemKey = getItemKey(item);
 
     if (
-      (item.augmentSlots || []).length > 0 &&
-      !selectedAugmentMap.has(itemKey)
+      (item.augmentSlots || []).length > 0
+      && !selectedAugmentMap.has(itemKey)
     ) {
       warnings.push({
         type: 'item_has_slots_but_no_augment_selection',
         message: `${item.name} has augment slots, but no augment selection was provided.`,
-        item
+        item,
       });
     }
   }
 
   return {
     errors,
-    warnings
+    warnings,
   };
 }
 
 function validateGearset({
   equippedItems,
   selectedAugments = [],
-  buildProfile = {}
+  buildProfile = {},
 }) {
   const errors = [];
   const warnings = [];
@@ -544,23 +540,20 @@ function validateGearset({
   errors.push(...slotValidation.errors);
   warnings.push(...slotValidation.warnings);
 
-  const offhandValidation =
-    validateOffhandRules(equippedItems, buildProfile);
+  const offhandValidation = validateOffhandRules(equippedItems, buildProfile);
 
   errors.push(...offhandValidation.errors);
   warnings.push(...offhandValidation.warnings);
 
-  const setValidation =
-    calculateSetBonuses(equippedItems);
+  const setValidation = calculateSetBonuses(equippedItems);
 
   warnings.push(...setValidation.warnings);
 
-  const augmentValidation =
-    validateAugmentRules(
-      equippedItems,
-      selectedAugments,
-      buildProfile
-    );
+  const augmentValidation = validateAugmentRules(
+    equippedItems,
+    selectedAugments,
+    buildProfile,
+  );
 
   errors.push(...augmentValidation.errors);
   warnings.push(...augmentValidation.warnings);
@@ -576,7 +569,7 @@ function validateGearset({
       setValidation.activeSetBonuses,
 
     setProgress:
-      setValidation.setProgress
+      setValidation.setProgress,
   };
 }
 
@@ -589,5 +582,5 @@ module.exports = {
   calculateSetBonuses,
 
   getGearTier,
-  blocksOffhand
+  blocksOffhand,
 };

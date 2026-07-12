@@ -40,7 +40,7 @@ export default function PlannerForm({ onSubmit, isLoading }) {
           id="goal-input"
           className={styles.textarea}
           value={goal}
-          onChange={e => setGoal(e.target.value)}
+          onChange={(e) => setGoal(e.target.value)}
           placeholder="e.g. Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC and Stunning…"
           rows={3}
           disabled={isLoading}
@@ -71,7 +71,7 @@ export default function PlannerForm({ onSubmit, isLoading }) {
 
       <div className={styles.examples}>
         <p className={styles.examplesLabel}>Try an example:</p>
-        <ul className={styles.exampleList} role="list">
+        <ul className={styles.exampleList}>
           {EXAMPLES.map((ex, i) => (
             <li key={i}>
               <button

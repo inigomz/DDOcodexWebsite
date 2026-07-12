@@ -1,8 +1,8 @@
 import React, { useState, useCallback } from 'react';
-import PlannerForm from './components/PlannerForm.jsx';
-import GearResults from './components/GearResults.jsx';
-import AdvisorReport from './components/AdvisorReport.jsx';
-import DDOChatbot from './components/DDOChatbot.jsx';
+import PlannerForm from './components/PlannerForm';
+import GearResults from './components/GearResults';
+import AdvisorReport from './components/AdvisorReport';
+import DDOChatbot from './components/DDOChatbot';
 import styles from './App.module.css';
 
 const PLAN_GEAR_URL = '/.netlify/functions/planGear';
@@ -28,7 +28,7 @@ export default function App() {
       const res = await fetch(PLAN_GEAR_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ goal })
+        body: JSON.stringify({ goal }),
       });
 
       const data = await res.json();
@@ -56,7 +56,7 @@ export default function App() {
       const res = await fetch(ADVISOR_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ summary })
+        body: JSON.stringify({ summary }),
       });
 
       const data = await res.json();
@@ -96,7 +96,9 @@ export default function App() {
 
         {planState === 'error' && (
           <div className={styles.errorBanner} role="alert">
-            <strong>Planning failed:</strong> {planError}
+            <strong>Planning failed:</strong>
+            {' '}
+            {planError}
           </div>
         )}
 
@@ -117,7 +119,9 @@ export default function App() {
 
             {advisorState === 'error' && (
               <div className={styles.errorBanner} role="alert">
-                <strong>Advisor failed:</strong> {advisorError}
+                <strong>Advisor failed:</strong>
+                {' '}
+                {advisorError}
               </div>
             )}
 
@@ -130,7 +134,8 @@ export default function App() {
 
       <footer className={styles.footer}>
         <p>
-          Data sourced from{' '}
+          Data sourced from
+          {' '}
           <a href="https://ddowiki.com" target="_blank" rel="noopener noreferrer">
             DDO Wiki
           </a>

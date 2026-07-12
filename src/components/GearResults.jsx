@@ -20,7 +20,7 @@ function ItemCard({ item }) {
       <button
         type="button"
         className={styles.itemHeader}
-        onClick={() => setExpanded(v => !v)}
+        onClick={() => setExpanded((v) => !v)}
         aria-expanded={expanded}
       >
         <div className={styles.itemHeaderLeft}>
@@ -31,7 +31,7 @@ function ItemCard({ item }) {
                 href={item.link}
                 target="_blank"
                 rel="noopener noreferrer"
-                onClick={e => e.stopPropagation()}
+                onClick={(e) => e.stopPropagation()}
               >
                 {item.name}
               </a>
@@ -42,7 +42,10 @@ function ItemCard({ item }) {
         </div>
         <div className={styles.itemHeaderRight}>
           {item.minLevel != null && (
-            <span className={styles.levelBadge}>ML {item.minLevel}</span>
+            <span className={styles.levelBadge}>
+              ML
+              {item.minLevel}
+            </span>
           )}
           {hasEffects && (
             <span className={styles.expandIcon} aria-hidden="true">
@@ -86,7 +89,9 @@ function AugmentRow({ aug, kind }) {
           <strong>{aug.augmentName}</strong>
           {aug.itemName && (
             <span className={styles.augmentTarget}>
-              → {aug.itemName}
+              →
+              {' '}
+              {aug.itemName}
             </span>
           )}
         </div>
@@ -109,9 +114,18 @@ function GapRow({ gap }) {
         </span>
       </div>
       <div className={styles.gapValues}>
-        <span>current <strong>{gap.currentValue ?? 0}</strong></span>
-        <span>min <strong>{gap.minimumValue ?? 0}</strong></span>
-        <span>target <strong>{gap.targetValue ?? 0}</strong></span>
+        <span>
+          current
+          <strong>{gap.currentValue ?? 0}</strong>
+        </span>
+        <span>
+          min
+          <strong>{gap.minimumValue ?? 0}</strong>
+        </span>
+        <span>
+          target
+          <strong>{gap.targetValue ?? 0}</strong>
+        </span>
       </div>
     </li>
   );
@@ -120,7 +134,7 @@ function GapRow({ gap }) {
 function ConflictRow({ conflict }) {
   const winner = conflict.winningBonus?.raw || 'unknown winner';
   const suppressed = (conflict.suppressedBonuses || [])
-    .map(b => b.raw)
+    .map((b) => b.raw)
     .filter(Boolean);
 
   return (
@@ -154,7 +168,9 @@ export default function GearResults({ summary, onGetAdvice, advisorState }) {
           </span>
           {summary.scoreBreakdown && (
             <span className={styles.score}>
-              Score: <strong>{Math.round(summary.scoreBreakdown.score)}</strong>
+              Score:
+              {' '}
+              <strong>{Math.round(summary.scoreBreakdown.score)}</strong>
             </span>
           )}
         </div>
@@ -162,10 +178,10 @@ export default function GearResults({ summary, onGetAdvice, advisorState }) {
         {profile.buildTypes && profile.buildTypes.length > 0 && (
           <div className={styles.profileTags}>
             <span className={styles.profileTagLabel}>Build:</span>
-            {profile.buildTypes.map(t => (
+            {profile.buildTypes.map((t) => (
               <span key={t} className={styles.profileTag}>{t}</span>
             ))}
-            {profile.primaryStats && profile.primaryStats.map(s => (
+            {profile.primaryStats && profile.primaryStats.map((s) => (
               <span key={s} className={`${styles.profileTag} ${styles.primaryStat}`}>{s}</span>
             ))}
           </div>

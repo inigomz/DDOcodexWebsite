@@ -1,29 +1,29 @@
 // filigreeParser.js
 
-const axios = require("axios");
-const cheerio = require("cheerio");
-const fs = require("fs");
-const path = require("path");
+const axios = require('axios');
+const cheerio = require('cheerio');
+const fs = require('fs');
+const path = require('path');
 
 const OUTPUT_DIR = path.join(__dirname, '..', 'filigreelist');
 
 function cleanText(text) {
   return text
-    .replace(/\u00a0/g, " ")
-    .replace(/\s+/g, " ")
+    .replace(/\u00a0/g, ' ')
+    .replace(/\s+/g, ' ')
     .trim();
 }
 
 function delay(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+  return new Promise((resolve) => { setTimeout(resolve, ms); });
 }
 
 function parseSetName(raw) {
   const text = cleanText(raw);
 
   return {
-    name: text.replace(/\s*\((Rare)\)\s*/gi, "").trim(),
-    isRareSet: /\(Rare\)/i.test(text)
+    name: text.replace(/\s*\((Rare)\)\s*/gi, '').trim(),
+    isRareSet: /\(Rare\)/i.test(text),
   };
 }
 
@@ -41,8 +41,8 @@ function parseBonus(raw) {
     return {
       name: cleanText(match[1]),
       value: Number(match[2]),
-      unit: match[3] ? "percent" : "number",
-      raw: text
+      unit: match[3] ? 'percent' : 'number',
+      raw: text,
     };
   }
 
@@ -50,14 +50,14 @@ function parseBonus(raw) {
     name: text,
     value: null,
     unit: null,
-    raw: text
+    raw: text,
   };
 }
 
 function extractSetBonuses($, cell) {
   const bonuses = [];
 
-  cell.find("li").each((_, li) => {
+  cell.find('li').each((_, li) => {
     const text = cleanText($(li).text());
 
     const match = text.match(/^(\d+)\s+Pieces:\s*(.+)$/i);
@@ -65,7 +65,7 @@ function extractSetBonuses($, cell) {
     if (match) {
       bonuses.push({
         pieces: Number(match[1]),
-        effect: cleanText(match[2])
+        effect: cleanText(match[2]),
       });
     }
   });
@@ -83,21 +83,20 @@ function parseFiligreeHTML(html) {
   let currentSetBonuses = [];
 
   // ONLY parse the real filigree table
-  const filigreeTable = $("#Filigree_list")
-    .closest("h2")
-    .nextAll("table.wikitable.searchable")
+  const filigreeTable = $('#Filigree_list')
+    .closest('h2')
+    .nextAll('table.wikitable.searchable')
     .first();
 
   if (!filigreeTable.length) {
-    throw new Error("Could not find filigree table.");
+    throw new Error('Could not find filigree table.');
   }
 
-  filigreeTable.find("tbody > tr").each((_, row) => {
-
-    const cells = $(row).children("th, td");
+  filigreeTable.find('tbody > tr').each((_, row) => {
+    const cells = $(row).children('th, td');
 
     // Skip column header row
-    if ($(row).find("th[data-type]").length > 0) {
+    if ($(row).find('th[data-type]').length > 0) {
       return;
     }
 
@@ -109,16 +108,15 @@ function parseFiligreeHTML(html) {
 
     // New set row
     if (
-      cells.eq(0).is("th") &&
-      cells.eq(1).is("th")
+      cells.eq(0).is('th')
+      && cells.eq(1).is('th')
     ) {
-
       currentGeneration = Number(
-        cleanText(cells.eq(0).text())
+        cleanText(cells.eq(0).text()),
       );
 
       currentSet = parseSetName(
-        cells.eq(1).text()
+        cells.eq(1).text(),
       );
 
       index = 2;
@@ -129,15 +127,15 @@ function parseFiligreeHTML(html) {
     }
 
     const name = cleanText(
-      cells.eq(index).text()
+      cells.eq(index).text(),
     );
 
     const effectRaw = cleanText(
-      cells.eq(index + 1).text()
+      cells.eq(index + 1).text(),
     );
 
     const rareBonusEffectRaw = cleanText(
-      cells.eq(index + 2).text()
+      cells.eq(index + 2).text(),
     );
 
     if (!name || !effectRaw) {
@@ -145,21 +143,20 @@ function parseFiligreeHTML(html) {
     }
 
     // Set bonuses only appear on first row due to rowspan
-    const possibleSetBonusCell =
-      cells.eq(index + 3);
+    const possibleSetBonusCell = cells.eq(index + 3);
 
     if (
-      possibleSetBonusCell.length &&
-      possibleSetBonusCell.find("li").length
+      possibleSetBonusCell.length
+      && possibleSetBonusCell.find('li').length
     ) {
       currentSetBonuses = extractSetBonuses(
         $,
-        possibleSetBonusCell
+        possibleSetBonusCell,
       );
     }
 
     filigrees.push({
-      itemType: "filigree",
+      itemType: 'filigree',
 
       generation: currentGeneration,
 
@@ -181,7 +178,7 @@ function parseFiligreeHTML(html) {
           ? parseBonus(rareBonusEffectRaw)
           : null,
 
-      setBonuses: currentSetBonuses
+      setBonuses: currentSetBonuses,
     });
   });
 
@@ -189,16 +186,15 @@ function parseFiligreeHTML(html) {
 }
 
 async function scrapeFiligrees(url, outputFile) {
-
   const response = await axios.get(url, {
     headers: {
-      "User-Agent":
-        "DDO-Gear-Planner-Bot/1.0"
-    }
+      'User-Agent':
+        'DDO-Gear-Planner-Bot/1.0',
+    },
   });
 
   const filigrees = parseFiligreeHTML(
-    response.data
+    response.data,
   );
 
   if (!fs.existsSync(OUTPUT_DIR)) {
@@ -209,11 +205,11 @@ async function scrapeFiligrees(url, outputFile) {
 
   fs.writeFileSync(
     filepath,
-    JSON.stringify(filigrees, null, 2)
+    JSON.stringify(filigrees, null, 2),
   );
 
   console.log(
-    `Saved ${filigrees.length} filigrees to ${filepath}`
+    `Saved ${filigrees.length} filigrees to ${filepath}`,
   );
 
   // Delay between requests
@@ -221,12 +217,10 @@ async function scrapeFiligrees(url, outputFile) {
 }
 
 async function main() {
-
   await scrapeFiligrees(
-    "https://ddowiki.com/page/Sentient_Weapon/Filigrees",
-    "filigrees.json"
+    'https://ddowiki.com/page/Sentient_Weapon/Filigrees',
+    'filigrees.json',
   );
-
 }
 
 if (require.main === module) {
@@ -236,5 +230,5 @@ if (require.main === module) {
 module.exports = {
   parseFiligreeHTML,
   parseBonus,
-  scrapeFiligrees
+  scrapeFiligrees,
 };

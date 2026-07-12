@@ -6,7 +6,7 @@ const path = require('path');
 const BASE_URL = 'https://ddowiki.com';
 
 function delay(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+  return new Promise((resolve) => { setTimeout(resolve, ms); });
 }
 
 function cleanText(text) {
@@ -20,8 +20,8 @@ function parseMinLevel(value) {
   const cleaned = cleanText(value);
 
   if (
-    !cleaned ||
-    cleaned.toLowerCase() === 'none'
+    !cleaned
+    || cleaned.toLowerCase() === 'none'
   ) {
     return null;
   }
@@ -85,7 +85,7 @@ function cleanEnhancements(rawList) {
     if (entry === 'Fountain of Necrotic Might') {
       cleaned.push(
         'Upgradeable - Primary Augment',
-        'Upgradeable - Secondary Augment'
+        'Upgradeable - Secondary Augment',
       );
 
       skipCount = 87;
@@ -114,12 +114,11 @@ function extractEffects(rawEffects) {
     // Red Augment Slot
     // Orange Augment Slot
     // Purple Augment Slot
-    const augmentMatch =
-      effect.match(/^(.+?) Augment Slot$/i);
+    const augmentMatch = effect.match(/^(.+?) Augment Slot$/i);
 
     if (augmentMatch) {
       augmentSlots.push(
-        cleanText(augmentMatch[1])
+        cleanText(augmentMatch[1]),
       );
       continue;
     }
@@ -130,7 +129,7 @@ function extractEffects(rawEffects) {
     // Lamordia: Melancholic Slot (Weapon)
     // Lamordia: Dolorous Slot (Weapon)
     const craftingSlotMatch = effect.match(
-      /^([^:]+):\s*([^:()]+?)\s+Slot\s+\((Weapon|Accessory|Armor)\)(?::\s*(.+))?$/i
+      /^([^:]+):\s*([^:()]+?)\s+Slot\s+\((Weapon|Accessory|Armor)\)(?::\s*(.+))?$/i,
     );
 
     if (craftingSlotMatch) {
@@ -140,16 +139,16 @@ function extractEffects(rawEffects) {
         itemGroup: cleanText(craftingSlotMatch[3]),
         status: craftingSlotMatch[4]
           ? cleanText(craftingSlotMatch[4])
-          : null
+          : null,
       });
       continue;
     }
 
     // Set bonuses
     if (
-      effect.includes('Set') ||
-      effect.includes('Legendary') ||
-      effect.includes('Profane Experiment')
+      effect.includes('Set')
+      || effect.includes('Legendary')
+      || effect.includes('Profane Experiment')
     ) {
       setBonuses.push(effect);
       continue;
@@ -163,7 +162,7 @@ function extractEffects(rawEffects) {
     augmentSlots,
     craftingSlots,
     setBonuses,
-    namedEffects
+    namedEffects,
   };
 }
 
@@ -186,60 +185,60 @@ function categoryToSlot(categoryName) {
     'Light armor': 'armor',
     'Medium armor': 'armor',
     'Heavy armor': 'armor',
-    'Docents': 'armor',
+    Docents: 'armor',
 
     // Offhand items
-    'Bucklers': 'offhand',
+    Bucklers: 'offhand',
     'Small shields': 'offhand',
     'Large shields': 'offhand',
     'Tower shields': 'offhand',
-    'Orbs': 'offhand',
+    Orbs: 'offhand',
     'Rune Arms': 'offhand',
 
     // Weapons
-    'Clubs': 'weapon',
-    'Quarterstaffs': 'weapon',
-    'Daggers': 'weapon',
-    'Sickles': 'weapon',
+    Clubs: 'weapon',
+    Quarterstaffs: 'weapon',
+    Daggers: 'weapon',
+    Sickles: 'weapon',
     'Light Maces': 'weapon',
     'Heavy Maces': 'weapon',
-    'Morningstars': 'weapon',
+    Morningstars: 'weapon',
     'Heavy Crossbows': 'weapon',
     'Light Crossbows': 'weapon',
     'Hand Axes': 'weapon',
     'Battle Axes': 'weapon',
     'Great Axes': 'weapon',
-    'Kukris': 'weapon',
+    Kukris: 'weapon',
     'Long Swords': 'weapon',
     'Great Swords': 'weapon',
-    'Scimitars': 'weapon',
-    'Falchions': 'weapon',
+    Scimitars: 'weapon',
+    Falchions: 'weapon',
     'Long Bows': 'weapon',
     'Short Swords': 'weapon',
-    'Rapiers': 'weapon',
+    Rapiers: 'weapon',
     'Heavy Picks': 'weapon',
     'Light Picks': 'weapon',
     'Light Hammers': 'weapon',
     'War Hammers': 'weapon',
-    'Mauls': 'weapon',
+    Mauls: 'weapon',
     'Great Clubs': 'weapon',
     'Short Bows': 'weapon',
     'Bastard Swords': 'weapon',
     'Dwarven War Axes': 'weapon',
-    'Kamas': 'weapon',
-    'Khopeshes': 'weapon',
-    'Handwraps': 'weapon',
+    Kamas: 'weapon',
+    Khopeshes: 'weapon',
+    Handwraps: 'weapon',
     'Great Crossbows': 'weapon',
     'Repeating Heavy Crossbows': 'weapon',
     'Repeating Light Crossbows': 'weapon',
     'Throwing Axes': 'weapon',
     'Throwing Daggers': 'weapon',
     'Throwing Hammers': 'weapon',
-    'Darts': 'weapon',
-    'Shurikens': 'weapon',
+    Darts: 'weapon',
+    Shurikens: 'weapon',
 
     // Pets
-    'Collars': 'collar'
+    Collars: 'collar',
   };
 
   return map[categoryName] || null;
@@ -248,56 +247,56 @@ function categoryToSlot(categoryName) {
 function categoryToSubtype(categoryName) {
   const map = {
     // Shields
-    'Bucklers': 'buckler',
+    Bucklers: 'buckler',
     'Small shields': 'small_shield',
     'Large shields': 'large_shield',
     'Tower shields': 'tower_shield',
 
     // Spellcasting
-    'Orbs': 'orb',
+    Orbs: 'orb',
     'Rune Arms': 'rune_arm',
 
     // Weapons
-    'Clubs': 'club',
-    'Quarterstaffs': 'quarterstaff',
-    'Daggers': 'dagger',
-    'Sickles': 'sickle',
+    Clubs: 'club',
+    Quarterstaffs: 'quarterstaff',
+    Daggers: 'dagger',
+    Sickles: 'sickle',
     'Light Maces': 'light_mace',
     'Heavy Maces': 'heavy_mace',
-    'Morningstars': 'morningstar',
+    Morningstars: 'morningstar',
     'Heavy Crossbows': 'heavy_crossbow',
     'Light Crossbows': 'light_crossbow',
     'Hand Axes': 'hand_axe',
     'Battle Axes': 'battle_axe',
     'Great Axes': 'great_axe',
-    'Kukris': 'kukri',
+    Kukris: 'kukri',
     'Long Swords': 'long_sword',
     'Great Swords': 'great_sword',
-    'Scimitars': 'scimitar',
-    'Falchions': 'falchion',
+    Scimitars: 'scimitar',
+    Falchions: 'falchion',
     'Long Bows': 'long_bow',
     'Short Swords': 'short_sword',
-    'Rapiers': 'rapier',
+    Rapiers: 'rapier',
     'Heavy Picks': 'heavy_pick',
     'Light Picks': 'light_pick',
     'Light Hammers': 'light_hammer',
     'War Hammers': 'war_hammer',
-    'Mauls': 'maul',
+    Mauls: 'maul',
     'Great Clubs': 'great_club',
     'Short Bows': 'short_bow',
     'Bastard Swords': 'bastard_sword',
     'Dwarven War Axes': 'dwarven_war_axe',
-    'Kamas': 'kama',
-    'Khopeshes': 'khopesh',
-    'Handwraps': 'handwraps',
+    Kamas: 'kama',
+    Khopeshes: 'khopesh',
+    Handwraps: 'handwraps',
     'Great Crossbows': 'great_crossbow',
     'Repeating Heavy Crossbows': 'repeating_heavy_crossbow',
     'Repeating Light Crossbows': 'repeating_light_crossbow',
     'Throwing Axes': 'throwing_axe',
     'Throwing Daggers': 'throwing_dagger',
     'Throwing Hammers': 'throwing_hammer',
-    'Darts': 'dart',
-    'Shurikens': 'shuriken'
+    Darts: 'dart',
+    Shurikens: 'shuriken',
   };
 
   return map[categoryName] || null;
@@ -306,40 +305,38 @@ function categoryToSubtype(categoryName) {
 function categoryToHandedness(categoryName) {
   const map = {
     // Two-handed weapons
-    'Falchions': 'two_handed',
+    Falchions: 'two_handed',
     'Great Axes': 'two_handed',
     'Great Clubs': 'two_handed',
     'Great Swords': 'two_handed',
-    'Mauls': 'two_handed',
-    'Quarterstaffs': 'two_handed',
+    Mauls: 'two_handed',
+    Quarterstaffs: 'two_handed',
 
     'Long Bows': 'two_handed',
     'Short Bows': 'two_handed',
 
     // Offhand-only
-    'Bucklers': 'offhand_only',
+    Bucklers: 'offhand_only',
     'Small shields': 'offhand_only',
     'Large shields': 'offhand_only',
     'Tower shields': 'offhand_only',
-    'Orbs': 'offhand_only',
-    'Rune Arms': 'offhand_only'
+    Orbs: 'offhand_only',
+    'Rune Arms': 'offhand_only',
   };
 
   return map[categoryName] || 'one_handed';
 }
 
 async function scrapeCategory(categoryName) {
-  const url =
-    `https://ddowiki.com/page/Category:${encodeURIComponent(categoryName)}`;
+  const url = `https://ddowiki.com/page/Category:${encodeURIComponent(categoryName)}`;
 
-  const outputDir =
-    path.join(__dirname, '..', 'itemlist');
+  const outputDir = path.join(__dirname, '..', 'itemlist');
 
   try {
     const { data } = await axios.get(url, {
       headers: {
-        'User-Agent': 'DDO-Gear-Planner-Bot/1.0'
-      }
+        'User-Agent': 'DDO-Gear-Planner-Bot/1.0',
+      },
     });
 
     const $ = cheerio.load(data);
@@ -353,34 +350,29 @@ async function scrapeCategory(categoryName) {
         return;
       }
 
-      const anchor =
-        $(cols[0]).find('a[href]').first();
+      const anchor = $(cols[0]).find('a[href]').first();
 
       if (!anchor.length) {
         return;
       }
 
-      const name =
-        cleanText(anchor.text());
+      const name = cleanText(anchor.text());
 
-      const href =
-        anchor.attr('href');
+      const href = anchor.attr('href');
 
       if (!href) {
         return;
       }
 
-      const link =
-        BASE_URL + href;
+      const link = BASE_URL + href;
 
       if (link.includes('/Category:')) {
         return;
       }
 
-      const minLevel =
-        parseMinLevel(
-          $(cols[2]).text()
-        );
+      const minLevel = parseMinLevel(
+        $(cols[2]).text(),
+      );
 
       const rawEnhancements = [];
 
@@ -392,8 +384,7 @@ async function scrapeCategory(categoryName) {
         clone.find('img').remove();
         clone.find('sup').remove();
 
-        const text =
-          cleanText(clone.text());
+        const text = cleanText(clone.text());
 
         if (!text) {
           return;
@@ -409,14 +400,13 @@ async function scrapeCategory(categoryName) {
         rawEnhancements.push(text);
       });
 
-      const effectsRaw =
-        cleanEnhancements(rawEnhancements);
+      const effectsRaw = cleanEnhancements(rawEnhancements);
 
       const {
         augmentSlots,
         craftingSlots,
         setBonuses,
-        namedEffects
+        namedEffects,
       } = extractEffects(effectsRaw);
 
       items.push({
@@ -446,7 +436,7 @@ async function scrapeCategory(categoryName) {
 
         setBonuses,
 
-        namedEffects
+        namedEffects,
       });
     });
 
@@ -454,37 +444,34 @@ async function scrapeCategory(categoryName) {
       fs.mkdirSync(outputDir);
     }
 
-    const filename =
-      `${categoryName
-        .toLowerCase()
-        .replace(/\s+/g, '_')}.json`;
+    const filename = `${categoryName
+      .toLowerCase()
+      .replace(/\s+/g, '_')}.json`;
 
-    const filepath =
-      path.join(outputDir, filename);
+    const filepath = path.join(outputDir, filename);
 
     fs.writeFileSync(
       filepath,
-      JSON.stringify(items, null, 2)
+      JSON.stringify(items, null, 2),
     );
 
     console.log(
-      `SUCCESS: Saved ${filename} with ${items.length} items`
+      `SUCCESS: Saved ${filename} with ${items.length} items`,
     );
 
     await delay(750);
 
     return {
       filename,
-      count: items.length
+      count: items.length,
     };
-
   } catch (err) {
     throw new Error(
-      `ERROR: Failed to scrape ${categoryName}: ${err.message}`
+      `ERROR: Failed to scrape ${categoryName}: ${err.message}`,
     );
   }
 }
 
 module.exports = {
-  scrapeCategory
+  scrapeCategory,
 };

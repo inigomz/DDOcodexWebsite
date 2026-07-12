@@ -1,0 +1,1319 @@
+{
+  "goal": "Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.",
+  "buildProfile": {
+    "maxLevel": 34,
+    "buildTypes": [
+      "melee",
+      "tactical",
+      "defensive",
+      "monk"
+    ],
+    "primaryStats": [
+      "Wisdom"
+    ],
+    "preferredWeaponSubtypes": [
+      "handwraps"
+    ],
+    "armorPreference": {
+      "enforceArmorType": true,
+      "allowedArmorTypes": [
+        "cloth"
+      ],
+      "preferredArmorTypes": [
+        "cloth"
+      ],
+      "avoidArmorTypes": [
+        "light",
+        "medium",
+        "heavy"
+      ],
+      "notes": [
+        "Detected cloth / robe / outfit armor requirement."
+      ]
+    }
+  },
+  "scoreBreakdown": {
+    "score": -7580.6590875,
+    "counts": {
+      "metTargetCount": 16,
+      "openGapCount": 30,
+      "underfilledTargetCount": 15,
+      "missingTargetCount": 15,
+      "normalAssignmentCount": 7,
+      "craftingAssignmentCount": 2,
+      "stackingConflictCount": 7,
+      "relevantConflictCount": 7,
+      "errorCount": 0,
+      "warningCount": 7,
+      "openNormalSlotCount": 21
+    },
+    "targetReward": 2202.5,
+    "assignmentReward": 105,
+    "weightedGapPenalty": 9712.3390875,
+    "conflictPenalty": 175.82,
+    "errorPenalty": 0,
+    "warningPenalty": 0,
+    "openNormalSlotPenalty": 0,
+    "topGapPenalties": [
+      {
+        "targetId": "default_or_enhancement_combat_mastery",
+        "label": "Combat Mastery",
+        "category": "tactical_dc",
+        "status": "missing",
+        "priority": 98,
+        "currentValue": 0,
+        "minimumValue": 10,
+        "targetValue": 12,
+        "missingToMinimum": 10,
+        "missingToTarget": 12,
+        "penalty": 1484.8029000000001
+      },
+      {
+        "targetId": "insightful_magical_sheltering",
+        "label": "Insightful Magical Sheltering",
+        "category": "survivability",
+        "status": "missing",
+        "priority": 66,
+        "currentValue": 0,
+        "minimumValue": 16,
+        "targetValue": 18,
+        "missingToMinimum": 16,
+        "missingToTarget": 18,
+        "penalty": 1103.0134500000001
+      },
+      {
+        "targetId": "artifact_armor_piercing",
+        "label": "Artifact Armor-Piercing",
+        "category": "set_bonus",
+        "status": "missing",
+        "priority": 70,
+        "currentValue": 0,
+        "minimumValue": 30,
+        "targetValue": 30,
+        "missingToMinimum": 30,
+        "missingToTarget": 30,
+        "penalty": 1075.8825000000002
+      },
+      {
+        "targetId": "insightful_combat_mastery",
+        "label": "Insightful Combat Mastery",
+        "category": "tactical_dc",
+        "status": "missing",
+        "priority": 92,
+        "currentValue": 0,
+        "minimumValue": 6,
+        "targetValue": 6,
+        "missingToMinimum": 6,
+        "missingToTarget": 6,
+        "penalty": 810.405
+      },
+      {
+        "targetId": "insightful_stunning",
+        "label": "Insightful Stunning",
+        "category": "tactical_dc",
+        "status": "missing",
+        "priority": 85,
+        "currentValue": 0,
+        "minimumValue": 6,
+        "targetValue": 6,
+        "missingToMinimum": 6,
+        "missingToTarget": 6,
+        "penalty": 748.7437500000001
+      },
+      {
+        "targetId": "insightful_accuracy",
+        "label": "Insightful Accuracy",
+        "category": "melee_accuracy",
+        "status": "missing",
+        "priority": 62,
+        "currentValue": 0,
+        "minimumValue": 10,
+        "targetValue": 11,
+        "missingToMinimum": 10,
+        "missingToTarget": 11,
+        "penalty": 562.7151000000001
+      },
+      {
+        "targetId": "artifact_doublestrike",
+        "label": "Artifact Doublestrike",
+        "category": "set_bonus",
+        "status": "missing",
+        "priority": 70,
+        "currentValue": 0,
+        "minimumValue": 15,
+        "targetValue": 15,
+        "missingToMinimum": 15,
+        "missingToTarget": 15,
+        "penalty": 549.6356250000001
+      },
+      {
+        "targetId": "default_or_enhancement_enhanced_ki",
+        "label": "Enhanced Ki",
+        "category": "monk",
+        "status": "missing",
+        "priority": 78,
+        "currentValue": 0,
+        "minimumValue": 4,
+        "targetValue": 5,
+        "missingToMinimum": 4,
+        "missingToTarget": 5,
+        "penalty": 414.14489999999995
+      },
+      {
+        "targetId": "quality_stunning",
+        "label": "Quality Stunning",
+        "category": "tactical_dc",
+        "status": "missing",
+        "priority": 80,
+        "currentValue": 0,
+        "minimumValue": 3,
+        "targetValue": 3,
+        "missingToMinimum": 3,
+        "missingToTarget": 3,
+        "penalty": 387.585
+      },
+      {
+        "targetId": "insightful_deadly",
+        "label": "Insightful Deadly",
+        "category": "melee_damage",
+        "status": "missing",
+        "priority": 64,
+        "currentValue": 0,
+        "minimumValue": 5,
+        "targetValue": 5,
+        "missingToMinimum": 5,
+        "missingToTarget": 5,
+        "penalty": 313.956
+      },
+      {
+        "targetId": "quality_constitution",
+        "label": "Quality Constitution",
+        "category": "primary_stat",
+        "status": "missing",
+        "priority": 66,
+        "currentValue": 0,
+        "minimumValue": 3,
+        "targetValue": 3,
+        "missingToMinimum": 3,
+        "missingToTarget": 3,
+        "penalty": 297.705375
+      },
+      {
+        "targetId": "quality_doublestrike",
+        "label": "Quality Doublestrike",
+        "category": "melee_damage",
+        "status": "missing",
+        "priority": 72,
+        "currentValue": 0,
+        "minimumValue": 4,
+        "targetValue": 4,
+        "missingToMinimum": 4,
+        "missingToTarget": 4,
+        "penalty": 290.871
+      },
+      {
+        "targetId": "quality_dodge",
+        "label": "Quality Dodge",
+        "category": "survivability",
+        "status": "missing",
+        "priority": 60,
+        "currentValue": 0,
+        "minimumValue": 3,
+        "targetValue": 3,
+        "missingToMinimum": 3,
+        "missingToTarget": 3,
+        "penalty": 210.49875000000003
+      },
+      {
+        "targetId": "artifact_tactical_dc",
+        "label": "Artifact Tactical DC",
+        "category": "set_bonus",
+        "status": "missing",
+        "priority": 70,
+        "currentValue": 0,
+        "minimumValue": 5,
+        "targetValue": 5,
+        "missingToMinimum": 5,
+        "missingToTarget": 5,
+        "penalty": 198.80437500000005
+      },
+      {
+        "targetId": "exceptional_constitution",
+        "label": "Exceptional Constitution",
+        "category": "primary_stat",
+        "status": "missing",
+        "priority": 51,
+        "currentValue": 0,
+        "minimumValue": 2,
+        "targetValue": 2,
+        "missingToMinimum": 2,
+        "missingToTarget": 2,
+        "penalty": 167.30550000000002
+      }
+    ],
+    "topConflictPenalties": [
+      {
+        "stackKey": "Default:Wisdom",
+        "stat": "Wisdom",
+        "bonusType": "Default",
+        "priority": 100,
+        "suppressedCount": 2,
+        "winningBonus": {
+          "raw": "Wisdom +14",
+          "value": 14,
+          "source": {
+            "type": "item",
+            "name": "Perfected Jidz-Tet'ka",
+            "itemKey": "item:perfected_jidz-tet'ka",
+            "slot": "wrists"
+          }
+        },
+        "suppressedBonuses": [
+          {
+            "raw": "Wisdom +14",
+            "value": 14,
+            "source": {
+              "type": "item",
+              "name": "Alaric's Grim Gauntlets",
+              "itemKey": "item:alaric's_grim_gauntlets",
+              "slot": "hands"
+            }
+          },
+          {
+            "raw": "Wisdom +14",
+            "value": 14,
+            "source": {
+              "type": "item",
+              "name": "Black Pearl Ring",
+              "itemKey": "item:black_pearl_ring",
+              "slot": "finger"
+            }
+          }
+        ],
+        "penalty": 44
+      },
+      {
+        "stackKey": "Insightful:Wisdom",
+        "stat": "Wisdom",
+        "bonusType": "Insightful",
+        "priority": 95,
+        "suppressedCount": 2,
+        "winningBonus": {
+          "raw": "Insightful Wisdom +7",
+          "value": 7,
+          "source": {
+            "type": "item",
+            "name": "Legendary Lamordian Top Hat",
+            "itemKey": "item:legendary_lamordian_top_hat",
+            "slot": "head"
+          }
+        },
+        "suppressedBonuses": [
+          {
+            "raw": "Insightful Wisdom +6",
+            "value": 6,
+            "source": {
+              "type": "item",
+              "name": "Perfected Goggles of Time-Sensing",
+              "itemKey": "item:perfected_goggles_of_time-sensing",
+              "slot": "eyes"
+            }
+          },
+          {
+            "raw": "Insightful Wisdom +6",
+            "value": 6,
+            "source": {
+              "type": "item",
+              "name": "Doctor LeRoux's Curious Implant",
+              "itemKey": "item:doctor_leroux's_curious_implant",
+              "slot": "neck"
+            }
+          }
+        ],
+        "penalty": 42.9
+      },
+      {
+        "stackKey": "Insightful:Physical Sheltering",
+        "stat": "Physical Sheltering",
+        "bonusType": "Insightful",
+        "priority": 70,
+        "suppressedCount": 1,
+        "winningBonus": {
+          "raw": "Insightful Physical Sheltering +18",
+          "value": 18,
+          "source": {
+            "type": "item",
+            "name": "Legendary Lamordian Top Hat",
+            "itemKey": "item:legendary_lamordian_top_hat",
+            "slot": "head"
+          }
+        },
+        "suppressedBonuses": [
+          {
+            "raw": "Insightful Physical Sheltering +17",
+            "value": 17,
+            "source": {
+              "type": "item",
+              "name": "Legendary Architect's Cloak",
+              "itemKey": "item:legendary_architect's_cloak",
+              "slot": "back"
+            }
+          }
+        ],
+        "penalty": 31.4
+      },
+      {
+        "stackKey": "Default:Fortification",
+        "stat": "Fortification",
+        "bonusType": "Default",
+        "priority": 66,
+        "suppressedCount": 1,
+        "winningBonus": {
+          "raw": "Fortification +153%",
+          "value": 153,
+          "source": {
+            "type": "item",
+            "name": "Legendary Architect's Cloak",
+            "itemKey": "item:legendary_architect's_cloak",
+            "slot": "back"
+          }
+        },
+        "suppressedBonuses": [
+          {
+            "raw": "Fortification +142%",
+            "value": 142,
+            "source": {
+              "type": "item",
+              "name": "Firefly Garb",
+              "itemKey": "item:firefly_garb",
+              "slot": "armor"
+            }
+          }
+        ],
+        "penalty": 30.52
+      },
+      {
+        "stackKey": "Enhancement:Weapon Enhancement",
+        "stat": "Weapon Enhancement",
+        "bonusType": "Enhancement",
+        "priority": 50,
+        "suppressedCount": 1,
+        "winningBonus": {
+          "raw": "+15 Enhancement Bonus",
+          "value": 15,
+          "source": {
+            "type": "item",
+            "name": "Firefly Garb",
+            "itemKey": "item:firefly_garb",
+            "slot": "armor"
+          }
+        },
+        "suppressedBonuses": [
+          {
+            "raw": "+15 Enhancement Bonus",
+            "value": 15,
+            "source": {
+              "type": "item",
+              "name": "Legendary Maiming Stonedust Wraps",
+              "itemKey": "item:legendary_maiming_stonedust_wraps",
+              "slot": "weapon"
+            }
+          }
+        ],
+        "penalty": 27
+      }
+    ]
+  },
+  "counts": {
+    "targetCount": 46,
+    "metTargetCount": 16,
+    "openGapCount": 30,
+    "underfilledTargetCount": 15,
+    "missingTargetCount": 15,
+    "openNormalSlotCount": 21,
+    "normalAssignmentCount": 7,
+    "craftingAssignmentCount": 2,
+    "remainingOpenNormalSlotCount": 21,
+    "validationErrorCount": 0,
+    "validationWarningCount": 7,
+    "stackingConflictCount": 7,
+    "relevantConflictCount": 7
+  },
+  "selectedGear": [
+    {
+      "slot": "head",
+      "name": "Legendary Lamordian Top Hat",
+      "link": "https://ddowiki.com/page/Item:Legendary_Lamordian_Top_Hat",
+      "minLevel": 34,
+      "itemKey": "item:legendary_lamordian_top_hat",
+      "augmentSlots": [
+        "Green",
+        "Colorless"
+      ],
+      "craftingSlots": [
+        {
+          "system": "Lamordia",
+          "slotType": "Melancholic",
+          "itemGroup": "Accessory",
+          "status": null
+        },
+        {
+          "system": "Lamordia",
+          "slotType": "Dolorous",
+          "itemGroup": "Accessory",
+          "status": null
+        }
+      ],
+      "effects": [
+        "Insightful Wisdom +7",
+        "Insightful Physical Sheltering +18",
+        "Lamordia: Melancholic Slot (Accessory)",
+        "Lamordia: Dolorous Slot (Accessory)",
+        "Green Augment Slot",
+        "Colorless Augment Slot"
+      ],
+      "stackAwareScore": 556.4975,
+      "craftingPotentialScore": 116.57750000000001
+    },
+    {
+      "slot": "eyes",
+      "name": "Perfected Goggles of Time-Sensing",
+      "link": "https://ddowiki.com/page/Item:Perfected_Goggles_of_Time-Sensing",
+      "minLevel": 30,
+      "itemKey": "item:perfected_goggles_of_time-sensing",
+      "augmentSlots": [
+        "Yellow",
+        "Green",
+        "Blue"
+      ],
+      "craftingSlots": [],
+      "effects": [
+        "Haste — 5 Charges (Recharged/Day:5)",
+        "Insightful Wisdom +6",
+        "Exceptional Prudent Skills Bonus +10",
+        "Reflex Save +13",
+        "Speed +30%",
+        "Freedom of Movement",
+        "Yellow Augment Slot",
+        "Green Augment Slot",
+        "Blue Augment Slot"
+      ],
+      "stackAwareScore": 255.04999999999995,
+      "craftingPotentialScore": 0
+    },
+    {
+      "slot": "neck",
+      "name": "Doctor LeRoux's Curious Implant",
+      "link": "https://ddowiki.com/page/Item:Doctor_LeRoux%27s_Curious_Implant",
+      "minLevel": 29,
+      "itemKey": "item:doctor_leroux's_curious_implant",
+      "augmentSlots": [
+        "Green",
+        "Yellow",
+        "Blue"
+      ],
+      "craftingSlots": [],
+      "effects": [
+        "Insightful Wisdom +6",
+        "Equipped Healing Amplification +29",
+        "Exceptional Healing Amplification +15",
+        "Quality Physical Sheltering +8",
+        "Green Augment Slot",
+        "Yellow Augment Slot",
+        "Blue Augment Slot"
+      ],
+      "stackAwareScore": 850.1949999999999,
+      "craftingPotentialScore": 0
+    },
+    {
+      "slot": "trinket",
+      "name": "Legendary Breaker's Bauble",
+      "link": "https://ddowiki.com/page/Item:Legendary_Breaker%27s_Bauble",
+      "minLevel": 33,
+      "itemKey": "item:legendary_breaker's_bauble",
+      "augmentSlots": [
+        "Green",
+        "Colorless"
+      ],
+      "craftingSlots": [],
+      "effects": [
+        "Doublestrike 16%",
+        "Insightful Doublestrike 7%",
+        "Accuracy +23",
+        "Armor-Piercing 23%",
+        "Green Augment Slot",
+        "Colorless Augment Slot"
+      ],
+      "stackAwareScore": 717.015,
+      "craftingPotentialScore": 0
+    },
+    {
+      "slot": "back",
+      "name": "Legendary Architect's Cloak",
+      "link": "https://ddowiki.com/page/Item:Legendary_Architect%27s_Cloak",
+      "minLevel": 32,
+      "itemKey": "item:legendary_architect's_cloak",
+      "augmentSlots": [
+        "Green",
+        "Colorless"
+      ],
+      "craftingSlots": [],
+      "effects": [
+        "Deadly +11",
+        "Quality Deadly +3",
+        "Fortification +153%",
+        "Insightful Physical Sheltering +17",
+        "Green Augment Slot",
+        "Colorless Augment Slot"
+      ],
+      "stackAwareScore": 650.31,
+      "craftingPotentialScore": 0
+    },
+    {
+      "slot": "wrists",
+      "name": "Perfected Jidz-Tet'ka",
+      "link": "https://ddowiki.com/page/Item:Perfected_Jidz-Tet%27ka",
+      "minLevel": 30,
+      "itemKey": "item:perfected_jidz-tet'ka",
+      "augmentSlots": [
+        "Yellow",
+        "Green",
+        "Blue"
+      ],
+      "craftingSlots": [],
+      "effects": [
+        "Armor Bonus +14",
+        "Wisdom +14",
+        "Insightful Resistance +5",
+        "Insightful Sheltering +19",
+        "Exceptional Wisdom +2",
+        "Legendary Tet-zik, The Enlightened Change Kos-zik, The Air-Change Riik-zik, The Fire-Change Thok-zik, The Earth-Change Sed-zik, The Water-Change",
+        "Kos-zik, The Air-Change",
+        "Riik-zik, The Fire-Change",
+        "Thok-zik, The Earth-Change",
+        "Sed-zik, The Water-Change",
+        "Yellow Augment Slot",
+        "Green Augment Slot",
+        "Blue Augment Slot"
+      ],
+      "stackAwareScore": 803.15,
+      "craftingPotentialScore": 0
+    },
+    {
+      "slot": "hands",
+      "name": "Alaric's Grim Gauntlets",
+      "link": "https://ddowiki.com/page/Item:Alaric%27s_Grim_Gauntlets",
+      "minLevel": 31,
+      "itemKey": "item:alaric's_grim_gauntlets",
+      "augmentSlots": [
+        "Green",
+        "Blue"
+      ],
+      "craftingSlots": [],
+      "effects": [
+        "Wisdom +14",
+        "Dark Restoration Lore +23%",
+        "Power of the Dark Restoration +155",
+        "Hallowed +14",
+        "Sacred +14",
+        "The Legendary Dread Isle's Curse",
+        "Green Augment Slot",
+        "Blue Augment Slot"
+      ],
+      "stackAwareScore": 260.60499999999996,
+      "craftingPotentialScore": 0
+    },
+    {
+      "slot": "waist",
+      "name": "Legendary Belt of Sure Strikes",
+      "link": "https://ddowiki.com/page/Item:Legendary_Belt_of_Sure_Strikes",
+      "minLevel": 29,
+      "itemKey": "item:legendary_belt_of_sure_strikes",
+      "augmentSlots": [
+        "Green"
+      ],
+      "craftingSlots": [],
+      "effects": [
+        "Magical Sheltering +33",
+        "Insightful Seeker +6",
+        "Quality Combat Mastery +3",
+        "Quality Accuracy +4",
+        "Green Augment Slot"
+      ],
+      "stackAwareScore": 476.395,
+      "craftingPotentialScore": 0
+    },
+    {
+      "slot": "feet",
+      "name": "The Kept Descent",
+      "link": "https://ddowiki.com/page/Item:The_Kept_Descent",
+      "minLevel": 32,
+      "itemKey": "item:the_kept_descent",
+      "augmentSlots": [
+        "Green",
+        "Yellow",
+        "Blue"
+      ],
+      "craftingSlots": [],
+      "effects": [
+        "Quality Wisdom +3",
+        "Profane Negative Amplification +63",
+        "Quality Negative Amplification +16",
+        "Insightful Armor-Piercing 11%",
+        "Legendary Forbidden Knowledge",
+        "Green Augment Slot",
+        "Yellow Augment Slot",
+        "Blue Augment Slot"
+      ],
+      "stackAwareScore": 616.31,
+      "craftingPotentialScore": 0
+    },
+    {
+      "slot": "finger",
+      "name": "Black Pearl Ring",
+      "link": "https://ddowiki.com/page/Item:Black_Pearl_Ring",
+      "minLevel": 29,
+      "itemKey": "item:black_pearl_ring",
+      "augmentSlots": [
+        "Yellow",
+        "Green",
+        "Blue"
+      ],
+      "craftingSlots": [],
+      "effects": [
+        "Wisdom +14",
+        "Frozen Depths Lore +22%",
+        "Power of the Frozen Depths +154",
+        "Negative Energy Absorption - 50 Charges (Recharged/Day: 10)",
+        "Legendary Nightmare Guard",
+        "Legendary Saltmarsh Explorer",
+        "Yellow Augment Slot",
+        "Green Augment Slot",
+        "Blue Augment Slot"
+      ],
+      "stackAwareScore": 306.945,
+      "craftingPotentialScore": 0
+    },
+    {
+      "slot": "armor",
+      "name": "Firefly Garb",
+      "link": "https://ddowiki.com/page/Item:Firefly_Garb",
+      "minLevel": 29,
+      "itemKey": "item:firefly_garb",
+      "augmentSlots": [
+        "Blue",
+        "Green"
+      ],
+      "craftingSlots": [],
+      "effects": [
+        "+15 Enhancement Bonus",
+        "Fortification +142%",
+        "Physical Sheltering +33",
+        "Competence Healing Amplification +53",
+        "False Life +50",
+        "Blue Augment Slot",
+        "Green Augment Slot"
+      ],
+      "stackAwareScore": 767.145,
+      "craftingPotentialScore": 0
+    },
+    {
+      "slot": "weapon",
+      "name": "Legendary Maiming Stonedust Wraps",
+      "link": "https://ddowiki.com/page/Item:Legendary_Maiming_Stonedust_Wraps",
+      "minLevel": 31,
+      "itemKey": "item:legendary_maiming_stonedust_wraps",
+      "augmentSlots": [
+        "Red",
+        "Purple"
+      ],
+      "craftingSlots": [],
+      "effects": [
+        "+15 Enhancement Bonus",
+        "Path of the Guarding Stone",
+        "Stunning +15",
+        "Legendary Stone Prison",
+        "Maiming 6",
+        "Red Augment Slot",
+        "Purple Augment Slot"
+      ],
+      "stackAwareScore": 302.305,
+      "craftingPotentialScore": 0
+    }
+  ],
+  "normalAugments": [
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Legendary Lamordian Top Hat",
+      "itemKey": "item:legendary_lamordian_top_hat",
+      "slotColor": "colorless",
+      "augmentName": "Diamond of Constitution +14",
+      "augmentLink": "https://ddowiki.com/page/Item:Diamond_of_Constitution_%2B14",
+      "effect": "Constitution +14",
+      "stackKey": "Default:Constitution",
+      "value": 14,
+      "targetId": "default_or_enhancement_constitution",
+      "targetLabel": "Constitution",
+      "currentValue": 0,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "score": 186.33333333333334
+    },
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Perfected Goggles of Time-Sensing",
+      "itemKey": "item:perfected_goggles_of_time-sensing",
+      "slotColor": "blue",
+      "augmentName": "Sapphire of Dodge +14%",
+      "augmentLink": "https://ddowiki.com/page/Item:Sapphire_of_Dodge_%2B14%25",
+      "effect": "Dodge +14%",
+      "stackKey": "Default:Dodge",
+      "value": 14,
+      "targetId": "default_or_enhancement_dodge",
+      "targetLabel": "Dodge",
+      "currentValue": 0,
+      "minimumValue": 11,
+      "targetValue": 15,
+      "score": 180.33333333333334
+    },
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Doctor LeRoux's Curious Implant",
+      "itemKey": "item:doctor_leroux's_curious_implant",
+      "slotColor": "blue",
+      "augmentName": "Sapphire of Resistance +11",
+      "augmentLink": "https://ddowiki.com/page/Item:Sapphire_of_Resistance_%2B11",
+      "effect": "Resistance +11",
+      "stackKey": "Default:Resistance",
+      "value": 11,
+      "targetId": "default_or_enhancement_resistance",
+      "targetLabel": "Resistance",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 11,
+      "score": 180
+    },
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Legendary Breaker's Bauble",
+      "itemKey": "item:legendary_breaker's_bauble",
+      "slotColor": "colorless",
+      "augmentName": "Diamond of Festive Wisdom +2",
+      "augmentLink": "https://ddowiki.com/page/Item:Diamond_of_Festive_Wisdom_%2B2",
+      "effect": "Festive Wisdom +2",
+      "stackKey": "Festive:Wisdom",
+      "value": 2,
+      "targetId": "festive_wisdom",
+      "targetLabel": "Festive Wisdom",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "score": 169
+    },
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Perfected Jidz-Tet'ka",
+      "itemKey": "item:perfected_jidz-tet'ka",
+      "slotColor": "blue",
+      "augmentName": "Sapphire of Stunning +16",
+      "augmentLink": "https://ddowiki.com/page/Item:Sapphire_of_Stunning_%2B16",
+      "effect": "Stunning +16",
+      "stackKey": "Default:Stunning",
+      "value": 16,
+      "targetId": "default_or_enhancement_stunning",
+      "targetLabel": "Stunning",
+      "currentValue": 15,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "score": 147
+    },
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Legendary Architect's Cloak",
+      "itemKey": "item:legendary_architect's_cloak",
+      "slotColor": "colorless",
+      "augmentName": "Diamond of Festive Constitution +2",
+      "augmentLink": "https://ddowiki.com/page/Item:Diamond_of_Festive_Constitution_%2B2",
+      "effect": "Festive Constitution +2",
+      "stackKey": "Festive:Constitution",
+      "value": 2,
+      "targetId": "festive_constitution",
+      "targetLabel": "Festive Constitution",
+      "currentValue": 0,
+      "minimumValue": 2,
+      "targetValue": 2,
+      "score": 145
+    },
+    {
+      "sourceType": "normal_augment",
+      "itemName": "Perfected Goggles of Time-Sensing",
+      "itemKey": "item:perfected_goggles_of_time-sensing",
+      "slotColor": "yellow",
+      "augmentName": "Diamond of Insightful Constitution +5",
+      "augmentLink": "https://ddowiki.com/page/Item:Diamond_of_Insightful_Constitution_%2B5",
+      "effect": "Insightful Constitution +5",
+      "stackKey": "Insightful:Constitution",
+      "value": 5,
+      "targetId": "insightful_constitution",
+      "targetLabel": "Insightful Constitution",
+      "currentValue": 0,
+      "minimumValue": 6,
+      "targetValue": 7,
+      "score": 129.57142857142856
+    }
+  ],
+  "craftingAugments": [
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Lamordian Top Hat",
+      "itemKey": "item:legendary_lamordian_top_hat",
+      "craftingSlotKey": "Lamordia:Dolorous:Accessory",
+      "craftingSlotInstanceKey": "item:legendary_lamordian_top_hat::Lamordia:Dolorous:Accessory",
+      "craftingSlotLabel": "Lamordia Dolorous Accessory",
+      "augmentName": "Dolorous Healing Amplification (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+61 Competence bonus to Positive Healing Amplification.",
+      "stackKey": "Competence:Healing Amplification",
+      "value": 61,
+      "targetId": "default_or_enhancement_healing_amplification",
+      "targetLabel": "Healing Amplification",
+      "currentValue": 53,
+      "minimumValue": 57,
+      "targetValue": 61,
+      "score": 168
+    },
+    {
+      "sourceType": "crafting_augment",
+      "itemName": "Legendary Lamordian Top Hat",
+      "itemKey": "item:legendary_lamordian_top_hat",
+      "craftingSlotKey": "Lamordia:Melancholic:Accessory",
+      "craftingSlotInstanceKey": "item:legendary_lamordian_top_hat::Lamordia:Melancholic:Accessory",
+      "craftingSlotLabel": "Lamordia Melancholic Accessory",
+      "augmentName": "Melancholic False Life (Heroic)",
+      "selectedTier": "legendary",
+      "effect": "+57 Enhancement bonus to Maximum HP.",
+      "stackKey": "Enhancement:False Life",
+      "value": 57,
+      "targetId": "default_or_enhancement_false_life",
+      "targetLabel": "False Life",
+      "currentValue": 50,
+      "minimumValue": 54,
+      "targetValue": 57,
+      "score": 166
+    }
+  ],
+  "remainingGaps": [
+    {
+      "targetId": "default_or_enhancement_wisdom",
+      "label": "Wisdom",
+      "category": "primary_stat",
+      "priority": 100,
+      "status": "below_target",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Wisdom +14",
+        "stackKey": "Default:Wisdom",
+        "value": 14,
+        "sourceLabel": "Perfected Jidz-Tet'ka"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_stunning",
+      "label": "Stunning",
+      "category": "tactical_dc",
+      "priority": 100,
+      "status": "below_target",
+      "currentValue": 16,
+      "minimumValue": 16,
+      "targetValue": 17,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Stunning +16",
+        "stackKey": "Default:Stunning",
+        "value": 16,
+        "sourceLabel": "Sapphire of Stunning +16 slotted into Perfected Jidz-Tet'ka"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_combat_mastery",
+      "label": "Combat Mastery",
+      "category": "tactical_dc",
+      "priority": 98,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 10,
+      "targetValue": 12,
+      "missingToMinimum": 10,
+      "missingToTarget": 12,
+      "bestBonus": null
+    },
+    {
+      "targetId": "insightful_combat_mastery",
+      "label": "Insightful Combat Mastery",
+      "category": "tactical_dc",
+      "priority": 92,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 6,
+      "targetValue": 6,
+      "missingToMinimum": 6,
+      "missingToTarget": 6,
+      "bestBonus": null
+    },
+    {
+      "targetId": "insightful_stunning",
+      "label": "Insightful Stunning",
+      "category": "tactical_dc",
+      "priority": 85,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 6,
+      "targetValue": 6,
+      "missingToMinimum": 6,
+      "missingToTarget": 6,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_prr",
+      "label": "PRR",
+      "category": "survivability",
+      "priority": 84,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_mrr",
+      "label": "MRR",
+      "category": "survivability",
+      "priority": 82,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Magical Sheltering +33",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 33,
+        "sourceLabel": "Legendary Belt of Sure Strikes"
+      }
+    },
+    {
+      "targetId": "quality_stunning",
+      "label": "Quality Stunning",
+      "category": "tactical_dc",
+      "priority": 80,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 3,
+      "targetValue": 3,
+      "missingToMinimum": 3,
+      "missingToTarget": 3,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_deadly",
+      "label": "Deadly",
+      "category": "melee_damage",
+      "priority": 78,
+      "status": "below_target",
+      "currentValue": 11,
+      "minimumValue": 11,
+      "targetValue": 12,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Deadly +11",
+        "stackKey": "Default:Deadly",
+        "value": 11,
+        "sourceLabel": "Legendary Architect's Cloak"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_physical_sheltering",
+      "label": "Physical Sheltering",
+      "category": "survivability",
+      "priority": 78,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Physical Sheltering +33",
+        "stackKey": "Default:Physical Sheltering",
+        "value": 33,
+        "sourceLabel": "Firefly Garb"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_enhanced_ki",
+      "label": "Enhanced Ki",
+      "category": "monk",
+      "priority": 78,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 4,
+      "targetValue": 5,
+      "missingToMinimum": 4,
+      "missingToTarget": 5,
+      "bestBonus": null
+    },
+    {
+      "targetId": "default_or_enhancement_constitution",
+      "label": "Constitution",
+      "category": "primary_stat",
+      "priority": 76,
+      "status": "below_target",
+      "currentValue": 14,
+      "minimumValue": 14,
+      "targetValue": 15,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Constitution +14",
+        "stackKey": "Default:Constitution",
+        "value": 14,
+        "sourceLabel": "Diamond of Constitution +14 slotted into Legendary Lamordian Top Hat"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_magical_sheltering",
+      "label": "Magical Sheltering",
+      "category": "survivability",
+      "priority": 76,
+      "status": "below_target",
+      "currentValue": 33,
+      "minimumValue": 33,
+      "targetValue": 38,
+      "missingToMinimum": 0,
+      "missingToTarget": 5,
+      "bestBonus": {
+        "raw": "Magical Sheltering +33",
+        "stackKey": "Default:Magical Sheltering",
+        "value": 33,
+        "sourceLabel": "Legendary Belt of Sure Strikes"
+      }
+    },
+    {
+      "targetId": "default_or_enhancement_armor_piercing",
+      "label": "Armor-Piercing",
+      "category": "melee_damage",
+      "priority": 74,
+      "status": "below_target",
+      "currentValue": 23,
+      "minimumValue": 21,
+      "targetValue": 24,
+      "missingToMinimum": 0,
+      "missingToTarget": 1,
+      "bestBonus": {
+        "raw": "Armor-Piercing 23%",
+        "stackKey": "Default:Armor-Piercing",
+        "value": 23,
+        "sourceLabel": "Legendary Breaker's Bauble"
+      }
+    },
+    {
+      "targetId": "quality_doublestrike",
+      "label": "Quality Doublestrike",
+      "category": "melee_damage",
+      "priority": 72,
+      "status": "missing",
+      "currentValue": 0,
+      "minimumValue": 4,
+      "targetValue": 4,
+      "missingToMinimum": 4,
+      "missingToTarget": 4,
+      "bestBonus": null
+    }
+  ],
+  "remainingStackingConflicts": [
+    {
+      "stackKey": "Insightful:Wisdom",
+      "bonusType": "Insightful",
+      "stat": "Wisdom",
+      "winningBonus": {
+        "raw": "Insightful Wisdom +7",
+        "stackKey": "Insightful:Wisdom",
+        "value": 7,
+        "sourceType": "item",
+        "sourceLabel": "Legendary Lamordian Top Hat"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Insightful Wisdom +6",
+          "stackKey": "Insightful:Wisdom",
+          "value": 6,
+          "sourceType": "item",
+          "sourceLabel": "Perfected Goggles of Time-Sensing"
+        },
+        {
+          "raw": "Insightful Wisdom +6",
+          "stackKey": "Insightful:Wisdom",
+          "value": 6,
+          "sourceType": "item",
+          "sourceLabel": "Doctor LeRoux's Curious Implant"
+        }
+      ]
+    },
+    {
+      "stackKey": "Insightful:Physical Sheltering",
+      "bonusType": "Insightful",
+      "stat": "Physical Sheltering",
+      "winningBonus": {
+        "raw": "Insightful Physical Sheltering +18",
+        "stackKey": "Insightful:Physical Sheltering",
+        "value": 18,
+        "sourceType": "item",
+        "sourceLabel": "Legendary Lamordian Top Hat"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Insightful Physical Sheltering +17",
+          "stackKey": "Insightful:Physical Sheltering",
+          "value": 17,
+          "sourceType": "item",
+          "sourceLabel": "Legendary Architect's Cloak"
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:Fortification",
+      "bonusType": "Default",
+      "stat": "Fortification",
+      "winningBonus": {
+        "raw": "Fortification +153%",
+        "stackKey": "Default:Fortification",
+        "value": 153,
+        "sourceType": "item",
+        "sourceLabel": "Legendary Architect's Cloak"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Fortification +142%",
+          "stackKey": "Default:Fortification",
+          "value": 142,
+          "sourceType": "item",
+          "sourceLabel": "Firefly Garb"
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:Wisdom",
+      "bonusType": "Default",
+      "stat": "Wisdom",
+      "winningBonus": {
+        "raw": "Wisdom +14",
+        "stackKey": "Default:Wisdom",
+        "value": 14,
+        "sourceType": "item",
+        "sourceLabel": "Perfected Jidz-Tet'ka"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Wisdom +14",
+          "stackKey": "Default:Wisdom",
+          "value": 14,
+          "sourceType": "item",
+          "sourceLabel": "Alaric's Grim Gauntlets"
+        },
+        {
+          "raw": "Wisdom +14",
+          "stackKey": "Default:Wisdom",
+          "value": 14,
+          "sourceType": "item",
+          "sourceLabel": "Black Pearl Ring"
+        }
+      ]
+    },
+    {
+      "stackKey": "Enhancement:Weapon Enhancement",
+      "bonusType": "Enhancement",
+      "stat": "Weapon Enhancement",
+      "winningBonus": {
+        "raw": "+15 Enhancement Bonus",
+        "stackKey": "Enhancement:Weapon Enhancement",
+        "value": 15,
+        "sourceType": "item",
+        "sourceLabel": "Firefly Garb"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "+15 Enhancement Bonus",
+          "stackKey": "Enhancement:Weapon Enhancement",
+          "value": 15,
+          "sourceType": "item",
+          "sourceLabel": "Legendary Maiming Stonedust Wraps"
+        }
+      ]
+    },
+    {
+      "stackKey": "Competence:Healing Amplification",
+      "bonusType": "Competence",
+      "stat": "Healing Amplification",
+      "winningBonus": {
+        "raw": "+61 Competence bonus to Positive Healing Amplification",
+        "stackKey": "Competence:Healing Amplification",
+        "value": 61,
+        "sourceType": "crafting_augment",
+        "sourceLabel": "Dolorous Healing Amplification (Heroic) planned for Legendary Lamordian Top Hat"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Competence Healing Amplification +53",
+          "stackKey": "Competence:Healing Amplification",
+          "value": 53,
+          "sourceType": "item",
+          "sourceLabel": "Firefly Garb"
+        }
+      ]
+    },
+    {
+      "stackKey": "Default:Stunning",
+      "bonusType": "Default",
+      "stat": "Stunning",
+      "winningBonus": {
+        "raw": "Stunning +16",
+        "stackKey": "Default:Stunning",
+        "value": 16,
+        "sourceType": "augment",
+        "sourceLabel": "Sapphire of Stunning +16 slotted into Perfected Jidz-Tet'ka"
+      },
+      "suppressedBonuses": [
+        {
+          "raw": "Stunning +15",
+          "stackKey": "Default:Stunning",
+          "value": 15,
+          "sourceType": "item",
+          "sourceLabel": "Legendary Maiming Stonedust Wraps"
+        }
+      ]
+    }
+  ],
+  "swapLog": [],
+  "activeSetBonuses": [],
+  "advisorNotes": [
+    "The build is structurally valid.",
+    "The build uses 2 planned crafting augment assignment(s).",
+    "The highest-priority remaining gap is Wisdom.",
+    "There are 7 relevant stacking conflict(s) remaining."
+  ],
+  "textSummary": "Gearset Summary\n===============\nGoal: Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.\n\nCounts:\n- Met targets: 16\n- Open gaps: 30\n- Normal augment assignments: 7\n- Crafting augment assignments: 2\n- Stacking conflicts: 7\n- Relevant conflicts: 7\n\nSelected Gear:\n- head: Legendary Lamordian Top Hat\n- eyes: Perfected Goggles of Time-Sensing\n- neck: Doctor LeRoux's Curious Implant\n- trinket: Legendary Breaker's Bauble\n- back: Legendary Architect's Cloak\n- wrists: Perfected Jidz-Tet'ka\n- hands: Alaric's Grim Gauntlets\n- waist: Legendary Belt of Sure Strikes\n- feet: The Kept Descent\n- finger: Black Pearl Ring\n- armor: Firefly Garb\n- weapon: Legendary Maiming Stonedust Wraps\n\nNormal Augments:\n- Diamond of Constitution +14 into Legendary Lamordian Top Hat: Constitution +14\n- Sapphire of Dodge +14% into Perfected Goggles of Time-Sensing: Dodge +14%\n- Sapphire of Resistance +11 into Doctor LeRoux's Curious Implant: Resistance +11\n- Diamond of Festive Wisdom +2 into Legendary Breaker's Bauble: Festive Wisdom +2\n- Sapphire of Stunning +16 into Perfected Jidz-Tet'ka: Stunning +16\n- Diamond of Festive Constitution +2 into Legendary Architect's Cloak: Festive Constitution +2\n- Diamond of Insightful Constitution +5 into Perfected Goggles of Time-Sensing: Insightful Constitution +5\n\nCrafting Augments:\n- Dolorous Healing Amplification (Heroic) on Legendary Lamordian Top Hat: +61 Competence bonus to Positive Healing Amplification.\n- Melancholic False Life (Heroic) on Legendary Lamordian Top Hat: +57 Enhancement bonus to Maximum HP.\n\nTop Remaining Gaps:\n- Wisdom: current 14, minimum 14, target 15, status below_target\n- Stunning: current 16, minimum 16, target 17, status below_target\n- Combat Mastery: current 0, minimum 10, target 12, status missing\n- Insightful Combat Mastery: current 0, minimum 6, target 6, status missing\n- Insightful Stunning: current 0, minimum 6, target 6, status missing\n- PRR: current 33, minimum 33, target 38, status below_target\n- MRR: current 33, minimum 33, target 38, status below_target\n- Quality Stunning: current 0, minimum 3, target 3, status missing\n- Deadly: current 11, minimum 11, target 12, status below_target\n- Physical Sheltering: current 33, minimum 33, target 38, status below_target"
+}

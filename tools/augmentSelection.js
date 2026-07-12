@@ -1,11 +1,11 @@
 // augmentSelection.js
 
 const {
-  parseBonusEffect
+  parseBonusEffect,
 } = require('./bonusParser');
 
 const {
-  getResolvedItemEffects
+  getResolvedItemEffects,
 } = require('./selectableEffects');
 
 function normalizeText(value) {
@@ -18,7 +18,7 @@ function textBlobFromAugment(augment) {
     augment.augmentColor,
     augment.effect,
     ...(augment.effects || []),
-    ...(augment.effectsRaw || [])
+    ...(augment.effectsRaw || []),
   ]
     .join(' ')
     .toLowerCase();
@@ -28,7 +28,7 @@ function textBlobFromItem(item) {
   return [
     item.name,
     ...(item.effects || []),
-    ...(item.namedEffects || [])
+    ...(item.namedEffects || []),
   ]
     .join(' ')
     .toLowerCase();
@@ -66,16 +66,14 @@ function getItemKey(item) {
 
 function parseStackBonusesFromEffects(effects, source = null) {
   return (effects || [])
-    .map(effect => ({
+    .map((effect) => ({
       ...parseBonusEffect(effect),
-      source
+      source,
     }))
-    .filter(parsed =>
-      parsed.parsed &&
-      parsed.stackKey &&
-      parsed.value !== null &&
-      parsed.value !== undefined
-    );
+    .filter((parsed) => parsed.parsed
+      && parsed.stackKey
+      && parsed.value !== null
+      && parsed.value !== undefined);
 }
 
 function getAugmentStackBonuses(augment) {
@@ -86,8 +84,8 @@ function getAugmentStackBonuses(augment) {
     {
       type: 'augment',
       name: augment.name,
-      link: augment.link
-    }
+      link: augment.link,
+    },
   );
 }
 
@@ -102,21 +100,21 @@ function buildInitialStackState(items, buildProfile = {}) {
       {
         type: 'item',
         name: item.name,
-        itemKey: getItemKey(item)
-      }
+        itemKey: getItemKey(item),
+      },
     );
 
     for (const bonus of parsedBonuses) {
       const current = stackState.get(bonus.stackKey);
 
       if (
-        !current ||
-        Number(bonus.value) > Number(current.value)
+        !current
+        || Number(bonus.value) > Number(current.value)
       ) {
         stackState.set(bonus.stackKey, {
           value: Number(bonus.value),
           raw: bonus.raw,
-          source: bonus.source
+          source: bonus.source,
         });
       }
     }
@@ -144,13 +142,13 @@ function scoreAugmentForProfile(augment, buildProfile = {}) {
 
     // Avoid weak elemental resistance matches unless specifically requested.
     if (
-      normalizedTerm === 'resistance' &&
-      (
-        blob.includes('acid resistance') ||
-        blob.includes('cold resistance') ||
-        blob.includes('electric resistance') ||
-        blob.includes('fire resistance') ||
-        blob.includes('sonic resistance')
+      normalizedTerm === 'resistance'
+      && (
+        blob.includes('acid resistance')
+        || blob.includes('cold resistance')
+        || blob.includes('electric resistance')
+        || blob.includes('fire resistance')
+        || blob.includes('sonic resistance')
       )
     ) {
       continue;
@@ -171,12 +169,12 @@ function scoreAugmentForProfile(augment, buildProfile = {}) {
   const stackBonuses = getAugmentStackBonuses(augment);
 
   if (matchedPriority || matchedSecondary) {
-  for (const bonus of stackBonuses) {
-    if (bonus.value !== null && bonus.value !== undefined) {
-      score += Number(bonus.value) * 0.25;
+    for (const bonus of stackBonuses) {
+      if (bonus.value !== null && bonus.value !== undefined) {
+        score += Number(bonus.value) * 0.25;
+      }
     }
   }
-}
 
   // Only reward higher-level augments if they matched the build profile.
   if (matchedPriority || matchedSecondary) {
@@ -196,11 +194,11 @@ function isElementalResistanceText(text) {
   const normalized = normalizeText(text);
 
   return (
-    normalized.includes('acid resistance') ||
-    normalized.includes('cold resistance') ||
-    normalized.includes('electric resistance') ||
-    normalized.includes('fire resistance') ||
-    normalized.includes('sonic resistance')
+    normalized.includes('acid resistance')
+    || normalized.includes('cold resistance')
+    || normalized.includes('electric resistance')
+    || normalized.includes('fire resistance')
+    || normalized.includes('sonic resistance')
   );
 }
 
@@ -211,12 +209,10 @@ function isLikelyRedundantWithItem(augment, item) {
 
   if (augmentBonuses.length > 0 && itemBonuses.length > 0) {
     const itemStackKeys = new Set(
-      itemBonuses.map(bonus => bonus.stackKey)
+      itemBonuses.map((bonus) => bonus.stackKey),
     );
 
-    return augmentBonuses.some(bonus =>
-      itemStackKeys.has(bonus.stackKey)
-    );
+    return augmentBonuses.some((bonus) => itemStackKeys.has(bonus.stackKey));
   }
 
   const augmentBlob = textBlobFromAugment(augment);
@@ -240,13 +236,13 @@ function isLikelyRedundantWithItem(augment, item) {
     'mrr',
     'sheltering',
     'resistance',
-    'fortification'
+    'fortification',
   ];
 
   for (const stat of commonStats) {
     if (
-      augmentBlob.includes(stat) &&
-      itemBlob.includes(stat)
+      augmentBlob.includes(stat)
+      && itemBlob.includes(stat)
     ) {
       return true;
     }
@@ -258,7 +254,7 @@ function isLikelyRedundantWithItem(augment, item) {
 function candidateHasUsefulUnblockedStackBonus({
   stackBonuses,
   stackState,
-  allowRedundant
+  allowRedundant,
 }) {
   if (allowRedundant) {
     return true;
@@ -270,7 +266,7 @@ function candidateHasUsefulUnblockedStackBonus({
     return true;
   }
 
-  return stackBonuses.some(bonus => {
+  return stackBonuses.some((bonus) => {
     const existing = stackState.get(bonus.stackKey);
 
     if (!existing) {
@@ -286,13 +282,13 @@ function updateStackStateWithAugment(stackState, stackBonuses) {
     const current = stackState.get(bonus.stackKey);
 
     if (
-      !current ||
-      Number(bonus.value) > Number(current.value)
+      !current
+      || Number(bonus.value) > Number(current.value)
     ) {
       stackState.set(bonus.stackKey, {
         value: Number(bonus.value),
         raw: bonus.raw,
-        source: bonus.source
+        source: bonus.source,
       });
     }
   }
@@ -308,8 +304,8 @@ function normalizeSlotGroupsForItem(item, augmentCandidateGroups) {
   // Direct item group object:
   // { itemKey, augmentCandidates: [...] }
   if (
-    !Array.isArray(augmentCandidateGroups) &&
-    Array.isArray(augmentCandidateGroups.augmentCandidates)
+    !Array.isArray(augmentCandidateGroups)
+    && Array.isArray(augmentCandidateGroups.augmentCandidates)
   ) {
     return augmentCandidateGroups.augmentCandidates;
   }
@@ -317,9 +313,9 @@ function normalizeSlotGroupsForItem(item, augmentCandidateGroups) {
   // Direct slot group object:
   // { itemKey, slotColor, candidates: [...] }
   if (
-    !Array.isArray(augmentCandidateGroups) &&
-    augmentCandidateGroups.slotColor &&
-    Array.isArray(augmentCandidateGroups.candidates)
+    !Array.isArray(augmentCandidateGroups)
+    && augmentCandidateGroups.slotColor
+    && Array.isArray(augmentCandidateGroups.candidates)
   ) {
     return [augmentCandidateGroups];
   }
@@ -330,16 +326,14 @@ function normalizeSlotGroupsForItem(item, augmentCandidateGroups) {
 
   // Single item test case:
   // [ { slotColor, candidates }, ... ]
-  const directSlotGroups = augmentCandidateGroups.filter(group =>
-    group &&
-    group.slotColor &&
-    Array.isArray(group.candidates) &&
-    (
-      !group.itemKey ||
-      group.itemKey === itemKey ||
-      group.itemName === item.name
-    )
-  );
+  const directSlotGroups = augmentCandidateGroups.filter((group) => group
+    && group.slotColor
+    && Array.isArray(group.candidates)
+    && (
+      !group.itemKey
+      || group.itemKey === itemKey
+      || group.itemName === item.name
+    ));
 
   if (directSlotGroups.length > 0) {
     return directSlotGroups;
@@ -347,14 +341,12 @@ function normalizeSlotGroupsForItem(item, augmentCandidateGroups) {
 
   // Multi-item case:
   // [ { itemKey, augmentCandidates: [...] }, ... ]
-  const itemGroup = augmentCandidateGroups.find(group =>
-    group &&
-    Array.isArray(group.augmentCandidates) &&
-    (
-      group.itemKey === itemKey ||
-      group.itemName === item.name
-    )
-  );
+  const itemGroup = augmentCandidateGroups.find((group) => group
+    && Array.isArray(group.augmentCandidates)
+    && (
+      group.itemKey === itemKey
+      || group.itemName === item.name
+    ));
 
   if (itemGroup) {
     return itemGroup.augmentCandidates;
@@ -370,7 +362,7 @@ function chooseBestAugmentForSlot({
   usedAugmentKeys,
   stackState,
   allowRedundant = false,
-  minimumScore = 10
+  minimumScore = 10,
 }) {
   const candidates = slotCandidateGroup.candidates || [];
 
@@ -379,7 +371,7 @@ function chooseBestAugmentForSlot({
   }
 
   const scoredCandidates = candidates
-    .map(augment => {
+    .map((augment) => {
       let score = scoreAugmentForProfile(augment, buildProfile);
       const stackBonuses = getAugmentStackBonuses(augment);
 
@@ -391,7 +383,7 @@ function chooseBestAugmentForSlot({
         !candidateHasUsefulUnblockedStackBonus({
           stackBonuses,
           stackState,
-          allowRedundant
+          allowRedundant,
         })
       ) {
         score -= 1000;
@@ -404,10 +396,10 @@ function chooseBestAugmentForSlot({
       return {
         augment,
         score,
-        stackBonuses
+        stackBonuses,
       };
     })
-    .filter(entry => entry.score >= minimumScore)
+    .filter((entry) => entry.score >= minimumScore)
     .sort((a, b) => b.score - a.score);
 
   if (scoredCandidates.length === 0) {
@@ -427,23 +419,23 @@ function selectAugmentsForItem({
   augmentCandidatesForItem,
   buildProfile,
   usedAugmentKeys = new Set(),
-  allowRedundant = false
+  allowRedundant = false,
 }) {
   const stackState = buildInitialStackState(
     [item],
-    buildProfile
+    buildProfile,
   );
 
   const slotGroups = normalizeSlotGroupsForItem(
     item,
-    augmentCandidatesForItem
+    augmentCandidatesForItem,
   );
 
   const selectedAugments = [];
   const openSlots = [];
 
   for (const slotCandidateGroup of slotGroups) {
-    const slotColor = slotCandidateGroup.slotColor;
+    const { slotColor } = slotCandidateGroup;
 
     const chosenAugment = chooseBestAugmentForSlot({
       item,
@@ -451,13 +443,13 @@ function selectAugmentsForItem({
       buildProfile,
       usedAugmentKeys,
       stackState,
-      allowRedundant
+      allowRedundant,
     });
 
     if (!chosenAugment) {
       openSlots.push({
         slotColor,
-        reason: 'No strong non-duplicate non-suppressed candidate found.'
+        reason: 'No strong non-duplicate non-suppressed candidate found.',
       });
 
       continue;
@@ -471,8 +463,8 @@ function selectAugmentsForItem({
         augmentColor: chosenAugment.augmentColor,
         minLevel: chosenAugment.minLevel,
         effect: extractEffectText(chosenAugment),
-        binding: chosenAugment.binding || null
-      }
+        binding: chosenAugment.binding || null,
+      },
     });
   }
 
@@ -480,14 +472,14 @@ function selectAugmentsForItem({
     itemName: item.name,
     itemKey: getItemKey(item),
     selectedAugments,
-    openSlots
+    openSlots,
   };
 }
 
 function collectGlobalAugmentOptions({
   items,
   augmentCandidateGroups,
-  buildProfile
+  buildProfile,
 }) {
   const options = [];
 
@@ -496,11 +488,11 @@ function collectGlobalAugmentOptions({
 
     const slotGroups = normalizeSlotGroupsForItem(
       item,
-      augmentCandidateGroups
+      augmentCandidateGroups,
     );
 
     slotGroups.forEach((slotCandidateGroup, slotIndex) => {
-      const slotColor = slotCandidateGroup.slotColor;
+      const { slotColor } = slotCandidateGroup;
       const candidates = slotCandidateGroup.candidates || [];
       const slotId = `${itemKey}::${slotColor}::${slotIndex}`;
 
@@ -517,8 +509,8 @@ function collectGlobalAugmentOptions({
           stackBonuses,
           score: scoreAugmentForProfile(
             augment,
-            buildProfile
-          )
+            buildProfile,
+          ),
         });
       }
     });
@@ -532,7 +524,7 @@ function createEmptyResultForItem(item) {
     itemName: item.name,
     itemKey: getItemKey(item),
     selectedAugments: [],
-    openSlots: []
+    openSlots: [],
   };
 }
 
@@ -540,7 +532,7 @@ function selectAugmentsForItems({
   items,
   augmentCandidateGroups,
   buildProfile,
-  allowRedundant = false
+  allowRedundant = false,
 }) {
   const resultsByItemKey = new Map();
   const selectedSlotIds = new Set();
@@ -548,22 +540,22 @@ function selectAugmentsForItems({
 
   const stackState = buildInitialStackState(
     items,
-    buildProfile
+    buildProfile,
   );
 
   for (const item of items || []) {
     resultsByItemKey.set(
       getItemKey(item),
-      createEmptyResultForItem(item)
+      createEmptyResultForItem(item),
     );
   }
 
   const options = collectGlobalAugmentOptions({
     items,
     augmentCandidateGroups,
-    buildProfile
+    buildProfile,
   })
-    .filter(option => option.score >= 10)
+    .filter((option) => option.score >= 10)
     .sort((a, b) => b.score - a.score);
 
   for (const option of options) {
@@ -581,7 +573,7 @@ function selectAugmentsForItems({
       !candidateHasUsefulUnblockedStackBonus({
         stackBonuses: option.stackBonuses,
         stackState,
-        allowRedundant
+        allowRedundant,
       })
     ) {
       continue;
@@ -598,7 +590,7 @@ function selectAugmentsForItems({
 
     updateStackStateWithAugment(
       stackState,
-      option.stackBonuses
+      option.stackBonuses,
     );
 
     result.selectedAugments.push({
@@ -609,8 +601,8 @@ function selectAugmentsForItems({
         augmentColor: option.augment.augmentColor,
         minLevel: option.augment.minLevel,
         effect: extractEffectText(option.augment),
-        binding: option.augment.binding || null
-      }
+        binding: option.augment.binding || null,
+      },
     });
   }
 
@@ -625,14 +617,14 @@ function selectAugmentsForItems({
 
     const slotGroups = normalizeSlotGroupsForItem(
       item,
-      augmentCandidateGroups
+      augmentCandidateGroups,
     );
 
     if (slotGroups.length === 0) {
       for (const slotColor of item.augmentSlots || []) {
         result.openSlots.push({
           slotColor,
-          reason: 'No augment candidates were provided for this item.'
+          reason: 'No augment candidates were provided for this item.',
         });
       }
 
@@ -640,13 +632,13 @@ function selectAugmentsForItems({
     }
 
     slotGroups.forEach((slotCandidateGroup, slotIndex) => {
-      const slotColor = slotCandidateGroup.slotColor;
+      const { slotColor } = slotCandidateGroup;
       const slotId = `${itemKey}::${slotColor}::${slotIndex}`;
 
       if (!selectedSlotIds.has(slotId)) {
         result.openSlots.push({
           slotColor,
-          reason: 'No strong non-duplicate non-suppressed candidate found.'
+          reason: 'No strong non-duplicate non-suppressed candidate found.',
         });
       }
     });
@@ -663,5 +655,5 @@ module.exports = {
 
   // Exported for tests/debugging
   getAugmentStackBonuses,
-  buildInitialStackState
+  buildInitialStackState,
 };

@@ -3,7 +3,7 @@
 const {
   loadAllItems,
   searchItems,
-  compactItemForAI
+  compactItemForAI,
 } = require('../tools/gearsearch');
 
 const items = loadAllItems();
@@ -17,14 +17,14 @@ const wisdomEyes = searchItems(items, {
   priorityTerms: [
     'Wisdom',
     'Insightful Wisdom',
-    'Quality Wisdom'
+    'Quality Wisdom',
   ],
   secondaryTerms: [
     'Blue Augment Slot',
     'Green Augment Slot',
-    'set'
+    'set',
   ],
-  limit: 10
+  limit: 10,
 });
 
 const compactResults = wisdomEyes.map(compactItemForAI);

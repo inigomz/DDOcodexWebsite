@@ -2,7 +2,7 @@ import React, {
   useEffect,
   useRef,
   useState,
-  useCallback
+  useCallback,
 } from 'react';
 import { animate, createTimeline } from 'animejs';
 import styles from './DDOChatbot.module.css';
@@ -13,7 +13,7 @@ const MAX_HISTORY_TURNS = 10;
 const INITIAL_GREETING = {
   role: 'assistant',
   content:
-    "Hey adventurer. I'm the DDO Codex Assistant — ask me anything about Dungeons & Dragons Online: builds, gear, quests, mechanics, set bonuses, you name it."
+    "Hey adventurer. I'm the DDO Codex Assistant — ask me anything about Dungeons & Dragons Online: builds, gear, quests, mechanics, set bonuses, you name it.",
 };
 
 export default function DDOChatbot() {
@@ -44,7 +44,7 @@ export default function DDOChatbot() {
 
     const tl = createTimeline({
       loop: true,
-      defaults: { ease: 'inOutSine' }
+      defaults: { ease: 'inOutSine' },
     });
 
     tl.add(fabRef.current, {
@@ -52,9 +52,9 @@ export default function DDOChatbot() {
       boxShadow: [
         '0 6px 20px rgba(124, 106, 247, 0.35)',
         '0 8px 28px rgba(124, 106, 247, 0.65)',
-        '0 6px 20px rgba(124, 106, 247, 0.35)'
+        '0 6px 20px rgba(124, 106, 247, 0.35)',
       ],
-      duration: 2200
+      duration: 2200,
     });
 
     if (fabIconRef.current) {
@@ -62,9 +62,9 @@ export default function DDOChatbot() {
         fabIconRef.current,
         {
           rotate: [0, 8, -8, 0],
-          duration: 2200
+          duration: 2200,
         },
-        0 // start at the same time as the scale tween
+        0, // start at the same time as the scale tween
       );
     }
 
@@ -82,7 +82,7 @@ export default function DDOChatbot() {
     animate(fabRef.current, {
       scale: 1.12,
       duration: 220,
-      ease: 'outBack(1.6)'
+      ease: 'outBack(1.6)',
     });
   }, [open]);
 
@@ -91,7 +91,7 @@ export default function DDOChatbot() {
     animate(fabRef.current, {
       scale: 1,
       duration: 260,
-      ease: 'outQuad'
+      ease: 'outQuad',
     });
   }, [open]);
 
@@ -101,17 +101,17 @@ export default function DDOChatbot() {
       animate(fabIconRef.current, {
         rotate: open ? '-=180' : '+=180',
         duration: 380,
-        ease: 'outBack(1.6)'
+        ease: 'outBack(1.6)',
       });
     }
     if (fabRef.current) {
       animate(fabRef.current, {
         scale: [1, 0.9, 1],
         duration: 320,
-        ease: 'inOutQuad'
+        ease: 'inOutQuad',
       });
     }
-    setOpen(prev => !prev);
+    setOpen((prev) => !prev);
   }, [open]);
 
   // ── Animate panel in/out ──
@@ -124,20 +124,19 @@ export default function DDOChatbot() {
         translateY: [16, 0],
         scale: [0.96, 1],
         duration: 280,
-        ease: 'outCubic'
+        ease: 'outCubic',
       });
       // focus the input shortly after the panel opens
       const t = setTimeout(() => inputRef.current?.focus(), 320);
       return () => clearTimeout(t);
-    } else {
-      animate(panelRef.current, {
-        opacity: [1, 0],
-        translateY: [0, 16],
-        scale: [1, 0.96],
-        duration: 200,
-        ease: 'inCubic'
-      });
     }
+    animate(panelRef.current, {
+      opacity: [1, 0],
+      translateY: [0, 16],
+      scale: [1, 0.96],
+      duration: 200,
+      ease: 'inCubic',
+    });
   }, [open]);
 
   // ── Auto-scroll messages on new content ──
@@ -162,7 +161,7 @@ export default function DDOChatbot() {
         .slice(-MAX_HISTORY_TURNS);
 
       const userMsg = { role: 'user', content: trimmed };
-      setMessages(prev => [...prev, userMsg]);
+      setMessages((prev) => [...prev, userMsg]);
 
       try {
         const res = await fetch(CHAT_URL, {
@@ -170,8 +169,8 @@ export default function DDOChatbot() {
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
             message: trimmed,
-            history: priorTurns
-          })
+            history: priorTurns,
+          }),
         });
 
         const data = await res.json();
@@ -181,22 +180,22 @@ export default function DDOChatbot() {
         }
 
         const reply = data.reply || 'No response.';
-        setMessages(prev => [...prev, { role: 'assistant', content: reply }]);
+        setMessages((prev) => [...prev, { role: 'assistant', content: reply }]);
       } catch (err) {
         setError(err.message);
-        setMessages(prev => [
+        setMessages((prev) => [
           ...prev,
           {
             role: 'assistant',
-            content: "Something went wrong on my end. Try again in a moment.",
-            isError: true
-          }
+            content: 'Something went wrong on my end. Try again in a moment.',
+            isError: true,
+          },
         ]);
       } finally {
         setSending(false);
       }
     },
-    [messages, sending]
+    [messages, sending],
   );
 
   function handleSubmit(e) {
@@ -269,7 +268,7 @@ export default function DDOChatbot() {
             ref={inputRef}
             className={styles.input}
             value={input}
-            onChange={e => setInput(e.target.value)}
+            onChange={(e) => setInput(e.target.value)}
             onKeyDown={handleKeyDown}
             placeholder="Ask anything about DDO…"
             rows={1}

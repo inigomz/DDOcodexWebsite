@@ -1,11 +1,11 @@
 // augmentImpact.js
 
 const {
-  parseBonusEffect
+  parseBonusEffect,
 } = require('./bonusParser');
 
 const {
-  getResolvedItemEffects
+  getResolvedItemEffects,
 } = require('./selectableEffects');
 
 function getItemKey(item) {
@@ -34,16 +34,14 @@ function getAugmentEffects(augment) {
 
 function parseStackBonusesFromEffects(effects, source) {
   return (effects || [])
-    .map(effect => ({
+    .map((effect) => ({
       ...parseBonusEffect(effect),
-      source
+      source,
     }))
-    .filter(bonus =>
-      bonus.parsed &&
-      bonus.stackKey &&
-      bonus.value !== null &&
-      bonus.value !== undefined
-    );
+    .filter((bonus) => bonus.parsed
+      && bonus.stackKey
+      && bonus.value !== null
+      && bonus.value !== undefined);
 }
 
 function collectGearBonuses(equippedItems = [], buildProfile = {}) {
@@ -58,8 +56,8 @@ function collectGearBonuses(equippedItems = [], buildProfile = {}) {
         type: 'item',
         name: item.name,
         itemKey: getItemKey(item),
-        slot: item.slot
-      }
+        slot: item.slot,
+      },
     );
 
     bonuses.push(...parsed);
@@ -73,7 +71,7 @@ function collectSelectedAugmentBonuses(selectedAugments = []) {
 
   for (const itemSelection of selectedAugments || []) {
     for (const selected of itemSelection.selectedAugments || []) {
-      const augment = selected.augment;
+      const { augment } = selected;
 
       const effects = getAugmentEffects(augment);
 
@@ -85,15 +83,15 @@ function collectSelectedAugmentBonuses(selectedAugments = []) {
           itemKey: itemSelection.itemKey,
           slotColor: selected.slotColor,
           name: augment.name,
-          link: augment.link
-        }
+          link: augment.link,
+        },
       );
 
       for (const bonus of parsed) {
         bonuses.push({
           ...bonus,
           selectedAugment: selected,
-          itemSelection
+          itemSelection,
         });
       }
     }
@@ -166,7 +164,7 @@ function compactBonus(bonus) {
     value: bonus.value,
     valueText: bonus.valueText,
     source: bonus.source,
-    sourceLabel: getSourceLabel(bonus)
+    sourceLabel: getSourceLabel(bonus),
   };
 }
 
@@ -178,7 +176,7 @@ function classifyAugmentBonusAgainstGear(augmentBonus, gearBonusesForStack = [])
       impactType: 'adds_new_stack_family',
       message: `${augmentBonus.raw} adds a new stack family: ${augmentBonus.stackKey}.`,
       bestGearBonus: null,
-      suppressedGearBonuses: []
+      suppressedGearBonuses: [],
     };
   }
 
@@ -187,15 +185,13 @@ function classifyAugmentBonusAgainstGear(augmentBonus, gearBonusesForStack = [])
 
   if (augmentValue > bestGearValue) {
     const suppressedGearBonuses = gearBonusesForStack
-      .filter(gearBonus =>
-        Number(gearBonus.value) <= augmentValue
-      );
+      .filter((gearBonus) => Number(gearBonus.value) <= augmentValue);
 
     return {
       impactType: 'upgrades_existing_gear_bonus',
       message: `${augmentBonus.raw} upgrades ${bestGearBonus.raw} for ${augmentBonus.stackKey}.`,
       bestGearBonus,
-      suppressedGearBonuses
+      suppressedGearBonuses,
     };
   }
 
@@ -204,7 +200,7 @@ function classifyAugmentBonusAgainstGear(augmentBonus, gearBonusesForStack = [])
       impactType: 'duplicates_existing_gear_bonus',
       message: `${augmentBonus.raw} duplicates ${bestGearBonus.raw} for ${augmentBonus.stackKey}.`,
       bestGearBonus,
-      suppressedGearBonuses: []
+      suppressedGearBonuses: [],
     };
   }
 
@@ -212,17 +208,17 @@ function classifyAugmentBonusAgainstGear(augmentBonus, gearBonusesForStack = [])
     impactType: 'suppressed_by_existing_gear_bonus',
     message: `${augmentBonus.raw} is suppressed by ${bestGearBonus.raw} for ${augmentBonus.stackKey}.`,
     bestGearBonus,
-    suppressedGearBonuses: []
+    suppressedGearBonuses: [],
   };
 }
 
 function buildFinalStackSummary({
   gearBonuses,
-  augmentBonuses
+  augmentBonuses,
 }) {
   const allBonuses = [
     ...(gearBonuses || []),
-    ...(augmentBonuses || [])
+    ...(augmentBonuses || []),
   ];
 
   const groups = groupBonusesByStackKey(allBonuses);
@@ -240,7 +236,7 @@ function buildFinalStackSummary({
     summaries.push({
       stackKey,
       winningBonus: compactBonus(winningBonus),
-      suppressedBonuses: suppressedBonuses.map(compactBonus)
+      suppressedBonuses: suppressedBonuses.map(compactBonus),
     });
   }
 
@@ -250,26 +246,25 @@ function buildFinalStackSummary({
 function analyzeAugmentImpact({
   equippedItems,
   selectedAugments = [],
-  buildProfile = {}
+  buildProfile = {},
 }) {
   const gearBonuses = collectGearBonuses(
     equippedItems,
-    buildProfile
+    buildProfile,
   );
 
   const augmentBonuses = collectSelectedAugmentBonuses(
-    selectedAugments
+    selectedAugments,
   );
 
   const gearBonusesByStackKey = groupBonusesByStackKey(gearBonuses);
 
-  const augmentImpacts = augmentBonuses.map(augmentBonus => {
-    const gearBonusesForStack =
-      gearBonusesByStackKey.get(augmentBonus.stackKey) || [];
+  const augmentImpacts = augmentBonuses.map((augmentBonus) => {
+    const gearBonusesForStack = gearBonusesByStackKey.get(augmentBonus.stackKey) || [];
 
     const classification = classifyAugmentBonusAgainstGear(
       augmentBonus,
-      gearBonusesForStack
+      gearBonusesForStack,
     );
 
     return {
@@ -288,39 +283,39 @@ function analyzeAugmentImpact({
       message: classification.message,
 
       bestExistingGearBonus: compactBonus(
-        classification.bestGearBonus
+        classification.bestGearBonus,
       ),
 
       suppressedGearBonuses:
-        classification.suppressedGearBonuses.map(compactBonus)
+        classification.suppressedGearBonuses.map(compactBonus),
     };
   });
 
   const finalStackSummary = buildFinalStackSummary({
     gearBonuses,
-    augmentBonuses
+    augmentBonuses,
   });
 
   const counts = {
     totalSelectedAugmentBonuses: augmentImpacts.length,
     addsNewStackFamily: augmentImpacts.filter(
-      impact => impact.impactType === 'adds_new_stack_family'
+      (impact) => impact.impactType === 'adds_new_stack_family',
     ).length,
     upgradesExistingGearBonus: augmentImpacts.filter(
-      impact => impact.impactType === 'upgrades_existing_gear_bonus'
+      (impact) => impact.impactType === 'upgrades_existing_gear_bonus',
     ).length,
     duplicatesExistingGearBonus: augmentImpacts.filter(
-      impact => impact.impactType === 'duplicates_existing_gear_bonus'
+      (impact) => impact.impactType === 'duplicates_existing_gear_bonus',
     ).length,
     suppressedByExistingGearBonus: augmentImpacts.filter(
-      impact => impact.impactType === 'suppressed_by_existing_gear_bonus'
-    ).length
+      (impact) => impact.impactType === 'suppressed_by_existing_gear_bonus',
+    ).length,
   };
 
   return {
     counts,
     augmentImpacts,
-    finalStackSummary
+    finalStackSummary,
   };
 }
 
@@ -328,7 +323,7 @@ function compactAugmentImpactForAI(impactResult) {
   return {
     counts: impactResult.counts,
 
-    augmentImpacts: (impactResult.augmentImpacts || []).map(impact => ({
+    augmentImpacts: (impactResult.augmentImpacts || []).map((impact) => ({
       augment: impact.augment,
       itemName: impact.itemName,
       slotColor: impact.slotColor,
@@ -338,27 +333,27 @@ function compactAugmentImpactForAI(impactResult) {
       message: impact.message,
       bestExistingGearBonus: impact.bestExistingGearBonus
         ? {
-            raw: impact.bestExistingGearBonus.raw,
-            sourceLabel: impact.bestExistingGearBonus.sourceLabel
-          }
+          raw: impact.bestExistingGearBonus.raw,
+          sourceLabel: impact.bestExistingGearBonus.sourceLabel,
+        }
         : null,
-      suppressedGearBonuses: (impact.suppressedGearBonuses || []).map(bonus => ({
+      suppressedGearBonuses: (impact.suppressedGearBonuses || []).map((bonus) => ({
         raw: bonus.raw,
-        sourceLabel: bonus.sourceLabel
-      }))
+        sourceLabel: bonus.sourceLabel,
+      })),
     })),
 
-    finalStackSummary: (impactResult.finalStackSummary || []).map(summary => ({
+    finalStackSummary: (impactResult.finalStackSummary || []).map((summary) => ({
       stackKey: summary.stackKey,
       winningBonus: {
         raw: summary.winningBonus.raw,
-        sourceLabel: summary.winningBonus.sourceLabel
+        sourceLabel: summary.winningBonus.sourceLabel,
       },
-      suppressedBonuses: summary.suppressedBonuses.map(bonus => ({
+      suppressedBonuses: summary.suppressedBonuses.map((bonus) => ({
         raw: bonus.raw,
-        sourceLabel: bonus.sourceLabel
-      }))
-    }))
+        sourceLabel: bonus.sourceLabel,
+      })),
+    })),
   };
 }
 
@@ -369,5 +364,5 @@ module.exports = {
   collectGearBonuses,
   collectSelectedAugmentBonuses,
   classifyAugmentBonusAgainstGear,
-  buildFinalStackSummary
+  buildFinalStackSummary,
 };

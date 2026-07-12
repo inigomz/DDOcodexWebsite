@@ -25,9 +25,9 @@ function getTargetPriority(entry = {}) {
   const target = getTargetFromCoverageEntry(entry);
 
   return numberOrDefault(
-    target.priority ??
-    entry.priority,
-    50
+    target.priority
+    ?? entry.priority,
+    50,
   );
 }
 
@@ -48,9 +48,9 @@ function getMissingToTarget(entry = {}) {
     0,
     numberOrDefault(
       entry.missingToTarget,
-      numberOrDefault(entry.targetValue, 0) -
-        numberOrDefault(entry.currentValue, 0)
-    )
+      numberOrDefault(entry.targetValue, 0)
+        - numberOrDefault(entry.currentValue, 0),
+    ),
   );
 }
 
@@ -59,9 +59,9 @@ function getMissingToMinimum(entry = {}) {
     0,
     numberOrDefault(
       entry.missingToMinimum,
-      numberOrDefault(entry.minimumValue, 0) -
-        numberOrDefault(entry.currentValue, 0)
-    )
+      numberOrDefault(entry.minimumValue, 0)
+        - numberOrDefault(entry.currentValue, 0),
+    ),
   );
 }
 
@@ -93,7 +93,7 @@ function getCategoryMultiplier(category) {
   }
 
   if (normalized === 'set_bonus') {
-    return .55;
+    return 0.55;
   }
 
   return 1.0;
@@ -121,8 +121,8 @@ function isIntentionalAugmentUpgrade(conflict = {}) {
   const suppressedBonuses = conflict.suppressedBonuses || [];
 
   if (
-    winningSource !== 'augment' &&
-    winningSource !== 'crafting_augment'
+    winningSource !== 'augment'
+    && winningSource !== 'crafting_augment'
   ) {
     return false;
   }
@@ -131,12 +131,11 @@ function isIntentionalAugmentUpgrade(conflict = {}) {
     return false;
   }
 
-  const allSuppressedAreBaseSources =
-    suppressedBonuses.every(bonus => {
-      const type = bonus.source?.type;
+  const allSuppressedAreBaseSources = suppressedBonuses.every((bonus) => {
+    const type = bonus.source?.type;
 
-      return type === 'item' || type === 'set_bonus';
-    });
+    return type === 'item' || type === 'set_bonus';
+  });
 
   if (!allSuppressedAreBaseSources) {
     return false;
@@ -144,13 +143,11 @@ function isIntentionalAugmentUpgrade(conflict = {}) {
 
   const winningValue = numberOrDefault(
     conflict.winningBonus?.value,
-    0
+    0,
   );
 
   const bestSuppressedValue = Math.max(
-    ...suppressedBonuses.map(bonus =>
-      numberOrDefault(bonus.value, 0)
-    )
+    ...suppressedBonuses.map((bonus) => numberOrDefault(bonus.value, 0)),
   );
 
   return winningValue >= bestSuppressedValue;
@@ -171,9 +168,7 @@ function countRelevantConflicts(stackingConflicts = []) {
 }
 
 function getRelevantConflicts(stackingConflicts = []) {
-  return (stackingConflicts || []).filter(conflict =>
-    !isIntentionalAugmentUpgrade(conflict)
-  );
+  return (stackingConflicts || []).filter((conflict) => !isIntentionalAugmentUpgrade(conflict));
 }
 
 function getTargetStackKeys(target = {}) {
@@ -181,7 +176,7 @@ function getTargetStackKeys(target = {}) {
     target.stackKey,
     ...(target.stackKeys || []),
     ...(target.acceptedStackKeys || []),
-    ...(target.alternateStackKeys || [])
+    ...(target.alternateStackKeys || []),
   ].filter(Boolean);
 }
 
@@ -192,9 +187,7 @@ function getPriorityForStackKey(finalGapPlan, stackKey) {
 
   const targets = finalGapPlan.targets || [];
 
-  const matchingTarget = targets.find(target =>
-    getTargetStackKeys(target).includes(stackKey)
-  );
+  const matchingTarget = targets.find((target) => getTargetStackKeys(target).includes(stackKey));
 
   if (matchingTarget) {
     return numberOrDefault(matchingTarget.priority, 50);
@@ -205,10 +198,10 @@ function getPriorityForStackKey(finalGapPlan, stackKey) {
     ...(finalGapPlan.openGaps || []),
     ...(finalGapPlan.metTargets || []),
     ...(finalGapPlan.underfilledTargets || []),
-    ...(finalGapPlan.missingTargets || [])
+    ...(finalGapPlan.missingTargets || []),
   ];
 
-  const matchingCoverage = coverageEntries.find(entry => {
+  const matchingCoverage = coverageEntries.find((entry) => {
     const target = getTargetFromCoverageEntry(entry);
 
     return getTargetStackKeys(target).includes(stackKey);
@@ -224,10 +217,9 @@ function getPriorityForStackKey(finalGapPlan, stackKey) {
 function calculateWeightedGapPenalty(finalGapPlan, options = {}) {
   const openGaps = finalGapPlan?.openGaps || [];
 
-  const baseGapPenalty =
-    options.baseGapPenalty === undefined
-      ? 4.5
-      : options.baseGapPenalty;
+  const baseGapPenalty = options.baseGapPenalty === undefined
+    ? 4.5
+    : options.baseGapPenalty;
 
   let totalPenalty = 0;
   const gapDetails = [];
@@ -241,31 +233,27 @@ function calculateWeightedGapPenalty(finalGapPlan, options = {}) {
     const missingToMinimum = getMissingToMinimum(gap);
 
     const priorityFactor = priority / 10;
-    const missingFactor =
-      1 +
-      missingToTarget * 0.6 +
-      missingToMinimum * 0.9;
+    const missingFactor = 1
+      + missingToTarget * 0.6
+      + missingToMinimum * 0.9;
 
-    const categoryMultiplier =
-      getCategoryMultiplier(category);
+    const categoryMultiplier = getCategoryMultiplier(category);
 
-    const statusMultiplier =
-      getStatusMultiplier(status);
+    const statusMultiplier = getStatusMultiplier(status);
 
-    const penalty =
-      baseGapPenalty *
-      priorityFactor *
-      missingFactor *
-      categoryMultiplier *
-      statusMultiplier;
+    const penalty = baseGapPenalty
+      * priorityFactor
+      * missingFactor
+      * categoryMultiplier
+      * statusMultiplier;
 
     totalPenalty += penalty;
 
     gapDetails.push({
       targetId:
-        gap.target?.id ||
-        gap.targetId ||
-        null,
+        gap.target?.id
+        || gap.targetId
+        || null,
       label: getTargetLabel(gap),
       category,
       status,
@@ -275,56 +263,51 @@ function calculateWeightedGapPenalty(finalGapPlan, options = {}) {
       targetValue: gap.targetValue,
       missingToMinimum,
       missingToTarget,
-      penalty
+      penalty,
     });
   }
 
   return {
     totalPenalty,
-    gapDetails: gapDetails.sort((a, b) => b.penalty - a.penalty)
+    gapDetails: gapDetails.sort((a, b) => b.penalty - a.penalty),
   };
 }
 
 function calculateConflictPenalty({
   validationResult,
   finalGapPlan,
-  options = {}
+  options = {},
 }) {
   const conflicts = getRelevantConflicts(
-    validationResult?.stackingConflicts || []
+    validationResult?.stackingConflicts || [],
   );
 
-  const baseConflictPenalty =
-    options.baseConflictPenalty === undefined
-      ? 10
-      : options.baseConflictPenalty;
+  const baseConflictPenalty = options.baseConflictPenalty === undefined
+    ? 10
+    : options.baseConflictPenalty;
 
-  const suppressedBonusPenalty =
-    options.suppressedBonusPenalty === undefined
-      ? 6
-      : options.suppressedBonusPenalty;
+  const suppressedBonusPenalty = options.suppressedBonusPenalty === undefined
+    ? 6
+    : options.suppressedBonusPenalty;
 
-  const priorityConflictWeight =
-    options.priorityConflictWeight === undefined
-      ? 0.22
-      : options.priorityConflictWeight;
+  const priorityConflictWeight = options.priorityConflictWeight === undefined
+    ? 0.22
+    : options.priorityConflictWeight;
 
   let totalPenalty = 0;
   const conflictDetails = [];
 
   for (const conflict of conflicts) {
-    const suppressedCount =
-      (conflict.suppressedBonuses || []).length;
+    const suppressedCount = (conflict.suppressedBonuses || []).length;
 
     const priority = getPriorityForStackKey(
       finalGapPlan,
-      conflict.stackKey
+      conflict.stackKey,
     );
 
-    const penalty =
-      baseConflictPenalty +
-      suppressedCount * suppressedBonusPenalty +
-      priority * priorityConflictWeight;
+    const penalty = baseConflictPenalty
+      + suppressedCount * suppressedBonusPenalty
+      + priority * priorityConflictWeight;
 
     totalPenalty += penalty;
 
@@ -336,146 +319,127 @@ function calculateConflictPenalty({
       suppressedCount,
       winningBonus: conflict.winningBonus
         ? {
-            raw: conflict.winningBonus.raw,
-            value: conflict.winningBonus.value,
-            source: conflict.winningBonus.source
-          }
+          raw: conflict.winningBonus.raw,
+          value: conflict.winningBonus.value,
+          source: conflict.winningBonus.source,
+        }
         : null,
       suppressedBonuses:
-        (conflict.suppressedBonuses || []).map(bonus => ({
+        (conflict.suppressedBonuses || []).map((bonus) => ({
           raw: bonus.raw,
           value: bonus.value,
-          source: bonus.source
+          source: bonus.source,
         })),
-      penalty
+      penalty,
     });
   }
 
   return {
     totalPenalty,
     conflictDetails:
-      conflictDetails.sort((a, b) => b.penalty - a.penalty)
+      conflictDetails.sort((a, b) => b.penalty - a.penalty),
   };
 }
 
 function calculateAssignmentReward(slotPlan, options = {}) {
-  const normalAssignmentCount =
-    slotPlan?.counts?.normalAssignmentCount || 0;
+  const normalAssignmentCount = slotPlan?.counts?.normalAssignmentCount || 0;
 
-  const craftingAssignmentCount =
-    slotPlan?.counts?.craftingAssignmentCount || 0;
+  const craftingAssignmentCount = slotPlan?.counts?.craftingAssignmentCount || 0;
 
-  const normalAssignmentReward =
-    options.normalAssignmentReward === undefined
-      ? 5
-      : options.normalAssignmentReward;
+  const normalAssignmentReward = options.normalAssignmentReward === undefined
+    ? 5
+    : options.normalAssignmentReward;
 
-  const craftingAssignmentReward =
-    options.craftingAssignmentReward === undefined
-      ? 35
-      : options.craftingAssignmentReward;
+  const craftingAssignmentReward = options.craftingAssignmentReward === undefined
+    ? 35
+    : options.craftingAssignmentReward;
 
-  const reward =
-    normalAssignmentCount * normalAssignmentReward +
-    craftingAssignmentCount * craftingAssignmentReward;
+  const reward = normalAssignmentCount * normalAssignmentReward
+    + craftingAssignmentCount * craftingAssignmentReward;
 
   return {
     reward,
     normalAssignmentCount,
-    craftingAssignmentCount
+    craftingAssignmentCount,
   };
 }
 
 function calculateTargetReward(finalGapPlan, options = {}) {
-  const metTargetCount =
-    finalGapPlan?.counts?.metTargetCount || 0;
+  const metTargetCount = finalGapPlan?.counts?.metTargetCount || 0;
 
-  const metTargetReward =
-    options.metTargetReward === undefined
-      ? 120
-      : options.metTargetReward;
+  const metTargetReward = options.metTargetReward === undefined
+    ? 120
+    : options.metTargetReward;
 
   const metTargets = finalGapPlan?.metTargets || [];
 
-  const highPriorityMetReward =
-    metTargets.reduce((sum, entry) => {
-      const priority = getTargetPriority(entry);
+  const highPriorityMetReward = metTargets.reduce((sum, entry) => {
+    const priority = getTargetPriority(entry);
 
-      return sum + priority * 0.25;
-    }, 0);
+    return sum + priority * 0.25;
+  }, 0);
 
   return {
     reward:
-      metTargetCount * metTargetReward +
-      highPriorityMetReward,
+      metTargetCount * metTargetReward
+      + highPriorityMetReward,
 
     metTargetCount,
-    highPriorityMetReward
+    highPriorityMetReward,
   };
 }
 
 function scoreGearsetDetailed(evaluation, options = {}) {
-  const finalGapPlan = evaluation.finalGapPlan;
-  const validationResult = evaluation.validationResult;
-  const slotPlan = evaluation.slotPlan;
+  const { finalGapPlan } = evaluation;
+  const { validationResult } = evaluation;
+  const { slotPlan } = evaluation;
 
-  const targetReward =
-    calculateTargetReward(finalGapPlan, options);
+  const targetReward = calculateTargetReward(finalGapPlan, options);
 
-  const weightedGapPenalty =
-    calculateWeightedGapPenalty(finalGapPlan, options);
+  const weightedGapPenalty = calculateWeightedGapPenalty(finalGapPlan, options);
 
-  const conflictPenalty =
-    calculateConflictPenalty({
-      validationResult,
-      finalGapPlan,
-      options
-    });
+  const conflictPenalty = calculateConflictPenalty({
+    validationResult,
+    finalGapPlan,
+    options,
+  });
 
-  const assignmentReward =
-    calculateAssignmentReward(slotPlan, options);
+  const assignmentReward = calculateAssignmentReward(slotPlan, options);
 
-  const errorCount =
-    validationResult?.errors?.length || 0;
+  const errorCount = validationResult?.errors?.length || 0;
 
-  const warningCount =
-    validationResult?.warnings?.length || 0;
+  const warningCount = validationResult?.warnings?.length || 0;
 
-  const errorPenalty =
-    errorCount *
-    (
+  const errorPenalty = errorCount
+    * (
       options.errorPenalty === undefined
         ? 10000
         : options.errorPenalty
     );
 
-  const warningPenalty =
-    warningCount *
-    (
+  const warningPenalty = warningCount
+    * (
       options.warningPenalty === undefined
         ? 0
         : options.warningPenalty
     );
 
-  const openNormalSlotCount =
-    finalGapPlan?.counts?.openNormalSlotCount || 0;
+  const openNormalSlotCount = finalGapPlan?.counts?.openNormalSlotCount || 0;
 
-  const openNormalSlotPenalty =
-    openNormalSlotCount *
-    (
+  const openNormalSlotPenalty = openNormalSlotCount
+    * (
       options.openNormalSlotPenalty === undefined
         ? 0
         : options.openNormalSlotPenalty
     );
 
-  const score =
-    targetReward.reward +
-    assignmentReward.reward -
-    weightedGapPenalty.totalPenalty -
-    conflictPenalty.totalPenalty -
-    errorPenalty -
-    warningPenalty -
-    openNormalSlotPenalty;
+  const score = targetReward.reward
+    + assignmentReward.reward
+    - weightedGapPenalty.totalPenalty
+    - conflictPenalty.totalPenalty
+    - errorPenalty
+    - warningPenalty
+    - openNormalSlotPenalty;
 
   return {
     score,
@@ -510,18 +474,18 @@ function scoreGearsetDetailed(evaluation, options = {}) {
         validationResult?.stackingConflicts?.length || 0,
       relevantConflictCount:
         countRelevantConflicts(
-          validationResult?.stackingConflicts || []
+          validationResult?.stackingConflicts || [],
         ),
       errorCount,
       warningCount,
-      openNormalSlotCount
+      openNormalSlotCount,
     },
 
     topGapPenalties:
       weightedGapPenalty.gapDetails.slice(0, 15),
 
     topConflictPenalties:
-      conflictPenalty.conflictDetails.slice(0, 15)
+      conflictPenalty.conflictDetails.slice(0, 15),
   };
 }
 
@@ -560,7 +524,7 @@ function compactScoreBreakdown(scoreBreakdown) {
       scoreBreakdown.topGapPenalties,
 
     topConflictPenalties:
-      scoreBreakdown.topConflictPenalties
+      scoreBreakdown.topConflictPenalties,
   };
 }
 
@@ -579,5 +543,5 @@ module.exports = {
   isIntentionalAugmentUpgrade,
 
   cleanText,
-  normalizeText
+  normalizeText,
 };

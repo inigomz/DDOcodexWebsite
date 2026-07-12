@@ -1,19 +1,19 @@
 // gearsetValidator.js
 
 const {
-  getAllowedAugmentColorsForSlot
+  getAllowedAugmentColorsForSlot,
 } = require('./augmentSearch');
 
 const {
-  parseBonusEffect
+  parseBonusEffect,
 } = require('./bonusParser');
 
 const {
-  getResolvedItemEffects
+  getResolvedItemEffects,
 } = require('./selectableEffects');
 
 const {
-  getCraftingSlotKey
+  getCraftingSlotKey,
 } = require('./craftingAugmentPlan');
 
 const SLOT_LIMITS = {
@@ -31,7 +31,7 @@ const SLOT_LIMITS = {
   offhand: 1,
 
   // DDO has two ring slots.
-  finger: 2
+  finger: 2,
 };
 
 const TWO_HANDED_SUBTYPES = [
@@ -42,7 +42,7 @@ const TWO_HANDED_SUBTYPES = [
   'maul',
   'quarterstaff',
   'long_bow',
-  'short_bow'
+  'short_bow',
 ];
 
 function cleanText(value) {
@@ -51,8 +51,6 @@ function cleanText(value) {
     .replace(/\s+/g, ' ')
     .trim();
 }
-
-
 
 function normalizeText(value) {
   return cleanText(value).toLowerCase();
@@ -103,7 +101,7 @@ function getAugmentKey(augment = {}) {
     augment.effect,
     Array.isArray(augment.effectsRaw)
       ? augment.effectsRaw.join('|')
-      : ''
+      : '',
   ]
     .filter(Boolean)
     .join('|') || JSON.stringify(augment);
@@ -172,7 +170,7 @@ function getRawItemEffects(item = {}) {
     ...normalizeEffectsInput(item.enhancements),
     ...normalizeEffectsInput(item.namedEffects),
     ...normalizeEffectsInput(item.itemEffects),
-    ...normalizeEffectsInput(item.effectRaw)
+    ...normalizeEffectsInput(item.effectRaw),
   ]
     .map(cleanText)
     .filter(Boolean);
@@ -197,8 +195,8 @@ function isSetRequirementLine(effect) {
   const text = normalizeText(cleaned);
 
   return (
-    text.includes('pieces equipped') ||
-    /^\d+\s+pieces?\s+equipped/i.test(cleaned)
+    text.includes('pieces equipped')
+    || /^\d+\s+pieces?\s+equipped/i.test(cleaned)
   );
 }
 
@@ -211,7 +209,7 @@ function getAugmentEffects(augment = {}) {
     ...normalizeEffectsInput(augment.augmentEffect),
     ...normalizeEffectsInput(augment.selectedEffectRaw),
     ...normalizeEffectsInput(augment.description),
-    ...normalizeEffectsInput(augment.raw)
+    ...normalizeEffectsInput(augment.raw),
   ]
     .map(cleanText)
     .filter(Boolean));
@@ -223,31 +221,31 @@ function getAugmentEffect(augment = {}) {
 
 function getAugmentName(augment = {}) {
   return (
-    augment.name ||
-    augment.augmentName ||
-    augment.itemName ||
-    augment.label ||
-    'unknown augment'
+    augment.name
+    || augment.augmentName
+    || augment.itemName
+    || augment.label
+    || 'unknown augment'
   );
 }
 
 function getAugmentColor(augment = {}) {
   return normalizeColor(
-    augment.augmentColor ||
-    augment.color ||
-    augment.slotColor ||
-    augment.type ||
-    augment.slotType
+    augment.augmentColor
+    || augment.color
+    || augment.slotColor
+    || augment.type
+    || augment.slotType,
   );
 }
 
 function getAugmentMinLevel(augment = {}) {
   const value = Number(
-    augment.minLevel ||
-    augment.minimumLevel ||
-    augment.level ||
-    augment.ml ||
-    0
+    augment.minLevel
+    || augment.minimumLevel
+    || augment.level
+    || augment.ml
+    || 0,
   );
 
   return Number.isNaN(value) ? 0 : value;
@@ -261,37 +259,37 @@ function normalizeSelectedAugmentEntry(selected = {}) {
     name: getAugmentName(augment),
     link: augment.link || selected.link || null,
     augmentColor:
-      augment.augmentColor ||
-      augment.color ||
-      selected.augmentColor ||
-      selected.color ||
-      null,
+      augment.augmentColor
+      || augment.color
+      || selected.augmentColor
+      || selected.color
+      || null,
     minLevel:
-      augment.minLevel ??
-      selected.minLevel ??
-      null,
+      augment.minLevel
+      ?? selected.minLevel
+      ?? null,
     effect:
-      augment.effect ||
-      selected.effect ||
-      getAugmentEffect(augment),
+      augment.effect
+      || selected.effect
+      || getAugmentEffect(augment),
     effectsRaw:
-      augment.effectsRaw ||
-      selected.effectsRaw ||
-      (
+      augment.effectsRaw
+      || selected.effectsRaw
+      || (
         selected.effect
           ? [selected.effect]
           : undefined
-      )
+      ),
   };
 
   return {
     slotColor:
-      selected.slotColor ||
-      selected.slot ||
-      augment.slotColor ||
-      augment.slot ||
-      null,
-    augment: normalizedAugment
+      selected.slotColor
+      || selected.slot
+      || augment.slotColor
+      || augment.slot
+      || null,
+    augment: normalizedAugment,
   };
 }
 
@@ -301,33 +299,33 @@ function getItemAugmentSlots(item = {}) {
     : [];
 
   return slots
-    .map(slot => {
+    .map((slot) => {
       if (typeof slot === 'string') {
         return {
           color: normalizeColor(slot),
-          raw: slot
+          raw: slot,
         };
       }
 
       return {
         color: normalizeColor(
-          slot.color ||
-          slot.slotColor ||
-          slot.type ||
-          slot.name ||
-          slot.slotType
+          slot.color
+          || slot.slotColor
+          || slot.type
+          || slot.name
+          || slot.slotType,
         ),
-        raw: slot
+        raw: slot,
       };
     })
-    .filter(slot => slot.color);
+    .filter((slot) => slot.color);
 }
 
 function itemHasAugmentSlotColor(item, slotColor) {
   const color = normalizeColor(slotColor);
 
   return getItemAugmentSlots(item)
-    .some(slot => slot.color === color);
+    .some((slot) => slot.color === color);
 }
 
 function augmentFitsSlotColor(augmentColor, slotColor) {
@@ -377,7 +375,7 @@ function validateSlotRules(equippedItems) {
       errors.push({
         type: 'duplicate_item',
         message: `Duplicate item equipped: ${item.name}`,
-        item
+        item,
       });
     }
 
@@ -392,7 +390,7 @@ function validateSlotRules(equippedItems) {
     slotUsage[slot].push({
       itemKey,
       name: item.name,
-      slot
+      slot,
     });
   }
 
@@ -404,7 +402,7 @@ function validateSlotRules(equippedItems) {
         type: 'slot_limit_exceeded',
         message: `${slot} has ${items.length} items equipped, but only ${limit} allowed.`,
         slot,
-        items
+        items,
       });
     }
   }
@@ -413,14 +411,14 @@ function validateSlotRules(equippedItems) {
     warnings.push({
       type: 'unknown_slot',
       message: 'One or more items have an unknown slot.',
-      items: slotUsage.unknown
+      items: slotUsage.unknown,
     });
   }
 
   return {
     errors,
     warnings,
-    slotUsage
+    slotUsage,
   };
 }
 
@@ -428,20 +426,19 @@ function validateOffhandRules(equippedItems, buildProfile = {}) {
   const errors = [];
   const warnings = [];
 
-  const weapon = equippedItems.find(item => item.slot === 'weapon');
-  const offhand = equippedItems.find(item => item.slot === 'offhand');
+  const weapon = equippedItems.find((item) => item.slot === 'weapon');
+  const offhand = equippedItems.find((item) => item.slot === 'offhand');
 
-  const preferredWeaponSubtypes =
-    buildProfile.preferredWeaponSubtypes || [];
+  const preferredWeaponSubtypes = buildProfile.preferredWeaponSubtypes || [];
 
   if (
-    preferredWeaponSubtypes.includes('handwraps') &&
-    offhand
+    preferredWeaponSubtypes.includes('handwraps')
+    && offhand
   ) {
     errors.push({
       type: 'invalid_offhand_for_handwraps_build',
       message: `Offhand item "${offhand.name}" is not allowed for a handwraps build.`,
-      offhand
+      offhand,
     });
   }
 
@@ -450,7 +447,7 @@ function validateOffhandRules(equippedItems, buildProfile = {}) {
       type: 'invalid_offhand_blocked_by_weapon',
       message: `Weapon "${weapon.name}" blocks the offhand slot, but "${offhand.name}" is equipped.`,
       weapon,
-      offhand
+      offhand,
     });
   }
 
@@ -458,20 +455,20 @@ function validateOffhandRules(equippedItems, buildProfile = {}) {
     warnings.push({
       type: 'offhand_without_weapon',
       message: `Offhand item "${offhand.name}" is equipped without a main weapon.`,
-      offhand
+      offhand,
     });
   }
 
   return {
     errors,
-    warnings
+    warnings,
   };
 }
 
 function getPiecesRequired(bonus, membership) {
   if (
-    bonus.piecesRequired !== null &&
-    bonus.piecesRequired !== undefined
+    bonus.piecesRequired !== null
+    && bonus.piecesRequired !== undefined
   ) {
     return bonus.piecesRequired;
   }
@@ -481,8 +478,8 @@ function getPiecesRequired(bonus, membership) {
 
 function isPiecesRequiredInferred(bonus) {
   return (
-    bonus.piecesRequired === null ||
-    bonus.piecesRequired === undefined
+    bonus.piecesRequired === null
+    || bonus.piecesRequired === undefined
   );
 }
 
@@ -492,7 +489,7 @@ function getTieredEffectForTier(bonus, tier) {
   }
 
   const tieredEffect = bonus.tieredEffects.find(
-    effect => effect.tier === tier
+    (effect) => effect.tier === tier,
   );
 
   if (!tieredEffect) {
@@ -505,7 +502,7 @@ function getTieredEffectForTier(bonus, tier) {
     valueText: tieredEffect.valueText || '',
     effectText: tieredEffect.effect || '',
     fullEffect:
-      `${tieredEffect.valueText || ''} ${tieredEffect.effect || ''}`.trim()
+      `${tieredEffect.valueText || ''} ${tieredEffect.effect || ''}`.trim(),
   };
 }
 
@@ -517,8 +514,7 @@ function buildSetGroups(equippedItems) {
     const itemKey = getItemKey(item);
 
     for (const membership of item.setMembership || []) {
-      const setId =
-        membership.setId || normalizeSetId(membership.setName);
+      const setId = membership.setId || normalizeSetId(membership.setName);
 
       if (!setId) {
         continue;
@@ -533,14 +529,14 @@ function buildSetGroups(equippedItems) {
           tier,
           sourceSection: membership.sourceSection || null,
           membership,
-          equippedPieces: []
+          equippedPieces: [],
         });
       }
 
       const group = setGroups.get(groupKey);
 
       const alreadyCounted = group.equippedPieces.some(
-        piece => piece.itemKey === itemKey
+        (piece) => piece.itemKey === itemKey,
       );
 
       if (!alreadyCounted) {
@@ -549,7 +545,7 @@ function buildSetGroups(equippedItems) {
           name: item.name,
           slot: item.slot,
           minLevel: item.minLevel,
-          tier
+          tier,
         });
       }
     }
@@ -566,7 +562,7 @@ function calculateSetBonuses(equippedItems) {
   const activeSetBonuses = [];
 
   for (const group of setGroups.values()) {
-    const membership = group.membership;
+    const { membership } = group;
     const bonuses = membership.bonuses || [];
     const piecesEquipped = group.equippedPieces.length;
 
@@ -575,7 +571,7 @@ function calculateSetBonuses(equippedItems) {
         type: 'set_bonus_data_missing',
         message: `Set "${group.setName}" has equipped pieces, but no bonus data was available. Use full enriched item data, not compact item data.`,
         setId: group.setId,
-        setName: group.setName
+        setName: group.setName,
       });
     }
 
@@ -587,7 +583,7 @@ function calculateSetBonuses(equippedItems) {
       equippedPieces: group.equippedPieces,
       sourceSection: group.sourceSection,
       activeBonuses: [],
-      inactiveBonuses: []
+      inactiveBonuses: [],
     };
 
     for (const bonus of bonuses) {
@@ -601,14 +597,14 @@ function calculateSetBonuses(equippedItems) {
         piecesRequired,
         piecesRequiredInferred: isPiecesRequiredInferred(bonus),
         equippedPieces: group.equippedPieces,
-        sourceSection: group.sourceSection
+        sourceSection: group.sourceSection,
       };
 
       let effect = bonus.effect || bonus.effectRaw || '';
 
       if (
-        Array.isArray(bonus.tieredEffects) &&
-        bonus.tieredEffects.length > 0
+        Array.isArray(bonus.tieredEffects)
+        && bonus.tieredEffects.length > 0
       ) {
         const tieredEffect = getTieredEffectForTier(bonus, group.tier);
 
@@ -622,7 +618,7 @@ function calculateSetBonuses(equippedItems) {
       const bonusInfo = {
         ...baseBonusInfo,
         effect,
-        effectRaw: bonus.effectRaw || bonus.effect || effect
+        effectRaw: bonus.effectRaw || bonus.effect || effect,
       };
 
       if (piecesEquipped >= piecesRequired) {
@@ -639,7 +635,7 @@ function calculateSetBonuses(equippedItems) {
   return {
     activeSetBonuses,
     setProgress,
-    warnings
+    warnings,
   };
 }
 
@@ -660,7 +656,7 @@ function buildSelectedAugmentMap(selectedAugments) {
 function validateAugmentRules(
   equippedItems,
   selectedAugments,
-  buildProfile = {}
+  buildProfile = {},
 ) {
   const errors = [];
   const warnings = [];
@@ -674,21 +670,20 @@ function validateAugmentRules(
   const usedAugmentKeys = new Set();
   const usedAugmentEffects = new Set();
 
-  const selectedAugmentMap =
-    buildSelectedAugmentMap(selectedAugments);
+  const selectedAugmentMap = buildSelectedAugmentMap(selectedAugments);
 
   for (const result of selectedAugments || []) {
     const item = findEquippedItem(
       itemMap,
       result.itemKey,
-      result.itemName
+      result.itemName,
     );
 
     if (!item) {
       warnings.push({
         type: 'augment_for_unequipped_item',
         message: `Augments were selected for "${result.itemName}", but that item is not equipped.`,
-        augmentSelection: result
+        augmentSelection: result,
       });
 
       continue;
@@ -699,7 +694,7 @@ function validateAugmentRules(
     for (const selectedRaw of result.selectedAugments || []) {
       const selected = normalizeSelectedAugmentEntry(selectedRaw);
       const slotColor = normalizeColor(selected.slotColor);
-      const augment = selected.augment;
+      const { augment } = selected;
 
       if (!augment || !augment.name) {
         continue;
@@ -711,7 +706,7 @@ function validateAugmentRules(
         errors.push({
           type: 'duplicate_augment',
           message: `Duplicate augment selected: ${augment.name}`,
-          augment
+          augment,
         });
       }
 
@@ -722,7 +717,7 @@ function validateAugmentRules(
           type: 'augment_missing_slot_color',
           message: `${augment.name} is selected for ${item.name}, but no slot color was provided.`,
           item,
-          augment
+          augment,
         });
 
         continue;
@@ -733,7 +728,7 @@ function validateAugmentRules(
           type: 'multiple_augments_same_slot',
           message: `Multiple augments selected for ${item.name}'s ${slotColor} slot.`,
           item,
-          slotColor
+          slotColor,
         });
       }
 
@@ -745,15 +740,14 @@ function validateAugmentRules(
           message: `${item.name} does not have a ${slotColor} augment slot.`,
           item,
           slotColor,
-          augment
+          augment,
         });
       }
 
       const augmentColor = getAugmentColor(augment);
 
       if (!augmentFitsSlotColor(augmentColor, slotColor)) {
-        const allowedColors =
-          getAllowedAugmentColorsForSlot(slotColor);
+        const allowedColors = getAllowedAugmentColorsForSlot(slotColor);
 
         errors.push({
           type: 'invalid_augment_color',
@@ -761,7 +755,7 @@ function validateAugmentRules(
           item,
           slotColor,
           augment,
-          allowedColors
+          allowedColors,
         });
       }
 
@@ -773,7 +767,7 @@ function validateAugmentRules(
           type: 'augment_level_too_high',
           message: `${augment.name} requires level ${augmentMinLevel}, above build max level ${maxLevel}.`,
           augment,
-          maxLevel
+          maxLevel,
         });
       }
 
@@ -783,7 +777,7 @@ function validateAugmentRules(
         warnings.push({
           type: 'duplicate_augment_effect',
           message: `Duplicate augment effect selected: ${effect}`,
-          augment
+          augment,
         });
       }
 
@@ -797,27 +791,27 @@ function validateAugmentRules(
     const itemKey = getItemKey(item);
 
     if (
-      getItemAugmentSlots(item).length > 0 &&
-      !selectedAugmentMap.has(itemKey)
+      getItemAugmentSlots(item).length > 0
+      && !selectedAugmentMap.has(itemKey)
     ) {
       warnings.push({
         type: 'item_has_slots_but_no_augment_selection',
         message: `${item.name} has augment slots, but no augment selection was provided.`,
-        item
+        item,
       });
     }
   }
 
   return {
     errors,
-    warnings
+    warnings,
   };
 }
 
 function getCraftingSlotInstanceKey(assignment = {}) {
   return [
     assignment.itemKey || assignment.itemName || 'unknown_item',
-    assignment.craftingSlotKey || 'unknown_crafting_slot'
+    assignment.craftingSlotKey || 'unknown_crafting_slot',
   ].join('::');
 }
 
@@ -826,14 +820,12 @@ function itemHasCraftingSlot(item = {}, craftingSlotKey) {
     ? item.craftingSlots
     : [];
 
-  return craftingSlots.some(slot =>
-    getCraftingSlotKey(slot) === craftingSlotKey
-  );
+  return craftingSlots.some((slot) => getCraftingSlotKey(slot) === craftingSlotKey);
 }
 
 function validateCraftingAssignmentRules(
   equippedItems,
-  craftingAssignments = []
+  craftingAssignments = [],
 ) {
   const errors = [];
   const warnings = [];
@@ -850,14 +842,14 @@ function validateCraftingAssignmentRules(
     const item = findEquippedItem(
       itemMap,
       assignment.itemKey,
-      assignment.itemName
+      assignment.itemName,
     );
 
     if (!item) {
       warnings.push({
         type: 'crafting_assignment_for_unequipped_item',
         message: `Crafting augment "${assignment.augmentName || assignment.name}" was planned for "${assignment.itemName}", but that item is not equipped.`,
-        assignment
+        assignment,
       });
 
       continue;
@@ -867,22 +859,21 @@ function validateCraftingAssignmentRules(
       errors.push({
         type: 'crafting_assignment_missing_slot_key',
         message: `Crafting augment "${assignment.augmentName || assignment.name}" on "${assignment.itemName}" is missing craftingSlotKey.`,
-        assignment
+        assignment,
       });
 
       continue;
     }
 
-    const instanceKey =
-      assignment.craftingSlotInstanceKey ||
-      getCraftingSlotInstanceKey(assignment);
+    const instanceKey = assignment.craftingSlotInstanceKey
+      || getCraftingSlotInstanceKey(assignment);
 
     if (usedCraftingSlotInstances.has(instanceKey)) {
       errors.push({
         type: 'multiple_crafting_augments_same_slot',
         message: `Multiple crafting augments planned for ${assignment.itemName}'s ${assignment.craftingSlotKey} slot.`,
         assignment,
-        craftingSlotInstanceKey: instanceKey
+        craftingSlotInstanceKey: instanceKey,
       });
     }
 
@@ -893,7 +884,7 @@ function validateCraftingAssignmentRules(
         type: 'item_does_not_have_crafting_slot',
         message: `${item.name} does not have crafting slot ${assignment.craftingSlotKey}.`,
         item,
-        assignment
+        assignment,
       });
     }
 
@@ -901,14 +892,14 @@ function validateCraftingAssignmentRules(
       warnings.push({
         type: 'crafting_assignment_missing_effect',
         message: `Crafting augment "${assignment.augmentName || assignment.name}" has no effect or stackKey to validate.`,
-        assignment
+        assignment,
       });
     }
   }
 
   return {
     errors,
-    warnings
+    warnings,
   };
 }
 
@@ -936,11 +927,11 @@ function parseBonusWithSource(rawEffect, source) {
   const parsed = parseBonusEffect(rawEffect);
 
   if (
-    !parsed ||
-    !parsed.parsed ||
-    !parsed.stackKey ||
-    parsed.value === null ||
-    parsed.value === undefined
+    !parsed
+    || !parsed.parsed
+    || !parsed.stackKey
+    || parsed.value === null
+    || parsed.value === undefined
   ) {
     return null;
   }
@@ -948,12 +939,12 @@ function parseBonusWithSource(rawEffect, source) {
   return {
     ...parsed,
     source,
-    sourceLabel: getSourceLabel(source)
+    sourceLabel: getSourceLabel(source),
   };
 }
 
 function parseBonusFromKnownAssignment(assignment = {}, source) {
-  const stackKey = assignment.stackKey;
+  const { stackKey } = assignment;
   const value = Number(assignment.value);
 
   if (!stackKey || Number.isNaN(value)) {
@@ -976,7 +967,7 @@ function parseBonusFromKnownAssignment(assignment = {}, source) {
     family: stat,
     stackKey,
     source,
-    sourceLabel: getSourceLabel(source)
+    sourceLabel: getSourceLabel(source),
   };
 }
 
@@ -985,7 +976,7 @@ function parseEquippedItemBonuses(equippedItems, buildProfile = {}) {
 
   for (const item of equippedItems || []) {
     const effects = getItemEffects(item, buildProfile)
-      .filter(effect => !isSetRequirementLine(effect));
+      .filter((effect) => !isSetRequirementLine(effect));
 
     for (const effect of effects) {
       const parsed = parseBonusWithSource(
@@ -994,8 +985,8 @@ function parseEquippedItemBonuses(equippedItems, buildProfile = {}) {
           type: 'item',
           name: item.name,
           itemKey: getItemKey(item),
-          slot: item.slot
-        }
+          slot: item.slot,
+        },
       );
 
       if (parsed) {
@@ -1011,21 +1002,19 @@ function parseSelectedAugmentBonuses(selectedAugments = []) {
   const bonuses = [];
 
   for (const result of selectedAugments || []) {
-    const itemName =
-      result.itemName ||
-      result.name ||
-      result.item?.name ||
-      'unknown item';
+    const itemName = result.itemName
+      || result.name
+      || result.item?.name
+      || 'unknown item';
 
-    const itemKey =
-      result.itemKey ||
-      result.item?.itemKey ||
-      result.item?.link ||
-      itemName;
+    const itemKey = result.itemKey
+      || result.item?.itemKey
+      || result.item?.link
+      || itemName;
 
     for (const selectedRaw of result.selectedAugments || []) {
       const selected = normalizeSelectedAugmentEntry(selectedRaw);
-      const augment = selected.augment;
+      const { augment } = selected;
       const effects = getAugmentEffects(augment);
 
       for (const effect of effects) {
@@ -1037,8 +1026,8 @@ function parseSelectedAugmentBonuses(selectedAugments = []) {
             itemKey,
             slotColor: selected.slotColor,
             name: augment.name,
-            link: augment.link || null
-          }
+            link: augment.link || null,
+          },
         );
 
         if (parsed) {
@@ -1068,8 +1057,8 @@ function parseActiveSetBonusBonuses(activeSetBonuses = []) {
         setId: setBonus.setId,
         setName: setBonus.setName,
         tier: setBonus.tier,
-        piecesRequired: setBonus.piecesRequired
-      }
+        piecesRequired: setBonus.piecesRequired,
+      },
     );
 
     if (parsed) {
@@ -1091,11 +1080,11 @@ function parseCraftingAssignmentBonuses(craftingAssignments = []) {
       itemKey: assignment.itemKey,
       craftingSlotKey: assignment.craftingSlotKey,
       craftingSlotInstanceKey:
-        assignment.craftingSlotInstanceKey ||
-        getCraftingSlotInstanceKey(assignment)
+        assignment.craftingSlotInstanceKey
+        || getCraftingSlotInstanceKey(assignment),
     };
 
-    const effect = assignment.effect;
+    const { effect } = assignment;
 
     let parsed = effect
       ? parseBonusWithSource(effect, source)
@@ -1104,7 +1093,7 @@ function parseCraftingAssignmentBonuses(craftingAssignments = []) {
     if (!parsed) {
       parsed = parseBonusFromKnownAssignment(
         assignment,
-        source
+        source,
       );
     }
 
@@ -1121,13 +1110,13 @@ function getAllBonusSources({
   selectedAugments = [],
   activeSetBonuses = [],
   craftingAssignments = [],
-  buildProfile = {}
+  buildProfile = {},
 }) {
   return [
     ...parseEquippedItemBonuses(equippedItems, buildProfile),
     ...parseSelectedAugmentBonuses(selectedAugments),
     ...parseActiveSetBonusBonuses(activeSetBonuses),
-    ...parseCraftingAssignmentBonuses(craftingAssignments)
+    ...parseCraftingAssignmentBonuses(craftingAssignments),
   ];
 }
 
@@ -1156,9 +1145,7 @@ function calculateStackingConflicts(bonuses = []) {
 
     const sorted = group
       .slice()
-      .sort((a, b) =>
-        Number(b.value || 0) - Number(a.value || 0)
-      );
+      .sort((a, b) => Number(b.value || 0) - Number(a.value || 0));
 
     const winningBonus = sorted[0];
     const suppressedBonuses = sorted.slice(1);
@@ -1173,23 +1160,23 @@ function calculateStackingConflicts(bonuses = []) {
       bonusType: winningBonus.bonusType,
       stat: winningBonus.stat,
       winningBonus,
-      suppressedBonuses
+      suppressedBonuses,
     };
 
     stackingConflicts.push(conflict);
 
     warnings.push({
       type: 'stacking_conflict',
-      message: `${winningBonus.raw} suppresses ${suppressedBonuses.map(bonus => bonus.raw).join(', ')} for ${stackKey}.`,
+      message: `${winningBonus.raw} suppresses ${suppressedBonuses.map((bonus) => bonus.raw).join(', ')} for ${stackKey}.`,
       stackKey,
       winningBonus,
-      suppressedBonuses
+      suppressedBonuses,
     });
   }
 
   return {
     stackingConflicts,
-    warnings
+    warnings,
   };
 }
 
@@ -1197,7 +1184,7 @@ function validateGearset({
   equippedItems,
   selectedAugments = [],
   craftingAssignments = [],
-  buildProfile = {}
+  buildProfile = {},
 }) {
   const errors = [];
   const warnings = [];
@@ -1210,33 +1197,29 @@ function validateGearset({
   errors.push(...slotValidation.errors);
   warnings.push(...slotValidation.warnings);
 
-  const offhandValidation =
-    validateOffhandRules(equippedItems, buildProfile);
+  const offhandValidation = validateOffhandRules(equippedItems, buildProfile);
 
   errors.push(...offhandValidation.errors);
   warnings.push(...offhandValidation.warnings);
 
-  const setValidation =
-    calculateSetBonuses(equippedItems);
+  const setValidation = calculateSetBonuses(equippedItems);
 
   warnings.push(...setValidation.warnings);
 
-  const augmentValidation =
-    validateAugmentRules(
-      equippedItems,
-      selectedAugments,
-      buildProfile
-    );
+  const augmentValidation = validateAugmentRules(
+    equippedItems,
+    selectedAugments,
+    buildProfile,
+  );
 
   errors.push(...augmentValidation.errors);
   warnings.push(...augmentValidation.warnings);
 
-  const craftingAssignmentValidation =
-    validateCraftingAssignmentRules(
-      equippedItems,
-      craftingAssignments,
-      buildProfile
-    );
+  const craftingAssignmentValidation = validateCraftingAssignmentRules(
+    equippedItems,
+    craftingAssignments,
+    buildProfile,
+  );
 
   errors.push(...craftingAssignmentValidation.errors);
   warnings.push(...craftingAssignmentValidation.warnings);
@@ -1246,11 +1229,10 @@ function validateGearset({
     selectedAugments,
     activeSetBonuses: setValidation.activeSetBonuses,
     craftingAssignments,
-    buildProfile
+    buildProfile,
   });
 
-  const stackingValidation =
-    calculateStackingConflicts(bonusSources);
+  const stackingValidation = calculateStackingConflicts(bonusSources);
 
   warnings.push(...stackingValidation.warnings);
 
@@ -1272,7 +1254,7 @@ function validateGearset({
     bonusSources,
 
     stackingConflicts:
-      stackingValidation.stackingConflicts
+      stackingValidation.stackingConflicts,
   };
 }
 
@@ -1294,5 +1276,5 @@ module.exports = {
   parseCraftingAssignmentBonuses,
 
   getGearTier,
-  blocksOffhand
+  blocksOffhand,
 };

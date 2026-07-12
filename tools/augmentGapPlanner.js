@@ -1,20 +1,20 @@
 // augmentGapPlanner.js
 
 const {
-  parseBonusEffect
+  parseBonusEffect,
 } = require('./bonusParser');
 
 const {
-  getResolvedItemEffects
+  getResolvedItemEffects,
 } = require('./selectableEffects');
 
 const {
   buildBonusTargets,
-  bonusMatchesTarget
+  bonusMatchesTarget,
 } = require('./bonusTargets');
 
 const {
-  getCraftingSlotKey
+  getCraftingSlotKey,
 } = require('./craftingAugmentPlan');
 
 function cleanText(value) {
@@ -85,7 +85,7 @@ function getItemEffects(item, buildProfile = {}) {
     ...normalizeEffectsInput(item.enhancements),
     ...normalizeEffectsInput(item.namedEffects),
     ...normalizeEffectsInput(item.itemEffects),
-    ...normalizeEffectsInput(item.effectRaw)
+    ...normalizeEffectsInput(item.effectRaw),
   ]
     .map(cleanText)
     .filter(Boolean);
@@ -96,8 +96,8 @@ function isSetRequirementLine(effect) {
   const text = normalizeText(cleaned);
 
   return (
-    text.includes('pieces equipped') ||
-    /^\d+\s+pieces?\s+equipped/i.test(cleaned)
+    text.includes('pieces equipped')
+    || /^\d+\s+pieces?\s+equipped/i.test(cleaned)
   );
 }
 
@@ -105,11 +105,11 @@ function parseBonusWithSource(rawEffect, source) {
   const parsed = parseBonusEffect(rawEffect);
 
   if (
-    !parsed ||
-    !parsed.parsed ||
-    !parsed.stackKey ||
-    parsed.value === null ||
-    parsed.value === undefined
+    !parsed
+    || !parsed.parsed
+    || !parsed.stackKey
+    || parsed.value === null
+    || parsed.value === undefined
   ) {
     return null;
   }
@@ -117,12 +117,12 @@ function parseBonusWithSource(rawEffect, source) {
   return {
     ...parsed,
     source,
-    sourceLabel: getSourceLabel(source)
+    sourceLabel: getSourceLabel(source),
   };
 }
 
 function parseBonusFromKnownAssignment(assignment = {}, source) {
-  const stackKey = assignment.stackKey;
+  const { stackKey } = assignment;
   const value = Number(assignment.value);
 
   if (!stackKey || Number.isNaN(value)) {
@@ -145,19 +145,19 @@ function parseBonusFromKnownAssignment(assignment = {}, source) {
     family: stat,
     stackKey,
     source,
-    sourceLabel: getSourceLabel(source)
+    sourceLabel: getSourceLabel(source),
   };
 }
 
 function parseEquippedItemBonuses(
   equippedItems = [],
-  buildProfile = {}
+  buildProfile = {},
 ) {
   const bonuses = [];
 
   for (const item of equippedItems || []) {
     const effects = getItemEffects(item, buildProfile)
-      .filter(effect => !isSetRequirementLine(effect));
+      .filter((effect) => !isSetRequirementLine(effect));
 
     for (const effect of effects) {
       const parsed = parseBonusWithSource(
@@ -165,8 +165,8 @@ function parseEquippedItemBonuses(
         {
           type: 'item',
           name: item.name,
-          itemKey: getItemKey(item)
-        }
+          itemKey: getItemKey(item),
+        },
       );
 
       if (parsed) {
@@ -180,11 +180,11 @@ function parseEquippedItemBonuses(
 
 function getAugmentName(augment = {}) {
   return (
-    augment.name ||
-    augment.augmentName ||
-    augment.itemName ||
-    augment.label ||
-    'unknown augment'
+    augment.name
+    || augment.augmentName
+    || augment.itemName
+    || augment.label
+    || 'unknown augment'
   );
 }
 
@@ -206,7 +206,7 @@ function getAugmentEffects(augment = {}) {
     augment.effectsRaw,
     augment.enhancements,
     augment.bonuses,
-    augment.bonus
+    augment.bonus,
   ];
 
   const effects = [];
@@ -222,17 +222,17 @@ function getAugmentEffects(augment = {}) {
   return unique(
     effects
       .map(cleanText)
-      .filter(Boolean)
+      .filter(Boolean),
   );
 }
 
 function getAugmentMinLevel(augment = {}) {
   const value = Number(
-    augment.minLevel ||
-    augment.minimumLevel ||
-    augment.level ||
-    augment.ml ||
-    0
+    augment.minLevel
+    || augment.minimumLevel
+    || augment.level
+    || augment.ml
+    || 0,
   );
 
   if (Number.isNaN(value)) {
@@ -243,22 +243,20 @@ function getAugmentMinLevel(augment = {}) {
 }
 
 function parseSelectedNormalAugmentBonuses(
-  selectedAugments = []
+  selectedAugments = [],
 ) {
   const bonuses = [];
 
   for (const itemAugmentResult of selectedAugments || []) {
-    const itemName =
-      itemAugmentResult.itemName ||
-      itemAugmentResult.name ||
-      itemAugmentResult.item?.name ||
-      'unknown item';
+    const itemName = itemAugmentResult.itemName
+      || itemAugmentResult.name
+      || itemAugmentResult.item?.name
+      || 'unknown item';
 
-    const itemKey =
-      itemAugmentResult.itemKey ||
-      itemAugmentResult.item?.itemKey ||
-      itemAugmentResult.item?.link ||
-      itemName;
+    const itemKey = itemAugmentResult.itemKey
+      || itemAugmentResult.item?.itemKey
+      || itemAugmentResult.item?.link
+      || itemName;
 
     for (const augment of itemAugmentResult.selectedAugments || []) {
       const augmentName = getAugmentName(augment);
@@ -273,11 +271,11 @@ function parseSelectedNormalAugmentBonuses(
             itemName,
             itemKey,
             slotColor:
-              augment.slotColor ||
-              augment.color ||
-              augment.slot ||
-              null
-          }
+              augment.slotColor
+              || augment.color
+              || augment.slot
+              || null,
+          },
         );
 
         if (parsed) {
@@ -291,7 +289,7 @@ function parseSelectedNormalAugmentBonuses(
 }
 
 function parseCraftingAssignmentBonuses(
-  craftingAssignments = []
+  craftingAssignments = [],
 ) {
   const bonuses = [];
 
@@ -302,10 +300,10 @@ function parseCraftingAssignmentBonuses(
       itemName: assignment.itemName,
       itemKey: assignment.itemKey,
       craftingSlotKey: assignment.craftingSlotKey,
-      craftingSlotInstanceKey: assignment.craftingSlotInstanceKey
+      craftingSlotInstanceKey: assignment.craftingSlotInstanceKey,
     };
 
-    const effect = assignment.effect;
+    const { effect } = assignment;
 
     let parsed = effect
       ? parseBonusWithSource(effect, source)
@@ -317,7 +315,7 @@ function parseCraftingAssignmentBonuses(
     if (!parsed) {
       parsed = parseBonusFromKnownAssignment(
         assignment,
-        source
+        source,
       );
     }
 
@@ -333,19 +331,17 @@ function getExistingBonuses({
   equippedItems = [],
   selectedAugments = [],
   craftingAssignments = [],
-  buildProfile = {}
+  buildProfile = {},
 }) {
   return [
     ...parseEquippedItemBonuses(equippedItems, buildProfile),
     ...parseSelectedNormalAugmentBonuses(selectedAugments),
-    ...parseCraftingAssignmentBonuses(craftingAssignments)
+    ...parseCraftingAssignmentBonuses(craftingAssignments),
   ];
 }
 
 function getBestBonusForTarget(target, bonuses = []) {
-  const matchingBonuses = bonuses.filter(bonus =>
-    bonusMatchesTarget(bonus, target)
-  );
+  const matchingBonuses = bonuses.filter((bonus) => bonusMatchesTarget(bonus, target));
 
   if (matchingBonuses.length === 0) {
     return null;
@@ -353,9 +349,7 @@ function getBestBonusForTarget(target, bonuses = []) {
 
   return matchingBonuses
     .slice()
-    .sort((a, b) =>
-      Number(b.value || 0) - Number(a.value || 0)
-    )[0];
+    .sort((a, b) => Number(b.value || 0) - Number(a.value || 0))[0];
 }
 
 function evaluateTargetCoverage(target, bonuses = []) {
@@ -374,7 +368,7 @@ function evaluateTargetCoverage(target, bonuses = []) {
       minimumValue,
       missingToMinimum: minimumValue,
       missingToTarget: targetValue,
-      sourceLabel: null
+      sourceLabel: null,
     };
   }
 
@@ -397,34 +391,24 @@ function evaluateTargetCoverage(target, bonuses = []) {
     minimumValue,
     missingToMinimum: Math.max(0, minimumValue - currentValue),
     missingToTarget: Math.max(0, targetValue - currentValue),
-    sourceLabel: bestBonus.sourceLabel
+    sourceLabel: bestBonus.sourceLabel,
   };
 }
 
 function evaluateAllTargets(targets = [], bonuses = []) {
-  return targets.map(target =>
-    evaluateTargetCoverage(target, bonuses)
-  );
+  return targets.map((target) => evaluateTargetCoverage(target, bonuses));
 }
 
 function getCoverageGroups(coverage = []) {
   return {
-    metTargets: coverage.filter(entry =>
-      entry.status === 'meets_target'
-    ),
+    metTargets: coverage.filter((entry) => entry.status === 'meets_target'),
 
-    underfilledTargets: coverage.filter(entry =>
-      entry.status === 'below_minimum' ||
-      entry.status === 'below_target'
-    ),
+    underfilledTargets: coverage.filter((entry) => entry.status === 'below_minimum'
+      || entry.status === 'below_target'),
 
-    missingTargets: coverage.filter(entry =>
-      entry.status === 'missing'
-    ),
+    missingTargets: coverage.filter((entry) => entry.status === 'missing'),
 
-    openGaps: coverage.filter(entry =>
-      entry.status !== 'meets_target'
-    )
+    openGaps: coverage.filter((entry) => entry.status !== 'meets_target'),
   };
 }
 
@@ -437,7 +421,7 @@ function candidateImprovesTarget(candidateBonus, coverageEntry) {
     return false;
   }
 
-  const target = coverageEntry.target;
+  const { target } = coverageEntry;
 
   if (!bonusMatchesTarget(candidateBonus, target)) {
     return false;
@@ -454,7 +438,7 @@ function scoreCandidateForCoverage(candidateBonus, coverageEntry) {
     return -1000;
   }
 
-  const target = coverageEntry.target;
+  const { target } = coverageEntry;
   const candidateValue = Number(candidateBonus.value || 0);
   const currentValue = Number(coverageEntry.currentValue || 0);
   const targetValue = Number(target.targetValue || 0);
@@ -464,10 +448,9 @@ function scoreCandidateForCoverage(candidateBonus, coverageEntry) {
   const missingToTarget = Math.max(1, targetValue - currentValue);
   const fillRatio = Math.min(1, improvement / missingToTarget);
 
-  let score =
-    getTargetPriorityScore(target) +
-    fillRatio * 40 +
-    improvement * 2;
+  let score = getTargetPriorityScore(target)
+    + fillRatio * 40
+    + improvement * 2;
 
   if (candidateValue >= minimumValue && currentValue < minimumValue) {
     score += 25;
@@ -556,11 +539,11 @@ function normalizeAugmentColor(value) {
 
 function getAugmentColor(augment = {}) {
   return normalizeAugmentColor(
-    augment.color ||
-    augment.slotColor ||
-    augment.augmentColor ||
-    augment.type ||
-    augment.slotType
+    augment.color
+    || augment.slotColor
+    || augment.augmentColor
+    || augment.type
+    || augment.slotType,
   ) || inferAugmentColorFromName(getAugmentName(augment));
 }
 
@@ -568,19 +551,19 @@ function normalizeOpenSlot(slot) {
   if (typeof slot === 'string') {
     return {
       color: normalizeAugmentColor(slot),
-      raw: slot
+      raw: slot,
     };
   }
 
   return {
     color: normalizeAugmentColor(
-      slot.color ||
-      slot.slotColor ||
-      slot.type ||
-      slot.name ||
-      slot.slotType
+      slot.color
+      || slot.slotColor
+      || slot.type
+      || slot.name
+      || slot.slotType,
     ),
-    raw: slot
+    raw: slot,
   };
 }
 
@@ -617,22 +600,20 @@ function augmentFitsSlot(augmentColor, slotColor) {
 }
 
 function getOpenNormalAugmentSlotsFromSelection(
-  selectedAugments = []
+  selectedAugments = [],
 ) {
   const slots = [];
 
   for (const itemAugmentResult of selectedAugments || []) {
-    const itemName =
-      itemAugmentResult.itemName ||
-      itemAugmentResult.name ||
-      itemAugmentResult.item?.name ||
-      'unknown item';
+    const itemName = itemAugmentResult.itemName
+      || itemAugmentResult.name
+      || itemAugmentResult.item?.name
+      || 'unknown item';
 
-    const itemKey =
-      itemAugmentResult.itemKey ||
-      itemAugmentResult.item?.itemKey ||
-      itemAugmentResult.item?.link ||
-      itemName;
+    const itemKey = itemAugmentResult.itemKey
+      || itemAugmentResult.item?.itemKey
+      || itemAugmentResult.item?.link
+      || itemName;
 
     for (const slot of itemAugmentResult.openSlots || []) {
       const normalized = normalizeOpenSlot(slot);
@@ -645,7 +626,7 @@ function getOpenNormalAugmentSlotsFromSelection(
         itemName,
         itemKey,
         color: normalized.color,
-        raw: slot
+        raw: slot,
       });
     }
   }
@@ -654,7 +635,7 @@ function getOpenNormalAugmentSlotsFromSelection(
 }
 
 function getOpenNormalAugmentSlotsFromItems(
-  equippedItems = []
+  equippedItems = [],
 ) {
   const slots = [];
 
@@ -677,7 +658,7 @@ function getOpenNormalAugmentSlotsFromItems(
         itemName,
         itemKey,
         color: normalized.color,
-        raw: slot
+        raw: slot,
       });
     }
   }
@@ -687,10 +668,9 @@ function getOpenNormalAugmentSlotsFromItems(
 
 function getOpenNormalAugmentSlots({
   equippedItems = [],
-  selectedAugments = []
+  selectedAugments = [],
 }) {
-  const fromSelection =
-    getOpenNormalAugmentSlotsFromSelection(selectedAugments);
+  const fromSelection = getOpenNormalAugmentSlotsFromSelection(selectedAugments);
 
   if (fromSelection.length > 0) {
     return fromSelection;
@@ -709,14 +689,14 @@ function parseNormalAugmentCandidate(augment) {
       {
         type: 'normal_augment_candidate',
         name: getAugmentName(augment),
-        link: getAugmentLink(augment)
-      }
+        link: getAugmentLink(augment),
+      },
     );
 
     if (parsed) {
       parsedBonuses.push({
         effect,
-        parsedBonus: parsed
+        parsedBonus: parsed,
       });
     }
   }
@@ -731,7 +711,7 @@ function parseNormalAugmentCandidate(augment) {
     link: getAugmentLink(augment),
     color: getAugmentColor(augment),
     minLevel: getAugmentMinLevel(augment),
-    parsedBonuses
+    parsedBonuses,
   };
 }
 
@@ -740,19 +720,17 @@ function getNormalAugmentRecommendations({
   openNormalSlots = [],
   coverage = [],
   buildProfile = {},
-  limit = 20
+  limit = 20,
 }) {
-  const openGaps = coverage.filter(entry =>
-    entry.status !== 'meets_target'
-  );
+  const openGaps = coverage.filter((entry) => entry.status !== 'meets_target');
 
   const maxLevel = Number(buildProfile.maxLevel || 34);
   const recommendations = [];
 
   for (const augment of normalAugments || []) {
     if (
-      augment.itemType &&
-      normalizeText(augment.itemType) !== 'augment'
+      augment.itemType
+      && normalizeText(augment.itemType) !== 'augment'
     ) {
       continue;
     }
@@ -769,8 +747,8 @@ function getNormalAugmentRecommendations({
       continue;
     }
 
-    const compatibleSlots = openNormalSlots.filter(slot =>
-      augmentFitsSlot(candidate.color, slot.color)
+    const compatibleSlots = openNormalSlots.filter(
+      (slot) => augmentFitsSlot(candidate.color, slot.color),
     );
 
     if (compatibleSlots.length === 0) {
@@ -781,7 +759,7 @@ function getNormalAugmentRecommendations({
       for (const gap of openGaps) {
         const score = scoreCandidateForCoverage(
           parsedEntry.parsedBonus,
-          gap
+          gap,
         );
 
         if (score <= 0) {
@@ -809,11 +787,11 @@ function getNormalAugmentRecommendations({
 
           score,
 
-          compatibleSlots: compatibleSlots.map(slot => ({
+          compatibleSlots: compatibleSlots.map((slot) => ({
             itemName: slot.itemName,
             itemKey: slot.itemKey,
-            color: slot.color
-          }))
+            color: slot.color,
+          })),
         });
       }
     }
@@ -826,7 +804,7 @@ function getNormalAugmentRecommendations({
 
 function getCraftingSlotPlansForItem(
   item,
-  craftingAugmentPlan
+  craftingAugmentPlan,
 ) {
   const craftingSlots = Array.isArray(item.craftingSlots)
     ? item.craftingSlots
@@ -840,16 +818,14 @@ function getCraftingSlotPlansForItem(
     let plan = null;
 
     if (
-      craftingAugmentPlan?.slotPlanByKey &&
-      typeof craftingAugmentPlan.slotPlanByKey.get === 'function'
+      craftingAugmentPlan?.slotPlanByKey
+      && typeof craftingAugmentPlan.slotPlanByKey.get === 'function'
     ) {
       plan = craftingAugmentPlan.slotPlanByKey.get(key);
     }
 
     if (!plan && Array.isArray(craftingAugmentPlan?.usefulCraftingSlots)) {
-      plan = craftingAugmentPlan.usefulCraftingSlots.find(entry =>
-        entry.key === key
-      );
+      plan = craftingAugmentPlan.usefulCraftingSlots.find((entry) => entry.key === key);
     }
 
     if (!plan) {
@@ -862,7 +838,7 @@ function getCraftingSlotPlansForItem(
       itemKey: getItemKey(item),
       slot,
       key,
-      plan
+      plan,
     });
   }
 
@@ -896,9 +872,9 @@ function parseCraftingFamilyAsBonus(family, itemPlan) {
       name: family.bestCandidate,
       itemName: itemPlan.itemName,
       itemKey: itemPlan.itemKey,
-      craftingSlotKey: itemPlan.key
+      craftingSlotKey: itemPlan.key,
     },
-    sourceLabel: `${family.bestCandidate} planned for ${itemPlan.itemName}`
+    sourceLabel: `${family.bestCandidate} planned for ${itemPlan.itemName}`,
   };
 }
 
@@ -906,22 +882,20 @@ function getCraftingAugmentRecommendations({
   equippedItems = [],
   craftingAugmentPlan = null,
   coverage = [],
-  limit = 20
+  limit = 20,
 }) {
   if (!craftingAugmentPlan) {
     return [];
   }
 
-  const openGaps = coverage.filter(entry =>
-    entry.status !== 'meets_target'
-  );
+  const openGaps = coverage.filter((entry) => entry.status !== 'meets_target');
 
   const recommendations = [];
 
   for (const item of equippedItems || []) {
     const itemPlans = getCraftingSlotPlansForItem(
       item,
-      craftingAugmentPlan
+      craftingAugmentPlan,
     );
 
     for (const itemPlan of itemPlans) {
@@ -930,7 +904,7 @@ function getCraftingAugmentRecommendations({
       for (const family of families) {
         const candidateBonus = parseCraftingFamilyAsBonus(
           family,
-          itemPlan
+          itemPlan,
         );
 
         if (!candidateBonus) {
@@ -940,7 +914,7 @@ function getCraftingAugmentRecommendations({
         for (const gap of openGaps) {
           const score = scoreCandidateForCoverage(
             candidateBonus,
-            gap
+            gap,
           );
 
           if (score <= 0) {
@@ -970,7 +944,7 @@ function getCraftingAugmentRecommendations({
             targetValue: gap.targetValue,
             minimumValue: gap.minimumValue,
 
-            score
+            score,
           });
         }
       }
@@ -996,12 +970,12 @@ function compactCoverageEntry(entry) {
     missingToTarget: entry.missingToTarget,
     bestBonus: entry.bestBonus
       ? {
-          raw: entry.bestBonus.raw,
-          stackKey: entry.bestBonus.stackKey,
-          value: entry.bestBonus.value,
-          sourceLabel: entry.bestBonus.sourceLabel
-        }
-      : null
+        raw: entry.bestBonus.raw,
+        stackKey: entry.bestBonus.stackKey,
+        value: entry.bestBonus.value,
+        sourceLabel: entry.bestBonus.sourceLabel,
+      }
+      : null,
   };
 }
 
@@ -1023,7 +997,7 @@ function compactRecommendation(rec) {
 
     itemName: rec.itemName || null,
     craftingSlotLabel: rec.craftingSlotLabel || null,
-    compatibleSlots: rec.compatibleSlots || []
+    compatibleSlots: rec.compatibleSlots || [],
   };
 }
 
@@ -1034,7 +1008,7 @@ function buildAugmentGapPlan({
   normalAugments = [],
   craftingAugmentPlan = null,
   buildProfile = {},
-  options = {}
+  options = {},
 }) {
   const targets = buildBonusTargets(buildProfile);
 
@@ -1042,41 +1016,39 @@ function buildAugmentGapPlan({
     equippedItems,
     selectedAugments,
     craftingAssignments,
-    buildProfile
+    buildProfile,
   });
 
   const coverage = evaluateAllTargets(
     targets,
-    existingBonuses
+    existingBonuses,
   );
 
   const groups = getCoverageGroups(coverage);
 
   const openNormalSlots = getOpenNormalAugmentSlots({
     equippedItems,
-    selectedAugments
+    selectedAugments,
   });
 
-  const normalAugmentRecommendations =
-    getNormalAugmentRecommendations({
-      normalAugments,
-      openNormalSlots,
-      coverage,
-      buildProfile,
-      limit: options.normalAugmentRecommendationLimit || 25
-    });
+  const normalAugmentRecommendations = getNormalAugmentRecommendations({
+    normalAugments,
+    openNormalSlots,
+    coverage,
+    buildProfile,
+    limit: options.normalAugmentRecommendationLimit || 25,
+  });
 
-  const craftingAugmentRecommendations =
-    getCraftingAugmentRecommendations({
-      equippedItems,
-      craftingAugmentPlan,
-      coverage,
-      limit: options.craftingAugmentRecommendationLimit || 25
-    });
+  const craftingAugmentRecommendations = getCraftingAugmentRecommendations({
+    equippedItems,
+    craftingAugmentPlan,
+    coverage,
+    limit: options.craftingAugmentRecommendationLimit || 25,
+  });
 
   const allRecommendations = [
     ...normalAugmentRecommendations,
-    ...craftingAugmentRecommendations
+    ...craftingAugmentRecommendations,
   ].sort((a, b) => b.score - a.score);
 
   return {
@@ -1090,7 +1062,7 @@ function buildAugmentGapPlan({
       normalAugmentRecommendationCount:
         normalAugmentRecommendations.length,
       craftingAugmentRecommendationCount:
-        craftingAugmentRecommendations.length
+        craftingAugmentRecommendations.length,
     },
 
     targets,
@@ -1106,7 +1078,7 @@ function buildAugmentGapPlan({
 
     normalAugmentRecommendations,
     craftingAugmentRecommendations,
-    allRecommendations
+    allRecommendations,
   };
 }
 
@@ -1153,7 +1125,7 @@ function compactAugmentGapPlanForAI(plan, options = {}) {
     craftingAugmentRecommendations:
       plan.craftingAugmentRecommendations
         .slice(0, recommendationLimit)
-        .map(compactRecommendation)
+        .map(compactRecommendation),
   };
 }
 
@@ -1181,5 +1153,5 @@ module.exports = {
   normalizeAugmentColor,
 
   cleanText,
-  normalizeText
+  normalizeText,
 };

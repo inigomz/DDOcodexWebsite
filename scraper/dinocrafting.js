@@ -1,47 +1,47 @@
 // dinoCraftingParser.js
 
-const axios = require("axios");
-const cheerio = require("cheerio");
-const fs = require("fs");
+const axios = require('axios');
+const cheerio = require('cheerio');
+const fs = require('fs');
 
-const BASE_URL = "https://ddowiki.com";
+const BASE_URL = 'https://ddowiki.com';
 
 const SECTIONS = [
-  "Scale_(Weapons)",
-  "Fang_(Weapons)",
-  "Claw_(Weapons)",
-  "Horn_(Weapons)",
+  'Scale_(Weapons)',
+  'Fang_(Weapons)',
+  'Claw_(Weapons)',
+  'Horn_(Weapons)',
 
-  "Scale_(Accessories)",
-  "Fang_(Accessories)",
-  "Claw_(Accessories)",
-  "Horn_(Accessories)",
+  'Scale_(Accessories)',
+  'Fang_(Accessories)',
+  'Claw_(Accessories)',
+  'Horn_(Accessories)',
 
-  "Scale_(Armors)",
-  "Fang_(Armors)",
+  'Scale_(Armors)',
+  'Fang_(Armors)',
 
-  "Set_Bonus",
-  "Raid_Augments"
+  'Set_Bonus',
+  'Raid_Augments',
 ];
 
 function cleanText(text) {
-  return String(text || "")
-    .replace(/\u00a0/g, " ")
-    .replace(/\s+/g, " ")
+  return String(text || '')
+    .replace(/\u00a0/g, ' ')
+    .replace(/\s+/g, ' ')
     .trim();
 }
 
 function delay(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+  return new Promise((resolve) => { setTimeout(resolve, ms); });
 }
 
 function removeNoise($, cell) {
   const clone = cell.clone();
 
-  clone.find(".tooltip").remove();
-  clone.find("style").remove();
-  clone.find("img").remove();
-  clone.find("sup").remove();
+  clone.find('.tooltip').remove();
+  clone.find('style').remove();
+  clone.find('img').remove();
+  clone.find('sup').remove();
 
   return clone;
 }
@@ -53,13 +53,13 @@ function getItemInfo($, cell) {
   if (!link.length) {
     return {
       name: cleanText(cleanCell.text()),
-      link: null
+      link: null,
     };
   }
 
   return {
     name: cleanText(link.text()),
-    link: BASE_URL + link.attr("href")
+    link: BASE_URL + link.attr('href'),
   };
 }
 
@@ -72,7 +72,7 @@ function getListText($, cell) {
   const cleanCell = removeNoise($, cell);
   const results = [];
 
-  cleanCell.find("li").each((_, li) => {
+  cleanCell.find('li').each((_, li) => {
     const text = cleanText($(li).text());
 
     if (text) {
@@ -92,7 +92,7 @@ function getListText($, cell) {
 }
 
 function decodeSectionName(sectionId) {
-  return sectionId.replace(/_/g, " ");
+  return sectionId.replace(/_/g, ' ');
 }
 
 function parseSectionType(sectionId) {
@@ -100,20 +100,20 @@ function parseSectionType(sectionId) {
 
   if (!match) {
     return {
-      slotType: sectionId.replace(/_/g, " "),
-      itemGroup: null
+      slotType: sectionId.replace(/_/g, ' '),
+      itemGroup: null,
     };
   }
 
   return {
     slotType: match[1],
-    itemGroup: match[2]
+    itemGroup: match[2],
   };
 }
 
 function findElementByExactId($, id) {
-  return $("[id]")
-    .filter((_, element) => $(element).attr("id") === id)
+  return $('[id]')
+    .filter((_, element) => $(element).attr('id') === id)
     .first();
 }
 
@@ -125,8 +125,8 @@ function getTableForSection($, sectionId) {
   }
 
   return heading
-    .closest("h2, h3, h4")
-    .nextAll("table.wikitable")
+    .closest('h2, h3, h4')
+    .nextAll('table.wikitable')
     .first();
 }
 
@@ -136,11 +136,11 @@ function parseRecipeTable($, table, sectionId) {
 
   const sectionInfo = parseSectionType(sectionId);
 
-  table.find("tbody > tr").each((_, row) => {
-    const cells = $(row).children("td, th");
+  table.find('tbody > tr').each((_, row) => {
+    const cells = $(row).children('td, th');
 
     // Skip header rows
-    if ($(row).find("th").length > 0) {
+    if ($(row).find('th').length > 0) {
       return;
     }
 
@@ -169,7 +169,7 @@ function parseRecipeTable($, table, sectionId) {
     }
 
     rows.push({
-      itemType: "dinosaur_bone_augment",
+      itemType: 'dinosaur_bone_augment',
       sectionId,
       sectionName: decodeSectionName(sectionId),
       slotType: sectionInfo.slotType,
@@ -177,7 +177,7 @@ function parseRecipeTable($, table, sectionId) {
       name: itemInfo.name,
       link: itemInfo.link,
       effectRaw,
-      costRaw
+      costRaw,
     });
   });
 
@@ -189,7 +189,7 @@ function parseDinosaurBoneCraftingHTML(html) {
 
   const result = {
     recipes: [],
-    missingSections: []
+    missingSections: [],
   };
 
   for (const sectionId of SECTIONS) {
@@ -210,20 +210,20 @@ function parseDinosaurBoneCraftingHTML(html) {
 async function scrapeDinosaurBoneCrafting(url, outputFile) {
   const response = await axios.get(url, {
     headers: {
-      "User-Agent": "DDO-Gear-Planner-Bot/1.0"
-    }
+      'User-Agent': 'DDO-Gear-Planner-Bot/1.0',
+    },
   });
 
   const parsed = parseDinosaurBoneCraftingHTML(response.data);
 
   fs.writeFileSync(
     outputFile,
-    JSON.stringify(parsed, null, 2)
+    JSON.stringify(parsed, null, 2),
   );
 
   console.log(`Saved ${parsed.recipes.length} dinosaur bone recipes.`);
   console.log(
-    `Missing sections: ${parsed.missingSections.join(", ") || "none"}`
+    `Missing sections: ${parsed.missingSections.join(', ') || 'none'}`,
   );
 
   await delay(750);
@@ -231,8 +231,8 @@ async function scrapeDinosaurBoneCrafting(url, outputFile) {
 
 async function main() {
   await scrapeDinosaurBoneCrafting(
-    "https://ddowiki.com/page/Dinosaur_Bone_crafting",
-    "dinosaur_bone_crafting.json"
+    'https://ddowiki.com/page/Dinosaur_Bone_crafting',
+    'dinosaur_bone_crafting.json',
   );
 }
 
@@ -243,5 +243,5 @@ if (require.main === module) {
 module.exports = {
   parseDinosaurBoneCraftingHTML,
   parseRecipeTable,
-  scrapeDinosaurBoneCrafting
+  scrapeDinosaurBoneCrafting,
 };

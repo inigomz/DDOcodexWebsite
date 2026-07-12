@@ -4,7 +4,7 @@ const {
   loadAllAugments,
   searchAugments,
   compactAugmentForAI,
-  getAugmentCandidatesForItem
+  getAugmentCandidatesForItem,
 } = require('../tools/augmentSearch');
 
 const augments = loadAllAugments();
@@ -17,7 +17,7 @@ const greenWisdomAugments = searchAugments(augments, {
   shouldInclude: ['Wisdom', 'PRR', 'MRR', 'Dodge', 'Resistance'],
   priorityTerms: ['Wisdom'],
   secondaryTerms: ['PRR', 'MRR', 'Dodge', 'Resistance'],
-  limit: 10
+  limit: 10,
 });
 
 console.log('\n=== Green Slot Candidates ===');
@@ -25,15 +25,15 @@ console.log(
   JSON.stringify(
     greenWisdomAugments.map(compactAugmentForAI),
     null,
-    2
-  )
+    2,
+  ),
 );
 
 const eyesOfDefilement = {
   name: 'Eyes of Defilement',
   itemKey: 'item:eyes_of_defilement',
   minLevel: 32,
-  augmentSlots: ['Green', 'Yellow', 'Blue']
+  augmentSlots: ['Green', 'Yellow', 'Blue'],
 };
 
 const candidatesForEyes = getAugmentCandidatesForItem(
@@ -42,8 +42,8 @@ const candidatesForEyes = getAugmentCandidatesForItem(
   {
     goal: 'Level 34 Wisdom Monk focused on Tactical DC, Stunning, PRR, MRR, Dodge, and survivability',
     maxLevel: 34,
-    limitPerSlot: 5
-  }
+    limitPerSlot: 5,
+  },
 );
 
 console.log('\n=== Augment Candidates for Eyes of Defilement ===');

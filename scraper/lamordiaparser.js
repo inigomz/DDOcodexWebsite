@@ -12,13 +12,13 @@ const SLOT_TYPES = [
   'Melancholic',
   'Dolorous',
   'Miserable',
-  'Woeful'
+  'Woeful',
 ];
 
 const ITEM_GROUPS = [
   'Weapon',
   'Accessory',
-  'Armor'
+  'Armor',
 ];
 
 function cleanText(text) {
@@ -29,7 +29,7 @@ function cleanText(text) {
 }
 
 function delay(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+  return new Promise((resolve) => { setTimeout(resolve, ms); });
 }
 
 function removeNoise($, cell) {
@@ -92,12 +92,12 @@ function isWeakVisibleName(name) {
   const cleaned = cleanText(name).toLowerCase();
 
   return (
-    cleaned === '(heroic)' ||
-    cleaned === '(legendary)' ||
-    cleaned === '(heroic - dreadful)' ||
-    cleaned === 'heroic' ||
-    cleaned === 'legendary' ||
-    cleaned === ''
+    cleaned === '(heroic)'
+    || cleaned === '(legendary)'
+    || cleaned === '(heroic - dreadful)'
+    || cleaned === 'heroic'
+    || cleaned === 'legendary'
+    || cleaned === ''
   );
 }
 
@@ -111,7 +111,7 @@ function getItemInfo($, cell) {
     return {
       name: fallbackName,
       link: null,
-      visibleName: fallbackName
+      visibleName: fallbackName,
     };
   }
 
@@ -127,7 +127,7 @@ function getItemInfo($, cell) {
   return {
     name,
     link: fullLink,
-    visibleName
+    visibleName,
   };
 }
 
@@ -155,23 +155,19 @@ function getTableHeaders($, table) {
 function detectSlotType(text) {
   const lowered = cleanText(text).toLowerCase();
 
-  return SLOT_TYPES.find(slotType =>
-    lowered.includes(slotType.toLowerCase())
-  ) || null;
+  return SLOT_TYPES.find((slotType) => lowered.includes(slotType.toLowerCase())) || null;
 }
 
 function detectItemGroup(text) {
   const lowered = cleanText(text).toLowerCase();
 
-  return ITEM_GROUPS.find(group =>
-    lowered.includes(group.toLowerCase())
-  ) || null;
+  return ITEM_GROUPS.find((group) => lowered.includes(group.toLowerCase())) || null;
 }
 
 function detectRecipeInfo(headers, sourceSection) {
   const combined = [
     ...headers,
-    sourceSection || ''
+    sourceSection || '',
   ].join(' ');
 
   const slotType = detectSlotType(combined);
@@ -179,7 +175,7 @@ function detectRecipeInfo(headers, sourceSection) {
 
   return {
     slotType,
-    itemGroup
+    itemGroup,
   };
 }
 
@@ -187,19 +183,16 @@ function isViktraniumRecipeTable($, table) {
   const headers = getTableHeaders($, table);
   const headerText = headers.join(' ').toLowerCase();
 
-  const hasEffectColumn =
-    headerText.includes('effect') ||
-    headerText.includes('enchantment') ||
-    headerText.includes('bonus');
+  const hasEffectColumn = headerText.includes('effect')
+    || headerText.includes('enchantment')
+    || headerText.includes('bonus');
 
-  const hasCostColumn =
-    headerText.includes('cost') ||
-    headerText.includes('ingredient');
+  const hasCostColumn = headerText.includes('cost')
+    || headerText.includes('ingredient');
 
-  const mentionsSlotType =
-    SLOT_TYPES.some(slotType =>
-      headerText.includes(slotType.toLowerCase())
-    );
+  const mentionsSlotType = SLOT_TYPES.some(
+    (slotType) => headerText.includes(slotType.toLowerCase()),
+  );
 
   return hasEffectColumn && (hasCostColumn || mentionsSlotType);
 }
@@ -227,7 +220,7 @@ function hasLegendaryOnlyName(name) {
 function createTieredEffects({
   itemName,
   heroicEffectRaw,
-  legendaryEffectRaw
+  legendaryEffectRaw,
 }) {
   const tieredEffects = [];
 
@@ -236,19 +229,19 @@ function createTieredEffects({
   if (heroicEffectRaw && !heroicIsMissing && !hasLegendaryOnlyName(itemName)) {
     tieredEffects.push({
       tier: 'heroic',
-      effectRaw: heroicEffectRaw
+      effectRaw: heroicEffectRaw,
     });
   }
 
   if (legendaryEffectRaw) {
     tieredEffects.push({
       tier: 'legendary',
-      effectRaw: legendaryEffectRaw
+      effectRaw: legendaryEffectRaw,
     });
   } else if (hasLegendaryOnlyName(itemName) && heroicEffectRaw && !heroicIsMissing) {
     tieredEffects.push({
       tier: 'legendary',
-      effectRaw: heroicEffectRaw
+      effectRaw: heroicEffectRaw,
     });
   }
 
@@ -302,16 +295,14 @@ function parseRecipeTable($, table) {
 
     const fallbackText = `${itemInfo.name} ${sourceSection || ''}`;
 
-    const slotType =
-      recipeInfo.slotType || detectSlotType(fallbackText);
+    const slotType = recipeInfo.slotType || detectSlotType(fallbackText);
 
-    const itemGroup =
-      recipeInfo.itemGroup || detectItemGroup(fallbackText);
+    const itemGroup = recipeInfo.itemGroup || detectItemGroup(fallbackText);
 
     const tieredEffects = createTieredEffects({
       itemName: itemInfo.name,
       heroicEffectRaw,
-      legendaryEffectRaw
+      legendaryEffectRaw,
     });
 
     rows.push({
@@ -339,7 +330,7 @@ function parseRecipeTable($, table) {
       // New planner code should prefer heroicEffectRaw,
       // legendaryEffectRaw, or tieredEffects.
       effectRaw: heroicEffectRaw,
-      costRaw: legendaryEffectRawList
+      costRaw: legendaryEffectRawList,
     });
   });
 
@@ -351,7 +342,7 @@ function parseViktraniumCraftingHTML(html) {
 
   const result = {
     recipes: [],
-    skippedTables: 0
+    skippedTables: 0,
   };
 
   $('table.wikitable').each((_, tableElement) => {
@@ -365,9 +356,7 @@ function parseViktraniumCraftingHTML(html) {
     const rows = parseRecipeTable($, table);
 
     // Keep only rows that have Lamordia-style slot metadata.
-    const validRows = rows.filter(row =>
-      row.slotType && row.itemGroup
-    );
+    const validRows = rows.filter((row) => row.slotType && row.itemGroup);
 
     result.recipes.push(...validRows);
   });
@@ -378,15 +367,15 @@ function parseViktraniumCraftingHTML(html) {
 async function scrapeViktraniumCrafting(url, outputFile) {
   const response = await axios.get(url, {
     headers: {
-      'User-Agent': 'DDO-Gear-Planner-Bot/1.0'
-    }
+      'User-Agent': 'DDO-Gear-Planner-Bot/1.0',
+    },
   });
 
   const parsed = parseViktraniumCraftingHTML(response.data);
 
   fs.writeFileSync(
     outputFile,
-    JSON.stringify(parsed, null, 2)
+    JSON.stringify(parsed, null, 2),
   );
 
   console.log(`Saved ${parsed.recipes.length} Viktranium/Lamordia recipes.`);
@@ -398,7 +387,7 @@ async function scrapeViktraniumCrafting(url, outputFile) {
 async function main() {
   await scrapeViktraniumCrafting(
     'https://ddowiki.com/page/Viktranium_Experiment_crafting',
-    'viktranium_experiment_crafting.json'
+    'viktranium_experiment_crafting.json',
   );
 }
 
@@ -415,5 +404,5 @@ module.exports = {
   getFirstText,
   isNoHeroicVersion,
   createTieredEffects,
-  getNameFromItemLink
+  getNameFromItemLink,
 };

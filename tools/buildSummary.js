@@ -1,10 +1,9 @@
 // buildSummary.js
 
-
 const {
   scoreGearsetDetailed,
   compactScoreBreakdown,
-  countRelevantConflicts
+  countRelevantConflicts,
 } = require('./gearsetScorer');
 
 function cleanText(value) {
@@ -32,7 +31,7 @@ function getItemEffects(item = {}) {
     ...(Array.isArray(item.effectsRaw) ? item.effectsRaw : []),
     ...(Array.isArray(item.effects) ? item.effects : []),
     ...(Array.isArray(item.namedEffects) ? item.namedEffects : []),
-    ...(Array.isArray(item.enhancements) ? item.enhancements : [])
+    ...(Array.isArray(item.enhancements) ? item.enhancements : []),
   ]
     .map(cleanText)
     .filter(Boolean));
@@ -41,26 +40,26 @@ function getItemEffects(item = {}) {
 function getEvaluationFromInput({
   finalEvaluation,
   optimizedResult,
-  baselinePipeline
+  baselinePipeline,
 }) {
   return (
-    finalEvaluation ||
-    optimizedResult?.finalEvaluation ||
-    baselinePipeline ||
-    null
+    finalEvaluation
+    || optimizedResult?.finalEvaluation
+    || baselinePipeline
+    || null
   );
 }
 
 function getEquippedItems({
   equippedItems,
   optimizedResult,
-  finalEvaluation
+  finalEvaluation,
 }) {
   return (
-    equippedItems ||
-    optimizedResult?.optimizedGearset?.selectedItems ||
-    finalEvaluation?.equippedItems ||
-    []
+    equippedItems
+    || optimizedResult?.optimizedGearset?.selectedItems
+    || finalEvaluation?.equippedItems
+    || []
   );
 }
 
@@ -82,7 +81,7 @@ function compactSelectedGearItem(item = {}) {
       item.stackAwareScore ?? item.dynamicScore ?? null,
 
     craftingPotentialScore:
-      item.craftingPotentialScore ?? null
+      item.craftingPotentialScore ?? null,
   };
 }
 
@@ -109,7 +108,7 @@ function compactAugmentAssignment(assignment = {}) {
     minimumValue: assignment.minimumValue,
     targetValue: assignment.targetValue,
 
-    score: assignment.score
+    score: assignment.score,
   };
 }
 
@@ -138,7 +137,7 @@ function compactCraftingAssignment(assignment = {}) {
     minimumValue: assignment.minimumValue,
     targetValue: assignment.targetValue,
 
-    score: assignment.score
+    score: assignment.score,
   };
 }
 
@@ -166,12 +165,12 @@ function compactGap(entry = {}) {
 
     bestBonus: entry.bestBonus
       ? {
-          raw: entry.bestBonus.raw,
-          stackKey: entry.bestBonus.stackKey,
-          value: entry.bestBonus.value,
-          sourceLabel: entry.bestBonus.sourceLabel
-        }
-      : null
+        raw: entry.bestBonus.raw,
+        stackKey: entry.bestBonus.stackKey,
+        value: entry.bestBonus.value,
+        sourceLabel: entry.bestBonus.sourceLabel,
+      }
+      : null,
   };
 }
 
@@ -205,7 +204,7 @@ function compactBonus(bonus = {}) {
     stackKey: bonus.stackKey,
     value: bonus.value,
     sourceType: bonus.source?.type || null,
-    sourceLabel: getSourceLabel(bonus.source)
+    sourceLabel: getSourceLabel(bonus.source),
   };
 }
 
@@ -220,7 +219,7 @@ function compactStackingConflict(conflict = {}) {
       : null,
 
     suppressedBonuses:
-      (conflict.suppressedBonuses || []).map(compactBonus)
+      (conflict.suppressedBonuses || []).map(compactBonus),
   };
 }
 
@@ -240,7 +239,7 @@ function compactSwapLogEntry(entry = {}) {
     newCounts: entry.newScoreBreakdown?.counts || null,
 
     topImprovedGapPenalties:
-      entry.newScoreBreakdown?.topGapPenalties?.slice(0, 5) || []
+      entry.newScoreBreakdown?.topGapPenalties?.slice(0, 5) || [],
   };
 }
 
@@ -251,8 +250,8 @@ function getTopOpenGaps(finalGapPlan, limit) {
       const aTarget = getTargetFromCoverageEntry(a);
       const bTarget = getTargetFromCoverageEntry(b);
 
-      return numberOrDefault(bTarget.priority, 0) -
-        numberOrDefault(aTarget.priority, 0);
+      return numberOrDefault(bTarget.priority, 0)
+        - numberOrDefault(aTarget.priority, 0);
     })
     .slice(0, limit)
     .map(compactGap);
@@ -267,7 +266,7 @@ function getTopStackingConflicts(validationResult, limit) {
 function buildCounts({
   finalGapPlan,
   slotPlan,
-  validationResult
+  validationResult,
 }) {
   return {
     targetCount:
@@ -308,8 +307,8 @@ function buildCounts({
 
     relevantConflictCount:
       countRelevantConflicts(
-        validationResult?.stackingConflicts || []
-      )
+        validationResult?.stackingConflicts || [],
+      ),
   };
 }
 
@@ -318,17 +317,17 @@ function buildAdvisorNotes(summary) {
 
   if (summary.counts.validationErrorCount > 0) {
     notes.push(
-      'The build has hard validation errors and should not be presented as final.'
+      'The build has hard validation errors and should not be presented as final.',
     );
   } else {
     notes.push(
-      'The build is structurally valid.'
+      'The build is structurally valid.',
     );
   }
 
   if (summary.counts.craftingAssignmentCount > 0) {
     notes.push(
-      `The build uses ${summary.counts.craftingAssignmentCount} planned crafting augment assignment(s).`
+      `The build uses ${summary.counts.craftingAssignmentCount} planned crafting augment assignment(s).`,
     );
   }
 
@@ -337,14 +336,14 @@ function buildAdvisorNotes(summary) {
 
     if (topGap) {
       notes.push(
-        `The highest-priority remaining gap is ${topGap.label}.`
+        `The highest-priority remaining gap is ${topGap.label}.`,
       );
     }
   }
 
   if (summary.counts.relevantConflictCount > 0) {
     notes.push(
-      `There are ${summary.counts.relevantConflictCount} relevant stacking conflict(s) remaining.`
+      `There are ${summary.counts.relevantConflictCount} relevant stacking conflict(s) remaining.`,
     );
   }
 
@@ -382,7 +381,7 @@ function buildTextSummary(summary) {
 
   for (const assignment of summary.normalAugments) {
     lines.push(
-      `- ${assignment.augmentName} into ${assignment.itemName}: ${assignment.effect}`
+      `- ${assignment.augmentName} into ${assignment.itemName}: ${assignment.effect}`,
     );
   }
 
@@ -391,7 +390,7 @@ function buildTextSummary(summary) {
 
   for (const assignment of summary.craftingAugments) {
     lines.push(
-      `- ${assignment.augmentName} on ${assignment.itemName}: ${assignment.effect}`
+      `- ${assignment.augmentName} on ${assignment.itemName}: ${assignment.effect}`,
     );
   }
 
@@ -400,7 +399,7 @@ function buildTextSummary(summary) {
 
   for (const gap of summary.remainingGaps.slice(0, 10)) {
     lines.push(
-      `- ${gap.label}: current ${gap.currentValue}, minimum ${gap.minimumValue}, target ${gap.targetValue}, status ${gap.status}`
+      `- ${gap.label}: current ${gap.currentValue}, minimum ${gap.minimumValue}, target ${gap.targetValue}, status ${gap.status}`,
     );
   }
 
@@ -410,7 +409,7 @@ function buildTextSummary(summary) {
 
     for (const swap of summary.swapLog) {
       lines.push(
-        `- Pass ${swap.pass}: ${swap.slotLabel}: ${swap.oldItemName} -> ${swap.newItemName}`
+        `- Pass ${swap.pass}: ${swap.slotLabel}: ${swap.oldItemName} -> ${swap.newItemName}`,
       );
     }
   }
@@ -425,28 +424,28 @@ function buildSummary({
   optimizedResult = null,
   finalEvaluation = null,
   equippedItems = null,
-  options = {}
+  options = {},
 }) {
   const evaluation = getEvaluationFromInput({
     finalEvaluation,
     optimizedResult,
-    baselinePipeline
+    baselinePipeline,
   });
 
   if (!evaluation) {
     throw new Error(
-      'buildSummary expected finalEvaluation, optimizedResult, or baselinePipeline.'
+      'buildSummary expected finalEvaluation, optimizedResult, or baselinePipeline.',
     );
   }
 
-  const finalGapPlan = evaluation.finalGapPlan;
-  const slotPlan = evaluation.slotPlan;
-  const validationResult = evaluation.validationResult;
+  const { finalGapPlan } = evaluation;
+  const { slotPlan } = evaluation;
+  const { validationResult } = evaluation;
 
   const selectedItems = getEquippedItems({
     equippedItems,
     optimizedResult,
-    finalEvaluation: evaluation
+    finalEvaluation: evaluation,
   });
 
   const gapLimit = options.gapLimit || 15;
@@ -454,7 +453,7 @@ function buildSummary({
 
   const scoreBreakdown = scoreGearsetDetailed(
     evaluation,
-    options.scoringOptions || {}
+    options.scoringOptions || {},
   );
 
   const summary = {
@@ -466,7 +465,7 @@ function buildSummary({
       preferredWeaponSubtypes:
         buildProfile.preferredWeaponSubtypes || [],
       armorPreference:
-        buildProfile.armorPreference || null
+        buildProfile.armorPreference || null,
     },
 
     scoreBreakdown:
@@ -475,7 +474,7 @@ function buildSummary({
     counts: buildCounts({
       finalGapPlan,
       slotPlan,
-      validationResult
+      validationResult,
     }),
 
     selectedGear:
@@ -502,7 +501,7 @@ function buildSummary({
     activeSetBonuses:
       validationResult.activeSetBonuses || [],
 
-    advisorNotes: []
+    advisorNotes: [],
   };
 
   summary.advisorNotes = buildAdvisorNotes(summary);
@@ -518,12 +517,12 @@ function compactSummaryForAI(summary) {
     counts: summary.counts,
 
     selectedGear:
-      summary.selectedGear.map(item => ({
+      summary.selectedGear.map((item) => ({
         slot: item.slot,
         name: item.name,
         effects: item.effects,
         augmentSlots: item.augmentSlots,
-        craftingSlots: item.craftingSlots
+        craftingSlots: item.craftingSlots,
       })),
 
     normalAugments: summary.normalAugments,
@@ -542,8 +541,8 @@ function compactSummaryForAI(summary) {
       topGapPenalties:
         summary.scoreBreakdown.topGapPenalties?.slice(0, 8) || [],
       topConflictPenalties:
-        summary.scoreBreakdown.topConflictPenalties?.slice(0, 8) || []
-    }
+        summary.scoreBreakdown.topConflictPenalties?.slice(0, 8) || [],
+    },
   };
 }
 
@@ -561,5 +560,5 @@ module.exports = {
   buildCounts,
 
   cleanText,
-  getItemKey
+  getItemKey,
 };

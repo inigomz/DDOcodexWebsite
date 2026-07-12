@@ -4,13 +4,13 @@ const fs = require('fs');
 const path = require('path');
 
 const {
-  getResolvedItemEffects
+  getResolvedItemEffects,
 } = require('./selectableEffects');
 
 const DEFAULT_ITEM_DIR = path.join(
   __dirname,
   '..',
-  'itemlist'
+  'itemlist',
 );
 
 function cleanText(value) {
@@ -86,7 +86,7 @@ function loadAllItems(itemDir = DEFAULT_ITEM_DIR) {
     for (const item of loadedItems) {
       items.push({
         ...item,
-        sourceFile: item.sourceFile || file
+        sourceFile: item.sourceFile || file,
       });
     }
   }
@@ -108,7 +108,7 @@ function getItemLevel(item) {
     item.minimumLevel,
     item.level,
     item.ml,
-    item.requiredLevel
+    item.requiredLevel,
   ];
 
   for (const value of possibleValues) {
@@ -169,7 +169,7 @@ function normalizeSlot(value) {
       'docent',
       'light armor',
       'medium armor',
-      'heavy armor'
+      'heavy armor',
     ].includes(text)
   ) {
     return 'armor';
@@ -205,7 +205,7 @@ function normalizeSlot(value) {
       'falchion',
       'great axe',
       'great sword',
-      'maul'
+      'maul',
     ].includes(text)
   ) {
     return 'weapon';
@@ -218,7 +218,7 @@ function normalizeSlot(value) {
       'shield',
       'orb',
       'rune arm',
-      'runearm'
+      'runearm',
     ].includes(text)
   ) {
     return 'offhand';
@@ -245,7 +245,7 @@ function getItemTypeBlob(item) {
     item.armorClass,
     item.tags,
     item.slot,
-    item.slots
+    item.slots,
   ]
     .map(getArrayText)
     .filter(Boolean)
@@ -260,7 +260,7 @@ function getItemSlots(item) {
     item.equipmentSlot,
     item.equipmentSlots,
     item.itemSlot,
-    item.itemSlots
+    item.itemSlots,
   ];
 
   const slots = [];
@@ -295,28 +295,28 @@ function itemMatchesSlot(item, requestedSlot) {
 
   if (normalizedRequestedSlot === 'armor') {
     return (
-      slots.includes('armor') ||
-      typeText.includes('armor') ||
-      typeText.includes('robe') ||
-      typeText.includes('outfit') ||
-      name.includes('robe') ||
-      name.includes('outfit') ||
-      name.includes('vestment') ||
-      name.includes('vestments') ||
-      name.includes('breastplate') ||
-      name.includes('plate') ||
-      name.includes('armor') ||
-      name.includes('mail') ||
-      name.includes('leather')
+      slots.includes('armor')
+      || typeText.includes('armor')
+      || typeText.includes('robe')
+      || typeText.includes('outfit')
+      || name.includes('robe')
+      || name.includes('outfit')
+      || name.includes('vestment')
+      || name.includes('vestments')
+      || name.includes('breastplate')
+      || name.includes('plate')
+      || name.includes('armor')
+      || name.includes('mail')
+      || name.includes('leather')
     );
   }
 
   if (normalizedRequestedSlot === 'weapon') {
     return (
-      slots.includes('weapon') ||
-      typeText.includes('weapon') ||
-      typeText.includes('handwrap') ||
-      typeText.includes('quarterstaff')
+      slots.includes('weapon')
+      || typeText.includes('weapon')
+      || typeText.includes('handwrap')
+      || typeText.includes('quarterstaff')
     );
   }
 
@@ -371,25 +371,25 @@ function itemMatchesWeaponSubtypes(item, requestedSubtypes = []) {
   const itemText = [
     getItemName(item),
     getItemTypeBlob(item),
-    item.link
+    item.link,
   ]
     .filter(Boolean)
     .join(' ');
 
   const normalizedItemText = normalizeText(itemText);
 
-  return requestedSubtypes.some(subtype => {
+  return requestedSubtypes.some((subtype) => {
     const normalizedSubtype = normalizeWeaponSubtype(subtype);
 
     if (normalizedSubtype === 'handwraps') {
       return (
-        normalizedItemText.includes('handwrap') ||
-        normalizedItemText.includes('unarmed')
+        normalizedItemText.includes('handwrap')
+        || normalizedItemText.includes('unarmed')
       );
     }
 
     return normalizedItemText.includes(
-      normalizedSubtype.replace(/_/g, ' ')
+      normalizedSubtype.replace(/_/g, ' '),
     );
   });
 }
@@ -408,7 +408,7 @@ function detectArmorType(item) {
     item.itemType,
     item.category,
     item.categories,
-    item.tags
+    item.tags,
   ];
 
   const explicitText = explicitFields
@@ -421,50 +421,50 @@ function detectArmorType(item) {
   const combined = `${explicitText} ${nameText}`;
 
   if (
-    combined.includes('robe') ||
-    combined.includes('robes') ||
-    combined.includes('outfit') ||
-    combined.includes('outfits') ||
-    combined.includes('cloth armor') ||
-    combined.includes('cloth') ||
-    combined.includes('raiment') ||
-    combined.includes('vestment') ||
-    combined.includes('vestments') ||
-    combined.includes('garments') ||
-    combined.includes('garb')
+    combined.includes('robe')
+    || combined.includes('robes')
+    || combined.includes('outfit')
+    || combined.includes('outfits')
+    || combined.includes('cloth armor')
+    || combined.includes('cloth')
+    || combined.includes('raiment')
+    || combined.includes('vestment')
+    || combined.includes('vestments')
+    || combined.includes('garments')
+    || combined.includes('garb')
   ) {
     return 'cloth';
   }
 
   if (
-    combined.includes('heavy armor') ||
-    combined.includes('full plate') ||
-    combined.includes('plate armor') ||
-    combined.includes('plate mail') ||
-    combined.includes('half plate') ||
-    combined.includes('heavy plate')
+    combined.includes('heavy armor')
+    || combined.includes('full plate')
+    || combined.includes('plate armor')
+    || combined.includes('plate mail')
+    || combined.includes('half plate')
+    || combined.includes('heavy plate')
   ) {
     return 'heavy';
   }
 
   if (
-    combined.includes('medium armor') ||
-    combined.includes('breastplate') ||
-    combined.includes('scale mail') ||
-    combined.includes('scalemail') ||
-    combined.includes('chainmail') ||
-    combined.includes('chain mail') ||
-    combined.includes('hide armor')
+    combined.includes('medium armor')
+    || combined.includes('breastplate')
+    || combined.includes('scale mail')
+    || combined.includes('scalemail')
+    || combined.includes('chainmail')
+    || combined.includes('chain mail')
+    || combined.includes('hide armor')
   ) {
     return 'medium';
   }
 
   if (
-    combined.includes('light armor') ||
-    combined.includes('leather armor') ||
-    combined.includes('studded leather') ||
-    combined.includes('chain shirt') ||
-    combined.includes('light mail')
+    combined.includes('light armor')
+    || combined.includes('leather armor')
+    || combined.includes('studded leather')
+    || combined.includes('chain shirt')
+    || combined.includes('light mail')
   ) {
     return 'light';
   }
@@ -485,8 +485,7 @@ function itemMatchesArmorPreference(item, query = {}) {
     return true;
   }
 
-  const allowedArmorTypes =
-    armorPreference.allowedArmorTypes || [];
+  const allowedArmorTypes = armorPreference.allowedArmorTypes || [];
 
   if (allowedArmorTypes.length === 0) {
     return true;
@@ -498,9 +497,7 @@ function itemMatchesArmorPreference(item, query = {}) {
     return false;
   }
 
-  return allowedArmorTypes.some(type =>
-    normalizeText(type) === normalizeText(detectedArmorType)
-  );
+  return allowedArmorTypes.some((type) => normalizeText(type) === normalizeText(detectedArmorType));
 }
 
 function getRawEffects(item) {
@@ -512,7 +509,7 @@ function getRawEffects(item) {
     item.enhancements,
     item.namedEffects,
     item.itemEffects,
-    item.effectRaw
+    item.effectRaw,
   ];
 
   for (const field of possibleFields) {
@@ -531,9 +528,9 @@ function isSetRequirementLine(effect) {
   const text = normalizeText(cleaned);
 
   return (
-    text.includes('pieces equipped') ||
-    /^\d+\s+pieces?\s+equipped/i.test(cleaned) ||
-    /^\d+\s+piece\s+equipped/i.test(cleaned)
+    text.includes('pieces equipped')
+    || /^\d+\s+pieces?\s+equipped/i.test(cleaned)
+    || /^\d+\s+piece\s+equipped/i.test(cleaned)
   );
 }
 
@@ -555,7 +552,7 @@ function getResolvedEffectsSafe(item, buildProfile = {}) {
 
 function getScorableEffects(item, buildProfile = {}) {
   return getResolvedEffectsSafe(item, buildProfile)
-    .filter(effect => !isSetRequirementLine(effect));
+    .filter((effect) => !isSetRequirementLine(effect));
 }
 
 function textMatchesTerm(text, term) {
@@ -567,14 +564,14 @@ function textMatchesTerm(text, term) {
   }
 
   if (
-    normalizedTerm === 'resistance' &&
-    (
-      normalizedText.includes('acid resistance') ||
-      normalizedText.includes('cold resistance') ||
-      normalizedText.includes('electric resistance') ||
-      normalizedText.includes('fire resistance') ||
-      normalizedText.includes('sonic resistance') ||
-      normalizedText.includes('elemental resistance')
+    normalizedTerm === 'resistance'
+    && (
+      normalizedText.includes('acid resistance')
+      || normalizedText.includes('cold resistance')
+      || normalizedText.includes('electric resistance')
+      || normalizedText.includes('fire resistance')
+      || normalizedText.includes('sonic resistance')
+      || normalizedText.includes('elemental resistance')
     )
   ) {
     return false;
@@ -584,9 +581,7 @@ function textMatchesTerm(text, term) {
 }
 
 function effectMatchesAnyTerm(effect, terms = []) {
-  return terms.some(term =>
-    textMatchesTerm(effect, term)
-  );
+  return terms.some((term) => textMatchesTerm(effect, term));
 }
 
 function getFilteredEffectsForBuild(item, buildProfile = {}) {
@@ -595,12 +590,12 @@ function getFilteredEffectsForBuild(item, buildProfile = {}) {
   const usefulTerms = [
     ...(buildProfile.primaryStats || []),
     ...(buildProfile.priorityTerms || []),
-    ...(buildProfile.secondaryTerms || [])
+    ...(buildProfile.secondaryTerms || []),
   ];
 
   const avoidTerms = buildProfile.avoidTerms || [];
 
-  return effects.filter(effect => {
+  return effects.filter((effect) => {
     if (effectMatchesAnyTerm(effect, avoidTerms)) {
       return false;
     }
@@ -615,7 +610,7 @@ function getSetNames(item) {
     item.setName,
     item.sets,
     item.setBonuses,
-    item.setBonus
+    item.setBonus,
   ];
 
   const setNames = [];
@@ -650,18 +645,18 @@ function getAugmentSlots(item) {
     return [];
   }
 
-  return slots.map(slot => {
+  return slots.map((slot) => {
     if (typeof slot === 'string') {
       return slot;
     }
 
     return (
-      slot.color ||
-      slot.slotColor ||
-      slot.type ||
-      slot.name ||
-      slot.slotType ||
-      slot.augmentType
+      slot.color
+      || slot.slotColor
+      || slot.type
+      || slot.name
+      || slot.slotType
+      || slot.augmentType
     );
   }).filter(Boolean);
 }
@@ -681,12 +676,12 @@ function normalizeSlotName(value) {
 function getSpecialAugmentSlots(item) {
   const augmentSlots = getAugmentSlots(item);
 
-  return augmentSlots.filter(slot => {
+  return augmentSlots.filter((slot) => {
     const text = normalizeSlotName(slot);
 
     return (
-      text.includes('sun') ||
-      text.includes('moon')
+      text.includes('sun')
+      || text.includes('moon')
     );
   });
 }
@@ -696,18 +691,16 @@ function hasSunMoonAugmentSlots(item) {
 }
 
 function hasLamordiaCraftingSlots(item) {
-  return getCraftingSlots(item).some(slot =>
-    normalizeText(slot.system) === 'lamordia'
-  );
+  return getCraftingSlots(item).some((slot) => normalizeText(slot.system) === 'lamordia');
 }
 
 function hasViktraniumCraftingSlots(item) {
-  return getCraftingSlots(item).some(slot => {
+  return getCraftingSlots(item).some((slot) => {
     const system = normalizeText(slot.system);
 
     return (
-      system.includes('viktranium') ||
-      system.includes('lamordia')
+      system.includes('viktranium')
+      || system.includes('lamordia')
     );
   });
 }
@@ -726,15 +719,11 @@ function getModernSystemSupport(item) {
     systems.push('Viktranium crafting');
   }
 
-  if (specialAugmentSlots.some(slot =>
-    normalizeSlotName(slot).includes('sun')
-  )) {
+  if (specialAugmentSlots.some((slot) => normalizeSlotName(slot).includes('sun'))) {
     systems.push('Sun augment slot');
   }
 
-  if (specialAugmentSlots.some(slot =>
-    normalizeSlotName(slot).includes('moon')
-  )) {
+  if (specialAugmentSlots.some((slot) => normalizeSlotName(slot).includes('moon'))) {
     systems.push('Moon augment slot');
   }
 
@@ -742,7 +731,7 @@ function getModernSystemSupport(item) {
     hasModernSupport: systems.length > 0,
     systems: unique(systems),
     craftingSlots,
-    specialAugmentSlots
+    specialAugmentSlots,
   };
 }
 
@@ -815,7 +804,7 @@ function scoreItem(item, query = {}) {
   }
 
   for (const term of query.shouldInclude || []) {
-    if (effects.some(effect => textMatchesTerm(effect, term))) {
+    if (effects.some((effect) => textMatchesTerm(effect, term))) {
       score += 10;
     }
   }
@@ -825,15 +814,15 @@ function scoreItem(item, query = {}) {
     const detectedArmorType = detectArmorType(item);
 
     if (
-      armorPreference.preferredArmorTypes &&
-      armorPreference.preferredArmorTypes.includes(detectedArmorType)
+      armorPreference.preferredArmorTypes
+      && armorPreference.preferredArmorTypes.includes(detectedArmorType)
     ) {
       score += 25;
     }
 
     if (
-      armorPreference.avoidArmorTypes &&
-      armorPreference.avoidArmorTypes.includes(detectedArmorType)
+      armorPreference.avoidArmorTypes
+      && armorPreference.avoidArmorTypes.includes(detectedArmorType)
     ) {
       score -= 100;
     }
@@ -885,13 +874,11 @@ function searchItems(items, query = {}) {
   const limit = query.limit || 10;
 
   return (items || [])
-    .filter(item =>
-      itemMatchesQuery(item, query)
-    )
-    .map(item => ({
+    .filter((item) => itemMatchesQuery(item, query))
+    .map((item) => ({
       ...item,
       itemKey: getItemKey(item),
-      searchScore: scoreItem(item, query)
+      searchScore: scoreItem(item, query),
     }))
     .sort((a, b) => b.searchScore - a.searchScore)
     .slice(0, limit);
@@ -900,7 +887,7 @@ function searchItems(items, query = {}) {
 function compactItemForAI(item, buildProfile = {}) {
   const filteredEffects = getFilteredEffectsForBuild(
     item,
-    buildProfile
+    buildProfile,
   );
 
   const armorType = detectArmorType(item);
@@ -919,10 +906,10 @@ function compactItemForAI(item, buildProfile = {}) {
 
     itemType: item.itemType || item.type || null,
     itemSubtypes:
-      item.itemSubtypes ||
-      item.subtypes ||
-      item.subtype ||
-      null,
+      item.itemSubtypes
+      || item.subtypes
+      || item.subtype
+      || null,
 
     effects: filteredEffects,
 
@@ -932,7 +919,7 @@ function compactItemForAI(item, buildProfile = {}) {
 
     sets: getSetNames(item),
 
-    searchScore: item.searchScore
+    searchScore: item.searchScore,
   };
 }
 
@@ -958,5 +945,5 @@ module.exports = {
   getModernSystemSupport,
   scoreModernSystemSupport,
 
-  scoreItem
+  scoreItem,
 };

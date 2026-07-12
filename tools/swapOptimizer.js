@@ -1,22 +1,22 @@
 // swapOptimizer.js
 
 const {
-  buildAugmentGapPlan
+  buildAugmentGapPlan,
 } = require('./augmentGapPlanner');
 
 const {
-  buildAugmentSlotPlan
+  buildAugmentSlotPlan,
 } = require('./augmentSlotPlanner');
 
 const {
-  validateGearset
+  validateGearset,
 } = require('./gearsetValidator');
 
 const {
   scoreGearset,
   scoreGearsetDetailed,
   compactScoreBreakdown,
-  countRelevantConflicts
+  countRelevantConflicts,
 } = require('./gearsetScorer');
 
 function cleanText(value) {
@@ -42,7 +42,7 @@ function evaluateGearset({
   candidateEquippedItems,
   normalAugments,
   craftingAugmentPlan,
-  buildProfile
+  buildProfile,
 }) {
   const gapPlan = buildAugmentGapPlan({
     equippedItems: candidateEquippedItems,
@@ -50,20 +50,20 @@ function evaluateGearset({
     craftingAssignments: [],
     normalAugments,
     craftingAugmentPlan,
-    buildProfile
+    buildProfile,
   });
 
   const slotPlan = buildAugmentSlotPlan({
     augmentGapPlan: gapPlan,
     selectedAugments: [],
-    equippedItems: candidateEquippedItems
+    equippedItems: candidateEquippedItems,
   });
 
   const validationResult = validateGearset({
     equippedItems: candidateEquippedItems,
     selectedAugments: slotPlan.selectedAugmentsForValidation,
     craftingAssignments: slotPlan.craftingAssignments,
-    buildProfile
+    buildProfile,
   });
 
   const finalGapPlan = buildAugmentGapPlan({
@@ -72,7 +72,7 @@ function evaluateGearset({
     craftingAssignments: slotPlan.craftingAssignments,
     normalAugments,
     craftingAugmentPlan,
-    buildProfile
+    buildProfile,
   });
 
   return {
@@ -80,7 +80,7 @@ function evaluateGearset({
     gapPlan,
     slotPlan,
     validationResult,
-    finalGapPlan
+    finalGapPlan,
   };
 }
 
@@ -88,8 +88,8 @@ function evaluateGearset({
  * Checks whether validation has hard errors.
  */
 function hasHardErrors(validationResult) {
-  return Array.isArray(validationResult.errors) &&
-    validationResult.errors.length > 0;
+  return Array.isArray(validationResult.errors)
+    && validationResult.errors.length > 0;
 }
 
 /**
@@ -98,16 +98,14 @@ function hasHardErrors(validationResult) {
 function buildCandidateEquippedItems({
   selectedItems = [],
   currentItem,
-  backupItem
+  backupItem,
 }) {
   let replaced = false;
 
-  const candidateEquippedItems = selectedItems.map(item => {
-    const sameSlot =
-      item.slot === currentItem.slot;
+  const candidateEquippedItems = selectedItems.map((item) => {
+    const sameSlot = item.slot === currentItem.slot;
 
-    const sameItem =
-      getItemKey(item) === getItemKey(currentItem);
+    const sameItem = getItemKey(item) === getItemKey(currentItem);
 
     if (!replaced && sameSlot && sameItem) {
       replaced = true;
@@ -119,7 +117,7 @@ function buildCandidateEquippedItems({
 
   return {
     candidateEquippedItems,
-    replaced
+    replaced,
   };
 }
 
@@ -132,18 +130,18 @@ function findBestSingleSlotSwap({
   normalAugments,
   craftingAugmentPlan,
   buildProfile,
-  scoringOptions = {}
+  scoringOptions = {},
 }) {
   const currentEvaluation = evaluateGearset({
     candidateEquippedItems: currentGearset.selectedItems,
     normalAugments,
     craftingAugmentPlan,
-    buildProfile
+    buildProfile,
   });
 
   const currentScoreBreakdown = scoreGearsetDetailed(
     currentEvaluation,
-    scoringOptions
+    scoringOptions,
   );
 
   const currentScore = currentScoreBreakdown.score;
@@ -163,11 +161,11 @@ function findBestSingleSlotSwap({
     for (const backupItem of backupItems) {
       const {
         candidateEquippedItems,
-        replaced
+        replaced,
       } = buildCandidateEquippedItems({
         selectedItems: currentGearset.selectedItems,
         currentItem,
-        backupItem
+        backupItem,
       });
 
       if (!replaced) {
@@ -178,7 +176,7 @@ function findBestSingleSlotSwap({
         candidateEquippedItems,
         normalAugments,
         craftingAugmentPlan,
-        buildProfile
+        buildProfile,
       });
 
       if (hasHardErrors(candidateEvaluation.validationResult)) {
@@ -187,7 +185,7 @@ function findBestSingleSlotSwap({
 
       const candidateScoreBreakdown = scoreGearsetDetailed(
         candidateEvaluation,
-        scoringOptions
+        scoringOptions,
       );
 
       const candidateScore = candidateScoreBreakdown.score;
@@ -210,7 +208,7 @@ function findBestSingleSlotSwap({
           newScoreBreakdown:
             compactScoreBreakdown(candidateScoreBreakdown),
 
-          evaluation: candidateEvaluation
+          evaluation: candidateEvaluation,
         };
       }
     }
@@ -223,7 +221,7 @@ function findBestSingleSlotSwap({
   return {
     ...bestSwap,
     bestScoreBreakdown:
-      compactScoreBreakdown(bestScoreBreakdown)
+      compactScoreBreakdown(bestScoreBreakdown),
   };
 }
 
@@ -232,16 +230,14 @@ function findBestSingleSlotSwap({
  */
 function applySwap(currentGearset, swap) {
   const oldItemKey = getItemKey(swap.oldItem);
-  const newItem = swap.newItem;
+  const { newItem } = swap;
 
   let replaced = false;
 
-  const newSelectedItems = currentGearset.selectedItems.map(item => {
-    const sameSlot =
-      item.slot === swap.oldItem.slot;
+  const newSelectedItems = currentGearset.selectedItems.map((item) => {
+    const sameSlot = item.slot === swap.oldItem.slot;
 
-    const sameItem =
-      getItemKey(item) === oldItemKey;
+    const sameItem = getItemKey(item) === oldItemKey;
 
     if (!replaced && sameSlot && sameItem) {
       replaced = true;
@@ -252,7 +248,7 @@ function applySwap(currentGearset, swap) {
   });
 
   const newSlotSelections = currentGearset.slotSelections.map(
-    slotSelection => {
+    (slotSelection) => {
       if (slotSelection.groupLabel !== swap.slotLabel) {
         return slotSelection;
       }
@@ -260,23 +256,21 @@ function applySwap(currentGearset, swap) {
       const newBackupItems = [
         swap.oldItem,
         ...(slotSelection.backupItems || [])
-          .filter(item =>
-            getItemKey(item) !== getItemKey(newItem)
-          )
+          .filter((item) => getItemKey(item) !== getItemKey(newItem)),
       ];
 
       return {
         ...slotSelection,
         selectedItem: newItem,
-        backupItems: newBackupItems
+        backupItems: newBackupItems,
       };
-    }
+    },
   );
 
   return {
     ...currentGearset,
     selectedItems: newSelectedItems,
-    slotSelections: newSlotSelections
+    slotSelections: newSlotSelections,
   };
 }
 
@@ -291,7 +285,7 @@ function runSwapOptimizer({
   normalAugments,
   craftingAugmentPlan,
   buildProfile,
-  options = {}
+  options = {},
 }) {
   const maxPasses = options.maxPasses || 4;
   const scoringOptions = options.scoringOptions || {};
@@ -305,7 +299,7 @@ function runSwapOptimizer({
       normalAugments,
       craftingAugmentPlan,
       buildProfile,
-      scoringOptions
+      scoringOptions,
     });
 
     if (!bestSwap) {
@@ -325,7 +319,7 @@ function runSwapOptimizer({
       improvement: bestSwap.improvement,
 
       oldScoreBreakdown: bestSwap.oldScoreBreakdown,
-      newScoreBreakdown: bestSwap.newScoreBreakdown
+      newScoreBreakdown: bestSwap.newScoreBreakdown,
     });
   }
 
@@ -333,12 +327,12 @@ function runSwapOptimizer({
     candidateEquippedItems: currentGearset.selectedItems,
     normalAugments,
     craftingAugmentPlan,
-    buildProfile
+    buildProfile,
   });
 
   const finalScoreBreakdown = scoreGearsetDetailed(
     finalEvaluation,
-    scoringOptions
+    scoringOptions,
   );
 
   return {
@@ -347,7 +341,7 @@ function runSwapOptimizer({
     finalEvaluation,
     finalScoreBreakdown:
       compactScoreBreakdown(finalScoreBreakdown),
-    swapCount: swapLog.length
+    swapCount: swapLog.length,
   };
 }
 
@@ -369,5 +363,5 @@ module.exports = {
   hasHardErrors,
 
   cleanText,
-  normalizeText
+  normalizeText,
 };

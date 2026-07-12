@@ -2,15 +2,13 @@
 // Calls OpenAI with a build summary and returns advisor text.
 // Requires OPENAI_API_KEY and optionally OPENAI_MODEL in Netlify env vars.
 
-'use strict';
-
 require('dotenv').config();
 
 const {
   generateGearAdvice,
   buildLocalFallbackAdvice,
   normalizeBuildSummary,
-  validateBuildSummary
+  validateBuildSummary,
 } = require('../../tools/openaiGearAdvisor');
 
 // ---------------------------------------------------------------------------
@@ -36,7 +34,7 @@ function buildDynamicAdvisorInstructions(buildProfile = {}) {
     'Explain the most important remaining gaps.',
     'Explain the remaining stacking conflicts without exaggerating them.',
     'Distinguish between serious problems and acceptable leftovers.',
-    'Keep the advice actionable and easy to read.'
+    'Keep the advice actionable and easy to read.',
   ].join('\n');
 }
 
@@ -47,14 +45,14 @@ function buildDynamicAdvisorInstructions(buildProfile = {}) {
 const CORS_HEADERS = {
   'Access-Control-Allow-Origin': '*',
   'Access-Control-Allow-Headers': 'Content-Type',
-  'Access-Control-Allow-Methods': 'POST, OPTIONS'
+  'Access-Control-Allow-Methods': 'POST, OPTIONS',
 };
 
 function jsonResponse(statusCode, body) {
   return {
     statusCode,
     headers: { 'Content-Type': 'application/json', ...CORS_HEADERS },
-    body: JSON.stringify(body)
+    body: JSON.stringify(body),
   };
 }
 
@@ -82,8 +80,8 @@ exports.handler = async function handler(event) {
     return jsonResponse(400, { error: 'Missing required field: summary' });
   }
 
-  const useOpenAI = process.env.USE_OPENAI_ADVISOR !== 'false' &&
-    Boolean(process.env.OPENAI_API_KEY);
+  const useOpenAI = process.env.USE_OPENAI_ADVISOR !== 'false'
+    && Boolean(process.env.OPENAI_API_KEY);
 
   try {
     const summary = normalizeBuildSummary(body.summary);
@@ -93,8 +91,7 @@ exports.handler = async function handler(event) {
 
     if (useOpenAI) {
       // Override the instructions to use the actual build profile
-      const dynamicInstructions =
-        buildDynamicAdvisorInstructions(summary.buildProfile);
+      const dynamicInstructions = buildDynamicAdvisorInstructions(summary.buildProfile);
 
       const result = await generateGearAdvice({
         buildSummary: summary,
@@ -103,7 +100,7 @@ exports.handler = async function handler(event) {
         // generateGearAdvice accepts a pre-built client; we pass null and let
         // it create one, but we patch the instructions via the prompt approach.
         client: null,
-        _instructionsOverride: dynamicInstructions
+        _instructionsOverride: dynamicInstructions,
       });
 
       advice = result.advice;
@@ -115,12 +112,11 @@ exports.handler = async function handler(event) {
     }
 
     return jsonResponse(200, { advice });
-
   } catch (err) {
     console.error('advisor error:', err);
     return jsonResponse(500, {
       error: 'Advisor failed.',
-      detail: err.message
+      detail: err.message,
     });
   }
 };

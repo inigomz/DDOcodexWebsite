@@ -1,17 +1,16 @@
 // testcraftingaugmentsearch.js
 
 const {
-  buildProfileFromGoal
+  buildProfileFromGoal,
 } = require('../tools/buildProfile');
 
 const {
   loadCraftingAugments,
   searchCraftingAugments,
-  compactCraftingAugmentForAI
+  compactCraftingAugmentForAI,
 } = require('../tools/craftingAugmentSearch');
 
-const goal =
-  'Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.';
+const goal = 'Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.';
 
 const buildProfile = buildProfileFromGoal(goal);
 const craftingAugments = loadCraftingAugments();
@@ -22,15 +21,15 @@ function printSearch(title, query) {
     {
       ...query,
       buildProfile,
-      limit: 8
-    }
+      limit: 8,
+    },
   );
 
   console.log(`\n=== ${title} ===`);
   console.log(JSON.stringify(
     results.map(compactCraftingAugmentForAI),
     null,
-    2
+    2,
   ));
 }
 
@@ -40,23 +39,23 @@ console.log(`Build max level: ${buildProfile.maxLevel}`);
 printSearch('Lamordia Melancholic Accessory', {
   system: 'Lamordia',
   slotType: 'Melancholic',
-  itemGroup: 'Accessory'
+  itemGroup: 'Accessory',
 });
 
 printSearch('Lamordia Dolorous Accessory', {
   system: 'Lamordia',
   slotType: 'Dolorous',
-  itemGroup: 'Accessory'
+  itemGroup: 'Accessory',
 });
 
 printSearch('Lamordia Miserable Accessory', {
   system: 'Lamordia',
   slotType: 'Miserable',
-  itemGroup: 'Accessory'
+  itemGroup: 'Accessory',
 });
 
 printSearch('Lamordia Woeful Weapon', {
   system: 'Lamordia',
   slotType: 'Woeful',
-  itemGroup: 'Weapon'
+  itemGroup: 'Weapon',
 });

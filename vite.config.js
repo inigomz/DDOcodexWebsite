@@ -9,8 +9,8 @@ export default defineConfig({
       // Proxy Netlify Function calls to netlify dev during local development
       '/.netlify': {
         target: 'http://localhost:8888',
-        changeOrigin: true
-      }
-    }
-  }
+        changeOrigin: true,
+      },
+    },
+  },
 });

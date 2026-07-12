@@ -8,7 +8,7 @@ const path = require('path');
 const BASE_URL = 'https://ddowiki.com';
 
 function delay(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+  return new Promise((resolve) => { setTimeout(resolve, ms); });
 }
 
 function cleanText(text) {
@@ -51,8 +51,8 @@ function parseMinLevels(rawSetName) {
 
   return mlMatch[1]
     .split('/')
-    .map(value => Number(value.trim()))
-    .filter(value => !Number.isNaN(value));
+    .map((value) => Number(value.trim()))
+    .filter((value) => !Number.isNaN(value));
 }
 
 function parseSetName($, setCell) {
@@ -76,7 +76,7 @@ function parseSetName($, setCell) {
 
     setName,
     rawSetName,
-    minLevels
+    minLevels,
   };
 }
 
@@ -137,7 +137,7 @@ function extractItems($, itemCell) {
       items.push({
         name: itemNameFromAnchor($, anchor),
         link,
-        slotText
+        slotText,
       });
     });
   });
@@ -162,7 +162,7 @@ function extractItems($, itemCell) {
       items.push({
         name: itemNameFromAnchor($, anchor),
         link,
-        slotText: null
+        slotText: null,
       });
     });
   }
@@ -175,13 +175,13 @@ function extractItems($, itemCell) {
 
   return {
     items,
-    itemsRaw
+    itemsRaw,
   };
 }
 
 function parsePiecesRequired(text) {
   const match = cleanText(text).match(
-    /(\d+)\s+(?:Pieces|Piece|Items|Item)(?:\s+Equipped)?/i
+    /(\d+)\s+(?:Pieces|Piece|Items|Item)(?:\s+Equipped)?/i,
   );
 
   if (!match) {
@@ -197,7 +197,7 @@ function parseTieredEffects(text) {
   const tierMap = {
     '♦': 'heroic',
     '●': 'epic',
-    '★': 'legendary'
+    '★': 'legendary',
   };
 
   const tierPattern = /([♦●★])\s*([+-]?\d+(?:\.\d+)?%?)/g;
@@ -208,14 +208,14 @@ function parseTieredEffects(text) {
   }
 
   const sharedEffectText = cleanText(
-    cleaned.replace(tierPattern, '')
+    cleaned.replace(tierPattern, ''),
   );
 
-  return matches.map(match => ({
+  return matches.map((match) => ({
     tier: tierMap[match[1]],
     symbol: match[1],
     valueText: match[2],
-    effect: sharedEffectText
+    effect: sharedEffectText,
   }));
 }
 
@@ -233,7 +233,7 @@ function createBonusObject(text, piecesRequired) {
       cleaned,
 
     tieredEffects:
-      parseTieredEffects(cleaned)
+      parseTieredEffects(cleaned),
   };
 }
 
@@ -270,7 +270,7 @@ function extractBonuses($, bonusCell) {
         }
 
         bonuses.push(
-          createBonusObject(liText, currentPiecesRequired)
+          createBonusObject(liText, currentPiecesRequired),
         );
       });
 
@@ -281,11 +281,11 @@ function extractBonuses($, bonusCell) {
     // instead of a list. Avoid adding pure headers such as
     // "3 Pieces Equipped:" as standalone bonus effects.
     if (
-      tagName === 'P' &&
-      !/^\d+\s+(?:Pieces|Piece|Items|Item)(?:\s+Equipped)?:?$/i.test(childText)
+      tagName === 'P'
+      && !/^\d+\s+(?:Pieces|Piece|Items|Item)(?:\s+Equipped)?:?$/i.test(childText)
     ) {
       bonuses.push(
-        createBonusObject(childText, currentPiecesRequired)
+        createBonusObject(childText, currentPiecesRequired),
       );
     }
   });
@@ -293,13 +293,13 @@ function extractBonuses($, bonusCell) {
   // Fallback for bonus cells that do not use <li>, <ul>, or useful <p>
   if (bonuses.length === 0 && bonusRaw) {
     bonuses.push(
-      createBonusObject(bonusRaw, parsePiecesRequired(bonusRaw))
+      createBonusObject(bonusRaw, parsePiecesRequired(bonusRaw)),
     );
   }
 
   return {
     bonusRaw,
-    bonuses
+    bonuses,
   };
 }
 
@@ -311,14 +311,11 @@ function isNamedSetTable($, table) {
     .map((_, th) => cleanText($(th).text()))
     .get();
 
-  const hasSetName =
-    headers.some(header => header.toLowerCase().includes('set name'));
+  const hasSetName = headers.some((header) => header.toLowerCase().includes('set name'));
 
-  const hasItems =
-    headers.some(header => header.toLowerCase().includes('items'));
+  const hasItems = headers.some((header) => header.toLowerCase().includes('items'));
 
-  const hasSetBonus =
-    headers.some(header => header.toLowerCase().includes('set bonus'));
+  const hasSetBonus = headers.some((header) => header.toLowerCase().includes('set bonus'));
 
   return hasSetName && hasItems && hasSetBonus;
 }
@@ -379,7 +376,7 @@ function parseNamedItemSetsHTML(html) {
         itemsRaw: itemInfo.itemsRaw,
 
         bonusRaw: bonusInfo.bonusRaw,
-        bonuses: bonusInfo.bonuses
+        bonuses: bonusInfo.bonuses,
       });
     });
   });
@@ -395,8 +392,8 @@ async function scrapeNamedItemSets() {
 
   const response = await axios.get(url, {
     headers: {
-      'User-Agent': 'DDO-Gear-Planner-Bot/1.0'
-    }
+      'User-Agent': 'DDO-Gear-Planner-Bot/1.0',
+    },
   });
 
   const namedSets = parseNamedItemSetsHTML(response.data);
@@ -407,7 +404,7 @@ async function scrapeNamedItemSets() {
 
   fs.writeFileSync(
     outputFile,
-    JSON.stringify(namedSets, null, 2)
+    JSON.stringify(namedSets, null, 2),
   );
 
   console.log(`SUCCESS: Saved ${namedSets.length} named item sets.`);
@@ -417,7 +414,7 @@ async function scrapeNamedItemSets() {
 
   return {
     outputFile,
-    count: namedSets.length
+    count: namedSets.length,
   };
 }
 
@@ -436,5 +433,5 @@ if (require.main === module) {
 module.exports = {
   scrapeNamedItemSets,
   parseNamedItemSetsHTML,
-  parseTieredEffects
+  parseTieredEffects,
 };

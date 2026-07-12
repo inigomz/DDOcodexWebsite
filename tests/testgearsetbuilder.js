@@ -1,42 +1,46 @@
 // testgearsetbuilder.js
 
 const {
-  buildProfileFromGoal
+  buildProfileFromGoal,
 } = require('../tools/buildProfile');
 
 const {
   loadAllItems,
   searchItems,
-  compactItemForAI
+  compactItemForAI,
 } = require('../tools/gearsearch');
 
 const {
-  loadCraftingAugments
+  loadCraftingAugments,
 } = require('../tools/craftingAugmentSearch');
 
 const {
-  buildCraftingAugmentPlan
+  loadAllAugments,
+} = require('../tools/augmentSearch');
+
+const {
+  buildCraftingAugmentPlan,
 } = require('../tools/craftingAugmentPlan');
 
 const {
   buildStackAwareGearset,
   scoreCandidateAgainstGear,
-  formatCoveredBonusList
+  formatCoveredBonusList,
 } = require('../tools/gearSetBuilder');
 
-const goal =
-  'Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.';
+const goal = 'Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.';
 
 const buildProfile = buildProfileFromGoal(goal);
 const items = loadAllItems();
 const craftingAugments = loadCraftingAugments();
+const normalAugments = loadAllAugments();
 
 const craftingAugmentPlan = buildCraftingAugmentPlan({
   craftingAugments,
   buildProfile,
   systems: ['Lamordia'],
   limitPerSlot: 5,
-  minimumScore: 40
+  minimumScore: 40,
 });
 
 function createBaseQuery(buildProfile) {
@@ -45,20 +49,19 @@ function createBaseQuery(buildProfile) {
     priorityTerms: buildProfile.priorityTerms || [],
     secondaryTerms: buildProfile.secondaryTerms || [],
     avoidTerms: buildProfile.avoidTerms || [],
-    buildProfile
+    buildProfile,
   };
 }
 
 function getGeneralShouldInclude(buildProfile) {
   return [
     ...(buildProfile.priorityTerms || []),
-    ...(buildProfile.secondaryTerms || [])
+    ...(buildProfile.secondaryTerms || []),
   ];
 }
 
 function shouldSkipOffhand(buildProfile) {
-  const preferredWeaponSubtypes =
-    buildProfile.preferredWeaponSubtypes || [];
+  const preferredWeaponSubtypes = buildProfile.preferredWeaponSubtypes || [];
 
   if (preferredWeaponSubtypes.includes('handwraps')) {
     return true;
@@ -72,20 +75,17 @@ function shouldSkipOffhand(buildProfile) {
     'maul',
     'quarterstaff',
     'long_bow',
-    'short_bow'
+    'short_bow',
   ];
 
-  return preferredWeaponSubtypes.some(subtype =>
-    twoHandedWeaponSubtypes.includes(subtype)
-  );
+  return preferredWeaponSubtypes.some((subtype) => twoHandedWeaponSubtypes.includes(subtype));
 }
 
 function getCandidateQueries(buildProfile) {
   const base = createBaseQuery(buildProfile);
   const generalShouldInclude = getGeneralShouldInclude(buildProfile);
 
-  const preferredWeaponSubtypes =
-    buildProfile.preferredWeaponSubtypes || [];
+  const preferredWeaponSubtypes = buildProfile.preferredWeaponSubtypes || [];
 
   const queries = [
     {
@@ -94,8 +94,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'eyes',
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
+        limit: 10,
+      },
     },
     {
       label: 'Neck',
@@ -103,8 +103,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'neck',
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
+        limit: 10,
+      },
     },
     {
       label: 'Trinket',
@@ -112,8 +112,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'trinket',
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
+        limit: 10,
+      },
     },
     {
       label: 'Finger',
@@ -121,8 +121,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'finger',
         shouldInclude: generalShouldInclude,
-        limit: 12
-      }
+        limit: 12,
+      },
     },
     {
       label: 'Hands',
@@ -130,8 +130,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'hands',
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
+        limit: 10,
+      },
     },
     {
       label: 'Body / Armor',
@@ -139,8 +139,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'armor',
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
+        limit: 10,
+      },
     },
     {
       label: 'Feet',
@@ -148,8 +148,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'feet',
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
+        limit: 10,
+      },
     },
     {
       label: 'Waist',
@@ -157,8 +157,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'waist',
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
+        limit: 10,
+      },
     },
     {
       label: 'Wrists',
@@ -166,8 +166,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'wrists',
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
+        limit: 10,
+      },
     },
     {
       label: 'Back',
@@ -175,8 +175,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'back',
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
+        limit: 10,
+      },
     },
     {
       label: 'Head',
@@ -184,9 +184,9 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'head',
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
-    }
+        limit: 10,
+      },
+    },
   ];
 
   if (preferredWeaponSubtypes.length > 0) {
@@ -197,8 +197,8 @@ function getCandidateQueries(buildProfile) {
         slot: 'weapon',
         itemSubtypes: preferredWeaponSubtypes,
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
+        limit: 10,
+      },
     });
   } else {
     queries.push({
@@ -207,8 +207,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'weapon',
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
+        limit: 10,
+      },
     });
   }
 
@@ -219,8 +219,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'offhand',
         shouldInclude: generalShouldInclude,
-        limit: 10
-      }
+        limit: 10,
+      },
     });
   }
 
@@ -230,15 +230,15 @@ function getCandidateQueries(buildProfile) {
 function buildTestGearGroups() {
   const queryGroups = getCandidateQueries(buildProfile);
 
-  return queryGroups.map(group => {
+  return queryGroups.map((group) => {
     const fullCandidates = searchItems(items, {
       ...group.query,
-      limit: group.query.limit || 10
+      limit: group.query.limit || 10,
     });
 
     return {
       label: group.label,
-      fullCandidates
+      fullCandidates,
     };
   });
 }
@@ -247,14 +247,14 @@ function printCraftingPlanSummary() {
   console.log('\n=== Crafting Augment Plan Summary ===');
 
   console.log(
-    `Loaded ${craftingAugments.length} crafting augments.`
+    `Loaded ${craftingAugments.length} crafting augments.`,
   );
 
   console.log('\nTop useful crafting slots:');
 
   for (const slot of craftingAugmentPlan.usefulCraftingSlots.slice(0, 10)) {
     console.log(
-      `- ${slot.label}: ${slot.bestCandidate.name} (${slot.bestCandidate.stackKey}, score ${slot.bestScore})`
+      `- ${slot.label}: ${slot.bestCandidate.name} (${slot.bestCandidate.stackKey}, score ${slot.bestScore})`,
     );
   }
 
@@ -262,7 +262,7 @@ function printCraftingPlanSummary() {
 
   for (const entry of craftingAugmentPlan.desiredCraftingStackKeys.slice(0, 15)) {
     console.log(
-      `- ${entry.stackKey}: ${entry.bestCandidate} from ${entry.sourceSlotLabel} (score ${entry.bestScore})`
+      `- ${entry.stackKey}: ${entry.bestCandidate} from ${entry.sourceSlotLabel} (score ${entry.bestScore})`,
     );
   }
 }
@@ -312,20 +312,20 @@ function printStackAwareChoices(result) {
 
       console.log(
         'Crafting potential score:',
-        selection.craftingPotential?.score ?? 0
+        selection.craftingPotential?.score ?? 0,
       );
 
       if (
-        selection.craftingPotential &&
-        selection.craftingPotential.slotPotentials.length > 0
+        selection.craftingPotential
+        && selection.craftingPotential.slotPotentials.length > 0
       ) {
         console.log(
           'Crafting slot potentials:',
           JSON.stringify(
             selection.craftingPotential.slotPotentials,
             null,
-            2
-          )
+            2,
+          ),
         );
       }
     }
@@ -356,12 +356,12 @@ function printSelectionLog(result) {
     }
 
     if (
-      entry.craftingPotential &&
-      entry.craftingPotential.score > 0
+      entry.craftingPotential
+      && entry.craftingPotential.score > 0
     ) {
       console.log(
         'Crafting potential:',
-        JSON.stringify(entry.craftingPotential, null, 2)
+        JSON.stringify(entry.craftingPotential, null, 2),
       );
     }
   }
@@ -375,13 +375,13 @@ function printCoveredBonuses(result) {
 
   for (const bonus of covered) {
     console.log(
-      `${bonus.stackKey}: ${bonus.raw} from ${bonus.source?.name || 'unknown'}`
+      `${bonus.stackKey}: ${bonus.raw} from ${bonus.source?.name || 'unknown'}`,
     );
   }
 }
 
 function debugSingleSlot(gearGroups, slotLabel) {
-  const group = gearGroups.find(entry => entry.label === slotLabel);
+  const group = gearGroups.find((entry) => entry.label === slotLabel);
 
   if (!group) {
     return;
@@ -392,16 +392,14 @@ function debugSingleSlot(gearGroups, slotLabel) {
   const emptyCovered = new Map();
 
   const scored = group.fullCandidates
-    .map(item =>
-      scoreCandidateAgainstGear(
-        item,
-        emptyCovered,
-        buildProfile,
-        {
-          craftingAugmentPlan
-        }
-      )
-    )
+    .map((item) => scoreCandidateAgainstGear(
+      item,
+      emptyCovered,
+      buildProfile,
+      {
+        craftingAugmentPlan,
+      },
+    ))
     .sort((a, b) => b.score - a.score)
     .slice(0, 5);
 
@@ -410,25 +408,25 @@ function debugSingleSlot(gearGroups, slotLabel) {
     console.log(`Dynamic score: ${entry.score}`);
     console.log(
       'Useful bonuses:',
-      entry.usefulBonuses.map(bonus => bonus.raw)
+      entry.usefulBonuses.map((bonus) => bonus.raw),
     );
 
     console.log(
       'Crafting potential score:',
-      entry.craftingPotential?.score ?? 0
+      entry.craftingPotential?.score ?? 0,
     );
 
     if (
-      entry.craftingPotential &&
-      entry.craftingPotential.slotPotentials.length > 0
+      entry.craftingPotential
+      && entry.craftingPotential.slotPotentials.length > 0
     ) {
       console.log(
         'Crafting slot potentials:',
         JSON.stringify(
           entry.craftingPotential.slotPotentials,
           null,
-          2
-        )
+          2,
+        ),
       );
     }
   }
@@ -454,7 +452,8 @@ function main() {
   const result = buildStackAwareGearset({
     gearGroups,
     buildProfile,
-    craftingAugmentPlan
+    craftingAugmentPlan,
+    normalAugments,
   });
 
   printStackAwareChoices(result);

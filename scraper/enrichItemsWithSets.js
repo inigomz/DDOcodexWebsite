@@ -30,7 +30,7 @@ function linkToItemKey(link) {
     .trim();
 
   cleaned = cleaned
-    .replace(BASE_URL + '/page/', '')
+    .replace(`${BASE_URL}/page/`, '')
     .replace('/page/', '')
     .trim()
     .toLowerCase();
@@ -50,7 +50,7 @@ function normalizeTieredEffects(tieredEffects) {
     return [];
   }
 
-  return tieredEffects.map(effect => ({
+  return tieredEffects.map((effect) => ({
     tier: effect.tier || null,
     symbol: effect.symbol || null,
     valueText: effect.valueText || null,
@@ -68,8 +68,7 @@ function normalizeBonus(bonus) {
 }
 
 function createMembership(namedSet) {
-  const setId =
-    namedSet.setId || normalizeSetId(namedSet.setName);
+  const setId = namedSet.setId || normalizeSetId(namedSet.setName);
 
   const bonuses = Array.isArray(namedSet.bonuses)
     ? namedSet.bonuses.map(normalizeBonus)
@@ -100,7 +99,7 @@ function createMembership(namedSet) {
     bonusRaw:
       namedSet.bonusRaw || null,
 
-    bonuses
+    bonuses,
   };
 }
 
@@ -132,14 +131,14 @@ function createSetBonusEntries(memberships) {
           bonus.effectRaw || bonus.effect || '',
 
         tieredEffects:
-          normalizeTieredEffects(bonus.tieredEffects)
+          normalizeTieredEffects(bonus.tieredEffects),
       });
     }
 
     // Fallback if the named set parser only found bonusRaw
     if (
-      (!membership.bonuses || membership.bonuses.length === 0) &&
-      membership.bonusRaw
+      (!membership.bonuses || membership.bonuses.length === 0)
+      && membership.bonusRaw
     ) {
       setBonuses.push({
         setId:
@@ -164,7 +163,7 @@ function createSetBonusEntries(memberships) {
           membership.bonusRaw,
 
         tieredEffects:
-          []
+          [],
       });
     }
   }
@@ -195,7 +194,7 @@ function buildSetMembershipMap(namedSets) {
       const newMembership = createMembership(namedSet);
 
       const alreadyExists = memberships.some(
-        membership => membership.setId === newMembership.setId
+        (membership) => membership.setId === newMembership.setId,
       );
 
       if (!alreadyExists) {
@@ -211,8 +210,7 @@ function mergeSetMembership(existingMemberships, newMemberships) {
   const merged = new Map();
 
   for (const membership of existingMemberships || []) {
-    const key =
-      membership.setId || normalizeSetId(membership.setName);
+    const key = membership.setId || normalizeSetId(membership.setName);
 
     if (!key) {
       continue;
@@ -222,8 +220,7 @@ function mergeSetMembership(existingMemberships, newMemberships) {
   }
 
   for (const membership of newMemberships || []) {
-    const key =
-      membership.setId || normalizeSetId(membership.setName);
+    const key = membership.setId || normalizeSetId(membership.setName);
 
     if (!key) {
       continue;
@@ -243,7 +240,7 @@ function setBonusKey(bonus) {
   return [
     bonus.setId || '',
     bonus.piecesRequired ?? '',
-    bonus.effect || bonus.effectRaw || bonus.raw || ''
+    bonus.effect || bonus.effectRaw || bonus.raw || '',
   ]
     .join('|')
     .toLowerCase();
@@ -286,8 +283,8 @@ function writeJsonFile(filepath, data) {
 function getJsonFiles(directory) {
   return fs
     .readdirSync(directory)
-    .filter(file => file.endsWith('.json'))
-    .map(file => path.join(directory, file));
+    .filter((file) => file.endsWith('.json'))
+    .map((file) => path.join(directory, file));
 }
 
 function enrichItemFile(filepath, membershipMap, matchedKeys) {
@@ -299,38 +296,33 @@ function enrichItemFile(filepath, membershipMap, matchedKeys) {
     return {
       file: path.basename(filepath),
       itemCount: 0,
-      matchedCount: 0
+      matchedCount: 0,
     };
   }
 
   let matchedCount = 0;
 
-  const enrichedItems = items.map(item => {
-    const itemKey =
-      item.itemKey || linkToItemKey(item.link);
+  const enrichedItems = items.map((item) => {
+    const itemKey = item.itemKey || linkToItemKey(item.link);
 
-    const newMemberships =
-      membershipMap.get(itemKey) || [];
+    const newMemberships = membershipMap.get(itemKey) || [];
 
     if (newMemberships.length > 0) {
       matchedCount++;
       matchedKeys.add(itemKey);
     }
 
-    const mergedMemberships =
-      mergeSetMembership(
-        item.setMembership || [],
-        newMemberships
-      );
+    const mergedMemberships = mergeSetMembership(
+      item.setMembership || [],
+      newMemberships,
+    );
 
-    const newSetBonuses =
-      createSetBonusEntries(newMemberships);
+    const newSetBonuses = createSetBonusEntries(newMemberships);
 
-    const mergedSetBonuses =
-      mergeSetBonuses(
-        item.setBonuses || [],
-        newSetBonuses
-      );
+    const mergedSetBonuses = mergeSetBonuses(
+      item.setBonuses || [],
+      newSetBonuses,
+    );
 
     return {
       ...item,
@@ -341,7 +333,7 @@ function enrichItemFile(filepath, membershipMap, matchedKeys) {
         mergedMemberships,
 
       setBonuses:
-        mergedSetBonuses
+        mergedSetBonuses,
     };
   });
 
@@ -354,7 +346,7 @@ function enrichItemFile(filepath, membershipMap, matchedKeys) {
   return {
     file: path.basename(filepath),
     itemCount: enrichedItems.length,
-    matchedCount
+    matchedCount,
   };
 }
 
@@ -365,7 +357,7 @@ function writeUnmatchedSetItems(membershipMap, matchedKeys) {
     if (!matchedKeys.has(itemKey)) {
       unmatched.push({
         itemKey,
-        memberships
+        memberships,
       });
     }
   }
@@ -378,7 +370,7 @@ function writeUnmatchedSetItems(membershipMap, matchedKeys) {
 
   return {
     unmatchedFile,
-    unmatchedCount: unmatched.length
+    unmatchedCount: unmatched.length,
   };
 }
 
@@ -415,7 +407,7 @@ function main() {
     totalMatchedItems += result.matchedCount;
 
     console.log(
-      `${result.file}: ${result.matchedCount}/${result.itemCount} items matched`
+      `${result.file}: ${result.matchedCount}/${result.itemCount} items matched`,
     );
   }
 

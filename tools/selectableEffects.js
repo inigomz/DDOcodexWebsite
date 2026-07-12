@@ -1,7 +1,7 @@
 // selectableEffects.js
 
 const {
-  parseBonusEffect
+  parseBonusEffect,
 } = require('./bonusParser');
 
 const BONUS_TYPES = [
@@ -18,7 +18,7 @@ const BONUS_TYPES = [
   'Luck',
   'Resistance',
   'Natural Armor',
-  'Protection'
+  'Protection',
 ];
 
 const CHOICE_STATS = [
@@ -57,7 +57,7 @@ const CHOICE_STATS = [
   'Fortification',
   'Resistance',
   'Sheltering',
-  'False Life'
+  'False Life',
 ];
 
 function cleanText(value) {
@@ -85,11 +85,11 @@ function isChoiceGroupText(text) {
   const normalized = normalizeText(text);
 
   return (
-    normalized.includes('one of the following') ||
-    normalized.includes('nearly finishedone of the following') ||
-    normalized.includes('nearly finished one of the following') ||
-    normalized.includes('almost thereone of the following') ||
-    normalized.includes('almost there one of the following')
+    normalized.includes('one of the following')
+    || normalized.includes('nearly finishedone of the following')
+    || normalized.includes('nearly finished one of the following')
+    || normalized.includes('almost thereone of the following')
+    || normalized.includes('almost there one of the following')
   );
 }
 
@@ -116,7 +116,7 @@ function buildChoiceRegex() {
 
   return new RegExp(
     `(?:\\b(${bonusTypePattern})\\s+)?\\b(${statPattern})\\s*([+-]?\\d+(?:\\.\\d+)?%?|[IVX]+)`,
-    'gi'
+    'gi',
   );
 }
 
@@ -125,7 +125,7 @@ function insertMissingChoiceSpaces(text) {
 
   const markers = [
     ...BONUS_TYPES,
-    ...CHOICE_STATS
+    ...CHOICE_STATS,
   ]
     .sort((a, b) => b.length - a.length);
 
@@ -136,7 +136,7 @@ function insertMissingChoiceSpaces(text) {
     // +6Insightful Wisdom -> +6 Insightful Wisdom
     result = result.replace(
       new RegExp(`([+\\-]?\\d+(?:\\.\\d+)?%?|[IVX]+)(${escaped})`, 'gi'),
-      '$1 $2'
+      '$1 $2',
     );
   }
 
@@ -149,7 +149,7 @@ function parseChoicesFromGroupText(groupText) {
   }
 
   const text = insertMissingChoiceSpaces(
-    stripChoiceGroupPrefix(groupText)
+    stripChoiceGroupPrefix(groupText),
   );
 
   const bonusTypePattern = BONUS_TYPES
@@ -164,7 +164,7 @@ function parseChoicesFromGroupText(groupText) {
 
   const choiceRegex = new RegExp(
     `(?:\\b(${bonusTypePattern})\\s+)?\\b(${statPattern})\\s*([+-]?\\d+(?:\\.\\d+)?%?|[IVX]+)`,
-    'gi'
+    'gi',
   );
 
   const choices = [];
@@ -182,7 +182,7 @@ function parseChoicesFromGroupText(groupText) {
 
     choices.push({
       raw,
-      parsed
+      parsed,
     });
   }
 
@@ -202,8 +202,8 @@ function scoreChoice(choice, buildProfile = {}) {
 
   for (const primaryStat of buildProfile.primaryStats || []) {
     if (
-      textMatchesTerm(stat, primaryStat) ||
-      textMatchesTerm(raw, primaryStat)
+      textMatchesTerm(stat, primaryStat)
+      || textMatchesTerm(raw, primaryStat)
     ) {
       score += 100;
     }
@@ -211,8 +211,8 @@ function scoreChoice(choice, buildProfile = {}) {
 
   for (const term of buildProfile.priorityTerms || []) {
     if (
-      textMatchesTerm(stat, term) ||
-      textMatchesTerm(raw, term)
+      textMatchesTerm(stat, term)
+      || textMatchesTerm(raw, term)
     ) {
       score += 25;
     }
@@ -220,8 +220,8 @@ function scoreChoice(choice, buildProfile = {}) {
 
   for (const term of buildProfile.secondaryTerms || []) {
     if (
-      textMatchesTerm(stat, term) ||
-      textMatchesTerm(raw, term)
+      textMatchesTerm(stat, term)
+      || textMatchesTerm(raw, term)
     ) {
       score += 8;
     }
@@ -229,8 +229,8 @@ function scoreChoice(choice, buildProfile = {}) {
 
   for (const term of buildProfile.avoidTerms || []) {
     if (
-      textMatchesTerm(stat, term) ||
-      textMatchesTerm(raw, term)
+      textMatchesTerm(stat, term)
+      || textMatchesTerm(raw, term)
     ) {
       score -= 50;
     }
@@ -249,9 +249,9 @@ function chooseBestChoice(choices, buildProfile = {}) {
   }
 
   return [...choices]
-    .map(choice => ({
+    .map((choice) => ({
       ...choice,
-      choiceScore: scoreChoice(choice, buildProfile)
+      choiceScore: scoreChoice(choice, buildProfile),
     }))
     .sort((a, b) => b.choiceScore - a.choiceScore)[0];
 }
@@ -270,7 +270,7 @@ function getSelectableEffectGroupsFromEffects(effects, buildProfile = {}) {
     groups.push({
       wrapper: effect,
       choices,
-      chosen
+      chosen,
     });
   }
 
@@ -292,7 +292,7 @@ function getResolvedItemEffects(item, buildProfile = {}) {
   const rawEffects = getRawItemEffects(item);
   const groups = getSelectableEffectGroupsFromEffects(
     rawEffects,
-    buildProfile
+    buildProfile,
   );
 
   if (groups.length === 0) {
@@ -342,8 +342,8 @@ function getResolvedItemEffects(item, buildProfile = {}) {
       continue;
     }
 
-    const chosenAlreadyPresent = resolvedEffects.some(effect =>
-      normalizeEffectKey(effect) === normalizeEffectKey(group.chosen.raw)
+    const chosenAlreadyPresent = resolvedEffects.some(
+      (effect) => normalizeEffectKey(effect) === normalizeEffectKey(group.chosen.raw),
     );
 
     if (!chosenAlreadyPresent) {
@@ -358,13 +358,13 @@ function getSelectableSummaryForItem(item, buildProfile = {}) {
   const rawEffects = getRawItemEffects(item);
   const groups = getSelectableEffectGroupsFromEffects(
     rawEffects,
-    buildProfile
+    buildProfile,
   );
 
-  return groups.map(group => ({
+  return groups.map((group) => ({
     wrapper: group.wrapper,
-    choices: group.choices.map(choice => choice.raw),
-    chosen: group.chosen ? group.chosen.raw : null
+    choices: group.choices.map((choice) => choice.raw),
+    chosen: group.chosen ? group.chosen.raw : null,
   }));
 }
 
@@ -374,5 +374,5 @@ module.exports = {
   getSelectableEffectGroupsFromEffects,
   parseChoicesFromGroupText,
   chooseBestChoice,
-  isChoiceGroupText
+  isChoiceGroupText,
 };

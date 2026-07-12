@@ -16,9 +16,9 @@ function isChoiceGroupWrapper(raw) {
   const text = normalizeText(raw);
 
   return (
-    text.includes('one of the following') ||
-    text.includes('nearly finishedone of the following') ||
-    text.includes('almost thereone of the following')
+    text.includes('one of the following')
+    || text.includes('nearly finishedone of the following')
+    || text.includes('almost thereone of the following')
   );
 }
 
@@ -30,7 +30,7 @@ function romanToInt(roman) {
     L: 50,
     C: 100,
     D: 500,
-    M: 1000
+    M: 1000,
   };
 
   const text = String(roman || '').toUpperCase();
@@ -58,12 +58,12 @@ function parseValue(valueText) {
     cleaned
       .replace('%', '')
       .replace('+', '')
-      .trim()
+      .trim(),
   );
 
   return {
     value,
-    isPercent
+    isPercent,
   };
 }
 
@@ -88,7 +88,7 @@ const BONUS_TYPE_ALIASES = {
   guild: 'Guild',
   mythic: 'Mythic',
   reaper: 'Reaper',
-  festive: 'Festive'
+  festive: 'Festive',
 };
 
 function canonicalizeBonusType(rawBonusType, fallback = 'Default') {
@@ -141,97 +141,97 @@ function canonicalizeStat(rawStat, rawEffect = '') {
   }
 
   if (
-    effectText.includes('positive healing amplification') ||
-    effectText.includes('healing amplification')
+    effectText.includes('positive healing amplification')
+    || effectText.includes('healing amplification')
   ) {
     return 'Healing Amplification';
   }
 
   if (
-    effectText.includes('maximum hp') ||
-    effectText.includes('maximum hit points') ||
-    effectText.includes('false life')
+    effectText.includes('maximum hp')
+    || effectText.includes('maximum hit points')
+    || effectText.includes('false life')
   ) {
     return 'False Life';
   }
 
   // Offensive aliases
   if (
-    text === 'attack' ||
-    text === 'to attack' ||
-    effectText.includes('bonus to attack')
+    text === 'attack'
+    || text === 'to attack'
+    || effectText.includes('bonus to attack')
   ) {
     return 'Accuracy';
   }
 
   if (
-    text.includes('critical confirmation and critical damage') ||
-    text.includes('critical confirmation') ||
-    text.includes('critical damage')
+    text.includes('critical confirmation and critical damage')
+    || text.includes('critical confirmation')
+    || text.includes('critical damage')
   ) {
     return 'Seeker';
   }
 
   if (
-    text.includes('bypass enemy fortification') ||
-    text.includes('fortification bypass') ||
-    text.includes('bypass fortification') ||
-    text.includes('armor-piercing') ||
-    text.includes('armor piercing')
+    text.includes('bypass enemy fortification')
+    || text.includes('fortification bypass')
+    || text.includes('bypass fortification')
+    || text.includes('armor-piercing')
+    || text.includes('armor piercing')
   ) {
     return 'Armor-Piercing';
   }
 
   // Tactical DC aliases
   if (
-    text.includes('stunning dcs') ||
-    text.includes('stunning dc') ||
-    text === 'stunning'
+    text.includes('stunning dcs')
+    || text.includes('stunning dc')
+    || text === 'stunning'
   ) {
     return 'Stunning';
   }
 
   if (
-    text.includes('trip dcs') ||
-    text.includes('trip dc') ||
-    text === 'trip'
+    text.includes('trip dcs')
+    || text.includes('trip dc')
+    || text === 'trip'
   ) {
     return 'Trip';
   }
 
   if (
-    text.includes('sunder dcs') ||
-    text.includes('sunder dc') ||
-    text === 'sunder'
+    text.includes('sunder dcs')
+    || text.includes('sunder dc')
+    || text === 'sunder'
   ) {
     return 'Sunder';
   }
 
   if (
-    text.includes('assassinate dcs') ||
-    text.includes('assassinate dc') ||
-    text === 'assassinate'
+    text.includes('assassinate dcs')
+    || text.includes('assassinate dc')
+    || text === 'assassinate'
   ) {
     return 'Assassinate';
   }
 
   if (
-    effectText.includes('dc to resist') &&
-    (
-      effectText.includes('stunning blow') ||
-      effectText.includes('stunning fist') ||
-      effectText.includes('improved trip') ||
-      effectText.includes('trip') ||
-      effectText.includes('improved sunder') ||
-      effectText.includes('sunder')
+    effectText.includes('dc to resist')
+    && (
+      effectText.includes('stunning blow')
+      || effectText.includes('stunning fist')
+      || effectText.includes('improved trip')
+      || effectText.includes('trip')
+      || effectText.includes('improved sunder')
+      || effectText.includes('sunder')
     )
   ) {
     return 'Combat Mastery';
   }
 
   if (
-    text.includes('tactical dcs') ||
-    text.includes('tactical dc')
+    text.includes('tactical dcs')
+    || text.includes('tactical dc')
   ) {
     return 'Tactical DC';
   }
@@ -256,7 +256,7 @@ function makeParsedBonus({
   stat,
   value,
   valueText,
-  isPercent
+  isPercent,
 }) {
   const cleanRaw = cleanText(raw);
   const canonicalBonusType = canonicalizeBonusType(bonusType);
@@ -273,7 +273,7 @@ function makeParsedBonus({
     valueText,
     isPercent,
     family: canonicalStat,
-    stackKey: `${canonicalBonusType}:${canonicalStat}`
+    stackKey: `${canonicalBonusType}:${canonicalStat}`,
   };
 }
 
@@ -286,7 +286,7 @@ function parseExplicitBonusTo(raw) {
   // +17 Enhancement bonus to Stunning DCs
   // Adds Armor-Piercing. +23% Enhancement bonus to bypass enemy Fortification
   const match = text.match(
-    /([+-]?\d+(?:\.\d+)?%?)\s+([A-Za-z -]+?)\s+bonus\s+to\s+(.+?)(?:\.|$)/i
+    /([+-]?\d+(?:\.\d+)?%?)\s+([A-Za-z -]+?)\s+bonus\s+to\s+(.+?)(?:\.|$)/i,
   );
 
   if (!match) {
@@ -307,7 +307,7 @@ function parseExplicitBonusTo(raw) {
     stat,
     value: parsedValue.value,
     valueText,
-    isPercent: parsedValue.isPercent
+    isPercent: parsedValue.isPercent,
   });
 }
 
@@ -317,7 +317,7 @@ function parseExplicitBonusWithoutWordBonus(raw) {
   // Example malformed wiki line:
   // +3 Quality to Strength
   const match = text.match(
-    /^([+-]?\d+(?:\.\d+)?%?)\s+([A-Za-z -]+?)\s+to\s+(.+?)(?:\.|$)/i
+    /^([+-]?\d+(?:\.\d+)?%?)\s+([A-Za-z -]+?)\s+to\s+(.+?)(?:\.|$)/i,
   );
 
   if (!match) {
@@ -342,7 +342,7 @@ function parseExplicitBonusWithoutWordBonus(raw) {
     stat,
     value: parsedValue.value,
     valueText,
-    isPercent: parsedValue.isPercent
+    isPercent: parsedValue.isPercent,
   });
 }
 
@@ -350,7 +350,7 @@ function parseEnhancementBonus(raw) {
   const text = cleanText(raw);
 
   const match = text.match(
-    /^([+-]?\d+(?:\.\d+)?)\s+Enhancement\s+Bonus$/i
+    /^([+-]?\d+(?:\.\d+)?)\s+Enhancement\s+Bonus$/i,
   );
 
   if (!match) {
@@ -368,7 +368,7 @@ function parseEnhancementBonus(raw) {
     stat: 'Weapon Enhancement Bonus',
     value: parsedValue.value,
     valueText,
-    isPercent: false
+    isPercent: false,
   });
 }
 
@@ -380,7 +380,7 @@ function parsePrefixBonusType(raw) {
   // Insightful Armor-Piercing 10%
   // Competence Healing Amplification +57
   const match = text.match(
-    /^(Quality|Insightful|Insight|Exceptional|Competence|Enhancement|Equipment|Profane|Artifact|Legendary|Alchemical|Sacred|Morale|Luck|Festive|Mythic|Reaper)\s+(.+?)\s+([+-]?\d+(?:\.\d+)?%?)$/i
+    /^(Quality|Insightful|Insight|Exceptional|Competence|Enhancement|Equipment|Profane|Artifact|Legendary|Alchemical|Sacred|Morale|Luck|Festive|Mythic|Reaper)\s+(.+?)\s+([+-]?\d+(?:\.\d+)?%?)$/i,
   );
 
   if (!match) {
@@ -401,7 +401,7 @@ function parsePrefixBonusType(raw) {
     stat,
     value: parsedValue.value,
     valueText,
-    isPercent: parsedValue.isPercent
+    isPercent: parsedValue.isPercent,
   });
 }
 
@@ -430,7 +430,7 @@ function parseRomanBonus(raw) {
     stat,
     value,
     valueText: roman,
-    isPercent: false
+    isPercent: false,
   });
 }
 
@@ -461,7 +461,7 @@ function parseSimpleNumericBonus(raw) {
     stat,
     value: parsedValue.value,
     valueText,
-    isPercent: parsedValue.isPercent
+    isPercent: parsedValue.isPercent,
   });
 }
 
@@ -484,7 +484,7 @@ function parseKnownEmbeddedBonus(raw) {
       stat: 'Combat Mastery',
       value: parsedValue.value,
       valueText,
-      isPercent: false
+      isPercent: false,
     });
   }
 
@@ -498,7 +498,7 @@ function parseBonusEffect(raw) {
     return {
       raw,
       parsed: false,
-      reason: 'empty'
+      reason: 'empty',
     };
   }
 
@@ -506,7 +506,7 @@ function parseBonusEffect(raw) {
     return {
       raw: text,
       parsed: false,
-      reason: 'choice_group_wrapper'
+      reason: 'choice_group_wrapper',
     };
   }
 
@@ -517,7 +517,7 @@ function parseBonusEffect(raw) {
     parsePrefixBonusType,
     parseKnownEmbeddedBonus,
     parseRomanBonus,
-    parseSimpleNumericBonus
+    parseSimpleNumericBonus,
   ];
 
   for (const parser of parsers) {
@@ -531,7 +531,7 @@ function parseBonusEffect(raw) {
   return {
     raw: text,
     parsed: false,
-    reason: 'unrecognized'
+    reason: 'unrecognized',
   };
 }
 
@@ -548,13 +548,13 @@ function normalizeEffectsInput(effects) {
 }
 
 function parseEffects(effects, source = null) {
-  return normalizeEffectsInput(effects).map(effect => {
+  return normalizeEffectsInput(effects).map((effect) => {
     const parsed = parseBonusEffect(effect);
 
     if (source) {
       return {
         ...parsed,
-        source
+        source,
       };
     }
 
@@ -567,7 +567,7 @@ function parseItemBonuses(item) {
     ...(item.effects || []),
     ...(item.effectsRaw || []),
     ...(item.enhancements || []),
-    ...(item.namedEffects || [])
+    ...(item.namedEffects || []),
   ];
 
   return parseEffects(
@@ -575,8 +575,8 @@ function parseItemBonuses(item) {
     {
       type: 'item',
       name: item.name,
-      itemKey: item.itemKey || item.link || item.name
-    }
+      itemKey: item.itemKey || item.link || item.name,
+    },
   );
 }
 
@@ -585,11 +585,11 @@ function findStackingConflicts(parsedBonuses) {
 
   for (const bonus of parsedBonuses || []) {
     if (
-      !bonus ||
-      !bonus.parsed ||
-      !bonus.stackKey ||
-      bonus.value === null ||
-      bonus.value === undefined
+      !bonus
+      || !bonus.parsed
+      || !bonus.stackKey
+      || bonus.value === null
+      || bonus.value === undefined
     ) {
       continue;
     }
@@ -623,7 +623,7 @@ function findStackingConflicts(parsedBonuses) {
       bonusType: winningBonus.bonusType,
       stat: winningBonus.stat,
       winningBonus,
-      suppressedBonuses
+      suppressedBonuses,
     });
   }
 
@@ -638,5 +638,5 @@ module.exports = {
 
   cleanText,
   canonicalizeStat,
-  canonicalizeBonusType
+  canonicalizeBonusType,
 };

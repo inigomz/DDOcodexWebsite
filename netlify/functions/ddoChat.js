@@ -1,8 +1,6 @@
 // netlify/functions/ddoChat.js
 // DDO-only chatbot endpoint. Strictly refuses non-DDO questions.
 
-'use strict';
-
 require('dotenv').config();
 
 let OpenAI = null;
@@ -27,14 +25,14 @@ Be concise, accurate, and helpful. Use DDO terminology correctly.`;
 const CORS_HEADERS = {
   'Access-Control-Allow-Origin': '*',
   'Access-Control-Allow-Headers': 'Content-Type',
-  'Access-Control-Allow-Methods': 'POST, OPTIONS'
+  'Access-Control-Allow-Methods': 'POST, OPTIONS',
 };
 
 function jsonResponse(statusCode, body) {
   return {
     statusCode,
     headers: { 'Content-Type': 'application/json', ...CORS_HEADERS },
-    body: JSON.stringify(body)
+    body: JSON.stringify(body),
   };
 }
 
@@ -76,20 +74,19 @@ exports.handler = async function handler(event) {
     const messages = [
       { role: 'system', content: SYSTEM_PROMPT },
       ...history,
-      { role: 'user', content: message }
+      { role: 'user', content: message },
     ];
 
     const completion = await client.chat.completions.create({
       model: process.env.OPENAI_MODEL || 'gpt-4o-mini',
       messages,
       max_tokens: 600,
-      temperature: 0.7
+      temperature: 0.7,
     });
 
     const reply = completion.choices[0]?.message?.content?.trim() || 'No response.';
 
     return jsonResponse(200, { reply });
-
   } catch (err) {
     console.error('ddoChat error:', err);
     return jsonResponse(500, { error: 'Chat failed.', detail: err.message });

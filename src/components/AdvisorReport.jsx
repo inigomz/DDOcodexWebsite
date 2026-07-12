@@ -22,11 +22,9 @@ function renderAdvice(text) {
     const parts = line.split(/(\*\*[^*]+\*\*)/g);
     return (
       <p key={i} className={styles.para}>
-        {parts.map((part, j) =>
-          part.startsWith('**') && part.endsWith('**')
-            ? <strong key={j}>{part.slice(2, -2)}</strong>
-            : part
-        )}
+        {parts.map((part, j) => (part.startsWith('**') && part.endsWith('**')
+          ? <strong key={j}>{part.slice(2, -2)}</strong>
+          : part))}
       </p>
     );
   });

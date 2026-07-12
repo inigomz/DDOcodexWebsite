@@ -14,9 +14,7 @@ function normalizeText(value) {
 function includesAny(text, terms) {
   const normalized = normalizeText(text);
 
-  return terms.some(term =>
-    normalized.includes(normalizeText(term))
-  );
+  return terms.some((term) => normalized.includes(normalizeText(term)));
 }
 
 function unique(values) {
@@ -51,11 +49,11 @@ function detectPrimaryStats(goal) {
     ['Constitution', ['constitution-based', 'constitution based', 'con-based', 'con based', 'constitution']],
     ['Intelligence', ['intelligence-based', 'intelligence based', 'int-based', 'int based', 'intelligence']],
     ['Wisdom', ['wisdom-based', 'wisdom based', 'wis-based', 'wis based', 'wisdom']],
-    ['Charisma', ['charisma-based', 'charisma based', 'cha-based', 'cha based', 'charisma']]
+    ['Charisma', ['charisma-based', 'charisma based', 'cha-based', 'cha based', 'charisma']],
   ];
 
   for (const [stat, terms] of statChecks) {
-    if (terms.some(term => text.includes(term))) {
+    if (terms.some((term) => text.includes(term))) {
       primaryStats.push(stat);
     }
   }
@@ -147,7 +145,7 @@ function detectArmorPreference(goal, buildTypes = []) {
       'outfits',
       'no armor',
       'unarmored',
-      'unarmoured'
+      'unarmoured',
     ])
   ) {
     notes.push('Detected cloth / robe / outfit armor requirement.');
@@ -157,7 +155,7 @@ function detectArmorPreference(goal, buildTypes = []) {
       allowedArmorTypes: ['cloth'],
       preferredArmorTypes: ['cloth'],
       avoidArmorTypes: ['light', 'medium', 'heavy'],
-      notes
+      notes,
     };
   }
 
@@ -169,7 +167,7 @@ function detectArmorPreference(goal, buildTypes = []) {
       allowedArmorTypes: ['light'],
       preferredArmorTypes: ['light'],
       avoidArmorTypes: ['cloth', 'medium', 'heavy'],
-      notes
+      notes,
     };
   }
 
@@ -181,7 +179,7 @@ function detectArmorPreference(goal, buildTypes = []) {
       allowedArmorTypes: ['medium'],
       preferredArmorTypes: ['medium'],
       avoidArmorTypes: ['cloth', 'light', 'heavy'],
-      notes
+      notes,
     };
   }
 
@@ -193,7 +191,7 @@ function detectArmorPreference(goal, buildTypes = []) {
       allowedArmorTypes: ['heavy'],
       preferredArmorTypes: ['heavy'],
       avoidArmorTypes: ['cloth', 'light', 'medium'],
-      notes
+      notes,
     };
   }
 
@@ -205,7 +203,7 @@ function detectArmorPreference(goal, buildTypes = []) {
       allowedArmorTypes: [],
       preferredArmorTypes: ['cloth'],
       avoidArmorTypes: ['medium', 'heavy'],
-      notes
+      notes,
     };
   }
 
@@ -214,7 +212,7 @@ function detectArmorPreference(goal, buildTypes = []) {
     allowedArmorTypes: [],
     preferredArmorTypes: [],
     avoidArmorTypes: [],
-    notes
+    notes,
   };
 }
 
@@ -226,7 +224,7 @@ function getMeleePriorityTerms() {
     'Accuracy',
     'Armor-Piercing',
     'Seeker',
-    'Damage'
+    'Damage',
   ];
 }
 
@@ -235,7 +233,7 @@ function getTacticalPriorityTerms() {
     'Stunning',
     'Combat Mastery',
     'Tactical',
-    'DC'
+    'DC',
   ];
 }
 
@@ -244,7 +242,7 @@ function getWisdomPriorityTerms() {
     'Wisdom',
     'Enhanced Ki',
     'Insightful Wisdom',
-    'Quality Wisdom'
+    'Quality Wisdom',
   ];
 }
 
@@ -263,7 +261,7 @@ function getDefensiveSecondaryTerms() {
     'Dodge',
     'Armor Class',
     'Protection',
-    'Natural Armor'
+    'Natural Armor',
   ];
 }
 
@@ -274,7 +272,7 @@ function getTankSecondaryTerms() {
     'Physical Sheltering',
     'Magical Sheltering',
     'Insightful Sheltering',
-    'Quality Sheltering'
+    'Quality Sheltering',
   ];
 }
 
@@ -306,9 +304,9 @@ function buildSecondaryTerms(goal, buildTypes) {
   const secondaryTerms = [];
 
   if (
-    buildTypes.includes('defensive') ||
-    buildTypes.includes('tank') ||
-    buildTypes.includes('monk')
+    buildTypes.includes('defensive')
+    || buildTypes.includes('tank')
+    || buildTypes.includes('monk')
   ) {
     secondaryTerms.push(...getDefensiveSecondaryTerms());
   }
@@ -331,7 +329,7 @@ function buildAvoidTerms(goal, buildTypes) {
       'Spell Crit',
       'Spell Penetration',
       'Spell DC',
-      'Spell Focus'
+      'Spell Focus',
     );
   }
 
@@ -367,23 +365,23 @@ function buildProfileFromGoal(goal) {
   const priorityTerms = buildPriorityTerms(
     cleanedGoal,
     primaryStats,
-    buildTypes
+    buildTypes,
   );
 
   const secondaryTerms = buildSecondaryTerms(
     cleanedGoal,
-    buildTypes
+    buildTypes,
   );
 
   const avoidTerms = buildAvoidTerms(
     cleanedGoal,
-    buildTypes
+    buildTypes,
   );
 
   const notes = buildNotes(
     cleanedGoal,
     buildTypes,
-    armorPreference
+    armorPreference,
   );
 
   return {
@@ -401,7 +399,7 @@ function buildProfileFromGoal(goal) {
 
     armorPreference,
 
-    notes
+    notes,
   };
 }
 
@@ -423,10 +421,10 @@ function compactBuildProfileForAI(buildProfile) {
       enforceArmorType: false,
       allowedArmorTypes: [],
       preferredArmorTypes: [],
-      avoidArmorTypes: []
+      avoidArmorTypes: [],
     },
 
-    notes: buildProfile.notes || []
+    notes: buildProfile.notes || [],
   };
 }
 
@@ -438,5 +436,5 @@ module.exports = {
   detectPrimaryStats,
   detectBuildTypes,
   detectPreferredWeaponSubtypes,
-  detectArmorPreference
+  detectArmorPreference,
 };

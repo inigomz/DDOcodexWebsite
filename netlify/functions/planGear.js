@@ -1,8 +1,6 @@
 // netlify/functions/planGear.js
 // Full gear planning pipeline — no OpenAI, pure planner output.
 
-'use strict';
-
 const path = require('path');
 
 // Data is bundled via netlify.toml included_files.
@@ -27,44 +25,44 @@ function repoRoot() {
 }
 
 const {
-  buildProfileFromGoal
+  buildProfileFromGoal,
 } = require('../../tools/buildProfile');
 
 const {
   loadAllItems,
-  searchItems
+  searchItems,
 } = require('../../tools/gearsearch');
 
 const {
-  loadCraftingAugments
+  loadCraftingAugments,
 } = require('../../tools/craftingAugmentSearch');
 
 const {
-  buildCraftingAugmentPlan
+  buildCraftingAugmentPlan,
 } = require('../../tools/craftingAugmentPlan');
 
 const {
-  buildStackAwareGearset
+  buildStackAwareGearset,
 } = require('../../tools/gearSetBuilder');
 
 const {
-  loadAllAugments
+  loadAllAugments,
 } = require('../../tools/augmentSearch');
 
 const {
-  buildAugmentGapPlan
+  buildAugmentGapPlan,
 } = require('../../tools/augmentGapPlanner');
 
 const {
-  buildAugmentSlotPlan
+  buildAugmentSlotPlan,
 } = require('../../tools/augmentSlotPlanner');
 
 const {
-  validateGearset
+  validateGearset,
 } = require('../../tools/gearsetValidator');
 
 const {
-  buildSummary
+  buildSummary,
 } = require('../../tools/buildSummary');
 
 // ---------------------------------------------------------------------------
@@ -73,13 +71,13 @@ const {
 
 const TWO_HANDED_SUBTYPES = [
   'falchion', 'great_axe', 'great_club', 'great_sword',
-  'maul', 'quarterstaff', 'long_bow', 'short_bow'
+  'maul', 'quarterstaff', 'long_bow', 'short_bow',
 ];
 
 function shouldSkipOffhand(buildProfile) {
   const subtypes = buildProfile.preferredWeaponSubtypes || [];
   if (subtypes.includes('handwraps')) return true;
-  return subtypes.some(s => TWO_HANDED_SUBTYPES.includes(s));
+  return subtypes.some((s) => TWO_HANDED_SUBTYPES.includes(s));
 }
 
 function buildGearGroups(items, buildProfile) {
@@ -88,26 +86,26 @@ function buildGearGroups(items, buildProfile) {
     priorityTerms: buildProfile.priorityTerms || [],
     secondaryTerms: buildProfile.secondaryTerms || [],
     avoidTerms: buildProfile.avoidTerms || [],
-    buildProfile
+    buildProfile,
   };
 
   const shouldInclude = [
     ...(buildProfile.priorityTerms || []),
-    ...(buildProfile.secondaryTerms || [])
+    ...(buildProfile.secondaryTerms || []),
   ];
 
   const slotDefs = [
-    { label: 'Head',    slot: 'head',    limit: 12 },
-    { label: 'Eyes',    slot: 'eyes',    limit: 12 },
-    { label: 'Neck',    slot: 'neck',    limit: 12 },
+    { label: 'Head', slot: 'head', limit: 12 },
+    { label: 'Eyes', slot: 'eyes', limit: 12 },
+    { label: 'Neck', slot: 'neck', limit: 12 },
     { label: 'Trinket', slot: 'trinket', limit: 12 },
-    { label: 'Back',    slot: 'back',    limit: 12 },
-    { label: 'Wrists',  slot: 'wrists',  limit: 12 },
-    { label: 'Hands',   slot: 'hands',   limit: 12 },
-    { label: 'Waist',   slot: 'waist',   limit: 12 },
-    { label: 'Feet',    slot: 'feet',    limit: 12 },
-    { label: 'Finger',  slot: 'finger',  limit: 14 },
-    { label: 'Body / Armor', slot: 'armor', limit: 12 }
+    { label: 'Back', slot: 'back', limit: 12 },
+    { label: 'Wrists', slot: 'wrists', limit: 12 },
+    { label: 'Hands', slot: 'hands', limit: 12 },
+    { label: 'Waist', slot: 'waist', limit: 12 },
+    { label: 'Feet', slot: 'feet', limit: 12 },
+    { label: 'Finger', slot: 'finger', limit: 14 },
+    { label: 'Body / Armor', slot: 'armor', limit: 12 },
   ];
 
   const preferredWeaponSubtypes = buildProfile.preferredWeaponSubtypes || [];
@@ -117,7 +115,7 @@ function buildGearGroups(items, buildProfile) {
       label: 'Weapon / Preferred Weapon',
       slot: 'weapon',
       itemSubtypes: preferredWeaponSubtypes,
-      limit: 12
+      limit: 12,
     });
   } else {
     slotDefs.push({ label: 'Weapon', slot: 'weapon', limit: 12 });
@@ -127,13 +125,13 @@ function buildGearGroups(items, buildProfile) {
     slotDefs.push({ label: 'Offhand', slot: 'offhand', limit: 12 });
   }
 
-  return slotDefs.map(def => {
+  return slotDefs.map((def) => {
     const query = {
       ...base,
       slot: def.slot,
       shouldInclude,
       limit: def.limit,
-      ...(def.itemSubtypes ? { itemSubtypes: def.itemSubtypes } : {})
+      ...(def.itemSubtypes ? { itemSubtypes: def.itemSubtypes } : {}),
     };
 
     const fullCandidates = searchItems(items, query);
@@ -142,7 +140,7 @@ function buildGearGroups(items, buildProfile) {
       label: def.label,
       slot: def.slot,
       requestedLimit: def.limit,
-      fullCandidates
+      fullCandidates,
     };
   });
 }
@@ -154,14 +152,14 @@ function buildGearGroups(items, buildProfile) {
 const CORS_HEADERS = {
   'Access-Control-Allow-Origin': '*',
   'Access-Control-Allow-Headers': 'Content-Type',
-  'Access-Control-Allow-Methods': 'POST, OPTIONS'
+  'Access-Control-Allow-Methods': 'POST, OPTIONS',
 };
 
 function jsonResponse(statusCode, body) {
   return {
     statusCode,
     headers: { 'Content-Type': 'application/json', ...CORS_HEADERS },
-    body: JSON.stringify(body)
+    body: JSON.stringify(body),
   };
 }
 
@@ -194,7 +192,7 @@ function getCraftingAugments() {
     const craftingFile = path.join(
       repoRoot(),
       'augmentlist',
-      'viktranium_experiment_crafting.json'
+      'viktranium_experiment_crafting.json',
     );
     _craftingAugments = loadCraftingAugments(craftingFile);
   }
@@ -242,17 +240,18 @@ exports.handler = async function handler(event) {
       buildProfile,
       systems: ['Lamordia'],
       limitPerSlot: 5,
-      minimumScore: 40
+      minimumScore: 40,
     });
 
     // 4. Gear groups (candidates per slot)
     const gearGroups = buildGearGroups(items, buildProfile);
 
-    // 5. Stack-aware gear selection
+    // 5. Stack-aware gear selection (augment-first scoring)
     const gearset = buildStackAwareGearset({
       gearGroups,
       buildProfile,
-      craftingAugmentPlan
+      craftingAugmentPlan,
+      normalAugments: augments,
     });
 
     const equippedItems = gearset.selectedItems;
@@ -264,14 +263,14 @@ exports.handler = async function handler(event) {
       craftingAssignments: [],
       normalAugments: augments,
       craftingAugmentPlan,
-      buildProfile
+      buildProfile,
     });
 
     // 7. Augment slot plan
     const slotPlan = buildAugmentSlotPlan({
       augmentGapPlan: baselineGapPlan,
       selectedAugments: [],
-      equippedItems
+      equippedItems,
     });
 
     // 8. Validation
@@ -279,7 +278,7 @@ exports.handler = async function handler(event) {
       equippedItems,
       selectedAugments: slotPlan.selectedAugmentsForValidation,
       craftingAssignments: slotPlan.craftingAssignments,
-      buildProfile
+      buildProfile,
     });
 
     // 9. Final gap plan (with augments applied)
@@ -289,7 +288,7 @@ exports.handler = async function handler(event) {
       craftingAssignments: slotPlan.craftingAssignments,
       normalAugments: augments,
       craftingAugmentPlan,
-      buildProfile
+      buildProfile,
     });
 
     // 10. Build summary
@@ -301,17 +300,16 @@ exports.handler = async function handler(event) {
         equippedItems,
         finalGapPlan,
         slotPlan,
-        validationResult
-      }
+        validationResult,
+      },
     });
 
     return jsonResponse(200, { summary });
-
   } catch (err) {
     console.error('planGear error:', err);
     return jsonResponse(500, {
       error: 'Gear planning failed.',
-      detail: err.message
+      detail: err.message,
     });
   }
 };

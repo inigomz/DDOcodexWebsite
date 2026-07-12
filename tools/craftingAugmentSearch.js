@@ -4,14 +4,14 @@ const fs = require('fs');
 const path = require('path');
 
 const {
-  parseBonusEffect
+  parseBonusEffect,
 } = require('./bonusParser');
 
 const DEFAULT_CRAFTING_AUGMENT_FILE = path.join(
   __dirname,
   '..',
   'augmentlist',
-  'viktranium_experiment_crafting.json'
+  'viktranium_experiment_crafting.json',
 );
 
 function cleanText(value) {
@@ -30,7 +30,7 @@ function readJsonFile(filepath) {
 }
 
 function loadCraftingAugments(
-  filepath = DEFAULT_CRAFTING_AUGMENT_FILE
+  filepath = DEFAULT_CRAFTING_AUGMENT_FILE,
 ) {
   const data = readJsonFile(filepath);
 
@@ -67,22 +67,22 @@ function isHeroicRecipe(recipe) {
   const text = [
     recipe.name,
     recipe.link,
-    recipe.visibleName
+    recipe.visibleName,
   ]
     .filter(Boolean)
     .join(' ')
     .toLowerCase();
 
   return (
-    text.includes('(heroic)') ||
-    text.includes('_heroic') ||
-    text.includes('(heroic - dreadful)')
+    text.includes('(heroic)')
+    || text.includes('_heroic')
+    || text.includes('(heroic - dreadful)')
   );
 }
 
 function getCraftingAugmentEffectForBuild(
   recipe,
-  buildProfile = {}
+  buildProfile = {},
 ) {
   const preferredTier = getCraftingAugmentTierForBuild(buildProfile);
 
@@ -90,34 +90,34 @@ function getCraftingAugmentEffectForBuild(
     ? recipe.tieredEffects
     : [];
 
-  const preferredEffect = tieredEffects.find(effect =>
-    normalizeText(effect.tier) === preferredTier
+  const preferredEffect = tieredEffects.find(
+    (effect) => normalizeText(effect.tier) === preferredTier,
   );
 
   if (preferredEffect && preferredEffect.effectRaw) {
     return {
       tier: preferredTier,
-      effectRaw: cleanText(preferredEffect.effectRaw)
+      effectRaw: cleanText(preferredEffect.effectRaw),
     };
   }
 
   if (
-    preferredTier === 'legendary' &&
-    recipe.legendaryEffectRaw
+    preferredTier === 'legendary'
+    && recipe.legendaryEffectRaw
   ) {
     return {
       tier: 'legendary',
-      effectRaw: cleanText(recipe.legendaryEffectRaw)
+      effectRaw: cleanText(recipe.legendaryEffectRaw),
     };
   }
 
   if (
-    preferredTier === 'heroic' &&
-    recipe.heroicEffectRaw
+    preferredTier === 'heroic'
+    && recipe.heroicEffectRaw
   ) {
     return {
       tier: 'heroic',
-      effectRaw: cleanText(recipe.heroicEffectRaw)
+      effectRaw: cleanText(recipe.heroicEffectRaw),
     };
   }
 
@@ -130,7 +130,7 @@ function getCraftingAugmentEffectForBuild(
     if (legacyLegendaryEffect) {
       return {
         tier: 'legendary',
-        effectRaw: cleanText(legacyLegendaryEffect)
+        effectRaw: cleanText(legacyLegendaryEffect),
       };
     }
   }
@@ -142,7 +142,7 @@ function getCraftingAugmentEffectForBuild(
   if (recipe.effectRaw) {
     return {
       tier: isHeroicRecipe(recipe) ? 'heroic' : preferredTier,
-      effectRaw: cleanText(recipe.effectRaw)
+      effectRaw: cleanText(recipe.effectRaw),
     };
   }
 
@@ -152,7 +152,7 @@ function getCraftingAugmentEffectForBuild(
 function getRecipeSearchBlob(recipe, buildProfile = {}) {
   const selectedEffect = getCraftingAugmentEffectForBuild(
     recipe,
-    buildProfile
+    buildProfile,
   );
 
   return [
@@ -163,7 +163,7 @@ function getRecipeSearchBlob(recipe, buildProfile = {}) {
     recipe.sourceSection,
     selectedEffect?.effectRaw,
     recipe.heroicEffectRaw,
-    recipe.legendaryEffectRaw
+    recipe.legendaryEffectRaw,
   ]
     .filter(Boolean)
     .join(' ')
@@ -172,11 +172,11 @@ function getRecipeSearchBlob(recipe, buildProfile = {}) {
 
 function isElementalResistanceEffect(effect) {
   return (
-    effect.includes('acid resistance') ||
-    effect.includes('cold resistance') ||
-    effect.includes('electric resistance') ||
-    effect.includes('fire resistance') ||
-    effect.includes('sonic resistance')
+    effect.includes('acid resistance')
+    || effect.includes('cold resistance')
+    || effect.includes('electric resistance')
+    || effect.includes('fire resistance')
+    || effect.includes('sonic resistance')
   );
 }
 
@@ -190,39 +190,39 @@ function effectMatchesTerm(effectText, term) {
 
   // Avoid generic "Resistance" matching elemental resistance.
   if (
-    normalizedTerm === 'resistance' &&
-    isElementalResistanceEffect(effect)
+    normalizedTerm === 'resistance'
+    && isElementalResistanceEffect(effect)
   ) {
     return false;
   }
 
   // Spell crit damage should be caught by spell avoid terms.
   if (
-    normalizedTerm === 'spell critical' &&
-    (
-      effect.includes('spell crit') ||
-      effect.includes('spell critical')
+    normalizedTerm === 'spell critical'
+    && (
+      effect.includes('spell crit')
+      || effect.includes('spell critical')
     )
   ) {
     return true;
   }
 
   if (
-    normalizedTerm === 'spell lore' &&
-    (
-      effect.includes('spell crit') ||
-      effect.includes('spell critical') ||
-      effect.includes('spell lore')
+    normalizedTerm === 'spell lore'
+    && (
+      effect.includes('spell crit')
+      || effect.includes('spell critical')
+      || effect.includes('spell lore')
     )
   ) {
     return true;
   }
 
   if (
-    normalizedTerm === 'spell power' &&
-    (
-      effect.includes('spellpower') ||
-      effect.includes('spell power')
+    normalizedTerm === 'spell power'
+    && (
+      effect.includes('spellpower')
+      || effect.includes('spell power')
     )
   ) {
     return true;
@@ -232,9 +232,7 @@ function effectMatchesTerm(effectText, term) {
 }
 
 function hasAnyTerm(text, terms = []) {
-  return terms.some(term =>
-    effectMatchesTerm(text, term)
-  );
+  return terms.some((term) => effectMatchesTerm(text, term));
 }
 
 function addAliasScore(effectText, buildProfile = {}) {
@@ -244,16 +242,16 @@ function addAliasScore(effectText, buildProfile = {}) {
   // Some crafting augments describe tactical bonuses without saying
   // "Combat Mastery" directly.
   if (
-    text.includes('stunning fist') ||
-    text.includes('stunning blow') ||
-    text.includes('trip') ||
-    text.includes('sunder') ||
-    text.includes('dc to resist')
+    text.includes('stunning fist')
+    || text.includes('stunning blow')
+    || text.includes('trip')
+    || text.includes('sunder')
+    || text.includes('dc to resist')
   ) {
     if (
       hasAnyTerm(
         'Combat Mastery Tactical DC Stunning',
-        buildProfile.priorityTerms || []
+        buildProfile.priorityTerms || [],
       )
     ) {
       score += 25;
@@ -262,21 +260,21 @@ function addAliasScore(effectText, buildProfile = {}) {
 
   // DDO sometimes says Attack where the planner thinks Accuracy.
   if (
-    text.includes('bonus to attack') &&
-    hasAnyTerm('Accuracy', buildProfile.priorityTerms || [])
+    text.includes('bonus to attack')
+    && hasAnyTerm('Accuracy', buildProfile.priorityTerms || [])
   ) {
     score += 18;
   }
 
   // Positive Healing Amplification should count for Healing Amplification.
   if (
-    text.includes('positive healing amplification') &&
-    hasAnyTerm(
+    text.includes('positive healing amplification')
+    && hasAnyTerm(
       'Healing Amplification',
       [
         ...(buildProfile.priorityTerms || []),
-        ...(buildProfile.secondaryTerms || [])
-      ]
+        ...(buildProfile.secondaryTerms || []),
+      ],
     )
   ) {
     score += 18;
@@ -284,26 +282,26 @@ function addAliasScore(effectText, buildProfile = {}) {
 
   // Physical Resistance Rating / Magical Resistance Rating aliases.
   if (
-    text.includes('physical resistance rating') &&
-    hasAnyTerm(
+    text.includes('physical resistance rating')
+    && hasAnyTerm(
       'PRR Physical Resistance Rating',
       [
         ...(buildProfile.priorityTerms || []),
-        ...(buildProfile.secondaryTerms || [])
-      ]
+        ...(buildProfile.secondaryTerms || []),
+      ],
     )
   ) {
     score += 18;
   }
 
   if (
-    text.includes('magical resistance rating') &&
-    hasAnyTerm(
+    text.includes('magical resistance rating')
+    && hasAnyTerm(
       'MRR Magical Resistance Rating',
       [
         ...(buildProfile.priorityTerms || []),
-        ...(buildProfile.secondaryTerms || [])
-      ]
+        ...(buildProfile.secondaryTerms || []),
+      ],
     )
   ) {
     score += 18;
@@ -316,24 +314,24 @@ function isSpellCasterEffect(text) {
   const normalized = normalizeText(text);
 
   return (
-    normalized.includes('spell crit') ||
-    normalized.includes('spell critical') ||
-    normalized.includes('spellpower') ||
-    normalized.includes('spell power') ||
-    normalized.includes('spell penetration') ||
-    normalized.includes('spell dc') ||
-    normalized.includes('spell dcs') ||
-    normalized.includes('spell focus')
+    normalized.includes('spell crit')
+    || normalized.includes('spell critical')
+    || normalized.includes('spellpower')
+    || normalized.includes('spell power')
+    || normalized.includes('spell penetration')
+    || normalized.includes('spell dc')
+    || normalized.includes('spell dcs')
+    || normalized.includes('spell focus')
   );
 }
 
 function scoreCraftingAugmentForProfile(
   recipe,
-  buildProfile = {}
+  buildProfile = {},
 ) {
   const selectedEffect = getCraftingAugmentEffectForBuild(
     recipe,
-    buildProfile
+    buildProfile,
   );
 
   if (!selectedEffect || !selectedEffect.effectRaw) {
@@ -386,10 +384,10 @@ function scoreCraftingAugmentForProfile(
   const parsed = parseBonusEffect(effectText);
 
   if (
-    matchedBuildTerm &&
-    parsed.parsed &&
-    parsed.value !== null &&
-    parsed.value !== undefined
+    matchedBuildTerm
+    && parsed.parsed
+    && parsed.value !== null
+    && parsed.value !== undefined
   ) {
     score += Number(parsed.value) * 0.4;
   }
@@ -404,22 +402,22 @@ function scoreCraftingAugmentForProfile(
 
 function matchesCraftingSlot(recipe, requiredSlot = {}) {
   if (
-    requiredSlot.system &&
-    recipe.system !== requiredSlot.system
+    requiredSlot.system
+    && recipe.system !== requiredSlot.system
   ) {
     return false;
   }
 
   if (
-    requiredSlot.slotType &&
-    recipe.slotType !== requiredSlot.slotType
+    requiredSlot.slotType
+    && recipe.slotType !== requiredSlot.slotType
   ) {
     return false;
   }
 
   if (
-    requiredSlot.itemGroup &&
-    recipe.itemGroup !== requiredSlot.itemGroup
+    requiredSlot.itemGroup
+    && recipe.itemGroup !== requiredSlot.itemGroup
   ) {
     return false;
   }
@@ -429,26 +427,22 @@ function matchesCraftingSlot(recipe, requiredSlot = {}) {
 
 function searchCraftingAugments(
   craftingAugments,
-  query = {}
+  query = {},
 ) {
   const buildProfile = query.buildProfile || {};
   const limit = query.limit || 10;
 
   return (craftingAugments || [])
-    .filter(recipe =>
-      recipe.itemType === 'crafting_augment'
-    )
-    .filter(recipe =>
-      matchesCraftingSlot(recipe, {
-        system: query.system,
-        slotType: query.slotType,
-        itemGroup: query.itemGroup
-      })
-    )
-    .map(recipe => {
+    .filter((recipe) => recipe.itemType === 'crafting_augment')
+    .filter((recipe) => matchesCraftingSlot(recipe, {
+      system: query.system,
+      slotType: query.slotType,
+      itemGroup: query.itemGroup,
+    }))
+    .map((recipe) => {
       const selectedEffect = getCraftingAugmentEffectForBuild(
         recipe,
-        buildProfile
+        buildProfile,
       );
 
       const parsed = selectedEffect
@@ -465,14 +459,12 @@ function searchCraftingAugments(
 
         searchScore: scoreCraftingAugmentForProfile(
           recipe,
-          buildProfile
-        )
+          buildProfile,
+        ),
       };
     })
-    .filter(recipe =>
-      recipe.selectedEffectRaw &&
-      recipe.searchScore >= (query.minimumScore ?? 1)
-    )
+    .filter((recipe) => recipe.selectedEffectRaw
+      && recipe.searchScore >= (query.minimumScore ?? 1))
     .sort((a, b) => b.searchScore - a.searchScore)
     .slice(0, limit);
 }
@@ -492,23 +484,23 @@ function compactCraftingAugmentForAI(recipe) {
 
     parsedSelectedEffect: recipe.parsedSelectedEffect
       ? {
-          parsed: recipe.parsedSelectedEffect.parsed,
-          bonusType: recipe.parsedSelectedEffect.bonusType,
-          stat: recipe.parsedSelectedEffect.stat,
-          value: recipe.parsedSelectedEffect.value,
-          valueText: recipe.parsedSelectedEffect.valueText,
-          stackKey: recipe.parsedSelectedEffect.stackKey
-        }
+        parsed: recipe.parsedSelectedEffect.parsed,
+        bonusType: recipe.parsedSelectedEffect.bonusType,
+        stat: recipe.parsedSelectedEffect.stat,
+        value: recipe.parsedSelectedEffect.value,
+        valueText: recipe.parsedSelectedEffect.valueText,
+        stackKey: recipe.parsedSelectedEffect.stackKey,
+      }
       : null,
 
-    searchScore: recipe.searchScore
+    searchScore: recipe.searchScore,
   };
 }
 
 function getCraftingAugmentCandidatesForItem(
   item,
   craftingAugments,
-  options = {}
+  options = {},
 ) {
   const buildProfile = options.buildProfile || {};
   const limitPerSlot = options.limitPerSlot || 5;
@@ -519,7 +511,7 @@ function getCraftingAugmentCandidatesForItem(
     itemName: item.name,
     itemKey: item.itemKey || item.link || item.name,
 
-    craftingCandidates: craftingSlots.map(slot => {
+    craftingCandidates: craftingSlots.map((slot) => {
       const candidates = searchCraftingAugments(
         craftingAugments,
         {
@@ -528,37 +520,33 @@ function getCraftingAugmentCandidatesForItem(
           itemGroup: slot.itemGroup,
           buildProfile,
           limit: limitPerSlot,
-          minimumScore: options.minimumScore ?? 1
-        }
+          minimumScore: options.minimumScore ?? 1,
+        },
       );
 
       return {
         system: slot.system,
         slotType: slot.slotType,
         itemGroup: slot.itemGroup,
-        candidates
+        candidates,
       };
-    })
+    }),
   };
 }
 
 function getCraftingAugmentCandidatesForItems(
   items,
   craftingAugments,
-  options = {}
+  options = {},
 ) {
   return (items || [])
-    .filter(item =>
-      Array.isArray(item.craftingSlots) &&
-      item.craftingSlots.length > 0
-    )
-    .map(item =>
-      getCraftingAugmentCandidatesForItem(
-        item,
-        craftingAugments,
-        options
-      )
-    );
+    .filter((item) => Array.isArray(item.craftingSlots)
+      && item.craftingSlots.length > 0)
+    .map((item) => getCraftingAugmentCandidatesForItem(
+      item,
+      craftingAugments,
+      options,
+    ));
 }
 
 module.exports = {
@@ -573,5 +561,5 @@ module.exports = {
   compactCraftingAugmentForAI,
 
   getCraftingAugmentCandidatesForItem,
-  getCraftingAugmentCandidatesForItems
+  getCraftingAugmentCandidatesForItems,
 };

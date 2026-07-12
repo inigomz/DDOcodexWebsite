@@ -4,57 +4,56 @@ const fs = require('fs');
 const path = require('path');
 
 const {
-  buildProfileFromGoal
+  buildProfileFromGoal,
 } = require('../tools/buildProfile');
 
 const {
   loadAllItems,
-  searchItems
+  searchItems,
 } = require('../tools/gearsearch');
 
 const {
-  loadAllAugments
+  loadAllAugments,
 } = require('../tools/augmentSearch');
 
 const {
-  loadCraftingAugments
+  loadCraftingAugments,
 } = require('../tools/craftingAugmentSearch');
 
 const {
-  buildCraftingAugmentPlan
+  buildCraftingAugmentPlan,
 } = require('../tools/craftingAugmentPlan');
 
 const {
-  buildStackAwareGearset
+  buildStackAwareGearset,
 } = require('../tools/gearSetBuilder');
 
 const {
-  validateGearset
+  validateGearset,
 } = require('../tools/gearsetValidator');
 
 const {
   buildAugmentGapPlan,
-  compactAugmentGapPlanForAI
+  compactAugmentGapPlanForAI,
 } = require('../tools/augmentGapPlanner');
 
 const {
   buildAugmentSlotPlan,
-  compactAugmentSlotPlanForAI
+  compactAugmentSlotPlanForAI,
 } = require('../tools/augmentSlotPlanner');
 
 const {
   runSwapOptimizer,
   scoreGearset,
-  countRelevantConflicts
+  countRelevantConflicts,
 } = require('../tools/swapOptimizer');
 
 const {
   buildSummary: buildSummaryTool,
-  compactSummaryForAI
+  compactSummaryForAI,
 } = require('../tools/buildSummary');
 
-const goal =
-  'Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.';
+const goal = 'Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.';
 
 const buildProfile = buildProfileFromGoal(goal);
 const items = loadAllItems();
@@ -66,7 +65,7 @@ const craftingAugmentPlan = buildCraftingAugmentPlan({
   buildProfile,
   systems: ['Lamordia'],
   limitPerSlot: 5,
-  minimumScore: 40
+  minimumScore: 40,
 });
 
 function createBaseQuery(buildProfile) {
@@ -75,14 +74,14 @@ function createBaseQuery(buildProfile) {
     priorityTerms: buildProfile.priorityTerms || [],
     secondaryTerms: buildProfile.secondaryTerms || [],
     avoidTerms: buildProfile.avoidTerms || [],
-    buildProfile
+    buildProfile,
   };
 }
 
 function getGeneralShouldInclude(buildProfile) {
   return [
     ...(buildProfile.priorityTerms || []),
-    ...(buildProfile.secondaryTerms || [])
+    ...(buildProfile.secondaryTerms || []),
   ];
 }
 
@@ -106,7 +105,7 @@ function getCandidateQueries(buildProfile) {
     ['Waist', 'waist', 5],
     ['Wrists', 'wrists', 5],
     ['Back', 'back', 5],
-    ['Head', 'head', 5]
+    ['Head', 'head', 5],
   ].map(([label, slot, limit]) => ({
     label,
     requestedLimit: limit,
@@ -114,8 +113,8 @@ function getCandidateQueries(buildProfile) {
       ...base,
       slot,
       shouldInclude,
-      limit: Math.max(limit * 4, 20)
-    }
+      limit: Math.max(limit * 4, 20),
+    },
   }));
 
   queries.push({
@@ -126,8 +125,8 @@ function getCandidateQueries(buildProfile) {
       slot: 'weapon',
       itemSubtypes: buildProfile.preferredWeaponSubtypes || [],
       shouldInclude,
-      limit: 20
-    }
+      limit: 20,
+    },
   });
 
   if (!shouldSkipOffhand(buildProfile)) {
@@ -138,8 +137,8 @@ function getCandidateQueries(buildProfile) {
         ...base,
         slot: 'offhand',
         shouldInclude,
-        limit: 20
-      }
+        limit: 20,
+      },
     });
   }
 
@@ -147,17 +146,17 @@ function getCandidateQueries(buildProfile) {
 }
 
 function buildGearGroups() {
-  return getCandidateQueries(buildProfile).map(group => ({
+  return getCandidateQueries(buildProfile).map((group) => ({
     label: group.label,
     requestedLimit: group.requestedLimit,
-    fullCandidates: searchItems(items, group.query)
+    fullCandidates: searchItems(items, group.query),
   }));
 }
 
 function writeJsonFile(filepath, data) {
   fs.writeFileSync(
     filepath,
-    JSON.stringify(data, null, 2)
+    JSON.stringify(data, null, 2),
   );
 }
 
@@ -180,29 +179,29 @@ function compactValidationResult(validationResult) {
     craftingAssignments: validationResult.craftingAssignments || [],
 
     stackingConflicts:
-      (validationResult.stackingConflicts || []).map(conflict => ({
+      (validationResult.stackingConflicts || []).map((conflict) => ({
         stackKey: conflict.stackKey,
         bonusType: conflict.bonusType,
         stat: conflict.stat,
         winningBonus: conflict.winningBonus
           ? {
-              raw: conflict.winningBonus.raw,
-              value: conflict.winningBonus.value,
-              source: conflict.winningBonus.source
-            }
+            raw: conflict.winningBonus.raw,
+            value: conflict.winningBonus.value,
+            source: conflict.winningBonus.source,
+          }
           : null,
         suppressedBonuses:
-          (conflict.suppressedBonuses || []).map(bonus => ({
+          (conflict.suppressedBonuses || []).map((bonus) => ({
             raw: bonus.raw,
             value: bonus.value,
-            source: bonus.source
-          }))
-      }))
+            source: bonus.source,
+          })),
+      })),
   };
 }
 
 function compactSelectedItems(equippedItems = []) {
-  return equippedItems.map(item => ({
+  return equippedItems.map((item) => ({
     slot: item.slot,
     name: item.name,
     link: item.link,
@@ -211,7 +210,7 @@ function compactSelectedItems(equippedItems = []) {
     dynamicScore: item.dynamicScore,
     craftingSlots: item.craftingSlots || [],
     augmentSlots: item.augmentSlots || [],
-    effectsRaw: item.effectsRaw || item.namedEffects || []
+    effectsRaw: item.effectsRaw || item.namedEffects || [],
   }));
 }
 
@@ -222,20 +221,20 @@ function buildCompletedPipeline(equippedItems) {
     craftingAssignments: [],
     normalAugments,
     craftingAugmentPlan,
-    buildProfile
+    buildProfile,
   });
 
   const slotPlan = buildAugmentSlotPlan({
     augmentGapPlan: initialGapPlan,
     selectedAugments: [],
-    equippedItems
+    equippedItems,
   });
 
   const validationResult = validateGearset({
     equippedItems,
     selectedAugments: slotPlan.selectedAugmentsForValidation,
     craftingAssignments: slotPlan.craftingAssignments,
-    buildProfile
+    buildProfile,
   });
 
   const finalGapPlan = buildAugmentGapPlan({
@@ -244,7 +243,7 @@ function buildCompletedPipeline(equippedItems) {
     craftingAssignments: slotPlan.craftingAssignments,
     normalAugments,
     craftingAugmentPlan,
-    buildProfile
+    buildProfile,
   });
 
   return {
@@ -252,28 +251,24 @@ function buildCompletedPipeline(equippedItems) {
     initialGapPlan,
     slotPlan,
     validationResult,
-    finalGapPlan
+    finalGapPlan,
   };
 }
 
 function compactPipelineForOutput(pipeline) {
-  const compactInitialGapPlan =
-    compactAugmentGapPlanForAI(pipeline.initialGapPlan);
+  const compactInitialGapPlan = compactAugmentGapPlanForAI(pipeline.initialGapPlan);
 
-  const compactSlotPlan =
-    compactAugmentSlotPlanForAI(pipeline.slotPlan);
+  const compactSlotPlan = compactAugmentSlotPlanForAI(pipeline.slotPlan);
 
-  const compactValidation =
-    compactValidationResult(pipeline.validationResult);
+  const compactValidation = compactValidationResult(pipeline.validationResult);
 
-  const compactFinalGapPlan =
-    compactAugmentGapPlanForAI(pipeline.finalGapPlan);
+  const compactFinalGapPlan = compactAugmentGapPlanForAI(pipeline.finalGapPlan);
 
   return {
     score: scoreGearset({
       finalGapPlan: pipeline.finalGapPlan,
       validationResult: pipeline.validationResult,
-      slotPlan: pipeline.slotPlan
+      slotPlan: pipeline.slotPlan,
     }),
 
     selectedItems: compactSelectedItems(pipeline.equippedItems),
@@ -281,7 +276,7 @@ function compactPipelineForOutput(pipeline) {
     initialGapPlan: compactInitialGapPlan,
     slotPlan: compactSlotPlan,
     validation: compactValidation,
-    finalGapPlan: compactFinalGapPlan
+    finalGapPlan: compactFinalGapPlan,
   };
 }
 
@@ -293,7 +288,7 @@ function compactSwapOptimizerResult(optimizerResult) {
 
     optimizedSelectedItems:
       compactSelectedItems(
-        optimizerResult.optimizedGearset.selectedItems
+        optimizerResult.optimizedGearset.selectedItems,
       ),
 
     finalScore: scoreGearset(optimizerResult.finalEvaluation),
@@ -311,13 +306,13 @@ function compactSwapOptimizerResult(optimizerResult) {
         optimizerResult.finalEvaluation.validationResult.stackingConflicts.length,
       relevantConflictCount:
         countRelevantConflicts(
-          optimizerResult.finalEvaluation.validationResult.stackingConflicts
+          optimizerResult.finalEvaluation.validationResult.stackingConflicts,
         ),
       errorCount:
         optimizerResult.finalEvaluation.validationResult.errors.length,
       warningCount:
-        optimizerResult.finalEvaluation.validationResult.warnings.length
-    }
+        optimizerResult.finalEvaluation.validationResult.warnings.length,
+    },
   };
 }
 
@@ -330,7 +325,7 @@ function printGapSummary(title, compactGapPlan, gapPlanOutputFile) {
   console.log('\nTop open gaps:');
   for (const gap of compactGapPlan.highestPriorityOpenGaps.slice(0, 12)) {
     console.log(
-      `- ${gap.label}: current ${gap.currentValue}, minimum ${gap.minimumValue}, target ${gap.targetValue}, status ${gap.status}`
+      `- ${gap.label}: current ${gap.currentValue}, minimum ${gap.minimumValue}, target ${gap.targetValue}, status ${gap.status}`,
     );
   }
 }
@@ -344,14 +339,14 @@ function printSlotPlanSummary(title, compactSlotPlan, slotPlanOutputFile) {
   console.log('\nNormal augment assignments:');
   for (const assignment of compactSlotPlan.normalAssignments.slice(0, 12)) {
     console.log(
-      `- ${assignment.augmentName} into ${assignment.itemName} (${assignment.slotColor}): ${assignment.effect} -> ${assignment.targetLabel}`
+      `- ${assignment.augmentName} into ${assignment.itemName} (${assignment.slotColor}): ${assignment.effect} -> ${assignment.targetLabel}`,
     );
   }
 
   console.log('\nCrafting augment assignments:');
   for (const assignment of compactSlotPlan.craftingAssignments.slice(0, 12)) {
     console.log(
-      `- ${assignment.augmentName} on ${assignment.itemName}: ${assignment.effect} -> ${assignment.targetLabel}`
+      `- ${assignment.augmentName} on ${assignment.itemName}: ${assignment.effect} -> ${assignment.targetLabel}`,
     );
   }
 }
@@ -364,10 +359,10 @@ function printValidationSummary(title, compactValidation, outputFile) {
   console.log(`- Errors: ${compactValidation.errorCount}`);
   console.log(`- Warnings: ${compactValidation.warningCount}`);
   console.log(
-    `- Stacking conflicts: ${compactValidation.stackingConflictCount}`
+    `- Stacking conflicts: ${compactValidation.stackingConflictCount}`,
   );
   console.log(
-    `- Relevant conflicts: ${compactValidation.relevantConflictCount}`
+    `- Relevant conflicts: ${compactValidation.relevantConflictCount}`,
   );
 
   if (compactValidation.errors.length > 0) {
@@ -381,11 +376,11 @@ function printValidationSummary(title, compactValidation, outputFile) {
     console.log('\nTop stacking conflicts:');
     for (const conflict of compactValidation.stackingConflicts.slice(0, 10)) {
       const suppressed = (conflict.suppressedBonuses || [])
-        .map(bonus => bonus.raw)
+        .map((bonus) => bonus.raw)
         .join(', ');
 
       console.log(
-        `- ${conflict.stackKey}: ${conflict.winningBonus?.raw || 'unknown'} suppresses ${suppressed}`
+        `- ${conflict.stackKey}: ${conflict.winningBonus?.raw || 'unknown'} suppresses ${suppressed}`,
       );
     }
   }
@@ -402,60 +397,54 @@ function printSelectedItems(title, equippedItems = []) {
 
 function printComparison({
   baselinePipeline,
-  optimizedResult
+  optimizedResult,
 }) {
   const baselineScore = scoreGearset({
     finalGapPlan: baselinePipeline.finalGapPlan,
     validationResult: baselinePipeline.validationResult,
-    slotPlan: baselinePipeline.slotPlan
+    slotPlan: baselinePipeline.slotPlan,
   });
 
   const optimizedScore = scoreGearset(
-    optimizedResult.finalEvaluation
+    optimizedResult.finalEvaluation,
   );
 
-  const baselineValidation =
-    baselinePipeline.validationResult;
+  const baselineValidation = baselinePipeline.validationResult;
 
-  const optimizedValidation =
-    optimizedResult.finalEvaluation.validationResult;
+  const optimizedValidation = optimizedResult.finalEvaluation.validationResult;
 
-  const baselineFinalGap =
-    baselinePipeline.finalGapPlan;
+  const baselineFinalGap = baselinePipeline.finalGapPlan;
 
-  const optimizedFinalGap =
-    optimizedResult.finalEvaluation.finalGapPlan;
+  const optimizedFinalGap = optimizedResult.finalEvaluation.finalGapPlan;
 
-  const baselineSlotPlan =
-    baselinePipeline.slotPlan;
+  const baselineSlotPlan = baselinePipeline.slotPlan;
 
-  const optimizedSlotPlan =
-    optimizedResult.finalEvaluation.slotPlan;
+  const optimizedSlotPlan = optimizedResult.finalEvaluation.slotPlan;
 
   console.log('');
   console.log('=== Baseline vs Optimized Comparison ===');
 
   console.log(`Score: ${baselineScore} -> ${optimizedScore}`);
   console.log(
-    `Met targets: ${baselineFinalGap.counts.metTargetCount} -> ${optimizedFinalGap.counts.metTargetCount}`
+    `Met targets: ${baselineFinalGap.counts.metTargetCount} -> ${optimizedFinalGap.counts.metTargetCount}`,
   );
   console.log(
-    `Open gaps: ${baselineFinalGap.counts.openGapCount} -> ${optimizedFinalGap.counts.openGapCount}`
+    `Open gaps: ${baselineFinalGap.counts.openGapCount} -> ${optimizedFinalGap.counts.openGapCount}`,
   );
   console.log(
-    `Normal assignments: ${baselineSlotPlan.counts.normalAssignmentCount} -> ${optimizedSlotPlan.counts.normalAssignmentCount}`
+    `Normal assignments: ${baselineSlotPlan.counts.normalAssignmentCount} -> ${optimizedSlotPlan.counts.normalAssignmentCount}`,
   );
   console.log(
-    `Crafting assignments: ${baselineSlotPlan.counts.craftingAssignmentCount} -> ${optimizedSlotPlan.counts.craftingAssignmentCount}`
+    `Crafting assignments: ${baselineSlotPlan.counts.craftingAssignmentCount} -> ${optimizedSlotPlan.counts.craftingAssignmentCount}`,
   );
   console.log(
-    `Stacking conflicts: ${baselineValidation.stackingConflicts.length} -> ${optimizedValidation.stackingConflicts.length}`
+    `Stacking conflicts: ${baselineValidation.stackingConflicts.length} -> ${optimizedValidation.stackingConflicts.length}`,
   );
   console.log(
-    `Relevant conflicts: ${countRelevantConflicts(baselineValidation.stackingConflicts)} -> ${countRelevantConflicts(optimizedValidation.stackingConflicts)}`
+    `Relevant conflicts: ${countRelevantConflicts(baselineValidation.stackingConflicts)} -> ${countRelevantConflicts(optimizedValidation.stackingConflicts)}`,
   );
   console.log(
-    `Errors: ${baselineValidation.errors.length} -> ${optimizedValidation.errors.length}`
+    `Errors: ${baselineValidation.errors.length} -> ${optimizedValidation.errors.length}`,
   );
   console.log(`Swaps made: ${optimizedResult.swapCount}`);
 
@@ -464,7 +453,7 @@ function printComparison({
 
     for (const swap of optimizedResult.swapLog) {
       console.log(
-        `- Pass ${swap.pass}: ${swap.slotLabel}: ${swap.oldItemName} -> ${swap.newItemName} (${swap.oldScore} -> ${swap.newScore})`
+        `- Pass ${swap.pass}: ${swap.slotLabel}: ${swap.oldItemName} -> ${swap.newItemName} (${swap.oldScore} -> ${swap.newScore})`,
       );
     }
   }
@@ -486,11 +475,11 @@ function main() {
   const stackAwareResult = buildStackAwareGearset({
     gearGroups,
     buildProfile,
-    craftingAugmentPlan
+    craftingAugmentPlan,
+    normalAugments,
   });
 
-  const baselinePipeline =
-    buildCompletedPipeline(stackAwareResult.selectedItems);
+  const baselinePipeline = buildCompletedPipeline(stackAwareResult.selectedItems);
 
   const optimizedResult = runSwapOptimizer({
     initialGearset: stackAwareResult,
@@ -498,8 +487,8 @@ function main() {
     craftingAugmentPlan,
     buildProfile,
     options: {
-      maxPasses: 3
-    }
+      maxPasses: 3,
+    },
   });
 
   const buildSummary = buildSummaryTool({
@@ -509,201 +498,197 @@ function main() {
     optimizedResult,
     options: {
       gapLimit: 15,
-      conflictLimit: 10
-    }
+      conflictLimit: 10,
+    },
   });
 
-  const compactBuildSummary =
-    compactSummaryForAI(buildSummary);
+  const compactBuildSummary = compactSummaryForAI(buildSummary);
 
-  const baselineOutput =
-    compactPipelineForOutput(baselinePipeline);
+  const baselineOutput = compactPipelineForOutput(baselinePipeline);
 
   const optimizedPipeline = {
     equippedItems: optimizedResult.optimizedGearset.selectedItems,
     initialGapPlan: optimizedResult.finalEvaluation.gapPlan,
     slotPlan: optimizedResult.finalEvaluation.slotPlan,
     validationResult: optimizedResult.finalEvaluation.validationResult,
-    finalGapPlan: optimizedResult.finalEvaluation.finalGapPlan
+    finalGapPlan: optimizedResult.finalEvaluation.finalGapPlan,
   };
 
-  const optimizedOutput =
-    compactPipelineForOutput(optimizedPipeline);
+  const optimizedOutput = compactPipelineForOutput(optimizedPipeline);
 
-  const swapOptimizerOutput =
-    compactSwapOptimizerResult(optimizedResult);
+  const swapOptimizerOutput = compactSwapOptimizerResult(optimizedResult);
 
   const baselineInitialGapPlanOutputFile = path.join(
     outputDir,
-    'augment_gap_plan_test_output.json'
+    'augment_gap_plan_test_output.json',
   );
 
   const baselineSlotPlanOutputFile = path.join(
     outputDir,
-    'augment_slot_plan_test_output.json'
+    'augment_slot_plan_test_output.json',
   );
 
   const baselineValidationOutputFile = path.join(
     outputDir,
-    'final_validation_test_output.json'
+    'final_validation_test_output.json',
   );
 
   const baselineFinalGapPlanOutputFile = path.join(
     outputDir,
-    'final_augment_gap_plan_test_output.json'
+    'final_augment_gap_plan_test_output.json',
   );
 
   const optimizedInitialGapPlanOutputFile = path.join(
     outputDir,
-    'optimized_augment_gap_plan_test_output.json'
+    'optimized_augment_gap_plan_test_output.json',
   );
 
   const optimizedSlotPlanOutputFile = path.join(
     outputDir,
-    'optimized_augment_slot_plan_test_output.json'
+    'optimized_augment_slot_plan_test_output.json',
   );
 
   const optimizedValidationOutputFile = path.join(
     outputDir,
-    'optimized_final_validation_test_output.json'
+    'optimized_final_validation_test_output.json',
   );
 
   const optimizedFinalGapPlanOutputFile = path.join(
     outputDir,
-    'optimized_final_augment_gap_plan_test_output.json'
+    'optimized_final_augment_gap_plan_test_output.json',
   );
 
   const swapOptimizerOutputFile = path.join(
     outputDir,
-    'swap_optimizer_test_output.json'
+    'swap_optimizer_test_output.json',
   );
 
   const buildSummaryOutputFile = path.join(
     outputDir,
-    'build_summary_test_output.json'
+    'build_summary_test_output.json',
   );
 
   const buildSummaryTextOutputFile = path.join(
     outputDir,
-    'build_summary_test_output.txt'
+    'build_summary_test_output.txt',
   );
 
   writeJsonFile(
     baselineInitialGapPlanOutputFile,
-    baselineOutput.initialGapPlan
+    baselineOutput.initialGapPlan,
   );
 
   writeJsonFile(
     baselineSlotPlanOutputFile,
-    baselineOutput.slotPlan
+    baselineOutput.slotPlan,
   );
 
   writeJsonFile(
     baselineValidationOutputFile,
-    baselineOutput.validation
+    baselineOutput.validation,
   );
 
   writeJsonFile(
     baselineFinalGapPlanOutputFile,
-    baselineOutput.finalGapPlan
+    baselineOutput.finalGapPlan,
   );
 
   writeJsonFile(
     optimizedInitialGapPlanOutputFile,
-    optimizedOutput.initialGapPlan
+    optimizedOutput.initialGapPlan,
   );
 
   writeJsonFile(
     optimizedSlotPlanOutputFile,
-    optimizedOutput.slotPlan
+    optimizedOutput.slotPlan,
   );
 
   writeJsonFile(
     optimizedValidationOutputFile,
-    optimizedOutput.validation
+    optimizedOutput.validation,
   );
 
   writeJsonFile(
     optimizedFinalGapPlanOutputFile,
-    optimizedOutput.finalGapPlan
+    optimizedOutput.finalGapPlan,
   );
 
   writeJsonFile(
     swapOptimizerOutputFile,
-    swapOptimizerOutput
+    swapOptimizerOutput,
   );
 
   writeJsonFile(
     buildSummaryOutputFile,
-    compactBuildSummary
+    compactBuildSummary,
   );
 
   fs.writeFileSync(
     buildSummaryTextOutputFile,
-    buildSummary.textSummary
+    buildSummary.textSummary,
   );
 
   printSelectedItems(
     'Baseline selected items',
-    baselinePipeline.equippedItems
+    baselinePipeline.equippedItems,
   );
 
   printGapSummary(
     'Baseline initial gap plan',
     baselineOutput.initialGapPlan,
-    baselineInitialGapPlanOutputFile
+    baselineInitialGapPlanOutputFile,
   );
 
   printSlotPlanSummary(
     'Baseline slot plan',
     baselineOutput.slotPlan,
-    baselineSlotPlanOutputFile
+    baselineSlotPlanOutputFile,
   );
 
   printValidationSummary(
     'Baseline final validation',
     baselineOutput.validation,
-    baselineValidationOutputFile
+    baselineValidationOutputFile,
   );
 
   printGapSummary(
     'Baseline final gap plan',
     baselineOutput.finalGapPlan,
-    baselineFinalGapPlanOutputFile
+    baselineFinalGapPlanOutputFile,
   );
 
   printSelectedItems(
     'Optimized selected items',
-    optimizedResult.optimizedGearset.selectedItems
+    optimizedResult.optimizedGearset.selectedItems,
   );
 
   printGapSummary(
     'Optimized initial gap plan',
     optimizedOutput.initialGapPlan,
-    optimizedInitialGapPlanOutputFile
+    optimizedInitialGapPlanOutputFile,
   );
 
   printSlotPlanSummary(
     'Optimized slot plan',
     optimizedOutput.slotPlan,
-    optimizedSlotPlanOutputFile
+    optimizedSlotPlanOutputFile,
   );
 
   printValidationSummary(
     'Optimized final validation',
     optimizedOutput.validation,
-    optimizedValidationOutputFile
+    optimizedValidationOutputFile,
   );
 
   printGapSummary(
     'Optimized final gap plan',
     optimizedOutput.finalGapPlan,
-    optimizedFinalGapPlanOutputFile
+    optimizedFinalGapPlanOutputFile,
   );
 
   printComparison({
     baselinePipeline,
-    optimizedResult
+    optimizedResult,
   });
 
   console.log('');

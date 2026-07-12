@@ -1,17 +1,17 @@
 // augmentParser.js
-const axios = require("axios");
-const cheerio = require("cheerio");
-const fs = require("fs");
-const path = require("path");
+const axios = require('axios');
+const cheerio = require('cheerio');
+const fs = require('fs');
+const path = require('path');
 
 const OUTPUT_DIR = path.join(__dirname, '..', 'augmentlist');
 
-const BASE_URL = "https://ddowiki.com";
+const BASE_URL = 'https://ddowiki.com';
 
 function cleanText(text) {
   return text
-    .replace(/\u00a0/g, " ")
-    .replace(/\s+/g, " ")
+    .replace(/\u00a0/g, ' ')
+    .replace(/\s+/g, ' ')
     .trim();
 }
 
@@ -25,10 +25,10 @@ function parseMinLevel(text) {
 function removeTooltipNoise($, cell) {
   const clone = cell.clone();
 
-  clone.find(".tooltip").remove();
-  clone.find("style").remove();
-  clone.find("img").remove();
-  clone.find("sup").remove();
+  clone.find('.tooltip').remove();
+  clone.find('style').remove();
+  clone.find('img').remove();
+  clone.find('sup').remove();
 
   return clone;
 }
@@ -44,7 +44,7 @@ function getItemInfo($, nameCell) {
 
   return {
     name: cleanText(link.text()),
-    link: BASE_URL + link.attr("href")
+    link: BASE_URL + link.attr('href'),
   };
 }
 
@@ -53,7 +53,7 @@ function getListText($, cell) {
 
   const results = [];
 
-  cleanCell.find("li").each((_, li) => {
+  cleanCell.find('li').each((_, li) => {
     const text = cleanText($(li).text());
 
     if (text) {
@@ -65,7 +65,7 @@ function getListText($, cell) {
 }
 
 function parseAugmentRow($, row) {
-  const tds = $(row).find("> td");
+  const tds = $(row).find('> td');
 
   // Expected augment category table:
   // 0 = edit metadata
@@ -87,12 +87,12 @@ function parseAugmentRow($, row) {
   return {
     name: itemInfo.name,
     link: itemInfo.link,
-    itemType: "augment",
+    itemType: 'augment',
     augmentColor: cleanText(tds.eq(2).text()),
     minLevel: parseMinLevel(tds.eq(4).text()),
     binding: cleanText(tds.eq(5).text()),
     effectsRaw: getListText($, tds.eq(3)),
-    sourceRaw: tds.length >= 7 ? getListText($, tds.eq(6)) : []
+    sourceRaw: tds.length >= 7 ? getListText($, tds.eq(6)) : [],
   };
 }
 
@@ -100,7 +100,7 @@ function parseAugmentCategoryHTML(html) {
   const $ = cheerio.load(html);
   const augments = [];
 
-  $("tr").each((_, row) => {
+  $('tr').each((_, row) => {
     const augment = parseAugmentRow($, row);
 
     if (augment) {
@@ -112,7 +112,7 @@ function parseAugmentCategoryHTML(html) {
 }
 
 function delay(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+  return new Promise((resolve) => { setTimeout(resolve, ms); });
 }
 
 async function scrapeAugmentCategory(url, outputFile) {
@@ -135,34 +135,34 @@ async function scrapeAugmentCategory(url, outputFile) {
 // Example usage
 async function main() {
   await scrapeAugmentCategory(
-    "https://ddowiki.com/page/Category:Colorless_augments",
-    "colorless_augments.json"
+    'https://ddowiki.com/page/Category:Colorless_augments',
+    'colorless_augments.json',
   );
 
   await scrapeAugmentCategory(
-    "https://ddowiki.com/page/Category:Red_augments",
-    "red_augments.json"
+    'https://ddowiki.com/page/Category:Red_augments',
+    'red_augments.json',
   );
 
   await scrapeAugmentCategory(
-    "https://ddowiki.com/page/Category:Blue_augments",
-    "blue_augments.json"
+    'https://ddowiki.com/page/Category:Blue_augments',
+    'blue_augments.json',
   );
   await scrapeAugmentCategory(
-    "https://ddowiki.com/page/Category:Yellow_augments",
-    "yellow_augments.json"
+    'https://ddowiki.com/page/Category:Yellow_augments',
+    'yellow_augments.json',
   );
   await scrapeAugmentCategory(
-    "https://ddowiki.com/page/Category:Purple_augments",
-    "purple_augments.json"
+    'https://ddowiki.com/page/Category:Purple_augments',
+    'purple_augments.json',
   );
   await scrapeAugmentCategory(
-    "https://ddowiki.com/page/Category:Orange_augments",
-    "orange_augments.json"
+    'https://ddowiki.com/page/Category:Orange_augments',
+    'orange_augments.json',
   );
   await scrapeAugmentCategory(
-    "https://ddowiki.com/page/Category:Green_augments",
-    "green_augments.json"
+    'https://ddowiki.com/page/Category:Green_augments',
+    'green_augments.json',
   );
 }
 
@@ -173,5 +173,5 @@ if (require.main === module) {
 module.exports = {
   parseAugmentCategoryHTML,
   parseAugmentRow,
-  scrapeAugmentCategory
+  scrapeAugmentCategory,
 };

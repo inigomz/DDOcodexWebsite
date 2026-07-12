@@ -2,7 +2,7 @@
 
 const {
   searchCraftingAugments,
-  compactCraftingAugmentForAI
+  compactCraftingAugmentForAI,
 } = require('./craftingAugmentSearch');
 
 function cleanText(value) {
@@ -20,7 +20,7 @@ function getCraftingSlotKey(slot = {}) {
   return [
     slot.system || '',
     slot.slotType || '',
-    slot.itemGroup || ''
+    slot.itemGroup || '',
   ].join(':');
 }
 
@@ -32,7 +32,7 @@ function getRecipeSlot(recipe = {}) {
   return {
     system: recipe.system,
     slotType: recipe.slotType,
-    itemGroup: recipe.itemGroup
+    itemGroup: recipe.itemGroup,
   };
 }
 
@@ -68,13 +68,11 @@ function matchesAllowedValues(value, allowedValues) {
     return true;
   }
 
-  return allowedValues.some(allowed =>
-    normalizeText(allowed) === normalizeText(value)
-  );
+  return allowedValues.some((allowed) => normalizeText(allowed) === normalizeText(value));
 }
 
 function filterCraftingSlots(slots, options = {}) {
-  return slots.filter(slot => {
+  return slots.filter((slot) => {
     if (!matchesAllowedValues(slot.system, options.systems)) {
       return false;
     }
@@ -93,9 +91,9 @@ function filterCraftingSlots(slots, options = {}) {
 
 function getCandidateStackKey(candidate) {
   if (
-    candidate.parsedSelectedEffect &&
-    candidate.parsedSelectedEffect.parsed &&
-    candidate.parsedSelectedEffect.stackKey
+    candidate.parsedSelectedEffect
+    && candidate.parsedSelectedEffect.parsed
+    && candidate.parsedSelectedEffect.stackKey
   ) {
     return candidate.parsedSelectedEffect.stackKey;
   }
@@ -105,9 +103,9 @@ function getCandidateStackKey(candidate) {
 
 function getCandidateStat(candidate) {
   if (
-    candidate.parsedSelectedEffect &&
-    candidate.parsedSelectedEffect.parsed &&
-    candidate.parsedSelectedEffect.stat
+    candidate.parsedSelectedEffect
+    && candidate.parsedSelectedEffect.parsed
+    && candidate.parsedSelectedEffect.stat
   ) {
     return candidate.parsedSelectedEffect.stat;
   }
@@ -117,10 +115,10 @@ function getCandidateStat(candidate) {
 
 function getCandidateValue(candidate) {
   if (
-    candidate.parsedSelectedEffect &&
-    candidate.parsedSelectedEffect.parsed &&
-    candidate.parsedSelectedEffect.value !== null &&
-    candidate.parsedSelectedEffect.value !== undefined
+    candidate.parsedSelectedEffect
+    && candidate.parsedSelectedEffect.parsed
+    && candidate.parsedSelectedEffect.value !== null
+    && candidate.parsedSelectedEffect.value !== undefined
   ) {
     return candidate.parsedSelectedEffect.value;
   }
@@ -140,7 +138,7 @@ function summarizeCandidate(candidate) {
     stat: getCandidateStat(candidate),
     value: getCandidateValue(candidate),
 
-    searchScore: candidate.searchScore
+    searchScore: candidate.searchScore,
   };
 }
 
@@ -164,7 +162,7 @@ function summarizeCraftingSlotCandidates(candidates = []) {
       bestCandidate: candidate.name,
       bestEffect: candidate.selectedEffectRaw,
       bestScore: candidate.searchScore,
-      selectedTier: candidate.selectedTier
+      selectedTier: candidate.selectedTier,
     });
   }
 
@@ -176,7 +174,7 @@ function buildCraftingSlotPlan({
   slot,
   buildProfile = {},
   limitPerSlot = 5,
-  minimumScore = 1
+  minimumScore = 1,
 }) {
   const candidates = searchCraftingAugments(
     craftingAugments,
@@ -186,8 +184,8 @@ function buildCraftingSlotPlan({
       itemGroup: slot.itemGroup,
       buildProfile,
       limit: limitPerSlot,
-      minimumScore
-    }
+      minimumScore,
+    },
   );
 
   const compactCandidates = candidates.map(compactCraftingAugmentForAI);
@@ -212,7 +210,7 @@ function buildCraftingSlotPlan({
     stackFamilies: summarizeCraftingSlotCandidates(candidates),
 
     candidates,
-    compactCandidates
+    compactCandidates,
   };
 }
 
@@ -236,7 +234,7 @@ function collectDesiredCraftingStackKeys(slotPlans = []) {
         bestEffect: family.bestEffect,
         bestScore: family.bestScore,
         sourceSlotKey: slotPlan.key,
-        sourceSlotLabel: slotPlan.label
+        sourceSlotLabel: slotPlan.label,
       });
     }
   }
@@ -251,7 +249,7 @@ function buildCraftingAugmentPlan({
   slotTypes = [],
   itemGroups = [],
   limitPerSlot = 5,
-  minimumScore = 1
+  minimumScore = 1,
 }) {
   if (!Array.isArray(craftingAugments)) {
     throw new Error('buildCraftingAugmentPlan expected craftingAugments to be an array.');
@@ -264,29 +262,24 @@ function buildCraftingAugmentPlan({
     {
       systems,
       slotTypes,
-      itemGroups
-    }
+      itemGroups,
+    },
   );
 
   const slotPlans = filteredSlots
-    .map(slot =>
-      buildCraftingSlotPlan({
-        craftingAugments,
-        slot,
-        buildProfile,
-        limitPerSlot,
-        minimumScore
-      })
-    )
-    .filter(plan =>
-      plan.candidates.length > 0
-    )
+    .map((slot) => buildCraftingSlotPlan({
+      craftingAugments,
+      slot,
+      buildProfile,
+      limitPerSlot,
+      minimumScore,
+    }))
+    .filter((plan) => plan.candidates.length > 0)
     .sort((a, b) => b.bestScore - a.bestScore);
 
-  const desiredCraftingStackKeys =
-    collectDesiredCraftingStackKeys(slotPlans);
+  const desiredCraftingStackKeys = collectDesiredCraftingStackKeys(slotPlans);
 
-  const usefulCraftingSlots = slotPlans.map(plan => ({
+  const usefulCraftingSlots = slotPlans.map((plan) => ({
     key: plan.key,
     label: plan.label,
 
@@ -297,7 +290,7 @@ function buildCraftingAugmentPlan({
     bestScore: plan.bestScore,
     bestCandidate: plan.bestCandidate,
 
-    stackFamilies: plan.stackFamilies
+    stackFamilies: plan.stackFamilies,
   }));
 
   const slotPlanByKey = new Map();
@@ -314,13 +307,13 @@ function buildCraftingAugmentPlan({
 
     slotPlans,
 
-    slotPlanByKey
+    slotPlanByKey,
   };
 }
 
 function getCraftingSlotPotentialScore(
   craftingSlot,
-  craftingAugmentPlan
+  craftingAugmentPlan,
 ) {
   const key = getCraftingSlotKey(craftingSlot);
   const plan = craftingAugmentPlan.slotPlanByKey.get(key);
@@ -334,7 +327,7 @@ function getCraftingSlotPotentialScore(
 
 function getCraftingSlotPotential(
   craftingSlot,
-  craftingAugmentPlan
+  craftingAugmentPlan,
 ) {
   const key = getCraftingSlotKey(craftingSlot);
   const plan = craftingAugmentPlan.slotPlanByKey.get(key);
@@ -348,25 +341,23 @@ function getCraftingSlotPotential(
     label: plan.label,
     bestScore: plan.bestScore,
     bestCandidate: plan.bestCandidate,
-    stackFamilies: plan.stackFamilies
+    stackFamilies: plan.stackFamilies,
   };
 }
 
 function getItemCraftingPotential(
   item,
-  craftingAugmentPlan
+  craftingAugmentPlan,
 ) {
   const craftingSlots = item.craftingSlots || [];
 
   const slotPotentials = craftingSlots
-    .map(slot =>
-      getCraftingSlotPotential(slot, craftingAugmentPlan)
-    )
+    .map((slot) => getCraftingSlotPotential(slot, craftingAugmentPlan))
     .filter(Boolean);
 
   const totalPotentialScore = slotPotentials.reduce(
     (total, slot) => total + Number(slot.bestScore || 0),
-    0
+    0,
   );
 
   return {
@@ -374,17 +365,17 @@ function getItemCraftingPotential(
     itemKey: item.itemKey || item.link || item.name,
 
     totalPotentialScore,
-    slotPotentials
+    slotPotentials,
   };
 }
 
 function getBestCraftingPlanForItem(
   item,
-  craftingAugmentPlan
+  craftingAugmentPlan,
 ) {
   const itemPotential = getItemCraftingPotential(
     item,
-    craftingAugmentPlan
+    craftingAugmentPlan,
   );
 
   const sortedSlotPotentials = [...itemPotential.slotPotentials]
@@ -392,7 +383,7 @@ function getBestCraftingPlanForItem(
 
   return {
     ...itemPotential,
-    bestSlotPotential: sortedSlotPotentials[0] || null
+    bestSlotPotential: sortedSlotPotentials[0] || null,
   };
 }
 
@@ -400,7 +391,7 @@ function compactCraftingAugmentPlanForAI(plan) {
   return {
     buildMaxLevel: plan.buildMaxLevel,
 
-    usefulCraftingSlots: plan.usefulCraftingSlots.map(slot => ({
+    usefulCraftingSlots: plan.usefulCraftingSlots.map((slot) => ({
       key: slot.key,
       label: slot.label,
       system: slot.system,
@@ -408,27 +399,27 @@ function compactCraftingAugmentPlanForAI(plan) {
       itemGroup: slot.itemGroup,
       bestScore: slot.bestScore,
       bestCandidate: slot.bestCandidate,
-      stackFamilies: slot.stackFamilies.map(family => ({
+      stackFamilies: slot.stackFamilies.map((family) => ({
         stackKey: family.stackKey,
         stat: family.stat,
         value: family.value,
         bestCandidate: family.bestCandidate,
         bestEffect: family.bestEffect,
         bestScore: family.bestScore,
-        selectedTier: family.selectedTier
-      }))
+        selectedTier: family.selectedTier,
+      })),
     })),
 
     desiredCraftingStackKeys:
-      plan.desiredCraftingStackKeys.map(entry => ({
+      plan.desiredCraftingStackKeys.map((entry) => ({
         stackKey: entry.stackKey,
         stat: entry.stat,
         value: entry.value,
         bestCandidate: entry.bestCandidate,
         bestEffect: entry.bestEffect,
         bestScore: entry.bestScore,
-        sourceSlotLabel: entry.sourceSlotLabel
-      }))
+        sourceSlotLabel: entry.sourceSlotLabel,
+      })),
   };
 }
 
@@ -445,5 +436,5 @@ module.exports = {
   getItemCraftingPotential,
   getBestCraftingPlanForItem,
 
-  compactCraftingAugmentPlanForAI
+  compactCraftingAugmentPlanForAI,
 };

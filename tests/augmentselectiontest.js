@@ -1,20 +1,19 @@
 // testaugmentselection.js
 
 const {
-  buildProfileFromGoal
+  buildProfileFromGoal,
 } = require('../tools/buildProfile');
 
 const {
   loadAllAugments,
-  getAugmentCandidatesForItem
+  getAugmentCandidatesForItem,
 } = require('../tools/augmentSearch');
 
 const {
-  selectAugmentsForItem
+  selectAugmentsForItem,
 } = require('../tools/augmentSelection');
 
-const goal =
-  'Level 34 Wisdom-based Monk using handwraps, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.';
+const goal = 'Level 34 Wisdom-based Monk using handwraps, focused on Tactical DC, Stunning, Wisdom, PRR, MRR, Dodge, and survivability.';
 
 const buildProfile = buildProfileFromGoal(goal);
 const augments = loadAllAugments();
@@ -28,9 +27,9 @@ const eyesOfDefilement = {
     'Quality Potency +28',
     'Insightful Spell Lore V',
     'Utter Disintegration Guard',
-    'Taint of Evil'
+    'Taint of Evil',
   ],
-  augmentSlots: ['Green', 'Yellow', 'Blue']
+  augmentSlots: ['Green', 'Yellow', 'Blue'],
 };
 
 const augmentCandidates = getAugmentCandidatesForItem(
@@ -39,8 +38,8 @@ const augmentCandidates = getAugmentCandidatesForItem(
   {
     goal,
     maxLevel: 34,
-    limitPerSlot: 5
-  }
+    limitPerSlot: 5,
+  },
 );
 
 const usedAugmentKeys = new Set();
@@ -49,7 +48,7 @@ const selected = selectAugmentsForItem({
   item: eyesOfDefilement,
   augmentCandidatesForItem: augmentCandidates,
   buildProfile,
-  usedAugmentKeys
+  usedAugmentKeys,
 });
 
 console.log(JSON.stringify(selected, null, 2));

@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 require('dotenv').config({
-  path: path.join(__dirname, '..', '.env')
+  path: path.join(__dirname, '..', '.env'),
 });
 
 let OpenAI = null;
@@ -19,18 +19,17 @@ const DEFAULT_BUILD_SUMMARY_PATH = path.join(
   __dirname,
   '..',
   'testoutput',
-  'build_summary_test_output.json'
+  'build_summary_test_output.json',
 );
 
 const DEFAULT_OUTPUT_PATH = path.join(
   __dirname,
   '..',
   'testoutput',
-  'openai_gear_advice_output.md'
+  'openai_gear_advice_output.md',
 );
 
-const DEFAULT_MODEL =
-  process.env.OPENAI_MODEL || 'gpt-4o-mini';
+const DEFAULT_MODEL = process.env.OPENAI_MODEL || 'gpt-4o-mini';
 
 function cleanText(value) {
   return String(value || '')
@@ -57,7 +56,7 @@ function readJsonFile(filepath) {
   }
 
   return JSON.parse(
-    fs.readFileSync(filepath, 'utf8')
+    fs.readFileSync(filepath, 'utf8'),
   );
 }
 
@@ -72,15 +71,15 @@ function writeTextFile(filepath, content) {
 }
 
 function normalizeSelectedGear(summary = {}) {
-  return asArray(summary.selectedGear).map(item => ({
+  return asArray(summary.selectedGear).map((item) => ({
     ...item,
     effects: unique(
       asArray(item.effects)
         .map(cleanText)
-        .filter(Boolean)
+        .filter(Boolean),
     ),
     augmentSlots: asArray(item.augmentSlots),
-    craftingSlots: asArray(item.craftingSlots)
+    craftingSlots: asArray(item.craftingSlots),
   }));
 }
 
@@ -115,7 +114,7 @@ function normalizeBuildSummary(summary = {}) {
       asArray(summary.advisorNotes),
 
     scoreBreakdown:
-      summary.scoreBreakdown || null
+      summary.scoreBreakdown || null,
   };
 }
 
@@ -126,23 +125,21 @@ function validateBuildSummary(summary = {}) {
     'selectedGear',
     'normalAugments',
     'craftingAugments',
-    'remainingGaps'
+    'remainingGaps',
   ];
 
-  const missing = requiredFields.filter(field =>
-    summary[field] === undefined ||
-    summary[field] === null
-  );
+  const missing = requiredFields.filter((field) => summary[field] === undefined
+    || summary[field] === null);
 
   if (missing.length > 0) {
     throw new Error(
-      `Build summary is missing required field(s): ${missing.join(', ')}`
+      `Build summary is missing required field(s): ${missing.join(', ')}`,
     );
   }
 }
 
 function loadBuildSummary(
-  summaryPath = DEFAULT_BUILD_SUMMARY_PATH
+  summaryPath = DEFAULT_BUILD_SUMMARY_PATH,
 ) {
   const summary = readJsonFile(summaryPath);
   const normalized = normalizeBuildSummary(summary);
@@ -187,20 +184,20 @@ function compactSummaryForPrompt(summary = {}) {
 
     scoreBreakdown: scoreBreakdown
       ? {
-          score: scoreBreakdown.score,
-          counts: scoreBreakdown.counts || {},
-          topGapPenalties:
+        score: scoreBreakdown.score,
+        counts: scoreBreakdown.counts || {},
+        topGapPenalties:
             getTopItems(
               scoreBreakdown.topGapPenalties || [],
-              10
+              10,
             ),
-          topConflictPenalties:
+        topConflictPenalties:
             getTopItems(
               scoreBreakdown.topConflictPenalties || [],
-              10
-            )
-        }
-      : null
+              10,
+            ),
+      }
+      : null,
   };
 }
 
@@ -209,18 +206,14 @@ function buildAdvisorInstructions(buildProfile) {
   // Otherwise fall back to generic instructions so existing callers
   // that pass no argument continue to work.
   if (buildProfile && (
-    (buildProfile.buildTypes && buildProfile.buildTypes.length > 0) ||
-    (buildProfile.primaryStats && buildProfile.primaryStats.length > 0)
+    (buildProfile.buildTypes && buildProfile.buildTypes.length > 0)
+    || (buildProfile.primaryStats && buildProfile.primaryStats.length > 0)
   )) {
-    const buildTypes =
-      (buildProfile.buildTypes || []).join(', ') || 'unknown';
-    const primaryStats =
-      (buildProfile.primaryStats || []).join(', ') || 'unknown';
-    const preferredWeapons =
-      (buildProfile.preferredWeaponSubtypes || []).join(', ') || 'any';
+    const buildTypes = (buildProfile.buildTypes || []).join(', ') || 'unknown';
+    const primaryStats = (buildProfile.primaryStats || []).join(', ') || 'unknown';
+    const preferredWeapons = (buildProfile.preferredWeaponSubtypes || []).join(', ') || 'any';
     const armorPref = buildProfile.armorPreference || {};
-    const armorTypes =
-      (armorPref.preferredArmorTypes || []).join(', ') || 'any';
+    const armorTypes = (armorPref.preferredArmorTypes || []).join(', ') || 'any';
     const maxLevel = buildProfile.maxLevel || 34;
 
     return [
@@ -233,7 +226,7 @@ function buildAdvisorInstructions(buildProfile) {
       'Explain the most important remaining gaps.',
       'Explain the remaining stacking conflicts without exaggerating them.',
       'Distinguish between serious problems and acceptable leftovers.',
-      'Keep the advice actionable and easy to read.'
+      'Keep the advice actionable and easy to read.',
     ].join('\n');
   }
 
@@ -247,7 +240,7 @@ function buildAdvisorInstructions(buildProfile) {
     'Explain the most important remaining gaps.',
     'Explain the remaining stacking conflicts without exaggerating them.',
     'Distinguish between serious problems and acceptable leftovers.',
-    'Keep the advice actionable and easy to read.'
+    'Keep the advice actionable and easy to read.',
   ].join('\n');
 }
 
@@ -268,25 +261,25 @@ function buildAdvisorPrompt(summary = {}) {
     '8. Short final recommendation',
     '',
     'Build summary JSON:',
-    JSON.stringify(compactSummary, null, 2)
+    JSON.stringify(compactSummary, null, 2),
   ].join('\n');
 }
 
 function createOpenAIClient() {
   if (!OpenAI) {
     throw new Error(
-      'The openai package is not installed. Run: npm install openai'
+      'The openai package is not installed. Run: npm install openai',
     );
   }
 
   if (!process.env.OPENAI_API_KEY) {
     throw new Error(
-      'OPENAI_API_KEY is not set. Add it to your environment or .env file.'
+      'OPENAI_API_KEY is not set. Add it to your environment or .env file.',
     );
   }
 
   return new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY
+    apiKey: process.env.OPENAI_API_KEY,
   });
 }
 
@@ -319,26 +312,24 @@ async function generateGearAdvice({
   buildSummary,
   summaryPath = DEFAULT_BUILD_SUMMARY_PATH,
   model = DEFAULT_MODEL,
-  client = null
+  client = null,
 } = {}) {
-  const summary =
-    buildSummary ||
-    loadBuildSummary(summaryPath);
+  const summary = buildSummary
+    || loadBuildSummary(summaryPath);
 
-  const openaiClient =
-    client ||
-    createOpenAIClient();
+  const openaiClient = client
+    || createOpenAIClient();
 
   const response = await openaiClient.responses.create({
     model,
     instructions: buildAdvisorInstructions(summary.buildProfile),
-    input: buildAdvisorPrompt(summary)
+    input: buildAdvisorPrompt(summary),
   });
 
   return {
     model,
     summary,
-    advice: extractOutputText(response)
+    advice: extractOutputText(response),
   };
 }
 
@@ -352,7 +343,7 @@ function buildLocalFallbackAdvice(summary = {}) {
   lines.push(
     summary.counts.validationErrorCount > 0
       ? 'The build has validation errors and should not be treated as final yet.'
-      : 'The build is structurally valid and ready for advisor review.'
+      : 'The build is structurally valid and ready for advisor review.',
   );
 
   lines.push('');
@@ -376,7 +367,7 @@ function buildLocalFallbackAdvice(summary = {}) {
 
   for (const gap of asArray(summary.remainingGaps).slice(0, 10)) {
     lines.push(
-      `- ${gap.label}: current ${gap.currentValue}, minimum ${gap.minimumValue}, target ${gap.targetValue}, status ${gap.status}`
+      `- ${gap.label}: current ${gap.currentValue}, minimum ${gap.minimumValue}, target ${gap.targetValue}, status ${gap.status}`,
     );
   }
 
@@ -385,7 +376,7 @@ function buildLocalFallbackAdvice(summary = {}) {
 
   for (const augment of asArray(summary.normalAugments)) {
     lines.push(
-      `- ${augment.augmentName} into ${augment.itemName}: ${augment.effect}`
+      `- ${augment.augmentName} into ${augment.itemName}: ${augment.effect}`,
     );
   }
 
@@ -394,7 +385,7 @@ function buildLocalFallbackAdvice(summary = {}) {
 
   for (const augment of asArray(summary.craftingAugments)) {
     lines.push(
-      `- ${augment.augmentName} on ${augment.itemName}: ${augment.effect}`
+      `- ${augment.augmentName} on ${augment.itemName}: ${augment.effect}`,
     );
   }
 
@@ -404,12 +395,12 @@ function buildLocalFallbackAdvice(summary = {}) {
   for (const conflict of asArray(summary.remainingStackingConflicts).slice(0, 10)) {
     const winner = conflict.winningBonus?.raw || 'unknown winner';
     const suppressed = asArray(conflict.suppressedBonuses)
-      .map(bonus => bonus.raw)
+      .map((bonus) => bonus.raw)
       .filter(Boolean)
       .join(', ');
 
     lines.push(
-      `- ${conflict.stackKey}: ${winner} suppresses ${suppressed}`
+      `- ${conflict.stackKey}: ${winner} suppresses ${suppressed}`,
     );
   }
 
@@ -418,7 +409,7 @@ function buildLocalFallbackAdvice(summary = {}) {
 
   for (const swap of asArray(summary.swapLog)) {
     lines.push(
-      `- Pass ${swap.pass}: ${swap.slotLabel}: ${swap.oldItemName} -> ${swap.newItemName}`
+      `- Pass ${swap.pass}: ${swap.slotLabel}: ${swap.oldItemName} -> ${swap.newItemName}`,
     );
   }
 
@@ -429,7 +420,7 @@ async function generateAndSaveGearAdvice({
   summaryPath = DEFAULT_BUILD_SUMMARY_PATH,
   outputPath = DEFAULT_OUTPUT_PATH,
   model = DEFAULT_MODEL,
-  useOpenAI = true
+  useOpenAI = true,
 } = {}) {
   const summary = loadBuildSummary(summaryPath);
 
@@ -438,7 +429,7 @@ async function generateAndSaveGearAdvice({
   if (useOpenAI) {
     const result = await generateGearAdvice({
       buildSummary: summary,
-      model
+      model,
     });
 
     advice = result.advice;
@@ -455,27 +446,24 @@ async function generateAndSaveGearAdvice({
   return {
     summary,
     advice,
-    outputPath
+    outputPath,
   };
 }
 
 async function main() {
-  const summaryPath =
-    process.argv[2] ||
-    DEFAULT_BUILD_SUMMARY_PATH;
+  const summaryPath = process.argv[2]
+    || DEFAULT_BUILD_SUMMARY_PATH;
 
-  const outputPath =
-    process.argv[3] ||
-    DEFAULT_OUTPUT_PATH;
+  const outputPath = process.argv[3]
+    || DEFAULT_OUTPUT_PATH;
 
-  const useOpenAI =
-    process.env.USE_OPENAI_ADVISOR !== 'false';
+  const useOpenAI = process.env.USE_OPENAI_ADVISOR !== 'false';
 
   const result = await generateAndSaveGearAdvice({
     summaryPath,
     outputPath,
     model: DEFAULT_MODEL,
-    useOpenAI
+    useOpenAI,
   });
 
   console.log('');
@@ -485,7 +473,7 @@ async function main() {
 }
 
 if (require.main === module) {
-  main().catch(error => {
+  main().catch((error) => {
     console.error('');
     console.error('openaiGearAdvisor.js failed:');
     console.error(error.message);
@@ -509,5 +497,5 @@ module.exports = {
   extractOutputText,
 
   DEFAULT_BUILD_SUMMARY_PATH,
-  DEFAULT_OUTPUT_PATH
+  DEFAULT_OUTPUT_PATH,
 };

@@ -12,8 +12,8 @@ function readJsonFile(filepath) {
 function getJsonFiles(directory) {
   return fs
     .readdirSync(directory)
-    .filter(file => file.endsWith('.json'))
-    .map(file => path.join(directory, file));
+    .filter((file) => file.endsWith('.json'))
+    .map((file) => path.join(directory, file));
 }
 
 function normalizeText(value) {
@@ -28,7 +28,7 @@ function cleanColor(value) {
     .replace(/\.json$/i, '')
     .replace(/_/g, ' ')
     .trim()
-    .replace(/\b\w/g, char => char.toUpperCase());
+    .replace(/\b\w/g, (char) => char.toUpperCase());
 }
 
 function colorFromFilename(filepath) {
@@ -49,11 +49,11 @@ function colorFromFilename(filepath) {
 
 function getAugmentColor(augment, fallbackColor = null) {
   return (
-    augment.augmentColor ||
-    augment.augmentCategory ||
-    augment.augmentType ||
-    fallbackColor ||
-    null
+    augment.augmentColor
+    || augment.augmentCategory
+    || augment.augmentType
+    || fallbackColor
+    || null
   );
 }
 
@@ -75,7 +75,7 @@ function loadAllAugments(augmentDir = DEFAULT_AUGMENT_DIR) {
       allAugments.push({
         ...augment,
         augmentColor: getAugmentColor(augment, fallbackColor),
-        sourceFile: path.basename(file)
+        sourceFile: path.basename(file),
       });
     }
   }
@@ -98,7 +98,7 @@ function getAllowedAugmentColorsForSlot(slotColor) {
     Green: ['Green', 'Blue', 'Yellow', 'Colorless'],
 
     Sun: ['Sun'],
-    Moon: ['Moon']
+    Moon: ['Moon'],
   };
 
   return compatibility[color] || [color];
@@ -111,7 +111,7 @@ function augmentTextBlob(augment) {
     augment.binding,
     ...(augment.effectsRaw || []),
     ...(augment.sourceRaw || []),
-    ...(augment.locationRaw || [])
+    ...(augment.locationRaw || []),
   ]
     .join(' ')
     .toLowerCase();
@@ -124,9 +124,7 @@ function hasAllTerms(augment, terms) {
 
   const blob = augmentTextBlob(augment);
 
-  return terms.every(term =>
-    blob.includes(normalizeText(term))
-  );
+  return terms.every((term) => blob.includes(normalizeText(term)));
 }
 
 function hasAnyTerm(augment, terms) {
@@ -136,9 +134,7 @@ function hasAnyTerm(augment, terms) {
 
   const blob = augmentTextBlob(augment);
 
-  return terms.some(term =>
-    blob.includes(normalizeText(term))
-  );
+  return terms.some((term) => blob.includes(normalizeText(term)));
 }
 
 function matchesAugmentSlot(augment, slotColor) {
@@ -154,17 +150,17 @@ function matchesAugmentSlot(augment, slotColor) {
 
 function matchesAugment(augment, query = {}) {
   if (
-    query.maxLevel !== undefined &&
-    augment.minLevel !== null &&
-    augment.minLevel > query.maxLevel
+    query.maxLevel !== undefined
+    && augment.minLevel !== null
+    && augment.minLevel > query.maxLevel
   ) {
     return false;
   }
 
   if (
-    query.minLevel !== undefined &&
-    augment.minLevel !== null &&
-    augment.minLevel < query.minLevel
+    query.minLevel !== undefined
+    && augment.minLevel !== null
+    && augment.minLevel < query.minLevel
   ) {
     return false;
   }
@@ -174,8 +170,8 @@ function matchesAugment(augment, query = {}) {
   }
 
   if (
-    query.augmentColor &&
-    getAugmentColor(augment) !== query.augmentColor
+    query.augmentColor
+    && getAugmentColor(augment) !== query.augmentColor
   ) {
     return false;
   }
@@ -223,10 +219,10 @@ function searchAugments(augments, query = {}) {
   const limit = query.limit || 10;
 
   return augments
-    .filter(augment => matchesAugment(augment, query))
-    .map(augment => ({
+    .filter((augment) => matchesAugment(augment, query))
+    .map((augment) => ({
       ...augment,
-      searchScore: scoreAugment(augment, query)
+      searchScore: scoreAugment(augment, query),
     }))
     .sort((a, b) => {
       if (b.searchScore !== a.searchScore) {
@@ -246,7 +242,7 @@ function compactAugmentForAI(augment) {
     minLevel: augment.minLevel,
     effects: augment.effectsRaw || [],
     binding: augment.binding || null,
-    searchScore: augment.searchScore
+    searchScore: augment.searchScore,
   };
 }
 
@@ -261,21 +257,21 @@ function buildAugmentQueryFromGoal(goal, slotColor, maxLevel = 34) {
   }
 
   if (
-    loweredGoal.includes('tactical') ||
-    loweredGoal.includes('stunning') ||
-    loweredGoal.includes('dc')
+    loweredGoal.includes('tactical')
+    || loweredGoal.includes('stunning')
+    || loweredGoal.includes('dc')
   ) {
     priorityTerms.push(
       'Stunning',
       'Combat Mastery',
       'Tactical',
-      'DC'
+      'DC',
     );
   }
 
   if (
-    loweredGoal.includes('survivability') ||
-    loweredGoal.includes('defense')
+    loweredGoal.includes('survivability')
+    || loweredGoal.includes('defense')
   ) {
     secondaryTerms.push(
       'PRR',
@@ -285,7 +281,7 @@ function buildAugmentQueryFromGoal(goal, slotColor, maxLevel = 34) {
       'Resistance',
       'False Life',
       'Fortification',
-      'Healing Amplification'
+      'Healing Amplification',
     );
   }
 
@@ -294,7 +290,7 @@ function buildAugmentQueryFromGoal(goal, slotColor, maxLevel = 34) {
     maxLevel,
     priorityTerms,
     secondaryTerms,
-    limit: 8
+    limit: 8,
   };
 }
 
@@ -308,7 +304,7 @@ function getAugmentCandidatesForItem(item, augments, options = {}) {
   for (const slotColor of item.augmentSlots || []) {
     const query = {
       ...buildAugmentQueryFromGoal(goal, slotColor, maxLevel),
-      limit: limitPerSlot
+      limit: limitPerSlot,
     };
 
     const candidates = searchAugments(augments, query);
@@ -318,7 +314,7 @@ function getAugmentCandidatesForItem(item, augments, options = {}) {
       itemKey: item.itemKey,
       slotColor,
       allowedColors: getAllowedAugmentColorsForSlot(slotColor),
-      candidates: candidates.map(compactAugmentForAI)
+      candidates: candidates.map(compactAugmentForAI),
     });
   }
 
@@ -329,15 +325,14 @@ function getAugmentCandidatesForItems(items, augments, options = {}) {
   const result = [];
 
   for (const item of items) {
-    const itemAugmentCandidates =
-      getAugmentCandidatesForItem(item, augments, options);
+    const itemAugmentCandidates = getAugmentCandidatesForItem(item, augments, options);
 
     if (itemAugmentCandidates.length > 0) {
       result.push({
         itemName: item.name,
         itemKey: item.itemKey,
         augmentSlots: item.augmentSlots || [],
-        augmentCandidates: itemAugmentCandidates
+        augmentCandidates: itemAugmentCandidates,
       });
     }
   }
@@ -351,5 +346,5 @@ module.exports = {
   compactAugmentForAI,
   getAllowedAugmentColorsForSlot,
   getAugmentCandidatesForItem,
-  getAugmentCandidatesForItems
+  getAugmentCandidatesForItems,
 };

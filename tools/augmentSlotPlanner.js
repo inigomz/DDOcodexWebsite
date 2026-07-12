@@ -57,19 +57,19 @@ function getItemKey(value = {}) {
 
 function getRecommendationStackKey(rec = {}) {
   return (
-    rec.parsedBonus?.stackKey ||
-    rec.stackKey ||
-    rec.targetStackKey ||
-    null
+    rec.parsedBonus?.stackKey
+    || rec.stackKey
+    || rec.targetStackKey
+    || null
   );
 }
 
 function getRecommendationValue(rec = {}) {
   const value = Number(
-    rec.candidateValue ??
-    rec.value ??
-    rec.parsedBonus?.value ??
-    0
+    rec.candidateValue
+    ?? rec.value
+    ?? rec.parsedBonus?.value
+    ?? 0,
   );
 
   return Number.isNaN(value) ? 0 : value;
@@ -89,16 +89,16 @@ function getTargetPriority(rec = {}) {
 
 function sortRecommendations(a, b) {
   return (
-    getRecommendationScore(b) - getRecommendationScore(a) ||
-    getTargetPriority(b) - getTargetPriority(a) ||
-    getRecommendationValue(b) - getRecommendationValue(a)
+    getRecommendationScore(b) - getRecommendationScore(a)
+    || getTargetPriority(b) - getTargetPriority(a)
+    || getRecommendationValue(b) - getRecommendationValue(a)
   );
 }
 
 function getCraftingSlotInstanceKey(rec = {}) {
   return [
     rec.itemKey || rec.itemName || 'unknown_item',
-    rec.craftingSlotKey || 'unknown_crafting_slot'
+    rec.craftingSlotKey || 'unknown_crafting_slot',
   ].join('::');
 }
 
@@ -106,19 +106,19 @@ function normalizeOpenSlot(slot) {
   if (typeof slot === 'string') {
     return {
       color: normalizeColor(slot),
-      raw: slot
+      raw: slot,
     };
   }
 
   return {
     color: normalizeColor(
-      slot.color ||
-      slot.slotColor ||
-      slot.type ||
-      slot.name ||
-      slot.slotType
+      slot.color
+      || slot.slotColor
+      || slot.type
+      || slot.name
+      || slot.slotType,
     ),
-    raw: slot
+    raw: slot,
   };
 }
 
@@ -129,13 +129,13 @@ function getItemAugmentSlots(item = {}) {
 
   return slots
     .map(normalizeOpenSlot)
-    .filter(slot => slot.color);
+    .filter((slot) => slot.color);
 }
 
 function indexOpenNormalSlots(openNormalSlots = []) {
   const countsByBaseKey = new Map();
 
-  return openNormalSlots.map(slot => {
+  return openNormalSlots.map((slot) => {
     const itemKey = getItemKey(slot) || slot.itemName || 'unknown_item';
     const color = normalizeColor(slot.color);
     const baseKey = `${itemKey}:${color}`;
@@ -149,7 +149,7 @@ function indexOpenNormalSlots(openNormalSlots = []) {
       itemName: slot.itemName || 'unknown item',
       color,
       slotId: `${baseKey}:${count}`,
-      raw: slot.raw || slot.color || color
+      raw: slot.raw || slot.color || color,
     };
   });
 }
@@ -157,23 +157,19 @@ function indexOpenNormalSlots(openNormalSlots = []) {
 function compatibleSlotMatchesRecommendation(slot, rec) {
   const compatibleSlots = rec.compatibleSlots || [];
 
-  return compatibleSlots.some(compatible => {
-    const compatibleItemKey =
-      compatible.itemKey ||
-      compatible.key ||
-      compatible.itemName;
+  return compatibleSlots.some((compatible) => {
+    const compatibleItemKey = compatible.itemKey
+      || compatible.key
+      || compatible.itemName;
 
-    const slotItemKey =
-      slot.itemKey ||
-      slot.key ||
-      slot.itemName;
+    const slotItemKey = slot.itemKey
+      || slot.key
+      || slot.itemName;
 
-    const sameItem =
-      compatibleItemKey === slotItemKey ||
-      compatible.itemName === slot.itemName;
+    const sameItem = compatibleItemKey === slotItemKey
+      || compatible.itemName === slot.itemName;
 
-    const sameColor =
-      normalizeColor(compatible.color) === normalizeColor(slot.color);
+    const sameColor = normalizeColor(compatible.color) === normalizeColor(slot.color);
 
     return sameItem && sameColor;
   });
@@ -194,9 +190,9 @@ function getSlotPreferenceScore(slot, rec) {
   }
 
   if (
-    slotColor === 'green' ||
-    slotColor === 'purple' ||
-    slotColor === 'orange'
+    slotColor === 'green'
+    || slotColor === 'purple'
+    || slotColor === 'orange'
   ) {
     score -= 2;
   }
@@ -207,15 +203,13 @@ function getSlotPreferenceScore(slot, rec) {
 function chooseBestNormalSlotForRecommendation(
   rec,
   indexedOpenSlots,
-  usedNormalSlotIds
+  usedNormalSlotIds,
 ) {
   const compatibleSlots = indexedOpenSlots
-    .filter(slot => !usedNormalSlotIds.has(slot.slotId))
-    .filter(slot => compatibleSlotMatchesRecommendation(slot, rec))
-    .sort((a, b) =>
-      getSlotPreferenceScore(b, rec) -
-      getSlotPreferenceScore(a, rec)
-    );
+    .filter((slot) => !usedNormalSlotIds.has(slot.slotId))
+    .filter((slot) => compatibleSlotMatchesRecommendation(slot, rec))
+    .sort((a, b) => getSlotPreferenceScore(b, rec)
+      - getSlotPreferenceScore(a, rec));
 
   return compatibleSlots[0] || null;
 }
@@ -272,7 +266,7 @@ function buildNormalAugmentAssignment(rec, slot) {
     minimumValue: rec.minimumValue,
     targetValue: rec.targetValue,
 
-    score: getRecommendationScore(rec)
+    score: getRecommendationScore(rec),
   };
 }
 
@@ -300,47 +294,45 @@ function buildCraftingAugmentAssignment(rec) {
     minimumValue: rec.minimumValue,
     targetValue: rec.targetValue,
 
-    score: getRecommendationScore(rec)
+    score: getRecommendationScore(rec),
   };
 }
 
 function selectAugmentAssignments({
   augmentGapPlan,
-  options = {}
+  options = {},
 }) {
   const indexedOpenSlots = indexOpenNormalSlots(
-    augmentGapPlan.openNormalSlots || []
+    augmentGapPlan.openNormalSlots || [],
   );
 
   const normalRecommendations = [
-    ...(augmentGapPlan.normalAugmentRecommendations || [])
+    ...(augmentGapPlan.normalAugmentRecommendations || []),
   ].sort(sortRecommendations);
 
   const craftingRecommendations = [
-    ...(augmentGapPlan.craftingAugmentRecommendations || [])
+    ...(augmentGapPlan.craftingAugmentRecommendations || []),
   ].sort(sortRecommendations);
 
   const combinedRecommendations = [
     ...normalRecommendations,
-    ...craftingRecommendations
+    ...craftingRecommendations,
   ].sort(sortRecommendations);
 
   const state = {
     usedNormalSlotIds: new Set(),
     usedCraftingSlotKeys: new Set(),
     filledTargetIds: new Set(),
-    filledStackKeys: new Set()
+    filledStackKeys: new Set(),
   };
 
   const normalAssignments = [];
   const craftingAssignments = [];
   const skippedRecommendations = [];
 
-  const maxNormalAssignments =
-    options.maxNormalAssignments || indexedOpenSlots.length;
+  const maxNormalAssignments = options.maxNormalAssignments || indexedOpenSlots.length;
 
-  const maxCraftingAssignments =
-    options.maxCraftingAssignments || 20;
+  const maxCraftingAssignments = options.maxCraftingAssignments || 20;
 
   for (const rec of combinedRecommendations) {
     if (shouldSkipRecommendation(rec, state)) {
@@ -349,7 +341,7 @@ function selectAugmentAssignments({
         sourceType: rec.sourceType,
         reason: 'target_or_stack_already_filled',
         targetId: rec.targetId,
-        stackKey: getRecommendationStackKey(rec)
+        stackKey: getRecommendationStackKey(rec),
       });
 
       continue;
@@ -363,7 +355,7 @@ function selectAugmentAssignments({
       const slot = chooseBestNormalSlotForRecommendation(
         rec,
         indexedOpenSlots,
-        state.usedNormalSlotIds
+        state.usedNormalSlotIds,
       );
 
       if (!slot) {
@@ -372,7 +364,7 @@ function selectAugmentAssignments({
           sourceType: rec.sourceType,
           reason: 'no_compatible_open_slot',
           targetId: rec.targetId,
-          stackKey: getRecommendationStackKey(rec)
+          stackKey: getRecommendationStackKey(rec),
         });
 
         continue;
@@ -398,7 +390,7 @@ function selectAugmentAssignments({
           sourceType: rec.sourceType,
           reason: 'missing_crafting_slot_key',
           targetId: rec.targetId,
-          stackKey: getRecommendationStackKey(rec)
+          stackKey: getRecommendationStackKey(rec),
         });
 
         continue;
@@ -414,7 +406,7 @@ function selectAugmentAssignments({
           craftingSlotKey: rec.craftingSlotKey,
           craftingSlotInstanceKey,
           targetId: rec.targetId,
-          stackKey: getRecommendationStackKey(rec)
+          stackKey: getRecommendationStackKey(rec),
         });
 
         continue;
@@ -429,7 +421,7 @@ function selectAugmentAssignments({
   }
 
   const remainingOpenNormalSlots = indexedOpenSlots
-    .filter(slot => !state.usedNormalSlotIds.has(slot.slotId));
+    .filter((slot) => !state.usedNormalSlotIds.has(slot.slotId));
 
   return {
     normalAssignments,
@@ -440,7 +432,7 @@ function selectAugmentAssignments({
     usedNormalSlotIds: Array.from(state.usedNormalSlotIds),
     usedCraftingSlotKeys: Array.from(state.usedCraftingSlotKeys),
     filledTargetIds: Array.from(state.filledTargetIds),
-    filledStackKeys: Array.from(state.filledStackKeys)
+    filledStackKeys: Array.from(state.filledStackKeys),
   };
 }
 
@@ -452,7 +444,7 @@ function getOrCreateSelectedAugmentGroup(map, itemName, itemKey) {
       itemName,
       itemKey: key,
       selectedAugments: [],
-      openSlots: []
+      openSlots: [],
     });
   }
 
@@ -485,16 +477,16 @@ function decrementCount(map, color) {
 
 function getSelectedAugmentSlotColor(augment = {}) {
   return normalizeColor(
-    augment.slotColor ||
-    augment.slot ||
-    augment.selectedSlotColor ||
-    augment.augmentSlotColor
+    augment.slotColor
+    || augment.slot
+    || augment.selectedSlotColor
+    || augment.augmentSlotColor,
   );
 }
 
 function addMissingOpenSlotsFromEquippedItems(
   map,
-  equippedItems = []
+  equippedItems = [],
 ) {
   for (const item of equippedItems || []) {
     const itemSlots = getItemAugmentSlots(item);
@@ -509,7 +501,7 @@ function addMissingOpenSlotsFromEquippedItems(
     const group = getOrCreateSelectedAugmentGroup(
       map,
       itemName,
-      itemKey
+      itemKey,
     );
 
     const remainingSlotCounts = new Map();
@@ -521,7 +513,7 @@ function addMissingOpenSlotsFromEquippedItems(
     for (const augment of group.selectedAugments || []) {
       decrementCount(
         remainingSlotCounts,
-        getSelectedAugmentSlotColor(augment)
+        getSelectedAugmentSlotColor(augment),
       );
     }
 
@@ -538,8 +530,8 @@ function addMissingOpenSlotsFromEquippedItems(
       group.openSlots.push(
         slot.raw || {
           slotColor: slot.color,
-          reason: 'No augment assigned by augmentSlotPlanner.'
-        }
+          reason: 'No augment assigned by augmentSlotPlanner.',
+        },
       );
 
       decrementCount(remainingSlotCounts, slot.color);
@@ -551,7 +543,7 @@ function buildSelectedAugmentsForValidation({
   normalAssignments = [],
   remainingOpenNormalSlots = [],
   selectedAugments = [],
-  equippedItems = []
+  equippedItems = [],
 }) {
   // Important:
   // Do not preserve earlier augmentSelection.js selected augments here.
@@ -562,7 +554,7 @@ function buildSelectedAugmentsForValidation({
     const group = getOrCreateSelectedAugmentGroup(
       map,
       assignment.itemName,
-      assignment.itemKey
+      assignment.itemKey,
     );
 
     group.selectedAugments.push({
@@ -578,7 +570,7 @@ function buildSelectedAugmentsForValidation({
       targetLabel: assignment.targetLabel,
       stackKey: assignment.stackKey,
       value: assignment.value,
-      score: assignment.score
+      score: assignment.score,
     });
   }
 
@@ -586,7 +578,7 @@ function buildSelectedAugmentsForValidation({
     const group = getOrCreateSelectedAugmentGroup(
       map,
       slot.itemName,
-      slot.itemKey
+      slot.itemKey,
     );
 
     group.openSlots.push(slot.raw || slot.color);
@@ -594,7 +586,7 @@ function buildSelectedAugmentsForValidation({
 
   addMissingOpenSlotsFromEquippedItems(
     map,
-    equippedItems
+    equippedItems,
   );
 
   return Array.from(map.values());
@@ -623,7 +615,7 @@ function compactAssignment(assignment) {
 
     stackKey: assignment.stackKey,
     value: assignment.value,
-    score: assignment.score
+    score: assignment.score,
   };
 }
 
@@ -631,7 +623,7 @@ function buildAugmentSlotPlan({
   augmentGapPlan,
   selectedAugments = [],
   equippedItems = [],
-  options = {}
+  options = {},
 }) {
   if (!augmentGapPlan) {
     throw new Error('buildAugmentSlotPlan expected augmentGapPlan.');
@@ -639,17 +631,16 @@ function buildAugmentSlotPlan({
 
   const assignmentResult = selectAugmentAssignments({
     augmentGapPlan,
-    options
+    options,
   });
 
-  const selectedAugmentsForValidation =
-    buildSelectedAugmentsForValidation({
-      normalAssignments: assignmentResult.normalAssignments,
-      remainingOpenNormalSlots:
+  const selectedAugmentsForValidation = buildSelectedAugmentsForValidation({
+    normalAssignments: assignmentResult.normalAssignments,
+    remainingOpenNormalSlots:
         assignmentResult.remainingOpenNormalSlots,
-      selectedAugments,
-      equippedItems
-    });
+    selectedAugments,
+    equippedItems,
+  });
 
   return {
     counts: {
@@ -660,7 +651,7 @@ function buildAugmentSlotPlan({
       remainingOpenNormalSlotCount:
         assignmentResult.remainingOpenNormalSlots.length,
       skippedRecommendationCount:
-        assignmentResult.skippedRecommendations.length
+        assignmentResult.skippedRecommendations.length,
     },
 
     normalAssignments: assignmentResult.normalAssignments,
@@ -674,7 +665,7 @@ function buildAugmentSlotPlan({
 
     filledTargetIds: assignmentResult.filledTargetIds,
     filledStackKeys: assignmentResult.filledStackKeys,
-    usedCraftingSlotKeys: assignmentResult.usedCraftingSlotKeys
+    usedCraftingSlotKeys: assignmentResult.usedCraftingSlotKeys,
   };
 }
 
@@ -689,15 +680,15 @@ function compactAugmentSlotPlanForAI(plan) {
       plan.craftingAssignments.map(compactAssignment),
 
     remainingOpenNormalSlots:
-      plan.remainingOpenNormalSlots.map(slot => ({
+      plan.remainingOpenNormalSlots.map((slot) => ({
         itemName: slot.itemName,
         itemKey: slot.itemKey,
-        color: slot.color
+        color: slot.color,
       })),
 
     filledTargetIds: plan.filledTargetIds,
     filledStackKeys: plan.filledStackKeys,
-    usedCraftingSlotKeys: plan.usedCraftingSlotKeys || []
+    usedCraftingSlotKeys: plan.usedCraftingSlotKeys || [],
   };
 }
 
@@ -713,5 +704,5 @@ module.exports = {
 
   normalizeColor,
   cleanText,
-  normalizeText
+  normalizeText,
 };
