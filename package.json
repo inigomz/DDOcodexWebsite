@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "lint": "eslint --ext .js,.jsx .",
     "lint:fix": "npm run lint -- --fix",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test tests/gearEffectsDedup.test.js tests/plannerFeatures.test.js"
   },
   "repository": {
     "type": "git",

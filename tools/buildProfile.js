@@ -403,6 +403,33 @@ function buildProfileFromGoal(goal) {
   };
 }
 
+function buildNeutralProfile() {
+  return {
+    goal: '',
+    maxLevel: 34,
+    useNaturalLanguage: false,
+
+    buildTypes: [],
+    primaryStats: [],
+
+    priorityTerms: [],
+    secondaryTerms: [],
+    avoidTerms: [],
+
+    preferredWeaponSubtypes: [],
+
+    armorPreference: {
+      enforceArmorType: false,
+      allowedArmorTypes: [],
+      preferredArmorTypes: [],
+      avoidArmorTypes: [],
+      notes: [],
+    },
+
+    notes: ['Natural-language build parsing disabled.'],
+  };
+}
+
 function compactBuildProfileForAI(buildProfile) {
   return {
     goal: buildProfile.goal,
@@ -430,6 +457,7 @@ function compactBuildProfileForAI(buildProfile) {
 
 module.exports = {
   buildProfileFromGoal,
+  buildNeutralProfile,
   compactBuildProfileForAI,
 
   detectMaxLevel,

@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import GearCandidatePicker from './GearCandidatePicker';
 import styles from './GearResults.module.css';
 
 function StatusPill({ count, label, tone }) {
@@ -151,7 +152,16 @@ function ConflictRow({ conflict }) {
   );
 }
 
-export default function GearResults({ summary, onGetAdvice, advisorState }) {
+export default function GearResults({
+  summary,
+  candidateGroups,
+  lockedItems,
+  onLockedItemChange,
+  onReplan,
+  isReplanning,
+  onGetAdvice,
+  advisorState,
+}) {
   const counts = summary.counts || {};
   const profile = summary.buildProfile || {};
 
@@ -196,6 +206,14 @@ export default function GearResults({ summary, onGetAdvice, advisorState }) {
         <StatusPill count={counts.craftingAssignmentCount || 0} label="Crafting" tone="info" />
         <StatusPill count={counts.relevantConflictCount || 0} label="Conflicts" tone={counts.relevantConflictCount > 0 ? 'warning' : 'neutral'} />
       </div>
+
+      <GearCandidatePicker
+        groups={candidateGroups}
+        lockedItems={lockedItems}
+        onChange={onLockedItemChange}
+        onReplan={onReplan}
+        isLoading={isReplanning}
+      />
 
       {/* ── Selected Gear ── */}
       <div className={styles.block}>

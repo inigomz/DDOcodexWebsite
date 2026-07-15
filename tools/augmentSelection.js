@@ -167,6 +167,20 @@ function scoreAugmentForProfile(augment, buildProfile = {}) {
   }
 
   const stackBonuses = getAugmentStackBonuses(augment);
+  const selectedStackKeys = new Set(
+    (buildProfile.selectedEffects || []).flatMap(
+      (selection) => (selection.prefixes || []).map(
+        (prefix) => `${prefix}:${selection.stat}`,
+      ),
+    ),
+  );
+
+  for (const bonus of stackBonuses) {
+    if (selectedStackKeys.has(bonus.stackKey)) {
+      score += 50;
+      matchedPriority = true;
+    }
+  }
 
   if (matchedPriority || matchedSecondary) {
     for (const bonus of stackBonuses) {

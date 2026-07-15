@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import EffectPicker from './EffectPicker';
 import styles from './PlannerForm.module.css';
 
 const EXAMPLES = [
@@ -8,14 +9,33 @@ const EXAMPLES = [
   'Level 32 tank build with heavy armor, focused on PRR, MRR, Fortification, Intimidate, and Dodge',
 ];
 
-export default function PlannerForm({ onSubmit, isLoading }) {
+export default function PlannerForm({
+  onSubmit,
+  isLoading,
+  effects,
+  catalogState,
+  catalogError,
+}) {
   const [goal, setGoal] = useState('');
+  const [selectedEffects, setSelectedEffects] = useState([]);
+  const [useNaturalLanguage, setUseNaturalLanguage] = useState(true);
+
+  const trimmedGoal = goal.trim();
+  const hasSelectedEffects = selectedEffects.length > 0;
+  const hasRequiredInput = useNaturalLanguage
+    ? Boolean(trimmedGoal)
+    : hasSelectedEffects;
 
   function handleSubmit(e) {
     e.preventDefault();
-    const trimmed = goal.trim();
-    if (!trimmed || isLoading) return;
-    onSubmit(trimmed);
+
+    if (!hasRequiredInput || isLoading) return;
+
+    onSubmit({
+      goal: useNaturalLanguage ? trimmedGoal : '',
+      effectSelections: selectedEffects,
+      useNaturalLanguage,
+    });
   }
 
   function handleExample(text) {
@@ -28,35 +48,67 @@ export default function PlannerForm({ onSubmit, isLoading }) {
         Plan Your Gear
       </h2>
       <p className={styles.description}>
-        Describe your build in plain English. Include your level, primary stat,
-        class or playstyle, weapon type, and any stats you want to prioritize.
+        Describe your build in plain English, choose specific effects, or use
+        both methods together.
       </p>
 
       <form onSubmit={handleSubmit} className={styles.form} noValidate>
-        <label htmlFor="goal-input" className={styles.label}>
-          Build goal
+        <label className={styles.modeToggle} htmlFor="use-build-description">
+          <input
+            id="use-build-description"
+            type="checkbox"
+            className={styles.modeCheckbox}
+            checked={useNaturalLanguage}
+            onChange={(event) => setUseNaturalLanguage(event.target.checked)}
+            disabled={isLoading}
+            aria-describedby="build-description-mode-hint"
+          />
+          <span className={styles.modeText}>
+            <span className={styles.modeLabel}>Use build description</span>
+            <span id="build-description-mode-hint" className={styles.modeHint}>
+              Let the planner infer your level, build type, equipment, and
+              priorities from a written description.
+            </span>
+          </span>
         </label>
-        <textarea
-          id="goal-input"
-          className={styles.textarea}
-          value={goal}
-          onChange={(e) => setGoal(e.target.value)}
-          placeholder="e.g. Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC and Stunning…"
-          rows={3}
-          disabled={isLoading}
-          aria-required="true"
-          aria-describedby="goal-hint"
+
+        {useNaturalLanguage && (
+          <div className={styles.descriptionFields}>
+            <label htmlFor="goal-input" className={styles.label}>
+              Build goal
+            </label>
+            <textarea
+              id="goal-input"
+              className={styles.textarea}
+              value={goal}
+              onChange={(e) => setGoal(e.target.value)}
+              placeholder="e.g. Level 34 Wisdom-based Monk using handwraps and cloth armor, focused on Tactical DC and Stunning…"
+              rows={3}
+              disabled={isLoading}
+              aria-required="true"
+              aria-describedby="goal-hint"
+            />
+            <p id="goal-hint" className={styles.hint}>
+              The planner reads level, build type, primary stat, weapon subtype, armor
+              preference, and priority terms from your description.
+            </p>
+          </div>
+        )}
+
+        <EffectPicker
+          effects={effects}
+          selectedEffects={selectedEffects}
+          onChange={setSelectedEffects}
+          isLoading={isLoading || catalogState === 'loading'}
+          error={catalogError}
         />
-        <p id="goal-hint" className={styles.hint}>
-          The planner reads level, build type, primary stat, weapon subtype, armor
-          preference, and priority terms from your description.
-        </p>
 
         <button
           type="submit"
           className={styles.submitBtn}
-          disabled={!goal.trim() || isLoading}
+          disabled={!hasRequiredInput || isLoading}
           aria-busy={isLoading}
+          aria-describedby="plan-input-requirement"
         >
           {isLoading ? (
             <>
@@ -67,25 +119,32 @@ export default function PlannerForm({ onSubmit, isLoading }) {
             'Plan Gear'
           )}
         </button>
+        <p id="plan-input-requirement" className={styles.hint}>
+          {useNaturalLanguage
+            ? 'Enter a build description to run the planner.'
+            : 'Select at least one desired effect to run without a build description.'}
+        </p>
       </form>
 
-      <div className={styles.examples}>
-        <p className={styles.examplesLabel}>Try an example:</p>
-        <ul className={styles.exampleList}>
-          {EXAMPLES.map((ex, i) => (
-            <li key={i}>
-              <button
-                type="button"
-                className={styles.exampleBtn}
-                onClick={() => handleExample(ex)}
-                disabled={isLoading}
-              >
-                {ex}
-              </button>
-            </li>
-          ))}
-        </ul>
-      </div>
+      {useNaturalLanguage && (
+        <div className={styles.examples}>
+          <p className={styles.examplesLabel}>Try an example:</p>
+          <ul className={styles.exampleList}>
+            {EXAMPLES.map((ex, i) => (
+              <li key={i}>
+                <button
+                  type="button"
+                  className={styles.exampleBtn}
+                  onClick={() => handleExample(ex)}
+                  disabled={isLoading}
+                >
+                  {ex}
+                </button>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
     </section>
   );
 }

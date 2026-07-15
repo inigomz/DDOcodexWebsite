@@ -6,6 +6,11 @@ const {
   countRelevantConflicts,
 } = require('./gearsetScorer');
 
+const {
+  getResolvedItemEffects,
+  dedupeEffects,
+} = require('./selectableEffects');
+
 function cleanText(value) {
   return String(value || '')
     .replace(/\u00a0/g, ' ')
@@ -13,9 +18,6 @@ function cleanText(value) {
     .trim();
 }
 
-function unique(values) {
-  return [...new Set((values || []).filter(Boolean))];
-}
 function numberOrDefault(value, fallback = 0) {
   const number = Number(value);
 
@@ -26,15 +28,17 @@ function getItemKey(item = {}) {
   return item.itemKey || item.key || item.link || item.name;
 }
 
-function getItemEffects(item = {}) {
-  return unique([
-    ...(Array.isArray(item.effectsRaw) ? item.effectsRaw : []),
-    ...(Array.isArray(item.effects) ? item.effects : []),
-    ...(Array.isArray(item.namedEffects) ? item.namedEffects : []),
-    ...(Array.isArray(item.enhancements) ? item.enhancements : []),
-  ]
-    .map(cleanText)
-    .filter(Boolean));
+function getItemEffects(item = {}, buildProfile = {}) {
+  try {
+    return getResolvedItemEffects(item, buildProfile);
+  } catch (error) {
+    return dedupeEffects([
+      ...(Array.isArray(item.effectsRaw) ? item.effectsRaw : []),
+      ...(Array.isArray(item.effects) ? item.effects : []),
+      ...(Array.isArray(item.namedEffects) ? item.namedEffects : []),
+      ...(Array.isArray(item.enhancements) ? item.enhancements : []),
+    ]);
+  }
 }
 
 function getEvaluationFromInput({
@@ -63,7 +67,7 @@ function getEquippedItems({
   );
 }
 
-function compactSelectedGearItem(item = {}) {
+function compactSelectedGearItem(item = {}, buildProfile = {}) {
   return {
     slot: item.slot || 'unknown',
     name: item.name || 'unknown item',
@@ -75,7 +79,7 @@ function compactSelectedGearItem(item = {}) {
     augmentSlots: item.augmentSlots || [],
     craftingSlots: item.craftingSlots || [],
 
-    effects: getItemEffects(item),
+    effects: getItemEffects(item, buildProfile),
 
     stackAwareScore:
       item.stackAwareScore ?? item.dynamicScore ?? null,
@@ -460,8 +464,10 @@ function buildSummary({
     goal,
     buildProfile: {
       maxLevel: buildProfile.maxLevel,
+      useNaturalLanguage: buildProfile.useNaturalLanguage !== false,
       buildTypes: buildProfile.buildTypes || [],
       primaryStats: buildProfile.primaryStats || [],
+      selectedEffects: buildProfile.selectedEffects || [],
       preferredWeaponSubtypes:
         buildProfile.preferredWeaponSubtypes || [],
       armorPreference:
@@ -478,7 +484,9 @@ function buildSummary({
     }),
 
     selectedGear:
-      selectedItems.map(compactSelectedGearItem),
+      selectedItems.map(
+        (item) => compactSelectedGearItem(item, buildProfile),
+      ),
 
     normalAugments:
       (slotPlan.normalAssignments || [])

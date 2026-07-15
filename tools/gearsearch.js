@@ -4,7 +4,12 @@ const fs = require('fs');
 const path = require('path');
 
 const {
+  parseBonusEffect,
+} = require('./bonusParser');
+
+const {
   getResolvedItemEffects,
+  dedupeEffects,
 } = require('./selectableEffects');
 
 const DEFAULT_ITEM_DIR = path.join(
@@ -84,6 +89,12 @@ function loadAllItems(itemDir = DEFAULT_ITEM_DIR) {
     const loadedItems = normalizeLoadedJson(data);
 
     for (const item of loadedItems) {
+      // Enrichment report files also contain arrays, but their rows are not
+      // gear. Requiring a display name keeps those diagnostics out of search.
+      if (!cleanText(item.name || item.itemName || '')) {
+        continue;
+      }
+
       items.push({
         ...item,
         sourceFile: item.sourceFile || file,
@@ -520,7 +531,7 @@ function getRawEffects(item) {
     }
   }
 
-  return effects.map(cleanText).filter(Boolean);
+  return dedupeEffects(effects);
 }
 
 function isSetRequirementLine(effect) {
@@ -584,8 +595,25 @@ function effectMatchesAnyTerm(effect, terms = []) {
   return terms.some((term) => textMatchesTerm(effect, term));
 }
 
+function getSelectedStackKeys(buildProfile = {}) {
+  return new Set(
+    (buildProfile.selectedEffects || []).flatMap(
+      (selection) => (selection.prefixes || []).map(
+        (prefix) => `${prefix}:${selection.stat}`,
+      ),
+    ),
+  );
+}
+
+function getEffectStackKey(effect) {
+  const parsed = parseBonusEffect(effect);
+
+  return parsed?.parsed ? parsed.stackKey : null;
+}
+
 function getFilteredEffectsForBuild(item, buildProfile = {}) {
   const effects = getScorableEffects(item, buildProfile);
+  const selectedStackKeys = getSelectedStackKeys(buildProfile);
 
   const usefulTerms = [
     ...(buildProfile.primaryStats || []),
@@ -596,6 +624,10 @@ function getFilteredEffectsForBuild(item, buildProfile = {}) {
   const avoidTerms = buildProfile.avoidTerms || [];
 
   return effects.filter((effect) => {
+    if (selectedStackKeys.has(getEffectStackKey(effect))) {
+      return true;
+    }
+
     if (effectMatchesAnyTerm(effect, avoidTerms)) {
       return false;
     }
@@ -772,12 +804,20 @@ function scoreItem(item, query = {}) {
   const filteredEffects = getFilteredEffectsForBuild(item, buildProfile);
 
   let score = 0;
+  const selectedStackKeys = getSelectedStackKeys(buildProfile);
+  const matchedSelectedStackKeys = new Set();
 
   if (filteredEffects.length === 0) {
     score -= 80;
   }
 
   for (const effect of effects) {
+    const stackKey = getEffectStackKey(effect);
+
+    if (selectedStackKeys.has(stackKey)) {
+      matchedSelectedStackKeys.add(stackKey);
+    }
+
     for (const stat of buildProfile.primaryStats || []) {
       if (textMatchesTerm(effect, stat)) {
         score += 60;
@@ -802,6 +842,10 @@ function scoreItem(item, query = {}) {
       }
     }
   }
+
+  // Explicit effect/prefix choices are stronger than inferred text terms and
+  // are matched through canonical stack keys to avoid prefix substring leaks.
+  score += matchedSelectedStackKeys.size * 200;
 
   for (const term of query.shouldInclude || []) {
     if (effects.some((effect) => textMatchesTerm(effect, term))) {

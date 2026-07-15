@@ -382,6 +382,18 @@ function scoreCraftingAugmentForProfile(
   score += addAliasScore(effectText, buildProfile);
 
   const parsed = parseBonusEffect(effectText);
+  const selectedStackKeys = new Set(
+    (buildProfile.selectedEffects || []).flatMap(
+      (selection) => (selection.prefixes || []).map(
+        (prefix) => `${prefix}:${selection.stat}`,
+      ),
+    ),
+  );
+
+  if (parsed.parsed && selectedStackKeys.has(parsed.stackKey)) {
+    score += 200;
+    matchedBuildTerm = true;
+  }
 
   if (
     matchedBuildTerm

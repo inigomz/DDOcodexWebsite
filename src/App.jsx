@@ -1,4 +1,8 @@
-import React, { useState, useCallback } from 'react';
+import React, {
+  useCallback,
+  useEffect,
+  useState,
+} from 'react';
 import PlannerForm from './components/PlannerForm';
 import GearResults from './components/GearResults';
 import AdvisorReport from './components/AdvisorReport';
@@ -11,14 +15,58 @@ const ADVISOR_URL = '/.netlify/functions/advisor';
 export default function App() {
   const [planState, setPlanState] = useState('idle'); // idle | loading | done | error
   const [advisorState, setAdvisorState] = useState('idle'); // idle | loading | done | error
+  const [catalogState, setCatalogState] = useState('loading');
+  const [effectCatalog, setEffectCatalog] = useState([]);
+  const [catalogError, setCatalogError] = useState(null);
   const [summary, setSummary] = useState(null);
+  const [candidateGroups, setCandidateGroups] = useState([]);
+  const [lastPlanInput, setLastPlanInput] = useState(null);
+  const [lockedItems, setLockedItems] = useState({});
   const [advice, setAdvice] = useState(null);
   const [planError, setPlanError] = useState(null);
   const [advisorError, setAdvisorError] = useState(null);
 
-  const handlePlan = useCallback(async (goal) => {
+  useEffect(() => {
+    const controller = new AbortController();
+
+    async function loadEffectCatalog() {
+      setCatalogState('loading');
+      setCatalogError(null);
+
+      try {
+        const res = await fetch(PLAN_GEAR_URL, {
+          method: 'GET',
+          signal: controller.signal,
+        });
+        const data = await res.json();
+
+        if (!res.ok) {
+          throw new Error(data.error || `Server error ${res.status}`);
+        }
+
+        setEffectCatalog(data.effects || []);
+        setCatalogState('done');
+      } catch (err) {
+        if (err.name === 'AbortError') return;
+
+        setCatalogError(err.message);
+        setCatalogState('error');
+      }
+    }
+
+    loadEffectCatalog();
+
+    return () => controller.abort();
+  }, []);
+
+  const requestPlan = useCallback(async (planInput, preserveResults = false) => {
     setPlanState('loading');
-    setSummary(null);
+
+    if (!preserveResults) {
+      setSummary(null);
+      setCandidateGroups([]);
+    }
+
     setAdvice(null);
     setPlanError(null);
     setAdvisorState('idle');
@@ -28,7 +76,7 @@ export default function App() {
       const res = await fetch(PLAN_GEAR_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ goal }),
+        body: JSON.stringify(planInput),
       });
 
       const data = await res.json();
@@ -38,12 +86,51 @@ export default function App() {
       }
 
       setSummary(data.summary);
+      setCandidateGroups(data.candidateGroups || []);
       setPlanState('done');
     } catch (err) {
       setPlanError(err.message);
       setPlanState('error');
     }
   }, []);
+
+  const handlePlan = useCallback((planInput) => {
+    const nextPlanInput = {
+      goal: planInput.goal,
+      effectSelections: planInput.effectSelections || [],
+      useNaturalLanguage: planInput.useNaturalLanguage !== false,
+    };
+
+    setLastPlanInput(nextPlanInput);
+    setLockedItems({});
+    requestPlan({
+      ...nextPlanInput,
+      lockedItems: {},
+    });
+  }, [requestPlan]);
+
+  const handleLockedItemChange = useCallback((groupId, itemKey) => {
+    setLockedItems((current) => {
+      const next = { ...current };
+
+      if (itemKey) {
+        next[groupId] = itemKey;
+      } else {
+        delete next[groupId];
+      }
+
+      return next;
+    });
+  }, []);
+
+  const handleReplan = useCallback(() => {
+    if (!lastPlanInput || planState === 'loading') return;
+
+    requestPlan({
+      ...lastPlanInput,
+      lockedItems,
+    }, true);
+  }, [lastPlanInput, lockedItems, planState, requestPlan]);
 
   const handleGetAdvice = useCallback(async () => {
     if (!summary) return;
@@ -92,6 +179,9 @@ export default function App() {
         <PlannerForm
           onSubmit={handlePlan}
           isLoading={planState === 'loading'}
+          effects={effectCatalog}
+          catalogState={catalogState}
+          catalogError={catalogError}
         />
 
         {planState === 'error' && (
@@ -105,14 +195,21 @@ export default function App() {
         {planState === 'loading' && (
           <div className={styles.loadingBanner} aria-live="polite">
             <span className={styles.spinner} aria-hidden="true" />
-            Running gear planner — searching items, scoring augments, validating build…
+            {summary
+              ? 'Re-running the planner around your locked gear…'
+              : 'Running gear planner — searching items, scoring augments, validating build…'}
           </div>
         )}
 
-        {planState === 'done' && summary && (
+        {summary && (
           <>
             <GearResults
               summary={summary}
+              candidateGroups={candidateGroups}
+              lockedItems={lockedItems}
+              onLockedItemChange={handleLockedItemChange}
+              onReplan={handleReplan}
+              isReplanning={planState === 'loading'}
               onGetAdvice={handleGetAdvice}
               advisorState={advisorState}
             />

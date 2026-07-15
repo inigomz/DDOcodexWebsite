@@ -706,8 +706,29 @@ function isWisdomMonkProfile(buildProfile = {}) {
   );
 }
 
-function buildBonusTargets(buildProfile = {}) {
+function getSelectedEffectTargets(buildProfile = {}) {
   const targets = [];
+
+  for (const selection of buildProfile.selectedEffects || []) {
+    for (const prefix of selection.prefixes || []) {
+      targets.push(makeTypedTarget({
+        stat: selection.stat,
+        bonusType: prefix,
+        targetValue: 1,
+        minimumValue: 1,
+        priority: 120,
+        category: 'user_selected',
+        sourceHints: ['gear', 'normal_augment', 'crafting_augment'],
+        notes: ['Explicitly selected by the user.'],
+      }));
+    }
+  }
+
+  return targets;
+}
+
+function buildBonusTargets(buildProfile = {}) {
+  let targets = [];
 
   if (isWisdomMonkProfile(buildProfile)) {
     targets.push(...getWisdomMonkTargets());
@@ -727,6 +748,22 @@ function buildBonusTargets(buildProfile = {}) {
     for (const stat of buildProfile.primaryStats || []) {
       targets.push(...getAbilityTargets(stat, 85));
     }
+  }
+
+  const selectedEffects = buildProfile.selectedEffects || [];
+
+  if (selectedEffects.length > 0) {
+    const selectedStats = new Set(
+      selectedEffects.map((selection) => normalizeText(selection.stat)),
+    );
+
+    // For an explicitly selected effect, the prefix check must be exact.
+    // Replace broader inferred targets such as "Default or Enhancement" with
+    // one target per prefix chosen by the user.
+    targets = targets.filter(
+      (target) => !selectedStats.has(normalizeText(target.stat)),
+    );
+    targets.push(...getSelectedEffectTargets(buildProfile));
   }
 
   return mergeTargets(targets);
@@ -828,6 +865,7 @@ module.exports = {
   getWisdomMonkTargets,
   getGenericMeleeTargets,
   getGenericDefensiveTargets,
+  getSelectedEffectTargets,
 
   cleanText,
   normalizeText,

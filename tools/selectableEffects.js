@@ -77,6 +77,33 @@ function normalizeEffectKey(value) {
     .replace(/[.,]/g, '');
 }
 
+function normalizeEffectsInput(effects) {
+  if (!effects) {
+    return [];
+  }
+
+  return Array.isArray(effects) ? effects : [effects];
+}
+
+function dedupeEffects(effects) {
+  const seen = new Set();
+  const result = [];
+
+  for (const effect of effects || []) {
+    const cleaned = cleanText(effect);
+    const key = normalizeText(cleaned);
+
+    if (!key || seen.has(key)) {
+      continue;
+    }
+
+    seen.add(key);
+    result.push(cleaned);
+  }
+
+  return result;
+}
+
 function escapeRegex(value) {
   return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
@@ -101,23 +128,6 @@ function stripChoiceGroupPrefix(text) {
     .replace(/one of the following\s*:/i, '')
     .replace(/one of the following\s*/i, '')
     .trim();
-}
-
-function buildChoiceRegex() {
-  const bonusTypePattern = BONUS_TYPES
-    .sort((a, b) => b.length - a.length)
-    .map(escapeRegex)
-    .join('|');
-
-  const statPattern = CHOICE_STATS
-    .sort((a, b) => b.length - a.length)
-    .map(escapeRegex)
-    .join('|');
-
-  return new RegExp(
-    `(?:\\b(${bonusTypePattern})\\s+)?\\b(${statPattern})\\s*([+-]?\\d+(?:\\.\\d+)?%?|[IVX]+)`,
-    'gi',
-  );
 }
 
 function insertMissingChoiceSpaces(text) {
@@ -189,6 +199,32 @@ function parseChoicesFromGroupText(groupText) {
   return choices;
 }
 
+function getEmbeddedChoices(groupText, effects = []) {
+  const normalizedGroup = normalizeText(groupText);
+  const candidates = [];
+
+  for (const effect of effects || []) {
+    if (isChoiceGroupText(effect)) {
+      continue;
+    }
+
+    const cleaned = cleanText(effect);
+    const normalizedEffect = normalizeText(cleaned);
+
+    if (
+      normalizedEffect
+      && normalizedGroup.includes(normalizedEffect)
+    ) {
+      candidates.push(cleaned);
+    }
+  }
+
+  return dedupeEffects(candidates).map((raw) => ({
+    raw,
+    parsed: parseBonusEffect(raw),
+  }));
+}
+
 function textMatchesTerm(text, term) {
   return normalizeText(text).includes(normalizeText(term));
 }
@@ -199,6 +235,17 @@ function scoreChoice(choice, buildProfile = {}) {
   const parsed = choice.parsed || {};
   const raw = choice.raw || '';
   const stat = parsed.stat || '';
+  const selectedStackKeys = new Set(
+    (buildProfile.selectedEffects || []).flatMap(
+      (selection) => (selection.prefixes || []).map(
+        (prefix) => `${prefix}:${selection.stat}`,
+      ),
+    ),
+  );
+
+  if (parsed.stackKey && selectedStackKeys.has(parsed.stackKey)) {
+    score += 500;
+  }
 
   for (const primaryStat of buildProfile.primaryStats || []) {
     if (
@@ -264,7 +311,11 @@ function getSelectableEffectGroupsFromEffects(effects, buildProfile = {}) {
       continue;
     }
 
-    const choices = parseChoicesFromGroupText(effect);
+    // The scraper preserves both a parent choice wrapper and its real child
+    // effects. Prefer those source strings over reconstructing choices from a
+    // fixed vocabulary, which can drop qualifiers such as "Acid" or
+    // "Mark of" and turn mutually exclusive effects into simultaneous ones.
+    const choices = getEmbeddedChoices(effect, effects);
     const chosen = chooseBestChoice(choices, buildProfile);
 
     groups.push({
@@ -278,14 +329,23 @@ function getSelectableEffectGroupsFromEffects(effects, buildProfile = {}) {
 }
 
 function getRawItemEffects(item) {
-  const namedEffects = item.namedEffects || [];
-  const effects = item.effects || [];
+  const namedEffects = normalizeEffectsInput(item.namedEffects);
+  const effects = normalizeEffectsInput(item.effects);
 
   if (namedEffects.length > 0) {
-    return namedEffects;
+    return dedupeEffects(namedEffects);
   }
 
-  return effects;
+  if (effects.length > 0) {
+    return dedupeEffects(effects);
+  }
+
+  return dedupeEffects([
+    ...normalizeEffectsInput(item.effectsRaw),
+    ...normalizeEffectsInput(item.enhancements),
+    ...normalizeEffectsInput(item.itemEffects),
+    ...normalizeEffectsInput(item.effectRaw),
+  ]);
 }
 
 function getResolvedItemEffects(item, buildProfile = {}) {
@@ -296,7 +356,7 @@ function getResolvedItemEffects(item, buildProfile = {}) {
   );
 
   if (groups.length === 0) {
-    return rawEffects;
+    return dedupeEffects(rawEffects);
   }
 
   const allChoiceKeys = new Set();
@@ -351,7 +411,7 @@ function getResolvedItemEffects(item, buildProfile = {}) {
     }
   }
 
-  return resolvedEffects;
+  return dedupeEffects(resolvedEffects);
 }
 
 function getSelectableSummaryForItem(item, buildProfile = {}) {
@@ -375,4 +435,6 @@ module.exports = {
   parseChoicesFromGroupText,
   chooseBestChoice,
   isChoiceGroupText,
+  getEmbeddedChoices,
+  dedupeEffects,
 };

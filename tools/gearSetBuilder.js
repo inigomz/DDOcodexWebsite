@@ -326,37 +326,37 @@ function getDefaultOptions(options = {}) {
         ? 1.8
         : options.upgradeValueWeight,
 
-    // These are intentionally moderate.
-    // Too much duplicate punishment caused the builder to abandon
-    // Lamordia-compatible gear and made the final augmented build worse.
+    // Score marginal contribution, not repeated keyword matches. A wider
+    // candidate pool still lets crafting-rich gear compete, while these
+    // penalties prevent suppressed copies from crowding out a new family.
     duplicatePenalty:
       options.duplicatePenalty === undefined
-        ? 45
+        ? 160
         : options.duplicatePenalty,
 
     suppressedPenalty:
       options.suppressedPenalty === undefined
-        ? 65
+        ? 220
         : options.suppressedPenalty,
 
     targetDuplicatePenalty:
       options.targetDuplicatePenalty === undefined
-        ? 20
+        ? 90
         : options.targetDuplicatePenalty,
 
     targetSuppressedPenalty:
       options.targetSuppressedPenalty === undefined
-        ? 35
+        ? 130
         : options.targetSuppressedPenalty,
 
     duplicatePriorityPenaltyWeight:
       options.duplicatePriorityPenaltyWeight === undefined
-        ? 0.75
+        ? 1.5
         : options.duplicatePriorityPenaltyWeight,
 
     suppressedPriorityPenaltyWeight:
       options.suppressedPriorityPenaltyWeight === undefined
-        ? 0.85
+        ? 1.75
         : options.suppressedPriorityPenaltyWeight,
 
     // Lamordia crafting is very important for this planner.
@@ -1101,9 +1101,15 @@ function pickBestCandidateForGroup({
     }))
     .sort((a, b) => b.score - a.score);
 
+  const lockedBest = group.lockedItemKey
+    ? evaluatedCandidates.find(
+      (entry) => getItemKey(entry.item) === group.lockedItemKey,
+    )
+    : null;
+
   return {
     group,
-    best: evaluatedCandidates[0] || null,
+    best: lockedBest || evaluatedCandidates[0] || null,
     evaluatedCandidates,
   };
 }
@@ -1125,7 +1131,7 @@ function buildStackAwareGearset({
 
   const remainingGroups = gearGroups.slice();
   const selectionLog = [];
-  const selectedByGroupLabel = new Map();
+  const selectedByGroupId = new Map();
 
   while (remainingGroups.length > 0) {
     const groupChoices = remainingGroups
@@ -1144,7 +1150,12 @@ function buildStackAwareGearset({
       break;
     }
 
-    groupChoices.sort((a, b) => b.best.score - a.best.score);
+    groupChoices.sort((a, b) => {
+      const lockDifference = Number(Boolean(b.group.lockedItemKey))
+        - Number(Boolean(a.group.lockedItemKey));
+
+      return lockDifference || b.best.score - a.best.score;
+    });
 
     const chosen = groupChoices[0];
     const chosenIndex = remainingGroups.indexOf(chosen.group);
@@ -1172,12 +1183,17 @@ function buildStackAwareGearset({
       normalAugmentSlotPotentials: chosen.best.normalAugmentSlotPotentials,
     };
 
-    selectedByGroupLabel.set(chosen.group.label, {
+    selectedByGroupId.set(chosen.group.groupId || chosen.group.label, {
+      groupId: chosen.group.groupId || chosen.group.label,
       groupLabel: chosen.group.label,
+      lockedItemKey: chosen.group.lockedItemKey || null,
       selectedItem,
       evaluation: chosen.best,
       backupItems: chosen.evaluatedCandidates
-        .slice(1, Math.max(2, chosen.group.requestedLimit || 2))
+        .filter(
+          (entry) => getItemKey(entry.item) !== getItemKey(chosen.best.item),
+        )
+        .slice(0, Math.max(1, (chosen.group.requestedLimit || 2) - 1))
         .map((entry) => ({
           ...entry.item,
           dynamicScore: entry.dynamicScore,
@@ -1212,6 +1228,7 @@ function buildStackAwareGearset({
       targetSuppressedBonuses: chosen.best.targetSuppressedBonuses,
       craftingPotentialScore: chosen.best.craftingPotentialScore,
       normalAugmentPotentialScore: chosen.best.normalAugmentPotentialScore,
+      locked: Boolean(chosen.group.lockedItemKey),
     });
 
     addItemToState(
@@ -1223,7 +1240,7 @@ function buildStackAwareGearset({
   }
 
   const slotSelections = gearGroups
-    .map((group) => selectedByGroupLabel.get(group.label))
+    .map((group) => selectedByGroupId.get(group.groupId || group.label))
     .filter(Boolean);
 
   const selectedItems = slotSelections

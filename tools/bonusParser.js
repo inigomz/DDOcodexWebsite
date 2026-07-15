@@ -122,6 +122,7 @@ function canonicalizeStat(rawStat, rawEffect = '') {
     .replace(/^bonus to /i, '')
     .replace(/^the /i, '')
     .replace(/\s+bonus$/i, '')
+    .replace(/\s+[-:+]$/i, '')
     .trim();
 
   const text = normalizeText(stat);
@@ -547,6 +548,25 @@ function normalizeEffectsInput(effects) {
   return [effects];
 }
 
+function dedupeEffectText(effects) {
+  const seen = new Set();
+  const result = [];
+
+  for (const effect of normalizeEffectsInput(effects)) {
+    const cleaned = cleanText(effect);
+    const key = normalizeText(cleaned);
+
+    if (!key || seen.has(key)) {
+      continue;
+    }
+
+    seen.add(key);
+    result.push(cleaned);
+  }
+
+  return result;
+}
+
 function parseEffects(effects, source = null) {
   return normalizeEffectsInput(effects).map((effect) => {
     const parsed = parseBonusEffect(effect);
@@ -563,12 +583,12 @@ function parseEffects(effects, source = null) {
 }
 
 function parseItemBonuses(item) {
-  const effects = [
-    ...(item.effects || []),
-    ...(item.effectsRaw || []),
-    ...(item.enhancements || []),
-    ...(item.namedEffects || []),
-  ];
+  const effects = dedupeEffectText([
+    ...normalizeEffectsInput(item.effects),
+    ...normalizeEffectsInput(item.effectsRaw),
+    ...normalizeEffectsInput(item.enhancements),
+    ...normalizeEffectsInput(item.namedEffects),
+  ]);
 
   return parseEffects(
     effects,
