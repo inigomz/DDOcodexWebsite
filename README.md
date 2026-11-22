@@ -165,6 +165,16 @@ node scraper/enrichItemsWithSets.js
 
 Scrapers use a polite 750ms delay between requests and identify themselves as `DDO-Gear-Planner-Bot/1.0`.
 
+### Import the catalog into MongoDB Atlas
+
+Run `node tools/importCatalog.js` to validate the scraper outputs and print collection counts offline. After installing the project dependencies, set `MONGODB_URI` to the full Atlas connection string in `.env` and run:
+
+```bash
+node tools/importCatalog.js --write
+```
+
+Set `MONGODB_DB` in `.env` to select a database. The default is `ddocodex`. The importer upserts items, augments, named sets, filigrees, and both crafting systems using stable IDs. Records removed from the JSON require separate cleanup in Atlas. If a write fails partway through, rerun the command with the same source files.
+
 ---
 
 ## Manual test scripts
