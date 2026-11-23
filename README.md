@@ -150,6 +150,20 @@ Sign out and in again to pick up a changed claim. Previously issued tokens can r
 
 Send a Firebase ID token as `Authorization: Bearer <token>` to `GET /.netlify/functions/adminAccess`. Expect `401` for a missing or invalid token, `403` for a signed-in user, or `204` for an admin. Use `requireAdmin(event)` from `netlify/lib/auth.js` before a protected catalog write and return its error response before touching Atlas. The planner, advisor, and chatbot retain their existing access rules.
 
+### Saved gearsets and account administration
+
+Set `MONGODB_URI` and optionally `MONGODB_DB` (default `ddocodex`) in the functions environment. The database user needs read/write access to `savedGearsets`, which MongoDB creates on the first save. Give Netlify network access to the Atlas cluster.
+
+For local development, set `GOOGLE_APPLICATION_CREDENTIALS` to the path of the Firebase service account JSON before running `npm run dev`. For deployment, set `FIREBASE_SERVICE_ACCOUNT_JSON` to the JSON contents as a server-only Netlify environment variable scoped to Functions. Use credentials for `ddocodexweb` with permission to read and delete Firebase Authentication users. The new endpoints check token revocation, and account administration also checks the caller’s current admin claim.
+
+Generate a plan and choose **Save gearset**. Open **Saved builds** to view, rename, replace, or delete your own gearsets. Admins can open **Admin** to delete Firebase accounts or saved gearsets. Account deletion leaves the user's saved gearsets available for separate deletion from the admin page.
+
+### Live gearset updates
+
+Create an Ably app and add its API key as `ABLY_API_KEY` in the local `.env` and the deployed Netlify Functions environment. The key needs Publish and Subscribe capability for `gearsets:*`. Keep this key server-only. Restart local Netlify Dev or redeploy after setting it. The Saved Builds page and **Admin → Gearsets** show **Live updates: Live** after their WebSocket subscriptions attach.
+
+Open **Saved builds** in one tab, then generate and save a gearset in a second tab signed in as the same user. The first tab should show the new gearset without a refresh. Admins can repeat the demo with **Admin → Gearsets**. Successful app saves, replacements, renames, and deletes send a notification, and the receiving page reloads its list through the authorized API. Direct edits in MongoDB Compass do not trigger a notification. CRUD still works when the Ably key is absent or the notification service is unavailable.
+
 ## Scraper scripts (data pipeline)
 
 The item, augment, and set data in `itemlist_enriched/`, `augmentlist/`, and `setlist/` is pre-scraped from [ddowiki.com](https://ddowiki.com). You only need to re-run the scrapers if you want to refresh the data.

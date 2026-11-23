@@ -1,0 +1,106 @@
+.page {
+  width: min(100%, 960px);
+  margin-inline: auto;
+  padding: clamp(1rem, 5vw, 3rem);
+  display: grid;
+  align-content: start;
+  gap: 1rem;
+}
+
+.page a,
+.card a {
+  color: #beb2ff;
+}
+
+.page h1 {
+  letter-spacing: -0.035em;
+}
+
+.list {
+  display: grid;
+  gap: 0.65rem;
+  list-style: none;
+}
+
+.list:empty {
+  display: none;
+}
+
+.card {
+  min-width: 0;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  overflow-wrap: anywhere;
+}
+
+.card label {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-weight: 600;
+}
+
+.card :is(input, button),
+.page button {
+  min-height: 2.6rem;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid #53577a;
+  border-radius: var(--radius);
+  background: var(--bg);
+  color: var(--text);
+  font: inherit;
+}
+
+.card input {
+  width: min(100%, 21rem);
+}
+
+.page > button {
+  justify-self: start;
+}
+
+.card button[type='submit'],
+.page button[aria-pressed='true'] {
+  background: #beb2ff;
+  color: #17112c;
+}
+
+.page button.danger {
+  border-color: #a75561;
+  color: #ffb4bd;
+}
+
+.card button:disabled,
+.page button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.row,
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.row {
+  justify-content: space-between;
+}
+
+.meta {
+  color: #aeb4ca;
+  font-size: 0.875rem;
+}
+
+.summary {
+  margin-top: 1rem;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  font-family: var(--font-mono);
+}
+
+.error {
+  color: #ffb4bd;
+}

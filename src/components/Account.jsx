@@ -58,7 +58,11 @@ export default function Account() {
     <div className={styles.account}>
       {account && <span>{account.label}{account.role && ` · ${account.role}`}</span>}
       {ready && (account
-        ? <button type="button" onClick={handleSignOut} disabled={busy}>Sign out</button>
+        ? <>
+          <a href="/builds">Saved builds</a>
+          {account.role === 'Admin' && <a href="/admin">Admin</a>}
+          <button type="button" onClick={handleSignOut} disabled={busy}>Sign out</button>
+        </>
         : <><a href="/login">Sign in</a><a href="/signup">Create account</a></>)}
       {error && <span role="alert">{error}</span>}
     </div>

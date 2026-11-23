@@ -4,10 +4,12 @@ import GearResults from './components/GearResults.jsx';
 import AdvisorReport from './components/AdvisorReport.jsx';
 import DDOChatbot from './components/DDOChatbot.jsx';
 import Account from './components/Account.jsx';
+import SaveBuild from './components/SaveBuild.jsx';
 import styles from './App.module.css';
 
 const PLAN_GEAR_URL = '/.netlify/functions/planGear';
 const ADVISOR_URL = '/.netlify/functions/advisor';
+const replaceBuildId = new URLSearchParams(window.location.search).get('replaceBuild');
 
 export default function App() {
   const [planState, setPlanState] = useState('idle'); // idle | loading | done | error
@@ -91,6 +93,9 @@ export default function App() {
       </header>
 
       <main className={styles.main}>
+        {replaceBuildId && (
+          <p>Generate a new plan to replace your saved gearset. <a href="/builds">Cancel replacement</a></p>
+        )}
         <PlannerForm
           onSubmit={handlePlan}
           isLoading={planState === 'loading'}
@@ -111,6 +116,7 @@ export default function App() {
 
         {planState === 'done' && summary && (
           <>
+            <SaveBuild summary={summary} replaceId={replaceBuildId} />
             <GearResults
               summary={summary}
               onGetAdvice={handleGetAdvice}
