@@ -138,7 +138,7 @@ After the initial setup, every `git push` to the main branch triggers an automat
 
 ## Firebase sign-in and roles
 
-In Firebase Authentication, enable the Google sign-in provider. Under **Settings → Authorized domains**, add your deployed site hostname and `localhost` if you test locally. The web app uses Firebase project `ddocodexweb`.
+In Firebase Authentication, enable **Google** and **Email/Password** under **Sign-in method**. Under **Settings → Authorized domains**, add your deployed site hostname and `localhost` if you test locally. The web app uses Firebase project `ddocodexweb`. The account pages are available at `/login` and `/signup`.
 
 Fill in the `VITE_FIREBASE_*` entries from `.env.example` in your local `.env`, using the web app configuration from Firebase **Project settings → General → Your apps**. Add the same variables to your Netlify site's build environment before deploying. Vite includes these values in the browser bundle. Keep service-account credentials in a separate local file.
 

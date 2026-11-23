@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import { onIdTokenChanged, signInWithPopup, signOut } from 'firebase/auth';
-import { auth, googleProvider } from '../firebase.js';
+import { onIdTokenChanged, signOut } from 'firebase/auth';
+import { auth } from '../firebase.js';
 import styles from '../App.module.css';
 
 export default function Account() {
@@ -40,21 +40,13 @@ export default function Account() {
     };
   }, []);
 
-  async function handleAccountAction() {
+  async function handleSignOut() {
     setBusy(true);
     setError('');
     try {
-      if (auth.currentUser) {
-        await signOut(auth);
-      } else {
-        await signInWithPopup(auth, googleProvider);
-      }
-    } catch (err) {
-      if (err.code === 'auth/unauthorized-domain') {
-        setError('This site domain must be authorized in Firebase Authentication.');
-      } else if (err.code !== 'auth/popup-closed-by-user') {
-        setError('Could not complete the account action. Please try again.');
-      }
+      await signOut(auth);
+    } catch {
+      setError('Could not sign out. Please try again.');
     } finally {
       setBusy(false);
     }
@@ -65,9 +57,9 @@ export default function Account() {
   return (
     <div className={styles.account}>
       {account && <span>{account.label}{account.role && ` · ${account.role}`}</span>}
-      <button type="button" onClick={handleAccountAction} disabled={!ready || busy}>
-        {account ? 'Sign out' : 'Sign in with Google'}
-      </button>
+      {ready && (account
+        ? <button type="button" onClick={handleSignOut} disabled={busy}>Sign out</button>
+        : <><a href="/login">Sign in</a><a href="/signup">Create account</a></>)}
       {error && <span role="alert">{error}</span>}
     </div>
   );

@@ -17,3 +17,13 @@
   port = 8888
   targetPort = 5173
   framework = "#custom"
+
+[[redirects]]
+  from = "/login"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/signup"
+  to = "/index.html"
+  status = 200
