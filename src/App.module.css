@@ -109,3 +109,25 @@
   font-size: 12px;
   color: var(--text-dim);
 }
+.account {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+}
+
+.account button {
+  padding: 0.4rem 0.75rem;
+  border: 1px solid currentColor;
+  border-radius: 0.35rem;
+  color: inherit;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
+}
+
+.account button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}

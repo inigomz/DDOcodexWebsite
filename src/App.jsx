@@ -3,6 +3,7 @@ import PlannerForm from './components/PlannerForm.jsx';
 import GearResults from './components/GearResults.jsx';
 import AdvisorReport from './components/AdvisorReport.jsx';
 import DDOChatbot from './components/DDOChatbot.jsx';
+import Account from './components/Account.jsx';
 import styles from './App.module.css';
 
 const PLAN_GEAR_URL = '/.netlify/functions/planGear';
@@ -85,6 +86,7 @@ export default function App() {
           <p className={styles.tagline}>
             AI-powered gear optimization for Dungeons &amp; Dragons Online
           </p>
+          <Account />
         </div>
       </header>
 

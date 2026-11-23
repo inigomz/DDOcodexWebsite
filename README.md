@@ -136,6 +136,20 @@ After the initial setup, every `git push` to the main branch triggers an automat
 
 ---
 
+## Firebase sign-in and roles
+
+In Firebase Authentication, enable the Google sign-in provider. Under **Settings → Authorized domains**, add your deployed site hostname and `localhost` if you test locally. The web app uses Firebase project `ddocodexweb`.
+
+Fill in the `VITE_FIREBASE_*` entries from `.env.example` in your local `.env`, using the web app configuration from Firebase **Project settings → General → Your apps**. Add the same variables to your Netlify site's build environment before deploying. Vite includes these values in the browser bundle. Keep service-account credentials in a separate local file.
+
+Start the app with `npm run dev` to run React and the Netlify functions together.
+
+Signed-in accounts default to User. To manage Admin access, use the Firebase Admin SDK from a trusted local environment with credentials for the Firebase project. Sign in once, copy the UID from **Authentication → Users**, and set the `admin: true` custom claim on that account. Preserve any other custom claims when updating the account. Keep service account keys outside the repository.
+
+Sign out and in again to pick up a changed claim. Previously issued tokens can retain the old claim until they expire, since the API verifies tokens locally without a revocation lookup.
+
+Send a Firebase ID token as `Authorization: Bearer <token>` to `GET /.netlify/functions/adminAccess`. Expect `401` for a missing or invalid token, `403` for a signed-in user, or `204` for an admin. Use `requireAdmin(event)` from `netlify/lib/auth.js` before a protected catalog write and return its error response before touching Atlas. The planner, advisor, and chatbot retain their existing access rules.
+
 ## Scraper scripts (data pipeline)
 
 The item, augment, and set data in `itemlist_enriched/`, `augmentlist/`, and `setlist/` is pre-scraped from [ddowiki.com](https://ddowiki.com). You only need to re-run the scrapers if you want to refresh the data.

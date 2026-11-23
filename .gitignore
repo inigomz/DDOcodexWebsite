@@ -1,5 +1,8 @@
 .env
 
+# Firebase Admin SDK service-account keys
+*-firebase-adminsdk-*.json
+
 node_modules/
 
 .kiro/
