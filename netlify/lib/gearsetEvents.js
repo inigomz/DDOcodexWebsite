@@ -1,5 +1,5 @@
 const { createHash } = require('node:crypto');
-const { Rest } = require('ably');
+const { createHttpClient } = require('@ably/pubsub-server');
 
 const adminChannel = 'gearsets:admin';
 let client;
@@ -10,7 +10,7 @@ function ownerChannel(uid) {
 
 function getRealtimeRest() {
   if (!process.env.ABLY_API_KEY) return null;
-  client ||= new Rest({
+  client ||= createHttpClient({
     key: process.env.ABLY_API_KEY,
     httpOpenTimeout: 2000,
     httpRequestTimeout: 2500,

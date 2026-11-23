@@ -22,11 +22,11 @@ export default function useGearsetUpdates(user, scope, onChange) {
 
     async function connect() {
       try {
-        const [{ Realtime }, initial] = await Promise.all([import('ably'), authorize()]);
+        const [{ createClient }, initial] = await Promise.all([import('@ably/pubsub-device'), authorize()]);
         if (controller.signal.aborted) return;
 
         let firstToken = initial.tokenRequest;
-        client = new Realtime({
+        client = createClient({
           autoConnect: false,
           transports: ['web_socket'],
           authCallback: async (_params, callback) => {

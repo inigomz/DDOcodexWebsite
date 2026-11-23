@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/inigomz/DDOcodexWebsite#readme",
   "dependencies": {
-    "ably": "^2.30.0",
+    "@ably/pubsub-device": "^3.2.0",
+    "@ably/pubsub-server": "^3.2.0",
     "animejs": "^4.4.1",
     "axios": "^1.16.0",
     "cheerio": "^1.2.0",
